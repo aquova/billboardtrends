@@ -4,23 +4,77 @@ import json
 import re
 import csv
 import random
+import datetime
 from requests_oauthlib import OAuth1
 
 API_KEY = '9bf80dfdb834452add05f33d8e735316'
 API_SECRET = 'b0a55ce0e0f89e575432e7a0e2b4c6be'
 
-with open('us_billboard.psv') as f:
+def main():
+    clean_rows = []
+    load_count = 0
+    animation = "|/-\\"
 
-    psv = csv.reader(f, delimiter='|')
+    with open('us_billboard.psv') as f:
 
-    psv_list = list(psv)
-    while True:
-        row = random.choice(psv_list)
+        psv = csv.reader(f, delimiter='|')
 
-        track = row[4]
-        artist = row[5]
+        this_year = str(datetime.datetime.now().year)
+        psv_list = list(psv)
+        for i, row in enumerate(psv_list):
 
-        artist = re.sub(' featuring.*', '', artist)
+
+            # When you reach the previous year, write the current year's data to a csv
+            chart_date = row[10]
+            if chart_date[:4] != this_year:
+
+                with open(f'charts/{this_year}.csv', 'w+') as chart_file:
+                    writer = csv.DictWriter(chart_file, clean_rows[0].keys())
+                    writer.writeheader()
+                    for chart_row in clean_rows:
+                        writer.writerow(chart_row)
+
+                clean_rows = []
+                this_year = chart_date[:4]
+
+
+            artist = row[5]
+
+            clean_genre, clean_artist = get_genre(artist)
+
+            clean_rows.append({ 'this_week_position':row[0], 'last_week_position':row[1], 'track':row[4], 'artist':row[5].title(), 'clean_artist':clean_artist.title(), 'genre':clean_genre,
+                                'entry_date':re.sub('\-','',row[6]), 'entry_position':row[7], 'peak_position':row[8], 'total_weeks':row[9], 'chart_date':chart_date })
+
+            print(f'Building {this_year}.csv (on month {chart_date[4:6]}) { animation[load_count % len(animation)] } ', end='\r')
+            load_count += 1
+            
+            time.sleep(.2)
+
+
+
+
+
+def get_genre(artist):
+    artist = re.sub(' featuring.*', '', artist)
+
+    payload = {
+        'method': 'artist.getTopTags',
+        # 'track': track,
+        'artist': artist,
+        'format': 'json',
+        'api_key': API_KEY
+    }
+
+    r = requests.get('http://ws.audioscrobbler.com/2.0', params=payload)
+    top_tags = json.loads(r.content)
+
+
+    if ('error' in top_tags or len(top_tags['toptags']['tag']) < 5):
+
+        artist = re.sub(' \&.*', '', artist)
+        artist = re.sub(',.*', '', artist)
+        artist = re.sub('\'', '', artist)
+        artist = re.sub(' x .*', '', artist)
 
         payload = {
             'method': 'artist.getTopTags',
@@ -33,55 +87,46 @@ with open('us_billboard.psv') as f:
         r = requests.get('http://ws.audioscrobbler.com/2.0', params=payload)
         top_tags = json.loads(r.content)
 
-
-        if ('error' in top_tags or len(top_tags['toptags']['tag']) < 5):
-
-            artist = re.sub(' \&.*', '', artist)
-            artist = re.sub(',.*', '', artist)
-            artist = re.sub('\'', '', artist)
-            artist = re.sub(' x .*', '', artist)
-
-            payload = {
-                'method': 'artist.getTopTags',
-                # 'track': track,
-                'artist': artist,
-                'format': 'json',
-                'api_key': API_KEY
-            }
-
-            r = requests.get('http://ws.audioscrobbler.com/2.0', params=payload)
-            top_tags = json.loads(r.content)
-
-            if 'toptags' not in top_tags or len(top_tags['toptags']['tag']) == 0:
-                continue
+        if 'toptags' not in top_tags or len(top_tags['toptags']['tag']) == 0:
+            return 'pop'
 
 
-        print(artist)
-        genre = top_tags['toptags']['tag'][0]['name']
-        genre = genre.lower()
+    genre = top_tags['toptags']['tag'][0]['name']
+    genre = genre.lower()
 
-        if (genre in ['indie','grunge','new wave','blues','djent','alternative'] or 'rock' in genre or 'metal' in genre):
-            clean_genre = 'rock'
-        elif (genre in ['rap','hip hop','cloud rap','trap']):
-            clean_genre = 'hip-hop'
-        elif (genre in ['female vocalists', 'male vocalists','adult contemporary','oldies'] or 'pop' in genre or any(char.isdigit() for char in genre)):
-            clean_genre = 'pop'
-        elif (genre in ['trance','house','drum and bass','breakcore','dubstep'] or 'dance' in genre):
-            clean_genre = 'electronic'
-        elif (genre in ['country', 'folk', 'singer-songwriter']):
-            clean_genre = 'country / folk'
-        elif (genre in ['soul','rnb','motown','new jack swing'] or 'funk' in genre):
-            clean_genre = 'rnb / soul'
-        elif (genre in ['swing','jazz']):
-            clean_genre = 'jazz'
-        elif (genre in ['disco']):
-            clean_genre = 'disco'
-        elif (genre in ['reggae','dub']):
-            clean_genre = 'reggae'
-        
+    if (genre in ['indie','grunge','new wave','blues','djent','alternative'] or 'rock' in genre or 'metal' in genre):
+        clean_genre = 'rock'
+    elif (genre in ['rap','hip hop','cloud rap','trap']):
+        clean_genre = 'hip-hop'
+    elif (genre in ['female vocalists', 'male vocalists','adult contemporary','oldies'] or 'pop' in genre or any(char.isdigit() for char in genre)):
+        clean_genre = 'pop'
+    elif (genre in ['trance','house','drum and bass','breakcore','dubstep'] or 'dance' in genre):
+        clean_genre = 'electronic'
+    elif (genre in ['country', 'folk', 'singer-songwriter']):
+        clean_genre = 'country / folk'
+    elif (genre in ['soul','rnb','motown','new jack swing'] or 'funk' in genre):
+        clean_genre = 'rnb / soul'
+    elif (genre in ['swing','jazz']):
+        clean_genre = 'jazz'
+    elif (genre in ['disco']):
+        clean_genre = 'disco'
+    elif (genre in ['reggae','dub']):
+        clean_genre = 'reggae'
+    else:
+        clean_genre = 'pop'
 
-        print(clean_genre)
-        print()
+    return clean_genre, artist
 
 
-        time.sleep(.2)
+
+if __name__ == "__main__":
+    main()
+
+
+
+
+
+
+
+
+
