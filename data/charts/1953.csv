@@ -1,0 +1,1041 @@
+this_week_position,last_week_position,track,artist,clean_artist,genre,entry_date,entry_position,peak_position,total_weeks,chart_date
+1,2,Oh Mein Papa,Eddie Fisher,Eddie Fisher,jazz,19531204,19,1,19,19531225
+2,1,Rags To Riches,Tony Bennett,Tony Bennett,jazz,19530911,20,1,24,19531225
+3,3,That's Amore,Dean Martin,Dean Martin,jazz,19531106,14,2,22,19531225
+4,8,Santa Baby,Eartha Kitt,Eartha Kitt,jazz,19531127,16,4,5,19531225
+5,4,Ricochet,Teresa Brewer,Teresa Brewer,pop,19531016,13,4,18,19531225
+6,5,Changing Partners,Patti Page,Patti Page,jazz,19531120,13,4,19,19531225
+7,6,Stranger In Paradise,Tony Bennett,Tony Bennett,jazz,19531204,14,3,19,19531225
+8,7,Ebb Tide,Frank Chacksfield,Frank Chacksfield,pop,19530828,19,2,23,19531225
+9,9,Oh Mein Papa,Eddie Calvert,Eddie Calvert,jazz,19531204,9,9,8,19531225
+10,11,Stranger In Paradise,Four Aces,Four Aces,pop,19531127,19,5,16,19531225
+11,10,Eh Cumpari,Julius Larosa,Julius Larosa,pop,19530911,8,2,19,19531225
+12,14,Vaya Con Dios,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19530619,14,1,30,19531225
+13,12,You You You,Ames Brothers,Ames Brothers,pop,19530626,18,2,30,19531225
+14,15,Changing Partners,Kay Starr,Kay Starr,jazz,19531204,17,13,8,19531225
+15,13,Christmas Dragnet,Stan Freberg,Stan Freberg,pop,19531211,18,13,3,19531225
+16,16,Heart Of My Heart,Four Aces,Four Aces,pop,19531127,20,8,16,19531225
+17,NEW,Stranger In Paradise,Tony Martin,Tony Martin,rock,19531225,17,10,9,19531225
+18,18,You Alone,Perry Como,Perry Como,jazz,19531030,13,10,12,19531225
+19,NEW,Heart Of My Heart,Don Cornell / Johnny Desmond / Alan Dale,Don Cornell / Johnny Desmond / Alan Dale,pop,19531225,19,19,1,19531225
+20,19,Istanbul (Not Constantinople),Four Lads,Four Lads,pop,19531016,19,10,13,19531225
+1,1,Rags To Riches,Tony Bennett,Tony Bennett,jazz,19530911,20,1,24,19531218
+2,3,Oh Mein Papa,Eddie Fisher,Eddie Fisher,jazz,19531204,19,1,19,19531218
+3,2,That's Amore,Dean Martin,Dean Martin,jazz,19531106,14,2,22,19531218
+4,5,Ricochet,Teresa Brewer,Teresa Brewer,pop,19531016,13,4,18,19531218
+5,6,Changing Partners,Patti Page,Patti Page,jazz,19531120,13,4,19,19531218
+6,8,Stranger In Paradise,Tony Bennett,Tony Bennett,jazz,19531204,14,3,19,19531218
+7,4,Ebb Tide,Frank Chacksfield,Frank Chacksfield,pop,19530828,19,2,23,19531218
+8,7,Santa Baby,Eartha Kitt,Eartha Kitt,jazz,19531127,16,4,5,19531218
+9,10,Oh Mein Papa,Eddie Calvert,Eddie Calvert,jazz,19531204,9,9,8,19531218
+10,12,Eh Cumpari,Julius Larosa,Julius Larosa,pop,19530911,8,2,19,19531218
+11,13,Stranger In Paradise,Four Aces,Four Aces,pop,19531127,19,5,16,19531218
+12,9,You You You,Ames Brothers,Ames Brothers,pop,19530626,18,2,30,19531218
+13,18,Christmas Dragnet,Stan Freberg,Stan Freberg,pop,19531211,18,13,3,19531218
+14,11,Vaya Con Dios,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19530619,14,1,30,19531218
+15,15,Changing Partners,Kay Starr,Kay Starr,jazz,19531204,17,13,8,19531218
+16,19,Heart Of My Heart,Four Aces,Four Aces,pop,19531127,20,8,16,19531218
+17,14,Many Times,Eddie Fisher,Eddie Fisher,jazz,19531009,18,7,11,19531218
+18,16,You Alone,Perry Como,Perry Como,jazz,19531030,13,10,12,19531218
+19,17,Istanbul (Not Constantinople),Four Lads,Four Lads,pop,19531016,19,10,13,19531218
+20,20,I See The Moon,Mariners,Mariners,rock,19530925,18,14,13,19531218
+1,1,Rags To Riches,Tony Bennett,Tony Bennett,jazz,19530911,20,1,24,19531211
+2,3,That's Amore,Dean Martin,Dean Martin,jazz,19531106,14,2,22,19531211
+3,19,Oh Mein Papa,Eddie Fisher,Eddie Fisher,jazz,19531204,19,1,19,19531211
+4,2,Ebb Tide,Frank Chacksfield,Frank Chacksfield,pop,19530828,19,2,23,19531211
+5,4,Ricochet,Teresa Brewer,Teresa Brewer,pop,19531016,13,4,18,19531211
+6,8,Changing Partners,Patti Page,Patti Page,jazz,19531120,13,4,19,19531211
+7,10,Santa Baby,Eartha Kitt,Eartha Kitt,jazz,19531127,16,4,5,19531211
+8,14,Stranger In Paradise,Tony Bennett,Tony Bennett,jazz,19531204,14,3,19,19531211
+9,7,You You You,Ames Brothers,Ames Brothers,pop,19530626,18,2,30,19531211
+10,9,Oh Mein Papa,Eddie Calvert,Eddie Calvert,jazz,19531204,9,9,8,19531211
+11,5,Vaya Con Dios,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19530619,14,1,30,19531211
+12,6,Eh Cumpari,Julius Larosa,Julius Larosa,pop,19530911,8,2,19,19531211
+13,15,Stranger In Paradise,Four Aces,Four Aces,pop,19531127,19,5,16,19531211
+14,11,Many Times,Eddie Fisher,Eddie Fisher,jazz,19531009,18,7,11,19531211
+15,17,Changing Partners,Kay Starr,Kay Starr,jazz,19531204,17,13,8,19531211
+16,13,You Alone,Perry Como,Perry Como,jazz,19531030,13,10,12,19531211
+17,12,Istanbul (Not Constantinople),Four Lads,Four Lads,pop,19531016,19,10,13,19531211
+18,NEW,Christmas Dragnet,Stan Freberg,Stan Freberg,pop,19531211,18,13,3,19531211
+19,20,Heart Of My Heart,Four Aces,Four Aces,pop,19531127,20,8,16,19531211
+20,18,I See The Moon,Mariners,Mariners,rock,19530925,18,14,13,19531211
+1,1,Rags To Riches,Tony Bennett,Tony Bennett,jazz,19530911,20,1,24,19531204
+2,2,Ebb Tide,Frank Chacksfield,Frank Chacksfield,pop,19530828,19,2,23,19531204
+3,7,That's Amore,Dean Martin,Dean Martin,jazz,19531106,14,2,22,19531204
+4,6,Ricochet,Teresa Brewer,Teresa Brewer,pop,19531016,13,4,18,19531204
+5,3,Vaya Con Dios,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19530619,14,1,30,19531204
+6,5,Eh Cumpari,Julius Larosa,Julius Larosa,pop,19530911,8,2,19,19531204
+7,4,You You You,Ames Brothers,Ames Brothers,pop,19530626,18,2,30,19531204
+8,9,Changing Partners,Patti Page,Patti Page,jazz,19531120,13,4,19,19531204
+9,NEW,Oh Mein Papa,Eddie Calvert,Eddie Calvert,jazz,19531204,9,9,8,19531204
+10,16,Santa Baby,Eartha Kitt,Eartha Kitt,jazz,19531127,16,4,5,19531204
+11,8,Many Times,Eddie Fisher,Eddie Fisher,jazz,19531009,18,7,11,19531204
+12,10,Istanbul (Not Constantinople),Four Lads,Four Lads,pop,19531016,19,10,13,19531204
+13,13,You Alone,Perry Como,Perry Como,jazz,19531030,13,10,12,19531204
+14,NEW,Stranger In Paradise,Tony Bennett,Tony Bennett,jazz,19531204,14,3,19,19531204
+15,19,Stranger In Paradise,Four Aces,Four Aces,pop,19531127,19,5,16,19531204
+16,11,Oh!,Pee Wee Hunt,Pee Wee Hunt,jazz,19530717,18,3,21,19531204
+17,NEW,Changing Partners,Kay Starr,Kay Starr,jazz,19531204,17,13,8,19531204
+18,17,I See The Moon,Mariners,Mariners,rock,19530925,18,14,13,19531204
+19,NEW,Oh Mein Papa,Eddie Fisher,Eddie Fisher,jazz,19531204,19,1,19,19531204
+20,20,Heart Of My Heart,Four Aces,Four Aces,pop,19531127,20,8,16,19531204
+1,1,Rags To Riches,Tony Bennett,Tony Bennett,jazz,19530911,20,1,24,19531127
+2,2,Ebb Tide,Frank Chacksfield,Frank Chacksfield,pop,19530828,19,2,23,19531127
+3,3,Vaya Con Dios,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19530619,14,1,30,19531127
+4,5,You You You,Ames Brothers,Ames Brothers,pop,19530626,18,2,30,19531127
+5,4,Eh Cumpari,Julius Larosa,Julius Larosa,pop,19530911,8,2,19,19531127
+6,6,Ricochet,Teresa Brewer,Teresa Brewer,pop,19531016,13,4,18,19531127
+7,9,That's Amore,Dean Martin,Dean Martin,jazz,19531106,14,2,22,19531127
+8,7,Many Times,Eddie Fisher,Eddie Fisher,jazz,19531009,18,7,11,19531127
+9,13,Changing Partners,Patti Page,Patti Page,jazz,19531120,13,4,19,19531127
+10,11,Istanbul (Not Constantinople),Four Lads,Four Lads,pop,19531016,19,10,13,19531127
+11,8,Oh!,Pee Wee Hunt,Pee Wee Hunt,jazz,19530717,18,3,21,19531127
+12,14,To Be Alone,Hilltoppers,Hilltoppers,pop,19531023,20,12,6,19531127
+13,12,You Alone,Perry Como,Perry Como,jazz,19531030,13,10,12,19531127
+14,10,St. George And The Dragonet,Stan Freberg,Stan Freberg,pop,19530925,8,1,10,19531127
+15,17,Love Walked In,Hilltoppers,Hilltoppers,pop,19531106,11,11,4,19531127
+16,NEW,Santa Baby,Eartha Kitt,Eartha Kitt,jazz,19531127,16,4,5,19531127
+17,16,I See The Moon,Mariners,Mariners,rock,19530925,18,14,13,19531127
+18,NEW,Heart Of My Heart,Don Cornell / Johnny Desmond / Alan Dale,Don Cornell / Johnny Desmond / Alan Dale,pop,19531127,18,18,1,19531127
+19,NEW,Stranger In Paradise,Four Aces,Four Aces,pop,19531127,19,5,16,19531127
+20,NEW,Heart Of My Heart,Four Aces,Four Aces,pop,19531127,20,8,16,19531127
+1,1,Rags To Riches,Tony Bennett,Tony Bennett,jazz,19530911,20,1,24,19531120
+2,2,Ebb Tide,Frank Chacksfield,Frank Chacksfield,pop,19530828,19,2,23,19531120
+3,3,Vaya Con Dios,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19530619,14,1,30,19531120
+4,4,Eh Cumpari,Julius Larosa,Julius Larosa,pop,19530911,8,2,19,19531120
+5,5,You You You,Ames Brothers,Ames Brothers,pop,19530626,18,2,30,19531120
+6,7,Ricochet,Teresa Brewer,Teresa Brewer,pop,19531016,13,4,18,19531120
+7,8,Many Times,Eddie Fisher,Eddie Fisher,jazz,19531009,18,7,11,19531120
+8,9,Oh!,Pee Wee Hunt,Pee Wee Hunt,jazz,19530717,18,3,21,19531120
+9,10,That's Amore,Dean Martin,Dean Martin,jazz,19531106,14,2,22,19531120
+10,6,St. George And The Dragonet,Stan Freberg,Stan Freberg,pop,19530925,8,1,10,19531120
+11,12,Istanbul (Not Constantinople),Four Lads,Four Lads,pop,19531016,19,10,13,19531120
+12,11,You Alone,Perry Como,Perry Como,jazz,19531030,13,10,12,19531120
+13,NEW,Changing Partners,Patti Page,Patti Page,jazz,19531120,13,4,19,19531120
+14,13,To Be Alone,Hilltoppers,Hilltoppers,pop,19531023,20,12,6,19531120
+15,15,In The Mission Of St. Augustine,Sammy Kaye,Sammy Kaye,jazz,19531009,20,15,7,19531120
+16,18,I See The Moon,Mariners,Mariners,rock,19530925,18,14,13,19531120
+17,16,Love Walked In,Hilltoppers,Hilltoppers,pop,19531106,11,11,4,19531120
+18,NEW,The Velvet Glove,Henri Rene / Hugo Winterhalter,Henri Rene / Hugo Winterhalter,pop,19531120,18,18,1,19531120
+19,NEW,Rachmaninoff: The Eighteenth Variation,William Kapell,William Kapell,pop,19531120,19,19,1,19531120
+20,14,The Story Of Three Loves,Jerry Murad,Jerry Murad,pop,19531113,14,14,2,19531120
+1,4,Rags To Riches,Tony Bennett,Tony Bennett,jazz,19530911,20,1,24,19531113
+2,3,Ebb Tide,Frank Chacksfield,Frank Chacksfield,pop,19530828,19,2,23,19531113
+3,1,Vaya Con Dios,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19530619,14,1,30,19531113
+4,2,Eh Cumpari,Julius Larosa,Julius Larosa,pop,19530911,8,2,19,19531113
+5,5,You You You,Ames Brothers,Ames Brothers,pop,19530626,18,2,30,19531113
+6,6,St. George And The Dragonet,Stan Freberg,Stan Freberg,pop,19530925,8,1,10,19531113
+7,8,Ricochet,Teresa Brewer,Teresa Brewer,pop,19531016,13,4,18,19531113
+8,9,Many Times,Eddie Fisher,Eddie Fisher,jazz,19531009,18,7,11,19531113
+9,7,Oh!,Pee Wee Hunt,Pee Wee Hunt,jazz,19530717,18,3,21,19531113
+10,14,That's Amore,Dean Martin,Dean Martin,jazz,19531106,14,2,22,19531113
+11,10,You Alone,Perry Como,Perry Como,jazz,19531030,13,10,12,19531113
+12,13,Istanbul (Not Constantinople),Four Lads,Four Lads,pop,19531016,19,10,13,19531113
+13,12,To Be Alone,Hilltoppers,Hilltoppers,pop,19531023,20,12,6,19531113
+14,NEW,The Story Of Three Loves,Jerry Murad,Jerry Murad,pop,19531113,14,14,2,19531113
+15,16,In The Mission Of St. Augustine,Sammy Kaye,Sammy Kaye,jazz,19531009,20,15,7,19531113
+16,11,Love Walked In,Hilltoppers,Hilltoppers,pop,19531106,11,11,4,19531113
+17,18,Dragnet,Ray Anthony,Ray Anthony,jazz,19530821,11,3,13,19531113
+18,17,I See The Moon,Mariners,Mariners,rock,19530925,18,14,13,19531113
+19,NEW,Pa-Paya Mama,Perry Como,Perry Como,jazz,19531113,19,19,1,19531113
+20,NEW,Marie,Four Tunes,Four Tunes,pop,19531113,20,20,1,19531113
+1,1,Vaya Con Dios,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19530619,14,1,30,19531106
+2,6,Eh Cumpari,Julius Larosa,Julius Larosa,pop,19530911,8,2,19,19531106
+3,4,Ebb Tide,Frank Chacksfield,Frank Chacksfield,pop,19530828,19,2,23,19531106
+4,5,Rags To Riches,Tony Bennett,Tony Bennett,jazz,19530911,20,1,24,19531106
+5,3,You You You,Ames Brothers,Ames Brothers,pop,19530626,18,2,30,19531106
+6,2,St. George And The Dragonet,Stan Freberg,Stan Freberg,pop,19530925,8,1,10,19531106
+7,7,Oh!,Pee Wee Hunt,Pee Wee Hunt,jazz,19530717,18,3,21,19531106
+8,9,Ricochet,Teresa Brewer,Teresa Brewer,pop,19531016,13,4,18,19531106
+9,8,Many Times,Eddie Fisher,Eddie Fisher,jazz,19531009,18,7,11,19531106
+10,13,You Alone,Perry Como,Perry Como,jazz,19531030,13,10,12,19531106
+11,NEW,Love Walked In,Hilltoppers,Hilltoppers,pop,19531106,11,11,4,19531106
+12,16,To Be Alone,Hilltoppers,Hilltoppers,pop,19531023,20,12,6,19531106
+13,11,Istanbul (Not Constantinople),Four Lads,Four Lads,pop,19531016,19,10,13,19531106
+14,NEW,That's Amore,Dean Martin,Dean Martin,jazz,19531106,14,2,22,19531106
+15,10,Crying In The Chapel,June Valli,June Valli,pop,19530724,18,6,16,19531106
+16,19,In The Mission Of St. Augustine,Sammy Kaye,Sammy Kaye,jazz,19531009,20,15,7,19531106
+17,14,I See The Moon,Mariners,Mariners,rock,19530925,18,14,13,19531106
+18,15,Dragnet,Ray Anthony,Ray Anthony,jazz,19530821,11,3,13,19531106
+19,12,No Other Love,Perry Como,Perry Como,jazz,19530619,15,2,21,19531106
+20,NEW,Rachmaninoff: The Eighteenth Variation,William Kapell,William Kapell,pop,19531106,20,20,1,19531106
+1,2,Vaya Con Dios,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19530619,14,1,30,19531030
+2,1,St. George And The Dragonet,Stan Freberg,Stan Freberg,pop,19530925,8,1,10,19531030
+3,3,You You You,Ames Brothers,Ames Brothers,pop,19530626,18,2,30,19531030
+4,4,Ebb Tide,Frank Chacksfield,Frank Chacksfield,pop,19530828,19,2,23,19531030
+5,6,Rags To Riches,Tony Bennett,Tony Bennett,jazz,19530911,20,1,24,19531030
+6,5,Eh Cumpari,Julius Larosa,Julius Larosa,pop,19530911,8,2,19,19531030
+7,7,Oh!,Pee Wee Hunt,Pee Wee Hunt,jazz,19530717,18,3,21,19531030
+8,10,Many Times,Eddie Fisher,Eddie Fisher,jazz,19531009,18,7,11,19531030
+9,8,Ricochet,Teresa Brewer,Teresa Brewer,pop,19531016,13,4,18,19531030
+10,11,Crying In The Chapel,June Valli,June Valli,pop,19530724,18,6,16,19531030
+11,13,Istanbul (Not Constantinople),Four Lads,Four Lads,pop,19531016,19,10,13,19531030
+12,12,No Other Love,Perry Como,Perry Como,jazz,19530619,15,2,21,19531030
+13,NEW,You Alone,Perry Como,Perry Como,jazz,19531030,13,10,12,19531030
+14,15,I See The Moon,Mariners,Mariners,rock,19530925,18,14,13,19531030
+15,9,Dragnet,Ray Anthony,Ray Anthony,jazz,19530821,11,3,13,19531030
+16,20,To Be Alone,Hilltoppers,Hilltoppers,pop,19531023,20,12,6,19531030
+17,14,The Story Of Three Loves,Jerry Murad,Jerry Murad,pop,19531016,17,14,3,19531030
+18,19,The Velvet Glove,Henri Rene / Hugo Winterhalter,Henri Rene / Hugo Winterhalter,pop,19531023,19,18,2,19531030
+19,17,In The Mission Of St. Augustine,Sammy Kaye,Sammy Kaye,jazz,19531009,20,15,7,19531030
+20,NEW,"My Love, My Love",Joni James,Joni James,jazz,19531030,20,20,1,19531030
+1,1,St. George And The Dragonet,Stan Freberg,Stan Freberg,pop,19530925,8,1,10,19531023
+2,2,Vaya Con Dios,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19530619,14,1,30,19531023
+3,3,You You You,Ames Brothers,Ames Brothers,pop,19530626,18,2,30,19531023
+4,4,Ebb Tide,Frank Chacksfield,Frank Chacksfield,pop,19530828,19,2,23,19531023
+5,5,Eh Cumpari,Julius Larosa,Julius Larosa,pop,19530911,8,2,19,19531023
+6,7,Rags To Riches,Tony Bennett,Tony Bennett,jazz,19530911,20,1,24,19531023
+7,6,Oh!,Pee Wee Hunt,Pee Wee Hunt,jazz,19530717,18,3,21,19531023
+8,13,Ricochet,Teresa Brewer,Teresa Brewer,pop,19531016,13,4,18,19531023
+9,8,Dragnet,Ray Anthony,Ray Anthony,jazz,19530821,11,3,13,19531023
+10,10,Many Times,Eddie Fisher,Eddie Fisher,jazz,19531009,18,7,11,19531023
+11,9,Crying In The Chapel,June Valli,June Valli,pop,19530724,18,6,16,19531023
+12,11,No Other Love,Perry Como,Perry Como,jazz,19530619,15,2,21,19531023
+13,19,Istanbul (Not Constantinople),Four Lads,Four Lads,pop,19531016,19,10,13,19531023
+14,17,The Story Of Three Loves,Jerry Murad,Jerry Murad,pop,19531016,17,14,3,19531023
+15,18,I See The Moon,Mariners,Mariners,rock,19530925,18,14,13,19531023
+16,12,Little Blue Riding Hood,Stan Freberg,Stan Freberg,pop,19531002,12,12,4,19531023
+17,20,In The Mission Of St. Augustine,Sammy Kaye,Sammy Kaye,jazz,19531009,20,15,7,19531023
+18,16,Hey Joe,Frankie Laine,Frankie Laine,country / folk,19530828,16,11,9,19531023
+19,NEW,The Velvet Glove,Henri Rene / Hugo Winterhalter,Henri Rene / Hugo Winterhalter,pop,19531023,19,18,2,19531023
+20,NEW,To Be Alone,Hilltoppers,Hilltoppers,pop,19531023,20,12,6,19531023
+1,1,St. George And The Dragonet,Stan Freberg,Stan Freberg,pop,19530925,8,1,10,19531016
+2,2,Vaya Con Dios,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19530619,14,1,30,19531016
+3,3,You You You,Ames Brothers,Ames Brothers,pop,19530626,18,2,30,19531016
+4,5,Ebb Tide,Frank Chacksfield,Frank Chacksfield,pop,19530828,19,2,23,19531016
+5,6,Eh Cumpari,Julius Larosa,Julius Larosa,pop,19530911,8,2,19,19531016
+6,4,Oh!,Pee Wee Hunt,Pee Wee Hunt,jazz,19530717,18,3,21,19531016
+7,9,Rags To Riches,Tony Bennett,Tony Bennett,jazz,19530911,20,1,24,19531016
+8,7,Dragnet,Ray Anthony,Ray Anthony,jazz,19530821,11,3,13,19531016
+9,10,Crying In The Chapel,June Valli,June Valli,pop,19530724,18,6,16,19531016
+10,18,Many Times,Eddie Fisher,Eddie Fisher,jazz,19531009,18,7,11,19531016
+11,8,No Other Love,Perry Como,Perry Como,jazz,19530619,15,2,21,19531016
+12,12,Little Blue Riding Hood,Stan Freberg,Stan Freberg,pop,19531002,12,12,4,19531016
+13,NEW,Ricochet,Teresa Brewer,Teresa Brewer,pop,19531016,13,4,18,19531016
+14,11,P.S. I Love You,Hilltoppers,Hilltoppers,pop,19530626,12,4,17,19531016
+15,14,My Love My Love,Joni James,Joni James,jazz,19530821,15,10,9,19531016
+16,13,Hey Joe,Frankie Laine,Frankie Laine,country / folk,19530828,16,11,9,19531016
+17,NEW,The Story Of Three Loves,Jerry Murad,Jerry Murad,pop,19531016,17,14,3,19531016
+18,17,I See The Moon,Mariners,Mariners,rock,19530925,18,14,13,19531016
+19,NEW,Istanbul (Not Constantinople),Four Lads,Four Lads,pop,19531016,19,10,13,19531016
+20,20,In The Mission Of St. Augustine,Sammy Kaye,Sammy Kaye,jazz,19531009,20,15,7,19531016
+1,1,St. George And The Dragonet,Stan Freberg,Stan Freberg,pop,19530925,8,1,10,19531009
+2,2,Vaya Con Dios,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19530619,14,1,30,19531009
+3,3,You You You,Ames Brothers,Ames Brothers,pop,19530626,18,2,30,19531009
+4,4,Oh!,Pee Wee Hunt,Pee Wee Hunt,jazz,19530717,18,3,21,19531009
+5,5,Ebb Tide,Frank Chacksfield,Frank Chacksfield,pop,19530828,19,2,23,19531009
+6,7,Eh Cumpari,Julius Larosa,Julius Larosa,pop,19530911,8,2,19,19531009
+7,6,Dragnet,Ray Anthony,Ray Anthony,jazz,19530821,11,3,13,19531009
+8,9,No Other Love,Perry Como,Perry Como,jazz,19530619,15,2,21,19531009
+9,11,Rags To Riches,Tony Bennett,Tony Bennett,jazz,19530911,20,1,24,19531009
+10,8,Crying In The Chapel,June Valli,June Valli,pop,19530724,18,6,16,19531009
+11,10,P.S. I Love You,Hilltoppers,Hilltoppers,pop,19530626,12,4,17,19531009
+12,12,Little Blue Riding Hood,Stan Freberg,Stan Freberg,pop,19531002,12,12,4,19531009
+13,17,Hey Joe,Frankie Laine,Frankie Laine,country / folk,19530828,16,11,9,19531009
+14,15,My Love My Love,Joni James,Joni James,jazz,19530821,15,10,9,19531009
+15,20,Crying In The Chapel,Rex Allen,Rex Allen,country / folk,19530731,19,10,11,19531009
+16,13,Crying In The Chapel,The Orioles,The Orioles,pop,19531002,13,13,2,19531009
+17,18,I See The Moon,Mariners,Mariners,rock,19530925,18,14,13,19531009
+18,NEW,Many Times,Eddie Fisher,Eddie Fisher,jazz,19531009,18,7,11,19531009
+19,NEW,With These Hands,Eddie Fisher,Eddie Fisher,jazz,19531009,19,19,1,19531009
+20,NEW,In The Mission Of St. Augustine,Sammy Kaye,Sammy Kaye,jazz,19531009,20,15,7,19531009
+1,8,St. George And The Dragonet,Stan Freberg,Stan Freberg,pop,19530925,8,1,10,19531002
+2,1,Vaya Con Dios,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19530619,14,1,30,19531002
+3,2,You You You,Ames Brothers,Ames Brothers,pop,19530626,18,2,30,19531002
+4,4,Oh!,Pee Wee Hunt,Pee Wee Hunt,jazz,19530717,18,3,21,19531002
+5,5,Ebb Tide,Frank Chacksfield,Frank Chacksfield,pop,19530828,19,2,23,19531002
+6,3,Dragnet,Ray Anthony,Ray Anthony,jazz,19530821,11,3,13,19531002
+7,6,Eh Cumpari,Julius Larosa,Julius Larosa,pop,19530911,8,2,19,19531002
+8,9,Crying In The Chapel,June Valli,June Valli,pop,19530724,18,6,16,19531002
+9,7,No Other Love,Perry Como,Perry Como,jazz,19530619,15,2,21,19531002
+10,10,P.S. I Love You,Hilltoppers,Hilltoppers,pop,19530626,12,4,17,19531002
+11,11,Rags To Riches,Tony Bennett,Tony Bennett,jazz,19530911,20,1,24,19531002
+12,NEW,Little Blue Riding Hood,Stan Freberg,Stan Freberg,pop,19531002,12,12,4,19531002
+13,NEW,Crying In The Chapel,The Orioles,The Orioles,pop,19531002,13,13,2,19531002
+14,NEW,Ricochet,Teresa Brewer,Teresa Brewer,pop,19531002,14,14,1,19531002
+15,15,My Love My Love,Joni James,Joni James,jazz,19530821,15,10,9,19531002
+16,19,A Dear John Letter,Jean Shepard / Ferlin Husky,Jean Shepard / Ferlin Husky,pop,19530828,18,16,6,19531002
+17,12,Hey Joe,Frankie Laine,Frankie Laine,country / folk,19530828,16,11,9,19531002
+18,18,I See The Moon,Mariners,Mariners,rock,19530925,18,14,13,19531002
+19,20,The Story Of Three Loves,Jerry Murad,Jerry Murad,pop,19530925,20,19,2,19531002
+20,16,Crying In The Chapel,Rex Allen,Rex Allen,country / folk,19530731,19,10,11,19531002
+1,1,Vaya Con Dios,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19530619,14,1,30,19530925
+2,2,You You You,Ames Brothers,Ames Brothers,pop,19530626,18,2,30,19530925
+3,4,Dragnet,Ray Anthony,Ray Anthony,jazz,19530821,11,3,13,19530925
+4,3,Oh!,Pee Wee Hunt,Pee Wee Hunt,jazz,19530717,18,3,21,19530925
+5,7,Ebb Tide,Frank Chacksfield,Frank Chacksfield,pop,19530828,19,2,23,19530925
+6,9,Eh Cumpari,Julius Larosa,Julius Larosa,pop,19530911,8,2,19,19530925
+7,5,No Other Love,Perry Como,Perry Como,jazz,19530619,15,2,21,19530925
+8,NEW,St. George And The Dragonet,Stan Freberg,Stan Freberg,pop,19530925,8,1,10,19530925
+9,6,Crying In The Chapel,June Valli,June Valli,pop,19530724,18,6,16,19530925
+10,8,P.S. I Love You,Hilltoppers,Hilltoppers,pop,19530626,12,4,17,19530925
+11,13,Rags To Riches,Tony Bennett,Tony Bennett,jazz,19530911,20,1,24,19530925
+12,12,Hey Joe,Frankie Laine,Frankie Laine,country / folk,19530828,16,11,9,19530925
+13,11,C'est Si Bon,Eartha Kitt,Eartha Kitt,jazz,19530717,16,8,11,19530925
+14,14,With These Hands,Eddie Fisher,Eddie Fisher,jazz,19530710,16,8,12,19530925
+15,10,My Love My Love,Joni James,Joni James,jazz,19530821,15,10,9,19530925
+16,17,Crying In The Chapel,Rex Allen,Rex Allen,country / folk,19530731,19,10,11,19530925
+17,16,I'm Walking Behind You,Eddie Fisher,Eddie Fisher,jazz,19530508,18,1,21,19530925
+18,NEW,I See The Moon,Mariners,Mariners,rock,19530925,18,14,13,19530925
+19,20,A Dear John Letter,Jean Shepard / Ferlin Husky,Jean Shepard / Ferlin Husky,pop,19530828,18,16,6,19530925
+20,NEW,The Story Of Three Loves,Jerry Murad,Jerry Murad,pop,19530925,20,19,2,19530925
+1,1,Vaya Con Dios,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19530619,14,1,30,19530918
+2,2,You You You,Ames Brothers,Ames Brothers,pop,19530626,18,2,30,19530918
+3,3,Oh!,Pee Wee Hunt,Pee Wee Hunt,jazz,19530717,18,3,21,19530918
+4,4,Dragnet,Ray Anthony,Ray Anthony,jazz,19530821,11,3,13,19530918
+5,5,No Other Love,Perry Como,Perry Como,jazz,19530619,15,2,21,19530918
+6,7,Crying In The Chapel,June Valli,June Valli,pop,19530724,18,6,16,19530918
+7,9,Ebb Tide,Frank Chacksfield,Frank Chacksfield,pop,19530828,19,2,23,19530918
+8,6,P.S. I Love You,Hilltoppers,Hilltoppers,pop,19530626,12,4,17,19530918
+9,8,Eh Cumpari,Julius Larosa,Julius Larosa,pop,19530911,8,2,19,19530918
+10,13,My Love My Love,Joni James,Joni James,jazz,19530821,15,10,9,19530918
+11,12,C'est Si Bon,Eartha Kitt,Eartha Kitt,jazz,19530717,16,8,11,19530918
+12,11,Hey Joe,Frankie Laine,Frankie Laine,country / folk,19530828,16,11,9,19530918
+13,20,Rags To Riches,Tony Bennett,Tony Bennett,jazz,19530911,20,1,24,19530918
+14,15,With These Hands,Eddie Fisher,Eddie Fisher,jazz,19530710,16,8,12,19530918
+15,14,Crying In The Chapel,Orioles,Orioles,pop,19530814,20,11,6,19530918
+16,10,I'm Walking Behind You,Eddie Fisher,Eddie Fisher,jazz,19530508,18,1,21,19530918
+17,16,Crying In The Chapel,Rex Allen,Rex Allen,country / folk,19530731,19,10,11,19530918
+18,17,Gambler's Guitar,Rusty Draper,Rusty Draper,country / folk,19530703,18,10,12,19530918
+19,18,Crying In The Chapel,Darrell Glenn,Darrell Glenn,pop,19530717,19,9,10,19530918
+20,19,A Dear John Letter,Jean Shepard / Ferlin Husky,Jean Shepard / Ferlin Husky,pop,19530828,18,16,6,19530918
+1,1,Vaya Con Dios,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19530619,14,1,30,19530911
+2,2,You You You,Ames Brothers,Ames Brothers,pop,19530626,18,2,30,19530911
+3,4,Oh!,Pee Wee Hunt,Pee Wee Hunt,jazz,19530717,18,3,21,19530911
+4,5,Dragnet,Ray Anthony,Ray Anthony,jazz,19530821,11,3,13,19530911
+5,3,No Other Love,Perry Como,Perry Como,jazz,19530619,15,2,21,19530911
+6,6,P.S. I Love You,Hilltoppers,Hilltoppers,pop,19530626,12,4,17,19530911
+7,7,Crying In The Chapel,June Valli,June Valli,pop,19530724,18,6,16,19530911
+8,NEW,Eh Cumpari,Julius Larosa,Julius Larosa,pop,19530911,8,2,19,19530911
+9,10,Ebb Tide,Frank Chacksfield,Frank Chacksfield,pop,19530828,19,2,23,19530911
+10,8,I'm Walking Behind You,Eddie Fisher,Eddie Fisher,jazz,19530508,18,1,21,19530911
+11,15,Hey Joe,Frankie Laine,Frankie Laine,country / folk,19530828,16,11,9,19530911
+12,9,C'est Si Bon,Eartha Kitt,Eartha Kitt,jazz,19530717,16,8,11,19530911
+13,16,My Love My Love,Joni James,Joni James,jazz,19530821,15,10,9,19530911
+14,11,Crying In The Chapel,Orioles,Orioles,pop,19530814,20,11,6,19530911
+15,12,With These Hands,Eddie Fisher,Eddie Fisher,jazz,19530710,16,8,12,19530911
+16,14,Crying In The Chapel,Rex Allen,Rex Allen,country / folk,19530731,19,10,11,19530911
+17,13,Gambler's Guitar,Rusty Draper,Rusty Draper,country / folk,19530703,18,10,12,19530911
+18,18,Crying In The Chapel,Darrell Glenn,Darrell Glenn,pop,19530717,19,9,10,19530911
+19,20,A Dear John Letter,Jean Shepard / Ferlin Husky,Jean Shepard / Ferlin Husky,pop,19530828,18,16,6,19530911
+20,NEW,Rags To Riches,Tony Bennett,Tony Bennett,jazz,19530911,20,1,24,19530911
+1,1,Vaya Con Dios,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19530619,14,1,30,19530904
+2,2,You You You,Ames Brothers,Ames Brothers,pop,19530626,18,2,30,19530904
+3,3,No Other Love,Perry Como,Perry Como,jazz,19530619,15,2,21,19530904
+4,6,Oh!,Pee Wee Hunt,Pee Wee Hunt,jazz,19530717,18,3,21,19530904
+5,7,Dragnet,Ray Anthony,Ray Anthony,jazz,19530821,11,3,13,19530904
+6,4,P.S. I Love You,Hilltoppers,Hilltoppers,pop,19530626,12,4,17,19530904
+7,8,Crying In The Chapel,June Valli,June Valli,pop,19530724,18,6,16,19530904
+8,5,I'm Walking Behind You,Eddie Fisher,Eddie Fisher,jazz,19530508,18,1,21,19530904
+9,9,C'est Si Bon,Eartha Kitt,Eartha Kitt,jazz,19530717,16,8,11,19530904
+10,19,Ebb Tide,Frank Chacksfield,Frank Chacksfield,pop,19530828,19,2,23,19530904
+11,14,Crying In The Chapel,Orioles,Orioles,pop,19530814,20,11,6,19530904
+12,11,With These Hands,Eddie Fisher,Eddie Fisher,jazz,19530710,16,8,12,19530904
+13,12,Gambler's Guitar,Rusty Draper,Rusty Draper,country / folk,19530703,18,10,12,19530904
+14,10,Crying In The Chapel,Rex Allen,Rex Allen,country / folk,19530731,19,10,11,19530904
+15,16,Hey Joe,Frankie Laine,Frankie Laine,country / folk,19530828,16,11,9,19530904
+16,15,My Love My Love,Joni James,Joni James,jazz,19530821,15,10,9,19530904
+17,NEW,Eh Cumpari,Julius Larosa,Julius Larosa,pop,19530904,17,17,1,19530904
+18,13,Crying In The Chapel,Darrell Glenn,Darrell Glenn,pop,19530717,19,9,10,19530904
+19,17,Song From Moulin Rouge,Percy Faith / Felicia Sanders,Percy Faith / Felicia Sanders,pop,19530405,17,1,23,19530904
+20,18,A Dear John Letter,Jean Shepard / Ferlin Husky,Jean Shepard / Ferlin Husky,pop,19530828,18,16,6,19530904
+1,1,Vaya Con Dios,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19530619,14,1,30,19530828
+2,2,You You You,Ames Brothers,Ames Brothers,pop,19530626,18,2,30,19530828
+3,3,No Other Love,Perry Como,Perry Como,jazz,19530619,15,2,21,19530828
+4,5,P.S. I Love You,Hilltoppers,Hilltoppers,pop,19530626,12,4,17,19530828
+5,4,I'm Walking Behind You,Eddie Fisher,Eddie Fisher,jazz,19530508,18,1,21,19530828
+6,6,Oh!,Pee Wee Hunt,Pee Wee Hunt,jazz,19530717,18,3,21,19530828
+7,11,Dragnet,Ray Anthony,Ray Anthony,jazz,19530821,11,3,13,19530828
+8,7,Crying In The Chapel,June Valli,June Valli,pop,19530724,18,6,16,19530828
+9,10,C'est Si Bon,Eartha Kitt,Eartha Kitt,jazz,19530717,16,8,11,19530828
+10,13,Crying In The Chapel,Rex Allen,Rex Allen,country / folk,19530731,19,10,11,19530828
+11,8,With These Hands,Eddie Fisher,Eddie Fisher,jazz,19530710,16,8,12,19530828
+12,14,Gambler's Guitar,Rusty Draper,Rusty Draper,country / folk,19530703,18,10,12,19530828
+13,9,Crying In The Chapel,Darrell Glenn,Darrell Glenn,pop,19530717,19,9,10,19530828
+14,16,Crying In The Chapel,Orioles,Orioles,pop,19530814,20,11,6,19530828
+15,15,My Love My Love,Joni James,Joni James,jazz,19530821,15,10,9,19530828
+16,NEW,Hey Joe,Frankie Laine,Frankie Laine,country / folk,19530828,16,11,9,19530828
+17,12,Song From Moulin Rouge,Percy Faith / Felicia Sanders,Percy Faith / Felicia Sanders,pop,19530405,17,1,23,19530828
+18,NEW,A Dear John Letter,Jean Shepard / Ferlin Husky,Jean Shepard / Ferlin Husky,pop,19530828,18,16,6,19530828
+19,NEW,Ebb Tide,Frank Chacksfield,Frank Chacksfield,pop,19530828,19,2,23,19530828
+20,NEW,Allez-vous-en,Kay Starr,Kay Starr,jazz,19530828,20,20,1,19530828
+1,1,Vaya Con Dios,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19530619,14,1,30,19530821
+2,4,You You You,Ames Brothers,Ames Brothers,pop,19530626,18,2,30,19530821
+3,2,No Other Love,Perry Como,Perry Como,jazz,19530619,15,2,21,19530821
+4,3,I'm Walking Behind You,Eddie Fisher,Eddie Fisher,jazz,19530508,18,1,21,19530821
+5,5,P.S. I Love You,Hilltoppers,Hilltoppers,pop,19530626,12,4,17,19530821
+6,6,Oh!,Pee Wee Hunt,Pee Wee Hunt,jazz,19530717,18,3,21,19530821
+7,9,Crying In The Chapel,June Valli,June Valli,pop,19530724,18,6,16,19530821
+8,11,With These Hands,Eddie Fisher,Eddie Fisher,jazz,19530710,16,8,12,19530821
+9,12,Crying In The Chapel,Darrell Glenn,Darrell Glenn,pop,19530717,19,9,10,19530821
+10,8,C'est Si Bon,Eartha Kitt,Eartha Kitt,jazz,19530717,16,8,11,19530821
+11,NEW,Dragnet,Ray Anthony,Ray Anthony,jazz,19530821,11,3,13,19530821
+12,7,Song From Moulin Rouge,Percy Faith / Felicia Sanders,Percy Faith / Felicia Sanders,pop,19530405,17,1,23,19530821
+13,13,Crying In The Chapel,Rex Allen,Rex Allen,country / folk,19530731,19,10,11,19530821
+14,10,Gambler's Guitar,Rusty Draper,Rusty Draper,country / folk,19530703,18,10,12,19530821
+15,NEW,My Love My Love,Joni James,Joni James,jazz,19530821,15,10,9,19530821
+16,20,Crying In The Chapel,Orioles,Orioles,pop,19530814,20,11,6,19530821
+17,NEW,A Dear John Letter,Pat O'Day / Al Rawley,Pat Oday / Al Rawley,pop,19530821,17,17,1,19530821
+18,14,April In Portugal,Les Baxter,Les Baxter,pop,19530405,18,2,21,19530821
+19,16,Half A Photograph,Kay Starr,Kay Starr,jazz,19530612,18,10,11,19530821
+20,18,I'd Rather Die Young,Hilltoppers,Hilltoppers,pop,19530703,16,12,8,19530821
+1,1,Vaya Con Dios,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19530619,14,1,30,19530814
+2,3,No Other Love,Perry Como,Perry Como,jazz,19530619,15,2,21,19530814
+3,2,I'm Walking Behind You,Eddie Fisher,Eddie Fisher,jazz,19530508,18,1,21,19530814
+4,4,You You You,Ames Brothers,Ames Brothers,pop,19530626,18,2,30,19530814
+5,5,P.S. I Love You,Hilltoppers,Hilltoppers,pop,19530626,12,4,17,19530814
+6,7,Oh!,Pee Wee Hunt,Pee Wee Hunt,jazz,19530717,18,3,21,19530814
+7,6,Song From Moulin Rouge,Percy Faith / Felicia Sanders,Percy Faith / Felicia Sanders,pop,19530405,17,1,23,19530814
+8,8,C'est Si Bon,Eartha Kitt,Eartha Kitt,jazz,19530717,16,8,11,19530814
+9,13,Crying In The Chapel,June Valli,June Valli,pop,19530724,18,6,16,19530814
+10,10,Gambler's Guitar,Rusty Draper,Rusty Draper,country / folk,19530703,18,10,12,19530814
+11,9,With These Hands,Eddie Fisher,Eddie Fisher,jazz,19530710,16,8,12,19530814
+12,12,Crying In The Chapel,Darrell Glenn,Darrell Glenn,pop,19530717,19,9,10,19530814
+13,18,Crying In The Chapel,Rex Allen,Rex Allen,country / folk,19530731,19,10,11,19530814
+14,11,April In Portugal,Les Baxter,Les Baxter,pop,19530405,18,2,21,19530814
+15,17,Allez-vous-en,Kay Starr,Kay Starr,jazz,19530703,14,13,7,19530814
+16,14,Half A Photograph,Kay Starr,Kay Starr,jazz,19530612,18,10,11,19530814
+17,NEW,Butterflies,Patti Page,Patti Page,jazz,19530814,17,17,1,19530814
+18,16,I'd Rather Die Young,Hilltoppers,Hilltoppers,pop,19530703,16,12,8,19530814
+19,15,Terry's Theme,Frank Chacksfield,Frank Chacksfield,pop,19530529,19,6,12,19530814
+20,NEW,Crying In The Chapel,Orioles,Orioles,pop,19530814,20,11,6,19530814
+1,1,Vaya Con Dios,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19530619,14,1,30,19530807
+2,2,I'm Walking Behind You,Eddie Fisher,Eddie Fisher,jazz,19530508,18,1,21,19530807
+3,3,No Other Love,Perry Como,Perry Como,jazz,19530619,15,2,21,19530807
+4,6,You You You,Ames Brothers,Ames Brothers,pop,19530626,18,2,30,19530807
+5,4,P.S. I Love You,Hilltoppers,Hilltoppers,pop,19530626,12,4,17,19530807
+6,5,Song From Moulin Rouge,Percy Faith / Felicia Sanders,Percy Faith / Felicia Sanders,pop,19530405,17,1,23,19530807
+7,7,Oh!,Pee Wee Hunt,Pee Wee Hunt,jazz,19530717,18,3,21,19530807
+8,9,C'est Si Bon,Eartha Kitt,Eartha Kitt,jazz,19530717,16,8,11,19530807
+9,11,With These Hands,Eddie Fisher,Eddie Fisher,jazz,19530710,16,8,12,19530807
+10,10,Gambler's Guitar,Rusty Draper,Rusty Draper,country / folk,19530703,18,10,12,19530807
+11,8,April In Portugal,Les Baxter,Les Baxter,pop,19530405,18,2,21,19530807
+12,12,Crying In The Chapel,Darrell Glenn,Darrell Glenn,pop,19530717,19,9,10,19530807
+13,18,Crying In The Chapel,June Valli,June Valli,pop,19530724,18,6,16,19530807
+14,14,Half A Photograph,Kay Starr,Kay Starr,jazz,19530612,18,10,11,19530807
+15,13,Terry's Theme,Frank Chacksfield,Frank Chacksfield,pop,19530529,19,6,12,19530807
+16,15,I'd Rather Die Young,Hilltoppers,Hilltoppers,pop,19530703,16,12,8,19530807
+17,17,Allez-vous-en,Kay Starr,Kay Starr,jazz,19530703,14,13,7,19530807
+18,19,Crying In The Chapel,Rex Allen,Rex Allen,country / folk,19530731,19,10,11,19530807
+19,16,Ruby,Richard Hayman,Richard Hayman,pop,19530412,16,3,18,19530807
+20,NEW,Ruby,Les Baxter,Les Baxter,pop,19530807,20,20,1,19530807
+1,2,Vaya Con Dios,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19530619,14,1,30,19530731
+2,1,I'm Walking Behind You,Eddie Fisher,Eddie Fisher,jazz,19530508,18,1,21,19530731
+3,3,No Other Love,Perry Como,Perry Como,jazz,19530619,15,2,21,19530731
+4,5,P.S. I Love You,Hilltoppers,Hilltoppers,pop,19530626,12,4,17,19530731
+5,4,Song From Moulin Rouge,Percy Faith / Felicia Sanders,Percy Faith / Felicia Sanders,pop,19530405,17,1,23,19530731
+6,6,You You You,Ames Brothers,Ames Brothers,pop,19530626,18,2,30,19530731
+7,9,Oh!,Pee Wee Hunt,Pee Wee Hunt,jazz,19530717,18,3,21,19530731
+8,7,April In Portugal,Les Baxter,Les Baxter,pop,19530405,18,2,21,19530731
+9,10,C'est Si Bon,Eartha Kitt,Eartha Kitt,jazz,19530717,16,8,11,19530731
+10,12,Gambler's Guitar,Rusty Draper,Rusty Draper,country / folk,19530703,18,10,12,19530731
+11,8,With These Hands,Eddie Fisher,Eddie Fisher,jazz,19530710,16,8,12,19530731
+12,15,Crying In The Chapel,Darrell Glenn,Darrell Glenn,pop,19530717,19,9,10,19530731
+13,11,Terry's Theme,Frank Chacksfield,Frank Chacksfield,pop,19530529,19,6,12,19530731
+14,14,Half A Photograph,Kay Starr,Kay Starr,jazz,19530612,18,10,11,19530731
+15,17,I'd Rather Die Young,Hilltoppers,Hilltoppers,pop,19530703,16,12,8,19530731
+16,13,Ruby,Richard Hayman,Richard Hayman,pop,19530412,16,3,18,19530731
+17,16,Allez-vous-en,Kay Starr,Kay Starr,jazz,19530703,14,13,7,19530731
+18,18,Crying In The Chapel,June Valli,June Valli,pop,19530724,18,6,16,19530731
+19,NEW,Crying In The Chapel,Rex Allen,Rex Allen,country / folk,19530731,19,10,11,19530731
+20,20,Anna,Sylvano Mangano,Sylvano Mangano,pop,19530503,12,6,14,19530731
+1,1,I'm Walking Behind You,Eddie Fisher,Eddie Fisher,jazz,19530508,18,1,21,19530724
+2,4,Vaya Con Dios,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19530619,14,1,30,19530724
+3,3,No Other Love,Perry Como,Perry Como,jazz,19530619,15,2,21,19530724
+4,2,Song From Moulin Rouge,Percy Faith / Felicia Sanders,Percy Faith / Felicia Sanders,pop,19530405,17,1,23,19530724
+5,6,P.S. I Love You,Hilltoppers,Hilltoppers,pop,19530626,12,4,17,19530724
+6,9,You You You,Ames Brothers,Ames Brothers,pop,19530626,18,2,30,19530724
+7,5,April In Portugal,Les Baxter,Les Baxter,pop,19530405,18,2,21,19530724
+8,11,With These Hands,Eddie Fisher,Eddie Fisher,jazz,19530710,16,8,12,19530724
+9,18,Oh!,Pee Wee Hunt,Pee Wee Hunt,jazz,19530717,18,3,21,19530724
+10,16,C'est Si Bon,Eartha Kitt,Eartha Kitt,jazz,19530717,16,8,11,19530724
+11,8,Terry's Theme,Frank Chacksfield,Frank Chacksfield,pop,19530529,19,6,12,19530724
+12,12,Gambler's Guitar,Rusty Draper,Rusty Draper,country / folk,19530703,18,10,12,19530724
+13,7,Ruby,Richard Hayman,Richard Hayman,pop,19530412,16,3,18,19530724
+14,10,Half A Photograph,Kay Starr,Kay Starr,jazz,19530612,18,10,11,19530724
+15,19,Crying In The Chapel,Darrell Glenn,Darrell Glenn,pop,19530717,19,9,10,19530724
+16,13,Allez-vous-en,Kay Starr,Kay Starr,jazz,19530703,14,13,7,19530724
+17,15,I'd Rather Die Young,Hilltoppers,Hilltoppers,pop,19530703,16,12,8,19530724
+18,NEW,Crying In The Chapel,June Valli,June Valli,pop,19530724,18,6,16,19530724
+19,17,Say You're Mine Again,Perry Como,Perry Como,jazz,19530426,14,5,14,19530724
+20,14,Anna,Sylvano Mangano,Sylvano Mangano,pop,19530503,12,6,14,19530724
+1,2,I'm Walking Behind You,Eddie Fisher,Eddie Fisher,jazz,19530508,18,1,21,19530717
+2,1,Song From Moulin Rouge,Percy Faith / Felicia Sanders,Percy Faith / Felicia Sanders,pop,19530405,17,1,23,19530717
+3,5,No Other Love,Perry Como,Perry Como,jazz,19530619,15,2,21,19530717
+4,6,Vaya Con Dios,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19530619,14,1,30,19530717
+5,3,April In Portugal,Les Baxter,Les Baxter,pop,19530405,18,2,21,19530717
+6,8,P.S. I Love You,Hilltoppers,Hilltoppers,pop,19530626,12,4,17,19530717
+7,4,Ruby,Richard Hayman,Richard Hayman,pop,19530412,16,3,18,19530717
+8,7,Terry's Theme,Frank Chacksfield,Frank Chacksfield,pop,19530529,19,6,12,19530717
+9,10,You You You,Ames Brothers,Ames Brothers,pop,19530626,18,2,30,19530717
+10,17,Half A Photograph,Kay Starr,Kay Starr,jazz,19530612,18,10,11,19530717
+11,16,With These Hands,Eddie Fisher,Eddie Fisher,jazz,19530710,16,8,12,19530717
+12,13,Gambler's Guitar,Rusty Draper,Rusty Draper,country / folk,19530703,18,10,12,19530717
+13,18,Allez-vous-en,Kay Starr,Kay Starr,jazz,19530703,14,13,7,19530717
+14,9,Anna,Sylvano Mangano,Sylvano Mangano,pop,19530503,12,6,14,19530717
+15,12,I'd Rather Die Young,Hilltoppers,Hilltoppers,pop,19530703,16,12,8,19530717
+16,NEW,C'est Si Bon,Eartha Kitt,Eartha Kitt,jazz,19530717,16,8,11,19530717
+17,14,Say You're Mine Again,Perry Como,Perry Como,jazz,19530426,14,5,14,19530717
+18,NEW,Oh!,Pee Wee Hunt,Pee Wee Hunt,jazz,19530717,18,3,21,19530717
+19,NEW,Crying In The Chapel,Darrell Glenn,Darrell Glenn,pop,19530717,19,9,10,19530717
+20,11,I Believe,Frankie Laine,Frankie Laine,country / folk,19530222,16,2,22,19530717
+1,1,Song From Moulin Rouge,Percy Faith / Felicia Sanders,Percy Faith / Felicia Sanders,pop,19530405,17,1,23,19530710
+2,2,I'm Walking Behind You,Eddie Fisher,Eddie Fisher,jazz,19530508,18,1,21,19530710
+3,3,April In Portugal,Les Baxter,Les Baxter,pop,19530405,18,2,21,19530710
+4,4,Ruby,Richard Hayman,Richard Hayman,pop,19530412,16,3,18,19530710
+5,5,No Other Love,Perry Como,Perry Como,jazz,19530619,15,2,21,19530710
+6,6,Vaya Con Dios,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19530619,14,1,30,19530710
+7,8,Terry's Theme,Frank Chacksfield,Frank Chacksfield,pop,19530529,19,6,12,19530710
+8,12,P.S. I Love You,Hilltoppers,Hilltoppers,pop,19530626,12,4,17,19530710
+9,10,Anna,Sylvano Mangano,Sylvano Mangano,pop,19530503,12,6,14,19530710
+10,19,You You You,Ames Brothers,Ames Brothers,pop,19530626,18,2,30,19530710
+11,9,I Believe,Frankie Laine,Frankie Laine,country / folk,19530222,16,2,22,19530710
+12,16,I'd Rather Die Young,Hilltoppers,Hilltoppers,pop,19530703,16,12,8,19530710
+13,18,Gambler's Guitar,Rusty Draper,Rusty Draper,country / folk,19530703,18,10,12,19530710
+14,7,Say You're Mine Again,Perry Como,Perry Como,jazz,19530426,14,5,14,19530710
+15,11,Ruby,Les Baxter,Les Baxter,pop,19530529,20,9,7,19530710
+16,NEW,With These Hands,Eddie Fisher,Eddie Fisher,jazz,19530710,16,8,12,19530710
+17,13,Half A Photograph,Kay Starr,Kay Starr,jazz,19530612,18,10,11,19530710
+18,14,Allez-vous-en,Kay Starr,Kay Starr,jazz,19530703,14,13,7,19530710
+19,15,April In Portugal,Richard Hayman,Richard Hayman,pop,19530503,15,12,11,19530710
+20,20,Oh!,Pee Wee Hunt,Pee Wee Hunt,jazz,19530703,20,20,2,19530710
+1,1,Song From Moulin Rouge,Percy Faith / Felicia Sanders,Percy Faith / Felicia Sanders,pop,19530405,17,1,23,19530703
+2,2,I'm Walking Behind You,Eddie Fisher,Eddie Fisher,jazz,19530508,18,1,21,19530703
+3,3,April In Portugal,Les Baxter,Les Baxter,pop,19530405,18,2,21,19530703
+4,4,Ruby,Richard Hayman,Richard Hayman,pop,19530412,16,3,18,19530703
+5,9,No Other Love,Perry Como,Perry Como,jazz,19530619,15,2,21,19530703
+6,10,Vaya Con Dios,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19530619,14,1,30,19530703
+7,5,Say You're Mine Again,Perry Como,Perry Como,jazz,19530426,14,5,14,19530703
+8,6,Terry's Theme,Frank Chacksfield,Frank Chacksfield,pop,19530529,19,6,12,19530703
+9,8,I Believe,Frankie Laine,Frankie Laine,country / folk,19530222,16,2,22,19530703
+10,7,Anna,Sylvano Mangano,Sylvano Mangano,pop,19530503,12,6,14,19530703
+11,11,Ruby,Les Baxter,Les Baxter,pop,19530529,20,9,7,19530703
+12,12,P.S. I Love You,Hilltoppers,Hilltoppers,pop,19530626,12,4,17,19530703
+13,14,Half A Photograph,Kay Starr,Kay Starr,jazz,19530612,18,10,11,19530703
+14,NEW,Allez-vous-en,Kay Starr,Kay Starr,jazz,19530703,14,13,7,19530703
+15,15,April In Portugal,Richard Hayman,Richard Hayman,pop,19530503,15,12,11,19530703
+16,NEW,I'd Rather Die Young,Hilltoppers,Hilltoppers,pop,19530703,16,12,8,19530703
+17,16,Crazy Man Crazy,Bill Haley And His Comets,Bill Haley And His Comets,rock,19530626,16,16,2,19530703
+18,NEW,Gambler's Guitar,Rusty Draper,Rusty Draper,country / folk,19530703,18,10,12,19530703
+19,18,You You You,Ames Brothers,Ames Brothers,pop,19530626,18,2,30,19530703
+20,NEW,Oh!,Pee Wee Hunt,Pee Wee Hunt,jazz,19530703,20,20,2,19530703
+1,1,Song From Moulin Rouge,Percy Faith / Felicia Sanders,Percy Faith / Felicia Sanders,pop,19530405,17,1,23,19530626
+2,2,I'm Walking Behind You,Eddie Fisher,Eddie Fisher,jazz,19530508,18,1,21,19530626
+3,3,April In Portugal,Les Baxter,Les Baxter,pop,19530405,18,2,21,19530626
+4,4,Ruby,Richard Hayman,Richard Hayman,pop,19530412,16,3,18,19530626
+5,5,Say You're Mine Again,Perry Como,Perry Como,jazz,19530426,14,5,14,19530626
+6,8,Terry's Theme,Frank Chacksfield,Frank Chacksfield,pop,19530529,19,6,12,19530626
+7,7,Anna,Sylvano Mangano,Sylvano Mangano,pop,19530503,12,6,14,19530626
+8,6,I Believe,Frankie Laine,Frankie Laine,country / folk,19530222,16,2,22,19530626
+9,15,No Other Love,Perry Como,Perry Como,jazz,19530619,15,2,21,19530626
+10,14,Vaya Con Dios,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19530619,14,1,30,19530626
+11,9,Ruby,Les Baxter,Les Baxter,pop,19530529,20,9,7,19530626
+12,NEW,P.S. I Love You,Hilltoppers,Hilltoppers,pop,19530626,12,4,17,19530626
+13,10,Pretend,Nat King Cole,Nat King Cole,jazz,19530222,11,3,19,19530626
+14,20,Half A Photograph,Kay Starr,Kay Starr,jazz,19530612,18,10,11,19530626
+15,12,April In Portugal,Richard Hayman,Richard Hayman,pop,19530503,15,12,11,19530626
+16,NEW,Crazy Man Crazy,Bill Haley And His Comets,Bill Haley And His Comets,rock,19530626,16,16,2,19530626
+17,NEW,Moulin Rouge,Mantovani,Mantovani,pop,19530626,17,17,1,19530626
+18,NEW,You You You,Ames Brothers,Ames Brothers,pop,19530626,18,2,30,19530626
+19,16,The Ho Ho Song,Red Buttons,Red Buttons,pop,19530503,16,10,9,19530626
+20,18,Seven Lonely Days,Georgia Gibbs,Georgia Gibbs,pop,19530315,19,11,16,19530626
+1,1,Song From Moulin Rouge,Percy Faith / Felicia Sanders,Percy Faith / Felicia Sanders,pop,19530405,17,1,23,19530619
+2,3,I'm Walking Behind You,Eddie Fisher,Eddie Fisher,jazz,19530508,18,1,21,19530619
+3,2,April In Portugal,Les Baxter,Les Baxter,pop,19530405,18,2,21,19530619
+4,4,Ruby,Richard Hayman,Richard Hayman,pop,19530412,16,3,18,19530619
+5,5,Say You're Mine Again,Perry Como,Perry Como,jazz,19530426,14,5,14,19530619
+6,6,I Believe,Frankie Laine,Frankie Laine,country / folk,19530222,16,2,22,19530619
+7,7,Anna,Sylvano Mangano,Sylvano Mangano,pop,19530503,12,6,14,19530619
+8,9,Terry's Theme,Frank Chacksfield,Frank Chacksfield,pop,19530529,19,6,12,19530619
+9,15,Ruby,Les Baxter,Les Baxter,pop,19530529,20,9,7,19530619
+10,10,Pretend,Nat King Cole,Nat King Cole,jazz,19530222,11,3,19,19530619
+11,16,I Believe,Jane Froman,Jane Froman,pop,19530503,18,11,8,19530619
+12,12,April In Portugal,Richard Hayman,Richard Hayman,pop,19530503,15,12,11,19530619
+13,8,How Much Is That Doggie In The Window,Patti Page,Patti Page,jazz,19530207,11,1,20,19530619
+14,NEW,Vaya Con Dios,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19530619,14,1,30,19530619
+15,NEW,No Other Love,Perry Como,Perry Como,jazz,19530619,15,2,21,19530619
+16,11,The Ho Ho Song,Red Buttons,Red Buttons,pop,19530503,16,10,9,19530619
+17,20,I'd Rather Die Young,Hilltoppers,Hilltoppers,pop,19530605,19,17,3,19530619
+18,14,Seven Lonely Days,Georgia Gibbs,Georgia Gibbs,pop,19530315,19,11,16,19530619
+19,19,April In Portugal,Vic Damone,Vic Damone,jazz,19530605,16,16,3,19530619
+20,18,Half A Photograph,Kay Starr,Kay Starr,jazz,19530612,18,10,11,19530619
+1,1,Song From Moulin Rouge,Percy Faith / Felicia Sanders,Percy Faith / Felicia Sanders,pop,19530405,17,1,23,19530612
+2,2,April In Portugal,Les Baxter,Les Baxter,pop,19530405,18,2,21,19530612
+3,3,I'm Walking Behind You,Eddie Fisher,Eddie Fisher,jazz,19530508,18,1,21,19530612
+4,4,Ruby,Richard Hayman,Richard Hayman,pop,19530412,16,3,18,19530612
+5,5,Say You're Mine Again,Perry Como,Perry Como,jazz,19530426,14,5,14,19530612
+6,7,I Believe,Frankie Laine,Frankie Laine,country / folk,19530222,16,2,22,19530612
+7,6,Anna,Sylvano Mangano,Sylvano Mangano,pop,19530503,12,6,14,19530612
+8,8,How Much Is That Doggie In The Window,Patti Page,Patti Page,jazz,19530207,11,1,20,19530612
+9,11,Terry's Theme,Frank Chacksfield,Frank Chacksfield,pop,19530529,19,6,12,19530612
+10,9,Pretend,Nat King Cole,Nat King Cole,jazz,19530222,11,3,19,19530612
+11,10,The Ho Ho Song,Red Buttons,Red Buttons,pop,19530503,16,10,9,19530612
+12,15,April In Portugal,Richard Hayman,Richard Hayman,pop,19530503,15,12,11,19530612
+13,17,Moulin Rouge,Mantovani,Mantovani,pop,19530522,16,13,4,19530612
+14,14,Seven Lonely Days,Georgia Gibbs,Georgia Gibbs,pop,19530315,19,11,16,19530612
+15,12,Ruby,Les Baxter,Les Baxter,pop,19530529,20,9,7,19530612
+16,13,I Believe,Jane Froman,Jane Froman,pop,19530503,18,11,8,19530612
+17,18,Crazy Man Crazy,Bill Haley And His Comets,Bill Haley And His Comets,rock,19530522,15,15,4,19530612
+18,NEW,Half A Photograph,Kay Starr,Kay Starr,jazz,19530612,18,10,11,19530612
+19,16,April In Portugal,Vic Damone,Vic Damone,jazz,19530605,16,16,3,19530612
+20,19,I'd Rather Die Young,Hilltoppers,Hilltoppers,pop,19530605,19,17,3,19530612
+1,1,Song From Moulin Rouge,Percy Faith / Felicia Sanders,Percy Faith / Felicia Sanders,pop,19530405,17,1,23,19530605
+2,2,April In Portugal,Les Baxter,Les Baxter,pop,19530405,18,2,21,19530605
+3,4,I'm Walking Behind You,Eddie Fisher,Eddie Fisher,jazz,19530508,18,1,21,19530605
+4,3,Ruby,Richard Hayman,Richard Hayman,pop,19530412,16,3,18,19530605
+5,7,Say You're Mine Again,Perry Como,Perry Como,jazz,19530426,14,5,14,19530605
+6,8,Anna,Sylvano Mangano,Sylvano Mangano,pop,19530503,12,6,14,19530605
+7,6,I Believe,Frankie Laine,Frankie Laine,country / folk,19530222,16,2,22,19530605
+8,5,How Much Is That Doggie In The Window,Patti Page,Patti Page,jazz,19530207,11,1,20,19530605
+9,9,Pretend,Nat King Cole,Nat King Cole,jazz,19530222,11,3,19,19530605
+10,10,The Ho Ho Song,Red Buttons,Red Buttons,pop,19530503,16,10,9,19530605
+11,19,Terry's Theme,Frank Chacksfield,Frank Chacksfield,pop,19530529,19,6,12,19530605
+12,20,Ruby,Les Baxter,Les Baxter,pop,19530529,20,9,7,19530605
+13,11,I Believe,Jane Froman,Jane Froman,pop,19530503,18,11,8,19530605
+14,12,Seven Lonely Days,Georgia Gibbs,Georgia Gibbs,pop,19530315,19,11,16,19530605
+15,13,April In Portugal,Richard Hayman,Richard Hayman,pop,19530503,15,12,11,19530605
+16,NEW,April In Portugal,Vic Damone,Vic Damone,jazz,19530605,16,16,3,19530605
+17,16,Moulin Rouge,Mantovani,Mantovani,pop,19530522,16,13,4,19530605
+18,17,Crazy Man Crazy,Bill Haley And His Comets,Bill Haley And His Comets,rock,19530522,15,15,4,19530605
+19,NEW,I'd Rather Die Young,Hilltoppers,Hilltoppers,pop,19530605,19,17,3,19530605
+20,NEW,Ruby,Victor Young,Victor Young,pop,19530605,20,20,1,19530605
+1,1,Song From Moulin Rouge,Percy Faith / Felicia Sanders,Percy Faith / Felicia Sanders,pop,19530405,17,1,23,19530529
+2,3,April In Portugal,Les Baxter,Les Baxter,pop,19530405,18,2,21,19530529
+3,6,Ruby,Richard Hayman,Richard Hayman,pop,19530412,16,3,18,19530529
+4,7,I'm Walking Behind You,Eddie Fisher,Eddie Fisher,jazz,19530508,18,1,21,19530529
+5,2,How Much Is That Doggie In The Window,Patti Page,Patti Page,jazz,19530207,11,1,20,19530529
+6,4,I Believe,Frankie Laine,Frankie Laine,country / folk,19530222,16,2,22,19530529
+7,9,Say You're Mine Again,Perry Como,Perry Como,jazz,19530426,14,5,14,19530529
+8,8,Anna,Sylvano Mangano,Sylvano Mangano,pop,19530503,12,6,14,19530529
+9,5,Pretend,Nat King Cole,Nat King Cole,jazz,19530222,11,3,19,19530529
+10,10,The Ho Ho Song,Red Buttons,Red Buttons,pop,19530503,16,10,9,19530529
+11,14,I Believe,Jane Froman,Jane Froman,pop,19530503,18,11,8,19530529
+12,11,Seven Lonely Days,Georgia Gibbs,Georgia Gibbs,pop,19530315,19,11,16,19530529
+13,13,April In Portugal,Richard Hayman,Richard Hayman,pop,19530503,15,12,11,19530529
+14,12,Tell Me A Story,Frankie Laine / Jimmy Boyd,Frankie Laine / Jimmy Boyd,pop,19530315,16,4,12,19530529
+15,17,April In Portugal,Freddy Martin,Freddy Martin,jazz,19530515,19,15,3,19530529
+16,16,Moulin Rouge,Mantovani,Mantovani,pop,19530522,16,13,4,19530529
+17,15,Crazy Man Crazy,Bill Haley And His Comets,Bill Haley And His Comets,rock,19530522,15,15,4,19530529
+18,18,Your Cheating Heart,Joni James,Joni James,jazz,19530222,17,7,15,19530529
+19,NEW,Terry's Theme,Frank Chacksfield,Frank Chacksfield,pop,19530529,19,6,12,19530529
+20,NEW,Ruby,Les Baxter,Les Baxter,pop,19530529,20,9,7,19530529
+1,1,Song From Moulin Rouge,Percy Faith / Felicia Sanders,Percy Faith / Felicia Sanders,pop,19530405,17,1,23,19530522
+2,2,How Much Is That Doggie In The Window,Patti Page,Patti Page,jazz,19530207,11,1,20,19530522
+3,4,April In Portugal,Les Baxter,Les Baxter,pop,19530405,18,2,21,19530522
+4,3,I Believe,Frankie Laine,Frankie Laine,country / folk,19530222,16,2,22,19530522
+5,5,Pretend,Nat King Cole,Nat King Cole,jazz,19530222,11,3,19,19530522
+6,6,Ruby,Richard Hayman,Richard Hayman,pop,19530412,16,3,18,19530522
+7,11,I'm Walking Behind You,Eddie Fisher,Eddie Fisher,jazz,19530508,18,1,21,19530522
+8,7,Anna,Sylvano Mangano,Sylvano Mangano,pop,19530503,12,6,14,19530522
+9,8,Say You're Mine Again,Perry Como,Perry Como,jazz,19530426,14,5,14,19530522
+10,10,The Ho Ho Song,Red Buttons,Red Buttons,pop,19530503,16,10,9,19530522
+11,12,Seven Lonely Days,Georgia Gibbs,Georgia Gibbs,pop,19530315,19,11,16,19530522
+12,9,Tell Me A Story,Frankie Laine / Jimmy Boyd,Frankie Laine / Jimmy Boyd,pop,19530315,16,4,12,19530522
+13,16,April In Portugal,Richard Hayman,Richard Hayman,pop,19530503,15,12,11,19530522
+14,14,I Believe,Jane Froman,Jane Froman,pop,19530503,18,11,8,19530522
+15,NEW,Crazy Man Crazy,Bill Haley And His Comets,Bill Haley And His Comets,rock,19530522,15,15,4,19530522
+16,NEW,Moulin Rouge,Mantovani,Mantovani,pop,19530522,16,13,4,19530522
+17,19,April In Portugal,Freddy Martin,Freddy Martin,jazz,19530515,19,15,3,19530522
+18,13,Your Cheating Heart,Joni James,Joni James,jazz,19530222,17,7,15,19530522
+19,15,Strange Things Are Happening,Red Buttons,Red Buttons,pop,19530508,16,15,3,19530522
+20,17,Caravan,Ralph Marterie,Ralph Marterie,pop,19530322,17,11,10,19530522
+1,2,Song From Moulin Rouge,Percy Faith / Felicia Sanders,Percy Faith / Felicia Sanders,pop,19530405,17,1,23,19530515
+2,1,How Much Is That Doggie In The Window,Patti Page,Patti Page,jazz,19530207,11,1,20,19530515
+3,3,I Believe,Frankie Laine,Frankie Laine,country / folk,19530222,16,2,22,19530515
+4,5,April In Portugal,Les Baxter,Les Baxter,pop,19530405,18,2,21,19530515
+5,4,Pretend,Nat King Cole,Nat King Cole,jazz,19530222,11,3,19,19530515
+6,6,Ruby,Richard Hayman,Richard Hayman,pop,19530412,16,3,18,19530515
+7,8,Anna,Sylvano Mangano,Sylvano Mangano,pop,19530503,12,6,14,19530515
+8,9,Say You're Mine Again,Perry Como,Perry Como,jazz,19530426,14,5,14,19530515
+9,7,Tell Me A Story,Frankie Laine / Jimmy Boyd,Frankie Laine / Jimmy Boyd,pop,19530315,16,4,12,19530515
+10,12,The Ho Ho Song,Red Buttons,Red Buttons,pop,19530503,16,10,9,19530515
+11,18,I'm Walking Behind You,Eddie Fisher,Eddie Fisher,jazz,19530508,18,1,21,19530515
+12,11,Seven Lonely Days,Georgia Gibbs,Georgia Gibbs,pop,19530315,19,11,16,19530515
+13,10,Your Cheating Heart,Joni James,Joni James,jazz,19530222,17,7,15,19530515
+14,17,I Believe,Jane Froman,Jane Froman,pop,19530503,18,11,8,19530515
+15,16,Strange Things Are Happening,Red Buttons,Red Buttons,pop,19530508,16,15,3,19530515
+16,19,April In Portugal,Richard Hayman,Richard Hayman,pop,19530503,15,12,11,19530515
+17,15,Caravan,Ralph Marterie,Ralph Marterie,pop,19530322,17,11,10,19530515
+18,NEW,Almost Always,Joni James,Joni James,jazz,19530515,18,18,1,19530515
+19,NEW,April In Portugal,Freddy Martin,Freddy Martin,jazz,19530515,19,15,3,19530515
+20,14,Tell Me You're Mine,Gaylords,Gaylords,pop,19521220,19,3,22,19530515
+1,1,How Much Is That Doggie In The Window,Patti Page,Patti Page,jazz,19530207,11,1,20,19530508
+2,2,Song From Moulin Rouge,Percy Faith / Felicia Sanders,Percy Faith / Felicia Sanders,pop,19530405,17,1,23,19530508
+3,3,I Believe,Frankie Laine,Frankie Laine,country / folk,19530222,16,2,22,19530508
+4,4,Pretend,Nat King Cole,Nat King Cole,jazz,19530222,11,3,19,19530508
+5,6,April In Portugal,Les Baxter,Les Baxter,pop,19530405,18,2,21,19530508
+6,7,Ruby,Richard Hayman,Richard Hayman,pop,19530412,16,3,18,19530508
+7,5,Tell Me A Story,Frankie Laine / Jimmy Boyd,Frankie Laine / Jimmy Boyd,pop,19530315,16,4,12,19530508
+8,12,Anna,Sylvano Mangano,Sylvano Mangano,pop,19530503,12,6,14,19530508
+9,14,Say You're Mine Again,Perry Como,Perry Como,jazz,19530426,14,5,14,19530508
+10,9,Your Cheating Heart,Joni James,Joni James,jazz,19530222,17,7,15,19530508
+11,11,Seven Lonely Days,Georgia Gibbs,Georgia Gibbs,pop,19530315,19,11,16,19530508
+12,16,The Ho Ho Song,Red Buttons,Red Buttons,pop,19530503,16,10,9,19530508
+13,8,Till I Waltz Again With You,Teresa Brewer,Teresa Brewer,pop,19521213,18,1,22,19530508
+14,10,Tell Me You're Mine,Gaylords,Gaylords,pop,19521220,19,3,22,19530508
+15,13,Caravan,Ralph Marterie,Ralph Marterie,pop,19530322,17,11,10,19530508
+16,NEW,Strange Things Are Happening,Red Buttons,Red Buttons,pop,19530508,16,15,3,19530508
+17,18,I Believe,Jane Froman,Jane Froman,pop,19530503,18,11,8,19530508
+18,NEW,I'm Walking Behind You,Eddie Fisher,Eddie Fisher,jazz,19530508,18,1,21,19530508
+19,15,April In Portugal,Richard Hayman,Richard Hayman,pop,19530503,15,12,11,19530508
+20,NEW,Is It Any Wonder?,Joni James,Joni James,jazz,19530508,20,20,1,19530508
+1,1,How Much Is That Doggie In The Window,Patti Page,Patti Page,jazz,19530207,11,1,20,19530503
+2,4,Song From Moulin Rouge,Percy Faith / Felicia Sanders,Percy Faith / Felicia Sanders,pop,19530405,17,1,23,19530503
+3,2,I Believe,Frankie Laine,Frankie Laine,country / folk,19530222,16,2,22,19530503
+4,3,Pretend,Nat King Cole,Nat King Cole,jazz,19530222,11,3,19,19530503
+5,5,Tell Me A Story,Frankie Laine / Jimmy Boyd,Frankie Laine / Jimmy Boyd,pop,19530315,16,4,12,19530503
+6,10,April In Portugal,Les Baxter,Les Baxter,pop,19530405,18,2,21,19530503
+7,9,Ruby,Richard Hayman,Richard Hayman,pop,19530412,16,3,18,19530503
+8,8,Till I Waltz Again With You,Teresa Brewer,Teresa Brewer,pop,19521213,18,1,22,19530503
+9,7,Your Cheating Heart,Joni James,Joni James,jazz,19530222,17,7,15,19530503
+10,6,Tell Me You're Mine,Gaylords,Gaylords,pop,19521220,19,3,22,19530503
+11,12,Seven Lonely Days,Georgia Gibbs,Georgia Gibbs,pop,19530315,19,11,16,19530503
+12,NEW,Anna,Sylvano Mangano,Sylvano Mangano,pop,19530503,12,6,14,19530503
+13,11,Caravan,Ralph Marterie,Ralph Marterie,pop,19530322,17,11,10,19530503
+14,14,Say You're Mine Again,Perry Como,Perry Como,jazz,19530426,14,5,14,19530503
+15,NEW,April In Portugal,Richard Hayman,Richard Hayman,pop,19530503,15,12,11,19530503
+16,NEW,The Ho Ho Song,Red Buttons,Red Buttons,pop,19530503,16,10,9,19530503
+17,13,Wild Horses,Perry Como,Perry Como,jazz,19530215,18,7,12,19530503
+18,NEW,I Believe,Jane Froman,Jane Froman,pop,19530503,18,11,8,19530503
+19,18,Can't I,Nat King Cole,Nat King Cole,jazz,19530419,17,17,3,19530503
+20,19,Somebody Stole My Gal,Johnnie Ray,Johnnie Ray,pop,19530419,19,19,3,19530503
+1,1,How Much Is That Doggie In The Window,Patti Page,Patti Page,jazz,19530207,11,1,20,19530426
+2,2,I Believe,Frankie Laine,Frankie Laine,country / folk,19530222,16,2,22,19530426
+3,3,Pretend,Nat King Cole,Nat King Cole,jazz,19530222,11,3,19,19530426
+4,7,Song From Moulin Rouge,Percy Faith / Felicia Sanders,Percy Faith / Felicia Sanders,pop,19530405,17,1,23,19530426
+5,4,Tell Me A Story,Frankie Laine / Jimmy Boyd,Frankie Laine / Jimmy Boyd,pop,19530315,16,4,12,19530426
+6,6,Tell Me You're Mine,Gaylords,Gaylords,pop,19521220,19,3,22,19530426
+7,8,Your Cheating Heart,Joni James,Joni James,jazz,19530222,17,7,15,19530426
+8,5,Till I Waltz Again With You,Teresa Brewer,Teresa Brewer,pop,19521213,18,1,22,19530426
+9,13,Ruby,Richard Hayman,Richard Hayman,pop,19530412,16,3,18,19530426
+10,10,April In Portugal,Les Baxter,Les Baxter,pop,19530405,18,2,21,19530426
+11,11,Caravan,Ralph Marterie,Ralph Marterie,pop,19530322,17,11,10,19530426
+12,14,Seven Lonely Days,Georgia Gibbs,Georgia Gibbs,pop,19530315,19,11,16,19530426
+13,9,Wild Horses,Perry Como,Perry Como,jazz,19530215,18,7,12,19530426
+14,NEW,Say You're Mine Again,Perry Como,Perry Como,jazz,19530426,14,5,14,19530426
+15,12,Side By Side,Kay Starr,Kay Starr,jazz,19530131,16,7,13,19530426
+16,NEW,Spinning A Web,Gaylords,Gaylords,pop,19530426,16,16,1,19530426
+17,16,Hot Toddy,Ralph Flanagan,Ralph Flanagan,jazz,19530124,17,12,14,19530426
+18,17,Can't I,Nat King Cole,Nat King Cole,jazz,19530419,17,17,3,19530426
+19,19,Somebody Stole My Gal,Johnnie Ray,Johnnie Ray,pop,19530419,19,19,3,19530426
+20,15,Don't Let The Stars Get In Your Eyes,Perry Como,Perry Como,jazz,19521206,11,1,21,19530426
+1,1,How Much Is That Doggie In The Window,Patti Page,Patti Page,jazz,19530207,11,1,20,19530419
+2,3,I Believe,Frankie Laine,Frankie Laine,country / folk,19530222,16,2,22,19530419
+3,4,Pretend,Nat King Cole,Nat King Cole,jazz,19530222,11,3,19,19530419
+4,5,Tell Me A Story,Frankie Laine / Jimmy Boyd,Frankie Laine / Jimmy Boyd,pop,19530315,16,4,12,19530419
+5,2,Till I Waltz Again With You,Teresa Brewer,Teresa Brewer,pop,19521213,18,1,22,19530419
+6,6,Tell Me You're Mine,Gaylords,Gaylords,pop,19521220,19,3,22,19530419
+7,11,Song From Moulin Rouge,Percy Faith / Felicia Sanders,Percy Faith / Felicia Sanders,pop,19530405,17,1,23,19530419
+8,7,Your Cheating Heart,Joni James,Joni James,jazz,19530222,17,7,15,19530419
+9,8,Wild Horses,Perry Como,Perry Como,jazz,19530215,18,7,12,19530419
+10,12,April In Portugal,Les Baxter,Les Baxter,pop,19530405,18,2,21,19530419
+11,13,Caravan,Ralph Marterie,Ralph Marterie,pop,19530322,17,11,10,19530419
+12,10,Side By Side,Kay Starr,Kay Starr,jazz,19530131,16,7,13,19530419
+13,16,Ruby,Richard Hayman,Richard Hayman,pop,19530412,16,3,18,19530419
+14,14,Seven Lonely Days,Georgia Gibbs,Georgia Gibbs,pop,19530315,19,11,16,19530419
+15,9,Don't Let The Stars Get In Your Eyes,Perry Como,Perry Como,jazz,19521206,11,1,21,19530419
+16,20,Hot Toddy,Ralph Flanagan,Ralph Flanagan,jazz,19530124,17,12,14,19530419
+17,NEW,Can't I,Nat King Cole,Nat King Cole,jazz,19530419,17,17,3,19530419
+18,17,Anna,Sylvano Mangano,Sylvano Mangano,pop,19530412,17,17,2,19530419
+19,NEW,Somebody Stole My Gal,Johnnie Ray,Johnnie Ray,pop,19530419,19,19,3,19530419
+20,18,I'm Sitting On Top Of The World,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19530329,14,14,4,19530419
+1,1,How Much Is That Doggie In The Window,Patti Page,Patti Page,jazz,19530207,11,1,20,19530412
+2,2,Till I Waltz Again With You,Teresa Brewer,Teresa Brewer,pop,19521213,18,1,22,19530412
+3,3,I Believe,Frankie Laine,Frankie Laine,country / folk,19530222,16,2,22,19530412
+4,4,Pretend,Nat King Cole,Nat King Cole,jazz,19530222,11,3,19,19530412
+5,6,Tell Me A Story,Frankie Laine / Jimmy Boyd,Frankie Laine / Jimmy Boyd,pop,19530315,16,4,12,19530412
+6,5,Tell Me You're Mine,Gaylords,Gaylords,pop,19521220,19,3,22,19530412
+7,8,Your Cheating Heart,Joni James,Joni James,jazz,19530222,17,7,15,19530412
+8,10,Wild Horses,Perry Como,Perry Como,jazz,19530215,18,7,12,19530412
+9,7,Don't Let The Stars Get In Your Eyes,Perry Como,Perry Como,jazz,19521206,11,1,21,19530412
+10,9,Side By Side,Kay Starr,Kay Starr,jazz,19530131,16,7,13,19530412
+11,17,Song From Moulin Rouge,Percy Faith / Felicia Sanders,Percy Faith / Felicia Sanders,pop,19530405,17,1,23,19530412
+12,18,April In Portugal,Les Baxter,Les Baxter,pop,19530405,18,2,21,19530412
+13,11,Caravan,Ralph Marterie,Ralph Marterie,pop,19530322,17,11,10,19530412
+14,15,Seven Lonely Days,Georgia Gibbs,Georgia Gibbs,pop,19530315,19,11,16,19530412
+15,19,I Believe,Jane Froman,Jane Froman,pop,19530405,19,15,2,19530412
+16,NEW,Ruby,Richard Hayman,Richard Hayman,pop,19530412,16,3,18,19530412
+17,NEW,Anna,Sylvano Mangano,Sylvano Mangano,pop,19530412,17,17,2,19530412
+18,14,I'm Sitting On Top Of The World,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19530329,14,14,4,19530412
+19,16,No Help Wanted,Rusty Draper,Rusty Draper,country / folk,19530301,19,15,7,19530412
+20,12,Hot Toddy,Ralph Flanagan,Ralph Flanagan,jazz,19530124,17,12,14,19530412
+1,1,How Much Is That Doggie In The Window,Patti Page,Patti Page,jazz,19530207,11,1,20,19530405
+2,2,Till I Waltz Again With You,Teresa Brewer,Teresa Brewer,pop,19521213,18,1,22,19530405
+3,3,I Believe,Frankie Laine,Frankie Laine,country / folk,19530222,16,2,22,19530405
+4,8,Pretend,Nat King Cole,Nat King Cole,jazz,19530222,11,3,19,19530405
+5,4,Tell Me You're Mine,Gaylords,Gaylords,pop,19521220,19,3,22,19530405
+6,5,Tell Me A Story,Frankie Laine / Jimmy Boyd,Frankie Laine / Jimmy Boyd,pop,19530315,16,4,12,19530405
+7,6,Don't Let The Stars Get In Your Eyes,Perry Como,Perry Como,jazz,19521206,11,1,21,19530405
+8,9,Your Cheating Heart,Joni James,Joni James,jazz,19530222,17,7,15,19530405
+9,10,Side By Side,Kay Starr,Kay Starr,jazz,19530131,16,7,13,19530405
+10,7,Wild Horses,Perry Como,Perry Como,jazz,19530215,18,7,12,19530405
+11,12,Caravan,Ralph Marterie,Ralph Marterie,pop,19530322,17,11,10,19530405
+12,16,Hot Toddy,Ralph Flanagan,Ralph Flanagan,jazz,19530124,17,12,14,19530405
+13,13,Have You Heard,Joni James,Joni James,jazz,19530103,11,5,14,19530405
+14,14,I'm Sitting On Top Of The World,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19530329,14,14,4,19530405
+15,20,Seven Lonely Days,Georgia Gibbs,Georgia Gibbs,pop,19530315,19,11,16,19530405
+16,17,No Help Wanted,Rusty Draper,Rusty Draper,country / folk,19530301,19,15,7,19530405
+17,NEW,Song From Moulin Rouge,Percy Faith / Felicia Sanders,Percy Faith / Felicia Sanders,pop,19530405,17,1,23,19530405
+18,NEW,April In Portugal,Les Baxter,Les Baxter,pop,19530405,18,2,21,19530405
+19,NEW,I Believe,Jane Froman,Jane Froman,pop,19530405,19,15,2,19530405
+20,11,Anywhere I Wander,Julius Larosa,Julius Larosa,pop,19530207,9,4,9,19530405
+1,1,How Much Is That Doggie In The Window,Patti Page,Patti Page,jazz,19530207,11,1,20,19530329
+2,2,Till I Waltz Again With You,Teresa Brewer,Teresa Brewer,pop,19521213,18,1,22,19530329
+3,4,I Believe,Frankie Laine,Frankie Laine,country / folk,19530222,16,2,22,19530329
+4,5,Tell Me You're Mine,Gaylords,Gaylords,pop,19521220,19,3,22,19530329
+5,11,Tell Me A Story,Frankie Laine / Jimmy Boyd,Frankie Laine / Jimmy Boyd,pop,19530315,16,4,12,19530329
+6,3,Don't Let The Stars Get In Your Eyes,Perry Como,Perry Como,jazz,19521206,11,1,21,19530329
+7,8,Wild Horses,Perry Como,Perry Como,jazz,19530215,18,7,12,19530329
+8,6,Pretend,Nat King Cole,Nat King Cole,jazz,19530222,11,3,19,19530329
+9,7,Your Cheating Heart,Joni James,Joni James,jazz,19530222,17,7,15,19530329
+10,9,Side By Side,Kay Starr,Kay Starr,jazz,19530131,16,7,13,19530329
+11,12,Anywhere I Wander,Julius Larosa,Julius Larosa,pop,19530207,9,4,9,19530329
+12,17,Caravan,Ralph Marterie,Ralph Marterie,pop,19530322,17,11,10,19530329
+13,10,Have You Heard,Joni James,Joni James,jazz,19530103,11,5,14,19530329
+14,NEW,I'm Sitting On Top Of The World,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19530329,14,14,4,19530329
+15,16,Hold Me Thrill Me Kiss Me,Karen Chandler,Karen Chandler,pop,19521227,20,7,14,19530329
+16,13,Hot Toddy,Ralph Flanagan,Ralph Flanagan,jazz,19530124,17,12,14,19530329
+17,18,No Help Wanted,Rusty Draper,Rusty Draper,country / folk,19530301,19,15,7,19530329
+18,15,Downhearted,Eddie Fisher,Eddie Fisher,jazz,19530315,20,15,3,19530329
+19,14,Oh Happy Day,Lawrence Welk / Larry Hooper,Lawrence Welk / Larry Hooper,pop,19530124,13,11,10,19530329
+20,19,Seven Lonely Days,Georgia Gibbs,Georgia Gibbs,pop,19530315,19,11,16,19530329
+1,2,How Much Is That Doggie In The Window,Patti Page,Patti Page,jazz,19530207,11,1,20,19530322
+2,1,Till I Waltz Again With You,Teresa Brewer,Teresa Brewer,pop,19521213,18,1,22,19530322
+3,3,Don't Let The Stars Get In Your Eyes,Perry Como,Perry Como,jazz,19521206,11,1,21,19530322
+4,4,I Believe,Frankie Laine,Frankie Laine,country / folk,19530222,16,2,22,19530322
+5,5,Tell Me You're Mine,Gaylords,Gaylords,pop,19521220,19,3,22,19530322
+6,6,Pretend,Nat King Cole,Nat King Cole,jazz,19530222,11,3,19,19530322
+7,8,Your Cheating Heart,Joni James,Joni James,jazz,19530222,17,7,15,19530322
+8,10,Wild Horses,Perry Como,Perry Como,jazz,19530215,18,7,12,19530322
+9,11,Side By Side,Kay Starr,Kay Starr,jazz,19530131,16,7,13,19530322
+10,9,Have You Heard,Joni James,Joni James,jazz,19530103,11,5,14,19530322
+11,16,Tell Me A Story,Frankie Laine / Jimmy Boyd,Frankie Laine / Jimmy Boyd,pop,19530315,16,4,12,19530322
+12,7,Anywhere I Wander,Julius Larosa,Julius Larosa,pop,19530207,9,4,9,19530322
+13,14,Hot Toddy,Ralph Flanagan,Ralph Flanagan,jazz,19530124,17,12,14,19530322
+14,12,Oh Happy Day,Lawrence Welk / Larry Hooper,Lawrence Welk / Larry Hooper,pop,19530124,13,11,10,19530322
+15,20,Downhearted,Eddie Fisher,Eddie Fisher,jazz,19530315,20,15,3,19530322
+16,13,Hold Me Thrill Me Kiss Me,Karen Chandler,Karen Chandler,pop,19521227,20,7,14,19530322
+17,NEW,Caravan,Ralph Marterie,Ralph Marterie,pop,19530322,17,11,10,19530322
+18,15,No Help Wanted,Rusty Draper,Rusty Draper,country / folk,19530301,19,15,7,19530322
+19,19,Seven Lonely Days,Georgia Gibbs,Georgia Gibbs,pop,19530315,19,11,16,19530322
+20,NEW,Why Don't You Believe Me,Joni James,Joni James,jazz,19530322,20,20,1,19530322
+1,1,Till I Waltz Again With You,Teresa Brewer,Teresa Brewer,pop,19521213,18,1,22,19530315
+2,3,How Much Is That Doggie In The Window,Patti Page,Patti Page,jazz,19530207,11,1,20,19530315
+3,2,Don't Let The Stars Get In Your Eyes,Perry Como,Perry Como,jazz,19521206,11,1,21,19530315
+4,10,I Believe,Frankie Laine,Frankie Laine,country / folk,19530222,16,2,22,19530315
+5,4,Tell Me You're Mine,Gaylords,Gaylords,pop,19521220,19,3,22,19530315
+6,6,Pretend,Nat King Cole,Nat King Cole,jazz,19530222,11,3,19,19530315
+7,5,Anywhere I Wander,Julius Larosa,Julius Larosa,pop,19530207,9,4,9,19530315
+8,12,Your Cheating Heart,Joni James,Joni James,jazz,19530222,17,7,15,19530315
+9,9,Have You Heard,Joni James,Joni James,jazz,19530103,11,5,14,19530315
+10,11,Wild Horses,Perry Como,Perry Como,jazz,19530215,18,7,12,19530315
+11,7,Side By Side,Kay Starr,Kay Starr,jazz,19530131,16,7,13,19530315
+12,15,Oh Happy Day,Lawrence Welk / Larry Hooper,Lawrence Welk / Larry Hooper,pop,19530124,13,11,10,19530315
+13,8,Hold Me Thrill Me Kiss Me,Karen Chandler,Karen Chandler,pop,19521227,20,7,14,19530315
+14,14,Hot Toddy,Ralph Flanagan,Ralph Flanagan,jazz,19530124,17,12,14,19530315
+15,17,No Help Wanted,Rusty Draper,Rusty Draper,country / folk,19530301,19,15,7,19530315
+16,NEW,Tell Me A Story,Frankie Laine / Jimmy Boyd,Frankie Laine / Jimmy Boyd,pop,19530315,16,4,12,19530315
+17,16,Oh Happy Day,Don Howard,Don Howard,pop,19521206,19,4,15,19530315
+18,NEW,Pretend,Eileen Barton,Eileen Barton,pop,19530315,18,18,1,19530315
+19,NEW,Seven Lonely Days,Georgia Gibbs,Georgia Gibbs,pop,19530315,19,11,16,19530315
+20,NEW,Downhearted,Eddie Fisher,Eddie Fisher,jazz,19530315,20,15,3,19530315
+1,1,Till I Waltz Again With You,Teresa Brewer,Teresa Brewer,pop,19521213,18,1,22,19530308
+2,2,Don't Let The Stars Get In Your Eyes,Perry Como,Perry Como,jazz,19521206,11,1,21,19530308
+3,3,How Much Is That Doggie In The Window,Patti Page,Patti Page,jazz,19530207,11,1,20,19530308
+4,4,Tell Me You're Mine,Gaylords,Gaylords,pop,19521220,19,3,22,19530308
+5,6,Anywhere I Wander,Julius Larosa,Julius Larosa,pop,19530207,9,4,9,19530308
+6,7,Pretend,Nat King Cole,Nat King Cole,jazz,19530222,11,3,19,19530308
+7,9,Side By Side,Kay Starr,Kay Starr,jazz,19530131,16,7,13,19530308
+8,8,Hold Me Thrill Me Kiss Me,Karen Chandler,Karen Chandler,pop,19521227,20,7,14,19530308
+9,5,Have You Heard,Joni James,Joni James,jazz,19530103,11,5,14,19530308
+10,10,I Believe,Frankie Laine,Frankie Laine,country / folk,19530222,16,2,22,19530308
+11,13,Wild Horses,Perry Como,Perry Como,jazz,19530215,18,7,12,19530308
+12,12,Your Cheating Heart,Joni James,Joni James,jazz,19530222,17,7,15,19530308
+13,11,Why Don't You Believe Me,Joni James,Joni James,jazz,19521025,17,1,20,19530308
+14,17,Hot Toddy,Ralph Flanagan,Ralph Flanagan,jazz,19530124,17,12,14,19530308
+15,14,Oh Happy Day,Lawrence Welk / Larry Hooper,Lawrence Welk / Larry Hooper,pop,19530124,13,11,10,19530308
+16,16,Oh Happy Day,Don Howard,Don Howard,pop,19521206,19,4,15,19530308
+17,19,No Help Wanted,Rusty Draper,Rusty Draper,country / folk,19530301,19,15,7,19530308
+18,15,Keep It A Secret,Jo Stafford,Jo Stafford,jazz,19521115,20,6,17,19530308
+19,18,Oh Happy Day,Four Knights,Four Knights,pop,19530131,11,11,6,19530308
+20,NEW,A Fool Such As I,Jo Stafford,Jo Stafford,jazz,19530308,20,20,1,19530308
+1,1,Till I Waltz Again With You,Teresa Brewer,Teresa Brewer,pop,19521213,18,1,22,19530301
+2,2,Don't Let The Stars Get In Your Eyes,Perry Como,Perry Como,jazz,19521206,11,1,21,19530301
+3,6,How Much Is That Doggie In The Window,Patti Page,Patti Page,jazz,19530207,11,1,20,19530301
+4,3,Tell Me You're Mine,Gaylords,Gaylords,pop,19521220,19,3,22,19530301
+5,5,Have You Heard,Joni James,Joni James,jazz,19530103,11,5,14,19530301
+6,4,Anywhere I Wander,Julius Larosa,Julius Larosa,pop,19530207,9,4,9,19530301
+7,11,Pretend,Nat King Cole,Nat King Cole,jazz,19530222,11,3,19,19530301
+8,9,Hold Me Thrill Me Kiss Me,Karen Chandler,Karen Chandler,pop,19521227,20,7,14,19530301
+9,8,Side By Side,Kay Starr,Kay Starr,jazz,19530131,16,7,13,19530301
+10,16,I Believe,Frankie Laine,Frankie Laine,country / folk,19530222,16,2,22,19530301
+11,7,Why Don't You Believe Me,Joni James,Joni James,jazz,19521025,17,1,20,19530301
+12,17,Your Cheating Heart,Joni James,Joni James,jazz,19530222,17,7,15,19530301
+13,14,Wild Horses,Perry Como,Perry Como,jazz,19530215,18,7,12,19530301
+14,13,Oh Happy Day,Lawrence Welk / Larry Hooper,Lawrence Welk / Larry Hooper,pop,19530124,13,11,10,19530301
+15,12,Keep It A Secret,Jo Stafford,Jo Stafford,jazz,19521115,20,6,17,19530301
+16,10,Oh Happy Day,Don Howard,Don Howard,pop,19521206,19,4,15,19530301
+17,15,Hot Toddy,Ralph Flanagan,Ralph Flanagan,jazz,19530124,17,12,14,19530301
+18,18,Oh Happy Day,Four Knights,Four Knights,pop,19530131,11,11,6,19530301
+19,NEW,No Help Wanted,Rusty Draper,Rusty Draper,country / folk,19530301,19,15,7,19530301
+20,NEW,Even Now,Eddie Fisher,Eddie Fisher,jazz,19530301,20,20,1,19530301
+1,1,Till I Waltz Again With You,Teresa Brewer,Teresa Brewer,pop,19521213,18,1,22,19530222
+2,2,Don't Let The Stars Get In Your Eyes,Perry Como,Perry Como,jazz,19521206,11,1,21,19530222
+3,3,Tell Me You're Mine,Gaylords,Gaylords,pop,19521220,19,3,22,19530222
+4,6,Anywhere I Wander,Julius Larosa,Julius Larosa,pop,19530207,9,4,9,19530222
+5,5,Have You Heard,Joni James,Joni James,jazz,19530103,11,5,14,19530222
+6,7,How Much Is That Doggie In The Window,Patti Page,Patti Page,jazz,19530207,11,1,20,19530222
+7,4,Why Don't You Believe Me,Joni James,Joni James,jazz,19521025,17,1,20,19530222
+8,12,Side By Side,Kay Starr,Kay Starr,jazz,19530131,16,7,13,19530222
+9,8,Hold Me Thrill Me Kiss Me,Karen Chandler,Karen Chandler,pop,19521227,20,7,14,19530222
+10,9,Oh Happy Day,Don Howard,Don Howard,pop,19521206,19,4,15,19530222
+11,NEW,Pretend,Nat King Cole,Nat King Cole,jazz,19530222,11,3,19,19530222
+12,10,Keep It A Secret,Jo Stafford,Jo Stafford,jazz,19521115,20,6,17,19530222
+13,11,Oh Happy Day,Lawrence Welk / Larry Hooper,Lawrence Welk / Larry Hooper,pop,19530124,13,11,10,19530222
+14,18,Wild Horses,Perry Como,Perry Como,jazz,19530215,18,7,12,19530222
+15,14,Hot Toddy,Ralph Flanagan,Ralph Flanagan,jazz,19530124,17,12,14,19530222
+16,NEW,I Believe,Frankie Laine,Frankie Laine,country / folk,19530222,16,2,22,19530222
+17,NEW,Your Cheating Heart,Joni James,Joni James,jazz,19530222,17,7,15,19530222
+18,13,Oh Happy Day,Four Knights,Four Knights,pop,19530131,11,11,6,19530222
+19,15,Mister Tap-Toe,Doris Day,Doris Day,jazz,19530117,18,15,6,19530222
+20,NEW,Say It With Your Heart,Bob Carroll,Bob Carroll,pop,19530222,20,20,1,19530222
+1,2,Till I Waltz Again With You,Teresa Brewer,Teresa Brewer,pop,19521213,18,1,22,19530215
+2,1,Don't Let The Stars Get In Your Eyes,Perry Como,Perry Como,jazz,19521206,11,1,21,19530215
+3,4,Tell Me You're Mine,Gaylords,Gaylords,pop,19521220,19,3,22,19530215
+4,3,Why Don't You Believe Me,Joni James,Joni James,jazz,19521025,17,1,20,19530215
+5,5,Have You Heard,Joni James,Joni James,jazz,19530103,11,5,14,19530215
+6,9,Anywhere I Wander,Julius Larosa,Julius Larosa,pop,19530207,9,4,9,19530215
+7,11,How Much Is That Doggie In The Window,Patti Page,Patti Page,jazz,19530207,11,1,20,19530215
+8,7,Hold Me Thrill Me Kiss Me,Karen Chandler,Karen Chandler,pop,19521227,20,7,14,19530215
+9,6,Oh Happy Day,Don Howard,Don Howard,pop,19521206,19,4,15,19530215
+10,8,Keep It A Secret,Jo Stafford,Jo Stafford,jazz,19521115,20,6,17,19530215
+11,12,Oh Happy Day,Lawrence Welk / Larry Hooper,Lawrence Welk / Larry Hooper,pop,19530124,13,11,10,19530215
+12,13,Side By Side,Kay Starr,Kay Starr,jazz,19530131,16,7,13,19530215
+13,18,Oh Happy Day,Four Knights,Four Knights,pop,19530131,11,11,6,19530215
+14,16,Hot Toddy,Ralph Flanagan,Ralph Flanagan,jazz,19530124,17,12,14,19530215
+15,17,Mister Tap-Toe,Doris Day,Doris Day,jazz,19530117,18,15,6,19530215
+16,NEW,Pretend,Ralph Marterie,Ralph Marterie,pop,19530215,16,16,1,19530215
+17,10,The Glow-Worm,Mills Brothers,Mills Brothers,jazz,19520927,17,2,21,19530215
+18,NEW,Wild Horses,Perry Como,Perry Como,jazz,19530215,18,7,12,19530215
+19,14,Even Now,Eddie Fisher,Eddie Fisher,jazz,19530117,16,12,5,19530215
+20,19,My Baby's Coming Home,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19530110,11,11,6,19530215
+1,1,Don't Let The Stars Get In Your Eyes,Perry Como,Perry Como,jazz,19521206,11,1,21,19530207
+2,2,Till I Waltz Again With You,Teresa Brewer,Teresa Brewer,pop,19521213,18,1,22,19530207
+3,3,Why Don't You Believe Me,Joni James,Joni James,jazz,19521025,17,1,20,19530207
+4,4,Tell Me You're Mine,Gaylords,Gaylords,pop,19521220,19,3,22,19530207
+5,7,Have You Heard,Joni James,Joni James,jazz,19530103,11,5,14,19530207
+6,6,Oh Happy Day,Don Howard,Don Howard,pop,19521206,19,4,15,19530207
+7,9,Hold Me Thrill Me Kiss Me,Karen Chandler,Karen Chandler,pop,19521227,20,7,14,19530207
+8,8,Keep It A Secret,Jo Stafford,Jo Stafford,jazz,19521115,20,6,17,19530207
+9,NEW,Anywhere I Wander,Julius Larosa,Julius Larosa,pop,19530207,9,4,9,19530207
+10,5,The Glow-Worm,Mills Brothers,Mills Brothers,jazz,19520927,17,2,21,19530207
+11,NEW,How Much Is That Doggie In The Window,Patti Page,Patti Page,jazz,19530207,11,1,20,19530207
+12,13,Oh Happy Day,Lawrence Welk / Larry Hooper,Lawrence Welk / Larry Hooper,pop,19530124,13,11,10,19530207
+13,16,Side By Side,Kay Starr,Kay Starr,jazz,19530131,16,7,13,19530207
+14,12,Even Now,Eddie Fisher,Eddie Fisher,jazz,19530117,16,12,5,19530207
+15,10,It's In The Book,Johnny Standley,Johnny Standley,pop,19521004,19,1,19,19530207
+16,14,Hot Toddy,Ralph Flanagan,Ralph Flanagan,jazz,19530124,17,12,14,19530207
+17,17,Mister Tap-Toe,Doris Day,Doris Day,jazz,19530117,18,15,6,19530207
+18,11,Oh Happy Day,Four Knights,Four Knights,pop,19530131,11,11,6,19530207
+19,18,My Baby's Coming Home,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19530110,11,11,6,19530207
+20,NEW,Pretend,Nat King Cole,Nat King Cole,jazz,19530207,20,20,1,19530207
+1,1,Don't Let The Stars Get In Your Eyes,Perry Como,Perry Como,jazz,19521206,11,1,21,19530131
+2,3,Till I Waltz Again With You,Teresa Brewer,Teresa Brewer,pop,19521213,18,1,22,19530131
+3,2,Why Don't You Believe Me,Joni James,Joni James,jazz,19521025,17,1,20,19530131
+4,6,Tell Me You're Mine,Gaylords,Gaylords,pop,19521220,19,3,22,19530131
+5,5,The Glow-Worm,Mills Brothers,Mills Brothers,jazz,19520927,17,2,21,19530131
+6,4,Oh Happy Day,Don Howard,Don Howard,pop,19521206,19,4,15,19530131
+7,9,Have You Heard,Joni James,Joni James,jazz,19530103,11,5,14,19530131
+8,7,Keep It A Secret,Jo Stafford,Jo Stafford,jazz,19521115,20,6,17,19530131
+9,10,Hold Me Thrill Me Kiss Me,Karen Chandler,Karen Chandler,pop,19521227,20,7,14,19530131
+10,8,It's In The Book,Johnny Standley,Johnny Standley,pop,19521004,19,1,19,19530131
+11,NEW,Oh Happy Day,Four Knights,Four Knights,pop,19530131,11,11,6,19530131
+12,12,Even Now,Eddie Fisher,Eddie Fisher,jazz,19530117,16,12,5,19530131
+13,13,Oh Happy Day,Lawrence Welk / Larry Hooper,Lawrence Welk / Larry Hooper,pop,19530124,13,11,10,19530131
+14,17,Hot Toddy,Ralph Flanagan,Ralph Flanagan,jazz,19530124,17,12,14,19530131
+15,20,Bye Bye Blues,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19530103,16,11,5,19530131
+16,NEW,Side By Side,Kay Starr,Kay Starr,jazz,19530131,16,7,13,19530131
+17,15,Mister Tap-Toe,Doris Day,Doris Day,jazz,19530117,18,15,6,19530131
+18,16,My Baby's Coming Home,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19530110,11,11,6,19530131
+19,NEW,The Doggie In The Window,Patti Page,Patti Page,jazz,19530131,19,19,1,19530131
+20,NEW,I Went To Your Wedding,Spike Jones,Spike Jones,pop,19530131,20,20,1,19530131
+1,1,Don't Let The Stars Get In Your Eyes,Perry Como,Perry Como,jazz,19521206,11,1,21,19530124
+2,2,Why Don't You Believe Me,Joni James,Joni James,jazz,19521025,17,1,20,19530124
+3,3,Till I Waltz Again With You,Teresa Brewer,Teresa Brewer,pop,19521213,18,1,22,19530124
+4,7,Oh Happy Day,Don Howard,Don Howard,pop,19521206,19,4,15,19530124
+5,4,The Glow-Worm,Mills Brothers,Mills Brothers,jazz,19520927,17,2,21,19530124
+6,6,Tell Me You're Mine,Gaylords,Gaylords,pop,19521220,19,3,22,19530124
+7,10,Keep It A Secret,Jo Stafford,Jo Stafford,jazz,19521115,20,6,17,19530124
+8,5,It's In The Book,Johnny Standley,Johnny Standley,pop,19521004,19,1,19,19530124
+9,8,Have You Heard,Joni James,Joni James,jazz,19530103,11,5,14,19530124
+10,9,Hold Me Thrill Me Kiss Me,Karen Chandler,Karen Chandler,pop,19521227,20,7,14,19530124
+11,12,Why Don't You Believe Me,Patti Page,Patti Page,jazz,19521129,19,11,9,19530124
+12,16,Even Now,Eddie Fisher,Eddie Fisher,jazz,19530117,16,12,5,19530124
+13,NEW,Oh Happy Day,Lawrence Welk / Larry Hooper,Lawrence Welk / Larry Hooper,pop,19530124,13,11,10,19530124
+14,NEW,Because You're Mine,Mario Lanza,Mario Lanza,pop,19530124,14,14,1,19530124
+15,18,Mister Tap-Toe,Doris Day,Doris Day,jazz,19530117,18,15,6,19530124
+16,13,My Baby's Coming Home,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19530110,11,11,6,19530124
+17,NEW,Hot Toddy,Ralph Flanagan,Ralph Flanagan,jazz,19530124,17,12,14,19530124
+18,14,Takes Two To Tango,Pearl Bailey,Pearl Bailey,jazz,19530110,10,10,3,19530124
+19,NEW,Trying,Hilltoppers,Hilltoppers,pop,19530124,19,19,1,19530124
+20,11,Bye Bye Blues,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19530103,16,11,5,19530124
+1,1,Don't Let The Stars Get In Your Eyes,Perry Como,Perry Como,jazz,19521206,11,1,21,19530117
+2,3,Why Don't You Believe Me,Joni James,Joni James,jazz,19521025,17,1,20,19530117
+3,5,Till I Waltz Again With You,Teresa Brewer,Teresa Brewer,pop,19521213,18,1,22,19530117
+4,2,The Glow-Worm,Mills Brothers,Mills Brothers,jazz,19520927,17,2,21,19530117
+5,4,It's In The Book,Johnny Standley,Johnny Standley,pop,19521004,19,1,19,19530117
+6,8,Tell Me You're Mine,Gaylords,Gaylords,pop,19521220,19,3,22,19530117
+7,6,Oh Happy Day,Don Howard,Don Howard,pop,19521206,19,4,15,19530117
+8,9,Have You Heard,Joni James,Joni James,jazz,19530103,11,5,14,19530117
+9,12,Hold Me Thrill Me Kiss Me,Karen Chandler,Karen Chandler,pop,19521227,20,7,14,19530117
+10,7,Keep It A Secret,Jo Stafford,Jo Stafford,jazz,19521115,20,6,17,19530117
+11,16,Bye Bye Blues,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19530103,16,11,5,19530117
+12,15,Why Don't You Believe Me,Patti Page,Patti Page,jazz,19521129,19,11,9,19530117
+13,11,My Baby's Coming Home,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19530110,11,11,6,19530117
+14,10,Takes Two To Tango,Pearl Bailey,Pearl Bailey,jazz,19530110,10,10,3,19530117
+15,19,Lady Of Spain,Eddie Fisher,Eddie Fisher,jazz,19521004,14,9,16,19530117
+16,NEW,Even Now,Eddie Fisher,Eddie Fisher,jazz,19530117,16,12,5,19530117
+17,13,I Went To Your Wedding,Patti Page,Patti Page,jazz,19520830,17,1,21,19530117
+18,NEW,Mister Tap-Toe,Doris Day,Doris Day,jazz,19530117,18,15,6,19530117
+19,14,You Belong To Me,Jo Stafford,Jo Stafford,jazz,19520816,12,1,23,19530117
+20,NEW,Wishing Ring,Joni James,Joni James,jazz,19530117,20,20,1,19530117
+1,2,Don't Let The Stars Get In Your Eyes,Perry Como,Perry Como,jazz,19521206,11,1,21,19530110
+2,4,The Glow-Worm,Mills Brothers,Mills Brothers,jazz,19520927,17,2,21,19530110
+3,3,Why Don't You Believe Me,Joni James,Joni James,jazz,19521025,17,1,20,19530110
+4,5,It's In The Book,Johnny Standley,Johnny Standley,pop,19521004,19,1,19,19530110
+5,6,Till I Waltz Again With You,Teresa Brewer,Teresa Brewer,pop,19521213,18,1,22,19530110
+6,9,Oh Happy Day,Don Howard,Don Howard,pop,19521206,19,4,15,19530110
+7,7,Keep It A Secret,Jo Stafford,Jo Stafford,jazz,19521115,20,6,17,19530110
+8,8,Tell Me You're Mine,Gaylords,Gaylords,pop,19521220,19,3,22,19530110
+9,11,Have You Heard,Joni James,Joni James,jazz,19530103,11,5,14,19530110
+10,NEW,Takes Two To Tango,Pearl Bailey,Pearl Bailey,jazz,19530110,10,10,3,19530110
+11,NEW,My Baby's Coming Home,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19530110,11,11,6,19530110
+12,14,Hold Me Thrill Me Kiss Me,Karen Chandler,Karen Chandler,pop,19521227,20,7,14,19530110
+13,18,I Went To Your Wedding,Patti Page,Patti Page,jazz,19520830,17,1,21,19530110
+14,17,You Belong To Me,Jo Stafford,Jo Stafford,jazz,19520816,12,1,23,19530110
+15,15,Why Don't You Believe Me,Patti Page,Patti Page,jazz,19521129,19,11,9,19530110
+16,16,Bye Bye Blues,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19530103,16,11,5,19530110
+17,19,Jambalaya,Jo Stafford,Jo Stafford,jazz,19520830,13,3,20,19530110
+18,10,Because You're Mine,Mario Lanza,Mario Lanza,pop,19521206,13,1,6,19530110
+19,12,Lady Of Spain,Eddie Fisher,Eddie Fisher,jazz,19521004,14,9,16,19530110
+20,20,Lady Of Spain,Les Paul,Les Paul,jazz,19530103,20,20,2,19530110
+1,1,I Saw Mummy Kissing Santa Claus,Jimmy Boyd,Jimmy Boyd,pop,19521206,13,1,6,19530103
+2,3,Don't Let The Stars Get In Your Eyes,Perry Como,Perry Como,jazz,19521206,11,1,21,19530103
+3,2,Why Don't You Believe Me,Joni James,Joni James,jazz,19521025,17,1,20,19530103
+4,4,The Glow-Worm,Mills Brothers,Mills Brothers,jazz,19520927,17,2,21,19530103
+5,5,It's In The Book,Johnny Standley,Johnny Standley,pop,19521004,19,1,19,19530103
+6,10,Till I Waltz Again With You,Teresa Brewer,Teresa Brewer,pop,19521213,18,1,22,19530103
+7,6,Keep It A Secret,Jo Stafford,Jo Stafford,jazz,19521115,20,6,17,19530103
+8,14,Tell Me You're Mine,Gaylords,Gaylords,pop,19521220,19,3,22,19530103
+9,9,Oh Happy Day,Don Howard,Don Howard,pop,19521206,19,4,15,19530103
+10,8,Because You're Mine,Mario Lanza,Mario Lanza,pop,19521011,19,7,14,19530103
+11,NEW,Have You Heard,Joni James,Joni James,jazz,19530103,11,5,14,19530103
+12,13,Lady Of Spain,Eddie Fisher,Eddie Fisher,jazz,19521004,14,9,16,19530103
+13,7,I Saw Mommy Kissing Santa Claus,Spike Jones,Spike Jones,pop,19521220,14,7,3,19530103
+14,20,Hold Me Thrill Me Kiss Me,Karen Chandler,Karen Chandler,pop,19521227,20,7,14,19530103
+15,11,Why Don't You Believe Me,Patti Page,Patti Page,jazz,19521129,19,11,9,19530103
+16,NEW,Bye Bye Blues,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19530103,16,11,5,19530103
+17,16,You Belong To Me,Jo Stafford,Jo Stafford,jazz,19520816,12,1,23,19530103
+18,12,I Went To Your Wedding,Patti Page,Patti Page,jazz,19520830,17,1,21,19530103
+19,17,Jambalaya,Jo Stafford,Jo Stafford,jazz,19520830,13,3,20,19530103
+20,NEW,Lady Of Spain,Les Paul,Les Paul,jazz,19530103,20,20,2,19530103

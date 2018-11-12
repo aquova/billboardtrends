@@ -1,0 +1,554 @@
+this_week_position,last_week_position,track,artist,clean_artist,genre,entry_date,entry_position,peak_position,total_weeks,chart_date
+1,1,Ballerina,Vaughn Monroe,Vaughn Monroe,jazz,19471108,4,1,21,19471227
+2,2,Too Fat Polka,Arthur Godfrey,Arthur Godfrey,pop,19471122,7,2,13,19471227
+3,3,Near You,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,19470906,4,1,21,19471227
+4,5,White Christmas,Bing Crosby,Bing Crosby,jazz,19471213,6,3,4,19471227
+5,4,Civilization,Danny Kaye / Andrews Sisters,Danny Kaye / Andrews Sisters,pop,19471122,12,4,6,19471227
+6,9,How Soon,Vaughn Monroe,Vaughn Monroe,jazz,19471129,14,5,12,19471227
+7,13,Serenade Of The Bells,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19471129,12,4,15,19471227
+8,NEW,Civilization,Louis Prima,Louis Prima,jazz,19471227,8,8,1,19471227
+9,NEW,Here Comes Santa Claus,Gene Autry,Gene Autry,country / folk,19471227,9,9,2,19471227
+10,14,How Soon,Bing Crosby / Carmen Cavallaro,Bing Crosby / Carmen Cavallaro,pop,19471213,9,9,8,19471227
+11,8,You Do,Vaughn Monroe,Vaughn Monroe,jazz,19471115,10,8,7,19471227
+12,10,You Do,Bing Crosby / Carmen Cavallaro,Bing Crosby / Carmen Cavallaro,pop,19471129,15,10,5,19471227
+13,15,I Wish I Didn't Love You So,Vaughn Monroe,Vaughn Monroe,jazz,19471018,2,2,11,19471227
+14,NEW,The Whiffenpoof Song,Bing Crosby / Fred Waring Glee Club,Bing Crosby / Fred Waring Glee Club,pop,19471227,14,14,1,19471227
+15,12,Serenade Of The Bells,Jo Stafford,Jo Stafford,jazz,19471220,12,6,8,19471227
+1,1,Ballerina,Vaughn Monroe,Vaughn Monroe,jazz,19471108,4,1,21,19471220
+2,3,Too Fat Polka,Arthur Godfrey,Arthur Godfrey,pop,19471122,7,2,13,19471220
+3,2,Near You,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,19470906,4,1,21,19471220
+4,13,Civilization,Danny Kaye / Andrews Sisters,Danny Kaye / Andrews Sisters,pop,19471122,12,4,6,19471220
+5,6,White Christmas,Bing Crosby,Bing Crosby,jazz,19471213,6,3,4,19471220
+6,4,How Soon,Jack Owens,Jack Owens,pop,19471108,7,4,7,19471220
+7,7,Near You,Larry Green / Trio,Larry Green / Trio,pop,19471018,4,3,10,19471220
+8,15,You Do,Vaughn Monroe,Vaughn Monroe,jazz,19471115,10,8,7,19471220
+9,5,How Soon,Vaughn Monroe,Vaughn Monroe,jazz,19471129,14,5,12,19471220
+10,11,You Do,Bing Crosby / Carmen Cavallaro,Bing Crosby / Carmen Cavallaro,pop,19471129,15,10,5,19471220
+11,14,Golden Earrings,Peggy Lee,Peggy Lee,jazz,19471129,11,11,4,19471220
+12,NEW,Serenade Of The Bells,Jo Stafford,Jo Stafford,jazz,19471220,12,6,8,19471220
+13,12,Serenade Of The Bells,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19471129,12,4,15,19471220
+14,9,How Soon,Bing Crosby / Carmen Cavallaro,Bing Crosby / Carmen Cavallaro,pop,19471213,9,9,8,19471220
+15,8,I Wish I Didn't Love You So,Vaughn Monroe,Vaughn Monroe,jazz,19471018,2,2,11,19471220
+1,2,Ballerina,Vaughn Monroe,Vaughn Monroe,jazz,19471108,4,1,21,19471213
+2,1,Near You,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,19470906,4,1,21,19471213
+3,3,Too Fat Polka,Arthur Godfrey,Arthur Godfrey,pop,19471122,7,2,13,19471213
+4,4,How Soon,Jack Owens,Jack Owens,pop,19471108,7,4,7,19471213
+5,14,How Soon,Vaughn Monroe,Vaughn Monroe,jazz,19471129,14,5,12,19471213
+6,NEW,White Christmas,Bing Crosby,Bing Crosby,jazz,19471213,6,3,4,19471213
+7,5,Near You,Larry Green / Trio,Larry Green / Trio,pop,19471018,4,3,10,19471213
+8,8,I Wish I Didn't Love You So,Vaughn Monroe,Vaughn Monroe,jazz,19471018,2,2,11,19471213
+9,NEW,How Soon,Bing Crosby / Carmen Cavallaro,Bing Crosby / Carmen Cavallaro,pop,19471213,9,9,8,19471213
+10,7,The Whiffenpoof Song,Bing Crosby / Fred Waring Glee Club,Bing Crosby / Fred Waring Glee Club,pop,19471206,7,7,2,19471213
+11,13,You Do,Bing Crosby / Carmen Cavallaro,Bing Crosby / Carmen Cavallaro,pop,19471129,15,10,5,19471213
+12,12,Serenade Of The Bells,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19471129,12,4,15,19471213
+13,6,Civilization,Danny Kaye / Andrews Sisters,Danny Kaye / Andrews Sisters,pop,19471122,12,4,6,19471213
+14,11,Golden Earrings,Peggy Lee,Peggy Lee,jazz,19471129,11,11,4,19471213
+15,9,You Do,Vaughn Monroe,Vaughn Monroe,jazz,19471115,10,8,7,19471213
+1,1,Near You,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,19470906,4,1,21,19471206
+2,2,Ballerina,Vaughn Monroe,Vaughn Monroe,jazz,19471108,4,1,21,19471206
+3,5,Too Fat Polka,Arthur Godfrey,Arthur Godfrey,pop,19471122,7,2,13,19471206
+4,6,How Soon,Jack Owens,Jack Owens,pop,19471108,7,4,7,19471206
+5,4,Near You,Larry Green / Trio,Larry Green / Trio,pop,19471018,4,3,10,19471206
+6,7,Civilization,Danny Kaye / Andrews Sisters,Danny Kaye / Andrews Sisters,pop,19471122,12,4,6,19471206
+7,NEW,The Whiffenpoof Song,Bing Crosby / Fred Waring Glee Club,Bing Crosby / Fred Waring Glee Club,pop,19471206,7,7,2,19471206
+8,3,I Wish I Didn't Love You So,Vaughn Monroe,Vaughn Monroe,jazz,19471018,2,2,11,19471206
+9,8,You Do,Vaughn Monroe,Vaughn Monroe,jazz,19471115,10,8,7,19471206
+10,10,You Do,Margaret Whiting,Margaret Whiting,pop,19471101,10,10,6,19471206
+11,11,Golden Earrings,Peggy Lee,Peggy Lee,jazz,19471129,11,11,4,19471206
+12,12,Serenade Of The Bells,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19471129,12,4,15,19471206
+13,15,You Do,Bing Crosby / Carmen Cavallaro,Bing Crosby / Carmen Cavallaro,pop,19471129,15,10,5,19471206
+14,14,How Soon,Vaughn Monroe,Vaughn Monroe,jazz,19471129,14,5,12,19471206
+15,NEW,Civilization,Louis Prima,Louis Prima,jazz,19471206,15,15,1,19471206
+1,1,Near You,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,19470906,4,1,21,19471129
+2,2,Ballerina,Vaughn Monroe,Vaughn Monroe,jazz,19471108,4,1,21,19471129
+3,3,I Wish I Didn't Love You So,Vaughn Monroe,Vaughn Monroe,jazz,19471018,2,2,11,19471129
+4,4,Near You,Larry Green / Trio,Larry Green / Trio,pop,19471018,4,3,10,19471129
+5,7,Too Fat Polka,Arthur Godfrey,Arthur Godfrey,pop,19471122,7,2,13,19471129
+6,6,How Soon,Jack Owens,Jack Owens,pop,19471108,7,4,7,19471129
+7,12,Civilization,Danny Kaye / Andrews Sisters,Danny Kaye / Andrews Sisters,pop,19471122,12,4,6,19471129
+8,8,You Do,Vaughn Monroe,Vaughn Monroe,jazz,19471115,10,8,7,19471129
+9,5,Near You,Andrews Sisters,Andrews Sisters,jazz,19471011,6,4,8,19471129
+10,10,You Do,Margaret Whiting,Margaret Whiting,pop,19471101,10,10,6,19471129
+11,NEW,Golden Earrings,Peggy Lee,Peggy Lee,jazz,19471129,11,11,4,19471129
+12,NEW,Serenade Of The Bells,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19471129,12,4,15,19471129
+13,NEW,I Wish I Didn't Love You So,Dinah Shore,Dinah Shore,jazz,19471129,13,13,1,19471129
+14,NEW,How Soon,Vaughn Monroe,Vaughn Monroe,jazz,19471129,14,5,12,19471129
+15,NEW,You Do,Bing Crosby / Carmen Cavallaro,Bing Crosby / Carmen Cavallaro,pop,19471129,15,10,5,19471129
+1,1,Near You,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,19470906,4,1,21,19471122
+2,5,Ballerina,Vaughn Monroe,Vaughn Monroe,jazz,19471108,4,1,21,19471122
+3,2,I Wish I Didn't Love You So,Vaughn Monroe,Vaughn Monroe,jazz,19471018,2,2,11,19471122
+4,3,Near You,Larry Green / Trio,Larry Green / Trio,pop,19471018,4,3,10,19471122
+5,4,Near You,Andrews Sisters,Andrews Sisters,jazz,19471011,6,4,8,19471122
+6,6,How Soon,Jack Owens,Jack Owens,pop,19471108,7,4,7,19471122
+7,NEW,Too Fat Polka,Arthur Godfrey,Arthur Godfrey,pop,19471122,7,2,13,19471122
+8,10,You Do,Vaughn Monroe,Vaughn Monroe,jazz,19471115,10,8,7,19471122
+9,14,The Whiffenpoof Song,Bing Crosby / Fred Waring Glee Club,Bing Crosby / Fred Waring Glee Club,pop,19471115,14,9,2,19471122
+10,12,You Do,Margaret Whiting,Margaret Whiting,pop,19471101,10,10,6,19471122
+11,13,I Wish I Didn't Love You So,Dick Haymes,Dick Haymes,jazz,19471108,9,9,3,19471122
+12,NEW,Civilization,Danny Kaye / Andrews Sisters,Danny Kaye / Andrews Sisters,pop,19471122,12,4,6,19471122
+13,NEW,Feudin' And Fightin',Dorothy Shay,Dorothy Shay,pop,19471122,13,13,1,19471122
+14,NEW,Civilization,Louis Prima,Louis Prima,jazz,19471122,14,14,1,19471122
+1,1,Near You,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,19470906,4,1,21,19471115
+2,2,I Wish I Didn't Love You So,Vaughn Monroe,Vaughn Monroe,jazz,19471018,2,2,11,19471115
+3,3,Near You,Larry Green / Trio,Larry Green / Trio,pop,19471018,4,3,10,19471115
+4,5,Near You,Andrews Sisters,Andrews Sisters,jazz,19471011,6,4,8,19471115
+5,4,Ballerina,Vaughn Monroe,Vaughn Monroe,jazz,19471108,4,1,21,19471115
+6,7,How Soon,Jack Owens,Jack Owens,pop,19471108,7,4,7,19471115
+7,NEW,When You Were Sweet Sixteen,Perry Como,Perry Como,jazz,19471115,7,7,1,19471115
+8,6,I Wonder Who's Kissing Her Now,Perry Como,Perry Como,jazz,19471101,5,5,3,19471115
+9,NEW,I Wish I Didn't Love You So,Dinah Shore,Dinah Shore,jazz,19471115,9,9,1,19471115
+10,NEW,You Do,Vaughn Monroe,Vaughn Monroe,jazz,19471115,10,8,7,19471115
+11,NEW,I Wish I Didn't Love You So,Betty Hutton,Betty Hutton,jazz,19471115,11,11,1,19471115
+12,10,You Do,Margaret Whiting,Margaret Whiting,pop,19471101,10,10,6,19471115
+13,9,I Wish I Didn't Love You So,Dick Haymes,Dick Haymes,jazz,19471108,9,9,3,19471115
+14,NEW,The Whiffenpoof Song,Bing Crosby / Fred Waring Glee Club,Bing Crosby / Fred Waring Glee Club,pop,19471115,14,9,2,19471115
+1,1,Near You,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,19470906,4,1,21,19471108
+2,2,I Wish I Didn't Love You So,Vaughn Monroe,Vaughn Monroe,jazz,19471018,2,2,11,19471108
+3,3,Near You,Larry Green / Trio,Larry Green / Trio,pop,19471018,4,3,10,19471108
+4,NEW,Ballerina,Vaughn Monroe,Vaughn Monroe,jazz,19471108,4,1,21,19471108
+5,4,Near You,Andrews Sisters,Andrews Sisters,jazz,19471011,6,4,8,19471108
+6,5,I Wonder Who's Kissing Her Now,Perry Como,Perry Como,jazz,19471101,5,5,3,19471108
+7,NEW,How Soon,Jack Owens,Jack Owens,pop,19471108,7,4,7,19471108
+8,NEW,Too Fat Polka,Arthur Godfrey,Arthur Godfrey,pop,19471108,8,8,1,19471108
+9,NEW,I Wish I Didn't Love You So,Dick Haymes,Dick Haymes,jazz,19471108,9,9,3,19471108
+10,10,You Do,Margaret Whiting,Margaret Whiting,pop,19471101,10,10,6,19471108
+1,1,Near You,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,19470906,4,1,21,19471101
+2,2,I Wish I Didn't Love You So,Vaughn Monroe,Vaughn Monroe,jazz,19471018,2,2,11,19471101
+3,3,Near You,Larry Green / Trio,Larry Green / Trio,pop,19471018,4,3,10,19471101
+4,4,Near You,Andrews Sisters,Andrews Sisters,jazz,19471011,6,4,8,19471101
+5,NEW,I Wonder Who's Kissing Her Now,Perry Como,Perry Como,jazz,19471101,5,5,3,19471101
+6,8,An Apple Blossom Wedding,Sammy Kaye / Don Cornell,Sammy Kaye / Don Cornell,pop,19471018,8,6,3,19471101
+7,6,I Wish I Didn't Love You So,Betty Hutton,Betty Hutton,jazz,19471018,7,6,3,19471101
+8,9,Near You,Alvino Rey / Jimmy Joyce,Alvino Rey / Jimmy Joyce,pop,19471025,9,8,2,19471101
+9,NEW,You Do,Vaughn Monroe,Vaughn Monroe,jazz,19471101,9,9,1,19471101
+10,NEW,You Do,Margaret Whiting,Margaret Whiting,pop,19471101,10,10,6,19471101
+1,1,Near You,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,19470906,4,1,21,19471025
+2,2,I Wish I Didn't Love You So,Vaughn Monroe,Vaughn Monroe,jazz,19471018,2,2,11,19471025
+3,4,Near You,Larry Green / Trio,Larry Green / Trio,pop,19471018,4,3,10,19471025
+4,5,Near You,Andrews Sisters,Andrews Sisters,jazz,19471011,6,4,8,19471025
+5,6,When You Were Sweet Sixteen,Perry Como,Perry Como,jazz,19470906,5,2,8,19471025
+6,7,I Wish I Didn't Love You So,Betty Hutton,Betty Hutton,jazz,19471018,7,6,3,19471025
+7,9,Feudin' And Fightin',Dorothy Shay,Dorothy Shay,pop,19470906,9,4,8,19471025
+8,8,An Apple Blossom Wedding,Sammy Kaye / Don Cornell,Sammy Kaye / Don Cornell,pop,19471018,8,6,3,19471025
+9,NEW,Near You,Alvino Rey / Jimmy Joyce,Alvino Rey / Jimmy Joyce,pop,19471025,9,8,2,19471025
+10,NEW,"Kokomo, Indiana",Vaughn Monroe,Vaughn Monroe,jazz,19471025,10,10,1,19471025
+1,1,Near You,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,19470906,4,1,21,19471018
+2,NEW,I Wish I Didn't Love You So,Vaughn Monroe,Vaughn Monroe,jazz,19471018,2,2,11,19471018
+3,3,I Wonder Who's Kissing Her Now,Ted Weems / Perry Como,Ted Weems / Perry Como,pop,19470830,7,3,8,19471018
+4,NEW,Near You,Larry Green / Trio,Larry Green / Trio,pop,19471018,4,3,10,19471018
+5,6,Near You,Andrews Sisters,Andrews Sisters,jazz,19471011,6,4,8,19471018
+6,2,When You Were Sweet Sixteen,Perry Como,Perry Como,jazz,19470906,5,2,8,19471018
+7,NEW,I Wish I Didn't Love You So,Betty Hutton,Betty Hutton,jazz,19471018,7,6,3,19471018
+8,NEW,An Apple Blossom Wedding,Sammy Kaye / Don Cornell,Sammy Kaye / Don Cornell,pop,19471018,8,6,3,19471018
+9,8,Feudin' And Fightin',Dorothy Shay,Dorothy Shay,pop,19470906,9,4,8,19471018
+10,NEW,Feudin' And Fightin',Jo Stafford,Jo Stafford,jazz,19471018,10,10,1,19471018
+1,1,Near You,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,19470906,4,1,21,19471011
+2,4,When You Were Sweet Sixteen,Perry Como,Perry Como,jazz,19470906,5,2,8,19471011
+3,3,I Wonder Who's Kissing Her Now,Ted Weems / Perry Como,Ted Weems / Perry Como,pop,19470830,7,3,8,19471011
+4,2,Smoke! Smoke! Smoke! (That Cigarette),Tex Williams,Tex Williams,country / folk,19470726,8,1,12,19471011
+5,7,Temptation (Tim-Tayshun),Red Ingle And The Natural Seven,Red Ingle And The Natural Seven,pop,19470712,5,2,14,19471011
+6,NEW,Near You,Andrews Sisters,Andrews Sisters,jazz,19471011,6,4,8,19471011
+7,8,Peg O' My Heart,Three Suns,Three Suns,pop,19470628,4,2,16,19471011
+8,5,Feudin' And Fightin',Dorothy Shay,Dorothy Shay,pop,19470906,9,4,8,19471011
+9,NEW,Near You,Elliot Lawrence / Rosalind Patton,Elliot Lawrence / Rosalind Patton,pop,19471011,9,9,1,19471011
+10,9,That's My Desire,Sammy Kaye / Don Cornell,Sammy Kaye / Don Cornell,pop,19470621,10,3,17,19471011
+1,1,Near You,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,19470906,4,1,21,19471004
+2,2,Smoke! Smoke! Smoke! (That Cigarette),Tex Williams,Tex Williams,country / folk,19470726,8,1,12,19471004
+3,3,I Wonder Who's Kissing Her Now,Ted Weems / Perry Como,Ted Weems / Perry Como,pop,19470830,7,3,8,19471004
+4,5,When You Were Sweet Sixteen,Perry Como,Perry Como,jazz,19470906,5,2,8,19471004
+5,8,Feudin' And Fightin',Dorothy Shay,Dorothy Shay,pop,19470906,9,4,8,19471004
+6,6,Peg O' My Heart,Harmonicats,Harmonicats,pop,19470920,8,6,3,19471004
+7,10,Temptation (Tim-Tayshun),Red Ingle And The Natural Seven,Red Ingle And The Natural Seven,pop,19470712,5,2,14,19471004
+8,7,Peg O' My Heart,Three Suns,Three Suns,pop,19470628,4,2,16,19471004
+9,4,That's My Desire,Sammy Kaye / Don Cornell,Sammy Kaye / Don Cornell,pop,19470621,10,3,17,19471004
+10,NEW,I Have But One Heart,Vic Damone,Vic Damone,jazz,19471004,10,10,1,19471004
+1,1,Near You,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,19470906,4,1,21,19470927
+2,2,Smoke! Smoke! Smoke! (That Cigarette),Tex Williams,Tex Williams,country / folk,19470726,8,1,12,19470927
+3,3,I Wonder Who's Kissing Her Now,Ted Weems / Perry Como,Ted Weems / Perry Como,pop,19470830,7,3,8,19470927
+4,4,That's My Desire,Sammy Kaye / Don Cornell,Sammy Kaye / Don Cornell,pop,19470621,10,3,17,19470927
+5,5,When You Were Sweet Sixteen,Perry Como,Perry Como,jazz,19470906,5,2,8,19470927
+6,8,Peg O' My Heart,Harmonicats,Harmonicats,pop,19470920,8,6,3,19470927
+7,6,Peg O' My Heart,Three Suns,Three Suns,pop,19470628,4,2,16,19470927
+8,9,Feudin' And Fightin',Dorothy Shay,Dorothy Shay,pop,19470906,9,4,8,19470927
+9,NEW,Smoke! Smoke! Smoke! (That Cigarette),Phil Harris,Phil Harris,pop,19470927,9,9,1,19470927
+10,7,Temptation (Tim-Tayshun),Red Ingle And The Natural Seven,Red Ingle And The Natural Seven,pop,19470712,5,2,14,19470927
+1,5,Near You,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,19470906,4,1,21,19470920
+2,1,Smoke! Smoke! Smoke! (That Cigarette),Tex Williams,Tex Williams,country / folk,19470726,8,1,12,19470920
+3,3,I Wonder Who's Kissing Her Now,Ted Weems / Perry Como,Ted Weems / Perry Como,pop,19470830,7,3,8,19470920
+4,6,That's My Desire,Sammy Kaye / Don Cornell,Sammy Kaye / Don Cornell,pop,19470621,10,3,17,19470920
+5,7,When You Were Sweet Sixteen,Perry Como,Perry Como,jazz,19470906,5,2,8,19470920
+6,2,Peg O' My Heart,Three Suns,Three Suns,pop,19470628,4,2,16,19470920
+7,9,Temptation (Tim-Tayshun),Red Ingle And The Natural Seven,Red Ingle And The Natural Seven,pop,19470712,5,2,14,19470920
+8,NEW,Peg O' My Heart,Harmonicats,Harmonicats,pop,19470920,8,6,3,19470920
+9,4,Feudin' And Fightin',Dorothy Shay,Dorothy Shay,pop,19470906,9,4,8,19470920
+10,NEW,I Wish I Didn't Love You So,Vaughn Monroe,Vaughn Monroe,jazz,19470920,10,10,1,19470920
+1,1,Smoke! Smoke! Smoke! (That Cigarette),Tex Williams,Tex Williams,country / folk,19470726,8,1,12,19470913
+2,8,Peg O' My Heart,Three Suns,Three Suns,pop,19470628,4,2,16,19470913
+3,7,I Wonder Who's Kissing Her Now,Ted Weems / Perry Como,Ted Weems / Perry Como,pop,19470830,7,3,8,19470913
+4,9,Feudin' And Fightin',Dorothy Shay,Dorothy Shay,pop,19470906,9,4,8,19470913
+5,4,Near You,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,19470906,4,1,21,19470913
+6,6,That's My Desire,Sammy Kaye / Don Cornell,Sammy Kaye / Don Cornell,pop,19470621,10,3,17,19470913
+7,5,When You Were Sweet Sixteen,Perry Como,Perry Como,jazz,19470906,5,2,8,19470913
+8,NEW,Smoke! Smoke! Smoke! (That Cigarette),Phil Harris,Phil Harris,pop,19470913,8,8,1,19470913
+9,2,Temptation (Tim-Tayshun),Red Ingle And The Natural Seven,Red Ingle And The Natural Seven,pop,19470712,5,2,14,19470913
+10,NEW,Peg O' My Heart,Buddy Clark,Buddy Clark,jazz,19470913,10,10,1,19470913
+1,1,Smoke! Smoke! Smoke! (That Cigarette),Tex Williams,Tex Williams,country / folk,19470726,8,1,12,19470906
+2,2,Temptation (Tim-Tayshun),Red Ingle And The Natural Seven,Red Ingle And The Natural Seven,pop,19470712,5,2,14,19470906
+3,6,Peg O'My Heart,Harmonicats,Harmonicats,pop,19470524,7,1,16,19470906
+4,NEW,Near You,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,19470906,4,1,21,19470906
+5,NEW,When You Were Sweet Sixteen,Perry Como,Perry Como,jazz,19470906,5,2,8,19470906
+6,5,That's My Desire,Sammy Kaye / Don Cornell,Sammy Kaye / Don Cornell,pop,19470621,10,3,17,19470906
+7,7,I Wonder Who's Kissing Her Now,Ted Weems / Perry Como,Ted Weems / Perry Como,pop,19470830,7,3,8,19470906
+8,3,Peg O' My Heart,Three Suns,Three Suns,pop,19470628,4,2,16,19470906
+9,NEW,Feudin' And Fightin',Dorothy Shay,Dorothy Shay,pop,19470906,9,4,8,19470906
+10,NEW,"I Wonder, I Wonder, I Wonder",Eddy Howard,Eddy Howard,jazz,19470906,10,10,1,19470906
+1,1,Smoke! Smoke! Smoke! (That Cigarette),Tex Williams,Tex Williams,country / folk,19470726,8,1,12,19470830
+2,2,Temptation (Tim-Tayshun),Red Ingle And The Natural Seven,Red Ingle And The Natural Seven,pop,19470712,5,2,14,19470830
+3,4,Peg O' My Heart,Three Suns,Three Suns,pop,19470628,4,2,16,19470830
+4,NEW,Peg O' My Heart,Buddy Clark,Buddy Clark,jazz,19470830,4,4,1,19470830
+5,5,That's My Desire,Sammy Kaye / Don Cornell,Sammy Kaye / Don Cornell,pop,19470621,10,3,17,19470830
+6,3,Peg O'My Heart,Harmonicats,Harmonicats,pop,19470524,7,1,16,19470830
+7,NEW,I Wonder Who's Kissing Her Now,Ted Weems / Perry Como,Ted Weems / Perry Como,pop,19470830,7,3,8,19470830
+8,NEW,I Have But One Heart,Vic Damone,Vic Damone,jazz,19470830,8,8,1,19470830
+9,8,Peg O' My Heart,Art Lund,Art Lund,jazz,19470628,7,6,10,19470830
+10,9,Smoke! Smoke! Smoke! (That Cigarette),Phil Harris,Phil Harris,pop,19470823,9,9,2,19470830
+1,1,Smoke! Smoke! Smoke! (That Cigarette),Tex Williams,Tex Williams,country / folk,19470726,8,1,12,19470823
+2,3,Temptation (Tim-Tayshun),Red Ingle And The Natural Seven,Red Ingle And The Natural Seven,pop,19470712,5,2,14,19470823
+3,2,Peg O'My Heart,Harmonicats,Harmonicats,pop,19470524,7,1,16,19470823
+4,5,Peg O' My Heart,Three Suns,Three Suns,pop,19470628,4,2,16,19470823
+5,4,That's My Desire,Sammy Kaye / Don Cornell,Sammy Kaye / Don Cornell,pop,19470621,10,3,17,19470823
+6,6,"Chi-Baba, Chi-Baba",Perry Como,Perry Como,jazz,19470607,10,1,12,19470823
+7,7,"I Wonder, I Wonder, I Wonder",Eddy Howard,Eddy Howard,jazz,19470607,8,3,12,19470823
+8,8,Peg O' My Heart,Art Lund,Art Lund,jazz,19470628,7,6,10,19470823
+9,NEW,Smoke! Smoke! Smoke! (That Cigarette),Phil Harris,Phil Harris,pop,19470823,9,9,2,19470823
+10,NEW,When You Were Sweet Sixteen,Perry Como,Perry Como,jazz,19470823,10,10,1,19470823
+1,1,Smoke! Smoke! Smoke! (That Cigarette),Tex Williams,Tex Williams,country / folk,19470726,8,1,12,19470816
+2,3,Peg O'My Heart,Harmonicats,Harmonicats,pop,19470524,7,1,16,19470816
+3,2,Temptation (Tim-Tayshun),Red Ingle And The Natural Seven,Red Ingle And The Natural Seven,pop,19470712,5,2,14,19470816
+4,5,That's My Desire,Sammy Kaye / Don Cornell,Sammy Kaye / Don Cornell,pop,19470621,10,3,17,19470816
+5,4,Peg O' My Heart,Three Suns,Three Suns,pop,19470628,4,2,16,19470816
+6,6,"Chi-Baba, Chi-Baba",Perry Como,Perry Como,jazz,19470607,10,1,12,19470816
+7,7,"I Wonder, I Wonder, I Wonder",Eddy Howard,Eddy Howard,jazz,19470607,8,3,12,19470816
+8,8,Peg O' My Heart,Art Lund,Art Lund,jazz,19470628,7,6,10,19470816
+9,9,Peg O' My Heart,Buddy Clark,Buddy Clark,jazz,19470809,9,9,2,19470816
+10,10,"I Wonder, I Wonder, I Wonder",Guy Lombardo / Don Rodney,Guy Lombardo / Don Rodney,pop,19470719,8,8,5,19470816
+1,6,Smoke! Smoke! Smoke! (That Cigarette),Tex Williams,Tex Williams,country / folk,19470726,8,1,12,19470809
+2,2,Temptation (Tim-Tayshun),Red Ingle And The Natural Seven,Red Ingle And The Natural Seven,pop,19470712,5,2,14,19470809
+3,1,Peg O'My Heart,Harmonicats,Harmonicats,pop,19470524,7,1,16,19470809
+4,7,Peg O' My Heart,Three Suns,Three Suns,pop,19470628,4,2,16,19470809
+5,3,That's My Desire,Sammy Kaye / Don Cornell,Sammy Kaye / Don Cornell,pop,19470621,10,3,17,19470809
+6,4,"Chi-Baba, Chi-Baba",Perry Como,Perry Como,jazz,19470607,10,1,12,19470809
+7,5,"I Wonder, I Wonder, I Wonder",Eddy Howard,Eddy Howard,jazz,19470607,8,3,12,19470809
+8,8,Peg O' My Heart,Art Lund,Art Lund,jazz,19470628,7,6,10,19470809
+9,NEW,Peg O' My Heart,Buddy Clark,Buddy Clark,jazz,19470809,9,9,2,19470809
+10,10,"I Wonder, I Wonder, I Wonder",Guy Lombardo / Don Rodney,Guy Lombardo / Don Rodney,pop,19470719,8,8,5,19470809
+1,1,Peg O'My Heart,Harmonicats,Harmonicats,pop,19470524,7,1,16,19470802
+2,3,Temptation (Tim-Tayshun),Red Ingle And The Natural Seven,Red Ingle And The Natural Seven,pop,19470712,5,2,14,19470802
+3,5,That's My Desire,Sammy Kaye / Don Cornell,Sammy Kaye / Don Cornell,pop,19470621,10,3,17,19470802
+4,2,"Chi-Baba, Chi-Baba",Perry Como,Perry Como,jazz,19470607,10,1,12,19470802
+5,6,"I Wonder, I Wonder, I Wonder",Eddy Howard,Eddy Howard,jazz,19470607,8,3,12,19470802
+6,8,Smoke! Smoke! Smoke! (That Cigarette),Tex Williams,Tex Williams,country / folk,19470726,8,1,12,19470802
+7,4,Peg O' My Heart,Three Suns,Three Suns,pop,19470628,4,2,16,19470802
+8,7,Peg O' My Heart,Art Lund,Art Lund,jazz,19470628,7,6,10,19470802
+9,NEW,That's My Desire,Frankie Laine,Frankie Laine,country / folk,19470802,9,9,1,19470802
+10,9,"I Wonder, I Wonder, I Wonder",Guy Lombardo / Don Rodney,Guy Lombardo / Don Rodney,pop,19470719,8,8,5,19470802
+1,1,Peg O'My Heart,Harmonicats,Harmonicats,pop,19470524,7,1,16,19470726
+2,2,"Chi-Baba, Chi-Baba",Perry Como,Perry Como,jazz,19470607,10,1,12,19470726
+3,5,Temptation (Tim-Tayshun),Red Ingle And The Natural Seven,Red Ingle And The Natural Seven,pop,19470712,5,2,14,19470726
+4,3,Peg O' My Heart,Three Suns,Three Suns,pop,19470628,4,2,16,19470726
+5,6,That's My Desire,Sammy Kaye / Don Cornell,Sammy Kaye / Don Cornell,pop,19470621,10,3,17,19470726
+6,4,"I Wonder, I Wonder, I Wonder",Eddy Howard,Eddy Howard,jazz,19470607,8,3,12,19470726
+7,7,Peg O' My Heart,Art Lund,Art Lund,jazz,19470628,7,6,10,19470726
+8,NEW,Smoke! Smoke! Smoke! (That Cigarette),Tex Williams,Tex Williams,country / folk,19470726,8,1,12,19470726
+9,8,"I Wonder, I Wonder, I Wonder",Guy Lombardo / Don Rodney,Guy Lombardo / Don Rodney,pop,19470719,8,8,5,19470726
+10,NEW,Peg O' My Heart,Buddy Clark,Buddy Clark,jazz,19470726,10,10,1,19470726
+1,2,Peg O'My Heart,Harmonicats,Harmonicats,pop,19470524,7,1,16,19470719
+2,1,"Chi-Baba, Chi-Baba",Perry Como,Perry Como,jazz,19470607,10,1,12,19470719
+3,4,Peg O' My Heart,Three Suns,Three Suns,pop,19470628,4,2,16,19470719
+4,3,"I Wonder, I Wonder, I Wonder",Eddy Howard,Eddy Howard,jazz,19470607,8,3,12,19470719
+5,5,Temptation (Tim-Tayshun),Red Ingle And The Natural Seven,Red Ingle And The Natural Seven,pop,19470712,5,2,14,19470719
+6,7,That's My Desire,Sammy Kaye / Don Cornell,Sammy Kaye / Don Cornell,pop,19470621,10,3,17,19470719
+7,6,Peg O' My Heart,Art Lund,Art Lund,jazz,19470628,7,6,10,19470719
+8,NEW,"I Wonder, I Wonder, I Wonder",Guy Lombardo / Don Rodney,Guy Lombardo / Don Rodney,pop,19470719,8,8,5,19470719
+9,8,Across The Alley From The Alamo,Mills Brothers,Mills Brothers,jazz,19470524,9,4,9,19470719
+10,10,That's My Desire,Frankie Laine,Frankie Laine,country / folk,19470705,7,7,3,19470719
+1,1,"Chi-Baba, Chi-Baba",Perry Como,Perry Como,jazz,19470607,10,1,12,19470712
+2,3,Peg O'My Heart,Harmonicats,Harmonicats,pop,19470524,7,1,16,19470712
+3,4,"I Wonder, I Wonder, I Wonder",Eddy Howard,Eddy Howard,jazz,19470607,8,3,12,19470712
+4,2,Peg O' My Heart,Three Suns,Three Suns,pop,19470628,4,2,16,19470712
+5,NEW,Temptation (Tim-Tayshun),Red Ingle And The Natural Seven,Red Ingle And The Natural Seven,pop,19470712,5,2,14,19470712
+6,8,Peg O' My Heart,Art Lund,Art Lund,jazz,19470628,7,6,10,19470712
+7,5,That's My Desire,Sammy Kaye / Don Cornell,Sammy Kaye / Don Cornell,pop,19470621,10,3,17,19470712
+8,6,Across The Alley From The Alamo,Mills Brothers,Mills Brothers,jazz,19470524,9,4,9,19470712
+9,10,Peg O' My Heart,Buddy Clark,Buddy Clark,jazz,19470705,10,9,2,19470712
+10,7,That's My Desire,Frankie Laine,Frankie Laine,country / folk,19470705,7,7,3,19470712
+1,1,"Chi-Baba, Chi-Baba",Perry Como,Perry Como,jazz,19470607,10,1,12,19470705
+2,4,Peg O' My Heart,Three Suns,Three Suns,pop,19470628,4,2,16,19470705
+3,2,Peg O'My Heart,Harmonicats,Harmonicats,pop,19470524,7,1,16,19470705
+4,3,"I Wonder, I Wonder, I Wonder",Eddy Howard,Eddy Howard,jazz,19470607,8,3,12,19470705
+5,6,That's My Desire,Sammy Kaye / Don Cornell,Sammy Kaye / Don Cornell,pop,19470621,10,3,17,19470705
+6,5,Across The Alley From The Alamo,Mills Brothers,Mills Brothers,jazz,19470524,9,4,9,19470705
+7,NEW,That's My Desire,Frankie Laine,Frankie Laine,country / folk,19470705,7,7,3,19470705
+8,7,Peg O' My Heart,Art Lund,Art Lund,jazz,19470628,7,6,10,19470705
+9,8,"I Wonder, I Wonder, I Wonder",Guy Lombardo / Don Rodney,Guy Lombardo / Don Rodney,pop,19470628,8,8,2,19470705
+10,NEW,Peg O' My Heart,Buddy Clark,Buddy Clark,jazz,19470705,10,9,2,19470705
+1,2,"Chi-Baba, Chi-Baba",Perry Como,Perry Como,jazz,19470607,10,1,12,19470628
+2,1,Peg O'My Heart,Harmonicats,Harmonicats,pop,19470524,7,1,16,19470628
+3,3,"I Wonder, I Wonder, I Wonder",Eddy Howard,Eddy Howard,jazz,19470607,8,3,12,19470628
+4,NEW,Peg O' My Heart,Three Suns,Three Suns,pop,19470628,4,2,16,19470628
+5,4,Across The Alley From The Alamo,Mills Brothers,Mills Brothers,jazz,19470524,9,4,9,19470628
+6,10,That's My Desire,Sammy Kaye / Don Cornell,Sammy Kaye / Don Cornell,pop,19470621,10,3,17,19470628
+7,NEW,Peg O' My Heart,Art Lund,Art Lund,jazz,19470628,7,6,10,19470628
+8,NEW,"I Wonder, I Wonder, I Wonder",Guy Lombardo / Don Rodney,Guy Lombardo / Don Rodney,pop,19470628,8,8,2,19470628
+9,NEW,Mam'selle,Art Lund,Art Lund,jazz,19470628,9,9,1,19470628
+10,NEW,Temptation (Tim-Tayshun),Red Ingle / Jo Stafford / Natural Seven,Red Ingle / Jo Stafford / Natural Seven,pop,19470628,10,10,1,19470628
+1,2,Peg O'My Heart,Harmonicats,Harmonicats,pop,19470524,7,1,16,19470621
+2,10,"Chi-Baba, Chi-Baba",Perry Como,Perry Como,jazz,19470607,10,1,12,19470621
+3,8,"I Wonder, I Wonder, I Wonder",Eddy Howard,Eddy Howard,jazz,19470607,8,3,12,19470621
+4,5,Across The Alley From The Alamo,Mills Brothers,Mills Brothers,jazz,19470524,9,4,9,19470621
+5,1,Mam'selle,Art Lund,Art Lund,jazz,19470419,9,1,10,19470621
+6,4,Linda,Ray Noble / Buddy Clark,Ray Noble / Buddy Clark,pop,19470329,7,2,13,19470621
+7,7,Mam'selle,Dick Haymes,Dick Haymes,jazz,19470503,6,4,8,19470621
+8,3,Heartaches,Ted Weems,Ted Weems,pop,19470308,6,1,16,19470621
+9,6,My Adobe Hacienda,Eddy Howard,Eddy Howard,jazz,19470412,6,4,11,19470621
+10,NEW,That's My Desire,Sammy Kaye / Don Cornell,Sammy Kaye / Don Cornell,pop,19470621,10,3,17,19470621
+1,1,Mam'selle,Art Lund,Art Lund,jazz,19470419,9,1,10,19470614
+2,6,Peg O'My Heart,Harmonicats,Harmonicats,pop,19470524,7,1,16,19470614
+3,3,Heartaches,Ted Weems,Ted Weems,pop,19470308,6,1,16,19470614
+4,2,Linda,Ray Noble / Buddy Clark,Ray Noble / Buddy Clark,pop,19470329,7,2,13,19470614
+5,7,Across The Alley From The Alamo,Mills Brothers,Mills Brothers,jazz,19470524,9,4,9,19470614
+6,5,My Adobe Hacienda,Eddy Howard,Eddy Howard,jazz,19470412,6,4,11,19470614
+7,4,Mam'selle,Dick Haymes,Dick Haymes,jazz,19470503,6,4,8,19470614
+8,8,"I Wonder, I Wonder, I Wonder",Eddy Howard,Eddy Howard,jazz,19470607,8,3,12,19470614
+9,NEW,Mam'selle,Frank Sinatra,Frank Sinatra,jazz,19470614,9,9,1,19470614
+10,10,"Chi-Baba, Chi-Baba",Perry Como,Perry Como,jazz,19470607,10,1,12,19470614
+1,3,Mam'selle,Art Lund,Art Lund,jazz,19470419,9,1,10,19470607
+2,2,Linda,Ray Noble / Buddy Clark,Ray Noble / Buddy Clark,pop,19470329,7,2,13,19470607
+3,1,Heartaches,Ted Weems,Ted Weems,pop,19470308,6,1,16,19470607
+4,4,Mam'selle,Dick Haymes,Dick Haymes,jazz,19470503,6,4,8,19470607
+5,5,My Adobe Hacienda,Eddy Howard,Eddy Howard,jazz,19470412,6,4,11,19470607
+6,7,Peg O'My Heart,Harmonicats,Harmonicats,pop,19470524,7,1,16,19470607
+7,8,Across The Alley From The Alamo,Mills Brothers,Mills Brothers,jazz,19470524,9,4,9,19470607
+8,NEW,"I Wonder, I Wonder, I Wonder",Eddy Howard,Eddy Howard,jazz,19470607,8,3,12,19470607
+9,NEW,Mam'selle,Pied Pipers,Pied Pipers,jazz,19470607,9,9,1,19470607
+10,NEW,"Chi-Baba, Chi-Baba",Perry Como,Perry Como,jazz,19470607,10,1,12,19470607
+1,1,Heartaches,Ted Weems,Ted Weems,pop,19470308,6,1,16,19470531
+2,3,Linda,Ray Noble / Buddy Clark,Ray Noble / Buddy Clark,pop,19470329,7,2,13,19470531
+3,2,Mam'selle,Art Lund,Art Lund,jazz,19470419,9,1,10,19470531
+4,4,Mam'selle,Dick Haymes,Dick Haymes,jazz,19470503,6,4,8,19470531
+5,5,My Adobe Hacienda,Eddy Howard,Eddy Howard,jazz,19470412,6,4,11,19470531
+6,NEW,Mam'selle,Frank Sinatra,Frank Sinatra,jazz,19470531,6,6,1,19470531
+7,7,Peg O'My Heart,Harmonicats,Harmonicats,pop,19470524,7,1,16,19470531
+8,9,Across The Alley From The Alamo,Mills Brothers,Mills Brothers,jazz,19470524,9,4,9,19470531
+9,6,Linda,Charlie Spivak / Tommy Mercer,Charlie Spivak / Tommy Mercer,pop,19470405,10,6,9,19470531
+10,8,Mam'selle,Dennis Day,Dennis Day,pop,19470503,9,8,5,19470531
+1,1,Heartaches,Ted Weems,Ted Weems,pop,19470308,6,1,16,19470524
+2,2,Mam'selle,Art Lund,Art Lund,jazz,19470419,9,1,10,19470524
+3,3,Linda,Ray Noble / Buddy Clark,Ray Noble / Buddy Clark,pop,19470329,7,2,13,19470524
+4,4,Mam'selle,Dick Haymes,Dick Haymes,jazz,19470503,6,4,8,19470524
+5,5,My Adobe Hacienda,Eddy Howard,Eddy Howard,jazz,19470412,6,4,11,19470524
+6,6,Linda,Charlie Spivak / Tommy Mercer,Charlie Spivak / Tommy Mercer,pop,19470405,10,6,9,19470524
+7,NEW,Peg O'My Heart,Harmonicats,Harmonicats,pop,19470524,7,1,16,19470524
+8,8,Mam'selle,Dennis Day,Dennis Day,pop,19470503,9,8,5,19470524
+9,NEW,Across The Alley From The Alamo,Mills Brothers,Mills Brothers,jazz,19470524,9,4,9,19470524
+10,9,Mam'selle,Pied Pipers,Pied Pipers,jazz,19470510,10,9,3,19470524
+1,1,Heartaches,Ted Weems,Ted Weems,pop,19470308,6,1,16,19470517
+2,3,Mam'selle,Art Lund,Art Lund,jazz,19470419,9,1,10,19470517
+3,2,Linda,Ray Noble / Buddy Clark,Ray Noble / Buddy Clark,pop,19470329,7,2,13,19470517
+4,4,Mam'selle,Dick Haymes,Dick Haymes,jazz,19470503,6,4,8,19470517
+5,5,My Adobe Hacienda,Eddy Howard,Eddy Howard,jazz,19470412,6,4,11,19470517
+6,7,Linda,Charlie Spivak / Tommy Mercer,Charlie Spivak / Tommy Mercer,pop,19470405,10,6,9,19470517
+7,NEW,Mam'selle,Frank Sinatra,Frank Sinatra,jazz,19470517,7,7,1,19470517
+8,9,Mam'selle,Dennis Day,Dennis Day,pop,19470503,9,8,5,19470517
+9,10,Mam'selle,Pied Pipers,Pied Pipers,jazz,19470510,10,9,3,19470517
+10,6,Anniversary Song,Al Jolson,Al Jolson,jazz,19470214,10,2,14,19470517
+1,1,Heartaches,Ted Weems,Ted Weems,pop,19470308,6,1,16,19470510
+2,2,Linda,Ray Noble / Buddy Clark,Ray Noble / Buddy Clark,pop,19470329,7,2,13,19470510
+3,3,Mam'selle,Art Lund,Art Lund,jazz,19470419,9,1,10,19470510
+4,6,Mam'selle,Dick Haymes,Dick Haymes,jazz,19470503,6,4,8,19470510
+5,5,My Adobe Hacienda,Eddy Howard,Eddy Howard,jazz,19470412,6,4,11,19470510
+6,4,Anniversary Song,Al Jolson,Al Jolson,jazz,19470214,10,2,14,19470510
+7,7,Linda,Charlie Spivak / Tommy Mercer,Charlie Spivak / Tommy Mercer,pop,19470405,10,6,9,19470510
+8,8,Heartaches,Harry James / Marion Morgan,Harry James / Marion Morgan,pop,19470426,8,8,3,19470510
+9,9,Mam'selle,Dennis Day,Dennis Day,pop,19470503,9,8,5,19470510
+10,NEW,Mam'selle,Pied Pipers,Pied Pipers,jazz,19470510,10,9,3,19470510
+1,1,Heartaches,Ted Weems,Ted Weems,pop,19470308,6,1,16,19470503
+2,2,Linda,Ray Noble / Buddy Clark,Ray Noble / Buddy Clark,pop,19470329,7,2,13,19470503
+3,4,Mam'selle,Art Lund,Art Lund,jazz,19470419,9,1,10,19470503
+4,3,Anniversary Song,Al Jolson,Al Jolson,jazz,19470214,10,2,14,19470503
+5,5,My Adobe Hacienda,Eddy Howard,Eddy Howard,jazz,19470412,6,4,11,19470503
+6,NEW,Mam'selle,Dick Haymes,Dick Haymes,jazz,19470503,6,4,8,19470503
+7,6,Linda,Charlie Spivak / Tommy Mercer,Charlie Spivak / Tommy Mercer,pop,19470405,10,6,9,19470503
+8,8,Heartaches,Harry James / Marion Morgan,Harry James / Marion Morgan,pop,19470426,8,8,3,19470503
+9,NEW,Mam'selle,Dennis Day,Dennis Day,pop,19470503,9,8,5,19470503
+10,NEW,Anniversary Song,Dinah Shore,Dinah Shore,jazz,19470503,10,10,1,19470503
+1,1,Heartaches,Ted Weems,Ted Weems,pop,19470308,6,1,16,19470426
+2,2,Linda,Ray Noble / Buddy Clark,Ray Noble / Buddy Clark,pop,19470329,7,2,13,19470426
+3,3,Anniversary Song,Al Jolson,Al Jolson,jazz,19470214,10,2,14,19470426
+4,9,Mam'selle,Art Lund,Art Lund,jazz,19470419,9,1,10,19470426
+5,4,My Adobe Hacienda,Eddy Howard,Eddy Howard,jazz,19470412,6,4,11,19470426
+6,7,Linda,Charlie Spivak / Tommy Mercer,Charlie Spivak / Tommy Mercer,pop,19470405,10,6,9,19470426
+7,NEW,Peg O' My Heart,Harmonicats,Harmonicats,pop,19470426,7,7,1,19470426
+8,NEW,Heartaches,Harry James / Marion Morgan,Harry James / Marion Morgan,pop,19470426,8,8,3,19470426
+9,NEW,Anniversary Song,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,19470426,9,9,1,19470426
+10,8,Anniversary Song,Guy Lombardo / Kenny Gardner,Guy Lombardo / Kenny Gardner,pop,19470221,6,4,10,19470426
+1,1,Heartaches,Ted Weems,Ted Weems,pop,19470308,6,1,16,19470419
+2,3,Linda,Ray Noble / Buddy Clark,Ray Noble / Buddy Clark,pop,19470329,7,2,13,19470419
+3,2,Anniversary Song,Al Jolson,Al Jolson,jazz,19470214,10,2,14,19470419
+4,6,My Adobe Hacienda,Eddy Howard,Eddy Howard,jazz,19470412,6,4,11,19470419
+5,7,Anniversary Song,Dinah Shore,Dinah Shore,jazz,19470308,7,4,7,19470419
+6,5,Managua Nicaragua,Freddy Martin / Johnny Cochran / Ensemble,Freddy Martin / Johnny Cochran / Ensemble,pop,19470207,7,1,11,19470419
+7,10,Linda,Charlie Spivak / Tommy Mercer,Charlie Spivak / Tommy Mercer,pop,19470405,10,6,9,19470419
+8,8,Anniversary Song,Guy Lombardo / Kenny Gardner,Guy Lombardo / Kenny Gardner,pop,19470221,6,4,10,19470419
+9,NEW,Mam'selle,Art Lund,Art Lund,jazz,19470419,9,1,10,19470419
+10,4,Managua Nicaragua,Guy Lombardo / Don Rodney / Trio,Guy Lombardo / Don Rodney / Trio,pop,19470221,8,4,9,19470419
+1,1,Heartaches,Ted Weems,Ted Weems,pop,19470308,6,1,16,19470412
+2,2,Anniversary Song,Al Jolson,Al Jolson,jazz,19470214,10,2,14,19470412
+3,3,Linda,Ray Noble / Buddy Clark,Ray Noble / Buddy Clark,pop,19470329,7,2,13,19470412
+4,4,Managua Nicaragua,Guy Lombardo / Don Rodney / Trio,Guy Lombardo / Don Rodney / Trio,pop,19470221,8,4,9,19470412
+5,5,Managua Nicaragua,Freddy Martin / Johnny Cochran / Ensemble,Freddy Martin / Johnny Cochran / Ensemble,pop,19470207,7,1,11,19470412
+6,NEW,My Adobe Hacienda,Eddy Howard,Eddy Howard,jazz,19470412,6,4,11,19470412
+7,7,Anniversary Song,Dinah Shore,Dinah Shore,jazz,19470308,7,4,7,19470412
+8,8,Anniversary Song,Guy Lombardo / Kenny Gardner,Guy Lombardo / Kenny Gardner,pop,19470221,6,4,10,19470412
+9,9,Anniversary Song,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,19470228,10,3,7,19470412
+10,10,Linda,Charlie Spivak / Tommy Mercer,Charlie Spivak / Tommy Mercer,pop,19470405,10,6,9,19470412
+1,1,Heartaches,Ted Weems,Ted Weems,pop,19470308,6,1,16,19470405
+2,2,Anniversary Song,Al Jolson,Al Jolson,jazz,19470214,10,2,14,19470405
+3,7,Linda,Ray Noble / Buddy Clark,Ray Noble / Buddy Clark,pop,19470329,7,2,13,19470405
+4,10,Managua Nicaragua,Guy Lombardo / Don Rodney / Trio,Guy Lombardo / Don Rodney / Trio,pop,19470221,8,4,9,19470405
+5,3,Managua Nicaragua,Freddy Martin / Johnny Cochran / Ensemble,Freddy Martin / Johnny Cochran / Ensemble,pop,19470207,7,1,11,19470405
+6,6,Guilty,Margaret Whiting,Margaret Whiting,pop,19470329,6,6,2,19470405
+7,4,Anniversary Song,Dinah Shore,Dinah Shore,jazz,19470308,7,4,7,19470405
+8,8,Anniversary Song,Guy Lombardo / Kenny Gardner,Guy Lombardo / Kenny Gardner,pop,19470221,6,4,10,19470405
+9,5,Anniversary Song,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,19470228,10,3,7,19470405
+10,NEW,Linda,Charlie Spivak / Tommy Mercer,Charlie Spivak / Tommy Mercer,pop,19470405,10,6,9,19470405
+1,1,Heartaches,Ted Weems,Ted Weems,pop,19470308,6,1,16,19470329
+2,2,Anniversary Song,Al Jolson,Al Jolson,jazz,19470214,10,2,14,19470329
+3,3,Managua Nicaragua,Freddy Martin / Johnny Cochran / Ensemble,Freddy Martin / Johnny Cochran / Ensemble,pop,19470207,7,1,11,19470329
+4,4,Anniversary Song,Dinah Shore,Dinah Shore,jazz,19470308,7,4,7,19470329
+5,8,Anniversary Song,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,19470228,10,3,7,19470329
+6,NEW,Guilty,Margaret Whiting,Margaret Whiting,pop,19470329,6,6,2,19470329
+7,NEW,Linda,Ray Noble / Buddy Clark,Ray Noble / Buddy Clark,pop,19470329,7,2,13,19470329
+8,6,Anniversary Song,Guy Lombardo / Kenny Gardner,Guy Lombardo / Kenny Gardner,pop,19470221,6,4,10,19470329
+9,NEW,How Are Things In Glocca Mora,Dick Haymes,Dick Haymes,jazz,19470329,9,9,1,19470329
+10,5,Managua Nicaragua,Guy Lombardo / Don Rodney / Trio,Guy Lombardo / Don Rodney / Trio,pop,19470221,8,4,9,19470329
+1,1,Heartaches,Ted Weems,Ted Weems,pop,19470308,6,1,16,19470322
+2,2,Anniversary Song,Al Jolson,Al Jolson,jazz,19470214,10,2,14,19470322
+3,3,Managua Nicaragua,Freddy Martin / Johnny Cochran / Ensemble,Freddy Martin / Johnny Cochran / Ensemble,pop,19470207,7,1,11,19470322
+4,5,Anniversary Song,Dinah Shore,Dinah Shore,jazz,19470308,7,4,7,19470322
+5,8,Managua Nicaragua,Guy Lombardo / Don Rodney / Trio,Guy Lombardo / Don Rodney / Trio,pop,19470221,8,4,9,19470322
+6,4,Anniversary Song,Guy Lombardo / Kenny Gardner,Guy Lombardo / Kenny Gardner,pop,19470221,6,4,10,19470322
+7,NEW,Anniversary Song,Andy Russell,Andy Russell,pop,19470322,7,7,1,19470322
+8,6,Anniversary Song,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,19470228,10,3,7,19470322
+9,9,Managua Nicaragua,Kay Kyser / Gloria Wood / Campus Kids,Kay Kyser / Gloria Wood / Campus Kids,pop,19470315,9,9,2,19470322
+10,7,Open The Door Richard,Louis Jordan,Louis Jordan,jazz,19470315,7,7,2,19470322
+1,6,Heartaches,Ted Weems,Ted Weems,pop,19470308,6,1,16,19470315
+2,2,Anniversary Song,Al Jolson,Al Jolson,jazz,19470214,10,2,14,19470315
+3,1,Managua Nicaragua,Freddy Martin / Johnny Cochran / Ensemble,Freddy Martin / Johnny Cochran / Ensemble,pop,19470207,7,1,11,19470315
+4,5,Anniversary Song,Guy Lombardo / Kenny Gardner,Guy Lombardo / Kenny Gardner,pop,19470221,6,4,10,19470315
+5,7,Anniversary Song,Dinah Shore,Dinah Shore,jazz,19470308,7,4,7,19470315
+6,3,Anniversary Song,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,19470228,10,3,7,19470315
+7,NEW,Open The Door Richard,Louis Jordan,Louis Jordan,jazz,19470315,7,7,2,19470315
+8,10,Managua Nicaragua,Guy Lombardo / Don Rodney / Trio,Guy Lombardo / Don Rodney / Trio,pop,19470221,8,4,9,19470315
+9,NEW,Managua Nicaragua,Kay Kyser / Gloria Wood / Campus Kids,Kay Kyser / Gloria Wood / Campus Kids,pop,19470315,9,9,2,19470315
+10,NEW,Guilty,Margaret Whiting,Margaret Whiting,pop,19470315,10,10,1,19470315
+1,1,Managua Nicaragua,Freddy Martin / Johnny Cochran / Ensemble,Freddy Martin / Johnny Cochran / Ensemble,pop,19470207,7,1,11,19470308
+2,3,Anniversary Song,Al Jolson,Al Jolson,jazz,19470214,10,2,14,19470308
+3,10,Anniversary Song,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,19470228,10,3,7,19470308
+4,2,Open The Door Richard,Count Basie / Harry Edison / Bill Johnson,Count Basie / Harry Edison / Bill Johnson,pop,19470214,3,1,4,19470308
+5,6,Anniversary Song,Guy Lombardo / Kenny Gardner,Guy Lombardo / Kenny Gardner,pop,19470221,6,4,10,19470308
+6,NEW,Heartaches,Ted Weems,Ted Weems,pop,19470308,6,1,16,19470308
+7,NEW,Anniversary Song,Dinah Shore,Dinah Shore,jazz,19470308,7,4,7,19470308
+8,5,Open The Door Richard,Dusty Fletcher,Dusty Fletcher,pop,19470207,10,3,5,19470308
+9,4,Open The Door Richard,Three Flames,Three Flames,pop,19470221,7,4,3,19470308
+10,8,Managua Nicaragua,Guy Lombardo / Don Rodney / Trio,Guy Lombardo / Don Rodney / Trio,pop,19470221,8,4,9,19470308
+1,2,Managua Nicaragua,Freddy Martin / Johnny Cochran / Ensemble,Freddy Martin / Johnny Cochran / Ensemble,pop,19470207,7,1,11,19470228
+2,1,Open The Door Richard,Count Basie / Harry Edison / Bill Johnson,Count Basie / Harry Edison / Bill Johnson,pop,19470214,3,1,4,19470228
+3,10,Anniversary Song,Al Jolson,Al Jolson,jazz,19470214,10,2,14,19470228
+4,7,Open The Door Richard,Three Flames,Three Flames,pop,19470221,7,4,3,19470228
+5,3,Open The Door Richard,Dusty Fletcher,Dusty Fletcher,pop,19470207,10,3,5,19470228
+6,6,Anniversary Song,Guy Lombardo / Kenny Gardner,Guy Lombardo / Kenny Gardner,pop,19470221,6,4,10,19470228
+7,9,Open The Door Richard,Jack Mcvea,Jack Mcvea,jazz,19470221,9,7,2,19470228
+8,8,Managua Nicaragua,Guy Lombardo / Don Rodney / Trio,Guy Lombardo / Don Rodney / Trio,pop,19470221,8,4,9,19470228
+9,5,Huggin' And Chalkin',Hoagy Carmichael,Hoagy Carmichael,jazz,19461207,10,2,13,19470228
+10,NEW,Anniversary Song,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,19470228,10,3,7,19470228
+1,3,Open The Door Richard,Count Basie / Harry Edison / Bill Johnson,Count Basie / Harry Edison / Bill Johnson,pop,19470214,3,1,4,19470221
+2,4,Managua Nicaragua,Freddy Martin / Johnny Cochran / Ensemble,Freddy Martin / Johnny Cochran / Ensemble,pop,19470207,7,1,11,19470221
+3,7,Open The Door Richard,Dusty Fletcher,Dusty Fletcher,pop,19470207,10,3,5,19470221
+4,1,(I Love You) For Sentimental Reasons,King Cole Trio,King Cole Trio,jazz,19461214,5,1,11,19470221
+5,5,Huggin' And Chalkin',Hoagy Carmichael,Hoagy Carmichael,jazz,19461207,10,2,13,19470221
+6,NEW,Anniversary Song,Guy Lombardo / Kenny Gardner,Guy Lombardo / Kenny Gardner,pop,19470221,6,4,10,19470221
+7,NEW,Open The Door Richard,Three Flames,Three Flames,pop,19470221,7,4,3,19470221
+8,NEW,Managua Nicaragua,Guy Lombardo / Don Rodney / Trio,Guy Lombardo / Don Rodney / Trio,pop,19470221,8,4,9,19470221
+9,NEW,Open The Door Richard,Jack Mcvea,Jack Mcvea,jazz,19470221,9,7,2,19470221
+10,10,Anniversary Song,Al Jolson,Al Jolson,jazz,19470214,10,2,14,19470221
+1,4,(I Love You) For Sentimental Reasons,King Cole Trio,King Cole Trio,jazz,19461214,5,1,11,19470214
+2,1,The Old Lamplighter,Sammy Kaye / Billy Williams,Sammy Kaye / Billy Williams,pop,19461116,5,1,14,19470214
+3,NEW,Open The Door Richard,Count Basie / Harry Edison / Bill Johnson,Count Basie / Harry Edison / Bill Johnson,pop,19470214,3,1,4,19470214
+4,7,Managua Nicaragua,Freddy Martin / Johnny Cochran / Ensemble,Freddy Martin / Johnny Cochran / Ensemble,pop,19470207,7,1,11,19470214
+5,2,Huggin' And Chalkin',Hoagy Carmichael,Hoagy Carmichael,jazz,19461207,10,2,13,19470214
+6,3,Ole Buttermilk Sky,Hoagy Carmichael,Hoagy Carmichael,jazz,19461130,10,2,12,19470214
+7,10,Open The Door Richard,Dusty Fletcher,Dusty Fletcher,pop,19470207,10,3,5,19470214
+8,8,For Sentimental Reasons,Eddy Howard,Eddy Howard,jazz,19470207,8,8,2,19470214
+9,6,For Sentimental Reasons,Dinah Shore,Dinah Shore,jazz,19470207,6,6,2,19470214
+10,NEW,Anniversary Song,Al Jolson,Al Jolson,jazz,19470214,10,2,14,19470214
+1,1,The Old Lamplighter,Sammy Kaye / Billy Williams,Sammy Kaye / Billy Williams,pop,19461116,5,1,14,19470207
+2,4,Huggin' And Chalkin',Hoagy Carmichael,Hoagy Carmichael,jazz,19461207,10,2,13,19470207
+3,2,Ole Buttermilk Sky,Hoagy Carmichael,Hoagy Carmichael,jazz,19461130,10,2,12,19470207
+4,3,(I Love You) For Sentimental Reasons,King Cole Trio,King Cole Trio,jazz,19461214,5,1,11,19470207
+5,5,The Old Lamplighter,Kay Kyser / Michael Douglas,Kay Kyser / Michael Douglas,pop,19461130,7,3,11,19470207
+6,NEW,For Sentimental Reasons,Dinah Shore,Dinah Shore,jazz,19470207,6,6,2,19470207
+7,NEW,Managua Nicaragua,Freddy Martin / Johnny Cochran / Ensemble,Freddy Martin / Johnny Cochran / Ensemble,pop,19470207,7,1,11,19470207
+8,NEW,For Sentimental Reasons,Eddy Howard,Eddy Howard,jazz,19470207,8,8,2,19470207
+9,NEW,For Sentimental Reasons,Charlie Spivak / Jimmy Saunders,Charlie Spivak / Jimmy Saunders,pop,19470207,9,9,1,19470207
+10,NEW,Open The Door Richard,Dusty Fletcher,Dusty Fletcher,pop,19470207,10,3,5,19470207
+1,1,The Old Lamplighter,Sammy Kaye / Billy Williams,Sammy Kaye / Billy Williams,pop,19461116,5,1,14,19470131
+2,2,Ole Buttermilk Sky,Hoagy Carmichael,Hoagy Carmichael,jazz,19461130,10,2,12,19470131
+3,4,(I Love You) For Sentimental Reasons,King Cole Trio,King Cole Trio,jazz,19461214,5,1,11,19470131
+4,3,Huggin' And Chalkin',Hoagy Carmichael,Hoagy Carmichael,jazz,19461207,10,2,13,19470131
+5,5,The Old Lamplighter,Kay Kyser / Michael Douglas,Kay Kyser / Michael Douglas,pop,19461130,7,3,11,19470131
+6,6,(I Love You) For Sentimental Reasons,Eddy Howard,Eddy Howard,jazz,19470117,8,6,3,19470131
+7,9,(I Love You) For Sentimental Reasons,Charlie Spivak / Jimmy Saunders,Charlie Spivak / Jimmy Saunders,pop,19470117,7,7,3,19470131
+8,7,A Gal In Calico,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,19470110,9,6,4,19470131
+9,NEW,(I Love You) For Sentimental Reasons,Dinah Shore,Dinah Shore,jazz,19470131,9,9,1,19470131
+10,NEW,A Gal In Calico,Bing Crosby,Bing Crosby,jazz,19470131,10,10,1,19470131
+1,1,The Old Lamplighter,Sammy Kaye / Billy Williams,Sammy Kaye / Billy Williams,pop,19461116,5,1,14,19470124
+2,2,Ole Buttermilk Sky,Hoagy Carmichael,Hoagy Carmichael,jazz,19461130,10,2,12,19470124
+3,3,Huggin' And Chalkin',Hoagy Carmichael,Hoagy Carmichael,jazz,19461207,10,2,13,19470124
+4,4,(I Love You) For Sentimental Reasons,King Cole Trio,King Cole Trio,jazz,19461214,5,1,11,19470124
+5,5,The Old Lamplighter,Kay Kyser / Michael Douglas,Kay Kyser / Michael Douglas,pop,19461130,7,3,11,19470124
+6,8,(I Love You) For Sentimental Reasons,Eddy Howard,Eddy Howard,jazz,19470117,8,6,3,19470124
+7,6,A Gal In Calico,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,19470110,9,6,4,19470124
+8,NEW,Ole Buttermilk Sky,Kay Kyser / Michael Douglas / Campus Kids,Kay Kyser / Michael Douglas / Campus Kids,pop,19470124,8,8,1,19470124
+9,7,(I Love You) For Sentimental Reasons,Charlie Spivak / Jimmy Saunders,Charlie Spivak / Jimmy Saunders,pop,19470117,7,7,3,19470124
+10,NEW,The Old Lamplighter,Hal Derwin,Hal Derwin,pop,19470124,10,10,1,19470124
+1,1,The Old Lamplighter,Sammy Kaye / Billy Williams,Sammy Kaye / Billy Williams,pop,19461116,5,1,14,19470117
+2,2,Ole Buttermilk Sky,Hoagy Carmichael,Hoagy Carmichael,jazz,19461130,10,2,12,19470117
+3,3,Huggin' And Chalkin',Hoagy Carmichael,Hoagy Carmichael,jazz,19461207,10,2,13,19470117
+4,5,(I Love You) For Sentimental Reasons,King Cole Trio,King Cole Trio,jazz,19461214,5,1,11,19470117
+5,6,The Old Lamplighter,Kay Kyser / Michael Douglas,Kay Kyser / Michael Douglas,pop,19461130,7,3,11,19470117
+6,9,A Gal In Calico,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,19470110,9,6,4,19470117
+7,NEW,(I Love You) For Sentimental Reasons,Charlie Spivak / Jimmy Saunders,Charlie Spivak / Jimmy Saunders,pop,19470117,7,7,3,19470117
+8,NEW,(I Love You) For Sentimental Reasons,Eddy Howard,Eddy Howard,jazz,19470117,8,6,3,19470117
+9,NEW,A Gal In Calico,Bing Crosby,Bing Crosby,jazz,19470117,9,9,1,19470117
+10,NEW,(I Love You) For Sentimental Reasons,Dinah Shore,Dinah Shore,jazz,19470117,10,10,1,19470117
+1,1,The Old Lamplighter,Sammy Kaye / Billy Williams,Sammy Kaye / Billy Williams,pop,19461116,5,1,14,19470110
+2,3,Ole Buttermilk Sky,Hoagy Carmichael,Hoagy Carmichael,jazz,19461130,10,2,12,19470110
+3,7,Huggin' And Chalkin',Hoagy Carmichael,Hoagy Carmichael,jazz,19461207,10,2,13,19470110
+4,4,Ole Buttermilk Sky,Kay Kyser / Michael Douglas / Campus Kids,Kay Kyser / Michael Douglas / Campus Kids,pop,19461102,5,1,11,19470110
+5,6,(I Love You) For Sentimental Reasons,King Cole Trio,King Cole Trio,jazz,19461214,5,1,11,19470110
+6,5,The Old Lamplighter,Kay Kyser / Michael Douglas,Kay Kyser / Michael Douglas,pop,19461130,7,3,11,19470110
+7,2,White Christmas,Bing Crosby,Bing Crosby,jazz,19461220,7,2,4,19470110
+8,9,Rumours Are Flying,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,19460914,2,1,18,19470110
+9,NEW,A Gal In Calico,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,19470110,9,6,4,19470110
+10,10,Ole Buttermilk Sky,Paul Weston / Matt Dennis,Paul Weston / Matt Dennis,pop,19470103,10,10,2,19470110
+1,1,The Old Lamplighter,Sammy Kaye / Billy Williams,Sammy Kaye / Billy Williams,pop,19461116,5,1,14,19470103
+2,2,White Christmas,Bing Crosby,Bing Crosby,jazz,19461220,7,2,4,19470103
+3,6,Ole Buttermilk Sky,Hoagy Carmichael,Hoagy Carmichael,jazz,19461130,10,2,12,19470103
+4,3,Ole Buttermilk Sky,Kay Kyser / Michael Douglas / Campus Kids,Kay Kyser / Michael Douglas / Campus Kids,pop,19461102,5,1,11,19470103
+5,4,The Old Lamplighter,Kay Kyser / Michael Douglas,Kay Kyser / Michael Douglas,pop,19461130,7,3,11,19470103
+6,8,(I Love You) For Sentimental Reasons,King Cole Trio,King Cole Trio,jazz,19461214,5,1,11,19470103
+7,5,Huggin' And Chalkin',Hoagy Carmichael,Hoagy Carmichael,jazz,19461207,10,2,13,19470103
+8,NEW,White Christmas,Frank Sinatra,Frank Sinatra,jazz,19470103,8,8,1,19470103
+9,9,Rumours Are Flying,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,19460914,2,1,18,19470103
+10,NEW,Ole Buttermilk Sky,Paul Weston / Matt Dennis,Paul Weston / Matt Dennis,pop,19470103,10,10,2,19470103
