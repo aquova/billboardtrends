@@ -5,27 +5,42 @@ import re
 import csv
 import random
 import datetime
+import sys
 from requests_oauthlib import OAuth1
 
 API_KEY = '9bf80dfdb834452add05f33d8e735316'
 API_SECRET = 'b0a55ce0e0f89e575432e7a0e2b4c6be'
+genre_cache = {}
 
 def main():
     clean_rows = []
     load_count = 0
     animation = "|/-\\"
 
+
     with open('us_billboard.psv') as f:
 
         psv = csv.reader(f, delimiter='|')
 
-        this_year = str(datetime.datetime.now().year)
+        if len(sys.argv) == 1:
+            this_year = str(datetime.datetime.now().year)
+            start_year = int(datetime.datetime.now().year)
+        else:
+            this_year = sys.argv[1]
+            start_year = int(sys.argv[1])
+
         psv_list = list(psv)
         for i, row in enumerate(psv_list):
+            chart_date = row[10]
+
+
+            if int(chart_date[:4]) > start_year:
+                continue
+
 
 
             # When you reach the previous year, write the current year's data to a csv
-            chart_date = row[10]
+
             if chart_date[:4] != this_year:
 
                 with open(f'charts/{this_year}.csv', 'w+') as chart_file:
@@ -47,8 +62,6 @@ def main():
 
             print(f'Building {this_year}.csv (on month {chart_date[4:6]}) { animation[load_count % len(animation)] } ', end='\r')
             load_count += 1
-            
-            time.sleep(.2)
 
 
 
@@ -65,9 +78,13 @@ def get_genre(artist):
         'api_key': API_KEY
     }
 
+    if artist in genre_cache:
+        return genre_cache[artist], artist
+
     r = requests.get('http://ws.audioscrobbler.com/2.0', params=payload)
     top_tags = json.loads(r.content)
 
+    time.sleep(.2)
 
     if ('error' in top_tags or len(top_tags['toptags']['tag']) < 5):
 
@@ -84,11 +101,15 @@ def get_genre(artist):
             'api_key': API_KEY
         }
 
+        if artist in genre_cache:
+            return genre_cache[artist], artist
+
         r = requests.get('http://ws.audioscrobbler.com/2.0', params=payload)
         top_tags = json.loads(r.content)
 
         if 'toptags' not in top_tags or len(top_tags['toptags']['tag']) == 0:
-            return 'pop'
+            genre_cache[artist] = 'pop'
+            return 'pop', artist
 
 
     genre = top_tags['toptags']['tag'][0]['name']
@@ -96,7 +117,7 @@ def get_genre(artist):
 
     if (genre in ['indie','grunge','new wave','blues','djent','alternative'] or 'rock' in genre or 'metal' in genre):
         clean_genre = 'rock'
-    elif (genre in ['rap','hip hop','cloud rap','trap']):
+    elif (genre in ['rap','hip hop','cloud rap','trap','hip-hop']):
         clean_genre = 'hip-hop'
     elif (genre in ['female vocalists', 'male vocalists','adult contemporary','oldies'] or 'pop' in genre or any(char.isdigit() for char in genre)):
         clean_genre = 'pop'
@@ -114,6 +135,8 @@ def get_genre(artist):
         clean_genre = 'reggae'
     else:
         clean_genre = 'pop'
+
+    genre_cache[artist] = clean_genre
 
     return clean_genre, artist
 
