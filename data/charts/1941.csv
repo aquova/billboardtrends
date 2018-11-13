@@ -1,0 +1,521 @@
+this_week_position,last_week_position,track,artist,clean_artist,genre,entry_date,entry_position,peak_position,total_weeks,chart_date
+1,1,Chattanooga Choo Choo,Glenn Miller & His Orchestra / Tex Beneke & The Modernaires,Glenn Miller,jazz,19410906,9,1,23,19411227
+2,2,Elmer's Tune,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19411101,4,1,15,19411227
+3,4,This Love Of Mine,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19411018,9,3,16,19411227
+4,3,Piano Concerto In B Flat,Freddy Martin & His Orchestra / Jack Fina,Freddy Martin,jazz,19410802,8,1,24,19411227
+5,6,Shepherd Serenade,Bing Crosby,Bing Crosby,jazz,19411206,8,5,6,19411227
+6,5,Jingle Bells,Glenn Miller & His Orchestra / Tex Beneke & Ernie Caceras,Glenn Miller,jazz,19411220,5,5,2,19411227
+7,8,Shepherd Serenade,Horace Heidt & His Orchestra / Larry Cotton & The Glee Club,Horace Heidt,jazz,19411129,8,7,5,19411227
+8,7,You Made Me Love You,Harry James & His Music Makers,Harry James,jazz,19411129,5,5,8,19411227
+9,NEW,This Is No Laughing Matter,Charlie Spivak & His Orchestra / Garry Stevens,Charlie Spivak,jazz,19411227,9,8,2,19411227
+10,NEW,(There'll Be Bluebirds Over) The White Cliffs Of Dover,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,19411227,10,10,1,19411227
+1,2,Chattanooga Choo Choo,Glenn Miller & His Orchestra / Tex Beneke & The Modernaires,Glenn Miller,jazz,19410906,9,1,23,19411220
+2,1,Elmer's Tune,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19411101,4,1,15,19411220
+3,3,Piano Concerto In B Flat,Freddy Martin & His Orchestra / Jack Fina,Freddy Martin,jazz,19410802,8,1,24,19411220
+4,4,This Love Of Mine,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19411018,9,3,16,19411220
+5,NEW,Jingle Bells,Glenn Miller & His Orchestra / Tex Beneke & Ernie Caceras,Glenn Miller,jazz,19411220,5,5,2,19411220
+6,5,Shepherd Serenade,Bing Crosby,Bing Crosby,jazz,19411206,8,5,6,19411220
+7,7,You Made Me Love You,Harry James & His Music Makers,Harry James,jazz,19411129,5,5,8,19411220
+8,8,Shepherd Serenade,Horace Heidt & His Orchestra / Larry Cotton & The Glee Club,Horace Heidt,jazz,19411129,8,7,5,19411220
+9,6,Tonight We Love,Tony Martin / David Rose & His Orchestra,Tony Martin / David Rose,pop,19411101,10,5,8,19411220
+10,10,Elmer's Tune,Dick Jurgens & His Orchestra,Dick Jurgens,pop,19411206,10,10,3,19411220
+1,2,Elmer's Tune,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19411101,4,1,15,19411213
+2,1,Chattanooga Choo Choo,Glenn Miller & His Orchestra / Tex Beneke & The Modernaires,Glenn Miller,jazz,19410906,9,1,23,19411213
+3,3,Piano Concerto In B Flat,Freddy Martin & His Orchestra / Jack Fina,Freddy Martin,jazz,19410802,8,1,24,19411213
+4,4,This Love Of Mine,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19411018,9,3,16,19411213
+5,8,Shepherd Serenade,Bing Crosby,Bing Crosby,jazz,19411206,8,5,6,19411213
+6,5,Tonight We Love,Tony Martin / David Rose & His Orchestra,Tony Martin / David Rose,pop,19411101,10,5,8,19411213
+7,6,You Made Me Love You,Harry James & His Music Makers,Harry James,jazz,19411129,5,5,8,19411213
+8,7,Shepherd Serenade,Horace Heidt & His Orchestra / Larry Cotton & The Glee Club,Horace Heidt,jazz,19411129,8,7,5,19411213
+9,NEW,Two In Love,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19411213,9,9,1,19411213
+10,10,Elmer's Tune,Dick Jurgens & His Orchestra,Dick Jurgens,pop,19411206,10,10,3,19411213
+1,1,Chattanooga Choo Choo,Glenn Miller & His Orchestra / Tex Beneke & The Modernaires,Glenn Miller,jazz,19410906,9,1,23,19411206
+2,3,Elmer's Tune,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19411101,4,1,15,19411206
+3,2,Piano Concerto In B Flat,Freddy Martin & His Orchestra / Jack Fina,Freddy Martin,jazz,19410802,8,1,24,19411206
+4,4,This Love Of Mine,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19411018,9,3,16,19411206
+5,6,Tonight We Love,Tony Martin / David Rose & His Orchestra,Tony Martin / David Rose,pop,19411101,10,5,8,19411206
+6,5,You Made Me Love You,Harry James & His Music Makers,Harry James,jazz,19411129,5,5,8,19411206
+7,8,Shepherd Serenade,Horace Heidt & His Orchestra / Larry Cotton & The Glee Club,Horace Heidt,jazz,19411129,8,7,5,19411206
+8,NEW,Shepherd Serenade,Bing Crosby,Bing Crosby,jazz,19411206,8,5,6,19411206
+9,NEW,I Don't Want To Set The World On Fire,The Ink Spots,The Ink Spots,jazz,19411206,9,9,1,19411206
+10,NEW,Elmer's Tune,Dick Jurgens & His Orchestra,Dick Jurgens,pop,19411206,10,10,3,19411206
+1,1,Chattanooga Choo Choo,Glenn Miller & His Orchestra / Tex Beneke & The Modernaires,Glenn Miller,jazz,19410906,9,1,23,19411129
+2,2,Piano Concerto In B Flat,Freddy Martin & His Orchestra / Jack Fina,Freddy Martin,jazz,19410802,8,1,24,19411129
+3,3,Elmer's Tune,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19411101,4,1,15,19411129
+4,4,This Love Of Mine,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19411018,9,3,16,19411129
+5,NEW,You Made Me Love You,Harry James & His Music Makers,Harry James,jazz,19411129,5,5,8,19411129
+6,5,Tonight We Love,Tony Martin / David Rose & His Orchestra,Tony Martin / David Rose,pop,19411101,10,5,8,19411129
+7,7,I Don't Want To Set The World On Fire,Horace Heidt & His Orchestra / Larry Cotton & Donna & Her Do,Horace Heidt,jazz,19410920,5,2,11,19411129
+8,NEW,Shepherd Serenade,Horace Heidt & His Orchestra / Larry Cotton & The Glee Club,Horace Heidt,jazz,19411129,8,7,5,19411129
+9,9,I Don't Want To Set The World On Fire,Tommy Tucker & His Orchestra / Amy Arnell & The Voices 3,Tommy Tucker,rock,19411122,9,9,2,19411129
+10,NEW,Jim,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19411129,10,10,1,19411129
+1,2,Chattanooga Choo Choo,Glenn Miller & His Orchestra / Tex Beneke & The Modernaires,Glenn Miller,jazz,19410906,9,1,23,19411122
+2,1,Piano Concerto In B Flat,Freddy Martin & His Orchestra / Jack Fina,Freddy Martin,jazz,19410802,8,1,24,19411122
+3,4,Elmer's Tune,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19411101,4,1,15,19411122
+4,3,This Love Of Mine,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19411018,9,3,16,19411122
+5,8,Tonight We Love,Tony Martin / David Rose & His Orchestra,Tony Martin / David Rose,pop,19411101,10,5,8,19411122
+6,6,I Don't Want To Set The World On Fire,The Ink Spots,The Ink Spots,jazz,19411011,5,4,7,19411122
+7,5,I Don't Want To Set The World On Fire,Horace Heidt & His Orchestra / Larry Cotton & Donna & Her Do,Horace Heidt,jazz,19410920,5,2,11,19411122
+8,9,Elmer's Tune,Dick Jurgens & His Orchestra,Dick Jurgens,pop,19411115,9,8,2,19411122
+9,NEW,I Don't Want To Set The World On Fire,Tommy Tucker & His Orchestra / Amy Arnell & The Voices 3,Tommy Tucker,rock,19411122,9,9,2,19411122
+10,NEW,Blues In The Night,Artie Shaw & His Orchestra / Hot Lips Page,Artie Shaw,jazz,19411122,10,10,1,19411122
+1,1,Piano Concerto In B Flat,Freddy Martin & His Orchestra / Jack Fina,Freddy Martin,jazz,19410802,8,1,24,19411115
+2,2,Chattanooga Choo Choo,Glenn Miller & His Orchestra / Tex Beneke & The Modernaires,Glenn Miller,jazz,19410906,9,1,23,19411115
+3,5,This Love Of Mine,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19411018,9,3,16,19411115
+4,3,Elmer's Tune,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19411101,4,1,15,19411115
+5,4,I Don't Want To Set The World On Fire,Horace Heidt & His Orchestra / Larry Cotton & Donna & Her Do,Horace Heidt,jazz,19410920,5,2,11,19411115
+6,7,I Don't Want To Set The World On Fire,The Ink Spots,The Ink Spots,jazz,19411011,5,4,7,19411115
+7,6,Jim,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410927,7,5,8,19411115
+8,8,Tonight We Love,Tony Martin / David Rose & His Orchestra,Tony Martin / David Rose,pop,19411101,10,5,8,19411115
+9,NEW,Elmer's Tune,Dick Jurgens & His Orchestra,Dick Jurgens,pop,19411115,9,8,2,19411115
+10,NEW,You Made Me Love You,Harry James & His Music Makers,Harry James,jazz,19411115,10,10,1,19411115
+1,1,Piano Concerto In B Flat,Freddy Martin & His Orchestra / Jack Fina,Freddy Martin,jazz,19410802,8,1,24,19411108
+2,2,Chattanooga Choo Choo,Glenn Miller & His Orchestra / Tex Beneke & The Modernaires,Glenn Miller,jazz,19410906,9,1,23,19411108
+3,4,Elmer's Tune,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19411101,4,1,15,19411108
+4,3,I Don't Want To Set The World On Fire,Horace Heidt & His Orchestra / Larry Cotton & Donna & Her Do,Horace Heidt,jazz,19410920,5,2,11,19411108
+5,6,This Love Of Mine,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19411018,9,3,16,19411108
+6,8,Jim,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410927,7,5,8,19411108
+7,7,I Don't Want To Set The World On Fire,The Ink Spots,The Ink Spots,jazz,19411011,5,4,7,19411108
+8,10,Tonight We Love,Tony Martin / David Rose & His Orchestra,Tony Martin / David Rose,pop,19411101,10,5,8,19411108
+9,5,I Don't Want To Set The World On Fire,Tommy Tucker & His Orchestra / Amy Arnell & The Voices 3,Tommy Tucker,rock,19411004,6,4,6,19411108
+10,9,Blue Champagne,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19411101,9,9,2,19411108
+1,1,Piano Concerto In B Flat,Freddy Martin & His Orchestra / Jack Fina,Freddy Martin,jazz,19410802,8,1,24,19411101
+2,2,Chattanooga Choo Choo,Glenn Miller & His Orchestra / Tex Beneke & The Modernaires,Glenn Miller,jazz,19410906,9,1,23,19411101
+3,3,I Don't Want To Set The World On Fire,Horace Heidt & His Orchestra / Larry Cotton & Donna & Her Do,Horace Heidt,jazz,19410920,5,2,11,19411101
+4,NEW,Elmer's Tune,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19411101,4,1,15,19411101
+5,6,I Don't Want To Set The World On Fire,Tommy Tucker & His Orchestra / Amy Arnell & The Voices 3,Tommy Tucker,rock,19411004,6,4,6,19411101
+6,7,This Love Of Mine,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19411018,9,3,16,19411101
+7,4,I Don't Want To Set The World On Fire,The Ink Spots,The Ink Spots,jazz,19411011,5,4,7,19411101
+8,5,Jim,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410927,7,5,8,19411101
+9,NEW,Blue Champagne,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19411101,9,9,2,19411101
+10,NEW,Tonight We Love,Tony Martin / David Rose & His Orchestra,Tony Martin / David Rose,pop,19411101,10,5,8,19411101
+1,1,Piano Concerto In B Flat,Freddy Martin & His Orchestra / Jack Fina,Freddy Martin,jazz,19410802,8,1,24,19411025
+2,3,Chattanooga Choo Choo,Glenn Miller & His Orchestra / Tex Beneke & The Modernaires,Glenn Miller,jazz,19410906,9,1,23,19411025
+3,2,I Don't Want To Set The World On Fire,Horace Heidt & His Orchestra / Larry Cotton & Donna & Her Do,Horace Heidt,jazz,19410920,5,2,11,19411025
+4,7,I Don't Want To Set The World On Fire,The Ink Spots,The Ink Spots,jazz,19411011,5,4,7,19411025
+5,8,Jim,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410927,7,5,8,19411025
+6,4,I Don't Want To Set The World On Fire,Tommy Tucker & His Orchestra / Amy Arnell & The Voices 3,Tommy Tucker,rock,19411004,6,4,6,19411025
+7,9,This Love Of Mine,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19411018,9,3,16,19411025
+8,NEW,You Made Me Love You,Harry James & His Music Makers,Harry James,jazz,19411025,8,8,1,19411025
+9,NEW,You And I,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19411025,9,9,1,19411025
+10,5,Jim,Dinah Shore,Dinah Shore,jazz,19411018,5,5,2,19411025
+1,1,Piano Concerto In B Flat,Freddy Martin & His Orchestra / Jack Fina,Freddy Martin,jazz,19410802,8,1,24,19411018
+2,3,I Don't Want To Set The World On Fire,Horace Heidt & His Orchestra / Larry Cotton & Donna & Her Do,Horace Heidt,jazz,19410920,5,2,11,19411018
+3,2,Chattanooga Choo Choo,Glenn Miller & His Orchestra / Tex Beneke & The Modernaires,Glenn Miller,jazz,19410906,9,1,23,19411018
+4,7,I Don't Want To Set The World On Fire,Tommy Tucker & His Orchestra / Amy Arnell & The Voices 3,Tommy Tucker,rock,19411004,6,4,6,19411018
+5,NEW,Jim,Dinah Shore,Dinah Shore,jazz,19411018,5,5,2,19411018
+6,4,Blue Champagne,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410816,7,1,10,19411018
+7,5,I Don't Want To Set The World On Fire,The Ink Spots,The Ink Spots,jazz,19411011,5,4,7,19411018
+8,6,Jim,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410927,7,5,8,19411018
+9,NEW,This Love Of Mine,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19411018,9,3,16,19411018
+10,NEW,Time Was (Duerme),Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19411018,10,10,1,19411018
+1,1,Piano Concerto In B Flat,Freddy Martin & His Orchestra / Jack Fina,Freddy Martin,jazz,19410802,8,1,24,19411011
+2,2,Chattanooga Choo Choo,Glenn Miller & His Orchestra / Tex Beneke & The Modernaires,Glenn Miller,jazz,19410906,9,1,23,19411011
+3,3,I Don't Want To Set The World On Fire,Horace Heidt & His Orchestra / Larry Cotton & Donna & Her Do,Horace Heidt,jazz,19410920,5,2,11,19411011
+4,4,Blue Champagne,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410816,7,1,10,19411011
+5,NEW,I Don't Want To Set The World On Fire,The Ink Spots,The Ink Spots,jazz,19411011,5,4,7,19411011
+6,5,Jim,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410927,7,5,8,19411011
+7,6,I Don't Want To Set The World On Fire,Tommy Tucker & His Orchestra / Amy Arnell & The Voices 3,Tommy Tucker,rock,19411004,6,4,6,19411011
+8,NEW,"Yes, Indeed",Tommy Dorsey & His Orchestra / Jo Stafford & Sy Oliver,Tommy Dorsey,jazz,19411011,8,8,1,19411011
+9,7,You And I,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,19410913,8,7,5,19411011
+10,NEW,You And I,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19411011,10,10,1,19411011
+1,1,Piano Concerto In B Flat,Freddy Martin & His Orchestra / Jack Fina,Freddy Martin,jazz,19410802,8,1,24,19411004
+2,3,Chattanooga Choo Choo,Glenn Miller & His Orchestra / Tex Beneke & The Modernaires,Glenn Miller,jazz,19410906,9,1,23,19411004
+3,2,I Don't Want To Set The World On Fire,Horace Heidt & His Orchestra / Larry Cotton & Donna & Her Do,Horace Heidt,jazz,19410920,5,2,11,19411004
+4,4,Blue Champagne,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410816,7,1,10,19411004
+5,7,Jim,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410927,7,5,8,19411004
+6,NEW,I Don't Want To Set The World On Fire,Tommy Tucker & His Orchestra / Amy Arnell & The Voices 3,Tommy Tucker,rock,19411004,6,4,6,19411004
+7,9,You And I,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,19410913,8,7,5,19411004
+8,5,Green Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410614,8,1,17,19411004
+9,NEW,Jim,Dinah Shore,Dinah Shore,jazz,19411004,9,9,1,19411004
+10,NEW,Elmer's Tune,Dick Jurgens & His Orchestra,Dick Jurgens,pop,19411004,10,10,1,19411004
+1,3,Piano Concerto In B Flat,Freddy Martin & His Orchestra / Jack Fina,Freddy Martin,jazz,19410802,8,1,24,19410927
+2,5,I Don't Want To Set The World On Fire,Horace Heidt & His Orchestra / Larry Cotton & Donna & Her Do,Horace Heidt,jazz,19410920,5,2,11,19410927
+3,2,Chattanooga Choo Choo,Glenn Miller & His Orchestra / Tex Beneke & The Modernaires,Glenn Miller,jazz,19410906,9,1,23,19410927
+4,1,Blue Champagne,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410816,7,1,10,19410927
+5,4,Green Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410614,8,1,17,19410927
+6,7,"Yes, Indeed",Tommy Dorsey & His Orchestra / Jo Stafford & Sy Oliver,Tommy Dorsey,jazz,19410705,10,4,13,19410927
+7,NEW,Jim,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410927,7,5,8,19410927
+8,10,Yours (Quiereme Mucho),Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410809,4,2,8,19410927
+9,8,You And I,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,19410913,8,7,5,19410927
+10,NEW,'Til Reveille,Bing Crosby,Bing Crosby,jazz,19410927,10,10,1,19410927
+1,2,Blue Champagne,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410816,7,1,10,19410920
+2,6,Chattanooga Choo Choo,Glenn Miller & His Orchestra / Tex Beneke & The Modernaires,Glenn Miller,jazz,19410906,9,1,23,19410920
+3,5,Piano Concerto In B Flat,Freddy Martin & His Orchestra / Jack Fina,Freddy Martin,jazz,19410802,8,1,24,19410920
+4,1,Green Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410614,8,1,17,19410920
+5,NEW,I Don't Want To Set The World On Fire,Horace Heidt & His Orchestra / Larry Cotton & Donna & Her Do,Horace Heidt,jazz,19410920,5,2,11,19410920
+6,10,I Don't Want To Set The World On Fire,Tommy Tucker & His Orchestra / Amy Arnell & The Voices 3,Tommy Tucker,rock,19410913,10,6,2,19410920
+7,4,"Yes, Indeed",Tommy Dorsey & His Orchestra / Jo Stafford & Sy Oliver,Tommy Dorsey,jazz,19410705,10,4,13,19410920
+8,8,You And I,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,19410913,8,7,5,19410920
+9,NEW,The Booglie Wooglie Piggy,Glenn Miller & His Orchestra / Tex Beneke & The Modernaires,Glenn Miller,jazz,19410920,9,9,1,19410920
+10,3,Yours (Quiereme Mucho),Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410809,4,2,8,19410920
+1,1,Green Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410614,8,1,17,19410913
+2,3,Blue Champagne,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410816,7,1,10,19410913
+3,2,Yours (Quiereme Mucho),Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410809,4,2,8,19410913
+4,4,"Yes, Indeed",Tommy Dorsey & His Orchestra / Jo Stafford & Sy Oliver,Tommy Dorsey,jazz,19410705,10,4,13,19410913
+5,8,Piano Concerto In B Flat,Freddy Martin & His Orchestra / Jack Fina,Freddy Martin,jazz,19410802,8,1,24,19410913
+6,9,Chattanooga Choo Choo,Glenn Miller & His Orchestra / Tex Beneke & The Modernaires,Glenn Miller,jazz,19410906,9,1,23,19410913
+7,10,'Til Reveille,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19410906,10,7,2,19410913
+8,NEW,You And I,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,19410913,8,7,5,19410913
+9,6,You And I,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19410906,6,6,2,19410913
+10,NEW,I Don't Want To Set The World On Fire,Tommy Tucker & His Orchestra / Amy Arnell & The Voices 3,Tommy Tucker,rock,19410913,10,6,2,19410913
+1,1,Green Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410614,8,1,17,19410906
+2,2,Yours (Quiereme Mucho),Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410809,4,2,8,19410906
+3,9,Blue Champagne,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410816,7,1,10,19410906
+4,6,"Yes, Indeed",Tommy Dorsey & His Orchestra / Jo Stafford & Sy Oliver,Tommy Dorsey,jazz,19410705,10,4,13,19410906
+5,3,Maria Elena,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410517,9,1,17,19410906
+6,NEW,You And I,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19410906,6,6,2,19410906
+7,5,Daddy,Sammy Kaye & His Orchestra / Kaye Choir,Sammy Kaye,jazz,19410531,5,1,15,19410906
+8,7,Piano Concerto In B Flat,Freddy Martin & His Orchestra / Jack Fina,Freddy Martin,jazz,19410802,8,1,24,19410906
+9,NEW,Chattanooga Choo Choo,Glenn Miller & His Orchestra / Tex Beneke & The Modernaires,Glenn Miller,jazz,19410906,9,1,23,19410906
+10,NEW,'Til Reveille,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19410906,10,7,2,19410906
+1,1,Green Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410614,8,1,17,19410830
+2,3,Yours (Quiereme Mucho),Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410809,4,2,8,19410830
+3,6,Maria Elena,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410517,9,1,17,19410830
+4,NEW,You And I,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,19410830,4,4,1,19410830
+5,2,Daddy,Sammy Kaye & His Orchestra / Kaye Choir,Sammy Kaye,jazz,19410531,5,1,15,19410830
+6,5,"Yes, Indeed",Tommy Dorsey & His Orchestra / Jo Stafford & Sy Oliver,Tommy Dorsey,jazz,19410705,10,4,13,19410830
+7,8,Piano Concerto In B Flat,Freddy Martin & His Orchestra / Jack Fina,Freddy Martin,jazz,19410802,8,1,24,19410830
+8,9,The Booglie Wooglie Piggy,Glenn Miller & His Orchestra / Tex Beneke & The Modernaires,Glenn Miller,jazz,19410823,9,8,2,19410830
+9,4,Blue Champagne,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410816,7,1,10,19410830
+10,NEW,Let Me Off Uptown,Gene Krupa & His Orchestra / Anita O'Day & Roy Eldridge,Gene Krupa,jazz,19410830,10,10,1,19410830
+1,2,Green Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410614,8,1,17,19410823
+2,1,Daddy,Sammy Kaye & His Orchestra / Kaye Choir,Sammy Kaye,jazz,19410531,5,1,15,19410823
+3,4,Yours (Quiereme Mucho),Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410809,4,2,8,19410823
+4,7,Blue Champagne,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410816,7,1,10,19410823
+5,5,"Yes, Indeed",Tommy Dorsey & His Orchestra / Jo Stafford & Sy Oliver,Tommy Dorsey,jazz,19410705,10,4,13,19410823
+6,3,Maria Elena,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410517,9,1,17,19410823
+7,8,'Til Reveille,Kay Kyser & His Orchestra / Harry Babbitt & Ginny Simms,Kay Kyser,jazz,19410809,6,6,3,19410823
+8,9,Piano Concerto In B Flat,Freddy Martin & His Orchestra / Jack Fina,Freddy Martin,jazz,19410802,8,1,24,19410823
+9,NEW,The Booglie Wooglie Piggy,Glenn Miller & His Orchestra / Tex Beneke & The Modernaires,Glenn Miller,jazz,19410823,9,8,2,19410823
+10,NEW,Lament To Love,Harry James & His Music Makers / Dick Haymes,Harry James,jazz,19410823,10,10,1,19410823
+1,1,Daddy,Sammy Kaye & His Orchestra / Kaye Choir,Sammy Kaye,jazz,19410531,5,1,15,19410816
+2,2,Green Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410614,8,1,17,19410816
+3,3,Maria Elena,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410517,9,1,17,19410816
+4,4,Yours (Quiereme Mucho),Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410809,4,2,8,19410816
+5,5,"Yes, Indeed",Tommy Dorsey & His Orchestra / Jo Stafford & Sy Oliver,Tommy Dorsey,jazz,19410705,10,4,13,19410816
+6,NEW,'Til Reveille,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19410816,6,6,1,19410816
+7,NEW,Blue Champagne,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410816,7,1,10,19410816
+8,6,'Til Reveille,Kay Kyser & His Orchestra / Harry Babbitt & Ginny Simms,Kay Kyser,jazz,19410809,6,6,3,19410816
+9,9,Piano Concerto In B Flat,Freddy Martin & His Orchestra / Jack Fina,Freddy Martin,jazz,19410802,8,1,24,19410816
+10,10,(I'll Be With You) In Apple Blossom Time,The Andrews Sisters,The Andrews Sisters,jazz,19410802,5,5,3,19410816
+1,1,Daddy,Sammy Kaye & His Orchestra / Kaye Choir,Sammy Kaye,jazz,19410531,5,1,15,19410809
+2,3,Green Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410614,8,1,17,19410809
+3,2,Maria Elena,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410517,9,1,17,19410809
+4,NEW,Yours (Quiereme Mucho),Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410809,4,2,8,19410809
+5,4,"Yes, Indeed",Tommy Dorsey & His Orchestra / Jo Stafford & Sy Oliver,Tommy Dorsey,jazz,19410705,10,4,13,19410809
+6,NEW,'Til Reveille,Kay Kyser & His Orchestra / Harry Babbitt & Ginny Simms,Kay Kyser,jazz,19410809,6,6,3,19410809
+7,NEW,The Booglie Wooglie Piggy,Glenn Miller & His Orchestra / Tex Beneke & The Modernaires,Glenn Miller,jazz,19410809,7,7,1,19410809
+8,NEW,Intermezzo,Wayne King & His Orchestra,Wayne King,jazz,19410809,8,8,1,19410809
+9,8,Piano Concerto In B Flat,Freddy Martin & His Orchestra / Jack Fina,Freddy Martin,jazz,19410802,8,1,24,19410809
+10,5,(I'll Be With You) In Apple Blossom Time,The Andrews Sisters,The Andrews Sisters,jazz,19410802,5,5,3,19410809
+1,1,Daddy,Sammy Kaye & His Orchestra / Kaye Choir,Sammy Kaye,jazz,19410531,5,1,15,19410802
+2,2,Maria Elena,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410517,9,1,17,19410802
+3,3,Green Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410614,8,1,17,19410802
+4,5,"Yes, Indeed",Tommy Dorsey & His Orchestra / Jo Stafford & Sy Oliver,Tommy Dorsey,jazz,19410705,10,4,13,19410802
+5,NEW,(I'll Be With You) In Apple Blossom Time,The Andrews Sisters,The Andrews Sisters,jazz,19410802,5,5,3,19410802
+6,6,Blue Champagne,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410726,6,6,2,19410802
+7,NEW,The Hut-Sut Song (A Swedish Serenade),The King Sisters / Alvino Ray & His Orchestra,The King Sisters / Alvino Ray,pop,19410802,7,7,1,19410802
+8,NEW,Piano Concerto In B Flat,Freddy Martin & His Orchestra / Jack Fina,Freddy Martin,jazz,19410802,8,1,24,19410802
+9,NEW,"Goodbye, Dear, I'll Be Back In A Year",Horace Heidt & His Musical Knights/Ronnie Kemper & Donna Woo,Horace Heidt,jazz,19410802,9,9,1,19410802
+10,NEW,'Til Reveille,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19410802,10,10,1,19410802
+1,1,Daddy,Sammy Kaye & His Orchestra / Kaye Choir,Sammy Kaye,jazz,19410531,5,1,15,19410726
+2,2,Maria Elena,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410517,9,1,17,19410726
+3,3,Green Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410614,8,1,17,19410726
+4,7,Yours,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410705,6,4,4,19410726
+5,6,"Yes, Indeed",Tommy Dorsey & His Orchestra / Jo Stafford & Sy Oliver,Tommy Dorsey,jazz,19410705,10,4,13,19410726
+6,NEW,Blue Champagne,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410726,6,6,2,19410726
+7,5,The Hut-Sut Song (A Swedish Serenade),Freddy Martin & His Orchestra / Eddie Stone,Freddy Martin,jazz,19410531,10,2,9,19410726
+8,NEW,The Booglie Wooglie Piggy,Glenn Miller & His Orchestra / Tex Beneke & The Modernaires,Glenn Miller,jazz,19410726,8,8,1,19410726
+9,NEW,Just A Little Bit South Of North Carolina,Gene Krupa & His Orchestra / Anita O'Day,Gene Krupa,jazz,19410726,9,9,1,19410726
+10,NEW,Intermezzo,Charlie Spivak & His Orchestra,Charlie Spivak & His Orchestra,jazz,19410726,10,10,1,19410726
+1,1,Daddy,Sammy Kaye & His Orchestra / Kaye Choir,Sammy Kaye,jazz,19410531,5,1,15,19410719
+2,2,Maria Elena,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410517,9,1,17,19410719
+3,7,Green Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410614,8,1,17,19410719
+4,4,The Hut-Sut Song (A Swedish Serenade),Horace Heidt & His Musical Knights / Donna & Her Don Juans,Horace Heidt,jazz,19410628,3,3,4,19410719
+5,3,The Hut-Sut Song (A Swedish Serenade),Freddy Martin & His Orchestra / Eddie Stone,Freddy Martin,jazz,19410531,10,2,9,19410719
+6,6,"Yes, Indeed",Tommy Dorsey & His Orchestra / Jo Stafford & Sy Oliver,Tommy Dorsey,jazz,19410705,10,4,13,19410719
+7,8,Yours,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410705,6,4,4,19410719
+8,NEW,"Goodbye Dear, I'll Be Back In A Year",Horace Heidt & His Musical Knights / Ronnie Kemper & Donna W,Horace Heidt,jazz,19410719,8,8,1,19410719
+9,NEW,'Til Reveille,Kay Kyser / Harry Babbitt & Ginny Simms & Jack Martin & Max,Kay Kyser / Harry Babbitt,pop,19410719,9,9,1,19410719
+10,10,My Sister And I,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410712,10,10,2,19410719
+1,1,Daddy,Sammy Kaye & His Orchestra / Kaye Choir,Sammy Kaye,jazz,19410531,5,1,15,19410712
+2,2,Maria Elena,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410517,9,1,17,19410712
+3,4,The Hut-Sut Song (A Swedish Serenade),Freddy Martin & His Orchestra / Eddie Stone,Freddy Martin,jazz,19410531,10,2,9,19410712
+4,3,The Hut-Sut Song (A Swedish Serenade),Horace Heidt & His Musical Knights / Donna & Her Don Juans,Horace Heidt,jazz,19410628,3,3,4,19410712
+5,NEW,Intermezzo,Wayne King & His Orchestra,Wayne King,jazz,19410712,5,5,1,19410712
+6,10,"Yes, Indeed",Tommy Dorsey & His Orchestra / Jo Stafford & Sy Oliver,Tommy Dorsey,jazz,19410705,10,4,13,19410712
+7,5,Green Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410614,8,1,17,19410712
+8,6,Yours,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410705,6,4,4,19410712
+9,7,The Things I Love,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410628,8,7,3,19410712
+10,NEW,My Sister And I,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410712,10,10,2,19410712
+1,2,Daddy,Sammy Kaye & His Orchestra / Kaye Choir,Sammy Kaye,jazz,19410531,5,1,15,19410705
+2,1,Maria Elena,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410517,9,1,17,19410705
+3,3,The Hut-Sut Song (A Swedish Serenade),Horace Heidt & His Musical Knights / Donna & Her Don Juans,Horace Heidt,jazz,19410628,3,3,4,19410705
+4,4,The Hut-Sut Song (A Swedish Serenade),Freddy Martin & His Orchestra / Eddie Stone,Freddy Martin,jazz,19410531,10,2,9,19410705
+5,9,Green Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410614,8,1,17,19410705
+6,NEW,Yours,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410705,6,4,4,19410705
+7,8,The Things I Love,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410628,8,7,3,19410705
+8,7,Intermezzo,Freddy Martin & His Orchestra / Clyde Rogers,Freddy Martin,jazz,19410628,7,7,2,19410705
+9,NEW,I'll Be With You In Apple Blossom Time,The Andrews Sisters,The Andrews Sisters,jazz,19410705,9,9,1,19410705
+10,NEW,"Yes, Indeed",Tommy Dorsey & His Orchestra / Jo Stafford & Sy Oliver,Tommy Dorsey,jazz,19410705,10,4,13,19410705
+1,4,Maria Elena,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410517,9,1,17,19410628
+2,3,Daddy,Sammy Kaye & His Orchestra / Kaye Choir,Sammy Kaye,jazz,19410531,5,1,15,19410628
+3,NEW,The Hut-Sut Song (A Swedish Serenade),Horace Heidt & His Musical Knights / Donna & Her Don Juans,Horace Heidt,jazz,19410628,3,3,4,19410628
+4,2,The Hut-Sut Song (A Swedish Serenade),Freddy Martin & His Orchestra / Eddie Stone,Freddy Martin,jazz,19410531,10,2,9,19410628
+5,1,My Sister And I,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410510,2,1,8,19410628
+6,5,Intermezzo,Wayne King & His Orchestra,Wayne King,jazz,19410426,7,5,10,19410628
+7,NEW,Intermezzo,Freddy Martin & His Orchestra / Clyde Rogers,Freddy Martin,jazz,19410628,7,7,2,19410628
+8,NEW,The Things I Love,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410628,8,7,3,19410628
+9,6,Green Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410614,8,1,17,19410628
+10,NEW,The Hut-Sut Song,The Four King Sisters,The Four King Sisters,pop,19410628,10,10,1,19410628
+1,4,My Sister And I,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410510,2,1,8,19410621
+2,3,The Hut-Sut Song (A Swedish Serenade),Freddy Martin & His Orchestra / Eddie Stone,Freddy Martin,jazz,19410531,10,2,9,19410621
+3,1,Daddy,Sammy Kaye & His Orchestra / Kaye Choir,Sammy Kaye,jazz,19410531,5,1,15,19410621
+4,2,Maria Elena,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410517,9,1,17,19410621
+5,5,Intermezzo,Wayne King & His Orchestra,Wayne King,jazz,19410426,7,5,10,19410621
+6,8,Green Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410614,8,1,17,19410621
+7,NEW,I'll Be With You With Apple Blossom Time,The Andrews Sisters,The Andrews Sisters,jazz,19410621,7,7,1,19410621
+8,NEW,Amapola,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410621,8,8,1,19410621
+9,NEW,Maria Elena,Tony Pastor & His Orchestra / Dorsey Anderson,Tony Pastor,jazz,19410621,9,9,1,19410621
+10,10,G'Bye Now,Horace Heidt & His Musical Knights / Ronnie Kemper,Horace Heidt,jazz,19410614,10,10,2,19410621
+1,3,Daddy,Sammy Kaye & His Orchestra / Kaye Choir,Sammy Kaye,jazz,19410531,5,1,15,19410614
+2,1,Maria Elena,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410517,9,1,17,19410614
+3,8,The Hut-Sut Song (A Swedish Serenade),Freddy Martin & His Orchestra / Eddie Stone,Freddy Martin,jazz,19410531,10,2,9,19410614
+4,4,My Sister And I,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410510,2,1,8,19410614
+5,5,Intermezzo,Wayne King & His Orchestra,Wayne King,jazz,19410426,7,5,10,19410614
+6,9,The Hut-Sut Song (A Swedish Serenade),Horace Heidt & His Musical Knights / Donna & Her Don Juans,Horace Heidt,jazz,19410607,9,6,2,19410614
+7,2,Maria Elena,Wayne King & His Orchestra,Wayne King,jazz,19410531,7,2,3,19410614
+8,NEW,Green Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410614,8,1,17,19410614
+9,7,Dolores,Bing Crosby & The Merry Macs / Bob Crosby & His Orchestra,Bing Crosby,jazz,19410419,10,2,9,19410614
+10,NEW,G'Bye Now,Horace Heidt & His Musical Knights / Ronnie Kemper,Horace Heidt,jazz,19410614,10,10,2,19410614
+1,3,Maria Elena,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410517,9,1,17,19410607
+2,7,Maria Elena,Wayne King & His Orchestra,Wayne King,jazz,19410531,7,2,3,19410607
+3,5,Daddy,Sammy Kaye & His Orchestra / Kaye Choir,Sammy Kaye,jazz,19410531,5,1,15,19410607
+4,1,My Sister And I,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410510,2,1,8,19410607
+5,9,Intermezzo,Wayne King & His Orchestra,Wayne King,jazz,19410426,7,5,10,19410607
+6,2,Amapola,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410315,7,1,13,19410607
+7,4,Dolores,Bing Crosby & The Merry Macs / Bob Crosby & His Orchestra,Bing Crosby,jazz,19410419,10,2,9,19410607
+8,10,The Hut-Sut Song (A Swedish Serenade),Freddy Martin & His Orchestra / Eddie Stone,Freddy Martin,jazz,19410531,10,2,9,19410607
+9,NEW,The Hut-Sut Song (A Swedish Serenade),Horace Heidt & His Musical Knights / Donna & Her Don Juans,Horace Heidt,jazz,19410607,9,6,2,19410607
+10,NEW,The Band Played On,Guy Lombardo & His Canadians / Kenny Gardner & Lombardo Trio,Guy Lombardo,jazz,19410607,10,10,1,19410607
+1,2,My Sister And I,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410510,2,1,8,19410531
+2,1,Amapola,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410315,7,1,13,19410531
+3,5,Maria Elena,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410517,9,1,17,19410531
+4,3,Dolores,Bing Crosby & The Merry Macs / Bob Crosby & His Orchestra,Bing Crosby,jazz,19410419,10,2,9,19410531
+5,NEW,Daddy,Sammy Kaye & His Orchestra / Kaye Choir,Sammy Kaye,jazz,19410531,5,1,15,19410531
+6,6,I'll Be With You In Apple Blossom Time,The Andrews Sisters,The Andrews Sisters,jazz,19410426,5,5,6,19410531
+7,NEW,Maria Elena,Wayne King & His Orchestra,Wayne King,jazz,19410531,7,2,3,19410531
+8,8,Green Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410510,6,6,4,19410531
+9,10,Intermezzo,Wayne King & His Orchestra,Wayne King,jazz,19410426,7,5,10,19410531
+10,NEW,The Hut-Sut Song (A Swedish Serenade),Freddy Martin & His Orchestra / Eddie Stone,Freddy Martin,jazz,19410531,10,2,9,19410531
+1,1,Amapola,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410315,7,1,13,19410524
+2,3,My Sister And I,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410510,2,1,8,19410524
+3,4,Dolores,Bing Crosby & The Merry Macs / Bob Crosby & His Orchestra,Bing Crosby,jazz,19410419,10,2,9,19410524
+4,2,G'Bye Now,Horace Heidt & His Musical Knights / Ronnie Kemper,Horace Heidt,jazz,19410426,4,2,5,19410524
+5,9,Maria Elena,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410517,9,1,17,19410524
+6,5,I'll Be With You In Apple Blossom Time,The Andrews Sisters,The Andrews Sisters,jazz,19410426,5,5,6,19410524
+7,6,The Band Played On,Guy Lombardo & His Royal Canadians / Kenny Gardner & The Lom,Guy Lombardo,jazz,19410510,10,6,3,19410524
+8,7,Green Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410510,6,6,4,19410524
+9,NEW,Yours,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410524,9,9,1,19410524
+10,8,Intermezzo,Wayne King & His Orchestra,Wayne King,jazz,19410426,7,5,10,19410524
+1,1,Amapola,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410315,7,1,13,19410517
+2,3,G'Bye Now,Horace Heidt & His Musical Knights / Ronnie Kemper,Horace Heidt,jazz,19410426,4,2,5,19410517
+3,2,My Sister And I,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410510,2,1,8,19410517
+4,4,Dolores,Bing Crosby & The Merry Macs / Bob Crosby & His Orchestra,Bing Crosby,jazz,19410419,10,2,9,19410517
+5,5,I'll Be With You In Apple Blossom Time,The Andrews Sisters,The Andrews Sisters,jazz,19410426,5,5,6,19410517
+6,10,The Band Played On,Guy Lombardo & His Royal Canadians / Kenny Gardner & The Lom,Guy Lombardo,jazz,19410510,10,6,3,19410517
+7,6,Green Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410510,6,6,4,19410517
+8,7,Intermezzo,Wayne King & His Orchestra,Wayne King,jazz,19410426,7,5,10,19410517
+9,NEW,Maria Elena,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410517,9,1,17,19410517
+10,NEW,Until Tomorrow,Sammy Kaye & His Orchestra / The Kaydets,Sammy Kaye,jazz,19410517,10,10,1,19410517
+1,1,Amapola,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410315,7,1,13,19410510
+2,NEW,My Sister And I,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410510,2,1,8,19410510
+3,4,G'Bye Now,Horace Heidt & His Musical Knights / Ronnie Kemper,Horace Heidt,jazz,19410426,4,2,5,19410510
+4,2,Dolores,Bing Crosby & The Merry Macs / Bob Crosby & His Orchestra,Bing Crosby,jazz,19410419,10,2,9,19410510
+5,5,I'll Be With You In Apple Blossom Time,The Andrews Sisters,The Andrews Sisters,jazz,19410426,5,5,6,19410510
+6,NEW,Green Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410510,6,6,4,19410510
+7,9,Intermezzo,Wayne King & His Orchestra,Wayne King,jazz,19410426,7,5,10,19410510
+8,7,Let's Get Away From It All (Parts 1 & 2),Tommy Dorsey / Pied Pipers & Connie Haynes & Frank Sinatra,Tommy Dorsey / Pied Pipers,pop,19410503,7,7,2,19410510
+9,3,"Oh, Look At Me Now","Tommy Dorsey / Frank Sinatra, Connie Haynes & Pied Pipers",Tommy Dorsey / Frank Sinatra,jazz,19410222,10,2,12,19410510
+10,NEW,The Band Played On,Guy Lombardo & His Royal Canadians / Kenny Gardner & The Lom,Guy Lombardo,jazz,19410510,10,6,3,19410510
+1,1,Amapola,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410315,7,1,13,19410503
+2,3,Dolores,Bing Crosby & The Merry Macs / Bob Crosby & His Orchestra,Bing Crosby,jazz,19410419,10,2,9,19410503
+3,2,"Oh, Look At Me Now","Tommy Dorsey / Frank Sinatra, Connie Haynes & Pied Pipers",Tommy Dorsey / Frank Sinatra,jazz,19410222,10,2,12,19410503
+4,4,G'Bye Now,Horace Heidt & His Musical Knights / Ronnie Kemper,Horace Heidt,jazz,19410426,4,2,5,19410503
+5,5,I'll Be With You In Apple Blossom Time,The Andrews Sisters,The Andrews Sisters,jazz,19410426,5,5,6,19410503
+6,6,"Alexander, The Swoose (Half Swan - Half Goose)",Kay Kyser / Harry Babbitt / Ginny Simms / Jack Martin/ Max W,Kay Kyser / Harry Babbitt / Ginny Simms / Jack Martin/ Max W,pop,19410419,3,3,3,19410503
+7,NEW,Let's Get Away From It All (Parts 1 & 2),Tommy Dorsey / Pied Pipers & Connie Haynes & Frank Sinatra,Tommy Dorsey / Pied Pipers,pop,19410503,7,7,2,19410503
+8,NEW,Dolores,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19410503,8,8,1,19410503
+9,7,Intermezzo,Wayne King & His Orchestra,Wayne King,jazz,19410426,7,5,10,19410503
+10,8,Perfidia,Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,19410426,8,8,2,19410503
+1,1,Amapola,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410315,7,1,13,19410426
+2,2,"Oh, Look At Me Now","Tommy Dorsey / Frank Sinatra, Connie Haynes & Pied Pipers",Tommy Dorsey / Frank Sinatra,jazz,19410222,10,2,12,19410426
+3,10,Dolores,Bing Crosby & The Merry Macs / Bob Crosby & His Orchestra,Bing Crosby,jazz,19410419,10,2,9,19410426
+4,NEW,G'Bye Now,Horace Heidt & His Musical Knights / Ronnie Kemper,Horace Heidt,jazz,19410426,4,2,5,19410426
+5,NEW,I'll Be With You In Apple Blossom Time,The Andrews Sisters,The Andrews Sisters,jazz,19410426,5,5,6,19410426
+6,3,"Alexander, The Swoose (Half Swan - Half Goose)",Kay Kyser / Harry Babbitt / Ginny Simms / Jack Martin/ Max W,Kay Kyser / Harry Babbitt / Ginny Simms / Jack Martin/ Max W,pop,19410419,3,3,3,19410426
+7,NEW,Intermezzo,Wayne King & His Orchestra,Wayne King,jazz,19410426,7,5,10,19410426
+8,NEW,Perfidia,Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,19410426,8,8,2,19410426
+9,NEW,Everything Happens To Me,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19410426,9,9,1,19410426
+10,4,Do I Worry,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19410405,5,4,4,19410426
+1,1,Amapola,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410315,7,1,13,19410419
+2,2,"Oh, Look At Me Now","Tommy Dorsey / Frank Sinatra, Connie Haynes & Pied Pipers",Tommy Dorsey / Frank Sinatra,jazz,19410222,10,2,12,19410419
+3,NEW,"Alexander, The Swoose (Half Swan - Half Goose)",Kay Kyser / Harry Babbitt / Ginny Simms / Jack Martin/ Max W,Kay Kyser / Harry Babbitt / Ginny Simms / Jack Martin/ Max W,pop,19410419,3,3,3,19410419
+4,4,Do I Worry,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19410405,5,4,4,19410419
+5,6,Blue Flame,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,19410405,10,5,3,19410419
+6,8,There'll Be Some Changes Made,Benny Goodman & His Orchestra / Louise Tobin,Benny Goodman,jazz,19410412,8,6,2,19410419
+7,NEW,Dolores,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19410419,7,7,1,19410419
+8,7,The Wise Old Owl,Al Donahue & His Orchestra / Dee Keating,Al Donahue,pop,19410412,7,7,2,19410419
+9,5,Frenesi,Artie Shaw & His Orchestra,Artie Shaw & His Orchestra,jazz,19401207,7,1,20,19410419
+10,NEW,Dolores,Bing Crosby & The Merry Macs / Bob Crosby & His Orchestra,Bing Crosby,jazz,19410419,10,2,9,19410419
+1,1,Amapola,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410315,7,1,13,19410412
+2,2,"Oh, Look At Me Now","Tommy Dorsey / Frank Sinatra, Connie Haynes & Pied Pipers",Tommy Dorsey / Frank Sinatra,jazz,19410222,10,2,12,19410412
+3,3,Perfidia,Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,19410222,4,3,8,19410412
+4,5,Do I Worry,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19410405,5,4,4,19410412
+5,6,Frenesi,Artie Shaw & His Orchestra,Artie Shaw & His Orchestra,jazz,19401207,7,1,20,19410412
+6,10,Blue Flame,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,19410405,10,5,3,19410412
+7,NEW,The Wise Old Owl,Al Donahue & His Orchestra / Dee Keating,Al Donahue,pop,19410412,7,7,2,19410412
+8,NEW,There'll Be Some Changes Made,Benny Goodman & His Orchestra / Louise Tobin,Benny Goodman,jazz,19410412,8,6,2,19410412
+9,7,New San Antonio Rose,Bing Crosby & Bob Crosby & His Orchestra,Bing Crosby,jazz,19410405,7,7,2,19410412
+10,NEW,Intermezzo,Wayne King & His Orchestra,Wayne King,jazz,19410412,10,10,1,19410412
+1,1,Amapola,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410315,7,1,13,19410405
+2,2,"Oh, Look At Me Now","Tommy Dorsey / Frank Sinatra, Connie Haynes & Pied Pipers",Tommy Dorsey / Frank Sinatra,jazz,19410222,10,2,12,19410405
+3,6,Perfidia,Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,19410222,4,3,8,19410405
+4,5,Song Of The Volga Boatman,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,19410215,9,1,8,19410405
+5,NEW,Do I Worry,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19410405,5,4,4,19410405
+6,4,Frenesi,Artie Shaw & His Orchestra,Artie Shaw & His Orchestra,jazz,19401207,7,1,20,19410405
+7,NEW,New San Antonio Rose,Bing Crosby & Bob Crosby & His Orchestra,Bing Crosby,jazz,19410405,7,7,2,19410405
+8,3,I Dreamt I Dwelt In Harlem,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,19410315,10,3,4,19410405
+9,NEW,Music Makers,Harry James & His Music Makers,Harry James,jazz,19410405,9,9,1,19410405
+10,NEW,Blue Flame,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,19410405,10,5,3,19410405
+1,1,Amapola,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410315,7,1,13,19410329
+2,5,"Oh, Look At Me Now","Tommy Dorsey / Frank Sinatra, Connie Haynes & Pied Pipers",Tommy Dorsey / Frank Sinatra,jazz,19410222,10,2,12,19410329
+3,6,I Dreamt I Dwelt In Harlem,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,19410315,10,3,4,19410329
+4,4,Frenesi,Artie Shaw & His Orchestra,Artie Shaw & His Orchestra,jazz,19401207,7,1,20,19410329
+5,2,Song Of The Volga Boatman,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,19410215,9,1,8,19410329
+6,3,Perfidia,Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,19410222,4,3,8,19410329
+7,NEW,Blue Flame,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,19410329,7,7,1,19410329
+8,NEW,It All Comes Back To Me Now,Gene Krupa & His Orchestra / Howard Dulany,Gene Krupa,jazz,19410329,8,8,1,19410329
+9,NEW,Dancing In The Dark,Artie Shaw And His Orchestra,Artie Shaw And His Orchestra,jazz,19410329,9,9,1,19410329
+10,NEW,There'll Be Some Changes Made,Benny Goodman & His Orchestra / Louise Tobin,Benny Goodman,jazz,19410329,10,10,1,19410329
+1,7,Amapola,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410315,7,1,13,19410322
+2,4,Song Of The Volga Boatman,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,19410215,9,1,8,19410322
+3,3,Perfidia,Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,19410222,4,3,8,19410322
+4,1,Frenesi,Artie Shaw & His Orchestra,Artie Shaw & His Orchestra,jazz,19401207,7,1,20,19410322
+5,5,"Oh, Look At Me Now","Tommy Dorsey / Frank Sinatra, Connie Haynes & Pied Pipers",Tommy Dorsey / Frank Sinatra,jazz,19410222,10,2,12,19410322
+6,10,I Dreamt I Dwelt In Harlem,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,19410315,10,3,4,19410322
+7,NEW,High On A Windy Hill,Gene Krupa & His Orchestra / Howard Dulany,Gene Krupa,jazz,19410322,7,7,1,19410322
+8,NEW,San Antonio Rose,Bing Crosby & Bob Crosby & His Orchestra,Bing Crosby,jazz,19410322,8,8,1,19410322
+9,6,I Hear A Rhapsody,Charlie Barnet & His Orchestra / Bob Carroll,Charlie Barnet,jazz,19410315,6,6,2,19410322
+10,9,I Hear A Rhapsody,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410315,9,9,2,19410322
+1,3,Frenesi,Artie Shaw & His Orchestra,Artie Shaw & His Orchestra,jazz,19401207,7,1,20,19410315
+2,NEW,It All Comes Back To Me Now,Gene Krupa & His Orchestra / Howard Dulany,Gene Krupa,jazz,19410315,2,2,1,19410315
+3,8,Perfidia,Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,19410222,4,3,8,19410315
+4,1,Song Of The Volga Boatman,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,19410215,9,1,8,19410315
+5,2,"Oh, Look At Me Now","Tommy Dorsey / Frank Sinatra, Connie Haynes & Pied Pipers",Tommy Dorsey / Frank Sinatra,jazz,19410222,10,2,12,19410315
+6,NEW,I Hear A Rhapsody,Charlie Barnet & His Orchestra / Bob Carroll,Charlie Barnet,jazz,19410315,6,6,2,19410315
+7,NEW,Amapola,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19410315,7,1,13,19410315
+8,4,Anvil Chorus (Parts 1 & 2),Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,19410118,5,3,9,19410315
+9,NEW,I Hear A Rhapsody,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410315,9,9,2,19410315
+10,NEW,I Dreamt I Dwelt In Harlem,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,19410315,10,3,4,19410315
+1,4,Song Of The Volga Boatman,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,19410215,9,1,8,19410308
+2,8,"Oh, Look At Me Now","Tommy Dorsey / Frank Sinatra, Connie Haynes & Pied Pipers",Tommy Dorsey / Frank Sinatra,jazz,19410222,10,2,12,19410308
+3,1,Frenesi,Artie Shaw & His Orchestra,Artie Shaw & His Orchestra,jazz,19401207,7,1,20,19410308
+4,9,Anvil Chorus (Parts 1 & 2),Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,19410118,5,3,9,19410308
+5,NEW,It All Comes Back To Me Now,Hal Kemp & His Orchestra / Bob Allen,Hal Kemp,jazz,19410308,5,5,1,19410308
+6,10,You Walk By,Eddie Duchin & His Orchestra / Johnny Drake,Eddie Duchin,jazz,19410208,7,6,5,19410308
+7,2,High On A Windy Hill,Gene Krupa & His Orchestra / Howard Dulany,Gene Krupa,jazz,19410201,9,2,6,19410308
+8,7,Perfidia,Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,19410222,4,3,8,19410308
+9,NEW,I Hear A Rhapsody,Dinah Shore,Dinah Shore,jazz,19410308,9,9,1,19410308
+10,NEW,Dancing In The Dark,Artie Shaw & His Orchestra,Artie Shaw & His Orchestra,jazz,19410308,10,10,1,19410308
+1,1,Frenesi,Artie Shaw & His Orchestra,Artie Shaw & His Orchestra,jazz,19401207,7,1,20,19410301
+2,3,High On A Windy Hill,Gene Krupa & His Orchestra / Howard Dulany,Gene Krupa,jazz,19410201,9,2,6,19410301
+3,7,I Hear A Rhapsody,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410111,10,3,8,19410301
+4,8,Song Of The Volga Boatman,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,19410215,9,1,8,19410301
+5,NEW,It All Comes Back To Me Now,Gene Krupa & His Orchestra / Howard Dulany,Gene Krupa,jazz,19410301,5,5,1,19410301
+6,2,I Hear A Rhapsody,Charlie Barnet & His Orchestra / Bob Carroll,Charlie Barnet,jazz,19410104,9,2,9,19410301
+7,4,Perfidia,Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,19410222,4,3,8,19410301
+8,10,"Oh, Look At Me Now","Tommy Dorsey / Frank Sinatra, Connie Haynes & Pied Pipers",Tommy Dorsey / Frank Sinatra,jazz,19410222,10,2,12,19410301
+9,9,Anvil Chorus (Parts 1 & 2),Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,19410118,5,3,9,19410301
+10,6,You Walk By,Eddie Duchin & His Orchestra / Johnny Drake,Eddie Duchin,jazz,19410208,7,6,5,19410301
+1,1,Frenesi,Artie Shaw & His Orchestra,Artie Shaw & His Orchestra,jazz,19401207,7,1,20,19410222
+2,2,I Hear A Rhapsody,Charlie Barnet & His Orchestra / Bob Carroll,Charlie Barnet,jazz,19410104,9,2,9,19410222
+3,3,High On A Windy Hill,Gene Krupa & His Orchestra / Howard Dulany,Gene Krupa,jazz,19410201,9,2,6,19410222
+4,NEW,Perfidia,Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,19410222,4,3,8,19410222
+5,NEW,It All Comes Back To Me Now,Hal Kemp & His Orchestra / Bob Allen,Hal Kemp,jazz,19410222,5,5,1,19410222
+6,6,You Walk By,Eddie Duchin & His Orchestra / Johnny Drake,Eddie Duchin,jazz,19410208,7,6,5,19410222
+7,5,I Hear A Rhapsody,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410111,10,3,8,19410222
+8,9,Song Of The Volga Boatman,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,19410215,9,1,8,19410222
+9,4,Anvil Chorus (Parts 1 & 2),Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,19410118,5,3,9,19410222
+10,NEW,"Oh, Look At Me Now","Tommy Dorsey / Frank Sinatra, Connie Haynes & Pied Pipers",Tommy Dorsey / Frank Sinatra,jazz,19410222,10,2,12,19410222
+1,1,Frenesi,Artie Shaw & His Orchestra,Artie Shaw & His Orchestra,jazz,19401207,7,1,20,19410215
+2,2,I Hear A Rhapsody,Charlie Barnet & His Orchestra / Bob Carroll,Charlie Barnet,jazz,19410104,9,2,9,19410215
+3,5,High On A Windy Hill,Gene Krupa & His Orchestra / Howard Dulany,Gene Krupa,jazz,19410201,9,2,6,19410215
+4,4,Anvil Chorus (Parts 1 & 2),Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,19410118,5,3,9,19410215
+5,3,I Hear A Rhapsody,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410111,10,3,8,19410215
+6,7,You Walk By,Eddie Duchin & His Orchestra / Johnny Drake,Eddie Duchin,jazz,19410208,7,6,5,19410215
+7,NEW,High On A Windy Hill,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410215,7,7,1,19410215
+8,NEW,It All Comes Back To Me Now,Gene Krupa & His Orchestra / Howard Dulany,Gene Krupa,jazz,19410215,8,8,1,19410215
+9,NEW,Song Of The Volga Boatman,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,19410215,9,1,8,19410215
+10,10,Concerto For Clarinet (Parts 1 & 2),Artie Shaw & His Orchestra,Artie Shaw & His Orchestra,jazz,19410208,10,10,2,19410215
+1,1,Frenesi,Artie Shaw & His Orchestra,Artie Shaw & His Orchestra,jazz,19401207,7,1,20,19410208
+2,2,I Hear A Rhapsody,Charlie Barnet & His Orchestra / Bob Carroll,Charlie Barnet,jazz,19410104,9,2,9,19410208
+3,4,I Hear A Rhapsody,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410111,10,3,8,19410208
+4,3,Anvil Chorus (Parts 1 & 2),Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,19410118,5,3,9,19410208
+5,9,High On A Windy Hill,Gene Krupa & His Orchestra / Howard Dulany,Gene Krupa,jazz,19410201,9,2,6,19410208
+6,NEW,It All Comes Back To Me Now,Hal Kemp & His Orchestra / Bob Allen,Hal Kemp,jazz,19410208,6,6,1,19410208
+7,NEW,You Walk By,Eddie Duchin & His Orchestra / Johnny Drake,Eddie Duchin,jazz,19410208,7,6,5,19410208
+8,NEW,Star Dust,Artie Shaw & His Orchestra,Artie Shaw & His Orchestra,jazz,19410208,8,8,1,19410208
+9,7,New Perfidia,Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,19410125,4,4,3,19410208
+10,NEW,Concerto For Clarinet (Parts 1 & 2),Artie Shaw & His Orchestra,Artie Shaw & His Orchestra,jazz,19410208,10,10,2,19410208
+1,1,Frenesi,Artie Shaw & His Orchestra,Artie Shaw & His Orchestra,jazz,19401207,7,1,20,19410201
+2,2,I Hear A Rhapsody,Charlie Barnet & His Orchestra / Bob Carroll,Charlie Barnet,jazz,19410104,9,2,9,19410201
+3,5,Anvil Chorus (Parts 1 & 2),Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,19410118,5,3,9,19410201
+4,3,I Hear A Rhapsody,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410111,10,3,8,19410201
+5,NEW,There I Go,Will Bradley & His Orchestra / Jimmy Valentine,Will Bradley,jazz,19410201,5,5,1,19410201
+6,7,There I Go,Vaughn Monroe & His Orchestra,Vaughn Monroe,jazz,19410125,7,6,2,19410201
+7,4,New Perfidia,Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,19410125,4,4,3,19410201
+8,9,Along The Santa Fe Trail,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,19410111,7,7,4,19410201
+9,NEW,High On A Windy Hill,Gene Krupa & His Orchestra / Howard Dulany,Gene Krupa,jazz,19410201,9,2,6,19410201
+10,NEW,Summit Ridge Drive,Artie Shaw & The Gramercy Five,Artie Shaw,jazz,19410201,10,10,1,19410201
+1,1,Frenesi,Artie Shaw & His Orchestra,Artie Shaw & His Orchestra,jazz,19401207,7,1,20,19410125
+2,2,I Hear A Rhapsody,Charlie Barnet & His Orchestra / Bob Carroll,Charlie Barnet,jazz,19410104,9,2,9,19410125
+3,3,I Hear A Rhapsody,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410111,10,3,8,19410125
+4,NEW,New Perfidia,Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,19410125,4,4,3,19410125
+5,5,Anvil Chorus (Parts 1 & 2),Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,19410118,5,3,9,19410125
+6,4,Scrub Me Mama With A Boogie Beat,Will Bradley & His Orchestra / Ray Mckinley,Will Bradley,jazz,19410104,2,2,4,19410125
+7,NEW,There I Go,Vaughn Monroe & His Orchestra,Vaughn Monroe,jazz,19410125,7,6,2,19410125
+8,NEW,You Walk By,Eddy Duchin & His Orchestra / Johnny Drake,Eddy Duchin,jazz,19410125,8,8,1,19410125
+9,9,Along The Santa Fe Trail,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,19410111,7,7,4,19410125
+10,NEW,"Beat Me, Daddy, Eight To The Bar (Parts 1 & 2)",Will Bradley & His Orchestra / Ray Mckinley,Will Bradley,jazz,19410125,10,10,1,19410125
+1,1,Frenesi,Artie Shaw & His Orchestra,Artie Shaw & His Orchestra,jazz,19401207,7,1,20,19410118
+2,3,I Hear A Rhapsody,Charlie Barnet & His Orchestra / Bob Carroll,Charlie Barnet,jazz,19410104,9,2,9,19410118
+3,10,I Hear A Rhapsody,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410111,10,3,8,19410118
+4,4,Scrub Me Mama With A Boogie Beat,Will Bradley & His Orchestra / Ray Mckinley,Will Bradley,jazz,19410104,2,2,4,19410118
+5,NEW,Anvil Chorus (Parts 1 & 2),Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,19410118,5,3,9,19410118
+6,2,A Nightingale Sang In Berkeley Square,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,19401214,5,2,6,19410118
+7,6,Star Dust,Artie Shaw & His Orchestra,Artie Shaw & His Orchestra,jazz,19410111,6,6,2,19410118
+8,NEW,There I Go,Will Bradley & His Orchestra / Jimmy Valentine,Will Bradley,jazz,19410118,8,8,1,19410118
+9,7,Along The Santa Fe Trail,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,19410111,7,7,4,19410118
+10,NEW,"Yes, My Darling Daughter",Dinah Shore,Dinah Shore,jazz,19410118,10,10,1,19410118
+1,1,Frenesi,Artie Shaw & His Orchestra,Artie Shaw & His Orchestra,jazz,19401207,7,1,20,19410111
+2,3,A Nightingale Sang In Berkeley Square,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,19401214,5,2,6,19410111
+3,9,I Hear A Rhapsody,Charlie Barnet & His Orchestra / Bob Carroll,Charlie Barnet,jazz,19410104,9,2,9,19410111
+4,2,Scrub Me Mama With A Boogie Beat,Will Bradley & His Orchestra / Ray Mckinley,Will Bradley,jazz,19410104,2,2,4,19410111
+5,NEW,There I Go,Vaughn Monroe & His Orchestra,Vaughn Monroe,jazz,19410111,5,5,1,19410111
+6,NEW,Star Dust,Artie Shaw & His Orchestra,Artie Shaw & His Orchestra,jazz,19410111,6,6,2,19410111
+7,NEW,Along The Santa Fe Trail,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,19410111,7,7,4,19410111
+8,6,Five O'Clock Whistle,Glenn Miller & His Orchestra / Marion Hutton,Glenn Miller,jazz,19410104,6,6,2,19410111
+9,7,Down Argentine Way,Bob Crosby & His Orchestra / Bonnie King,Bob Crosby,jazz,19401228,2,2,3,19410111
+10,NEW,I Hear A Rhapsody,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19410111,10,3,8,19410111
+1,1,Frenesi,Artie Shaw & His Orchestra,Artie Shaw & His Orchestra,jazz,19401207,7,1,20,19410104
+2,NEW,Scrub Me Mama With A Boogie Beat,Will Bradley & His Orchestra / Ray Mckinley,Will Bradley,jazz,19410104,2,2,4,19410104
+3,3,A Nightingale Sang In Berkeley Square,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,19401214,5,2,6,19410104
+4,5,"We Three (My Echo, My Shadow And Me)",The Ink Spots,The Ink Spots,jazz,19401005,9,3,14,19410104
+5,4,Only Forever,Bing Crosby & John Scott Trotter & His Orchestra,Bing Crosby,jazz,19400921,5,1,16,19410104
+6,NEW,Five O'Clock Whistle,Glenn Miller & His Orchestra / Marion Hutton,Glenn Miller,jazz,19410104,6,6,2,19410104
+7,2,Down Argentine Way,Bob Crosby & His Orchestra / Bonnie King,Bob Crosby,jazz,19401228,2,2,3,19410104
+8,NEW,Anvil Chorus (Parts 1 & 2),Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,19410104,8,8,1,19410104
+9,NEW,I Hear A Rhapsody,Charlie Barnet & His Orchestra / Bob Carroll,Charlie Barnet,jazz,19410104,9,2,9,19410104
+10,NEW,Ferry-Boat Serenade (La Piccinina),The Andrews Sisters,The Andrews Sisters,jazz,19410104,10,10,1,19410104

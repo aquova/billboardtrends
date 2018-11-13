@@ -1,0 +1,531 @@
+this_week_position,last_week_position,track,artist,clean_artist,genre,entry_date,entry_position,peak_position,total_weeks,chart_date
+1,2,Symphony,Freddy Martin & His Orchestra / Clyde Rogers,Freddy Martin,jazz,19451208,5,1,14,19451229
+2,1,Chickery Chick,"Sammy Kaye & His Orchestra / Billy Williams, Nancy Norman",Sammy Kaye,jazz,19451020,10,1,14,19451229
+3,5,Dig You Later (A-Hubba Hubba Hubba),Perry Como & The Satisfiers / Russ Case & His Orchestra,Perry Como,jazz,19451201,9,3,9,19451229
+4,7,I Can't Begin To Tell You,Bing Crosby / Carmen Cavallaro & His Orchestra,Bing Crosby / Carmen Cavallaro,pop,19451117,7,2,7,19451229
+5,3,"It's Been A Long, Long Time",Harry James & His Music Makers / Kitty Kallen,Harry James,jazz,19451013,10,1,15,19451229
+6,NEW,Let It Snow! Let It Snow! Let It Snow!,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,19451229,6,1,13,19451229
+7,9,"It's Been A Long, Long Time",Charlie Spivak & His Orchestra / Irene Daye,Charlie Spivak,jazz,19451222,9,6,3,19451229
+8,6,It Might As Well Be Spring,Dick Haymes / Victor Young & His Orchestra,Dick Haymes / Victor Young,pop,19451215,9,6,4,19451229
+9,4,"It's Been A Long, Long Time",Bing Crosby / The Les Paul Trio,Bing Crosby / The Les Paul Trio,pop,19451020,7,1,11,19451229
+10,8,It Might As Well Be Spring,Margaret Whiting / Paul Weston & His Orchestra,Margaret Whiting / Paul Weston,pop,19451124,8,6,6,19451229
+1,2,Chickery Chick,"Sammy Kaye & His Orchestra / Billy Williams, Nancy Norman",Sammy Kaye,jazz,19451020,10,1,14,19451222
+2,5,Symphony,Freddy Martin & His Orchestra / Clyde Rogers,Freddy Martin,jazz,19451208,5,1,14,19451222
+3,1,"It's Been A Long, Long Time",Harry James & His Music Makers / Kitty Kallen,Harry James,jazz,19451013,10,1,15,19451222
+4,4,"It's Been A Long, Long Time",Bing Crosby / The Les Paul Trio,Bing Crosby / The Les Paul Trio,pop,19451020,7,1,11,19451222
+5,6,Dig You Later (A-Hubba Hubba Hubba),Perry Como & The Satisfiers / Russ Case & His Orchestra,Perry Como,jazz,19451201,9,3,9,19451222
+6,9,It Might As Well Be Spring,Dick Haymes / Victor Young & His Orchestra,Dick Haymes / Victor Young,pop,19451215,9,6,4,19451222
+7,3,I Can't Begin To Tell You,Bing Crosby / Carmen Cavallaro & His Orchestra,Bing Crosby / Carmen Cavallaro,pop,19451117,7,2,7,19451222
+8,7,It Might As Well Be Spring,Margaret Whiting / Paul Weston & His Orchestra,Margaret Whiting / Paul Weston,pop,19451124,8,6,6,19451222
+9,NEW,"It's Been A Long, Long Time",Charlie Spivak & His Orchestra / Irene Daye,Charlie Spivak,jazz,19451222,9,6,3,19451222
+10,NEW,It Might As Well Be Spring,Sammy Kaye & His Orchestra / Billy Williams,Sammy Kaye,jazz,19451222,10,10,1,19451222
+1,4,"It's Been A Long, Long Time",Harry James & His Music Makers / Kitty Kallen,Harry James,jazz,19451013,10,1,15,19451215
+2,1,Chickery Chick,"Sammy Kaye & His Orchestra / Billy Williams, Nancy Norman",Sammy Kaye,jazz,19451020,10,1,14,19451215
+3,2,I Can't Begin To Tell You,Bing Crosby / Carmen Cavallaro & His Orchestra,Bing Crosby / Carmen Cavallaro,pop,19451117,7,2,7,19451215
+4,3,"It's Been A Long, Long Time",Bing Crosby / The Les Paul Trio,Bing Crosby / The Les Paul Trio,pop,19451020,7,1,11,19451215
+5,5,Symphony,Freddy Martin & His Orchestra / Clyde Rogers,Freddy Martin,jazz,19451208,5,1,14,19451215
+6,10,Dig You Later (A-Hubba Hubba Hubba),Perry Como & The Satisfiers / Russ Case & His Orchestra,Perry Como,jazz,19451201,9,3,9,19451215
+7,6,It Might As Well Be Spring,Margaret Whiting / Paul Weston & His Orchestra,Margaret Whiting / Paul Weston,pop,19451124,8,6,6,19451215
+8,9,"Doctor, Lawyer, Indian Chief",Betty Hutton / Paul Weston & His Orchestra,Betty Hutton / Paul Weston,pop,19451208,9,8,2,19451215
+9,NEW,It Might As Well Be Spring,Dick Haymes / Victor Young & His Orchestra,Dick Haymes / Victor Young,pop,19451215,9,6,4,19451215
+10,NEW,White Christmas,Bing Crosby & The Ken Darby Singers / John Scott Trotter,Bing Crosby,jazz,19451215,10,10,1,19451215
+1,2,Chickery Chick,"Sammy Kaye & His Orchestra / Billy Williams, Nancy Norman",Sammy Kaye,jazz,19451020,10,1,14,19451208
+2,5,I Can't Begin To Tell You,Bing Crosby / Carmen Cavallaro & His Orchestra,Bing Crosby / Carmen Cavallaro,pop,19451117,7,2,7,19451208
+3,1,"It's Been A Long, Long Time",Bing Crosby / The Les Paul Trio,Bing Crosby / The Les Paul Trio,pop,19451020,7,1,11,19451208
+4,3,"It's Been A Long, Long Time",Harry James & His Music Makers / Kitty Kallen,Harry James,jazz,19451013,10,1,15,19451208
+5,NEW,Symphony,Freddy Martin & His Orchestra / Clyde Rogers,Freddy Martin,jazz,19451208,5,1,14,19451208
+6,8,It Might As Well Be Spring,Margaret Whiting / Paul Weston & His Orchestra,Margaret Whiting / Paul Weston,pop,19451124,8,6,6,19451208
+7,6,Waitin' For The Train To Come In,Peggy Lee / Dave Barbour & His Orchestra,Peggy Lee / Dave Barbour,pop,19451117,9,6,4,19451208
+8,4,I'll Buy That Dream,Dick Haymes & Helen Forrest / Victor Young & His Orchestra,Dick Haymes,jazz,19450929,9,2,11,19451208
+9,NEW,"Doctor, Lawyer, Indian Chief",Betty Hutton / Paul Weston & His Orchestra,Betty Hutton / Paul Weston,pop,19451208,9,8,2,19451208
+10,9,Dig You Later (A-Hubba Hubba Hubba),Perry Como & The Satisfiers / Russ Case & His Orchestra,Perry Como,jazz,19451201,9,3,9,19451208
+1,3,"It's Been A Long, Long Time",Bing Crosby / The Les Paul Trio,Bing Crosby / The Les Paul Trio,pop,19451020,7,1,11,19451201
+2,2,Chickery Chick,"Sammy Kaye & His Orchestra / Billy Williams, Nancy Norman",Sammy Kaye,jazz,19451020,10,1,14,19451201
+3,1,"It's Been A Long, Long Time",Harry James & His Music Makers / Kitty Kallen,Harry James,jazz,19451013,10,1,15,19451201
+4,4,I'll Buy That Dream,Dick Haymes & Helen Forrest / Victor Young & His Orchestra,Dick Haymes,jazz,19450929,9,2,11,19451201
+5,6,I Can't Begin To Tell You,Bing Crosby / Carmen Cavallaro & His Orchestra,Bing Crosby / Carmen Cavallaro,pop,19451117,7,2,7,19451201
+6,9,Waitin' For The Train To Come In,Peggy Lee / Dave Barbour & His Orchestra,Peggy Lee / Dave Barbour,pop,19451117,9,6,4,19451201
+7,NEW,It Might As Well Be Spring,Dick Haymes / Victor Young & His Orchestra,Dick Haymes / Victor Young,pop,19451201,7,7,1,19451201
+8,8,It Might As Well Be Spring,Margaret Whiting / Paul Weston & His Orchestra,Margaret Whiting / Paul Weston,pop,19451124,8,6,6,19451201
+9,NEW,Dig You Later (A-Hubba Hubba Hubba),Perry Como & The Satisfiers / Russ Case & His Orchestra,Perry Como,jazz,19451201,9,3,9,19451201
+10,NEW,"It's Been A Long, Long Time",Stan Kenton & His Orchestra / June Christy,Stan Kenton,jazz,19451201,10,10,1,19451201
+1,1,"It's Been A Long, Long Time",Harry James & His Music Makers / Kitty Kallen,Harry James,jazz,19451013,10,1,15,19451124
+2,2,Chickery Chick,"Sammy Kaye & His Orchestra / Billy Williams, Nancy Norman",Sammy Kaye,jazz,19451020,10,1,14,19451124
+3,3,"It's Been A Long, Long Time",Bing Crosby / The Les Paul Trio,Bing Crosby / The Les Paul Trio,pop,19451020,7,1,11,19451124
+4,5,I'll Buy That Dream,Dick Haymes & Helen Forrest / Victor Young & His Orchestra,Dick Haymes,jazz,19450929,9,2,11,19451124
+5,4,Till The End Of Time,Perry Como,Perry Como,jazz,19450811,5,1,16,19451124
+6,7,I Can't Begin To Tell You,Bing Crosby / Carmen Cavallaro & His Orchestra,Bing Crosby / Carmen Cavallaro,pop,19451117,7,2,7,19451124
+7,8,I'll Buy That Dream,Harry James & His Music Makers / Kitty Kallen,Harry James,jazz,19451027,6,6,5,19451124
+8,NEW,It Might As Well Be Spring,Margaret Whiting / Paul Weston & His Orchestra,Margaret Whiting / Paul Weston,pop,19451124,8,6,6,19451124
+9,9,Waitin' For The Train To Come In,Peggy Lee / Dave Barbour & His Orchestra,Peggy Lee / Dave Barbour,pop,19451117,9,6,4,19451124
+10,NEW,"It's Been A Long, Long Time",Charlie Spivak & His Orchestra / Irene Daye,Charlie Spivak,jazz,19451124,10,10,1,19451124
+1,3,"It's Been A Long, Long Time",Harry James & His Music Makers / Kitty Kallen,Harry James,jazz,19451013,10,1,15,19451117
+2,1,Chickery Chick,"Sammy Kaye & His Orchestra / Billy Williams, Nancy Norman",Sammy Kaye,jazz,19451020,10,1,14,19451117
+3,4,"It's Been A Long, Long Time",Bing Crosby / The Les Paul Trio,Bing Crosby / The Les Paul Trio,pop,19451020,7,1,11,19451117
+4,2,Till The End Of Time,Perry Como,Perry Como,jazz,19450811,5,1,16,19451117
+5,6,I'll Buy That Dream,Dick Haymes & Helen Forrest / Victor Young & His Orchestra,Dick Haymes,jazz,19450929,9,2,11,19451117
+6,9,That's For Me,Dick Haymes / Victor Young & His Orchestra,Dick Haymes / Victor Young,pop,19451027,8,6,4,19451117
+7,NEW,I Can't Begin To Tell You,Bing Crosby / Carmen Cavallaro & His Orchestra,Bing Crosby / Carmen Cavallaro,pop,19451117,7,2,7,19451117
+8,8,I'll Buy That Dream,Harry James & His Music Makers / Kitty Kallen,Harry James,jazz,19451027,6,6,5,19451117
+9,NEW,Waitin' For The Train To Come In,Peggy Lee / Dave Barbour & His Orchestra,Peggy Lee / Dave Barbour,pop,19451117,9,6,4,19451117
+10,10,It Might As Well Be Spring,Dick Haymes / Victor Young & His Orchestra,Dick Haymes / Victor Young,pop,19451110,10,10,2,19451117
+1,4,Chickery Chick,"Sammy Kaye & His Orchestra / Billy Williams, Nancy Norman",Sammy Kaye,jazz,19451020,10,1,14,19451110
+2,1,Till The End Of Time,Perry Como,Perry Como,jazz,19450811,5,1,16,19451110
+3,2,"It's Been A Long, Long Time",Harry James & His Music Makers / Kitty Kallen,Harry James,jazz,19451013,10,1,15,19451110
+4,3,"It's Been A Long, Long Time",Bing Crosby / The Les Paul Trio,Bing Crosby / The Les Paul Trio,pop,19451020,7,1,11,19451110
+5,7,"It's Been A Long, Long Time",Charlie Spivak & His Orchestra / Irene Daye,Charlie Spivak,jazz,19451013,7,5,5,19451110
+6,5,I'll Buy That Dream,Dick Haymes & Helen Forrest / Victor Young & His Orchestra,Dick Haymes,jazz,19450929,9,2,11,19451110
+7,NEW,"It's Been A Long, Long Time",Stan Kenton & His Orchestra / June Christy,Stan Kenton,jazz,19451110,7,7,1,19451110
+8,6,I'll Buy That Dream,Harry James & His Music Makers / Kitty Kallen,Harry James,jazz,19451027,6,6,5,19451110
+9,8,That's For Me,Dick Haymes / Victor Young & His Orchestra,Dick Haymes / Victor Young,pop,19451027,8,6,4,19451110
+10,NEW,It Might As Well Be Spring,Dick Haymes / Victor Young & His Orchestra,Dick Haymes / Victor Young,pop,19451110,10,10,2,19451110
+1,1,Till The End Of Time,Perry Como,Perry Como,jazz,19450811,5,1,16,19451103
+2,3,"It's Been A Long, Long Time",Harry James & His Music Makers / Kitty Kallen,Harry James,jazz,19451013,10,1,15,19451103
+3,2,"It's Been A Long, Long Time",Bing Crosby / The Les Paul Trio,Bing Crosby / The Les Paul Trio,pop,19451020,7,1,11,19451103
+4,4,Chickery Chick,"Sammy Kaye & His Orchestra / Billy Williams, Nancy Norman",Sammy Kaye,jazz,19451020,10,1,14,19451103
+5,5,I'll Buy That Dream,Dick Haymes & Helen Forrest / Victor Young & His Orchestra,Dick Haymes,jazz,19450929,9,2,11,19451103
+6,6,I'll Buy That Dream,Harry James & His Music Makers / Kitty Kallen,Harry James,jazz,19451027,6,6,5,19451103
+7,9,"It's Been A Long, Long Time",Charlie Spivak & His Orchestra / Irene Daye,Charlie Spivak,jazz,19451013,7,5,5,19451103
+8,8,That's For Me,Dick Haymes / Victor Young & His Orchestra,Dick Haymes / Victor Young,pop,19451027,8,6,4,19451103
+9,NEW,Along The Navajo Trail,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,19451103,9,9,1,19451103
+10,NEW,Tampico,Stan Kenton & His Orchestra / June Christy & Band Ensemble,Stan Kenton,jazz,19451103,10,10,1,19451103
+1,1,Till The End Of Time,Perry Como,Perry Como,jazz,19450811,5,1,16,19451027
+2,7,"It's Been A Long, Long Time",Bing Crosby / The Les Paul Trio,Bing Crosby / The Les Paul Trio,pop,19451020,7,1,11,19451027
+3,5,"It's Been A Long, Long Time",Harry James & His Music Makers / Kitty Kallen,Harry James,jazz,19451013,10,1,15,19451027
+4,10,Chickery Chick,"Sammy Kaye & His Orchestra / Billy Williams, Nancy Norman",Sammy Kaye,jazz,19451020,10,1,14,19451027
+5,2,I'll Buy That Dream,Dick Haymes & Helen Forrest / Victor Young & His Orchestra,Dick Haymes,jazz,19450929,9,2,11,19451027
+6,NEW,I'll Buy That Dream,Harry James & His Music Makers / Kitty Kallen,Harry James,jazz,19451027,6,6,5,19451027
+7,3,Till The End Of Time,Dick Haymes / Victor Young & His Orchestra,Dick Haymes / Victor Young,pop,19450929,5,3,5,19451027
+8,NEW,That's For Me,Dick Haymes / Victor Young & His Orchestra,Dick Haymes / Victor Young,pop,19451027,8,6,4,19451027
+9,9,"It's Been A Long, Long Time",Charlie Spivak & His Orchestra / Irene Daye,Charlie Spivak,jazz,19451013,7,5,5,19451027
+10,8,Chopin's Polonaise,Carmen Cavallaro,Carmen Cavallaro,jazz,19450707,8,3,17,19451027
+1,1,Till The End Of Time,Perry Como,Perry Como,jazz,19450811,5,1,16,19451020
+2,2,I'll Buy That Dream,Dick Haymes & Helen Forrest / Victor Young & His Orchestra,Dick Haymes,jazz,19450929,9,2,11,19451020
+3,3,Till The End Of Time,Dick Haymes / Victor Young & His Orchestra,Dick Haymes / Victor Young,pop,19450929,5,3,5,19451020
+4,6,Tampico,Stan Kenton & His Orchestra / June Christy & Band Ensemble,Stan Kenton,jazz,19450818,10,4,10,19451020
+5,10,"It's Been A Long, Long Time",Harry James & His Music Makers / Kitty Kallen,Harry James,jazz,19451013,10,1,15,19451020
+6,4,"On The Atchison, Topeka & Santa Fe",Johnny Mercer & The Pied Pipers / Paul Weston & His Orchestr,Johnny Mercer,jazz,19450707,4,1,16,19451020
+7,NEW,"It's Been A Long, Long Time",Bing Crosby / The Les Paul Trio,Bing Crosby / The Les Paul Trio,pop,19451020,7,1,11,19451020
+8,5,Chopin's Polonaise,Carmen Cavallaro,Carmen Cavallaro,jazz,19450707,8,3,17,19451020
+9,7,"It's Been A Long, Long Time",Charlie Spivak & His Orchestra / Irene Daye,Charlie Spivak,jazz,19451013,7,5,5,19451020
+10,NEW,Chickery Chick,"Sammy Kaye & His Orchestra / Billy Williams, Nancy Norman",Sammy Kaye,jazz,19451020,10,1,14,19451020
+1,1,Till The End Of Time,Perry Como,Perry Como,jazz,19450811,5,1,16,19451013
+2,7,I'll Buy That Dream,Dick Haymes & Helen Forrest / Victor Young & His Orchestra,Dick Haymes,jazz,19450929,9,2,11,19451013
+3,6,Till The End Of Time,Dick Haymes / Victor Young & His Orchestra,Dick Haymes / Victor Young,pop,19450929,5,3,5,19451013
+4,2,"On The Atchison, Topeka & Santa Fe",Johnny Mercer & The Pied Pipers / Paul Weston & His Orchestr,Johnny Mercer,jazz,19450707,4,1,16,19451013
+5,3,Chopin's Polonaise,Carmen Cavallaro,Carmen Cavallaro,jazz,19450707,8,3,17,19451013
+6,4,Tampico,Stan Kenton & His Orchestra / June Christy & Band Ensemble,Stan Kenton,jazz,19450818,10,4,10,19451013
+7,NEW,"It's Been A Long, Long Time",Charlie Spivak & His Orchestra / Irene Daye,Charlie Spivak,jazz,19451013,7,5,5,19451013
+8,10,I'll Buy That Dream,Harry James & His Music Makers / Kitty Kallen,Harry James,jazz,19451006,10,8,2,19451013
+9,9,Gotta Be This Or That (Part 1),Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,19450704,10,4,16,19451013
+10,NEW,"It's Been A Long, Long Time",Harry James & His Music Makers / Kitty Kallen,Harry James,jazz,19451013,10,1,15,19451013
+1,1,Till The End Of Time,Perry Como,Perry Como,jazz,19450811,5,1,16,19451006
+2,2,"On The Atchison, Topeka & Santa Fe",Johnny Mercer & The Pied Pipers / Paul Weston & His Orchestr,Johnny Mercer,jazz,19450707,4,1,16,19451006
+3,3,Chopin's Polonaise,Carmen Cavallaro,Carmen Cavallaro,jazz,19450707,8,3,17,19451006
+4,6,Tampico,Stan Kenton & His Orchestra / June Christy & Band Ensemble,Stan Kenton,jazz,19450818,10,4,10,19451006
+5,8,If I Loved You,Perry Como / Russ Case & His Orchestra,Perry Como / Russ Case,pop,19450721,10,3,12,19451006
+6,5,Till The End Of Time,Dick Haymes / Victor Young & His Orchestra,Dick Haymes / Victor Young,pop,19450929,5,3,5,19451006
+7,9,I'll Buy That Dream,Dick Haymes & Helen Forrest / Victor Young & His Orchestra,Dick Haymes,jazz,19450929,9,2,11,19451006
+8,7,Along The Navajo Trail,Bing Crosby / Andrews Sisters,Bing Crosby / Andrews Sisters,pop,19450922,7,7,3,19451006
+9,10,Gotta Be This Or That (Part 1),Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,19450704,10,4,16,19451006
+10,NEW,I'll Buy That Dream,Harry James & His Music Makers / Kitty Kallen,Harry James,jazz,19451006,10,8,2,19451006
+1,1,Till The End Of Time,Perry Como,Perry Como,jazz,19450811,5,1,16,19450929
+2,2,"On The Atchison, Topeka & Santa Fe",Johnny Mercer & The Pied Pipers / Paul Weston & His Orchestr,Johnny Mercer,jazz,19450707,4,1,16,19450929
+3,3,Chopin's Polonaise,Carmen Cavallaro,Carmen Cavallaro,jazz,19450707,8,3,17,19450929
+4,10,"On The Atchison, Topeka & Santa Fe",Bing Crosby & Six Hits & A Miss & John Scott Trotter,Bing Crosby,jazz,19450915,10,4,3,19450929
+5,NEW,Till The End Of Time,Dick Haymes / Victor Young & His Orchestra,Dick Haymes / Victor Young,pop,19450929,5,3,5,19450929
+6,5,Tampico,Stan Kenton & His Orchestra / June Christy & Band Ensemble,Stan Kenton,jazz,19450818,10,4,10,19450929
+7,7,Along The Navajo Trail,Bing Crosby / Andrews Sisters,Bing Crosby / Andrews Sisters,pop,19450922,7,7,3,19450929
+8,4,If I Loved You,Perry Como / Russ Case & His Orchestra,Perry Como / Russ Case,pop,19450721,10,3,12,19450929
+9,NEW,I'll Buy That Dream,Dick Haymes & Helen Forrest / Victor Young & His Orchestra,Dick Haymes,jazz,19450929,9,2,11,19450929
+10,6,Gotta Be This Or That (Part 1),Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,19450704,10,4,16,19450929
+1,1,Till The End Of Time,Perry Como,Perry Como,jazz,19450811,5,1,16,19450922
+2,2,"On The Atchison, Topeka & Santa Fe",Johnny Mercer & The Pied Pipers / Paul Weston & His Orchestr,Johnny Mercer,jazz,19450707,4,1,16,19450922
+3,3,Chopin's Polonaise,Carmen Cavallaro,Carmen Cavallaro,jazz,19450707,8,3,17,19450922
+4,6,If I Loved You,Perry Como / Russ Case & His Orchestra,Perry Como / Russ Case,pop,19450721,10,3,12,19450922
+5,7,Tampico,Stan Kenton & His Orchestra / June Christy & Band Ensemble,Stan Kenton,jazz,19450818,10,4,10,19450922
+6,5,Gotta Be This Or That (Part 1),Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,19450704,10,4,16,19450922
+7,NEW,Along The Navajo Trail,Bing Crosby / Andrews Sisters,Bing Crosby / Andrews Sisters,pop,19450922,7,7,3,19450922
+8,4,Boogie Woogie,Tommy Dorsey,Tommy Dorsey,jazz,19450908,6,4,3,19450922
+9,8,I'm Gonna Love That Gal (Like She's Never Been Loved Before),Perry Como / Russ Case & His Orchestra,Perry Como / Russ Case,pop,19450915,8,8,2,19450922
+10,10,"On The Atchison, Topeka & Santa Fe",Bing Crosby & Six Hits & A Miss & John Scott Trotter,Bing Crosby,jazz,19450915,10,4,3,19450922
+1,1,Till The End Of Time,Perry Como,Perry Como,jazz,19450811,5,1,16,19450915
+2,2,"On The Atchison, Topeka & Santa Fe",Johnny Mercer & The Pied Pipers / Paul Weston & His Orchestr,Johnny Mercer,jazz,19450707,4,1,16,19450915
+3,3,Chopin's Polonaise,Carmen Cavallaro,Carmen Cavallaro,jazz,19450707,8,3,17,19450915
+4,6,Boogie Woogie,Tommy Dorsey,Tommy Dorsey,jazz,19450908,6,4,3,19450915
+5,4,Gotta Be This Or That (Part 1),Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,19450704,10,4,16,19450915
+6,5,If I Loved You,Perry Como / Russ Case & His Orchestra,Perry Como / Russ Case,pop,19450721,10,3,12,19450915
+7,8,Tampico,Stan Kenton & His Orchestra / June Christy & Band Ensemble,Stan Kenton,jazz,19450818,10,4,10,19450915
+8,NEW,I'm Gonna Love That Gal (Like She's Never Been Loved Before),Perry Como / Russ Case & His Orchestra,Perry Como / Russ Case,pop,19450915,8,8,2,19450915
+9,NEW,Along The Navajo Trail,Dinah Shore,Dinah Shore,jazz,19450915,9,9,1,19450915
+10,NEW,"On The Atchison, Topeka & Santa Fe",Bing Crosby & Six Hits & A Miss & John Scott Trotter,Bing Crosby,jazz,19450915,10,4,3,19450915
+1,2,Till The End Of Time,Perry Como,Perry Como,jazz,19450811,5,1,16,19450908
+2,1,"On The Atchison, Topeka & Santa Fe",Johnny Mercer & The Pied Pipers / Paul Weston & His Orchestr,Johnny Mercer,jazz,19450707,4,1,16,19450908
+3,3,Chopin's Polonaise,Carmen Cavallaro,Carmen Cavallaro,jazz,19450707,8,3,17,19450908
+4,4,Gotta Be This Or That (Part 1),Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,19450704,10,4,16,19450908
+5,5,If I Loved You,Perry Como / Russ Case & His Orchestra,Perry Como / Russ Case,pop,19450721,10,3,12,19450908
+6,NEW,Boogie Woogie,Tommy Dorsey,Tommy Dorsey,jazz,19450908,6,4,3,19450908
+7,8,"On The Atchison, Topeka & Santa Fe",Tommy Dorsey & His Orchestra / The Sentimentalists,Tommy Dorsey,jazz,19450818,8,7,4,19450908
+8,7,Tampico,Stan Kenton & His Orchestra / June Christy & Band Ensemble,Stan Kenton,jazz,19450818,10,4,10,19450908
+9,9,Sentimental Journey,Les Brown & His Band Of Renown / Doris Day,Les Brown,jazz,19450502,4,1,20,19450908
+10,NEW,Bell Bottom Trousers,Guy Lombardo & His Royal Canadians / Jimmy Brown,Guy Lombardo,jazz,19450908,10,10,1,19450908
+1,1,"On The Atchison, Topeka & Santa Fe",Johnny Mercer & The Pied Pipers / Paul Weston & His Orchestr,Johnny Mercer,jazz,19450707,4,1,16,19450901
+2,2,Till The End Of Time,Perry Como,Perry Como,jazz,19450811,5,1,16,19450901
+3,3,Chopin's Polonaise,Carmen Cavallaro,Carmen Cavallaro,jazz,19450707,8,3,17,19450901
+4,4,Gotta Be This Or That (Part 1),Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,19450704,10,4,16,19450901
+5,5,If I Loved You,Perry Como / Russ Case & His Orchestra,Perry Como / Russ Case,pop,19450721,10,3,12,19450901
+6,8,"On The Atchison, Topeka & Santa Fe",Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19450811,10,6,4,19450901
+7,6,Tampico,Stan Kenton & His Orchestra / June Christy & Band Ensemble,Stan Kenton,jazz,19450818,10,4,10,19450901
+8,9,"On The Atchison, Topeka & Santa Fe",Tommy Dorsey & His Orchestra / The Sentimentalists,Tommy Dorsey,jazz,19450818,8,7,4,19450901
+9,7,Sentimental Journey,Les Brown & His Band Of Renown / Doris Day,Les Brown,jazz,19450502,4,1,20,19450901
+10,NEW,I Wish I Knew,Dick Haymes,Dick Haymes,jazz,19450901,10,10,1,19450901
+1,1,"On The Atchison, Topeka & Santa Fe",Johnny Mercer & The Pied Pipers / Paul Weston & His Orchestr,Johnny Mercer,jazz,19450707,4,1,16,19450825
+2,2,Till The End Of Time,Perry Como,Perry Como,jazz,19450811,5,1,16,19450825
+3,3,Chopin's Polonaise,Carmen Cavallaro,Carmen Cavallaro,jazz,19450707,8,3,17,19450825
+4,6,Gotta Be This Or That (Part 1),Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,19450704,10,4,16,19450825
+5,4,If I Loved You,Perry Como / Russ Case & His Orchestra,Perry Como / Russ Case,pop,19450721,10,3,12,19450825
+6,10,Tampico,Stan Kenton & His Orchestra / June Christy & Band Ensemble,Stan Kenton,jazz,19450818,10,4,10,19450825
+7,5,Sentimental Journey,Les Brown & His Band Of Renown / Doris Day,Les Brown,jazz,19450502,4,1,20,19450825
+8,7,"On The Atchison, Topeka & Santa Fe",Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19450811,10,6,4,19450825
+9,8,"On The Atchison, Topeka & Santa Fe",Tommy Dorsey & His Orchestra / The Sentimentalists,Tommy Dorsey,jazz,19450818,8,7,4,19450825
+10,NEW,I'm Gonna Love That Gal (Like She's Never Been Loved Before),Perry Como / Russ Case & His Orchestra,Perry Como / Russ Case,pop,19450825,10,10,1,19450825
+1,1,"On The Atchison, Topeka & Santa Fe",Johnny Mercer & The Pied Pipers / Paul Weston & His Orchestr,Johnny Mercer,jazz,19450707,4,1,16,19450818
+2,5,Till The End Of Time,Perry Como,Perry Como,jazz,19450811,5,1,16,19450818
+3,3,Chopin's Polonaise,Carmen Cavallaro,Carmen Cavallaro,jazz,19450707,8,3,17,19450818
+4,4,If I Loved You,Perry Como / Russ Case & His Orchestra,Perry Como / Russ Case,pop,19450721,10,3,12,19450818
+5,2,Sentimental Journey,Les Brown & His Band Of Renown / Doris Day,Les Brown,jazz,19450502,4,1,20,19450818
+6,6,Gotta Be This Or That (Part 1),Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,19450704,10,4,16,19450818
+7,10,"On The Atchison, Topeka & Santa Fe",Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19450811,10,6,4,19450818
+8,NEW,"On The Atchison, Topeka & Santa Fe",Tommy Dorsey & His Orchestra / The Sentimentalists,Tommy Dorsey,jazz,19450818,8,7,4,19450818
+9,7,There! I've Said It Again,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,19450418,7,2,19,19450818
+10,NEW,Tampico,Stan Kenton & His Orchestra / June Christy & Band Ensemble,Stan Kenton,jazz,19450818,10,4,10,19450818
+1,1,"On The Atchison, Topeka & Santa Fe",Johnny Mercer & The Pied Pipers / Paul Weston & His Orchestr,Johnny Mercer,jazz,19450707,4,1,16,19450811
+2,2,Sentimental Journey,Les Brown & His Band Of Renown / Doris Day,Les Brown,jazz,19450502,4,1,20,19450811
+3,4,Chopin's Polonaise,Carmen Cavallaro,Carmen Cavallaro,jazz,19450707,8,3,17,19450811
+4,3,If I Loved You,Perry Como / Russ Case & His Orchestra,Perry Como / Russ Case,pop,19450721,10,3,12,19450811
+5,NEW,Till The End Of Time,Perry Como,Perry Como,jazz,19450811,5,1,16,19450811
+6,5,Gotta Be This Or That (Part 1),Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,19450704,10,4,16,19450811
+7,6,There! I've Said It Again,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,19450418,7,2,19,19450811
+8,7,Bell Bottom Trousers,Tony Pastor & His Orchestra / Ruth Mccullough,Tony Pastor,jazz,19450516,10,2,14,19450811
+9,8,Bell Bottom Trousers,Guy Lombardo & His Royal Canadians / Jimmy Brown,Guy Lombardo,jazz,19450804,8,8,2,19450811
+10,NEW,"On The Atchison, Topeka & Santa Fe",Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19450811,10,6,4,19450811
+1,1,"On The Atchison, Topeka & Santa Fe",Johnny Mercer & The Pied Pipers / Paul Weston & His Orchestr,Johnny Mercer,jazz,19450707,4,1,16,19450804
+2,2,Sentimental Journey,Les Brown & His Band Of Renown / Doris Day,Les Brown,jazz,19450502,4,1,20,19450804
+3,6,If I Loved You,Perry Como / Russ Case & His Orchestra,Perry Como / Russ Case,pop,19450721,10,3,12,19450804
+4,3,Chopin's Polonaise,Carmen Cavallaro,Carmen Cavallaro,jazz,19450707,8,3,17,19450804
+5,4,Gotta Be This Or That (Part 1),Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,19450704,10,4,16,19450804
+6,5,There! I've Said It Again,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,19450418,7,2,19,19450804
+7,7,Bell Bottom Trousers,Tony Pastor & His Orchestra / Ruth Mccullough,Tony Pastor,jazz,19450516,10,2,14,19450804
+8,NEW,Bell Bottom Trousers,Guy Lombardo & His Royal Canadians / Jimmy Brown,Guy Lombardo,jazz,19450804,8,8,2,19450804
+9,NEW,"On The Atchison, Topeka & Santa Fe",Tommy Dorsey & His Orchestra / The Sentimentalists,Tommy Dorsey,jazz,19450804,9,9,1,19450804
+10,10,Sentimental Journey,Hal Mcintyre & His Orchestra,Hal Mcintyre,jazz,19450704,4,4,6,19450804
+1,1,"On The Atchison, Topeka & Santa Fe",Johnny Mercer & The Pied Pipers / Paul Weston & His Orchestr,Johnny Mercer,jazz,19450707,4,1,16,19450728
+2,2,Sentimental Journey,Les Brown & His Band Of Renown / Doris Day,Les Brown,jazz,19450502,4,1,20,19450728
+3,5,Chopin's Polonaise,Carmen Cavallaro,Carmen Cavallaro,jazz,19450707,8,3,17,19450728
+4,7,Gotta Be This Or That (Part 1),Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,19450704,10,4,16,19450728
+5,3,There! I've Said It Again,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,19450418,7,2,19,19450728
+6,10,If I Loved You,Perry Como / Russ Case & His Orchestra,Perry Como / Russ Case,pop,19450721,10,3,12,19450728
+7,4,Bell Bottom Trousers,Tony Pastor & His Orchestra / Ruth Mccullough,Tony Pastor,jazz,19450516,10,2,14,19450728
+8,NEW,"On The Atchison, Topeka & Santa Fe",Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19450728,8,8,1,19450728
+9,NEW,Bell Bottom Trousers,Jerry Colonna,Jerry Colonna,pop,19450728,9,9,1,19450728
+10,6,Sentimental Journey,Hal Mcintyre & His Orchestra,Hal Mcintyre,jazz,19450704,4,4,6,19450728
+1,2,"On The Atchison, Topeka & Santa Fe",Johnny Mercer & The Pied Pipers / Paul Weston & His Orchestr,Johnny Mercer,jazz,19450707,4,1,16,19450721
+2,1,Sentimental Journey,Les Brown & His Band Of Renown / Doris Day,Les Brown,jazz,19450502,4,1,20,19450721
+3,3,There! I've Said It Again,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,19450418,7,2,19,19450721
+4,4,Bell Bottom Trousers,Tony Pastor & His Orchestra / Ruth Mccullough,Tony Pastor,jazz,19450516,10,2,14,19450721
+5,6,Chopin's Polonaise,Carmen Cavallaro,Carmen Cavallaro,jazz,19450707,8,3,17,19450721
+6,5,Sentimental Journey,Hal Mcintyre & His Orchestra,Hal Mcintyre,jazz,19450704,4,4,6,19450721
+7,10,Gotta Be This Or That (Part 1),Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,19450704,10,4,16,19450721
+8,8,Bell Bottom Trousers,Guy Lombardo & His Royal Canadians / Jimmy Brown,Guy Lombardo,jazz,19450620,6,6,6,19450721
+9,7,Sentimental Journey,The Merry Macs,The Merry Macs,pop,19450714,7,7,2,19450721
+10,NEW,If I Loved You,Perry Como / Russ Case & His Orchestra,Perry Como / Russ Case,pop,19450721,10,3,12,19450721
+1,1,Sentimental Journey,Les Brown & His Band Of Renown / Doris Day,Les Brown,jazz,19450502,4,1,20,19450714
+2,4,"On The Atchison, Topeka & Santa Fe",Johnny Mercer & The Pied Pipers / Paul Weston & His Orchestr,Johnny Mercer,jazz,19450707,4,1,16,19450714
+3,2,There! I've Said It Again,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,19450418,7,2,19,19450714
+4,3,Bell Bottom Trousers,Tony Pastor & His Orchestra / Ruth Mccullough,Tony Pastor,jazz,19450516,10,2,14,19450714
+5,5,Sentimental Journey,Hal Mcintyre & His Orchestra,Hal Mcintyre,jazz,19450704,4,4,6,19450714
+6,8,Chopin's Polonaise,Carmen Cavallaro,Carmen Cavallaro,jazz,19450707,8,3,17,19450714
+7,NEW,Sentimental Journey,The Merry Macs,The Merry Macs,pop,19450714,7,7,2,19450714
+8,9,Bell Bottom Trousers,Guy Lombardo & His Royal Canadians / Jimmy Brown,Guy Lombardo,jazz,19450620,6,6,6,19450714
+9,10,You Belong To My Heart,Bing Crosby / Xavier Cugat & His Orchestra,Bing Crosby / Xavier Cugat,pop,19450606,4,4,7,19450714
+10,7,Gotta Be This Or That (Part 1),Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,19450704,10,4,16,19450714
+1,1,Sentimental Journey,Les Brown & His Band Of Renown / Doris Day,Les Brown,jazz,19450502,4,1,20,19450707
+2,3,There! I've Said It Again,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,19450418,7,2,19,19450707
+3,2,Bell Bottom Trousers,Tony Pastor & His Orchestra / Ruth Mccullough,Tony Pastor,jazz,19450516,10,2,14,19450707
+4,NEW,"On The Atchison, Topeka & Santa Fe",Johnny Mercer & The Pied Pipers / Paul Weston & His Orchestr,Johnny Mercer,jazz,19450707,4,1,16,19450707
+5,4,Sentimental Journey,Hal Mcintyre & His Orchestra,Hal Mcintyre,jazz,19450704,4,4,6,19450707
+6,8,Bell Bottom Trousers,"Kay Kyser & His Orchestra / Ferdy, Slim & The Kay Quartet",Kay Kyser,jazz,19450613,7,5,5,19450707
+7,10,Gotta Be This Or That (Part 1),Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,19450704,10,4,16,19450707
+8,NEW,Chopin's Polonaise,Carmen Cavallaro,Carmen Cavallaro,jazz,19450707,8,3,17,19450707
+9,6,Bell Bottom Trousers,Guy Lombardo & His Royal Canadians / Jimmy Brown,Guy Lombardo,jazz,19450620,6,6,6,19450707
+10,5,You Belong To My Heart,Bing Crosby / Xavier Cugat & His Orchestra,Bing Crosby / Xavier Cugat,pop,19450606,4,4,7,19450707
+1,1,Sentimental Journey,Les Brown & His Band Of Renown / Doris Day,Les Brown,jazz,19450502,4,1,20,19450704
+2,3,Bell Bottom Trousers,Tony Pastor & His Orchestra / Ruth Mccullough,Tony Pastor,jazz,19450516,10,2,14,19450704
+3,2,There! I've Said It Again,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,19450418,7,2,19,19450704
+4,NEW,Sentimental Journey,Hal Mcintyre & His Orchestra,Hal Mcintyre,jazz,19450704,4,4,6,19450704
+5,4,You Belong To My Heart,Bing Crosby / Xavier Cugat & His Orchestra,Bing Crosby / Xavier Cugat,pop,19450606,4,4,7,19450704
+6,6,Bell Bottom Trousers,Guy Lombardo & His Royal Canadians / Jimmy Brown,Guy Lombardo,jazz,19450620,6,6,6,19450704
+7,8,Sentimental Journey,The Merry Macs,The Merry Macs,pop,19450627,8,7,2,19450704
+8,5,Bell Bottom Trousers,"Kay Kyser & His Orchestra / Ferdy, Slim & The Kay Quartet",Kay Kyser,jazz,19450613,7,5,5,19450704
+9,NEW,Caldonia,Louis Jordan & The Tympany Five,Louis Jordan,jazz,19450704,9,9,1,19450704
+10,NEW,Gotta Be This Or That (Part 1),Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,19450704,10,4,16,19450704
+1,1,Sentimental Journey,Les Brown & His Band Of Renown / Doris Day,Les Brown,jazz,19450502,4,1,20,19450627
+2,2,There! I've Said It Again,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,19450418,7,2,19,19450627
+3,3,Bell Bottom Trousers,Tony Pastor & His Orchestra / Ruth Mccullough,Tony Pastor,jazz,19450516,10,2,14,19450627
+4,4,You Belong To My Heart,Bing Crosby / Xavier Cugat & His Orchestra,Bing Crosby / Xavier Cugat,pop,19450606,4,4,7,19450627
+5,5,Bell Bottom Trousers,"Kay Kyser & His Orchestra / Ferdy, Slim & The Kay Quartet",Kay Kyser,jazz,19450613,7,5,5,19450627
+6,6,Bell Bottom Trousers,Guy Lombardo & His Royal Canadians / Jimmy Brown,Guy Lombardo,jazz,19450620,6,6,6,19450627
+7,8,Dream,The Pied Pipers / Paul Weston & His Orchestra,The Pied Pipers / Paul Weston,pop,19450523,6,5,6,19450627
+8,NEW,Sentimental Journey,The Merry Macs,The Merry Macs,pop,19450627,8,7,2,19450627
+9,9,Laura,Johnnie Johnston,Johnnie Johnston,pop,19450530,9,5,5,19450627
+10,NEW,Chopin's Polonaise,Carmen Cavallaro,Carmen Cavallaro,jazz,19450627,10,10,1,19450627
+1,1,Sentimental Journey,Les Brown & His Band Of Renown / Doris Day,Les Brown,jazz,19450502,4,1,20,19450620
+2,2,There! I've Said It Again,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,19450418,7,2,19,19450620
+3,3,Bell Bottom Trousers,Tony Pastor & His Orchestra / Ruth Mccullough,Tony Pastor,jazz,19450516,10,2,14,19450620
+4,4,You Belong To My Heart,Bing Crosby / Xavier Cugat & His Orchestra,Bing Crosby / Xavier Cugat,pop,19450606,4,4,7,19450620
+5,7,Bell Bottom Trousers,"Kay Kyser & His Orchestra / Ferdy, Slim & The Kay Quartet",Kay Kyser,jazz,19450613,7,5,5,19450620
+6,NEW,Bell Bottom Trousers,Guy Lombardo & His Royal Canadians / Jimmy Brown,Guy Lombardo,jazz,19450620,6,6,6,19450620
+7,8,Caldonia,Louis Jordan & His Tympani Five,Louis Jordan,jazz,19450530,6,6,4,19450620
+8,6,Dream,The Pied Pipers / Paul Weston & His Orchestra,The Pied Pipers / Paul Weston,pop,19450523,6,5,6,19450620
+9,5,Laura,Johnnie Johnston,Johnnie Johnston,pop,19450530,9,5,5,19450620
+10,NEW,Laura,Dick Haymes,Dick Haymes,jazz,19450620,10,10,1,19450620
+1,1,Sentimental Journey,Les Brown & His Band Of Renown / Doris Day,Les Brown,jazz,19450502,4,1,20,19450613
+2,2,There! I've Said It Again,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,19450418,7,2,19,19450613
+3,3,Bell Bottom Trousers,Tony Pastor & His Orchestra / Ruth Mccullough,Tony Pastor,jazz,19450516,10,2,14,19450613
+4,4,You Belong To My Heart,Bing Crosby / Xavier Cugat & His Orchestra,Bing Crosby / Xavier Cugat,pop,19450606,4,4,7,19450613
+5,6,Laura,Johnnie Johnston,Johnnie Johnston,pop,19450530,9,5,5,19450613
+6,5,Dream,The Pied Pipers / Paul Weston & His Orchestra,The Pied Pipers / Paul Weston,pop,19450523,6,5,6,19450613
+7,NEW,Bell Bottom Trousers,"Kay Kyser & His Orchestra / Ferdy, Slim & The Kay Quartet",Kay Kyser,jazz,19450613,7,5,5,19450613
+8,9,Caldonia,Louis Jordan & His Tympani Five,Louis Jordan,jazz,19450530,6,6,4,19450613
+9,NEW,Dream,Frank Sinatra & The Ken Lane Singers / Axel Stordahl,Frank Sinatra,jazz,19450613,9,9,1,19450613
+10,NEW,Sentimental Journey,Hal Mcintyre & His Orchestra,Hal Mcintyre,jazz,19450613,10,10,1,19450613
+1,1,Sentimental Journey,Les Brown & His Band Of Renown / Doris Day,Les Brown,jazz,19450502,4,1,20,19450606
+2,2,There! I've Said It Again,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,19450418,7,2,19,19450606
+3,3,Bell Bottom Trousers,Tony Pastor & His Orchestra / Ruth Mccullough,Tony Pastor,jazz,19450516,10,2,14,19450606
+4,NEW,You Belong To My Heart,Bing Crosby / Xavier Cugat & His Orchestra,Bing Crosby / Xavier Cugat,pop,19450606,4,4,7,19450606
+5,5,Dream,The Pied Pipers / Paul Weston & His Orchestra,The Pied Pipers / Paul Weston,pop,19450523,6,5,6,19450606
+6,9,Laura,Johnnie Johnston,Johnnie Johnston,pop,19450530,9,5,5,19450606
+7,4,Candy,Johnny Mercer / Jo Stafford / Pied Pipers / Paul Weston,Johnny Mercer / Jo Stafford / Pied Pipers / Paul Weston,pop,19450228,9,2,15,19450606
+8,10,Caldonia,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,19450502,10,6,6,19450606
+9,6,Caldonia,Louis Jordan & His Tympani Five,Louis Jordan,jazz,19450530,6,6,4,19450606
+10,8,My Dreams Are Getting Better All The Time,Les Brown & His Band Of Renown / Doris Day,Les Brown,jazz,19450321,2,1,12,19450606
+1,1,Sentimental Journey,Les Brown & His Band Of Renown / Doris Day,Les Brown,jazz,19450502,4,1,20,19450530
+2,4,There! I've Said It Again,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,19450418,7,2,19,19450530
+3,2,Bell Bottom Trousers,Tony Pastor & His Orchestra / Ruth Mccullough,Tony Pastor,jazz,19450516,10,2,14,19450530
+4,5,Candy,Johnny Mercer / Jo Stafford / Pied Pipers / Paul Weston,Johnny Mercer / Jo Stafford / Pied Pipers / Paul Weston,pop,19450228,9,2,15,19450530
+5,6,Dream,The Pied Pipers / Paul Weston & His Orchestra,The Pied Pipers / Paul Weston,pop,19450523,6,5,6,19450530
+6,NEW,Caldonia,Louis Jordan & His Tympani Five,Louis Jordan,jazz,19450530,6,6,4,19450530
+7,NEW,Dream,Frank Sinatra & The Ken Lane Singers / Axel Stordahl,Frank Sinatra,jazz,19450530,7,7,1,19450530
+8,3,My Dreams Are Getting Better All The Time,Les Brown & His Band Of Renown / Doris Day,Les Brown,jazz,19450321,2,1,12,19450530
+9,NEW,Laura,Johnnie Johnston,Johnnie Johnston,pop,19450530,9,5,5,19450530
+10,9,Caldonia,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,19450502,10,6,6,19450530
+1,2,Sentimental Journey,Les Brown & His Band Of Renown / Doris Day,Les Brown,jazz,19450502,4,1,20,19450523
+2,10,Bell Bottom Trousers,Tony Pastor & His Orchestra / Ruth Mccullough,Tony Pastor,jazz,19450516,10,2,14,19450523
+3,1,My Dreams Are Getting Better All The Time,Les Brown & His Band Of Renown / Doris Day,Les Brown,jazz,19450321,2,1,12,19450523
+4,4,There! I've Said It Again,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,19450418,7,2,19,19450523
+5,3,Candy,Johnny Mercer / Jo Stafford / Pied Pipers / Paul Weston,Johnny Mercer / Jo Stafford / Pied Pipers / Paul Weston,pop,19450228,9,2,15,19450523
+6,NEW,Dream,The Pied Pipers / Paul Weston & His Orchestra,The Pied Pipers / Paul Weston,pop,19450523,6,5,6,19450523
+7,NEW,Laura,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,19450523,7,7,1,19450523
+8,9,Chloe,"Spike Jones & His City Slickers / Red ""Swamphead"" Ingle",Spike Jones,pop,19450502,5,5,4,19450523
+9,6,Caldonia,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,19450502,10,6,6,19450523
+10,NEW,Laura,Dick Haymes,Dick Haymes,jazz,19450523,10,10,1,19450523
+1,1,My Dreams Are Getting Better All The Time,Les Brown & His Band Of Renown / Doris Day,Les Brown,jazz,19450321,2,1,12,19450516
+2,4,Sentimental Journey,Les Brown & His Band Of Renown / Doris Day,Les Brown,jazz,19450502,4,1,20,19450516
+3,2,Candy,Johnny Mercer / Jo Stafford / Pied Pipers / Paul Weston,Johnny Mercer / Jo Stafford / Pied Pipers / Paul Weston,pop,19450228,9,2,15,19450516
+4,3,There! I've Said It Again,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,19450418,7,2,19,19450516
+5,NEW,My Dreams Are Getting Better All The Time,Johnny Long & His Orchestra / Dick Robertson & Frances Lane,Johnny Long,jazz,19450516,5,5,1,19450516
+6,7,Caldonia,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,19450502,10,6,6,19450516
+7,NEW,Laura,Freddy Martin & His Orchestra,Freddy Martin & His Orchestra,pop,19450516,7,7,1,19450516
+8,8,I'm Beginning To See The Light,Harry James & The Music Makers / Kitty Kallen,Harry James,jazz,19450307,7,4,11,19450516
+9,5,Chloe,"Spike Jones & His City Slickers / Red ""Swamphead"" Ingle",Spike Jones,pop,19450502,5,5,4,19450516
+10,NEW,Bell Bottom Trousers,Tony Pastor & His Orchestra / Ruth Mccullough,Tony Pastor,jazz,19450516,10,2,14,19450516
+1,1,My Dreams Are Getting Better All The Time,Les Brown & His Band Of Renown / Doris Day,Les Brown,jazz,19450321,2,1,12,19450509
+2,3,Candy,Johnny Mercer / Jo Stafford / Pied Pipers / Paul Weston,Johnny Mercer / Jo Stafford / Pied Pipers / Paul Weston,pop,19450228,9,2,15,19450509
+3,2,There! I've Said It Again,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,19450418,7,2,19,19450509
+4,4,Sentimental Journey,Les Brown & His Band Of Renown / Doris Day,Les Brown,jazz,19450502,4,1,20,19450509
+5,5,Chloe,"Spike Jones & His City Slickers / Red ""Swamphead"" Ingle",Spike Jones,pop,19450502,5,5,4,19450509
+6,NEW,Dream,The Pied Pipers / Paul Weston & His Orchestra,The Pied Pipers / Paul Weston,pop,19450509,6,6,1,19450509
+7,10,Caldonia,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,19450502,10,6,6,19450509
+8,9,I'm Beginning To See The Light,Harry James & The Music Makers / Kitty Kallen,Harry James,jazz,19450307,7,4,11,19450509
+9,7,I'm Beginning To See The Light,The Ink Spots & Ella Fitzgerald,The Ink Spots & Ella Fitzgerald,jazz,19450502,7,7,2,19450509
+10,NEW,Laura,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,19450509,10,10,1,19450509
+1,1,My Dreams Are Getting Better All The Time,Les Brown & His Band Of Renown / Doris Day,Les Brown,jazz,19450321,2,1,12,19450502
+2,7,There! I've Said It Again,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,19450418,7,2,19,19450502
+3,2,Candy,Johnny Mercer / Jo Stafford / Pied Pipers / Paul Weston,Johnny Mercer / Jo Stafford / Pied Pipers / Paul Weston,pop,19450228,9,2,15,19450502
+4,NEW,Sentimental Journey,Les Brown & His Band Of Renown / Doris Day,Les Brown,jazz,19450502,4,1,20,19450502
+5,NEW,Chloe,"Spike Jones & His City Slickers / Red ""Swamphead"" Ingle",Spike Jones,pop,19450502,5,5,4,19450502
+6,3,My Dreams Are Getting Better All The Time,Johnny Long & His Orchestra / Dick Robertson & Frances Lane,Johnny Long,jazz,19450418,4,3,3,19450502
+7,NEW,I'm Beginning To See The Light,The Ink Spots & Ella Fitzgerald,The Ink Spots & Ella Fitzgerald,jazz,19450502,7,7,2,19450502
+8,4,Just A Prayer Away,Bing Crosby & The Ken Darby Singers / Ethel Smith,Bing Crosby,jazz,19450425,4,4,2,19450502
+9,5,I'm Beginning To See The Light,Harry James & The Music Makers / Kitty Kallen,Harry James,jazz,19450307,7,4,11,19450502
+10,NEW,Caldonia,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,19450502,10,6,6,19450502
+1,1,My Dreams Are Getting Better All The Time,Les Brown & His Band Of Renown / Doris Day,Les Brown,jazz,19450321,2,1,12,19450425
+2,2,Candy,Johnny Mercer / Jo Stafford / Pied Pipers / Paul Weston,Johnny Mercer / Jo Stafford / Pied Pipers / Paul Weston,pop,19450228,9,2,15,19450425
+3,4,My Dreams Are Getting Better All The Time,Johnny Long & His Orchestra / Dick Robertson & Frances Lane,Johnny Long,jazz,19450418,4,3,3,19450425
+4,NEW,Just A Prayer Away,Bing Crosby & The Ken Darby Singers / Ethel Smith,Bing Crosby,jazz,19450425,4,4,2,19450425
+5,5,I'm Beginning To See The Light,Harry James & The Music Makers / Kitty Kallen,Harry James,jazz,19450307,7,4,11,19450425
+6,3,Rum And Coca-Cola,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,19450214,1,1,11,19450425
+7,7,There! I've Said It Again,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,19450418,7,2,19,19450425
+8,8,Dream,The Pied Pipers / Paul Weston & His Orchestra,The Pied Pipers / Paul Weston,pop,19450328,9,5,5,19450425
+9,9,I'm Beginning To See The Light,Duke Ellington & His Orcjhestra / Joya Sherrill,Duke Ellington,jazz,19450418,9,9,2,19450425
+10,6,My Dreams Are Getting Better All The Time,The Phil Moore Four,The Phil Moore Four,pop,19450418,6,6,2,19450425
+1,1,My Dreams Are Getting Better All The Time,Les Brown & His Band Of Renown / Doris Day,Les Brown,jazz,19450321,2,1,12,19450418
+2,3,Candy,Johnny Mercer / Jo Stafford / Pied Pipers / Paul Weston,Johnny Mercer / Jo Stafford / Pied Pipers / Paul Weston,pop,19450228,9,2,15,19450418
+3,2,Rum And Coca-Cola,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,19450214,1,1,11,19450418
+4,NEW,My Dreams Are Getting Better All The Time,Johnny Long & His Orchestra / Dick Robertson & Frances Lane,Johnny Long,jazz,19450418,4,3,3,19450418
+5,4,I'm Beginning To See The Light,Harry James & The Music Makers / Kitty Kallen,Harry James,jazz,19450307,7,4,11,19450418
+6,NEW,My Dreams Are Getting Better All The Time,The Phil Moore Four,The Phil Moore Four,pop,19450418,6,6,2,19450418
+7,NEW,There! I've Said It Again,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,19450418,7,2,19,19450418
+8,5,Dream,The Pied Pipers / Paul Weston & His Orchestra,The Pied Pipers / Paul Weston,pop,19450328,9,5,5,19450418
+9,NEW,I'm Beginning To See The Light,Duke Ellington & His Orcjhestra / Joya Sherrill,Duke Ellington,jazz,19450418,9,9,2,19450418
+10,NEW,A Little On The Lonely Side,Frankie Carle & His Orchestra / Paul Allen,Frankie Carle,jazz,19450418,10,10,1,19450418
+1,1,My Dreams Are Getting Better All The Time,Les Brown & His Band Of Renown / Doris Day,Les Brown,jazz,19450321,2,1,12,19450411
+2,2,Rum And Coca-Cola,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,19450214,1,1,11,19450411
+3,3,Candy,Johnny Mercer / Jo Stafford / Pied Pipers / Paul Weston,Johnny Mercer / Jo Stafford / Pied Pipers / Paul Weston,pop,19450228,9,2,15,19450411
+4,6,I'm Beginning To See The Light,Harry James & The Music Makers / Kitty Kallen,Harry James,jazz,19450307,7,4,11,19450411
+5,7,Dream,The Pied Pipers / Paul Weston & His Orchestra,The Pied Pipers / Paul Weston,pop,19450328,9,5,5,19450411
+6,9,Sentimental Journey,Les Brown & His Band Of Renown / Doris Day,Les Brown,jazz,19450404,9,6,2,19450411
+7,NEW,Stuff Like That There,Betty Hutton,Betty Hutton,jazz,19450411,7,7,1,19450411
+8,10,A Little On The Lonely Side,Guy Lombardo & His Royal Canadians / Jimmy Brown,Guy Lombardo,jazz,19450404,10,8,2,19450411
+9,NEW,Laura,Woody Herman,Woody Herman,jazz,19450411,9,9,1,19450411
+10,NEW,Just A Prayer Away,Sammy Kaye / Billy Williams,Sammy Kaye / Billy Williams,pop,19450411,10,10,1,19450411
+1,2,My Dreams Are Getting Better All The Time,Les Brown & His Band Of Renown / Doris Day,Les Brown,jazz,19450321,2,1,12,19450404
+2,1,Rum And Coca-Cola,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,19450214,1,1,11,19450404
+3,3,Candy,Johnny Mercer / Jo Stafford / Pied Pipers / Paul Weston,Johnny Mercer / Jo Stafford / Pied Pipers / Paul Weston,pop,19450228,9,2,15,19450404
+4,4,My Dreams Are Getting Better All The Time,The Phil Moore Four,The Phil Moore Four,pop,19450321,3,3,3,19450404
+5,6,A Little On The Lonely Side,Frankie Carle & His Orchestra / Paul Allen,Frankie Carle,jazz,19450228,6,5,6,19450404
+6,5,I'm Beginning To See The Light,Harry James & The Music Makers / Kitty Kallen,Harry James,jazz,19450307,7,4,11,19450404
+7,9,Dream,The Pied Pipers / Paul Weston & His Orchestra,The Pied Pipers / Paul Weston,pop,19450328,9,5,5,19450404
+8,10,I'm Beginning To See The Light,Duke Ellington & His Orchestra / Joya Sherrill,Duke Ellington,jazz,19450328,10,8,2,19450404
+9,NEW,Sentimental Journey,Les Brown & His Band Of Renown / Doris Day,Les Brown,jazz,19450404,9,6,2,19450404
+10,NEW,A Little On The Lonely Side,Guy Lombardo & His Royal Canadians / Jimmy Brown,Guy Lombardo,jazz,19450404,10,8,2,19450404
+1,1,Rum And Coca-Cola,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,19450214,1,1,11,19450328
+2,2,My Dreams Are Getting Better All The Time,Les Brown & His Band Of Renown / Doris Day,Les Brown,jazz,19450321,2,1,12,19450328
+3,4,Candy,Johnny Mercer / Jo Stafford / Pied Pipers / Paul Weston,Johnny Mercer / Jo Stafford / Pied Pipers / Paul Weston,pop,19450228,9,2,15,19450328
+4,3,My Dreams Are Getting Better All The Time,The Phil Moore Four,The Phil Moore Four,pop,19450321,3,3,3,19450328
+5,10,I'm Beginning To See The Light,Harry James & The Music Makers / Kitty Kallen,Harry James,jazz,19450307,7,4,11,19450328
+6,9,A Little On The Lonely Side,Frankie Carle & His Orchestra / Paul Allen,Frankie Carle,jazz,19450228,6,5,6,19450328
+7,5,Accentuate The Positive,Johnny Mercer & The Pied Pipers / Paul Weston & His Orchestr,Johnny Mercer,jazz,19450110,3,2,12,19450328
+8,6,Accentuate The Positive,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,19450314,4,4,3,19450328
+9,NEW,Dream,The Pied Pipers / Paul Weston & His Orchestra,The Pied Pipers / Paul Weston,pop,19450328,9,5,5,19450328
+10,NEW,I'm Beginning To See The Light,Duke Ellington & His Orchestra / Joya Sherrill,Duke Ellington,jazz,19450328,10,8,2,19450328
+1,1,Rum And Coca-Cola,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,19450214,1,1,11,19450321
+2,NEW,My Dreams Are Getting Better All The Time,Les Brown & His Band Of Renown / Doris Day,Les Brown,jazz,19450321,2,1,12,19450321
+3,NEW,My Dreams Are Getting Better All The Time,The Phil Moore Four,The Phil Moore Four,pop,19450321,3,3,3,19450321
+4,6,Candy,Johnny Mercer / Jo Stafford / Pied Pipers / Paul Weston,Johnny Mercer / Jo Stafford / Pied Pipers / Paul Weston,pop,19450228,9,2,15,19450321
+5,2,Accentuate The Positive,Johnny Mercer & The Pied Pipers / Paul Weston & His Orchestr,Johnny Mercer,jazz,19450110,3,2,12,19450321
+6,4,Accentuate The Positive,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,19450314,4,4,3,19450321
+7,5,Rum And Coca-Cola,Abe Lyman & His Orchestra / Rose Blane,Abe Lyman,pop,19450228,7,4,4,19450321
+8,3,Don't Fence Me In,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,19441118,9,1,19,19450321
+9,10,A Little On The Lonely Side,Frankie Carle & His Orchestra / Paul Allen,Frankie Carle,jazz,19450228,6,5,6,19450321
+10,7,I'm Beginning To See The Light,Harry James & The Music Makers / Kitty Kallen,Harry James,jazz,19450307,7,4,11,19450321
+1,1,Rum And Coca-Cola,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,19450214,1,1,11,19450314
+2,3,Accentuate The Positive,Johnny Mercer & The Pied Pipers / Paul Weston & His Orchestr,Johnny Mercer,jazz,19450110,3,2,12,19450314
+3,2,Don't Fence Me In,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,19441118,9,1,19,19450314
+4,NEW,Accentuate The Positive,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,19450314,4,4,3,19450314
+5,4,Rum And Coca-Cola,Abe Lyman & His Orchestra / Rose Blane,Abe Lyman,pop,19450228,7,4,4,19450314
+6,6,Candy,Johnny Mercer / Jo Stafford / Pied Pipers / Paul Weston,Johnny Mercer / Jo Stafford / Pied Pipers / Paul Weston,pop,19450228,9,2,15,19450314
+7,7,I'm Beginning To See The Light,Harry James & The Music Makers / Kitty Kallen,Harry James,jazz,19450307,7,4,11,19450314
+8,5,Cocktails For Two,Spike Jones & His City Slickers / Carl Grayson,Spike Jones,pop,19450124,6,4,8,19450314
+9,NEW,I'm Beginning To See The Light,Duke Ellington & His Orchestra / Joya Sherrill,Duke Ellington,jazz,19450314,9,9,1,19450314
+10,8,A Little On The Lonely Side,Frankie Carle & His Orchestra / Paul Allen,Frankie Carle,jazz,19450228,6,5,6,19450314
+1,1,Rum And Coca-Cola,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,19450214,1,1,11,19450307
+2,2,Don't Fence Me In,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,19441118,9,1,19,19450307
+3,3,Accentuate The Positive,Johnny Mercer & The Pied Pipers / Paul Weston & His Orchestr,Johnny Mercer,jazz,19450110,3,2,12,19450307
+4,7,Rum And Coca-Cola,Abe Lyman & His Orchestra / Rose Blane,Abe Lyman,pop,19450228,7,4,4,19450307
+5,5,Cocktails For Two,Spike Jones & His City Slickers / Carl Grayson,Spike Jones,pop,19450124,6,4,8,19450307
+6,9,Candy,Johnny Mercer / Jo Stafford / Pied Pipers / Paul Weston,Johnny Mercer / Jo Stafford / Pied Pipers / Paul Weston,pop,19450228,9,2,15,19450307
+7,NEW,I'm Beginning To See The Light,Harry James & The Music Makers / Kitty Kallen,Harry James,jazz,19450307,7,4,11,19450307
+8,6,A Little On The Lonely Side,Frankie Carle & His Orchestra / Paul Allen,Frankie Carle,jazz,19450228,6,5,6,19450307
+9,NEW,Don't Fence Me In,Sammy Kaye & His Orchestra / Billy Williams,Sammy Kaye,jazz,19450307,9,9,1,19450307
+10,NEW,I Wanna Get Married,Gertrude Niesen,Gertrude Niesen,jazz,19450307,10,10,1,19450307
+1,1,Rum And Coca-Cola,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,19450214,1,1,11,19450228
+2,2,Don't Fence Me In,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,19441118,9,1,19,19450228
+3,3,Accentuate The Positive,Johnny Mercer & The Pied Pipers / Paul Weston & His Orchestr,Johnny Mercer,jazz,19450110,3,2,12,19450228
+4,4,Accentuate The Positive,Bing Crosby & Andrews Sisters / Vic Schoen & His Orchestra,Bing Crosby,jazz,19450131,9,3,5,19450228
+5,5,Cocktails For Two,Spike Jones & His City Slickers / Carl Grayson,Spike Jones,pop,19450124,6,4,8,19450228
+6,NEW,A Little On The Lonely Side,Frankie Carle & His Orchestra / Paul Allen,Frankie Carle,jazz,19450228,6,5,6,19450228
+7,NEW,Rum And Coca-Cola,Abe Lyman & His Orchestra / Rose Blane,Abe Lyman,pop,19450228,7,4,4,19450228
+8,NEW,Rum And Coca-Cola,Vaughn Monroe & His Orchestra / Rosemary Calvin,Vaughn Monroe,jazz,19450228,8,8,1,19450228
+9,NEW,Candy,Johnny Mercer / Jo Stafford / Pied Pipers / Paul Weston,Johnny Mercer / Jo Stafford / Pied Pipers / Paul Weston,pop,19450228,9,2,15,19450228
+10,6,Saturday Night (Is The Loneliest Night In The Week),Frank Sinatra / Axel Stordahl & His Orchestra,Frank Sinatra / Axel Stordahl,pop,19450221,6,6,2,19450228
+1,1,Rum And Coca-Cola,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,19450214,1,1,11,19450221
+2,2,Don't Fence Me In,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,19441118,9,1,19,19450221
+3,3,Accentuate The Positive,Johnny Mercer & The Pied Pipers / Paul Weston & His Orchestr,Johnny Mercer,jazz,19450110,3,2,12,19450221
+4,4,Accentuate The Positive,Bing Crosby & Andrews Sisters / Vic Schoen & His Orchestra,Bing Crosby,jazz,19450131,9,3,5,19450221
+5,8,Cocktails For Two,Spike Jones & His City Slickers / Carl Grayson,Spike Jones,pop,19450124,6,4,8,19450221
+6,NEW,Saturday Night (Is The Loneliest Night In The Week),Frank Sinatra / Axel Stordahl & His Orchestra,Frank Sinatra / Axel Stordahl,pop,19450221,6,6,2,19450221
+7,6,I Dream Of You (More Than You Dream I Do),Tommy Dorsey & His Orchestra / Freddie Stewart,Tommy Dorsey,jazz,19450214,6,6,2,19450221
+8,5,Don't Fence Me In,Sammy Kaye & His Orchestra / Billy Williams,Sammy Kaye,jazz,19450117,4,4,6,19450221
+9,9,Accentuate The Positive,Artie Shaw & His Orchestra / Imogen Lynn,Artie Shaw,jazz,19450131,6,5,4,19450221
+10,NEW,I'm Beginning To See The Light,Harry James & His Music Makers / Kitty Kallen,Harry James,jazz,19450221,10,10,1,19450221
+1,NEW,Rum And Coca-Cola,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,19450214,1,1,11,19450214
+2,1,Don't Fence Me In,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,19441118,9,1,19,19450214
+3,2,Accentuate The Positive,Johnny Mercer & The Pied Pipers / Paul Weston & His Orchestr,Johnny Mercer,jazz,19450110,3,2,12,19450214
+4,3,Accentuate The Positive,Bing Crosby & Andrews Sisters / Vic Schoen & His Orchestra,Bing Crosby,jazz,19450131,9,3,5,19450214
+5,6,Don't Fence Me In,Sammy Kaye & His Orchestra / Billy Williams,Sammy Kaye,jazz,19450117,4,4,6,19450214
+6,NEW,I Dream Of You (More Than You Dream I Do),Tommy Dorsey & His Orchestra / Freddie Stewart,Tommy Dorsey,jazz,19450214,6,6,2,19450214
+7,9,A Little On The Lonely Side,Frankie Carle & His Orchestra / Paul Allen,Frankie Carle,jazz,19450207,9,7,2,19450214
+8,4,Cocktails For Two,Spike Jones & His City Slickers / Carl Grayson,Spike Jones,pop,19450124,6,4,8,19450214
+9,5,Accentuate The Positive,Artie Shaw & His Orchestra / Imogen Lynn,Artie Shaw,jazz,19450131,6,5,4,19450214
+10,7,I Dream Of You,Frank Sinatra / Axel Stordahl & His Orchestra,Frank Sinatra / Axel Stordahl,pop,19450207,7,7,2,19450214
+1,1,Don't Fence Me In,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,19441118,9,1,19,19450207
+2,3,Accentuate The Positive,Johnny Mercer & The Pied Pipers / Paul Weston & His Orchestr,Johnny Mercer,jazz,19450110,3,2,12,19450207
+3,9,Accentuate The Positive,Bing Crosby & Andrews Sisters / Vic Schoen & His Orchestra,Bing Crosby,jazz,19450131,9,3,5,19450207
+4,7,Cocktails For Two,Spike Jones & His City Slickers / Carl Grayson,Spike Jones,pop,19450124,6,4,8,19450207
+5,6,Accentuate The Positive,Artie Shaw & His Orchestra / Imogen Lynn,Artie Shaw,jazz,19450131,6,5,4,19450207
+6,4,Don't Fence Me In,Sammy Kaye & His Orchestra / Billy Williams,Sammy Kaye,jazz,19450117,4,4,6,19450207
+7,NEW,I Dream Of You,Frank Sinatra / Axel Stordahl & His Orchestra,Frank Sinatra / Axel Stordahl,pop,19450207,7,7,2,19450207
+8,NEW,Saturday Night (Is The Loneliest Night In The Week),Frank Sinatra,Frank Sinatra,jazz,19450207,8,8,1,19450207
+9,NEW,A Little On The Lonely Side,Frankie Carle & His Orchestra / Paul Allen,Frankie Carle,jazz,19450207,9,7,2,19450207
+10,10,Don't Fence Me In,Horace Heidt & His Musical Knightd / Gene Walsh & Glee Club,Horace Heidt,jazz,19450131,10,10,2,19450207
+1,1,Don't Fence Me In,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,19441118,9,1,19,19450131
+2,3,Rum And Coca Cola,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,19450110,6,2,4,19450131
+3,2,Accentuate The Positive,Johnny Mercer & The Pied Pipers / Paul Weston & His Orchestr,Johnny Mercer,jazz,19450110,3,2,12,19450131
+4,4,Don't Fence Me In,Sammy Kaye & His Orchestra / Billy Williams,Sammy Kaye,jazz,19450117,4,4,6,19450131
+5,NEW,I Dream Of You,Tommy Dorsey & His Orchestra / Freddie Stewart,Tommy Dorsey,jazz,19450131,5,5,1,19450131
+6,NEW,Accentuate The Positive,Artie Shaw & His Orchestra / Imogen Lynn,Artie Shaw,jazz,19450131,6,5,4,19450131
+7,6,Cocktails For Two,Spike Jones & His City Slickers / Carl Grayson,Spike Jones,pop,19450124,6,4,8,19450131
+8,5,Into Each Life Some Rain Must Fall,The Ink Spots & Ella Fitzgerald,The Ink Spots & Ella Fitzgerald,jazz,19450124,5,5,2,19450131
+9,NEW,Accentuate The Positive,Bing Crosby & Andrews Sisters / Vic Schoen & His Orchestra,Bing Crosby,jazz,19450131,9,3,5,19450131
+10,NEW,Don't Fence Me In,Horace Heidt & His Musical Knightd / Gene Walsh & Glee Club,Horace Heidt,jazz,19450131,10,10,2,19450131
+1,1,Don't Fence Me In,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,19441118,9,1,19,19450124
+2,2,Accentuate The Positive,Johnny Mercer & The Pied Pipers / Paul Weston & His Orchestr,Johnny Mercer,jazz,19450110,3,2,12,19450124
+3,5,Rum And Coca Cola,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,19450110,6,2,4,19450124
+4,4,Don't Fence Me In,Sammy Kaye & His Orchestra / Billy Williams,Sammy Kaye,jazz,19450117,4,4,6,19450124
+5,NEW,Into Each Life Some Rain Must Fall,The Ink Spots & Ella Fitzgerald,The Ink Spots & Ella Fitzgerald,jazz,19450124,5,5,2,19450124
+6,NEW,Cocktails For Two,Spike Jones & His City Slickers / Carl Grayson,Spike Jones,pop,19450124,6,4,8,19450124
+7,NEW,I Dream Of You,Frank Sinatra / Axel Stordahl & His Orchestra,Frank Sinatra / Axel Stordahl,pop,19450124,7,7,1,19450124
+8,NEW,I Dream Of You,Andy Russell,Andy Russell,pop,19450124,8,8,1,19450124
+9,8,Don't Fence Me In,Kate Smith,Kate Smith,pop,19450117,8,8,2,19450124
+10,NEW,There Goes That Song Again,Sammy Kaye & His Orchestra / Nancy Norman,Sammy Kaye,jazz,19450124,10,10,1,19450124
+1,1,Don't Fence Me In,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,19441118,9,1,19,19450117
+2,3,Accentuate The Positive,Johnny Mercer & The Pied Pipers / Paul Weston & His Orchestr,Johnny Mercer,jazz,19450110,3,2,12,19450117
+3,2,I'm Making Believe,The Ink Spots & Ella Fitzgerald,The Ink Spots & Ella Fitzgerald,jazz,19441118,4,1,10,19450117
+4,NEW,Don't Fence Me In,Sammy Kaye & His Orchestra / Billy Williams,Sammy Kaye,jazz,19450117,4,4,6,19450117
+5,6,Rum And Coca Cola,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,19450110,6,2,4,19450117
+6,9,I Dream Of You (More Than You Dream I Do),Tommy Dorsey & His Orchestra / Freddie Stewart,Tommy Dorsey,jazz,19441230,6,6,4,19450117
+7,NEW,There Goes That Song Again,Kay Kyser & His Orchestra / Georgia Carroll,Kay Kyser,jazz,19450117,7,7,1,19450117
+8,NEW,Don't Fence Me In,Kate Smith,Kate Smith,pop,19450117,8,8,2,19450117
+9,4,The Trolley Song,Vaughn Monroe & His Orchestra / Marilyn Duke,Vaughn Monroe,jazz,19441230,4,4,4,19450117
+10,NEW,There Goes That Song Again,Russ Morgan & His Orchestra,Russ Morgan & His Orchestra,pop,19450117,10,10,1,19450117
+1,1,Don't Fence Me In,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,19441118,9,1,19,19450110
+2,2,I'm Making Believe,The Ink Spots & Ella Fitzgerald,The Ink Spots & Ella Fitzgerald,jazz,19441118,4,1,10,19450110
+3,NEW,Accentuate The Positive,Johnny Mercer & The Pied Pipers / Paul Weston & His Orchestr,Johnny Mercer,jazz,19450110,3,2,12,19450110
+4,4,The Trolley Song,Vaughn Monroe & His Orchestra / Marilyn Duke,Vaughn Monroe,jazz,19441230,4,4,4,19450110
+5,NEW,Into Each Life Some Rain Must Fall,Ink Spots & Ella Fitzgerald,Ink Spots & Ella Fitzgerald,jazz,19450110,5,5,1,19450110
+6,NEW,Rum And Coca Cola,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,19450110,6,2,4,19450110
+7,8,The Trolley Song,Judy Garland,Judy Garland,jazz,19441223,4,4,4,19450110
+8,NEW,There Goes That Song Again,Sammy Kaye & His Orchestra / Nancy Norman,Sammy Kaye,jazz,19450110,8,8,1,19450110
+9,6,I Dream Of You (More Than You Dream I Do),Tommy Dorsey & His Orchestra / Freddie Stewart,Tommy Dorsey,jazz,19441230,6,6,4,19450110
+10,3,The Trolley Song,The Pied Pipers & Jo Stafford / Paul Weston & His Orchestra,The Pied Pipers,pop,19441104,3,2,11,19450110
+1,1,Don't Fence Me In,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,19441118,9,1,19,19450103
+2,2,I'm Making Believe,The Ink Spots & Ella Fitzgerald,The Ink Spots & Ella Fitzgerald,jazz,19441118,4,1,10,19450103
+3,3,The Trolley Song,The Pied Pipers & Jo Stafford / Paul Weston & His Orchestra,The Pied Pipers,pop,19441104,3,2,11,19450103
+4,4,The Trolley Song,Vaughn Monroe & His Orchestra / Marilyn Duke,Vaughn Monroe,jazz,19441230,4,4,4,19450103
+5,5,There Goes That Song Again,Russ Morgan & His Orchestra,Russ Morgan & His Orchestra,pop,19441230,5,5,2,19450103
+6,6,I Dream Of You (More Than You Dream I Do),Tommy Dorsey & His Orchestra / Freddie Stewart,Tommy Dorsey,jazz,19441230,6,6,4,19450103
+7,7,White Christmas,Bing Crosby & The Ken Darby Singers / John Scott Trotter,Bing Crosby,jazz,19441223,6,6,3,19450103
+8,8,The Trolley Song,Judy Garland,Judy Garland,jazz,19441223,4,4,4,19450103
+9,9,White Christmas,Frank Sinatra & The Bobby Tucker Singers / Axel Stordahl,Frank Sinatra,jazz,19441223,7,7,3,19450103
+10,10,Together,Dick Haymes & Helen Forrest / Victor Young & His Orchestra,Dick Haymes,jazz,19441230,10,10,2,19450103

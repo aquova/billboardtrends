@@ -1,0 +1,1041 @@
+this_week_position,last_week_position,track,artist,clean_artist,genre,entry_date,entry_position,peak_position,total_weeks,chart_date
+1,2,I Saw Mummy Kissing Santa Claus,Jimmy Boyd,Jimmy Boyd,pop,19521206,13,1,6,19521227
+2,1,Why Don't You Believe Me,Joni James,Joni James,jazz,19521025,17,1,20,19521227
+3,4,Don't Let The Stars Get In Your Eyes,Perry Como,Perry Como,jazz,19521206,11,1,21,19521227
+4,3,The Glow-Worm,Mills Brothers,Mills Brothers,jazz,19520927,17,2,21,19521227
+5,5,It's In The Book,Johnny Standley,Johnny Standley,pop,19521004,19,1,19,19521227
+6,6,Keep It A Secret,Jo Stafford,Jo Stafford,jazz,19521115,20,6,17,19521227
+7,14,I Saw Mommy Kissing Santa Claus,Spike Jones,Spike Jones,pop,19521220,14,7,3,19521227
+8,9,Because You're Mine,Mario Lanza,Mario Lanza,pop,19521011,19,7,14,19521227
+9,7,Oh Happy Day,Don Howard,Don Howard,pop,19521206,19,4,15,19521227
+10,11,Till I Waltz Again With You,Teresa Brewer,Teresa Brewer,pop,19521213,18,1,22,19521227
+11,16,Why Don't You Believe Me,Patti Page,Patti Page,jazz,19521129,19,11,9,19521227
+12,13,I Went To Your Wedding,Patti Page,Patti Page,jazz,19520830,17,1,21,19521227
+13,15,Lady Of Spain,Eddie Fisher,Eddie Fisher,jazz,19521004,14,9,16,19521227
+14,19,Tell Me You're Mine,Gaylords,Gaylords,pop,19521220,19,3,22,19521227
+15,8,Takes Two To Tango,Pearl Bailey,Pearl Bailey,jazz,19521018,20,7,11,19521227
+16,12,You Belong To Me,Jo Stafford,Jo Stafford,jazz,19520816,12,1,23,19521227
+17,10,Jambalaya,Jo Stafford,Jo Stafford,jazz,19520830,13,3,20,19521227
+18,NEW,My Baby's Coming Home,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19521227,18,18,1,19521227
+19,18,Trying,Hilltoppers,Hilltoppers,pop,19520913,13,7,16,19521227
+20,NEW,Hold Me Thrill Me Kiss Me,Karen Chandler,Karen Chandler,pop,19521227,20,7,14,19521227
+1,1,Why Don't You Believe Me,Joni James,Joni James,jazz,19521025,17,1,20,19521220
+2,6,I Saw Mummy Kissing Santa Claus,Jimmy Boyd,Jimmy Boyd,pop,19521206,13,1,6,19521220
+3,3,The Glow-Worm,Mills Brothers,Mills Brothers,jazz,19520927,17,2,21,19521220
+4,4,Don't Let The Stars Get In Your Eyes,Perry Como,Perry Como,jazz,19521206,11,1,21,19521220
+5,2,It's In The Book,Johnny Standley,Johnny Standley,pop,19521004,19,1,19,19521220
+6,8,Keep It A Secret,Jo Stafford,Jo Stafford,jazz,19521115,20,6,17,19521220
+7,13,Oh Happy Day,Don Howard,Don Howard,pop,19521206,19,4,15,19521220
+8,9,Takes Two To Tango,Pearl Bailey,Pearl Bailey,jazz,19521018,20,7,11,19521220
+9,10,Because You're Mine,Mario Lanza,Mario Lanza,pop,19521011,19,7,14,19521220
+10,11,Jambalaya,Jo Stafford,Jo Stafford,jazz,19520830,13,3,20,19521220
+11,18,Till I Waltz Again With You,Teresa Brewer,Teresa Brewer,pop,19521213,18,1,22,19521220
+12,7,You Belong To Me,Jo Stafford,Jo Stafford,jazz,19520816,12,1,23,19521220
+13,5,I Went To Your Wedding,Patti Page,Patti Page,jazz,19520830,17,1,21,19521220
+14,NEW,I Saw Mommy Kissing Santa Claus,Spike Jones,Spike Jones,pop,19521220,14,7,3,19521220
+15,14,Lady Of Spain,Eddie Fisher,Eddie Fisher,jazz,19521004,14,9,16,19521220
+16,17,Why Don't You Believe Me,Patti Page,Patti Page,jazz,19521129,19,11,9,19521220
+17,20,Lady Of Spain,Les Paul,Les Paul,jazz,19521213,20,17,2,19521220
+18,12,Trying,Hilltoppers,Hilltoppers,pop,19520913,13,7,16,19521220
+19,NEW,Tell Me You're Mine,Gaylords,Gaylords,pop,19521220,19,3,22,19521220
+20,15,Outside Of Heaven,Eddie Fisher,Eddie Fisher,jazz,19521004,20,10,12,19521220
+1,1,Why Don't You Believe Me,Joni James,Joni James,jazz,19521025,17,1,20,19521213
+2,2,It's In The Book,Johnny Standley,Johnny Standley,pop,19521004,19,1,19,19521213
+3,3,The Glow-Worm,Mills Brothers,Mills Brothers,jazz,19520927,17,2,21,19521213
+4,11,Don't Let The Stars Get In Your Eyes,Perry Como,Perry Como,jazz,19521206,11,1,21,19521213
+5,4,I Went To Your Wedding,Patti Page,Patti Page,jazz,19520830,17,1,21,19521213
+6,13,I Saw Mummy Kissing Santa Claus,Jimmy Boyd,Jimmy Boyd,pop,19521206,13,1,6,19521213
+7,5,You Belong To Me,Jo Stafford,Jo Stafford,jazz,19520816,12,1,23,19521213
+8,6,Keep It A Secret,Jo Stafford,Jo Stafford,jazz,19521115,20,6,17,19521213
+9,7,Takes Two To Tango,Pearl Bailey,Pearl Bailey,jazz,19521018,20,7,11,19521213
+10,10,Because You're Mine,Mario Lanza,Mario Lanza,pop,19521011,19,7,14,19521213
+11,8,Jambalaya,Jo Stafford,Jo Stafford,jazz,19520830,13,3,20,19521213
+12,12,Trying,Hilltoppers,Hilltoppers,pop,19520913,13,7,16,19521213
+13,19,Oh Happy Day,Don Howard,Don Howard,pop,19521206,19,4,15,19521213
+14,9,Lady Of Spain,Eddie Fisher,Eddie Fisher,jazz,19521004,14,9,16,19521213
+15,14,Outside Of Heaven,Eddie Fisher,Eddie Fisher,jazz,19521004,20,10,12,19521213
+16,NEW,Hold Me Thrill Me Kiss Me,Karen Chandler,Karen Chandler,pop,19521213,16,16,1,19521213
+17,18,Why Don't You Believe Me,Patti Page,Patti Page,jazz,19521129,19,11,9,19521213
+18,NEW,Till I Waltz Again With You,Teresa Brewer,Teresa Brewer,pop,19521213,18,1,22,19521213
+19,17,Yours,Vera Lynn,Vera Lynn,pop,19521025,18,9,8,19521213
+20,NEW,Lady Of Spain,Les Paul,Les Paul,jazz,19521213,20,17,2,19521213
+1,1,Why Don't You Believe Me,Joni James,Joni James,jazz,19521025,17,1,20,19521206
+2,2,It's In The Book,Johnny Standley,Johnny Standley,pop,19521004,19,1,19,19521206
+3,3,The Glow-Worm,Mills Brothers,Mills Brothers,jazz,19520927,17,2,21,19521206
+4,4,I Went To Your Wedding,Patti Page,Patti Page,jazz,19520830,17,1,21,19521206
+5,5,You Belong To Me,Jo Stafford,Jo Stafford,jazz,19520816,12,1,23,19521206
+6,11,Keep It A Secret,Jo Stafford,Jo Stafford,jazz,19521115,20,6,17,19521206
+7,8,Takes Two To Tango,Pearl Bailey,Pearl Bailey,jazz,19521018,20,7,11,19521206
+8,6,Jambalaya,Jo Stafford,Jo Stafford,jazz,19520830,13,3,20,19521206
+9,13,Lady Of Spain,Eddie Fisher,Eddie Fisher,jazz,19521004,14,9,16,19521206
+10,7,Because You're Mine,Mario Lanza,Mario Lanza,pop,19521011,19,7,14,19521206
+11,NEW,Don't Let The Stars Get In Your Eyes,Perry Como,Perry Como,jazz,19521206,11,1,21,19521206
+12,9,Trying,Hilltoppers,Hilltoppers,pop,19520913,13,7,16,19521206
+13,NEW,I Saw Mummy Kissing Santa Claus,Jimmy Boyd,Jimmy Boyd,pop,19521206,13,1,6,19521206
+14,17,Outside Of Heaven,Eddie Fisher,Eddie Fisher,jazz,19521004,20,10,12,19521206
+15,14,You Belong To Me,Patti Page,Patti Page,jazz,19520913,12,9,13,19521206
+16,12,Wish You Were Here,Eddie Fisher,Eddie Fisher,jazz,19520726,13,3,20,19521206
+17,10,Yours,Vera Lynn,Vera Lynn,pop,19521025,18,9,8,19521206
+18,19,Why Don't You Believe Me,Patti Page,Patti Page,jazz,19521129,19,11,9,19521206
+19,NEW,Oh Happy Day,Don Howard,Don Howard,pop,19521206,19,4,15,19521206
+20,15,Heart And Soul,Four Aces,Four Aces,pop,19521101,18,15,6,19521206
+1,4,Why Don't You Believe Me,Joni James,Joni James,jazz,19521025,17,1,20,19521129
+2,1,It's In The Book,Johnny Standley,Johnny Standley,pop,19521004,19,1,19,19521129
+3,2,The Glow-Worm,Mills Brothers,Mills Brothers,jazz,19520927,17,2,21,19521129
+4,3,I Went To Your Wedding,Patti Page,Patti Page,jazz,19520830,17,1,21,19521129
+5,5,You Belong To Me,Jo Stafford,Jo Stafford,jazz,19520816,12,1,23,19521129
+6,6,Jambalaya,Jo Stafford,Jo Stafford,jazz,19520830,13,3,20,19521129
+7,7,Because You're Mine,Mario Lanza,Mario Lanza,pop,19521011,19,7,14,19521129
+8,12,Takes Two To Tango,Pearl Bailey,Pearl Bailey,jazz,19521018,20,7,11,19521129
+9,8,Trying,Hilltoppers,Hilltoppers,pop,19520913,13,7,16,19521129
+10,9,Yours,Vera Lynn,Vera Lynn,pop,19521025,18,9,8,19521129
+11,13,Keep It A Secret,Jo Stafford,Jo Stafford,jazz,19521115,20,6,17,19521129
+12,10,Wish You Were Here,Eddie Fisher,Eddie Fisher,jazz,19520726,13,3,20,19521129
+13,11,Lady Of Spain,Eddie Fisher,Eddie Fisher,jazz,19521004,14,9,16,19521129
+14,14,You Belong To Me,Patti Page,Patti Page,jazz,19520913,12,9,13,19521129
+15,16,Heart And Soul,Four Aces,Four Aces,pop,19521101,18,15,6,19521129
+16,17,I,Don Cornell,Don Cornell,pop,19521122,17,16,2,19521129
+17,15,Outside Of Heaven,Eddie Fisher,Eddie Fisher,jazz,19521004,20,10,12,19521129
+18,18,Lady Of Spain,Les Paul,Les Paul,jazz,19521108,18,17,4,19521129
+19,NEW,Why Don't You Believe Me,Patti Page,Patti Page,jazz,19521129,19,11,9,19521129
+20,19,Meet Mister Callaghan,Les Paul,Les Paul,jazz,19520906,12,5,13,19521129
+1,4,It's In The Book,Johnny Standley,Johnny Standley,pop,19521004,19,1,19,19521122
+2,2,The Glow-Worm,Mills Brothers,Mills Brothers,jazz,19520927,17,2,21,19521122
+3,1,I Went To Your Wedding,Patti Page,Patti Page,jazz,19520830,17,1,21,19521122
+4,5,Why Don't You Believe Me,Joni James,Joni James,jazz,19521025,17,1,20,19521122
+5,3,You Belong To Me,Jo Stafford,Jo Stafford,jazz,19520816,12,1,23,19521122
+6,6,Jambalaya,Jo Stafford,Jo Stafford,jazz,19520830,13,3,20,19521122
+7,8,Because You're Mine,Mario Lanza,Mario Lanza,pop,19521011,19,7,14,19521122
+8,9,Trying,Hilltoppers,Hilltoppers,pop,19520913,13,7,16,19521122
+9,12,Yours,Vera Lynn,Vera Lynn,pop,19521025,18,9,8,19521122
+10,7,Wish You Were Here,Eddie Fisher,Eddie Fisher,jazz,19520726,13,3,20,19521122
+11,10,Lady Of Spain,Eddie Fisher,Eddie Fisher,jazz,19521004,14,9,16,19521122
+12,11,Takes Two To Tango,Pearl Bailey,Pearl Bailey,jazz,19521018,20,7,11,19521122
+13,20,Keep It A Secret,Jo Stafford,Jo Stafford,jazz,19521115,20,6,17,19521122
+14,14,You Belong To Me,Patti Page,Patti Page,jazz,19520913,12,9,13,19521122
+15,13,Outside Of Heaven,Eddie Fisher,Eddie Fisher,jazz,19521004,20,10,12,19521122
+16,16,Heart And Soul,Four Aces,Four Aces,pop,19521101,18,15,6,19521122
+17,NEW,I,Don Cornell,Don Cornell,pop,19521122,17,16,2,19521122
+18,17,Lady Of Spain,Les Paul,Les Paul,jazz,19521108,18,17,4,19521122
+19,19,Meet Mister Callaghan,Les Paul,Les Paul,jazz,19520906,12,5,13,19521122
+20,NEW,Blue Violins,Hugo Winterhalter,Hugo Winterhalter,pop,19521122,20,20,1,19521122
+1,1,I Went To Your Wedding,Patti Page,Patti Page,jazz,19520830,17,1,21,19521115
+2,4,The Glow-Worm,Mills Brothers,Mills Brothers,jazz,19520927,17,2,21,19521115
+3,2,You Belong To Me,Jo Stafford,Jo Stafford,jazz,19520816,12,1,23,19521115
+4,3,It's In The Book,Johnny Standley,Johnny Standley,pop,19521004,19,1,19,19521115
+5,7,Why Don't You Believe Me,Joni James,Joni James,jazz,19521025,17,1,20,19521115
+6,5,Jambalaya,Jo Stafford,Jo Stafford,jazz,19520830,13,3,20,19521115
+7,6,Wish You Were Here,Eddie Fisher,Eddie Fisher,jazz,19520726,13,3,20,19521115
+8,11,Because You're Mine,Mario Lanza,Mario Lanza,pop,19521011,19,7,14,19521115
+9,8,Trying,Hilltoppers,Hilltoppers,pop,19520913,13,7,16,19521115
+10,15,Lady Of Spain,Eddie Fisher,Eddie Fisher,jazz,19521004,14,9,16,19521115
+11,14,Takes Two To Tango,Pearl Bailey,Pearl Bailey,jazz,19521018,20,7,11,19521115
+12,12,Yours,Vera Lynn,Vera Lynn,pop,19521025,18,9,8,19521115
+13,13,Outside Of Heaven,Eddie Fisher,Eddie Fisher,jazz,19521004,20,10,12,19521115
+14,10,You Belong To Me,Patti Page,Patti Page,jazz,19520913,12,9,13,19521115
+15,16,Half As Much,Rosemary Clooney,Rosemary Clooney,jazz,19520607,17,2,24,19521115
+16,19,Heart And Soul,Four Aces,Four Aces,pop,19521101,18,15,6,19521115
+17,18,Lady Of Spain,Les Paul,Les Paul,jazz,19521108,18,17,4,19521115
+18,17,High Noon,Frankie Laine,Frankie Laine,country / folk,19520726,20,5,17,19521115
+19,9,Meet Mister Callaghan,Les Paul,Les Paul,jazz,19520906,12,5,13,19521115
+20,NEW,Keep It A Secret,Jo Stafford,Jo Stafford,jazz,19521115,20,6,17,19521115
+1,1,I Went To Your Wedding,Patti Page,Patti Page,jazz,19520830,17,1,21,19521108
+2,2,You Belong To Me,Jo Stafford,Jo Stafford,jazz,19520816,12,1,23,19521108
+3,3,It's In The Book,Johnny Standley,Johnny Standley,pop,19521004,19,1,19,19521108
+4,4,The Glow-Worm,Mills Brothers,Mills Brothers,jazz,19520927,17,2,21,19521108
+5,5,Jambalaya,Jo Stafford,Jo Stafford,jazz,19520830,13,3,20,19521108
+6,6,Wish You Were Here,Eddie Fisher,Eddie Fisher,jazz,19520726,13,3,20,19521108
+7,9,Why Don't You Believe Me,Joni James,Joni James,jazz,19521025,17,1,20,19521108
+8,7,Trying,Hilltoppers,Hilltoppers,pop,19520913,13,7,16,19521108
+9,8,Meet Mister Callaghan,Les Paul,Les Paul,jazz,19520906,12,5,13,19521108
+10,16,You Belong To Me,Patti Page,Patti Page,jazz,19520913,12,9,13,19521108
+11,13,Because You're Mine,Mario Lanza,Mario Lanza,pop,19521011,19,7,14,19521108
+12,14,Yours,Vera Lynn,Vera Lynn,pop,19521025,18,9,8,19521108
+13,10,Outside Of Heaven,Eddie Fisher,Eddie Fisher,jazz,19521004,20,10,12,19521108
+14,15,Takes Two To Tango,Pearl Bailey,Pearl Bailey,jazz,19521018,20,7,11,19521108
+15,17,Lady Of Spain,Eddie Fisher,Eddie Fisher,jazz,19521004,14,9,16,19521108
+16,12,Half As Much,Rosemary Clooney,Rosemary Clooney,jazz,19520607,17,2,24,19521108
+17,11,High Noon,Frankie Laine,Frankie Laine,country / folk,19520726,20,5,17,19521108
+18,NEW,Lady Of Spain,Les Paul,Les Paul,jazz,19521108,18,17,4,19521108
+19,18,Heart And Soul,Four Aces,Four Aces,pop,19521101,18,15,6,19521108
+20,20,I,Don Cornell,Don Cornell,pop,19521101,20,20,2,19521108
+1,1,I Went To Your Wedding,Patti Page,Patti Page,jazz,19520830,17,1,21,19521101
+2,2,You Belong To Me,Jo Stafford,Jo Stafford,jazz,19520816,12,1,23,19521101
+3,5,It's In The Book,Johnny Standley,Johnny Standley,pop,19521004,19,1,19,19521101
+4,6,The Glow-Worm,Mills Brothers,Mills Brothers,jazz,19520927,17,2,21,19521101
+5,3,Jambalaya,Jo Stafford,Jo Stafford,jazz,19520830,13,3,20,19521101
+6,4,Wish You Were Here,Eddie Fisher,Eddie Fisher,jazz,19520726,13,3,20,19521101
+7,8,Trying,Hilltoppers,Hilltoppers,pop,19520913,13,7,16,19521101
+8,7,Meet Mister Callaghan,Les Paul,Les Paul,jazz,19520906,12,5,13,19521101
+9,17,Why Don't You Believe Me,Joni James,Joni James,jazz,19521025,17,1,20,19521101
+10,12,Outside Of Heaven,Eddie Fisher,Eddie Fisher,jazz,19521004,20,10,12,19521101
+11,9,High Noon,Frankie Laine,Frankie Laine,country / folk,19520726,20,5,17,19521101
+12,11,Half As Much,Rosemary Clooney,Rosemary Clooney,jazz,19520607,17,2,24,19521101
+13,14,Because You're Mine,Mario Lanza,Mario Lanza,pop,19521011,19,7,14,19521101
+14,18,Yours,Vera Lynn,Vera Lynn,pop,19521025,18,9,8,19521101
+15,16,Takes Two To Tango,Pearl Bailey,Pearl Bailey,jazz,19521018,20,7,11,19521101
+16,10,You Belong To Me,Patti Page,Patti Page,jazz,19520913,12,9,13,19521101
+17,13,Lady Of Spain,Eddie Fisher,Eddie Fisher,jazz,19521004,14,9,16,19521101
+18,NEW,Heart And Soul,Four Aces,Four Aces,pop,19521101,18,15,6,19521101
+19,NEW,Hold Me Thrill Me Kiss Me,Karen Chandler,Karen Chandler,pop,19521101,19,19,1,19521101
+20,NEW,I,Don Cornell,Don Cornell,pop,19521101,20,20,2,19521101
+1,1,I Went To Your Wedding,Patti Page,Patti Page,jazz,19520830,17,1,21,19521025
+2,2,You Belong To Me,Jo Stafford,Jo Stafford,jazz,19520816,12,1,23,19521025
+3,3,Jambalaya,Jo Stafford,Jo Stafford,jazz,19520830,13,3,20,19521025
+4,4,Wish You Were Here,Eddie Fisher,Eddie Fisher,jazz,19520726,13,3,20,19521025
+5,7,It's In The Book,Johnny Standley,Johnny Standley,pop,19521004,19,1,19,19521025
+6,9,The Glow-Worm,Mills Brothers,Mills Brothers,jazz,19520927,17,2,21,19521025
+7,5,Meet Mister Callaghan,Les Paul,Les Paul,jazz,19520906,12,5,13,19521025
+8,10,Trying,Hilltoppers,Hilltoppers,pop,19520913,13,7,16,19521025
+9,8,High Noon,Frankie Laine,Frankie Laine,country / folk,19520726,20,5,17,19521025
+10,11,You Belong To Me,Patti Page,Patti Page,jazz,19520913,12,9,13,19521025
+11,6,Half As Much,Rosemary Clooney,Rosemary Clooney,jazz,19520607,17,2,24,19521025
+12,14,Outside Of Heaven,Eddie Fisher,Eddie Fisher,jazz,19521004,20,10,12,19521025
+13,13,Lady Of Spain,Eddie Fisher,Eddie Fisher,jazz,19521004,14,9,16,19521025
+14,18,Because You're Mine,Mario Lanza,Mario Lanza,pop,19521011,19,7,14,19521025
+15,16,Somewhere Along The Way,Nat King Cole,Nat King Cole,jazz,19520711,16,8,16,19521025
+16,20,Takes Two To Tango,Pearl Bailey,Pearl Bailey,jazz,19521018,20,7,11,19521025
+17,NEW,Why Don't You Believe Me,Joni James,Joni James,jazz,19521025,17,1,20,19521025
+18,NEW,Yours,Vera Lynn,Vera Lynn,pop,19521025,18,9,8,19521025
+19,15,High Noon,Tex Ritter,Tex Ritter,country / folk,19520920,16,12,6,19521025
+20,17,Indian Love Call,Slim Whitman,Slim Whitman,country / folk,19520823,17,10,10,19521025
+1,2,I Went To Your Wedding,Patti Page,Patti Page,jazz,19520830,17,1,21,19521018
+2,1,You Belong To Me,Jo Stafford,Jo Stafford,jazz,19520816,12,1,23,19521018
+3,4,Jambalaya,Jo Stafford,Jo Stafford,jazz,19520830,13,3,20,19521018
+4,3,Wish You Were Here,Eddie Fisher,Eddie Fisher,jazz,19520726,13,3,20,19521018
+5,5,Meet Mister Callaghan,Les Paul,Les Paul,jazz,19520906,12,5,13,19521018
+6,6,Half As Much,Rosemary Clooney,Rosemary Clooney,jazz,19520607,17,2,24,19521018
+7,14,It's In The Book,Johnny Standley,Johnny Standley,pop,19521004,19,1,19,19521018
+8,7,High Noon,Frankie Laine,Frankie Laine,country / folk,19520726,20,5,17,19521018
+9,10,The Glow-Worm,Mills Brothers,Mills Brothers,jazz,19520927,17,2,21,19521018
+10,8,Trying,Hilltoppers,Hilltoppers,pop,19520913,13,7,16,19521018
+11,9,You Belong To Me,Patti Page,Patti Page,jazz,19520913,12,9,13,19521018
+12,13,Auf wiederseh'n Sweetheart,Vera Lynn,Vera Lynn,pop,19520621,12,1,18,19521018
+13,11,Lady Of Spain,Eddie Fisher,Eddie Fisher,jazz,19521004,14,9,16,19521018
+14,17,Outside Of Heaven,Eddie Fisher,Eddie Fisher,jazz,19521004,20,10,12,19521018
+15,12,High Noon,Tex Ritter,Tex Ritter,country / folk,19520920,16,12,6,19521018
+16,15,Somewhere Along The Way,Nat King Cole,Nat King Cole,jazz,19520711,16,8,16,19521018
+17,16,Indian Love Call,Slim Whitman,Slim Whitman,country / folk,19520823,17,10,10,19521018
+18,19,Because You're Mine,Mario Lanza,Mario Lanza,pop,19521011,19,7,14,19521018
+19,18,You Belong To Me,Dean Martin,Dean Martin,jazz,19520913,18,13,6,19521018
+20,NEW,Takes Two To Tango,Pearl Bailey,Pearl Bailey,jazz,19521018,20,7,11,19521018
+1,1,You Belong To Me,Jo Stafford,Jo Stafford,jazz,19520816,12,1,23,19521011
+2,2,I Went To Your Wedding,Patti Page,Patti Page,jazz,19520830,17,1,21,19521011
+3,3,Wish You Were Here,Eddie Fisher,Eddie Fisher,jazz,19520726,13,3,20,19521011
+4,4,Jambalaya,Jo Stafford,Jo Stafford,jazz,19520830,13,3,20,19521011
+5,6,Meet Mister Callaghan,Les Paul,Les Paul,jazz,19520906,12,5,13,19521011
+6,7,Half As Much,Rosemary Clooney,Rosemary Clooney,jazz,19520607,17,2,24,19521011
+7,5,High Noon,Frankie Laine,Frankie Laine,country / folk,19520726,20,5,17,19521011
+8,9,Trying,Hilltoppers,Hilltoppers,pop,19520913,13,7,16,19521011
+9,10,You Belong To Me,Patti Page,Patti Page,jazz,19520913,12,9,13,19521011
+10,11,The Glow-Worm,Mills Brothers,Mills Brothers,jazz,19520927,17,2,21,19521011
+11,14,Lady Of Spain,Eddie Fisher,Eddie Fisher,jazz,19521004,14,9,16,19521011
+12,15,High Noon,Tex Ritter,Tex Ritter,country / folk,19520920,16,12,6,19521011
+13,8,Auf wiederseh'n Sweetheart,Vera Lynn,Vera Lynn,pop,19520621,12,1,18,19521011
+14,19,It's In The Book,Johnny Standley,Johnny Standley,pop,19521004,19,1,19,19521011
+15,12,Somewhere Along The Way,Nat King Cole,Nat King Cole,jazz,19520711,16,8,16,19521011
+16,13,Indian Love Call,Slim Whitman,Slim Whitman,country / folk,19520823,17,10,10,19521011
+17,20,Outside Of Heaven,Eddie Fisher,Eddie Fisher,jazz,19521004,20,10,12,19521011
+18,18,You Belong To Me,Dean Martin,Dean Martin,jazz,19520913,18,13,6,19521011
+19,NEW,Because You're Mine,Mario Lanza,Mario Lanza,pop,19521011,19,7,14,19521011
+20,16,Meet Mister Callaghan,Harry Grove Trio,Harry Grove Trio,pop,19520906,19,11,6,19521011
+1,1,You Belong To Me,Jo Stafford,Jo Stafford,jazz,19520816,12,1,23,19521004
+2,2,I Went To Your Wedding,Patti Page,Patti Page,jazz,19520830,17,1,21,19521004
+3,3,Wish You Were Here,Eddie Fisher,Eddie Fisher,jazz,19520726,13,3,20,19521004
+4,4,Jambalaya,Jo Stafford,Jo Stafford,jazz,19520830,13,3,20,19521004
+5,5,High Noon,Frankie Laine,Frankie Laine,country / folk,19520726,20,5,17,19521004
+6,8,Meet Mister Callaghan,Les Paul,Les Paul,jazz,19520906,12,5,13,19521004
+7,7,Half As Much,Rosemary Clooney,Rosemary Clooney,jazz,19520607,17,2,24,19521004
+8,6,Auf wiederseh'n Sweetheart,Vera Lynn,Vera Lynn,pop,19520621,12,1,18,19521004
+9,10,Trying,Hilltoppers,Hilltoppers,pop,19520913,13,7,16,19521004
+10,9,You Belong To Me,Patti Page,Patti Page,jazz,19520913,12,9,13,19521004
+11,17,The Glow-Worm,Mills Brothers,Mills Brothers,jazz,19520927,17,2,21,19521004
+12,13,Somewhere Along The Way,Nat King Cole,Nat King Cole,jazz,19520711,16,8,16,19521004
+13,14,Indian Love Call,Slim Whitman,Slim Whitman,country / folk,19520823,17,10,10,19521004
+14,NEW,Lady Of Spain,Eddie Fisher,Eddie Fisher,jazz,19521004,14,9,16,19521004
+15,16,High Noon,Tex Ritter,Tex Ritter,country / folk,19520920,16,12,6,19521004
+16,11,Meet Mister Callaghan,Harry Grove Trio,Harry Grove Trio,pop,19520906,19,11,6,19521004
+17,NEW,Because You're Mine,Nat King Cole,Nat King Cole,jazz,19521004,17,17,1,19521004
+18,15,You Belong To Me,Dean Martin,Dean Martin,jazz,19520913,18,13,6,19521004
+19,NEW,It's In The Book,Johnny Standley,Johnny Standley,pop,19521004,19,1,19,19521004
+20,NEW,Outside Of Heaven,Eddie Fisher,Eddie Fisher,jazz,19521004,20,10,12,19521004
+1,1,You Belong To Me,Jo Stafford,Jo Stafford,jazz,19520816,12,1,23,19520927
+2,2,I Went To Your Wedding,Patti Page,Patti Page,jazz,19520830,17,1,21,19520927
+3,3,Wish You Were Here,Eddie Fisher,Eddie Fisher,jazz,19520726,13,3,20,19520927
+4,6,Jambalaya,Jo Stafford,Jo Stafford,jazz,19520830,13,3,20,19520927
+5,7,High Noon,Frankie Laine,Frankie Laine,country / folk,19520726,20,5,17,19520927
+6,4,Auf wiederseh'n Sweetheart,Vera Lynn,Vera Lynn,pop,19520621,12,1,18,19520927
+7,5,Half As Much,Rosemary Clooney,Rosemary Clooney,jazz,19520607,17,2,24,19520927
+8,8,Meet Mister Callaghan,Les Paul,Les Paul,jazz,19520906,12,5,13,19520927
+9,10,You Belong To Me,Patti Page,Patti Page,jazz,19520913,12,9,13,19520927
+10,14,Trying,Hilltoppers,Hilltoppers,pop,19520913,13,7,16,19520927
+11,12,Meet Mister Callaghan,Harry Grove Trio,Harry Grove Trio,pop,19520906,19,11,6,19520927
+12,9,Botch-A-Me,Rosemary Clooney,Rosemary Clooney,jazz,19520628,16,2,14,19520927
+13,15,Somewhere Along The Way,Nat King Cole,Nat King Cole,jazz,19520711,16,8,16,19520927
+14,11,Indian Love Call,Slim Whitman,Slim Whitman,country / folk,19520823,17,10,10,19520927
+15,13,You Belong To Me,Dean Martin,Dean Martin,jazz,19520913,18,13,6,19520927
+16,16,High Noon,Tex Ritter,Tex Ritter,country / folk,19520920,16,12,6,19520927
+17,NEW,The Glow-Worm,Mills Brothers,Mills Brothers,jazz,19520927,17,2,21,19520927
+18,18,Walkin' To Missouri,Sammy Kaye / Tony Russo / Glee Club,Sammy Kaye / Tony Russo / Glee Club,pop,19520920,18,18,2,19520927
+19,NEW,You'll Never Get Away,Teresa Brewer / Don Cornell,Teresa Brewer / Don Cornell,pop,19520927,19,19,1,19520927
+20,20,Blue Tango,Leroy Anderson,Leroy Anderson,pop,19520920,20,20,2,19520927
+1,1,You Belong To Me,Jo Stafford,Jo Stafford,jazz,19520816,12,1,23,19520920
+2,4,I Went To Your Wedding,Patti Page,Patti Page,jazz,19520830,17,1,21,19520920
+3,3,Wish You Were Here,Eddie Fisher,Eddie Fisher,jazz,19520726,13,3,20,19520920
+4,2,Auf wiederseh'n Sweetheart,Vera Lynn,Vera Lynn,pop,19520621,12,1,18,19520920
+5,5,Half As Much,Rosemary Clooney,Rosemary Clooney,jazz,19520607,17,2,24,19520920
+6,8,Jambalaya,Jo Stafford,Jo Stafford,jazz,19520830,13,3,20,19520920
+7,6,High Noon,Frankie Laine,Frankie Laine,country / folk,19520726,20,5,17,19520920
+8,9,Meet Mister Callaghan,Les Paul,Les Paul,jazz,19520906,12,5,13,19520920
+9,7,Botch-A-Me,Rosemary Clooney,Rosemary Clooney,jazz,19520628,16,2,14,19520920
+10,12,You Belong To Me,Patti Page,Patti Page,jazz,19520913,12,9,13,19520920
+11,10,Indian Love Call,Slim Whitman,Slim Whitman,country / folk,19520823,17,10,10,19520920
+12,14,Meet Mister Callaghan,Harry Grove Trio,Harry Grove Trio,pop,19520906,19,11,6,19520920
+13,18,You Belong To Me,Dean Martin,Dean Martin,jazz,19520913,18,13,6,19520920
+14,13,Trying,Hilltoppers,Hilltoppers,pop,19520913,13,7,16,19520920
+15,11,Somewhere Along The Way,Nat King Cole,Nat King Cole,jazz,19520711,16,8,16,19520920
+16,NEW,High Noon,Tex Ritter,Tex Ritter,country / folk,19520920,16,12,6,19520920
+17,15,Because You're Mine,Mario Lanza,Mario Lanza,pop,19520913,15,15,2,19520920
+18,NEW,Walkin' To Missouri,Sammy Kaye / Tony Russo / Glee Club,Sammy Kaye / Tony Russo / Glee Club,pop,19520920,18,18,2,19520920
+19,16,Walkin' My Baby Back Home,Johnnie Ray,Johnnie Ray,pop,19520531,14,6,17,19520920
+20,NEW,Blue Tango,Leroy Anderson,Leroy Anderson,pop,19520920,20,20,2,19520920
+1,2,You Belong To Me,Jo Stafford,Jo Stafford,jazz,19520816,12,1,23,19520913
+2,1,Auf wiederseh'n Sweetheart,Vera Lynn,Vera Lynn,pop,19520621,12,1,18,19520913
+3,3,Wish You Were Here,Eddie Fisher,Eddie Fisher,jazz,19520726,13,3,20,19520913
+4,7,I Went To Your Wedding,Patti Page,Patti Page,jazz,19520830,17,1,21,19520913
+5,4,Half As Much,Rosemary Clooney,Rosemary Clooney,jazz,19520607,17,2,24,19520913
+6,5,High Noon,Frankie Laine,Frankie Laine,country / folk,19520726,20,5,17,19520913
+7,6,Botch-A-Me,Rosemary Clooney,Rosemary Clooney,jazz,19520628,16,2,14,19520913
+8,8,Jambalaya,Jo Stafford,Jo Stafford,jazz,19520830,13,3,20,19520913
+9,12,Meet Mister Callaghan,Les Paul,Les Paul,jazz,19520906,12,5,13,19520913
+10,14,Indian Love Call,Slim Whitman,Slim Whitman,country / folk,19520823,17,10,10,19520913
+11,10,Somewhere Along The Way,Nat King Cole,Nat King Cole,jazz,19520711,16,8,16,19520913
+12,NEW,You Belong To Me,Patti Page,Patti Page,jazz,19520913,12,9,13,19520913
+13,NEW,Trying,Hilltoppers,Hilltoppers,pop,19520913,13,7,16,19520913
+14,19,Meet Mister Callaghan,Harry Grove Trio,Harry Grove Trio,pop,19520906,19,11,6,19520913
+15,NEW,Because You're Mine,Mario Lanza,Mario Lanza,pop,19520913,15,15,2,19520913
+16,9,Walkin' My Baby Back Home,Johnnie Ray,Johnnie Ray,pop,19520531,14,6,17,19520913
+17,11,Delicado,Percy Faith,Percy Faith,pop,19520426,20,1,21,19520913
+18,NEW,You Belong To Me,Dean Martin,Dean Martin,jazz,19520913,18,13,6,19520913
+19,NEW,Take Me In Your Arms And Hold Me,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19520913,19,19,1,19520913
+20,13,Sugarbush,Doris Day & Frankie Laine,Doris Day,jazz,19520718,19,10,9,19520913
+1,1,Auf wiederseh'n Sweetheart,Vera Lynn,Vera Lynn,pop,19520621,12,1,18,19520906
+2,5,You Belong To Me,Jo Stafford,Jo Stafford,jazz,19520816,12,1,23,19520906
+3,3,Wish You Were Here,Eddie Fisher,Eddie Fisher,jazz,19520726,13,3,20,19520906
+4,2,Half As Much,Rosemary Clooney,Rosemary Clooney,jazz,19520607,17,2,24,19520906
+5,6,High Noon,Frankie Laine,Frankie Laine,country / folk,19520726,20,5,17,19520906
+6,4,Botch-A-Me,Rosemary Clooney,Rosemary Clooney,jazz,19520628,16,2,14,19520906
+7,17,I Went To Your Wedding,Patti Page,Patti Page,jazz,19520830,17,1,21,19520906
+8,13,Jambalaya,Jo Stafford,Jo Stafford,jazz,19520830,13,3,20,19520906
+9,10,Walkin' My Baby Back Home,Johnnie Ray,Johnnie Ray,pop,19520531,14,6,17,19520906
+10,8,Somewhere Along The Way,Nat King Cole,Nat King Cole,jazz,19520711,16,8,16,19520906
+11,9,Delicado,Percy Faith,Percy Faith,pop,19520426,20,1,21,19520906
+12,NEW,Meet Mister Callaghan,Les Paul,Les Paul,jazz,19520906,12,5,13,19520906
+13,15,Sugarbush,Doris Day & Frankie Laine,Doris Day,jazz,19520718,19,10,9,19520906
+14,18,Indian Love Call,Slim Whitman,Slim Whitman,country / folk,19520823,17,10,10,19520906
+15,7,Here In My Heart,Al Martino,Al Martino,jazz,19520517,12,1,17,19520906
+16,11,Maybe,Perry Como / Eddie Fisher,Perry Como / Eddie Fisher,pop,19520614,20,8,13,19520906
+17,12,Vanessa,Hugo Winterhalter,Hugo Winterhalter,pop,19520718,16,12,8,19520906
+18,19,Walkin' My Baby Back Home,Nat King Cole,Nat King Cole,jazz,19520718,20,12,8,19520906
+19,NEW,Meet Mister Callaghan,Harry Grove Trio,Harry Grove Trio,pop,19520906,19,11,6,19520906
+20,14,Blue Tango,Leroy Anderson,Leroy Anderson,pop,19520201,13,1,32,19520906
+1,1,Auf wiederseh'n Sweetheart,Vera Lynn,Vera Lynn,pop,19520621,12,1,18,19520830
+2,3,Half As Much,Rosemary Clooney,Rosemary Clooney,jazz,19520607,17,2,24,19520830
+3,4,Wish You Were Here,Eddie Fisher,Eddie Fisher,jazz,19520726,13,3,20,19520830
+4,2,Botch-A-Me,Rosemary Clooney,Rosemary Clooney,jazz,19520628,16,2,14,19520830
+5,8,You Belong To Me,Jo Stafford,Jo Stafford,jazz,19520816,12,1,23,19520830
+6,6,High Noon,Frankie Laine,Frankie Laine,country / folk,19520726,20,5,17,19520830
+7,7,Here In My Heart,Al Martino,Al Martino,jazz,19520517,12,1,17,19520830
+8,12,Somewhere Along The Way,Nat King Cole,Nat King Cole,jazz,19520711,16,8,16,19520830
+9,5,Delicado,Percy Faith,Percy Faith,pop,19520426,20,1,21,19520830
+10,9,Walkin' My Baby Back Home,Johnnie Ray,Johnnie Ray,pop,19520531,14,6,17,19520830
+11,10,Maybe,Perry Como / Eddie Fisher,Perry Como / Eddie Fisher,pop,19520614,20,8,13,19520830
+12,13,Vanessa,Hugo Winterhalter,Hugo Winterhalter,pop,19520718,16,12,8,19520830
+13,NEW,Jambalaya,Jo Stafford,Jo Stafford,jazz,19520830,13,3,20,19520830
+14,16,Blue Tango,Leroy Anderson,Leroy Anderson,pop,19520201,13,1,32,19520830
+15,11,Sugarbush,Doris Day & Frankie Laine,Doris Day,jazz,19520718,19,10,9,19520830
+16,19,Auf wiederseh'n Sweetheart,Eddy Howard,Eddy Howard,jazz,19520718,18,16,7,19520830
+17,NEW,I Went To Your Wedding,Patti Page,Patti Page,jazz,19520830,17,1,21,19520830
+18,17,Indian Love Call,Slim Whitman,Slim Whitman,country / folk,19520823,17,10,10,19520830
+19,14,Walkin' My Baby Back Home,Nat King Cole,Nat King Cole,jazz,19520718,20,12,8,19520830
+20,NEW,You Belong To Me,Patti Page,Patti Page,jazz,19520830,20,20,1,19520830
+1,1,Auf wiederseh'n Sweetheart,Vera Lynn,Vera Lynn,pop,19520621,12,1,18,19520823
+2,3,Botch-A-Me,Rosemary Clooney,Rosemary Clooney,jazz,19520628,16,2,14,19520823
+3,2,Half As Much,Rosemary Clooney,Rosemary Clooney,jazz,19520607,17,2,24,19520823
+4,4,Wish You Were Here,Eddie Fisher,Eddie Fisher,jazz,19520726,13,3,20,19520823
+5,6,Delicado,Percy Faith,Percy Faith,pop,19520426,20,1,21,19520823
+6,8,High Noon,Frankie Laine,Frankie Laine,country / folk,19520726,20,5,17,19520823
+7,5,Here In My Heart,Al Martino,Al Martino,jazz,19520517,12,1,17,19520823
+8,12,You Belong To Me,Jo Stafford,Jo Stafford,jazz,19520816,12,1,23,19520823
+9,7,Walkin' My Baby Back Home,Johnnie Ray,Johnnie Ray,pop,19520531,14,6,17,19520823
+10,9,Maybe,Perry Como / Eddie Fisher,Perry Como / Eddie Fisher,pop,19520614,20,8,13,19520823
+11,10,Sugarbush,Doris Day & Frankie Laine,Doris Day,jazz,19520718,19,10,9,19520823
+12,13,Somewhere Along The Way,Nat King Cole,Nat King Cole,jazz,19520711,16,8,16,19520823
+13,14,Vanessa,Hugo Winterhalter,Hugo Winterhalter,pop,19520718,16,12,8,19520823
+14,19,Walkin' My Baby Back Home,Nat King Cole,Nat King Cole,jazz,19520718,20,12,8,19520823
+15,15,I'm Yours,Eddie Fisher,Eddie Fisher,jazz,19520503,19,5,17,19520823
+16,11,Blue Tango,Leroy Anderson,Leroy Anderson,pop,19520201,13,1,32,19520823
+17,NEW,Indian Love Call,Slim Whitman,Slim Whitman,country / folk,19520823,17,10,10,19520823
+18,17,Kiss Of Fire,Georgia Gibbs,Georgia Gibbs,pop,19520419,8,2,19,19520823
+19,16,Auf wiederseh'n Sweetheart,Eddy Howard,Eddy Howard,jazz,19520718,18,16,7,19520823
+20,20,Should I,Four Aces,Four Aces,pop,19520816,20,20,2,19520823
+1,1,Auf wiederseh'n Sweetheart,Vera Lynn,Vera Lynn,pop,19520621,12,1,18,19520816
+2,3,Half As Much,Rosemary Clooney,Rosemary Clooney,jazz,19520607,17,2,24,19520816
+3,2,Botch-A-Me,Rosemary Clooney,Rosemary Clooney,jazz,19520628,16,2,14,19520816
+4,6,Wish You Were Here,Eddie Fisher,Eddie Fisher,jazz,19520726,13,3,20,19520816
+5,4,Here In My Heart,Al Martino,Al Martino,jazz,19520517,12,1,17,19520816
+6,5,Delicado,Percy Faith,Percy Faith,pop,19520426,20,1,21,19520816
+7,7,Walkin' My Baby Back Home,Johnnie Ray,Johnnie Ray,pop,19520531,14,6,17,19520816
+8,12,High Noon,Frankie Laine,Frankie Laine,country / folk,19520726,20,5,17,19520816
+9,8,Maybe,Perry Como / Eddie Fisher,Perry Como / Eddie Fisher,pop,19520614,20,8,13,19520816
+10,14,Sugarbush,Doris Day & Frankie Laine,Doris Day,jazz,19520718,19,10,9,19520816
+11,11,Blue Tango,Leroy Anderson,Leroy Anderson,pop,19520201,13,1,32,19520816
+12,NEW,You Belong To Me,Jo Stafford,Jo Stafford,jazz,19520816,12,1,23,19520816
+13,9,Somewhere Along The Way,Nat King Cole,Nat King Cole,jazz,19520711,16,8,16,19520816
+14,15,Vanessa,Hugo Winterhalter,Hugo Winterhalter,pop,19520718,16,12,8,19520816
+15,13,I'm Yours,Eddie Fisher,Eddie Fisher,jazz,19520503,19,5,17,19520816
+16,18,Auf wiederseh'n Sweetheart,Eddy Howard,Eddy Howard,jazz,19520718,18,16,7,19520816
+17,10,Kiss Of Fire,Georgia Gibbs,Georgia Gibbs,pop,19520419,8,2,19,19520816
+18,16,Lover,Peggy Lee,Peggy Lee,jazz,19520607,20,10,11,19520816
+19,17,Walkin' My Baby Back Home,Nat King Cole,Nat King Cole,jazz,19520718,20,12,8,19520816
+20,NEW,Should I,Four Aces,Four Aces,pop,19520816,20,20,2,19520816
+1,1,Auf wiederseh'n Sweetheart,Vera Lynn,Vera Lynn,pop,19520621,12,1,18,19520809
+2,2,Botch-A-Me,Rosemary Clooney,Rosemary Clooney,jazz,19520628,16,2,14,19520809
+3,3,Half As Much,Rosemary Clooney,Rosemary Clooney,jazz,19520607,17,2,24,19520809
+4,5,Here In My Heart,Al Martino,Al Martino,jazz,19520517,12,1,17,19520809
+5,4,Delicado,Percy Faith,Percy Faith,pop,19520426,20,1,21,19520809
+6,11,Wish You Were Here,Eddie Fisher,Eddie Fisher,jazz,19520726,13,3,20,19520809
+7,6,Walkin' My Baby Back Home,Johnnie Ray,Johnnie Ray,pop,19520531,14,6,17,19520809
+8,9,Maybe,Perry Como / Eddie Fisher,Perry Como / Eddie Fisher,pop,19520614,20,8,13,19520809
+9,13,Somewhere Along The Way,Nat King Cole,Nat King Cole,jazz,19520711,16,8,16,19520809
+10,8,Kiss Of Fire,Georgia Gibbs,Georgia Gibbs,pop,19520419,8,2,19,19520809
+11,7,Blue Tango,Leroy Anderson,Leroy Anderson,pop,19520201,13,1,32,19520809
+12,18,High Noon,Frankie Laine,Frankie Laine,country / folk,19520726,20,5,17,19520809
+13,10,I'm Yours,Eddie Fisher,Eddie Fisher,jazz,19520503,19,5,17,19520809
+14,14,Sugarbush,Doris Day & Frankie Laine,Doris Day,jazz,19520718,19,10,9,19520809
+15,15,Vanessa,Hugo Winterhalter,Hugo Winterhalter,pop,19520718,16,12,8,19520809
+16,16,Lover,Peggy Lee,Peggy Lee,jazz,19520607,20,10,11,19520809
+17,12,Walkin' My Baby Back Home,Nat King Cole,Nat King Cole,jazz,19520718,20,12,8,19520809
+18,20,Auf wiederseh'n Sweetheart,Eddy Howard,Eddy Howard,jazz,19520718,18,16,7,19520809
+19,19,Indian Love Call,Slim Whitman,Slim Whitman,country / folk,19520802,19,19,2,19520809
+20,NEW,Rock Of Gibralter,Frankie Laine,Frankie Laine,country / folk,19520809,20,20,1,19520809
+1,1,Auf wiederseh'n Sweetheart,Vera Lynn,Vera Lynn,pop,19520621,12,1,18,19520802
+2,5,Botch-A-Me,Rosemary Clooney,Rosemary Clooney,jazz,19520628,16,2,14,19520802
+3,4,Half As Much,Rosemary Clooney,Rosemary Clooney,jazz,19520607,17,2,24,19520802
+4,2,Delicado,Percy Faith,Percy Faith,pop,19520426,20,1,21,19520802
+5,3,Here In My Heart,Al Martino,Al Martino,jazz,19520517,12,1,17,19520802
+6,7,Walkin' My Baby Back Home,Johnnie Ray,Johnnie Ray,pop,19520531,14,6,17,19520802
+7,8,Blue Tango,Leroy Anderson,Leroy Anderson,pop,19520201,13,1,32,19520802
+8,6,Kiss Of Fire,Georgia Gibbs,Georgia Gibbs,pop,19520419,8,2,19,19520802
+9,10,Maybe,Perry Como / Eddie Fisher,Perry Como / Eddie Fisher,pop,19520614,20,8,13,19520802
+10,9,I'm Yours,Eddie Fisher,Eddie Fisher,jazz,19520503,19,5,17,19520802
+11,13,Wish You Were Here,Eddie Fisher,Eddie Fisher,jazz,19520726,13,3,20,19520802
+12,15,Walkin' My Baby Back Home,Nat King Cole,Nat King Cole,jazz,19520718,20,12,8,19520802
+13,11,Somewhere Along The Way,Nat King Cole,Nat King Cole,jazz,19520711,16,8,16,19520802
+14,17,Sugarbush,Doris Day & Frankie Laine,Doris Day,jazz,19520718,19,10,9,19520802
+15,18,Vanessa,Hugo Winterhalter,Hugo Winterhalter,pop,19520718,16,12,8,19520802
+16,12,Lover,Peggy Lee,Peggy Lee,jazz,19520607,20,10,11,19520802
+17,14,Kiss Of Fire,Tony Martin,Tony Martin,rock,19520503,17,6,14,19520802
+18,20,High Noon,Frankie Laine,Frankie Laine,country / folk,19520726,20,5,17,19520802
+19,NEW,Indian Love Call,Slim Whitman,Slim Whitman,country / folk,19520802,19,19,2,19520802
+20,19,Auf wiederseh'n Sweetheart,Eddy Howard,Eddy Howard,jazz,19520718,18,16,7,19520802
+1,1,Auf wiederseh'n Sweetheart,Vera Lynn,Vera Lynn,pop,19520621,12,1,18,19520726
+2,4,Delicado,Percy Faith,Percy Faith,pop,19520426,20,1,21,19520726
+3,2,Here In My Heart,Al Martino,Al Martino,jazz,19520517,12,1,17,19520726
+4,5,Half As Much,Rosemary Clooney,Rosemary Clooney,jazz,19520607,17,2,24,19520726
+5,7,Botch-A-Me,Rosemary Clooney,Rosemary Clooney,jazz,19520628,16,2,14,19520726
+6,3,Kiss Of Fire,Georgia Gibbs,Georgia Gibbs,pop,19520419,8,2,19,19520726
+7,9,Walkin' My Baby Back Home,Johnnie Ray,Johnnie Ray,pop,19520531,14,6,17,19520726
+8,6,Blue Tango,Leroy Anderson,Leroy Anderson,pop,19520201,13,1,32,19520726
+9,8,I'm Yours,Eddie Fisher,Eddie Fisher,jazz,19520503,19,5,17,19520726
+10,10,Maybe,Perry Como / Eddie Fisher,Perry Como / Eddie Fisher,pop,19520614,20,8,13,19520726
+11,13,Somewhere Along The Way,Nat King Cole,Nat King Cole,jazz,19520711,16,8,16,19520726
+12,12,Lover,Peggy Lee,Peggy Lee,jazz,19520607,20,10,11,19520726
+13,NEW,Wish You Were Here,Eddie Fisher,Eddie Fisher,jazz,19520726,13,3,20,19520726
+14,11,Kiss Of Fire,Tony Martin,Tony Martin,rock,19520503,17,6,14,19520726
+15,20,Walkin' My Baby Back Home,Nat King Cole,Nat King Cole,jazz,19520718,20,12,8,19520726
+16,17,I'm Yours,Don Cornell,Don Cornell,pop,19520503,11,6,13,19520726
+17,19,Sugarbush,Doris Day & Frankie Laine,Doris Day,jazz,19520718,19,10,9,19520726
+18,16,Vanessa,Hugo Winterhalter,Hugo Winterhalter,pop,19520718,16,12,8,19520726
+19,18,Auf wiederseh'n Sweetheart,Eddy Howard,Eddy Howard,jazz,19520718,18,16,7,19520726
+20,NEW,High Noon,Frankie Laine,Frankie Laine,country / folk,19520726,20,5,17,19520726
+1,1,Auf wiederseh'n Sweetheart,Vera Lynn,Vera Lynn,pop,19520621,12,1,18,19520718
+2,3,Here In My Heart,Al Martino,Al Martino,jazz,19520517,12,1,17,19520718
+3,4,Kiss Of Fire,Georgia Gibbs,Georgia Gibbs,pop,19520419,8,2,19,19520718
+4,2,Delicado,Percy Faith,Percy Faith,pop,19520426,20,1,21,19520718
+5,8,Half As Much,Rosemary Clooney,Rosemary Clooney,jazz,19520607,17,2,24,19520718
+6,6,Blue Tango,Leroy Anderson,Leroy Anderson,pop,19520201,13,1,32,19520718
+7,11,Botch-A-Me,Rosemary Clooney,Rosemary Clooney,jazz,19520628,16,2,14,19520718
+8,5,I'm Yours,Eddie Fisher,Eddie Fisher,jazz,19520503,19,5,17,19520718
+9,7,Walkin' My Baby Back Home,Johnnie Ray,Johnnie Ray,pop,19520531,14,6,17,19520718
+10,9,Maybe,Perry Como / Eddie Fisher,Perry Como / Eddie Fisher,pop,19520614,20,8,13,19520718
+11,12,Kiss Of Fire,Tony Martin,Tony Martin,rock,19520503,17,6,14,19520718
+12,10,Lover,Peggy Lee,Peggy Lee,jazz,19520607,20,10,11,19520718
+13,16,Somewhere Along The Way,Nat King Cole,Nat King Cole,jazz,19520711,16,8,16,19520718
+14,14,I'll Walk Alone,Jane Froman,Jane Froman,pop,19520510,19,14,11,19520718
+15,17,Take My Heart,Al Martino,Al Martino,jazz,19520711,17,15,2,19520718
+16,NEW,Vanessa,Hugo Winterhalter,Hugo Winterhalter,pop,19520718,16,12,8,19520718
+17,13,I'm Yours,Don Cornell,Don Cornell,pop,19520503,11,6,13,19520718
+18,NEW,Auf wiederseh'n Sweetheart,Eddy Howard,Eddy Howard,jazz,19520718,18,16,7,19520718
+19,NEW,Sugarbush,Doris Day & Frankie Laine,Doris Day,jazz,19520718,19,10,9,19520718
+20,NEW,Walkin' My Baby Back Home,Nat King Cole,Nat King Cole,jazz,19520718,20,12,8,19520718
+1,3,Auf wiederseh'n Sweetheart,Vera Lynn,Vera Lynn,pop,19520621,12,1,18,19520711
+2,1,Delicado,Percy Faith,Percy Faith,pop,19520426,20,1,21,19520711
+3,2,Here In My Heart,Al Martino,Al Martino,jazz,19520517,12,1,17,19520711
+4,4,Kiss Of Fire,Georgia Gibbs,Georgia Gibbs,pop,19520419,8,2,19,19520711
+5,6,I'm Yours,Eddie Fisher,Eddie Fisher,jazz,19520503,19,5,17,19520711
+6,5,Blue Tango,Leroy Anderson,Leroy Anderson,pop,19520201,13,1,32,19520711
+7,8,Walkin' My Baby Back Home,Johnnie Ray,Johnnie Ray,pop,19520531,14,6,17,19520711
+8,7,Half As Much,Rosemary Clooney,Rosemary Clooney,jazz,19520607,17,2,24,19520711
+9,10,Maybe,Perry Como / Eddie Fisher,Perry Como / Eddie Fisher,pop,19520614,20,8,13,19520711
+10,13,Lover,Peggy Lee,Peggy Lee,jazz,19520607,20,10,11,19520711
+11,12,Botch-A-Me,Rosemary Clooney,Rosemary Clooney,jazz,19520628,16,2,14,19520711
+12,9,Kiss Of Fire,Tony Martin,Tony Martin,rock,19520503,17,6,14,19520711
+13,11,I'm Yours,Don Cornell,Don Cornell,pop,19520503,11,6,13,19520711
+14,14,I'll Walk Alone,Jane Froman,Jane Froman,pop,19520510,19,14,11,19520711
+15,15,I'll Walk Alone,Don Cornell,Don Cornell,pop,19520322,14,7,17,19520711
+16,NEW,Somewhere Along The Way,Nat King Cole,Nat King Cole,jazz,19520711,16,8,16,19520711
+17,NEW,Take My Heart,Al Martino,Al Martino,jazz,19520711,17,15,2,19520711
+18,NEW,Be Anything (But Be Mine),Eddy Howard,Eddy Howard,jazz,19520711,18,18,1,19520711
+19,NEW,Smoke Rings,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19520711,19,19,1,19520711
+20,18,Carioca,Les Paul,Les Paul,jazz,19520628,18,18,3,19520711
+1,2,Delicado,Percy Faith,Percy Faith,pop,19520426,20,1,21,19520705
+2,1,Here In My Heart,Al Martino,Al Martino,jazz,19520517,12,1,17,19520705
+3,5,Auf wiederseh'n Sweetheart,Vera Lynn,Vera Lynn,pop,19520621,12,1,18,19520705
+4,4,Kiss Of Fire,Georgia Gibbs,Georgia Gibbs,pop,19520419,8,2,19,19520705
+5,3,Blue Tango,Leroy Anderson,Leroy Anderson,pop,19520201,13,1,32,19520705
+6,6,I'm Yours,Eddie Fisher,Eddie Fisher,jazz,19520503,19,5,17,19520705
+7,12,Half As Much,Rosemary Clooney,Rosemary Clooney,jazz,19520607,17,2,24,19520705
+8,8,Walkin' My Baby Back Home,Johnnie Ray,Johnnie Ray,pop,19520531,14,6,17,19520705
+9,7,Kiss Of Fire,Tony Martin,Tony Martin,rock,19520503,17,6,14,19520705
+10,13,Maybe,Perry Como / Eddie Fisher,Perry Como / Eddie Fisher,pop,19520614,20,8,13,19520705
+11,9,I'm Yours,Don Cornell,Don Cornell,pop,19520503,11,6,13,19520705
+12,16,Botch-A-Me,Rosemary Clooney,Rosemary Clooney,jazz,19520628,16,2,14,19520705
+13,11,Lover,Peggy Lee,Peggy Lee,jazz,19520607,20,10,11,19520705
+14,19,I'll Walk Alone,Jane Froman,Jane Froman,pop,19520510,19,14,11,19520705
+15,15,I'll Walk Alone,Don Cornell,Don Cornell,pop,19520322,14,7,17,19520705
+16,10,A Guy Is A Guy,Doris Day,Doris Day,jazz,19520322,11,4,16,19520705
+17,NEW,Forgive Me,Eddie Fisher,Eddie Fisher,jazz,19520705,17,17,1,19520705
+18,18,Carioca,Les Paul,Les Paul,jazz,19520628,18,18,3,19520705
+19,NEW,Kiss Of Fire,Billy Eckstine,Billy Eckstine,jazz,19520705,19,19,1,19520705
+20,NEW,Here In My Heart,Tony Bennett,Tony Bennett,jazz,19520705,20,20,1,19520705
+1,1,Here In My Heart,Al Martino,Al Martino,jazz,19520517,12,1,17,19520628
+2,3,Delicado,Percy Faith,Percy Faith,pop,19520426,20,1,21,19520628
+3,2,Blue Tango,Leroy Anderson,Leroy Anderson,pop,19520201,13,1,32,19520628
+4,4,Kiss Of Fire,Georgia Gibbs,Georgia Gibbs,pop,19520419,8,2,19,19520628
+5,12,Auf wiederseh'n Sweetheart,Vera Lynn,Vera Lynn,pop,19520621,12,1,18,19520628
+6,5,I'm Yours,Eddie Fisher,Eddie Fisher,jazz,19520503,19,5,17,19520628
+7,6,Kiss Of Fire,Tony Martin,Tony Martin,rock,19520503,17,6,14,19520628
+8,9,Walkin' My Baby Back Home,Johnnie Ray,Johnnie Ray,pop,19520531,14,6,17,19520628
+9,7,I'm Yours,Don Cornell,Don Cornell,pop,19520503,11,6,13,19520628
+10,8,A Guy Is A Guy,Doris Day,Doris Day,jazz,19520322,11,4,16,19520628
+11,14,Lover,Peggy Lee,Peggy Lee,jazz,19520607,20,10,11,19520628
+12,11,Half As Much,Rosemary Clooney,Rosemary Clooney,jazz,19520607,17,2,24,19520628
+13,10,Maybe,Perry Como / Eddie Fisher,Perry Como / Eddie Fisher,pop,19520614,20,8,13,19520628
+14,13,Wheel Of Fortune,Kay Starr,Kay Starr,jazz,19520216,16,1,20,19520628
+15,15,I'll Walk Alone,Don Cornell,Don Cornell,pop,19520322,14,7,17,19520628
+16,NEW,Botch-A-Me,Rosemary Clooney,Rosemary Clooney,jazz,19520628,16,2,14,19520628
+17,18,Pittsburgh Pennsylvania,Guy Mitchell,Guy Mitchell,country / folk,19520329,13,6,14,19520628
+18,NEW,Carioca,Les Paul,Les Paul,jazz,19520628,18,18,3,19520628
+19,16,I'll Walk Alone,Jane Froman,Jane Froman,pop,19520510,19,14,11,19520628
+20,17,Blue Tango,Hugo Winterhalter,Hugo Winterhalter,pop,19520329,14,8,14,19520628
+1,2,Here In My Heart,Al Martino,Al Martino,jazz,19520517,12,1,17,19520621
+2,1,Blue Tango,Leroy Anderson,Leroy Anderson,pop,19520201,13,1,32,19520621
+3,4,Delicado,Percy Faith,Percy Faith,pop,19520426,20,1,21,19520621
+4,3,Kiss Of Fire,Georgia Gibbs,Georgia Gibbs,pop,19520419,8,2,19,19520621
+5,5,I'm Yours,Eddie Fisher,Eddie Fisher,jazz,19520503,19,5,17,19520621
+6,10,Kiss Of Fire,Tony Martin,Tony Martin,rock,19520503,17,6,14,19520621
+7,6,I'm Yours,Don Cornell,Don Cornell,pop,19520503,11,6,13,19520621
+8,7,A Guy Is A Guy,Doris Day,Doris Day,jazz,19520322,11,4,16,19520621
+9,11,Walkin' My Baby Back Home,Johnnie Ray,Johnnie Ray,pop,19520531,14,6,17,19520621
+10,20,Maybe,Perry Como / Eddie Fisher,Perry Como / Eddie Fisher,pop,19520614,20,8,13,19520621
+11,19,Half As Much,Rosemary Clooney,Rosemary Clooney,jazz,19520607,17,2,24,19520621
+12,NEW,Auf wiederseh'n Sweetheart,Vera Lynn,Vera Lynn,pop,19520621,12,1,18,19520621
+13,8,Wheel Of Fortune,Kay Starr,Kay Starr,jazz,19520216,16,1,20,19520621
+14,16,Lover,Peggy Lee,Peggy Lee,jazz,19520607,20,10,11,19520621
+15,9,I'll Walk Alone,Don Cornell,Don Cornell,pop,19520322,14,7,17,19520621
+16,17,I'll Walk Alone,Jane Froman,Jane Froman,pop,19520510,19,14,11,19520621
+17,15,Blue Tango,Hugo Winterhalter,Hugo Winterhalter,pop,19520329,14,8,14,19520621
+18,12,Pittsburgh Pennsylvania,Guy Mitchell,Guy Mitchell,country / folk,19520329,13,6,14,19520621
+19,13,Blacksmith Blues,Ella Mae Morse,Ella Mae Morse,jazz,19520223,15,3,18,19520621
+20,14,Forgive Me,Eddie Fisher,Eddie Fisher,jazz,19520322,15,7,14,19520621
+1,2,Blue Tango,Leroy Anderson,Leroy Anderson,pop,19520201,13,1,32,19520614
+2,1,Here In My Heart,Al Martino,Al Martino,jazz,19520517,12,1,17,19520614
+3,3,Kiss Of Fire,Georgia Gibbs,Georgia Gibbs,pop,19520419,8,2,19,19520614
+4,4,Delicado,Percy Faith,Percy Faith,pop,19520426,20,1,21,19520614
+5,8,I'm Yours,Eddie Fisher,Eddie Fisher,jazz,19520503,19,5,17,19520614
+6,6,I'm Yours,Don Cornell,Don Cornell,pop,19520503,11,6,13,19520614
+7,7,A Guy Is A Guy,Doris Day,Doris Day,jazz,19520322,11,4,16,19520614
+8,5,Wheel Of Fortune,Kay Starr,Kay Starr,jazz,19520216,16,1,20,19520614
+9,9,I'll Walk Alone,Don Cornell,Don Cornell,pop,19520322,14,7,17,19520614
+10,13,Kiss Of Fire,Tony Martin,Tony Martin,rock,19520503,17,6,14,19520614
+11,11,Walkin' My Baby Back Home,Johnnie Ray,Johnnie Ray,pop,19520531,14,6,17,19520614
+12,14,Pittsburgh Pennsylvania,Guy Mitchell,Guy Mitchell,country / folk,19520329,13,6,14,19520614
+13,10,Blacksmith Blues,Ella Mae Morse,Ella Mae Morse,jazz,19520223,15,3,18,19520614
+14,12,Forgive Me,Eddie Fisher,Eddie Fisher,jazz,19520322,15,7,14,19520614
+15,15,Blue Tango,Hugo Winterhalter,Hugo Winterhalter,pop,19520329,14,8,14,19520614
+16,20,Lover,Peggy Lee,Peggy Lee,jazz,19520607,20,10,11,19520614
+17,18,I'll Walk Alone,Jane Froman,Jane Froman,pop,19520510,19,14,11,19520614
+18,19,Carioca,Les Paul,Les Paul,jazz,19520524,19,18,4,19520614
+19,17,Half As Much,Rosemary Clooney,Rosemary Clooney,jazz,19520607,17,2,24,19520614
+20,NEW,Maybe,Perry Como / Eddie Fisher,Perry Como / Eddie Fisher,pop,19520614,20,8,13,19520614
+1,3,Here In My Heart,Al Martino,Al Martino,jazz,19520517,12,1,17,19520607
+2,1,Blue Tango,Leroy Anderson,Leroy Anderson,pop,19520201,13,1,32,19520607
+3,2,Kiss Of Fire,Georgia Gibbs,Georgia Gibbs,pop,19520419,8,2,19,19520607
+4,5,Delicado,Percy Faith,Percy Faith,pop,19520426,20,1,21,19520607
+5,4,Wheel Of Fortune,Kay Starr,Kay Starr,jazz,19520216,16,1,20,19520607
+6,7,I'm Yours,Don Cornell,Don Cornell,pop,19520503,11,6,13,19520607
+7,6,A Guy Is A Guy,Doris Day,Doris Day,jazz,19520322,11,4,16,19520607
+8,8,I'm Yours,Eddie Fisher,Eddie Fisher,jazz,19520503,19,5,17,19520607
+9,9,I'll Walk Alone,Don Cornell,Don Cornell,pop,19520322,14,7,17,19520607
+10,10,Blacksmith Blues,Ella Mae Morse,Ella Mae Morse,jazz,19520223,15,3,18,19520607
+11,14,Walkin' My Baby Back Home,Johnnie Ray,Johnnie Ray,pop,19520531,14,6,17,19520607
+12,12,Forgive Me,Eddie Fisher,Eddie Fisher,jazz,19520322,15,7,14,19520607
+13,11,Kiss Of Fire,Tony Martin,Tony Martin,rock,19520503,17,6,14,19520607
+14,13,Pittsburgh Pennsylvania,Guy Mitchell,Guy Mitchell,country / folk,19520329,13,6,14,19520607
+15,15,Blue Tango,Hugo Winterhalter,Hugo Winterhalter,pop,19520329,14,8,14,19520607
+16,17,Be Anything (But Be Mine),Eddy Howard,Eddy Howard,jazz,19520426,13,13,7,19520607
+17,NEW,Half As Much,Rosemary Clooney,Rosemary Clooney,jazz,19520607,17,2,24,19520607
+18,16,I'll Walk Alone,Jane Froman,Jane Froman,pop,19520510,19,14,11,19520607
+19,19,Carioca,Les Paul,Les Paul,jazz,19520524,19,18,4,19520607
+20,NEW,Lover,Peggy Lee,Peggy Lee,jazz,19520607,20,10,11,19520607
+1,1,Blue Tango,Leroy Anderson,Leroy Anderson,pop,19520201,13,1,32,19520531
+2,3,Kiss Of Fire,Georgia Gibbs,Georgia Gibbs,pop,19520419,8,2,19,19520531
+3,4,Here In My Heart,Al Martino,Al Martino,jazz,19520517,12,1,17,19520531
+4,2,Wheel Of Fortune,Kay Starr,Kay Starr,jazz,19520216,16,1,20,19520531
+5,6,Delicado,Percy Faith,Percy Faith,pop,19520426,20,1,21,19520531
+6,5,A Guy Is A Guy,Doris Day,Doris Day,jazz,19520322,11,4,16,19520531
+7,8,I'm Yours,Don Cornell,Don Cornell,pop,19520503,11,6,13,19520531
+8,9,I'm Yours,Eddie Fisher,Eddie Fisher,jazz,19520503,19,5,17,19520531
+9,10,I'll Walk Alone,Don Cornell,Don Cornell,pop,19520322,14,7,17,19520531
+10,7,Blacksmith Blues,Ella Mae Morse,Ella Mae Morse,jazz,19520223,15,3,18,19520531
+11,15,Kiss Of Fire,Tony Martin,Tony Martin,rock,19520503,17,6,14,19520531
+12,11,Forgive Me,Eddie Fisher,Eddie Fisher,jazz,19520322,15,7,14,19520531
+13,12,Pittsburgh Pennsylvania,Guy Mitchell,Guy Mitchell,country / folk,19520329,13,6,14,19520531
+14,NEW,Walkin' My Baby Back Home,Johnnie Ray,Johnnie Ray,pop,19520531,14,6,17,19520531
+15,13,Blue Tango,Hugo Winterhalter,Hugo Winterhalter,pop,19520329,14,8,14,19520531
+16,16,I'll Walk Alone,Jane Froman,Jane Froman,pop,19520510,19,14,11,19520531
+17,14,Be Anything (But Be Mine),Eddy Howard,Eddy Howard,jazz,19520426,13,13,7,19520531
+18,NEW,Blue Tango,Guy Lombardo,Guy Lombardo,jazz,19520531,18,18,1,19520531
+19,19,Carioca,Les Paul,Les Paul,jazz,19520524,19,18,4,19520531
+20,20,I'm Confessin',Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19520524,20,20,2,19520531
+1,1,Blue Tango,Leroy Anderson,Leroy Anderson,pop,19520201,13,1,32,19520524
+2,2,Wheel Of Fortune,Kay Starr,Kay Starr,jazz,19520216,16,1,20,19520524
+3,3,Kiss Of Fire,Georgia Gibbs,Georgia Gibbs,pop,19520419,8,2,19,19520524
+4,12,Here In My Heart,Al Martino,Al Martino,jazz,19520517,12,1,17,19520524
+5,4,A Guy Is A Guy,Doris Day,Doris Day,jazz,19520322,11,4,16,19520524
+6,7,Delicado,Percy Faith,Percy Faith,pop,19520426,20,1,21,19520524
+7,5,Blacksmith Blues,Ella Mae Morse,Ella Mae Morse,jazz,19520223,15,3,18,19520524
+8,6,I'm Yours,Don Cornell,Don Cornell,pop,19520503,11,6,13,19520524
+9,8,I'm Yours,Eddie Fisher,Eddie Fisher,jazz,19520503,19,5,17,19520524
+10,9,I'll Walk Alone,Don Cornell,Don Cornell,pop,19520322,14,7,17,19520524
+11,11,Forgive Me,Eddie Fisher,Eddie Fisher,jazz,19520322,15,7,14,19520524
+12,10,Pittsburgh Pennsylvania,Guy Mitchell,Guy Mitchell,country / folk,19520329,13,6,14,19520524
+13,14,Blue Tango,Hugo Winterhalter,Hugo Winterhalter,pop,19520329,14,8,14,19520524
+14,15,Be Anything (But Be Mine),Eddy Howard,Eddy Howard,jazz,19520426,13,13,7,19520524
+15,18,Kiss Of Fire,Tony Martin,Tony Martin,rock,19520503,17,6,14,19520524
+16,16,I'll Walk Alone,Jane Froman,Jane Froman,pop,19520510,19,14,11,19520524
+17,19,Kiss Of Fire,Billy Eckstine,Billy Eckstine,jazz,19520510,20,17,3,19520524
+18,13,Any Time,Eddie Fisher,Eddie Fisher,jazz,19511209,20,3,24,19520524
+19,NEW,Carioca,Les Paul,Les Paul,jazz,19520524,19,18,4,19520524
+20,NEW,I'm Confessin',Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19520524,20,20,2,19520524
+1,2,Blue Tango,Leroy Anderson,Leroy Anderson,pop,19520201,13,1,32,19520517
+2,1,Wheel Of Fortune,Kay Starr,Kay Starr,jazz,19520216,16,1,20,19520517
+3,5,Kiss Of Fire,Georgia Gibbs,Georgia Gibbs,pop,19520419,8,2,19,19520517
+4,4,A Guy Is A Guy,Doris Day,Doris Day,jazz,19520322,11,4,16,19520517
+5,3,Blacksmith Blues,Ella Mae Morse,Ella Mae Morse,jazz,19520223,15,3,18,19520517
+6,11,I'm Yours,Don Cornell,Don Cornell,pop,19520503,11,6,13,19520517
+7,13,Delicado,Percy Faith,Percy Faith,pop,19520426,20,1,21,19520517
+8,15,I'm Yours,Eddie Fisher,Eddie Fisher,jazz,19520503,19,5,17,19520517
+9,7,I'll Walk Alone,Don Cornell,Don Cornell,pop,19520322,14,7,17,19520517
+10,6,Pittsburgh Pennsylvania,Guy Mitchell,Guy Mitchell,country / folk,19520329,13,6,14,19520517
+11,9,Forgive Me,Eddie Fisher,Eddie Fisher,jazz,19520322,15,7,14,19520517
+12,NEW,Here In My Heart,Al Martino,Al Martino,jazz,19520517,12,1,17,19520517
+13,12,Any Time,Eddie Fisher,Eddie Fisher,jazz,19511209,20,3,24,19520517
+14,8,Blue Tango,Hugo Winterhalter,Hugo Winterhalter,pop,19520329,14,8,14,19520517
+15,14,Be Anything (But Be Mine),Eddy Howard,Eddy Howard,jazz,19520426,13,13,7,19520517
+16,19,I'll Walk Alone,Jane Froman,Jane Froman,pop,19520510,19,14,11,19520517
+17,NEW,Perfidia,Four Aces,Four Aces,pop,19520517,17,17,1,19520517
+18,16,Kiss Of Fire,Tony Martin,Tony Martin,rock,19520503,17,6,14,19520517
+19,20,Kiss Of Fire,Billy Eckstine,Billy Eckstine,jazz,19520510,20,17,3,19520517
+20,10,Cry,Johnnie Ray,Johnnie Ray,pop,19511125,18,1,25,19520517
+1,1,Wheel Of Fortune,Kay Starr,Kay Starr,jazz,19520216,16,1,20,19520510
+2,2,Blue Tango,Leroy Anderson,Leroy Anderson,pop,19520201,13,1,32,19520510
+3,3,Blacksmith Blues,Ella Mae Morse,Ella Mae Morse,jazz,19520223,15,3,18,19520510
+4,4,A Guy Is A Guy,Doris Day,Doris Day,jazz,19520322,11,4,16,19520510
+5,5,Kiss Of Fire,Georgia Gibbs,Georgia Gibbs,pop,19520419,8,2,19,19520510
+6,6,Pittsburgh Pennsylvania,Guy Mitchell,Guy Mitchell,country / folk,19520329,13,6,14,19520510
+7,7,I'll Walk Alone,Don Cornell,Don Cornell,pop,19520322,14,7,17,19520510
+8,12,Blue Tango,Hugo Winterhalter,Hugo Winterhalter,pop,19520329,14,8,14,19520510
+9,9,Forgive Me,Eddie Fisher,Eddie Fisher,jazz,19520322,15,7,14,19520510
+10,8,Cry,Johnnie Ray,Johnnie Ray,pop,19511125,18,1,25,19520510
+11,11,I'm Yours,Don Cornell,Don Cornell,pop,19520503,11,6,13,19520510
+12,10,Any Time,Eddie Fisher,Eddie Fisher,jazz,19511209,20,3,24,19520510
+13,15,Delicado,Percy Faith,Percy Faith,pop,19520426,20,1,21,19520510
+14,18,Be Anything (But Be Mine),Eddy Howard,Eddy Howard,jazz,19520426,13,13,7,19520510
+15,19,I'm Yours,Eddie Fisher,Eddie Fisher,jazz,19520503,19,5,17,19520510
+16,17,Kiss Of Fire,Tony Martin,Tony Martin,rock,19520503,17,6,14,19520510
+17,NEW,Blue Tango,Guy Lombardo,Guy Lombardo,jazz,19520510,17,17,1,19520510
+18,13,What's The Use,Johnnie Ray,Johnnie Ray,pop,19520419,16,13,4,19520510
+19,NEW,I'll Walk Alone,Jane Froman,Jane Froman,pop,19520510,19,14,11,19520510
+20,NEW,Kiss Of Fire,Billy Eckstine,Billy Eckstine,jazz,19520510,20,17,3,19520510
+1,1,Wheel Of Fortune,Kay Starr,Kay Starr,jazz,19520216,16,1,20,19520503
+2,2,Blue Tango,Leroy Anderson,Leroy Anderson,pop,19520201,13,1,32,19520503
+3,3,Blacksmith Blues,Ella Mae Morse,Ella Mae Morse,jazz,19520223,15,3,18,19520503
+4,4,A Guy Is A Guy,Doris Day,Doris Day,jazz,19520322,11,4,16,19520503
+5,5,Kiss Of Fire,Georgia Gibbs,Georgia Gibbs,pop,19520419,8,2,19,19520503
+6,8,Pittsburgh Pennsylvania,Guy Mitchell,Guy Mitchell,country / folk,19520329,13,6,14,19520503
+7,10,I'll Walk Alone,Don Cornell,Don Cornell,pop,19520322,14,7,17,19520503
+8,6,Cry,Johnnie Ray,Johnnie Ray,pop,19511125,18,1,25,19520503
+9,9,Forgive Me,Eddie Fisher,Eddie Fisher,jazz,19520322,15,7,14,19520503
+10,7,Any Time,Eddie Fisher,Eddie Fisher,jazz,19511209,20,3,24,19520503
+11,NEW,I'm Yours,Don Cornell,Don Cornell,pop,19520503,11,6,13,19520503
+12,12,Blue Tango,Hugo Winterhalter,Hugo Winterhalter,pop,19520329,14,8,14,19520503
+13,17,What's The Use,Johnnie Ray,Johnnie Ray,pop,19520419,16,13,4,19520503
+14,15,Tell Me Why,Four Aces,Four Aces,pop,19511209,19,2,21,19520503
+15,20,Delicado,Percy Faith,Percy Faith,pop,19520426,20,1,21,19520503
+16,11,Perfidia,Four Aces,Four Aces,pop,19520301,17,7,10,19520503
+17,NEW,Kiss Of Fire,Tony Martin,Tony Martin,rock,19520503,17,6,14,19520503
+18,13,Be Anything (But Be Mine),Eddy Howard,Eddy Howard,jazz,19520426,13,13,7,19520503
+19,NEW,I'm Yours,Eddie Fisher,Eddie Fisher,jazz,19520503,19,5,17,19520503
+20,18,Whispering Winds,Patti Page,Patti Page,jazz,19520426,18,18,2,19520503
+1,1,Wheel Of Fortune,Kay Starr,Kay Starr,jazz,19520216,16,1,20,19520426
+2,2,Blue Tango,Leroy Anderson,Leroy Anderson,pop,19520201,13,1,32,19520426
+3,3,Blacksmith Blues,Ella Mae Morse,Ella Mae Morse,jazz,19520223,15,3,18,19520426
+4,4,A Guy Is A Guy,Doris Day,Doris Day,jazz,19520322,11,4,16,19520426
+5,8,Kiss Of Fire,Georgia Gibbs,Georgia Gibbs,pop,19520419,8,2,19,19520426
+6,5,Cry,Johnnie Ray,Johnnie Ray,pop,19511125,18,1,25,19520426
+7,6,Any Time,Eddie Fisher,Eddie Fisher,jazz,19511209,20,3,24,19520426
+8,10,Pittsburgh Pennsylvania,Guy Mitchell,Guy Mitchell,country / folk,19520329,13,6,14,19520426
+9,13,Forgive Me,Eddie Fisher,Eddie Fisher,jazz,19520322,15,7,14,19520426
+10,9,I'll Walk Alone,Don Cornell,Don Cornell,pop,19520322,14,7,17,19520426
+11,7,Perfidia,Four Aces,Four Aces,pop,19520301,17,7,10,19520426
+12,12,Blue Tango,Hugo Winterhalter,Hugo Winterhalter,pop,19520329,14,8,14,19520426
+13,NEW,Be Anything (But Be Mine),Eddy Howard,Eddy Howard,jazz,19520426,13,13,7,19520426
+14,NEW,Please Mr. Sun,Johnnie Ray,Johnnie Ray,pop,19520426,14,14,1,19520426
+15,11,Tell Me Why,Four Aces,Four Aces,pop,19511209,19,2,21,19520426
+16,19,Blue Tango,Guy Lombardo,Guy Lombardo,jazz,19520419,19,16,2,19520426
+17,16,What's The Use,Johnnie Ray,Johnnie Ray,pop,19520419,16,13,4,19520426
+18,NEW,Whispering Winds,Patti Page,Patti Page,jazz,19520426,18,18,2,19520426
+19,20,Tell Me Why,Eddie Fisher,Eddie Fisher,jazz,19520112,11,7,16,19520426
+20,NEW,Delicado,Percy Faith,Percy Faith,pop,19520426,20,1,21,19520426
+1,1,Wheel Of Fortune,Kay Starr,Kay Starr,jazz,19520216,16,1,20,19520419
+2,2,Blue Tango,Leroy Anderson,Leroy Anderson,pop,19520201,13,1,32,19520419
+3,3,Blacksmith Blues,Ella Mae Morse,Ella Mae Morse,jazz,19520223,15,3,18,19520419
+4,6,A Guy Is A Guy,Doris Day,Doris Day,jazz,19520322,11,4,16,19520419
+5,4,Cry,Johnnie Ray,Johnnie Ray,pop,19511125,18,1,25,19520419
+6,5,Any Time,Eddie Fisher,Eddie Fisher,jazz,19511209,20,3,24,19520419
+7,12,Perfidia,Four Aces,Four Aces,pop,19520301,17,7,10,19520419
+8,NEW,Kiss Of Fire,Georgia Gibbs,Georgia Gibbs,pop,19520419,8,2,19,19520419
+9,11,I'll Walk Alone,Don Cornell,Don Cornell,pop,19520322,14,7,17,19520419
+10,9,Pittsburgh Pennsylvania,Guy Mitchell,Guy Mitchell,country / folk,19520329,13,6,14,19520419
+11,10,Tell Me Why,Four Aces,Four Aces,pop,19511209,19,2,21,19520419
+12,13,Blue Tango,Hugo Winterhalter,Hugo Winterhalter,pop,19520329,14,8,14,19520419
+13,7,Forgive Me,Eddie Fisher,Eddie Fisher,jazz,19520322,15,7,14,19520419
+14,8,Please Mr. Sun,Johnnie Ray,Johnnie Ray,pop,19520201,11,6,12,19520419
+15,NEW,Wimoweh,Weavers / Gordon Jenkins,Weavers / Gordon Jenkins,pop,19520419,15,15,1,19520419
+16,NEW,What's The Use,Johnnie Ray,Johnnie Ray,pop,19520419,16,13,4,19520419
+17,17,Come What May,Patti Page,Patti Page,jazz,19520223,16,12,9,19520419
+18,16,(Here Am I) Broken Hearted,Johnnie Ray,Johnnie Ray,pop,19520201,20,9,12,19520419
+19,NEW,Blue Tango,Guy Lombardo,Guy Lombardo,jazz,19520419,19,16,2,19520419
+20,14,Tell Me Why,Eddie Fisher,Eddie Fisher,jazz,19520112,11,7,16,19520419
+1,1,Wheel Of Fortune,Kay Starr,Kay Starr,jazz,19520216,16,1,20,19520412
+2,2,Blue Tango,Leroy Anderson,Leroy Anderson,pop,19520201,13,1,32,19520412
+3,3,Blacksmith Blues,Ella Mae Morse,Ella Mae Morse,jazz,19520223,15,3,18,19520412
+4,4,Cry,Johnnie Ray,Johnnie Ray,pop,19511125,18,1,25,19520412
+5,5,Any Time,Eddie Fisher,Eddie Fisher,jazz,19511209,20,3,24,19520412
+6,6,A Guy Is A Guy,Doris Day,Doris Day,jazz,19520322,11,4,16,19520412
+7,8,Forgive Me,Eddie Fisher,Eddie Fisher,jazz,19520322,15,7,14,19520412
+8,13,Please Mr. Sun,Johnnie Ray,Johnnie Ray,pop,19520201,11,6,12,19520412
+9,10,Pittsburgh Pennsylvania,Guy Mitchell,Guy Mitchell,country / folk,19520329,13,6,14,19520412
+10,7,Tell Me Why,Four Aces,Four Aces,pop,19511209,19,2,21,19520412
+11,11,I'll Walk Alone,Don Cornell,Don Cornell,pop,19520322,14,7,17,19520412
+12,9,Perfidia,Four Aces,Four Aces,pop,19520301,17,7,10,19520412
+13,15,Blue Tango,Hugo Winterhalter,Hugo Winterhalter,pop,19520329,14,8,14,19520412
+14,16,Tell Me Why,Eddie Fisher,Eddie Fisher,jazz,19520112,11,7,16,19520412
+15,NEW,Hambone,Frankie Laine / Jo Stafford,Frankie Laine / Jo Stafford,pop,19520412,15,15,1,19520412
+16,17,(Here Am I) Broken Hearted,Johnnie Ray,Johnnie Ray,pop,19520201,20,9,12,19520412
+17,12,Come What May,Patti Page,Patti Page,jazz,19520223,16,12,9,19520412
+18,NEW,Be Anything (But Be Mine),Eddy Howard,Eddy Howard,jazz,19520412,18,18,1,19520412
+19,NEW,Whispering Winds,Patti Page,Patti Page,jazz,19520412,19,19,1,19520412
+20,19,Bermuda,Bell Sisters,Bell Sisters,pop,19520119,15,8,13,19520412
+1,1,Wheel Of Fortune,Kay Starr,Kay Starr,jazz,19520216,16,1,20,19520405
+2,2,Blue Tango,Leroy Anderson,Leroy Anderson,pop,19520201,13,1,32,19520405
+3,5,Blacksmith Blues,Ella Mae Morse,Ella Mae Morse,jazz,19520223,15,3,18,19520405
+4,3,Cry,Johnnie Ray,Johnnie Ray,pop,19511125,18,1,25,19520405
+5,4,Any Time,Eddie Fisher,Eddie Fisher,jazz,19511209,20,3,24,19520405
+6,6,A Guy Is A Guy,Doris Day,Doris Day,jazz,19520322,11,4,16,19520405
+7,7,Tell Me Why,Four Aces,Four Aces,pop,19511209,19,2,21,19520405
+8,10,Forgive Me,Eddie Fisher,Eddie Fisher,jazz,19520322,15,7,14,19520405
+9,8,Perfidia,Four Aces,Four Aces,pop,19520301,17,7,10,19520405
+10,13,Pittsburgh Pennsylvania,Guy Mitchell,Guy Mitchell,country / folk,19520329,13,6,14,19520405
+11,18,I'll Walk Alone,Don Cornell,Don Cornell,pop,19520322,14,7,17,19520405
+12,19,Come What May,Patti Page,Patti Page,jazz,19520223,16,12,9,19520405
+13,9,Please Mr. Sun,Johnnie Ray,Johnnie Ray,pop,19520201,11,6,12,19520405
+14,NEW,Wimoweh,Weavers / Gordon Jenkins,Weavers / Gordon Jenkins,pop,19520405,14,14,1,19520405
+15,14,Blue Tango,Hugo Winterhalter,Hugo Winterhalter,pop,19520329,14,8,14,19520405
+16,12,Tell Me Why,Eddie Fisher,Eddie Fisher,jazz,19520112,11,7,16,19520405
+17,17,(Here Am I) Broken Hearted,Johnnie Ray,Johnnie Ray,pop,19520201,20,9,12,19520405
+18,20,Tulips And Heather,Perry Como,Perry Como,jazz,19520308,20,17,5,19520405
+19,11,Bermuda,Bell Sisters,Bell Sisters,pop,19520119,15,8,13,19520405
+20,NEW,Wheel Of Fortune,Bobby Wayne,Bobby Wayne,rock,19520405,20,20,1,19520405
+1,1,Wheel Of Fortune,Kay Starr,Kay Starr,jazz,19520216,16,1,20,19520329
+2,2,Blue Tango,Leroy Anderson,Leroy Anderson,pop,19520201,13,1,32,19520329
+3,3,Cry,Johnnie Ray,Johnnie Ray,pop,19511125,18,1,25,19520329
+4,4,Any Time,Eddie Fisher,Eddie Fisher,jazz,19511209,20,3,24,19520329
+5,5,Blacksmith Blues,Ella Mae Morse,Ella Mae Morse,jazz,19520223,15,3,18,19520329
+6,11,A Guy Is A Guy,Doris Day,Doris Day,jazz,19520322,11,4,16,19520329
+7,6,Tell Me Why,Four Aces,Four Aces,pop,19511209,19,2,21,19520329
+8,9,Perfidia,Four Aces,Four Aces,pop,19520301,17,7,10,19520329
+9,7,Please Mr. Sun,Johnnie Ray,Johnnie Ray,pop,19520201,11,6,12,19520329
+10,15,Forgive Me,Eddie Fisher,Eddie Fisher,jazz,19520322,15,7,14,19520329
+11,8,Bermuda,Bell Sisters,Bell Sisters,pop,19520119,15,8,13,19520329
+12,10,Tell Me Why,Eddie Fisher,Eddie Fisher,jazz,19520112,11,7,16,19520329
+13,NEW,Pittsburgh Pennsylvania,Guy Mitchell,Guy Mitchell,country / folk,19520329,13,6,14,19520329
+14,NEW,Blue Tango,Hugo Winterhalter,Hugo Winterhalter,pop,19520329,14,8,14,19520329
+15,12,The Little White Cloud That Cried,Johnnie Ray,Johnnie Ray,pop,19511118,20,2,19,19520329
+16,NEW,Hambone,Frankie Laine / Jo Stafford,Frankie Laine / Jo Stafford,pop,19520329,16,16,1,19520329
+17,13,(Here Am I) Broken Hearted,Johnnie Ray,Johnnie Ray,pop,19520201,20,9,12,19520329
+18,14,I'll Walk Alone,Don Cornell,Don Cornell,pop,19520322,14,7,17,19520329
+19,16,Come What May,Patti Page,Patti Page,jazz,19520223,16,12,9,19520329
+20,17,Tulips And Heather,Perry Como,Perry Como,jazz,19520308,20,17,5,19520329
+1,1,Wheel Of Fortune,Kay Starr,Kay Starr,jazz,19520216,16,1,20,19520322
+2,3,Blue Tango,Leroy Anderson,Leroy Anderson,pop,19520201,13,1,32,19520322
+3,2,Cry,Johnnie Ray,Johnnie Ray,pop,19511125,18,1,25,19520322
+4,4,Any Time,Eddie Fisher,Eddie Fisher,jazz,19511209,20,3,24,19520322
+5,7,Blacksmith Blues,Ella Mae Morse,Ella Mae Morse,jazz,19520223,15,3,18,19520322
+6,5,Tell Me Why,Four Aces,Four Aces,pop,19511209,19,2,21,19520322
+7,6,Please Mr. Sun,Johnnie Ray,Johnnie Ray,pop,19520201,11,6,12,19520322
+8,9,Bermuda,Bell Sisters,Bell Sisters,pop,19520119,15,8,13,19520322
+9,12,Perfidia,Four Aces,Four Aces,pop,19520301,17,7,10,19520322
+10,8,Tell Me Why,Eddie Fisher,Eddie Fisher,jazz,19520112,11,7,16,19520322
+11,NEW,A Guy Is A Guy,Doris Day,Doris Day,jazz,19520322,11,4,16,19520322
+12,10,The Little White Cloud That Cried,Johnnie Ray,Johnnie Ray,pop,19511118,20,2,19,19520322
+13,11,(Here Am I) Broken Hearted,Johnnie Ray,Johnnie Ray,pop,19520201,20,9,12,19520322
+14,NEW,I'll Walk Alone,Don Cornell,Don Cornell,pop,19520322,14,7,17,19520322
+15,NEW,Forgive Me,Eddie Fisher,Eddie Fisher,jazz,19520322,15,7,14,19520322
+16,19,Come What May,Patti Page,Patti Page,jazz,19520223,16,12,9,19520322
+17,18,Tulips And Heather,Perry Como,Perry Como,jazz,19520308,20,17,5,19520322
+18,NEW,Wimoweh,Weavers / Gordon Jenkins,Weavers / Gordon Jenkins,pop,19520322,18,18,1,19520322
+19,17,The Three Bells,Les Compagnon De La Chanson,Les Compagnon De La Chanson,pop,19520308,14,14,3,19520322
+20,14,Wheels Of Fortune,Bobby Wayne,Bobby Wayne,rock,19520301,14,13,4,19520322
+1,2,Wheel Of Fortune,Kay Starr,Kay Starr,jazz,19520216,16,1,20,19520315
+2,1,Cry,Johnnie Ray,Johnnie Ray,pop,19511125,18,1,25,19520315
+3,3,Blue Tango,Leroy Anderson,Leroy Anderson,pop,19520201,13,1,32,19520315
+4,4,Any Time,Eddie Fisher,Eddie Fisher,jazz,19511209,20,3,24,19520315
+5,5,Tell Me Why,Four Aces,Four Aces,pop,19511209,19,2,21,19520315
+6,6,Please Mr. Sun,Johnnie Ray,Johnnie Ray,pop,19520201,11,6,12,19520315
+7,11,Blacksmith Blues,Ella Mae Morse,Ella Mae Morse,jazz,19520223,15,3,18,19520315
+8,10,Tell Me Why,Eddie Fisher,Eddie Fisher,jazz,19520112,11,7,16,19520315
+9,8,Bermuda,Bell Sisters,Bell Sisters,pop,19520119,15,8,13,19520315
+10,7,The Little White Cloud That Cried,Johnnie Ray,Johnnie Ray,pop,19511118,20,2,19,19520315
+11,9,(Here Am I) Broken Hearted,Johnnie Ray,Johnnie Ray,pop,19520201,20,9,12,19520315
+12,16,Perfidia,Four Aces,Four Aces,pop,19520301,17,7,10,19520315
+13,15,Tiger Rag,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19520119,19,6,9,19520315
+14,13,Wheels Of Fortune,Bobby Wayne,Bobby Wayne,rock,19520301,14,13,4,19520315
+15,12,Slow Poke,Pee Wee King / Redd Stewart,Pee Wee King / Redd Stewart,pop,19511118,13,3,17,19520315
+16,19,Hambone,Frankie Laine / Jo Stafford,Frankie Laine / Jo Stafford,pop,19520308,19,16,2,19520315
+17,14,The Three Bells,Les Compagnon De La Chanson,Les Compagnon De La Chanson,pop,19520308,14,14,3,19520315
+18,20,Tulips And Heather,Perry Como,Perry Como,jazz,19520308,20,17,5,19520315
+19,18,Come What May,Patti Page,Patti Page,jazz,19520223,16,12,9,19520315
+20,NEW,Pittsburgh Pennsylvania,Guy Mitchell,Guy Mitchell,country / folk,19520315,20,20,1,19520315
+1,1,Cry,Johnnie Ray,Johnnie Ray,pop,19511125,18,1,25,19520308
+2,3,Wheel Of Fortune,Kay Starr,Kay Starr,jazz,19520216,16,1,20,19520308
+3,4,Blue Tango,Leroy Anderson,Leroy Anderson,pop,19520201,13,1,32,19520308
+4,5,Any Time,Eddie Fisher,Eddie Fisher,jazz,19511209,20,3,24,19520308
+5,2,Tell Me Why,Four Aces,Four Aces,pop,19511209,19,2,21,19520308
+6,7,Please Mr. Sun,Johnnie Ray,Johnnie Ray,pop,19520201,11,6,12,19520308
+7,6,The Little White Cloud That Cried,Johnnie Ray,Johnnie Ray,pop,19511118,20,2,19,19520308
+8,10,Bermuda,Bell Sisters,Bell Sisters,pop,19520119,15,8,13,19520308
+9,15,(Here Am I) Broken Hearted,Johnnie Ray,Johnnie Ray,pop,19520201,20,9,12,19520308
+10,11,Tell Me Why,Eddie Fisher,Eddie Fisher,jazz,19520112,11,7,16,19520308
+11,12,Blacksmith Blues,Ella Mae Morse,Ella Mae Morse,jazz,19520223,15,3,18,19520308
+12,8,Slow Poke,Pee Wee King / Redd Stewart,Pee Wee King / Redd Stewart,pop,19511118,13,3,17,19520308
+13,14,Wheels Of Fortune,Bobby Wayne,Bobby Wayne,rock,19520301,14,13,4,19520308
+14,NEW,The Three Bells,Les Compagnon De La Chanson,Les Compagnon De La Chanson,pop,19520308,14,14,3,19520308
+15,9,Tiger Rag,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19520119,19,6,9,19520308
+16,17,Perfidia,Four Aces,Four Aces,pop,19520301,17,7,10,19520308
+17,13,Dance Me Loose,Arthur Godfrey / Chordettes,Arthur Godfrey / Chordettes,pop,19520112,18,12,9,19520308
+18,16,Come What May,Patti Page,Patti Page,jazz,19520223,16,12,9,19520308
+19,NEW,Hambone,Frankie Laine / Jo Stafford,Frankie Laine / Jo Stafford,pop,19520308,19,16,2,19520308
+20,NEW,Tulips And Heather,Perry Como,Perry Como,jazz,19520308,20,17,5,19520308
+1,1,Cry,Johnnie Ray,Johnnie Ray,pop,19511125,18,1,25,19520301
+2,2,Tell Me Why,Four Aces,Four Aces,pop,19511209,19,2,21,19520301
+3,6,Wheel Of Fortune,Kay Starr,Kay Starr,jazz,19520216,16,1,20,19520301
+4,5,Blue Tango,Leroy Anderson,Leroy Anderson,pop,19520201,13,1,32,19520301
+5,3,Any Time,Eddie Fisher,Eddie Fisher,jazz,19511209,20,3,24,19520301
+6,4,The Little White Cloud That Cried,Johnnie Ray,Johnnie Ray,pop,19511118,20,2,19,19520301
+7,7,Please Mr. Sun,Johnnie Ray,Johnnie Ray,pop,19520201,11,6,12,19520301
+8,8,Slow Poke,Pee Wee King / Redd Stewart,Pee Wee King / Redd Stewart,pop,19511118,13,3,17,19520301
+9,9,Tiger Rag,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19520119,19,6,9,19520301
+10,10,Bermuda,Bell Sisters,Bell Sisters,pop,19520119,15,8,13,19520301
+11,11,Tell Me Why,Eddie Fisher,Eddie Fisher,jazz,19520112,11,7,16,19520301
+12,15,Blacksmith Blues,Ella Mae Morse,Ella Mae Morse,jazz,19520223,15,3,18,19520301
+13,12,Dance Me Loose,Arthur Godfrey / Chordettes,Arthur Godfrey / Chordettes,pop,19520112,18,12,9,19520301
+14,NEW,Wheels Of Fortune,Bobby Wayne,Bobby Wayne,rock,19520301,14,13,4,19520301
+15,14,(Here Am I) Broken Hearted,Johnnie Ray,Johnnie Ray,pop,19520201,20,9,12,19520301
+16,16,Come What May,Patti Page,Patti Page,jazz,19520223,16,12,9,19520301
+17,NEW,Perfidia,Four Aces,Four Aces,pop,19520301,17,7,10,19520301
+18,NEW,A Kiss To Build A Dream On,Hugo Winterhalter,Hugo Winterhalter,pop,19520301,18,18,1,19520301
+19,17,Slow Poke,Arthur Godfrey,Arthur Godfrey,pop,19520126,18,12,6,19520301
+20,NEW,Wimoweh,Weavers / Gordon Jenkins,Weavers / Gordon Jenkins,pop,19520301,20,20,1,19520301
+1,1,Cry,Johnnie Ray,Johnnie Ray,pop,19511125,18,1,25,19520223
+2,2,Tell Me Why,Four Aces,Four Aces,pop,19511209,19,2,21,19520223
+3,4,Any Time,Eddie Fisher,Eddie Fisher,jazz,19511209,20,3,24,19520223
+4,3,The Little White Cloud That Cried,Johnnie Ray,Johnnie Ray,pop,19511118,20,2,19,19520223
+5,7,Blue Tango,Leroy Anderson,Leroy Anderson,pop,19520201,13,1,32,19520223
+6,16,Wheel Of Fortune,Kay Starr,Kay Starr,jazz,19520216,16,1,20,19520223
+7,8,Please Mr. Sun,Johnnie Ray,Johnnie Ray,pop,19520201,11,6,12,19520223
+8,5,Slow Poke,Pee Wee King / Redd Stewart,Pee Wee King / Redd Stewart,pop,19511118,13,3,17,19520223
+9,6,Tiger Rag,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19520119,19,6,9,19520223
+10,11,Bermuda,Bell Sisters,Bell Sisters,pop,19520119,15,8,13,19520223
+11,9,Tell Me Why,Eddie Fisher,Eddie Fisher,jazz,19520112,11,7,16,19520223
+12,13,Dance Me Loose,Arthur Godfrey / Chordettes,Arthur Godfrey / Chordettes,pop,19520112,18,12,9,19520223
+13,10,Shrimp Boats,Jo Stafford,Jo Stafford,jazz,19511125,12,2,13,19520223
+14,12,(Here Am I) Broken Hearted,Johnnie Ray,Johnnie Ray,pop,19520201,20,9,12,19520223
+15,NEW,Blacksmith Blues,Ella Mae Morse,Ella Mae Morse,jazz,19520223,15,3,18,19520223
+16,NEW,Come What May,Patti Page,Patti Page,jazz,19520223,16,12,9,19520223
+17,20,Slow Poke,Arthur Godfrey,Arthur Godfrey,pop,19520126,18,12,6,19520223
+18,NEW,Wheel Of Fortune,Eddie Wilcox Orchestra / Sunny Gale,Eddie Wilcox Orchestra / Sunny Gale,pop,19520223,18,18,1,19520223
+19,NEW,The Three Bells,Les Compagnon De La Chanson,Les Compagnon De La Chanson,pop,19520223,19,19,1,19520223
+20,15,Charmaine,Mantovani,Mantovani,pop,19511125,17,10,13,19520223
+1,1,Cry,Johnnie Ray,Johnnie Ray,pop,19511125,18,1,25,19520216
+2,2,Tell Me Why,Four Aces,Four Aces,pop,19511209,19,2,21,19520216
+3,4,The Little White Cloud That Cried,Johnnie Ray,Johnnie Ray,pop,19511118,20,2,19,19520216
+4,3,Any Time,Eddie Fisher,Eddie Fisher,jazz,19511209,20,3,24,19520216
+5,5,Slow Poke,Pee Wee King / Redd Stewart,Pee Wee King / Redd Stewart,pop,19511118,13,3,17,19520216
+6,6,Tiger Rag,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19520119,19,6,9,19520216
+7,10,Blue Tango,Leroy Anderson,Leroy Anderson,pop,19520201,13,1,32,19520216
+8,14,Please Mr. Sun,Johnnie Ray,Johnnie Ray,pop,19520201,11,6,12,19520216
+9,7,Tell Me Why,Eddie Fisher,Eddie Fisher,jazz,19520112,11,7,16,19520216
+10,9,Shrimp Boats,Jo Stafford,Jo Stafford,jazz,19511125,12,2,13,19520216
+11,8,Bermuda,Bell Sisters,Bell Sisters,pop,19520119,15,8,13,19520216
+12,11,(Here Am I) Broken Hearted,Johnnie Ray,Johnnie Ray,pop,19520201,20,9,12,19520216
+13,13,Dance Me Loose,Arthur Godfrey / Chordettes,Arthur Godfrey / Chordettes,pop,19520112,18,12,9,19520216
+14,NEW,Wheel Of Fortune,Eddie Wilcox Orchestra / Sunny Gale,Eddie Wilcox Orchestra / Sunny Gale,pop,19520216,14,14,1,19520216
+15,15,Charmaine,Mantovani,Mantovani,pop,19511125,17,10,13,19520216
+16,NEW,Wheel Of Fortune,Kay Starr,Kay Starr,jazz,19520216,16,1,20,19520216
+17,16,It's No Sin,Eddy Howard,Eddy Howard,jazz,19510922,14,1,22,19520216
+18,NEW,Be My Life's Companion,Rosemary Clooney,Rosemary Clooney,jazz,19520216,18,18,1,19520216
+19,18,Slow Poke,Helen O'Connell,Helen O'Connell,jazz,19520201,19,18,3,19520216
+20,12,Slow Poke,Arthur Godfrey,Arthur Godfrey,pop,19520126,18,12,6,19520216
+1,1,Cry,Johnnie Ray,Johnnie Ray,pop,19511125,18,1,25,19520209
+2,2,Tell Me Why,Four Aces,Four Aces,pop,19511209,19,2,21,19520209
+3,5,Any Time,Eddie Fisher,Eddie Fisher,jazz,19511209,20,3,24,19520209
+4,3,The Little White Cloud That Cried,Johnnie Ray,Johnnie Ray,pop,19511118,20,2,19,19520209
+5,4,Slow Poke,Pee Wee King / Redd Stewart,Pee Wee King / Redd Stewart,pop,19511118,13,3,17,19520209
+6,7,Tiger Rag,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19520119,19,6,9,19520209
+7,8,Tell Me Why,Eddie Fisher,Eddie Fisher,jazz,19520112,11,7,16,19520209
+8,10,Bermuda,Bell Sisters,Bell Sisters,pop,19520119,15,8,13,19520209
+9,6,Shrimp Boats,Jo Stafford,Jo Stafford,jazz,19511125,12,2,13,19520209
+10,13,Blue Tango,Leroy Anderson,Leroy Anderson,pop,19520201,13,1,32,19520209
+11,20,(Here Am I) Broken Hearted,Johnnie Ray,Johnnie Ray,pop,19520201,20,9,12,19520209
+12,16,Slow Poke,Arthur Godfrey,Arthur Godfrey,pop,19520126,18,12,6,19520209
+13,14,Dance Me Loose,Arthur Godfrey / Chordettes,Arthur Godfrey / Chordettes,pop,19520112,18,12,9,19520209
+14,11,Please Mr. Sun,Johnnie Ray,Johnnie Ray,pop,19520201,11,6,12,19520209
+15,12,Charmaine,Mantovani,Mantovani,pop,19511125,17,10,13,19520209
+16,9,It's No Sin,Eddy Howard,Eddy Howard,jazz,19510922,14,1,22,19520209
+17,NEW,Down Yonder,Del Wood,Del Wood,pop,19520209,17,17,1,19520209
+18,19,Slow Poke,Helen O'Connell,Helen O'Connell,jazz,19520201,19,18,3,19520209
+19,NEW,It's No Sin,Four Aces,Four Aces,pop,19520209,19,19,1,19520209
+20,15,Undecided,Ames Brothers / Les Brown,Ames Brothers / Les Brown,pop,19511006,20,6,19,19520209
+1,1,Cry,Johnnie Ray,Johnnie Ray,pop,19511125,18,1,25,19520201
+2,2,Tell Me Why,Four Aces,Four Aces,pop,19511209,19,2,21,19520201
+3,3,The Little White Cloud That Cried,Johnnie Ray,Johnnie Ray,pop,19511118,20,2,19,19520201
+4,4,Slow Poke,Pee Wee King / Redd Stewart,Pee Wee King / Redd Stewart,pop,19511118,13,3,17,19520201
+5,5,Any Time,Eddie Fisher,Eddie Fisher,jazz,19511209,20,3,24,19520201
+6,6,Shrimp Boats,Jo Stafford,Jo Stafford,jazz,19511125,12,2,13,19520201
+7,8,Tiger Rag,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19520119,19,6,9,19520201
+8,9,Tell Me Why,Eddie Fisher,Eddie Fisher,jazz,19520112,11,7,16,19520201
+9,7,It's No Sin,Eddy Howard,Eddy Howard,jazz,19510922,14,1,22,19520201
+10,10,Bermuda,Bell Sisters,Bell Sisters,pop,19520119,15,8,13,19520201
+11,NEW,Please Mr. Sun,Johnnie Ray,Johnnie Ray,pop,19520201,11,6,12,19520201
+12,11,Charmaine,Mantovani,Mantovani,pop,19511125,17,10,13,19520201
+13,NEW,Blue Tango,Leroy Anderson,Leroy Anderson,pop,19520201,13,1,32,19520201
+14,16,Dance Me Loose,Arthur Godfrey / Chordettes,Arthur Godfrey / Chordettes,pop,19520112,18,12,9,19520201
+15,13,Undecided,Ames Brothers / Les Brown,Ames Brothers / Les Brown,pop,19511006,20,6,19,19520201
+16,18,Slow Poke,Arthur Godfrey,Arthur Godfrey,pop,19520126,18,12,6,19520201
+17,12,Jealousy,Frankie Laine,Frankie Laine,country / folk,19520105,7,7,5,19520201
+18,NEW,A Kiss To Build A Dream On,Louis Armstrong,Louis Armstrong,jazz,19520201,18,18,1,19520201
+19,NEW,Slow Poke,Helen O'Connell,Helen O'Connell,jazz,19520201,19,18,3,19520201
+20,NEW,(Here Am I) Broken Hearted,Johnnie Ray,Johnnie Ray,pop,19520201,20,9,12,19520201
+1,1,Cry,Johnnie Ray,Johnnie Ray,pop,19511125,18,1,25,19520126
+2,3,Tell Me Why,Four Aces,Four Aces,pop,19511209,19,2,21,19520126
+3,2,The Little White Cloud That Cried,Johnnie Ray,Johnnie Ray,pop,19511118,20,2,19,19520126
+4,4,Slow Poke,Pee Wee King / Redd Stewart,Pee Wee King / Redd Stewart,pop,19511118,13,3,17,19520126
+5,6,Any Time,Eddie Fisher,Eddie Fisher,jazz,19511209,20,3,24,19520126
+6,5,Shrimp Boats,Jo Stafford,Jo Stafford,jazz,19511125,12,2,13,19520126
+7,7,It's No Sin,Eddy Howard,Eddy Howard,jazz,19510922,14,1,22,19520126
+8,19,Tiger Rag,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19520119,19,6,9,19520126
+9,8,Tell Me Why,Eddie Fisher,Eddie Fisher,jazz,19520112,11,7,16,19520126
+10,15,Bermuda,Bell Sisters,Bell Sisters,pop,19520119,15,8,13,19520126
+11,11,Charmaine,Mantovani,Mantovani,pop,19511125,17,10,13,19520126
+12,10,Jealousy,Frankie Laine,Frankie Laine,country / folk,19520105,7,7,5,19520126
+13,9,Undecided,Ames Brothers / Les Brown,Ames Brothers / Les Brown,pop,19511006,20,6,19,19520126
+14,12,Down Yonder,Del Wood,Del Wood,pop,19510825,19,6,23,19520126
+15,13,It's No Sin,Four Aces,Four Aces,pop,19510908,17,4,21,19520126
+16,18,Dance Me Loose,Arthur Godfrey / Chordettes,Arthur Godfrey / Chordettes,pop,19520112,18,12,9,19520126
+17,17,Cold Cold Heart,Tony Bennett,Tony Bennett,jazz,19510811,15,1,25,19520126
+18,NEW,Slow Poke,Arthur Godfrey,Arthur Godfrey,pop,19520126,18,12,6,19520126
+19,20,Down Yonder,Joe 'Fingers' Carr,Joe 'Fingers' Carr,pop,19520112,19,19,3,19520126
+20,NEW,Mother At Your Feet Is Kneeling,Bobby Wayne,Bobby Wayne,rock,19520126,20,20,1,19520126
+1,1,Cry,Johnnie Ray,Johnnie Ray,pop,19511125,18,1,25,19520119
+2,2,The Little White Cloud That Cried,Johnnie Ray,Johnnie Ray,pop,19511118,20,2,19,19520119
+3,5,Tell Me Why,Four Aces,Four Aces,pop,19511209,19,2,21,19520119
+4,3,Slow Poke,Pee Wee King / Redd Stewart,Pee Wee King / Redd Stewart,pop,19511118,13,3,17,19520119
+5,6,Shrimp Boats,Jo Stafford,Jo Stafford,jazz,19511125,12,2,13,19520119
+6,7,Any Time,Eddie Fisher,Eddie Fisher,jazz,19511209,20,3,24,19520119
+7,4,It's No Sin,Eddy Howard,Eddy Howard,jazz,19510922,14,1,22,19520119
+8,11,Tell Me Why,Eddie Fisher,Eddie Fisher,jazz,19520112,11,7,16,19520119
+9,10,Undecided,Ames Brothers / Les Brown,Ames Brothers / Les Brown,pop,19511006,20,6,19,19520119
+10,8,Jealousy,Frankie Laine,Frankie Laine,country / folk,19520105,7,7,5,19520119
+11,15,Charmaine,Mantovani,Mantovani,pop,19511125,17,10,13,19520119
+12,12,Down Yonder,Del Wood,Del Wood,pop,19510825,19,6,23,19520119
+13,13,It's No Sin,Four Aces,Four Aces,pop,19510908,17,4,21,19520119
+14,NEW,Garden In The Rain,Four Aces,Four Aces,pop,19520119,14,14,1,19520119
+15,NEW,Bermuda,Bell Sisters,Bell Sisters,pop,19520119,15,8,13,19520119
+16,14,Because Of You,Tony Bennett,Tony Bennett,jazz,19510630,19,1,30,19520119
+17,9,Cold Cold Heart,Tony Bennett,Tony Bennett,jazz,19510811,15,1,25,19520119
+18,18,Dance Me Loose,Arthur Godfrey / Chordettes,Arthur Godfrey / Chordettes,pop,19520112,18,12,9,19520119
+19,NEW,Tiger Rag,Les Paul & Mary Ford,Les Paul & Mary Ford,jazz,19520119,19,6,9,19520119
+20,19,Down Yonder,Joe 'Fingers' Carr,Joe 'Fingers' Carr,pop,19520112,19,19,3,19520119
+1,1,Cry,Johnnie Ray,Johnnie Ray,pop,19511125,18,1,25,19520112
+2,4,The Little White Cloud That Cried,Johnnie Ray,Johnnie Ray,pop,19511118,20,2,19,19520112
+3,3,Slow Poke,Pee Wee King / Redd Stewart,Pee Wee King / Redd Stewart,pop,19511118,13,3,17,19520112
+4,5,It's No Sin,Eddy Howard,Eddy Howard,jazz,19510922,14,1,22,19520112
+5,9,Tell Me Why,Four Aces,Four Aces,pop,19511209,19,2,21,19520112
+6,2,Shrimp Boats,Jo Stafford,Jo Stafford,jazz,19511125,12,2,13,19520112
+7,14,Any Time,Eddie Fisher,Eddie Fisher,jazz,19511209,20,3,24,19520112
+8,7,Jealousy,Frankie Laine,Frankie Laine,country / folk,19520105,7,7,5,19520112
+9,6,Cold Cold Heart,Tony Bennett,Tony Bennett,jazz,19510811,15,1,25,19520112
+10,13,Undecided,Ames Brothers / Les Brown,Ames Brothers / Les Brown,pop,19511006,20,6,19,19520112
+11,NEW,Tell Me Why,Eddie Fisher,Eddie Fisher,jazz,19520112,11,7,16,19520112
+12,8,Down Yonder,Del Wood,Del Wood,pop,19510825,19,6,23,19520112
+13,12,It's No Sin,Four Aces,Four Aces,pop,19510908,17,4,21,19520112
+14,11,Because Of You,Tony Bennett,Tony Bennett,jazz,19510630,19,1,30,19520112
+15,10,Charmaine,Mantovani,Mantovani,pop,19511125,17,10,13,19520112
+16,20,Slow Poke,Helen O'Connell,Helen O'Connell,jazz,19520105,20,16,2,19520112
+17,NEW,Mother At Your Feet Is Kneeling,Bobby Wayne,Bobby Wayne,rock,19520112,17,17,1,19520112
+18,NEW,Dance Me Loose,Arthur Godfrey / Chordettes,Arthur Godfrey / Chordettes,pop,19520112,18,12,9,19520112
+19,NEW,Down Yonder,Joe 'Fingers' Carr,Joe 'Fingers' Carr,pop,19520112,19,19,3,19520112
+20,17,Domino,Tony Martin,Tony Martin,rock,19511103,17,10,11,19520112
+1,1,Cry,Johnnie Ray,Johnnie Ray,pop,19511125,18,1,25,19520105
+2,4,Shrimp Boats,Jo Stafford,Jo Stafford,jazz,19511125,12,2,13,19520105
+3,7,Slow Poke,Pee Wee King / Redd Stewart,Pee Wee King / Redd Stewart,pop,19511118,13,3,17,19520105
+4,3,The Little White Cloud That Cried,Johnnie Ray,Johnnie Ray,pop,19511118,20,2,19,19520105
+5,2,It's No Sin,Eddy Howard,Eddy Howard,jazz,19510922,14,1,22,19520105
+6,6,Cold Cold Heart,Tony Bennett,Tony Bennett,jazz,19510811,15,1,25,19520105
+7,NEW,Jealousy,Frankie Laine,Frankie Laine,country / folk,19520105,7,7,5,19520105
+8,11,Down Yonder,Del Wood,Del Wood,pop,19510825,19,6,23,19520105
+9,13,Tell Me Why,Four Aces,Four Aces,pop,19511209,19,2,21,19520105
+10,14,Charmaine,Mantovani,Mantovani,pop,19511125,17,10,13,19520105
+11,9,Because Of You,Tony Bennett,Tony Bennett,jazz,19510630,19,1,30,19520105
+12,12,It's No Sin,Four Aces,Four Aces,pop,19510908,17,4,21,19520105
+13,8,Undecided,Ames Brothers / Les Brown,Ames Brothers / Les Brown,pop,19511006,20,6,19,19520105
+14,10,Any Time,Eddie Fisher,Eddie Fisher,jazz,19511209,20,3,24,19520105
+15,NEW,It's No Sin,Savannah Churchill,Savannah Churchill,pop,19520105,15,15,1,19520105
+16,20,Rudolph The Red Nosed Reindeer,Gene Autry,Gene Autry,country / folk,19511227,20,16,2,19520105
+17,15,Domino,Tony Martin,Tony Martin,rock,19511103,17,10,11,19520105
+18,16,White Christmas,Bing Crosby,Bing Crosby,jazz,19511222,18,16,3,19520105
+19,NEW,Unforgettable,Nat King Cole,Nat King Cole,jazz,19520105,19,19,1,19520105
+20,NEW,Slow Poke,Helen O'Connell,Helen O'Connell,jazz,19520105,20,16,2,19520105
