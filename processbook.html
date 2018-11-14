@@ -8,19 +8,53 @@
     </head>
     <body>
         <h1>Process Book</h1>
+        <p>Team Members:</p>
+        <p>Austin Bricker - 451202 -abricker@wustl.edu</p>
+        <p>Ethan Jaynes - 443837 - ejaynes@wustl.edu</p>
+        <p>Alex Cort - 448170 - alexandrecort@wustl.edu</p>
+        <p>Repository: <a href="https://github.com/washuvis/billboardtrends"><span class="underline">https://github.com/washuvis/billboardtrends</span></a></p>
+
+        <h2 id="overview">Overview</h2>
+
+        <p>Our main motivation was our group members’ mutual interest in seeing musical trends throughout time. During our research for a project, we also noticed that there is a lack of visualizations for musical data, and we thought that we would try our hand at creating a visualization that improved on the pre-existing designs.</p>
+
+        <h2 id="objectives">Objectives</h2>
+
+        <p>The main objective for the project is to create a visualization or a series of visualizations that clearly display musical trends throughout time. This includes things such as visualizing trends in genres, trends in artist dominance over time, and possibly trends in popular covers across different artists. We see several benefits to creating such a visualization. Firstly, the rise and fall of some well-known musical genres are known by most people, but we would like to be able to better visualize these precise changes. Things such as how dominant were certain genres throughout history, at what point could they no longer be considered to be a primary popular style, have there been any revivals of the genre, and so on. We should also be able to see the rise and fall of specific artists, and possibly be identify which artists have lasting appeal, which were one hit wonders, and which had resurgences in popularity over time. As stated before, we discovered that there are not many visualizations this sort of trend information, so we would like our project to fill this gap.</p>
+
+        <h2 id="data-source">Data Source</h2>
+
+        <p>Our main objective when searching for data was to get a dataset that contained a periodic series of data regarding song and artist popularity, going back as far as possible. Popular music sites such as Spotify or Last.fm have large amounts of data for more recent years, but it is difficult to obtain, or is linked to a specific user. We decided to use the Billboard Top 100 hits as they are a consistent musical database with regards to popularity going back to the early 1940’s.</p>
+        <p>Billboard’s official API has been shut down for a number of years, but we were able to locate a well-maintained database at the “Ultimate Music Database” - <a href="http://www.umdmusic.com/"><span class="underline">http://www.umdmusic.com/</span></a>. They unfortunately do not offer an API either. However, during our research, we located a Github user who had created a web-scraping script to fetch all of the data from their site: <a href="https://github.com/mwkling/umdmusic-downloader"><span class="underline">https://github.com/mwkling/umdmusic-downloader</span></a>.</p>
+        <p>The dataset contains information about all songs on the Top 100 list for every week (note: the Top 100 was originally the Top 10, then the Top 20 until about 1955). Every entry in the dataset contains things such as artist, title, chart position, last week’s position, total weeks on the chart, etc.</p>
+        <p>In addition to the information offered by the Billboard data, we also wanted to have information about which genre each of the songs on the charts belonged to. The Last.fm API can provide additional information about the songs in our Billboard dataset, such as genre: <a href="https://www.last.fm/api"><span class="underline">https://www.last.fm/api</span></a>.</p>
         <h2>
             Data Collection & Preparation
         </h2>
         <p>
-            In the planning process for the visualization, we envisioned a dataset containing all of the Billboard song charts as far back as they're available, along 
-            with the corresponding metadata for every song. This metadata would contain standard information like year, artist, and album, as well as less-accessible 
+            In the planning process for the visualization, we envisioned a dataset containing all of the Billboard song charts as far back as they're available, along
+            with the corresponding metadata for every song. This metadata would contain standard information like year, artist, and album, as well as less-accessible
             information like genre.
         </p>
         <p>
             To weave together this dataset, we combined Billboard archives from the <a href="http://umdmusic.com/">Ultimate Music Database</a> with data from the
-            <a href="https://www.last.fm/api">Last.fm API</a>. Last.fm is a website that, among other things, crowdsources genre tags for artists and albums. For 
-            each song in our dataset, we included the corresponding genre for the artist. We decided that using the genre for the artist instead of album would 
-            provide us with the right balance of genre availability and specificity.
+            <a href="https://www.last.fm/api">Last.fm API</a>. Last.fm is a website that, among other things, crowdsources genre tags for artists and albums. For
+            each song in our dataset, we included the corresponding genre for the artist. We decided that using the genre for the artist instead of album would
+            provide us with the right balance of genre availability and specificity. After reviewing the Last.fm genre results, we also decided to ‘bin’ the genres into some more broad arch-genres, and treat the original raw genre data as the subgenres. For example, we received a wide range of genres across time that could all be categorized under a large umbrella, like punk, alt rock, grunge, etc. could all be considered rock. This allows us to view larger trends in music without losing the finer specifics.</p>
         </p>
+
+        <h2 id="visualization-design">Visualization Design</h2>
+        <p>Our main objective is to visualize changes over time. Our visualizations should lend itself to highlighting changes such as changes in Billboard 100 ranking, number of weeks on Billboard 100, popularity of a genre at a given time, etc.</p>
+        <p>Genre popularity: A streamgraph would be a pretty and simple way to show genre popularity. We likely won’t see large month to month changes in genre popularity, so the streamgraph would probably be on a timescale of 5+ years. Because genre popularity values will likely sum to some constant amount (like 100 for the Top 100), a stacked bar chart could also be used to show the data. Even if the values don’t sum to a fixed value, the bars could be normalized to show that the popularity metrics are out of some relatively fixed whole.</p>
+        <p>Billboard Ranking: An alluvial diagram similar to <a href="http://www.brightpointinc.com/2015-nfl-predictions/"><span class="underline">this visualization</span></a> could show ranking changes of songs in the Billboard 100. It could also be used to show genre popularity where the height of a block represents the number of songs of that genre in top 100. Alluvial diagrams are particularly adept at showing data points that flow in and out of the range of data being shown, and this is exactly the case with Billboard songs, artists, and genres.</p>
+        <p>Weekly Billboard 100 Tree Map: While the streamgraph would show long-term changes in genre popularity, one way to visualize genres on a weekly scale would be to incorporate them into a Tree Map. Songs would be grouped based on primary genre. Each song’s tile may be scaled according its ranking. We may scale song tiles in groups of ten (i.e. songs ranked 1-10 have tiles with 10 pixel sides, songs ranked 11-20 have tiles with 7 pixel sides, etc.). If we can get the data, we would like to add the ability for a user to click on a tile and be taken to the song on a streaming platform.</p>
+        <p>Timeline: Allow user to brush over a timeline and adjust the size of the brush to change range captured.</p>
+
+        <h2 id="original-sketches">Original Sketches</h2>
+        <img src="img/Picture1.png">
+        <img src="img/Picture2.png">
+        <img src="img/Picture3.png">
+        <img src="img/Picture4.png">
+        <img src="img/Picture5.png">
     </body>
 </html
