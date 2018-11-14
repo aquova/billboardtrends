@@ -2,7 +2,7 @@
 
 var psv = d3.dsvFormat("|")
 
-d3.request("../data/genre_raw.psv")
+d3.request("https://raw.githubusercontent.com/washuvis/billboardtrends/master/data/genre_raw.psv?token=AXcS7CuHkU_POy_25CXNceWWUCND5C3tks5b9ODdwA%3D%3D")
 .mimeType("text/plain")
 .response(function(data) {
     return psv.parse(data.responseText)
