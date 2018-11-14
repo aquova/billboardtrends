@@ -1,19 +1,19 @@
 // Code for the Tile graph, which will weekly popularity in genres.
 // Used this source as an initial template: https://bl.ocks.org/ganezasan/52fced34d2182483995f0ca3960fe228
 
-const margin = {
+var margin = {
     top: 40,
     right: 10,
     bottom: 10,
     left: 10
 }
-const width = 960
-const height = 500
+const tileWidth = 960
+const tileHeight = 500
 const colorScale = d3.scaleOrdinal().range(d3.schemeCategory20c)
 
 var div = d3.select("#tilegraph").append("div")
-    .attr("width", width)
-    .attr("height", height)
+    .attr("width", tileWidth)
+    .attr("height", tileHeight)
 
 function parseData(d) {
     var output = []
@@ -79,7 +79,7 @@ function parseData(d) {
 function mainTile(raw_data) {
     var data = parseData(raw_data)
 
-    var treemap = d3.treemap().size([width, height])
+    var treemap = d3.treemap().size([tileWidth, tileHeight])
     var root = d3.hierarchy(data).sum((d) => d.value)
     var tree = treemap(root)
 
