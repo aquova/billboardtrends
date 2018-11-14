@@ -3,9 +3,24 @@
     <head>
         <title>Process Book</title>
         <meta charset="utf-8">
+        <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700" rel="stylesheet">
         <link rel="stylesheet" href="css/style.css">
     </head>
     <body>
         <h1>Process Book</h1>
+        <h2>
+            Data Collection & Preparation
+        </h2>
+        <p>
+            In the planning process for the visualization, we envisioned a dataset containing all of the Billboard song charts as far back as they're available, along 
+            with the corresponding metadata for every song. This metadata would contain standard information like year, artist, and album, as well as less-accessible 
+            information like genre.
+        </p>
+        <p>
+            To weave together this dataset, we combined Billboard archives from the <a href="http://umdmusic.com/">Ultimate Music Database</a> with data from the
+            <a href="https://www.last.fm/api">Last.fm API</a>. Last.fm is a website that, among other things, crowdsources genre tags for artists and albums. For 
+            each song in our dataset, we included the corresponding genre for the artist. We decided that using the genre for the artist instead of album would 
+            provide us with the right balance of genre availability and specificity.
+        </p>
     </body>
 </html
