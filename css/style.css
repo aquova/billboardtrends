@@ -1,5 +1,15 @@
 body {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #262626;
+    background-color: #F1F1F1;
+    font-family: 'Roboto', sans-serif;
+    padding: 20px;
+}
+
+h1 { font-weight: 700; }
+h2 { font-weight: 500; }
+
+a {
+    text-decoration: none;
 }
 
 .node {
