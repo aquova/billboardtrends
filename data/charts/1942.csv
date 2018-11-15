@@ -1,521 +1,521 @@
-this_week_position,last_week_position,track,artist,clean_artist,genre,entry_date,entry_position,peak_position,total_weeks,chart_date
-1,1,White Christmas,Bing Crosby & Ken Darby Singers / John Scott Trotter,Bing Crosby,jazz,19421003,9,1,15,19421226
-2,4,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19421107,9,1,23,19421226
-3,3,Praise The Lord And Pass The Ammunition,Kay Kyser & His Orchestra / The Glee Club,Kay Kyser,jazz,19421010,4,2,13,19421226
-4,6,I Had The Craziest Dream,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19421128,9,1,18,19421226
-5,NEW,Dearly Beloved,Glenn Miller & His Orchestra / Skip Nelson,Glenn Miller,jazz,19421226,5,5,3,19421226
-6,5,Mister Five By Five,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19421121,6,2,9,19421226
-7,7,Juke Box Saturday Night,Glenn Miller & His Orchestra / Tex Beneke & Marion Hutton,Glenn Miller,jazz,19421205,9,7,7,19421226
-8,2,When The Lights Go On Again (All Over The World),Vaughn Monroe & His Orchestra,Vaughn Monroe,jazz,19421114,5,2,13,19421226
-9,NEW,Moonlight Becomes You,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,19421226,9,9,1,19421226
-10,NEW,Mister Five By Five,Freddie Slack & His Orchestra / Ella Mae Morse,Freddie Slack,jazz,19421226,10,10,1,19421226
-1,1,White Christmas,Bing Crosby & Ken Darby Singers / John Scott Trotter,Bing Crosby,jazz,19421003,9,1,15,19421219
-2,4,When The Lights Go On Again (All Over The World),Vaughn Monroe & His Orchestra,Vaughn Monroe,jazz,19421114,5,2,13,19421219
-3,3,Praise The Lord And Pass The Ammunition,Kay Kyser & His Orchestra / The Glee Club,Kay Kyser,jazz,19421010,4,2,13,19421219
-4,9,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19421107,9,1,23,19421219
-5,2,Mister Five By Five,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19421121,6,2,9,19421219
-6,5,I Had The Craziest Dream,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19421128,9,1,18,19421219
-7,8,Juke Box Saturday Night,Glenn Miller & His Orchestra / Tex Beneke & Marion Hutton,Glenn Miller,jazz,19421205,9,7,7,19421219
-8,7,Serenade In Blue,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19420912,8,2,15,19421219
-9,NEW,Der Fuehrer's Face,Spike Jones & His City Slickers / Carl Grayson,Spike Jones,pop,19421219,9,9,1,19421219
-10,NEW,Dearly Beloved,Dinah Shore,Dinah Shore,jazz,19421219,10,10,1,19421219
-1,1,White Christmas,Bing Crosby & Ken Darby Singers / John Scott Trotter,Bing Crosby,jazz,19421003,9,1,15,19421212
-2,5,Mister Five By Five,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19421121,6,2,9,19421212
-3,2,Praise The Lord And Pass The Ammunition,Kay Kyser & His Orchestra / The Glee Club,Kay Kyser,jazz,19421010,4,2,13,19421212
-4,3,When The Lights Go On Again (All Over The World),Vaughn Monroe & His Orchestra,Vaughn Monroe,jazz,19421114,5,2,13,19421212
-5,8,I Had The Craziest Dream,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19421128,9,1,18,19421212
-6,NEW,Dearly Beloved,Glenn Miller & His Orchestra / Skip Nelson,Glenn Miller,jazz,19421212,6,6,1,19421212
-7,4,Serenade In Blue,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19420912,8,2,15,19421212
-8,9,Juke Box Saturday Night,Glenn Miller & His Orchestra / Tex Beneke & Marion Hutton,Glenn Miller,jazz,19421205,9,7,7,19421212
-9,7,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19421107,9,1,23,19421212
-10,NEW,Moonlight Becomes You,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,19421212,10,10,1,19421212
-1,1,White Christmas,Bing Crosby & Ken Darby Singers / John Scott Trotter,Bing Crosby,jazz,19421003,9,1,15,19421205
-2,2,Praise The Lord And Pass The Ammunition,Kay Kyser & His Orchestra / The Glee Club,Kay Kyser,jazz,19421010,4,2,13,19421205
-3,7,When The Lights Go On Again (All Over The World),Vaughn Monroe & His Orchestra,Vaughn Monroe,jazz,19421114,5,2,13,19421205
-4,3,Serenade In Blue,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19420912,8,2,15,19421205
-5,6,Mister Five By Five,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19421121,6,2,9,19421205
-6,4,Der Fuehrer's Face,Spike Jones & His City Slickers / Carl Grayson,Spike Jones,pop,19421017,6,3,8,19421205
-7,5,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19421107,9,1,23,19421205
-8,9,I Had The Craziest Dream,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19421128,9,1,18,19421205
-9,NEW,Juke Box Saturday Night,Glenn Miller & His Orchestra / Tex Beneke & Marion Hutton,Glenn Miller,jazz,19421205,9,7,7,19421205
-10,NEW,Mister Five By Five,Freddie Slack & His Orchestra / Ella Mae Morse,Freddie Slack,jazz,19421205,10,10,1,19421205
-1,1,White Christmas,Bing Crosby & Ken Darby Singers / John Scott Trotter,Bing Crosby,jazz,19421003,9,1,15,19421128
-2,2,Praise The Lord And Pass The Ammunition,Kay Kyser & His Orchestra / The Glee Club,Kay Kyser,jazz,19421010,4,2,13,19421128
-3,3,Serenade In Blue,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19420912,8,2,15,19421128
-4,5,Der Fuehrer's Face,Spike Jones & His City Slickers / Carl Grayson,Spike Jones,pop,19421017,6,3,8,19421128
-5,10,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19421107,9,1,23,19421128
-6,6,Mister Five By Five,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19421121,6,2,9,19421128
-7,4,When The Lights Go On Again (All Over The World),Vaughn Monroe & His Orchestra,Vaughn Monroe,jazz,19421114,5,2,13,19421128
-8,8,Praise The Lord And Pass The Ammunition,The Merry Macs,The Merry Macs,pop,19421107,10,8,4,19421128
-9,NEW,I Had The Craziest Dream,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19421128,9,1,18,19421128
-10,NEW,Daybreak,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19421128,10,10,1,19421128
-1,1,White Christmas,Bing Crosby & Ken Darby Singers / John Scott Trotter,Bing Crosby,jazz,19421003,9,1,15,19421121
-2,2,Praise The Lord And Pass The Ammunition,Kay Kyser & His Orchestra / The Glee Club,Kay Kyser,jazz,19421010,4,2,13,19421121
-3,3,Serenade In Blue,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19420912,8,2,15,19421121
-4,5,When The Lights Go On Again (All Over The World),Vaughn Monroe & His Orchestra,Vaughn Monroe,jazz,19421114,5,2,13,19421121
-5,7,Der Fuehrer's Face,Spike Jones & His City Slickers / Carl Grayson,Spike Jones,pop,19421017,6,3,8,19421121
-6,NEW,Mister Five By Five,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19421121,6,2,9,19421121
-7,6,(I've Got A Gal In) Kalamazoo,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,19420725,7,1,18,19421121
-8,10,Praise The Lord And Pass The Ammunition,The Merry Macs,The Merry Macs,pop,19421107,10,8,4,19421121
-9,NEW,Manhattan Serenade,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19421121,9,9,1,19421121
-10,8,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19421107,9,1,23,19421121
-1,1,White Christmas,Bing Crosby & Ken Darby Singers / John Scott Trotter,Bing Crosby,jazz,19421003,9,1,15,19421114
-2,2,Praise The Lord And Pass The Ammunition,Kay Kyser & His Orchestra / The Glee Club,Kay Kyser,jazz,19421010,4,2,13,19421114
-3,5,Serenade In Blue,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19420912,8,2,15,19421114
-4,7,My Devotion,Charlie Spivak & His Orchestra / Garry Stevens,Charlie Spivak,jazz,19420905,4,2,11,19421114
-5,NEW,When The Lights Go On Again (All Over The World),Vaughn Monroe & His Orchestra,Vaughn Monroe,jazz,19421114,5,2,13,19421114
-6,4,(I've Got A Gal In) Kalamazoo,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,19420725,7,1,18,19421114
-7,3,Der Fuehrer's Face,Spike Jones & His City Slickers / Carl Grayson,Spike Jones,pop,19421017,6,3,8,19421114
-8,9,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19421107,9,1,23,19421114
-9,6,Strip Polka,The Andrews Sisters,The Andrews Sisters,jazz,19421024,7,6,4,19421114
-10,10,Praise The Lord And Pass The Ammunition,The Merry Macs,The Merry Macs,pop,19421107,10,8,4,19421114
-1,1,White Christmas,Bing Crosby & Ken Darby Singers / John Scott Trotter,Bing Crosby,jazz,19421003,9,1,15,19421107
-2,2,Praise The Lord And Pass The Ammunition,Kay Kyser & His Orchestra / The Glee Club,Kay Kyser,jazz,19421010,4,2,13,19421107
-3,5,Der Fuehrer's Face,Spike Jones & His City Slickers / Carl Grayson,Spike Jones,pop,19421017,6,3,8,19421107
-4,4,(I've Got A Gal In) Kalamazoo,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,19420725,7,1,18,19421107
-5,3,Serenade In Blue,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19420912,8,2,15,19421107
-6,6,Strip Polka,The Andrews Sisters,The Andrews Sisters,jazz,19421024,7,6,4,19421107
-7,7,My Devotion,Charlie Spivak & His Orchestra / Garry Stevens,Charlie Spivak,jazz,19420905,4,2,11,19421107
-8,8,My Devotion,Vaughn Monroe & His Orchestra,Vaughn Monroe,jazz,19421017,5,5,4,19421107
-9,NEW,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19421107,9,1,23,19421107
-10,NEW,Praise The Lord And Pass The Ammunition,The Merry Macs,The Merry Macs,pop,19421107,10,8,4,19421107
-1,1,White Christmas,Bing Crosby & Ken Darby Singers / John Scott Trotter,Bing Crosby,jazz,19421003,9,1,15,19421031
-2,2,Praise The Lord And Pass The Ammunition,Kay Kyser & His Orchestra / The Glee Club,Kay Kyser,jazz,19421010,4,2,13,19421031
-3,4,Serenade In Blue,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19420912,8,2,15,19421031
-4,3,(I've Got A Gal In) Kalamazoo,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,19420725,7,1,18,19421031
-5,6,Der Fuehrer's Face,Spike Jones & His City Slickers / Carl Grayson,Spike Jones,pop,19421017,6,3,8,19421031
-6,7,Strip Polka,The Andrews Sisters,The Andrews Sisters,jazz,19421024,7,6,4,19421031
-7,5,My Devotion,Charlie Spivak & His Orchestra / Garry Stevens,Charlie Spivak,jazz,19420905,4,2,11,19421031
-8,8,My Devotion,Vaughn Monroe & His Orchestra,Vaughn Monroe,jazz,19421017,5,5,4,19421031
-9,10,When The Lights Go On Again (All Over The World),Vaughn Monroe & His Orchestra,Vaughn Monroe,jazz,19421024,10,9,2,19421031
-10,NEW,Daybreak,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19421031,10,10,1,19421031
-1,2,White Christmas,Bing Crosby & Ken Darby Singers / John Scott Trotter,Bing Crosby,jazz,19421003,9,1,15,19421024
-2,3,Praise The Lord And Pass The Ammunition,Kay Kyser & His Orchestra / The Glee Club,Kay Kyser,jazz,19421010,4,2,13,19421024
-3,1,(I've Got A Gal In) Kalamazoo,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,19420725,7,1,18,19421024
-4,4,Serenade In Blue,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19420912,8,2,15,19421024
-5,8,My Devotion,Charlie Spivak & His Orchestra / Garry Stevens,Charlie Spivak,jazz,19420905,4,2,11,19421024
-6,6,Der Fuehrer's Face,Spike Jones & His City Slickers / Carl Grayson,Spike Jones,pop,19421017,6,3,8,19421024
-7,NEW,Strip Polka,The Andrews Sisters,The Andrews Sisters,jazz,19421024,7,6,4,19421024
-8,5,My Devotion,Vaughn Monroe & His Orchestra,Vaughn Monroe,jazz,19421017,5,5,4,19421024
-9,NEW,Just As Though You Were Here,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19421024,9,9,1,19421024
-10,NEW,When The Lights Go On Again (All Over The World),Vaughn Monroe & His Orchestra,Vaughn Monroe,jazz,19421024,10,9,2,19421024
-1,1,(I've Got A Gal In) Kalamazoo,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,19420725,7,1,18,19421017
-2,3,White Christmas,Bing Crosby & Ken Darby Singers / John Scott Trotter,Bing Crosby,jazz,19421003,9,1,15,19421017
-3,4,Praise The Lord And Pass The Ammunition,Kay Kyser & His Orchestra / The Glee Club,Kay Kyser,jazz,19421010,4,2,13,19421017
-4,5,Serenade In Blue,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19420912,8,2,15,19421017
-5,NEW,My Devotion,Vaughn Monroe & His Orchestra,Vaughn Monroe,jazz,19421017,5,5,4,19421017
-6,NEW,Der Fuehrer's Face,Spike Jones & His City Slickers / Carl Grayson,Spike Jones,pop,19421017,6,3,8,19421017
-7,7,Strip Polka,Johnny Mercer & The Mellowaires,Johnny Mercer,jazz,19421003,8,7,3,19421017
-8,2,My Devotion,Charlie Spivak & His Orchestra / Garry Stevens,Charlie Spivak,jazz,19420905,4,2,11,19421017
-9,NEW,Amen,Abe Lyman & His Orchestra / Rose Blane,Abe Lyman,pop,19421017,9,9,1,19421017
-10,NEW,Strip Polka,Kay Kyser & His Orchestra / Jack Martin & The Glee Club,Kay Kyser,jazz,19421017,10,10,1,19421017
-1,1,(I've Got A Gal In) Kalamazoo,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,19420725,7,1,18,19421010
-2,3,My Devotion,Charlie Spivak & His Orchestra / Garry Stevens,Charlie Spivak,jazz,19420905,4,2,11,19421010
-3,9,White Christmas,Bing Crosby & Ken Darby Singers / John Scott Trotter,Bing Crosby,jazz,19421003,9,1,15,19421010
-4,NEW,Praise The Lord And Pass The Ammunition,Kay Kyser & His Orchestra / The Glee Club,Kay Kyser,jazz,19421010,4,2,13,19421010
-5,2,Serenade In Blue,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19420912,8,2,15,19421010
-6,10,He Wears A Pair Of Silver Wings,Kay Kyser & His Orchestra / Harry Babbitt,Kay Kyser,jazz,19420801,7,2,11,19421010
-7,8,Strip Polka,Johnny Mercer & The Mellowaires,Johnny Mercer,jazz,19421003,8,7,3,19421010
-8,NEW,I Left My Heart At The Stage Door Canteen,Charlie Spivak & His Orchestra / Garry Stevens,Charlie Spivak,jazz,19421010,8,8,1,19421010
-9,7,I Left My Heart At The Stage Door Canteen,Sammy Kaye & His Orchestra / Don Cornell,Sammy Kaye,jazz,19420829,8,3,7,19421010
-10,NEW,Just As Though You Were Here,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19421010,10,10,1,19421010
-1,1,(I've Got A Gal In) Kalamazoo,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,19420725,7,1,18,19421003
-2,7,Serenade In Blue,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19420912,8,2,15,19421003
-3,2,My Devotion,Charlie Spivak & His Orchestra / Garry Stevens,Charlie Spivak,jazz,19420905,4,2,11,19421003
-4,NEW,Amen,Abe Lyman / Rose Blane,Abe Lyman / Rose Blane,pop,19421003,4,4,1,19421003
-5,10,Strip Polka,Kay Kyser & His Orchestra / Jack Martin & The Glee Club,Kay Kyser,jazz,19420926,10,5,2,19421003
-6,5,Take Me,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19420919,5,5,3,19421003
-7,4,I Left My Heart At The Stage Door Canteen,Sammy Kaye & His Orchestra / Don Cornell,Sammy Kaye,jazz,19420829,8,3,7,19421003
-8,NEW,Strip Polka,Johnny Mercer & The Mellowaires,Johnny Mercer,jazz,19421003,8,7,3,19421003
-9,NEW,White Christmas,Bing Crosby & Ken Darby Singers / John Scott Trotter,Bing Crosby,jazz,19421003,9,1,15,19421003
-10,6,He Wears A Pair Of Silver Wings,Kay Kyser & His Orchestra / Harry Babbitt,Kay Kyser,jazz,19420801,7,2,11,19421003
-1,1,(I've Got A Gal In) Kalamazoo,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,19420725,7,1,18,19420926
-2,3,My Devotion,Charlie Spivak & His Orchestra / Garry Stevens,Charlie Spivak,jazz,19420905,4,2,11,19420926
-3,NEW,Just As Though You Were Here,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19420926,3,3,1,19420926
-4,4,I Left My Heart At The Stage Door Canteen,Sammy Kaye & His Orchestra / Don Cornell,Sammy Kaye,jazz,19420829,8,3,7,19420926
-5,5,Take Me,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19420919,5,5,3,19420926
-6,2,He Wears A Pair Of Silver Wings,Kay Kyser & His Orchestra / Harry Babbitt,Kay Kyser,jazz,19420801,7,2,11,19420926
-7,7,Serenade In Blue,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19420912,8,2,15,19420926
-8,10,Strip Polka,Alvino Ray & His Orchestra & Chorus / The Four King Sisters,Alvino Ray,jazz,19420919,10,8,2,19420926
-9,NEW,He's My Guy,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19420926,9,9,1,19420926
-10,NEW,Strip Polka,Kay Kyser & His Orchestra / Jack Martin & The Glee Club,Kay Kyser,jazz,19420926,10,5,2,19420926
-1,1,(I've Got A Gal In) Kalamazoo,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,19420725,7,1,18,19420919
-2,2,He Wears A Pair Of Silver Wings,Kay Kyser & His Orchestra / Harry Babbitt,Kay Kyser,jazz,19420801,7,2,11,19420919
-3,6,My Devotion,Charlie Spivak & His Orchestra / Garry Stevens,Charlie Spivak,jazz,19420905,4,2,11,19420919
-4,3,I Left My Heart At The Stage Door Canteen,Sammy Kaye & His Orchestra / Don Cornell,Sammy Kaye,jazz,19420829,8,3,7,19420919
-5,NEW,Take Me,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19420919,5,5,3,19420919
-6,5,Strictly Instrumental,Harry James & His Music Makers,Harry James,jazz,19420905,8,5,3,19420919
-7,8,Serenade In Blue,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19420912,8,2,15,19420919
-8,4,"Jingle, Jangle, Jingle",Kay Kyser & His Orchestra / Harry Babbitt & Julie Conway,Kay Kyser,jazz,19420627,4,1,13,19420919
-9,9,Amen,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,19420829,9,5,4,19420919
-10,NEW,Strip Polka,Alvino Ray & His Orchestra & Chorus / The Four King Sisters,Alvino Ray,jazz,19420919,10,8,2,19420919
-1,1,(I've Got A Gal In) Kalamazoo,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,19420725,7,1,18,19420912
-2,2,He Wears A Pair Of Silver Wings,Kay Kyser & His Orchestra / Harry Babbitt,Kay Kyser,jazz,19420801,7,2,11,19420912
-3,10,I Left My Heart At The Stage Door Canteen,Sammy Kaye & His Orchestra / Don Cornell,Sammy Kaye,jazz,19420829,8,3,7,19420912
-4,3,"Jingle, Jangle, Jingle",Kay Kyser & His Orchestra / Harry Babbitt & Julie Conway,Kay Kyser,jazz,19420627,4,1,13,19420912
-5,8,Strictly Instrumental,Harry James & His Music Makers,Harry James,jazz,19420905,8,5,3,19420912
-6,4,My Devotion,Charlie Spivak & His Orchestra / Garry Stevens,Charlie Spivak,jazz,19420905,4,2,11,19420912
-7,9,Strip Polka,Johnny Mercer & The Mellowaires,Johnny Mercer,jazz,19420829,7,7,3,19420912
-8,NEW,Serenade In Blue,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19420912,8,2,15,19420912
-9,5,Amen,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,19420829,9,5,4,19420912
-10,NEW,I Left My Heart At The Stage Door Canteen,Charlie Spivak & His Orchestra / Garry Stevens,Charlie Spivak,jazz,19420912,10,10,1,19420912
-1,3,(I've Got A Gal In) Kalamazoo,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,19420725,7,1,18,19420905
-2,2,He Wears A Pair Of Silver Wings,Kay Kyser & His Orchestra / Harry Babbitt,Kay Kyser,jazz,19420801,7,2,11,19420905
-3,1,"Jingle, Jangle, Jingle",Kay Kyser & His Orchestra / Harry Babbitt & Julie Conway,Kay Kyser,jazz,19420627,4,1,13,19420905
-4,NEW,My Devotion,Charlie Spivak & His Orchestra / Garry Stevens,Charlie Spivak,jazz,19420905,4,2,11,19420905
-5,9,Amen,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,19420829,9,5,4,19420905
-6,5,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,19420411,8,2,22,19420905
-7,4,Idaho,Benny Goodman & His Orchestra / Dick Haymes,Benny Goodman,jazz,19420822,6,4,3,19420905
-8,NEW,Strictly Instrumental,Harry James & His Music Makers,Harry James,jazz,19420905,8,5,3,19420905
-9,7,Strip Polka,Johnny Mercer & The Mellowaires,Johnny Mercer,jazz,19420829,7,7,3,19420905
-10,8,I Left My Heart At The Stage Door Canteen,Sammy Kaye & His Orchestra / Don Cornell,Sammy Kaye,jazz,19420829,8,3,7,19420905
-1,1,"Jingle, Jangle, Jingle",Kay Kyser & His Orchestra / Harry Babbitt & Julie Conway,Kay Kyser,jazz,19420627,4,1,13,19420829
-2,4,He Wears A Pair Of Silver Wings,Kay Kyser & His Orchestra / Harry Babbitt,Kay Kyser,jazz,19420801,7,2,11,19420829
-3,2,(I've Got A Gal In) Kalamazoo,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,19420725,7,1,18,19420829
-4,6,Idaho,Benny Goodman & His Orchestra / Dick Haymes,Benny Goodman,jazz,19420822,6,4,3,19420829
-5,3,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,19420411,8,2,22,19420829
-6,NEW,Amen,Abe Lyman & His Orchestra & Chorus / Rose Blane,Abe Lyman,pop,19420829,6,6,1,19420829
-7,NEW,Strip Polka,Johnny Mercer & The Mellowaires,Johnny Mercer,jazz,19420829,7,7,3,19420829
-8,NEW,I Left My Heart At The Stage Door Canteen,Sammy Kaye & His Orchestra / Don Cornell,Sammy Kaye,jazz,19420829,8,3,7,19420829
-9,NEW,Amen,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,19420829,9,5,4,19420829
-10,NEW,My Devotion,Vaughn Monroe & His Orchestra,Vaughn Monroe,jazz,19420829,10,10,1,19420829
-1,1,"Jingle, Jangle, Jingle",Kay Kyser & His Orchestra / Harry Babbitt & Julie Conway,Kay Kyser,jazz,19420627,4,1,13,19420822
-2,4,(I've Got A Gal In) Kalamazoo,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,19420725,7,1,18,19420822
-3,2,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,19420411,8,2,22,19420822
-4,5,He Wears A Pair Of Silver Wings,Kay Kyser & His Orchestra / Harry Babbitt,Kay Kyser,jazz,19420801,7,2,11,19420822
-5,3,Sleepy Lagoon,Harry James & His Music Makers,Harry James,jazz,19420815,3,3,2,19420822
-6,NEW,Idaho,Benny Goodman & His Orchestra / Dick Haymes,Benny Goodman,jazz,19420822,6,4,3,19420822
-7,7,Strictly Instrumental,Harry James & His Music Makers,Harry James,jazz,19420801,8,6,4,19420822
-8,6,Just As Though You Were Here,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19420718,10,6,6,19420822
-9,9,Cow-Cow Boogie,Freddie Slack & His Orchestra / Ella Mae Morse,Freddie Slack,jazz,19420815,9,9,2,19420822
-10,NEW,My Devotion,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19420822,10,10,1,19420822
-1,1,"Jingle, Jangle, Jingle",Kay Kyser & His Orchestra / Harry Babbitt & Julie Conway,Kay Kyser,jazz,19420627,4,1,13,19420815
-2,2,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,19420411,8,2,22,19420815
-3,NEW,Sleepy Lagoon,Harry James & His Music Makers,Harry James,jazz,19420815,3,3,2,19420815
-4,3,(I've Got A Gal In) Kalamazoo,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,19420725,7,1,18,19420815
-5,4,He Wears A Pair Of Silver Wings,Kay Kyser & His Orchestra / Harry Babbitt,Kay Kyser,jazz,19420801,7,2,11,19420815
-6,7,Just As Though You Were Here,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19420718,10,6,6,19420815
-7,6,Strictly Instrumental,Harry James & His Music Makers,Harry James,jazz,19420801,8,6,4,19420815
-8,5,"Jingle, Jangle, Jingle",The Merry Macs,The Merry Macs,pop,19420627,9,4,8,19420815
-9,NEW,Cow-Cow Boogie,Freddie Slack & His Orchestra / Ella Mae Morse,Freddie Slack,jazz,19420815,9,9,2,19420815
-10,NEW,Take Me,Benny Goodman & His Orchestra / Dick Haymes,Benny Goodman,jazz,19420815,10,10,1,19420815
-1,1,"Jingle, Jangle, Jingle",Kay Kyser & His Orchestra / Harry Babbitt & Julie Conway,Kay Kyser,jazz,19420627,4,1,13,19420808
-2,2,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,19420411,8,2,22,19420808
-3,4,(I've Got A Gal In) Kalamazoo,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,19420725,7,1,18,19420808
-4,7,He Wears A Pair Of Silver Wings,Kay Kyser & His Orchestra / Harry Babbitt,Kay Kyser,jazz,19420801,7,2,11,19420808
-5,5,"Jingle, Jangle, Jingle",The Merry Macs,The Merry Macs,pop,19420627,9,4,8,19420808
-6,8,Strictly Instrumental,Harry James & His Music Makers,Harry James,jazz,19420801,8,6,4,19420808
-7,6,Just As Though You Were Here,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19420718,10,6,6,19420808
-8,9,Sweet Eloise,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19420725,10,8,3,19420808
-9,NEW,One Dozen Roses,Harry James & His Music Makers / Jimmy Saunders,Harry James,jazz,19420808,9,9,1,19420808
-10,10,Jersey Bounce,Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,19420328,7,2,20,19420808
-1,1,"Jingle, Jangle, Jingle",Kay Kyser & His Orchestra / Harry Babbitt & Julie Conway,Kay Kyser,jazz,19420627,4,1,13,19420801
-2,3,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,19420411,8,2,22,19420801
-3,2,Sleepy Lagoon,Harry James & His Music Makers,Harry James,jazz,19420418,10,1,16,19420801
-4,7,(I've Got A Gal In) Kalamazoo,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,19420725,7,1,18,19420801
-5,5,"Jingle, Jangle, Jingle",The Merry Macs,The Merry Macs,pop,19420627,9,4,8,19420801
-6,6,Just As Though You Were Here,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19420718,10,6,6,19420801
-7,NEW,He Wears A Pair Of Silver Wings,Kay Kyser & His Orchestra / Harry Babbitt,Kay Kyser,jazz,19420801,7,2,11,19420801
-8,NEW,Strictly Instrumental,Harry James & His Music Makers,Harry James,jazz,19420801,8,6,4,19420801
-9,10,Sweet Eloise,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19420725,10,8,3,19420801
-10,9,Jersey Bounce,Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,19420328,7,2,20,19420801
-1,1,"Jingle, Jangle, Jingle",Kay Kyser & His Orchestra / Harry Babbitt & Julie Conway,Kay Kyser,jazz,19420627,4,1,13,19420725
-2,2,Sleepy Lagoon,Harry James & His Music Makers,Harry James,jazz,19420418,10,1,16,19420725
-3,3,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,19420411,8,2,22,19420725
-4,6,One Dozen Roses,Harry James & His Music Masters / Jimmy Saunders,Harry James,jazz,19420530,7,4,9,19420725
-5,4,"Jingle, Jangle, Jingle",The Merry Macs,The Merry Macs,pop,19420627,9,4,8,19420725
-6,10,Just As Though You Were Here,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19420718,10,6,6,19420725
-7,NEW,(I've Got A Gal In) Kalamazoo,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,19420725,7,1,18,19420725
-8,NEW,Johnny Doughboy Found A Rose In Ireland,Kay Kyser & His Orchestra / The Glee Club,Kay Kyser,jazz,19420725,8,8,1,19420725
-9,9,Jersey Bounce,Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,19420328,7,2,20,19420725
-10,NEW,Sweet Eloise,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19420725,10,8,3,19420725
-1,1,"Jingle, Jangle, Jingle",Kay Kyser & His Orchestra / Harry Babbitt & Julie Conway,Kay Kyser,jazz,19420627,4,1,13,19420718
-2,3,Sleepy Lagoon,Harry James & His Music Makers,Harry James,jazz,19420418,10,1,16,19420718
-3,2,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,19420411,8,2,22,19420718
-4,4,"Jingle, Jangle, Jingle",The Merry Macs,The Merry Macs,pop,19420627,9,4,8,19420718
-5,5,Tangerine,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19420411,7,1,15,19420718
-6,6,One Dozen Roses,Harry James & His Music Masters / Jimmy Saunders,Harry James,jazz,19420530,7,4,9,19420718
-7,7,Don't Sit Under The Apple Tree,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,19420425,8,2,13,19420718
-8,NEW,One Dozen Roses,Dinah Shore,Dinah Shore,jazz,19420718,8,8,1,19420718
-9,10,Jersey Bounce,Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,19420328,7,2,20,19420718
-10,NEW,Just As Though You Were Here,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19420718,10,6,6,19420718
-1,3,"Jingle, Jangle, Jingle",Kay Kyser & His Orchestra / Harry Babbitt & Julie Conway,Kay Kyser,jazz,19420627,4,1,13,19420711
-2,2,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,19420411,8,2,22,19420711
-3,1,Sleepy Lagoon,Harry James & His Music Makers,Harry James,jazz,19420418,10,1,16,19420711
-4,4,"Jingle, Jangle, Jingle",The Merry Macs,The Merry Macs,pop,19420627,9,4,8,19420711
-5,9,Tangerine,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19420411,7,1,15,19420711
-6,5,One Dozen Roses,Harry James & His Music Masters / Jimmy Saunders,Harry James,jazz,19420530,7,4,9,19420711
-7,6,Don't Sit Under The Apple Tree,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,19420425,8,2,13,19420711
-8,NEW,Johnny Doughboy Found A Rose In Ireland,Kay Kyser & His Orchestra / The Glee Club,Kay Kyser,jazz,19420711,8,8,1,19420711
-9,NEW,One Dozen Roses,Glen Gray & The Casa Loma Orchestra / Pee Wee Hunt,Glen Gray,pop,19420711,9,9,1,19420711
-10,7,Jersey Bounce,Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,19420328,7,2,20,19420711
-1,1,Sleepy Lagoon,Harry James & His Music Makers,Harry James,jazz,19420418,10,1,16,19420704
-2,2,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,19420411,8,2,22,19420704
-3,4,"Jingle, Jangle, Jingle",Kay Kyser & His Orchestra / Harry Babbitt & Julie Conway,Kay Kyser,jazz,19420627,4,1,13,19420704
-4,9,"Jingle, Jangle, Jingle",The Merry Macs,The Merry Macs,pop,19420627,9,4,8,19420704
-5,5,One Dozen Roses,Harry James & His Music Masters / Jimmy Saunders,Harry James,jazz,19420530,7,4,9,19420704
-6,6,Don't Sit Under The Apple Tree,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,19420425,8,2,13,19420704
-7,3,Jersey Bounce,Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,19420328,7,2,20,19420704
-8,10,One Dozen Roses,Dinah Shore,Dinah Shore,jazz,19420613,9,8,4,19420704
-9,7,Tangerine,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19420411,7,1,15,19420704
-10,8,Skylark,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,19420425,10,7,11,19420704
-1,1,Sleepy Lagoon,Harry James & His Music Makers,Harry James,jazz,19420418,10,1,16,19420627
-2,2,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,19420411,8,2,22,19420627
-3,5,Jersey Bounce,Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,19420328,7,2,20,19420627
-4,NEW,"Jingle, Jangle, Jingle",Kay Kyser & His Orchestra / Harry Babbitt & Julie Conway,Kay Kyser,jazz,19420627,4,1,13,19420627
-5,6,One Dozen Roses,Harry James & His Music Masters / Jimmy Saunders,Harry James,jazz,19420530,7,4,9,19420627
-6,4,Don't Sit Under The Apple Tree,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,19420425,8,2,13,19420627
-7,3,Tangerine,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19420411,7,1,15,19420627
-8,8,Skylark,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,19420425,10,7,11,19420627
-9,NEW,"Jingle, Jangle, Jingle",The Merry Macs,The Merry Macs,pop,19420627,9,4,8,19420627
-10,10,One Dozen Roses,Dinah Shore,Dinah Shore,jazz,19420613,9,8,4,19420627
-1,1,Sleepy Lagoon,Harry James & His Music Makers,Harry James,jazz,19420418,10,1,16,19420620
-2,2,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,19420411,8,2,22,19420620
-3,5,Tangerine,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19420411,7,1,15,19420620
-4,4,Don't Sit Under The Apple Tree,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,19420425,8,2,13,19420620
-5,3,Jersey Bounce,Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,19420328,7,2,20,19420620
-6,6,One Dozen Roses,Harry James & His Music Masters / Jimmy Saunders,Harry James,jazz,19420530,7,4,9,19420620
-7,NEW,Somebody Else Is Taking My Place,Russ Morgan & His Orchestra / The Morganaires,Russ Morgan,pop,19420620,7,7,1,19420620
-8,7,Skylark,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,19420425,10,7,11,19420620
-9,NEW,Johnny Doughboy Found A Rose In Ireland,Guy Lombardo & His Royal Canadians / Kenny Gardner,Guy Lombardo,jazz,19420620,9,9,1,19420620
-10,9,One Dozen Roses,Dinah Shore,Dinah Shore,jazz,19420613,9,8,4,19420620
-1,3,Sleepy Lagoon,Harry James & His Music Makers,Harry James,jazz,19420418,10,1,16,19420613
-2,4,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,19420411,8,2,22,19420613
-3,5,Jersey Bounce,Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,19420328,7,2,20,19420613
-4,2,Don't Sit Under The Apple Tree,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,19420425,8,2,13,19420613
-5,1,Tangerine,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19420411,7,1,15,19420613
-6,7,One Dozen Roses,Harry James & His Music Masters / Jimmy Saunders,Harry James,jazz,19420530,7,4,9,19420613
-7,10,Skylark,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,19420425,10,7,11,19420613
-8,NEW,Johnny Doughboy Found A Rose In Ireland,Kay Kyser & His Orchestra / The Glee Club,Kay Kyser,jazz,19420613,8,8,1,19420613
-9,NEW,One Dozen Roses,Dinah Shore,Dinah Shore,jazz,19420613,9,8,4,19420613
-10,8,One Dozen Roses,Glen Gray & The Casa Loma Orchestra / Pee Wee Hunt,Glen Gray,pop,19420606,8,8,2,19420613
-1,1,Tangerine,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19420411,7,1,15,19420606
-2,2,Don't Sit Under The Apple Tree,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,19420425,8,2,13,19420606
-3,4,Sleepy Lagoon,Harry James & His Music Makers,Harry James,jazz,19420418,10,1,16,19420606
-4,5,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,19420411,8,2,22,19420606
-5,3,Jersey Bounce,Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,19420328,7,2,20,19420606
-6,6,Somebody Else Is Taking My Place,Russ Morgan & His Orchestra / The Morganaires,Russ Morgan,pop,19420502,6,5,6,19420606
-7,7,One Dozen Roses,Harry James & His Music Masters / Jimmy Saunders,Harry James,jazz,19420530,7,4,9,19420606
-8,NEW,One Dozen Roses,Glen Gray & The Casa Loma Orchestra / Pee Wee Hunt,Glen Gray,pop,19420606,8,8,2,19420606
-9,NEW,Jersey Bounce,Jimmy Dorsey & His Orchestra,Jimmy Dorsey & His Orchestra,jazz,19420606,9,9,1,19420606
-10,8,Skylark,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,19420425,10,7,11,19420606
-1,1,Tangerine,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19420411,7,1,15,19420530
-2,3,Don't Sit Under The Apple Tree,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,19420425,8,2,13,19420530
-3,2,Jersey Bounce,Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,19420328,7,2,20,19420530
-4,5,Sleepy Lagoon,Harry James & His Music Makers,Harry James,jazz,19420418,10,1,16,19420530
-5,4,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,19420411,8,2,22,19420530
-6,6,Somebody Else Is Taking My Place,Russ Morgan & His Orchestra / The Morganaires,Russ Morgan,pop,19420502,6,5,6,19420530
-7,NEW,One Dozen Roses,Harry James & His Music Masters / Jimmy Saunders,Harry James,jazz,19420530,7,4,9,19420530
-8,7,Skylark,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,19420425,10,7,11,19420530
-9,NEW,Miss You,Bing Crosby,Bing Crosby,jazz,19420530,9,9,1,19420530
-10,10,I Don't Want To Walk Without You,Harry James & His Music Masters / Helen Forrest,Harry James,jazz,19420523,10,10,2,19420530
-1,1,Tangerine,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19420411,7,1,15,19420523
-2,2,Jersey Bounce,Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,19420328,7,2,20,19420523
-3,3,Don't Sit Under The Apple Tree,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,19420425,8,2,13,19420523
-4,4,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,19420411,8,2,22,19420523
-5,6,Sleepy Lagoon,Harry James & His Music Makers,Harry James,jazz,19420418,10,1,16,19420523
-6,5,Somebody Else Is Taking My Place,Russ Morgan & His Orchestra / The Morganaires,Russ Morgan,pop,19420502,6,5,6,19420523
-7,8,Skylark,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,19420425,10,7,11,19420523
-8,7,Moonlight Cocktail,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19420214,5,1,15,19420523
-9,NEW,A String Of Pearls,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,19420523,9,9,1,19420523
-10,NEW,I Don't Want To Walk Without You,Harry James & His Music Masters / Helen Forrest,Harry James,jazz,19420523,10,10,2,19420523
-1,1,Tangerine,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19420411,7,1,15,19420516
-2,2,Jersey Bounce,Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,19420328,7,2,20,19420516
-3,5,Don't Sit Under The Apple Tree,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,19420425,8,2,13,19420516
-4,6,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,19420411,8,2,22,19420516
-5,10,Somebody Else Is Taking My Place,Russ Morgan & His Orchestra / The Morganaires,Russ Morgan,pop,19420502,6,5,6,19420516
-6,4,Sleepy Lagoon,Harry James & His Music Makers,Harry James,jazz,19420418,10,1,16,19420516
-7,3,Moonlight Cocktail,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19420214,5,1,15,19420516
-8,8,Skylark,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,19420425,10,7,11,19420516
-9,7,Somebody Else Is Taking My Place,Benny Goodman & His Orchestra / Peggy Lee,Benny Goodman & His Orchestra / Peggy Lee,jazz,19420321,6,5,9,19420516
-10,NEW,Always In My Heart,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,19420516,10,10,1,19420516
-1,1,Tangerine,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19420411,7,1,15,19420509
-2,2,Jersey Bounce,Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,19420328,7,2,20,19420509
-3,4,Moonlight Cocktail,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19420214,5,1,15,19420509
-4,10,Sleepy Lagoon,Harry James & His Music Makers,Harry James,jazz,19420418,10,1,16,19420509
-5,5,Don't Sit Under The Apple Tree,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,19420425,8,2,13,19420509
-6,3,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,19420411,8,2,22,19420509
-7,9,Somebody Else Is Taking My Place,Benny Goodman & His Orchestra / Peggy Lee,Benny Goodman & His Orchestra / Peggy Lee,jazz,19420321,6,5,9,19420509
-8,7,Skylark,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,19420425,10,7,11,19420509
-9,NEW,A String Of Pearls,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,19420509,9,9,1,19420509
-10,6,Somebody Else Is Taking My Place,Russ Morgan & His Orchestra / The Morganaires,Russ Morgan,pop,19420502,6,5,6,19420509
-1,3,Tangerine,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19420411,7,1,15,19420502
-2,2,Jersey Bounce,Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,19420328,7,2,20,19420502
-3,7,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,19420411,8,2,22,19420502
-4,1,Moonlight Cocktail,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19420214,5,1,15,19420502
-5,8,Don't Sit Under The Apple Tree,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,19420425,8,2,13,19420502
-6,NEW,Somebody Else Is Taking My Place,Russ Morgan & His Orchestra / The Morganaires,Russ Morgan,pop,19420502,6,5,6,19420502
-7,10,Skylark,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,19420425,10,7,11,19420502
-8,4,I Don't Want To Walk Without You,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19420221,10,2,11,19420502
-9,5,Somebody Else Is Taking My Place,Benny Goodman & His Orchestra / Peggy Lee,Benny Goodman & His Orchestra / Peggy Lee,jazz,19420321,6,5,9,19420502
-10,9,Sleepy Lagoon,Harry James & His Music Makers,Harry James,jazz,19420418,10,1,16,19420502
-1,1,Moonlight Cocktail,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19420214,5,1,15,19420425
-2,2,Jersey Bounce,Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,19420328,7,2,20,19420425
-3,4,Tangerine,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19420411,7,1,15,19420425
-4,3,I Don't Want To Walk Without You,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19420221,10,2,11,19420425
-5,7,Somebody Else Is Taking My Place,Benny Goodman & His Orchestra / Peggy Lee,Benny Goodman & His Orchestra / Peggy Lee,jazz,19420321,6,5,9,19420425
-6,6,A String Of Pearls,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,19420117,10,1,15,19420425
-7,8,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,19420411,8,2,22,19420425
-8,NEW,Don't Sit Under The Apple Tree,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,19420425,8,2,13,19420425
-9,10,Sleepy Lagoon,Harry James & His Music Makers,Harry James,jazz,19420418,10,1,16,19420425
-10,NEW,Skylark,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,19420425,10,7,11,19420425
-1,1,Moonlight Cocktail,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19420214,5,1,15,19420418
-2,3,Jersey Bounce,Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,19420328,7,2,20,19420418
-3,2,I Don't Want To Walk Without You,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19420221,10,2,11,19420418
-4,7,Tangerine,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19420411,7,1,15,19420418
-5,5,Somebody Else Is Taking My Place,Russ Morgan & His Orchestra / The Morganaires,Russ Morgan,pop,19420328,10,5,4,19420418
-6,4,A String Of Pearls,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,19420117,10,1,15,19420418
-7,6,Somebody Else Is Taking My Place,Benny Goodman & His Orchestra / Peggy Lee,Benny Goodman & His Orchestra / Peggy Lee,jazz,19420321,6,5,9,19420418
-8,8,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,19420411,8,2,22,19420418
-9,NEW,I Remember You,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19420418,9,9,1,19420418
-10,NEW,Sleepy Lagoon,Harry James & His Music Makers,Harry James,jazz,19420418,10,1,16,19420418
-1,1,Moonlight Cocktail,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19420214,5,1,15,19420411
-2,2,I Don't Want To Walk Without You,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19420221,10,2,11,19420411
-3,4,Jersey Bounce,Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,19420328,7,2,20,19420411
-4,3,A String Of Pearls,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,19420117,10,1,15,19420411
-5,8,Somebody Else Is Taking My Place,Russ Morgan & His Orchestra / The Morganaires,Russ Morgan,pop,19420328,10,5,4,19420411
-6,5,Somebody Else Is Taking My Place,Benny Goodman & His Orchestra / Peggy Lee,Benny Goodman & His Orchestra / Peggy Lee,jazz,19420321,6,5,9,19420411
-7,NEW,Tangerine,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19420411,7,1,15,19420411
-8,NEW,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,19420411,8,2,22,19420411
-9,NEW,Deep In The Heart Of Texas,Horace Heidt & His Orchestra / Band Ensemble,Horace Heidt,jazz,19420411,9,9,1,19420411
-10,9,Deep In The Heart Of Texas,Alvino Rey & His Orchestra / Bill Schallen & Skeets Herfurt,Alvino Rey,jazz,19420328,6,6,3,19420411
-1,1,Moonlight Cocktail,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19420214,5,1,15,19420404
-2,2,I Don't Want To Walk Without You,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19420221,10,2,11,19420404
-3,3,A String Of Pearls,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,19420117,10,1,15,19420404
-4,7,Jersey Bounce,Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,19420328,7,2,20,19420404
-5,8,Somebody Else Is Taking My Place,Benny Goodman & His Orchestra / Peggy Lee,Benny Goodman & His Orchestra / Peggy Lee,jazz,19420321,6,5,9,19420404
-6,4,Deep In The Heart Of Texas,Bing Crosby / Woody Herman & His Woodchoppers,Bing Crosby / Woody Herman,pop,19420228,3,3,6,19420404
-7,5,Blues In The Night,Dinah Shore,Dinah Shore,jazz,19420228,7,4,6,19420404
-8,10,Somebody Else Is Taking My Place,Russ Morgan & His Orchestra / The Morganaires,Russ Morgan,pop,19420328,10,5,4,19420404
-9,6,Deep In The Heart Of Texas,Alvino Rey & His Orchestra / Bill Schallen & Skeets Herfurt,Alvino Rey,jazz,19420328,6,6,3,19420404
-10,NEW,Miss You,Dinah Shore,Dinah Shore,jazz,19420404,10,10,1,19420404
-1,1,Moonlight Cocktail,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19420214,5,1,15,19420328
-2,2,I Don't Want To Walk Without You,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19420221,10,2,11,19420328
-3,3,A String Of Pearls,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,19420117,10,1,15,19420328
-4,4,Deep In The Heart Of Texas,Bing Crosby / Woody Herman & His Woodchoppers,Bing Crosby / Woody Herman,pop,19420228,3,3,6,19420328
-5,5,Blues In The Night,Dinah Shore,Dinah Shore,jazz,19420228,7,4,6,19420328
-6,NEW,Deep In The Heart Of Texas,Alvino Rey & His Orchestra / Bill Schallen & Skeets Herfurt,Alvino Rey,jazz,19420328,6,6,3,19420328
-7,NEW,Jersey Bounce,Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,19420328,7,2,20,19420328
-8,6,Somebody Else Is Taking My Place,Benny Goodman & His Orchestra / Peggy Lee,Benny Goodman & His Orchestra / Peggy Lee,jazz,19420321,6,5,9,19420328
-9,NEW,I Don't Want To Talk Without You,Bing Crosby,Bing Crosby,jazz,19420328,9,9,1,19420328
-10,NEW,Somebody Else Is Taking My Place,Russ Morgan & His Orchestra / The Morganaires,Russ Morgan,pop,19420328,10,5,4,19420328
-1,1,Moonlight Cocktail,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19420214,5,1,15,19420321
-2,3,I Don't Want To Walk Without You,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19420221,10,2,11,19420321
-3,2,A String Of Pearls,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,19420117,10,1,15,19420321
-4,5,Deep In The Heart Of Texas,Bing Crosby / Woody Herman & His Woodchoppers,Bing Crosby / Woody Herman,pop,19420228,3,3,6,19420321
-5,4,Blues In The Night,Dinah Shore,Dinah Shore,jazz,19420228,7,4,6,19420321
-6,NEW,Somebody Else Is Taking My Place,Benny Goodman & His Orchestra / Peggy Lee,Benny Goodman & His Orchestra / Peggy Lee,jazz,19420321,6,5,9,19420321
-7,9,Blues In The Night,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,19420314,9,7,2,19420321
-8,10,Miss You,Dinah Shore,Dinah Shore,jazz,19420314,10,8,2,19420321
-9,NEW,"I Said ""No""",Alvino Rey & His Orchestra / Yvonne King,Alvino Rey,jazz,19420321,9,9,1,19420321
-10,7,Deep In The Heart Of Texas,Horace Heidt & His Musical Knights / Band Ensemble,Horace Heidt,jazz,19420307,9,7,3,19420321
-1,1,Moonlight Cocktail,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19420214,5,1,15,19420314
-2,5,A String Of Pearls,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,19420117,10,1,15,19420314
-3,2,I Don't Want To Walk Without You,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19420221,10,2,11,19420314
-4,6,Blues In The Night,Dinah Shore,Dinah Shore,jazz,19420228,7,4,6,19420314
-5,3,Deep In The Heart Of Texas,Bing Crosby / Woody Herman & His Woodchoppers,Bing Crosby / Woody Herman,pop,19420228,3,3,6,19420314
-6,4,Deep In The Heart Of Texas,Alvino Rey & His Orchestra / Bill Schallen & Skeets Herfurt,Alvino Rey,jazz,19420207,10,3,6,19420314
-7,9,Deep In The Heart Of Texas,Horace Heidt & His Musical Knights / Band Ensemble,Horace Heidt,jazz,19420307,9,7,3,19420314
-8,NEW,A Zoot Suit,Kay Kyser & His Orchestra / Sully Mason & Trudy Erwin,Kay Kyser,jazz,19420314,8,8,1,19420314
-9,NEW,Blues In The Night,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,19420314,9,7,2,19420314
-10,NEW,Miss You,Dinah Shore,Dinah Shore,jazz,19420314,10,8,2,19420314
-1,1,Moonlight Cocktail,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19420214,5,1,15,19420307
-2,8,I Don't Want To Walk Without You,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19420221,10,2,11,19420307
-3,3,Deep In The Heart Of Texas,Bing Crosby / Woody Herman & His Woodchoppers,Bing Crosby / Woody Herman,pop,19420228,3,3,6,19420307
-4,5,Deep In The Heart Of Texas,Alvino Rey & His Orchestra / Bill Schallen & Skeets Herfurt,Alvino Rey,jazz,19420207,10,3,6,19420307
-5,2,A String Of Pearls,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,19420117,10,1,15,19420307
-6,7,Blues In The Night,Dinah Shore,Dinah Shore,jazz,19420228,7,4,6,19420307
-7,4,I Said No!,Alvino Rey & His Orchestra / Yvonne King,Alvino Rey,jazz,19420110,10,2,9,19420307
-8,NEW,Blues In The Night,Cab Calloway,Cab Calloway,jazz,19420307,8,8,1,19420307
-9,NEW,Deep In The Heart Of Texas,Horace Heidt & His Musical Knights / Band Ensemble,Horace Heidt,jazz,19420307,9,7,3,19420307
-10,10,Rose O'Day (The Filla-Ga-Dusha Song),Kate Smith,Kate Smith,pop,19420221,8,8,3,19420307
-1,1,Moonlight Cocktail,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19420214,5,1,15,19420228
-2,2,A String Of Pearls,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,19420117,10,1,15,19420228
-3,NEW,Deep In The Heart Of Texas,Bing Crosby / Woody Herman & His Woodchoppers,Bing Crosby / Woody Herman,pop,19420228,3,3,6,19420228
-4,4,I Said No!,Alvino Rey & His Orchestra / Yvonne King,Alvino Rey,jazz,19420110,10,2,9,19420228
-5,3,Deep In The Heart Of Texas,Alvino Rey & His Orchestra / Bill Schallen & Skeets Herfurt,Alvino Rey,jazz,19420207,10,3,6,19420228
-6,7,Blues In The Night,Jimmie Lunceford & His Orchestra / Band Ensemble,Jimmie Lunceford,jazz,19420131,6,4,5,19420228
-7,NEW,Blues In The Night,Dinah Shore,Dinah Shore,jazz,19420228,7,4,6,19420228
-8,10,I Don't Want To Walk Without You,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19420221,10,2,11,19420228
-9,5,Blues In The Night,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,19420103,7,1,9,19420228
-10,8,Rose O'Day (The Filla-Ga-Dusha Song),Kate Smith,Kate Smith,pop,19420221,8,8,3,19420228
-1,5,Moonlight Cocktail,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19420214,5,1,15,19420221
-2,1,A String Of Pearls,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,19420117,10,1,15,19420221
-3,7,Deep In The Heart Of Texas,Alvino Rey & His Orchestra / Bill Schallen & Skeets Herfurt,Alvino Rey,jazz,19420207,10,3,6,19420221
-4,2,I Said No!,Alvino Rey & His Orchestra / Yvonne King,Alvino Rey,jazz,19420110,10,2,9,19420221
-5,3,Blues In The Night,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,19420103,7,1,9,19420221
-6,6,Remember Pearl Harbor,Sammy Kaye & His Orchestra / The Glee Club,Sammy Kaye,jazz,19420124,7,3,5,19420221
-7,4,Blues In The Night,Jimmie Lunceford & His Orchestra / Band Ensemble,Jimmie Lunceford,jazz,19420131,6,4,5,19420221
-8,NEW,Rose O'Day (The Filla-Ga-Dusha Song),Kate Smith,Kate Smith,pop,19420221,8,8,3,19420221
-9,10,(There'll Be Bluebirds Over) The White Cliffs Of Dover,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,19420110,9,6,7,19420221
-10,NEW,I Don't Want To Walk Without You,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19420221,10,2,11,19420221
-1,2,A String Of Pearls,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,19420117,10,1,15,19420214
-2,4,I Said No!,Alvino Rey & His Orchestra / Yvonne King,Alvino Rey,jazz,19420110,10,2,9,19420214
-3,1,Blues In The Night,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,19420103,7,1,9,19420214
-4,5,Blues In The Night,Jimmie Lunceford & His Orchestra / Band Ensemble,Jimmie Lunceford,jazz,19420131,6,4,5,19420214
-5,NEW,Moonlight Cocktail,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19420214,5,1,15,19420214
-6,3,Remember Pearl Harbor,Sammy Kaye & His Orchestra / The Glee Club,Sammy Kaye,jazz,19420124,7,3,5,19420214
-7,10,Deep In The Heart Of Texas,Alvino Rey & His Orchestra / Bill Schallen & Skeets Herfurt,Alvino Rey,jazz,19420207,10,3,6,19420214
-8,NEW,Blues In The Night,Dinah Shore,Dinah Shore,jazz,19420214,8,8,1,19420214
-9,NEW,(There'll Be Bluebirds Over) The White Cliffs Of Dover,Kate Smith,Kate Smith,pop,19420214,9,9,1,19420214
-10,8,(There'll Be Bluebirds Over) The White Cliffs Of Dover,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,19420110,9,6,7,19420214
-1,4,Blues In The Night,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,19420103,7,1,9,19420207
-2,1,A String Of Pearls,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,19420117,10,1,15,19420207
-3,7,Remember Pearl Harbor,Sammy Kaye & His Orchestra / The Glee Club,Sammy Kaye,jazz,19420124,7,3,5,19420207
-4,3,I Said No!,Alvino Rey & His Orchestra / Yvonne King,Alvino Rey,jazz,19420110,10,2,9,19420207
-5,6,Blues In The Night,Jimmie Lunceford & His Orchestra / Band Ensemble,Jimmie Lunceford,jazz,19420131,6,4,5,19420207
-6,2,Chattanooga Choo Choo,Glenn Miller & His Orchestra / Tex Beneke & The Modernaires,Glenn Miller,jazz,19410906,9,1,23,19420207
-7,10,Everything I Love,Glenn Miller & His Orchestra / Ray Eberle & Choir,Glenn Miller,jazz,19420117,9,7,4,19420207
-8,9,(There'll Be Bluebirds Over) The White Cliffs Of Dover,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,19420110,9,6,7,19420207
-9,8,Elmer's Tune,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19411101,4,1,15,19420207
-10,NEW,Deep In The Heart Of Texas,Alvino Rey & His Orchestra / Bill Schallen & Skeets Herfurt,Alvino Rey,jazz,19420207,10,3,6,19420207
-1,3,A String Of Pearls,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,19420117,10,1,15,19420131
-2,1,Chattanooga Choo Choo,Glenn Miller & His Orchestra / Tex Beneke & The Modernaires,Glenn Miller,jazz,19410906,9,1,23,19420131
-3,5,I Said No!,Alvino Rey & His Orchestra / Yvonne King,Alvino Rey,jazz,19420110,10,2,9,19420131
-4,2,Blues In The Night,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,19420103,7,1,9,19420131
-5,6,This Love Of Mine,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19411018,9,3,16,19420131
-6,NEW,Blues In The Night,Jimmie Lunceford & His Orchestra / Band Ensemble,Jimmie Lunceford,jazz,19420131,6,4,5,19420131
-7,7,Remember Pearl Harbor,Sammy Kaye & His Orchestra / The Glee Club,Sammy Kaye,jazz,19420124,7,3,5,19420131
-8,4,Elmer's Tune,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19411101,4,1,15,19420131
-9,9,(There'll Be Bluebirds Over) The White Cliffs Of Dover,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,19420110,9,6,7,19420131
-10,8,Everything I Love,Glenn Miller & His Orchestra / Ray Eberle & Choir,Glenn Miller,jazz,19420117,9,7,4,19420131
-1,1,Chattanooga Choo Choo,Glenn Miller & His Orchestra / Tex Beneke & The Modernaires,Glenn Miller,jazz,19410906,9,1,23,19420124
-2,4,Blues In The Night,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,19420103,7,1,9,19420124
-3,10,A String Of Pearls,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,19420117,10,1,15,19420124
-4,2,Elmer's Tune,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19411101,4,1,15,19420124
-5,8,I Said No!,Alvino Rey & His Orchestra / Yvonne King,Alvino Rey,jazz,19420110,10,2,9,19420124
-6,3,This Love Of Mine,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19411018,9,3,16,19420124
-7,NEW,Remember Pearl Harbor,Sammy Kaye & His Orchestra / The Glee Club,Sammy Kaye,jazz,19420124,7,3,5,19420124
-8,9,Everything I Love,Glenn Miller & His Orchestra / Ray Eberle & Choir,Glenn Miller,jazz,19420117,9,7,4,19420124
-9,6,(There'll Be Bluebirds Over) The White Cliffs Of Dover,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,19420110,9,6,7,19420124
-10,NEW,I Said No,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,19420124,10,10,1,19420124
-1,1,Chattanooga Choo Choo,Glenn Miller & His Orchestra / Tex Beneke & The Modernaires,Glenn Miller,jazz,19410906,9,1,23,19420117
-2,2,Elmer's Tune,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19411101,4,1,15,19420117
-3,3,This Love Of Mine,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19411018,9,3,16,19420117
-4,6,Blues In The Night,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,19420103,7,1,9,19420117
-5,7,You Made Me Love You,Harry James & His Music Makers,Harry James,jazz,19411129,5,5,8,19420117
-6,9,(There'll Be Bluebirds Over) The White Cliffs Of Dover,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,19420110,9,6,7,19420117
-7,NEW,(There'll Be Bluebirds Over) The White Cliffs Of Dover,Kay Kyser & His Orchestra / Harry Babbitt & The Glee Club,Kay Kyser,jazz,19420117,7,7,1,19420117
-8,10,I Said No!,Alvino Rey & His Orchestra / Yvonne King,Alvino Rey,jazz,19420110,10,2,9,19420117
-9,NEW,Everything I Love,Glenn Miller & His Orchestra / Ray Eberle & Choir,Glenn Miller,jazz,19420117,9,7,4,19420117
-10,NEW,A String Of Pearls,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,19420117,10,1,15,19420117
-1,1,Chattanooga Choo Choo,Glenn Miller & His Orchestra / Tex Beneke & The Modernaires,Glenn Miller,jazz,19410906,9,1,23,19420110
-2,2,Elmer's Tune,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19411101,4,1,15,19420110
-3,4,This Love Of Mine,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19411018,9,3,16,19420110
-4,3,Piano Concerto In B Flat,Freddy Martin & His Orchestra / Jack Fina,Freddy Martin,jazz,19410802,8,1,24,19420110
-5,5,Shepherd Serenade,Bing Crosby,Bing Crosby,jazz,19411206,8,5,6,19420110
-6,7,Blues In The Night,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,19420103,7,1,9,19420110
-7,6,You Made Me Love You,Harry James & His Music Makers,Harry James,jazz,19411129,5,5,8,19420110
-8,NEW,Tonight We Love,Freddy Martin & His Orchestra / Clyde Rogers,Freddy Martin,jazz,19420110,8,8,1,19420110
-9,NEW,(There'll Be Bluebirds Over) The White Cliffs Of Dover,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,19420110,9,6,7,19420110
-10,NEW,I Said No!,Alvino Rey & His Orchestra / Yvonne King,Alvino Rey,jazz,19420110,10,2,9,19420110
-1,1,Chattanooga Choo Choo,Glenn Miller & His Orchestra / Tex Beneke & The Modernaires,Glenn Miller,jazz,19410906,9,1,23,19420103
-2,2,Elmer's Tune,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,19411101,4,1,15,19420103
-3,4,Piano Concerto In B Flat,Freddy Martin & His Orchestra / Jack Fina,Freddy Martin,jazz,19410802,8,1,24,19420103
-4,3,This Love Of Mine,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19411018,9,3,16,19420103
-5,5,Shepherd Serenade,Bing Crosby,Bing Crosby,jazz,19411206,8,5,6,19420103
-6,8,You Made Me Love You,Harry James & His Music Makers,Harry James,jazz,19411129,5,5,8,19420103
-7,NEW,Blues In The Night,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,19420103,7,1,9,19420103
-8,9,This Is No Laughing Matter,Charlie Spivak & His Orchestra / Garry Stevens,Charlie Spivak,jazz,19411227,9,8,2,19420103
-9,NEW,A String Of Pearls,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,19420103,9,9,1,19420103
-10,NEW,(There'll Be Bluebirds Over) The White Cliffs Of Dover,Kay Kyser & His Orchestra / Harry Babbitt & The Glee Club,Kay Kyser,jazz,19420103,10,10,1,19420103
+this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genre,entry_date,entry_position,peak_position,total_weeks,chart_date
+1,1,White Christmas,Bing Crosby & Ken Darby Singers / John Scott Trotter,Bing Crosby,jazz,jazz,19421003,9,1,15,19421226
+2,4,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19421107,9,1,23,19421226
+3,3,Praise The Lord And Pass The Ammunition,Kay Kyser & His Orchestra / The Glee Club,Kay Kyser,jazz,jazz,19421010,4,2,13,19421226
+4,6,I Had The Craziest Dream,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19421128,9,1,18,19421226
+5,NEW,Dearly Beloved,Glenn Miller & His Orchestra / Skip Nelson,Glenn Miller,jazz,jazz,19421226,5,5,3,19421226
+6,5,Mister Five By Five,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19421121,6,2,9,19421226
+7,7,Juke Box Saturday Night,Glenn Miller & His Orchestra / Tex Beneke & Marion Hutton,Glenn Miller,jazz,jazz,19421205,9,7,7,19421226
+8,2,When The Lights Go On Again (All Over The World),Vaughn Monroe & His Orchestra,Vaughn Monroe,jazz,swing,19421114,5,2,13,19421226
+9,NEW,Moonlight Becomes You,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,jazz,19421226,9,9,1,19421226
+10,NEW,Mister Five By Five,Freddie Slack & His Orchestra / Ella Mae Morse,Freddie Slack,jazz,jazz,19421226,10,10,1,19421226
+1,1,White Christmas,Bing Crosby & Ken Darby Singers / John Scott Trotter,Bing Crosby,jazz,jazz,19421003,9,1,15,19421219
+2,4,When The Lights Go On Again (All Over The World),Vaughn Monroe & His Orchestra,Vaughn Monroe,jazz,swing,19421114,5,2,13,19421219
+3,3,Praise The Lord And Pass The Ammunition,Kay Kyser & His Orchestra / The Glee Club,Kay Kyser,jazz,jazz,19421010,4,2,13,19421219
+4,9,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19421107,9,1,23,19421219
+5,2,Mister Five By Five,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19421121,6,2,9,19421219
+6,5,I Had The Craziest Dream,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19421128,9,1,18,19421219
+7,8,Juke Box Saturday Night,Glenn Miller & His Orchestra / Tex Beneke & Marion Hutton,Glenn Miller,jazz,jazz,19421205,9,7,7,19421219
+8,7,Serenade In Blue,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,jazz,19420912,8,2,15,19421219
+9,NEW,Der Fuehrer's Face,Spike Jones & His City Slickers / Carl Grayson,Spike Jones,pop,comedy,19421219,9,9,1,19421219
+10,NEW,Dearly Beloved,Dinah Shore,Dinah Shore,jazz,jazz,19421219,10,10,1,19421219
+1,1,White Christmas,Bing Crosby & Ken Darby Singers / John Scott Trotter,Bing Crosby,jazz,jazz,19421003,9,1,15,19421212
+2,5,Mister Five By Five,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19421121,6,2,9,19421212
+3,2,Praise The Lord And Pass The Ammunition,Kay Kyser & His Orchestra / The Glee Club,Kay Kyser,jazz,jazz,19421010,4,2,13,19421212
+4,3,When The Lights Go On Again (All Over The World),Vaughn Monroe & His Orchestra,Vaughn Monroe,jazz,swing,19421114,5,2,13,19421212
+5,8,I Had The Craziest Dream,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19421128,9,1,18,19421212
+6,NEW,Dearly Beloved,Glenn Miller & His Orchestra / Skip Nelson,Glenn Miller,jazz,jazz,19421212,6,6,1,19421212
+7,4,Serenade In Blue,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,jazz,19420912,8,2,15,19421212
+8,9,Juke Box Saturday Night,Glenn Miller & His Orchestra / Tex Beneke & Marion Hutton,Glenn Miller,jazz,jazz,19421205,9,7,7,19421212
+9,7,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19421107,9,1,23,19421212
+10,NEW,Moonlight Becomes You,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,jazz,19421212,10,10,1,19421212
+1,1,White Christmas,Bing Crosby & Ken Darby Singers / John Scott Trotter,Bing Crosby,jazz,jazz,19421003,9,1,15,19421205
+2,2,Praise The Lord And Pass The Ammunition,Kay Kyser & His Orchestra / The Glee Club,Kay Kyser,jazz,jazz,19421010,4,2,13,19421205
+3,7,When The Lights Go On Again (All Over The World),Vaughn Monroe & His Orchestra,Vaughn Monroe,jazz,swing,19421114,5,2,13,19421205
+4,3,Serenade In Blue,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,jazz,19420912,8,2,15,19421205
+5,6,Mister Five By Five,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19421121,6,2,9,19421205
+6,4,Der Fuehrer's Face,Spike Jones & His City Slickers / Carl Grayson,Spike Jones,pop,comedy,19421017,6,3,8,19421205
+7,5,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19421107,9,1,23,19421205
+8,9,I Had The Craziest Dream,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19421128,9,1,18,19421205
+9,NEW,Juke Box Saturday Night,Glenn Miller & His Orchestra / Tex Beneke & Marion Hutton,Glenn Miller,jazz,jazz,19421205,9,7,7,19421205
+10,NEW,Mister Five By Five,Freddie Slack & His Orchestra / Ella Mae Morse,Freddie Slack,jazz,jazz,19421205,10,10,1,19421205
+1,1,White Christmas,Bing Crosby & Ken Darby Singers / John Scott Trotter,Bing Crosby,jazz,jazz,19421003,9,1,15,19421128
+2,2,Praise The Lord And Pass The Ammunition,Kay Kyser & His Orchestra / The Glee Club,Kay Kyser,jazz,jazz,19421010,4,2,13,19421128
+3,3,Serenade In Blue,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,jazz,19420912,8,2,15,19421128
+4,5,Der Fuehrer's Face,Spike Jones & His City Slickers / Carl Grayson,Spike Jones,pop,comedy,19421017,6,3,8,19421128
+5,10,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19421107,9,1,23,19421128
+6,6,Mister Five By Five,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19421121,6,2,9,19421128
+7,4,When The Lights Go On Again (All Over The World),Vaughn Monroe & His Orchestra,Vaughn Monroe,jazz,swing,19421114,5,2,13,19421128
+8,8,Praise The Lord And Pass The Ammunition,The Merry Macs,The Merry Macs,pop,big band,19421107,10,8,4,19421128
+9,NEW,I Had The Craziest Dream,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19421128,9,1,18,19421128
+10,NEW,Daybreak,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,jazz,19421128,10,10,1,19421128
+1,1,White Christmas,Bing Crosby & Ken Darby Singers / John Scott Trotter,Bing Crosby,jazz,jazz,19421003,9,1,15,19421121
+2,2,Praise The Lord And Pass The Ammunition,Kay Kyser & His Orchestra / The Glee Club,Kay Kyser,jazz,jazz,19421010,4,2,13,19421121
+3,3,Serenade In Blue,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,jazz,19420912,8,2,15,19421121
+4,5,When The Lights Go On Again (All Over The World),Vaughn Monroe & His Orchestra,Vaughn Monroe,jazz,swing,19421114,5,2,13,19421121
+5,7,Der Fuehrer's Face,Spike Jones & His City Slickers / Carl Grayson,Spike Jones,pop,comedy,19421017,6,3,8,19421121
+6,NEW,Mister Five By Five,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19421121,6,2,9,19421121
+7,6,(I've Got A Gal In) Kalamazoo,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,jazz,19420725,7,1,18,19421121
+8,10,Praise The Lord And Pass The Ammunition,The Merry Macs,The Merry Macs,pop,big band,19421107,10,8,4,19421121
+9,NEW,Manhattan Serenade,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19421121,9,9,1,19421121
+10,8,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19421107,9,1,23,19421121
+1,1,White Christmas,Bing Crosby & Ken Darby Singers / John Scott Trotter,Bing Crosby,jazz,jazz,19421003,9,1,15,19421114
+2,2,Praise The Lord And Pass The Ammunition,Kay Kyser & His Orchestra / The Glee Club,Kay Kyser,jazz,jazz,19421010,4,2,13,19421114
+3,5,Serenade In Blue,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,jazz,19420912,8,2,15,19421114
+4,7,My Devotion,Charlie Spivak & His Orchestra / Garry Stevens,Charlie Spivak,jazz,jazz,19420905,4,2,11,19421114
+5,NEW,When The Lights Go On Again (All Over The World),Vaughn Monroe & His Orchestra,Vaughn Monroe,jazz,swing,19421114,5,2,13,19421114
+6,4,(I've Got A Gal In) Kalamazoo,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,jazz,19420725,7,1,18,19421114
+7,3,Der Fuehrer's Face,Spike Jones & His City Slickers / Carl Grayson,Spike Jones,pop,comedy,19421017,6,3,8,19421114
+8,9,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19421107,9,1,23,19421114
+9,6,Strip Polka,The Andrews Sisters,The Andrews Sisters,jazz,swing,19421024,7,6,4,19421114
+10,10,Praise The Lord And Pass The Ammunition,The Merry Macs,The Merry Macs,pop,big band,19421107,10,8,4,19421114
+1,1,White Christmas,Bing Crosby & Ken Darby Singers / John Scott Trotter,Bing Crosby,jazz,jazz,19421003,9,1,15,19421107
+2,2,Praise The Lord And Pass The Ammunition,Kay Kyser & His Orchestra / The Glee Club,Kay Kyser,jazz,jazz,19421010,4,2,13,19421107
+3,5,Der Fuehrer's Face,Spike Jones & His City Slickers / Carl Grayson,Spike Jones,pop,comedy,19421017,6,3,8,19421107
+4,4,(I've Got A Gal In) Kalamazoo,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,jazz,19420725,7,1,18,19421107
+5,3,Serenade In Blue,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,jazz,19420912,8,2,15,19421107
+6,6,Strip Polka,The Andrews Sisters,The Andrews Sisters,jazz,swing,19421024,7,6,4,19421107
+7,7,My Devotion,Charlie Spivak & His Orchestra / Garry Stevens,Charlie Spivak,jazz,jazz,19420905,4,2,11,19421107
+8,8,My Devotion,Vaughn Monroe & His Orchestra,Vaughn Monroe,jazz,swing,19421017,5,5,4,19421107
+9,NEW,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19421107,9,1,23,19421107
+10,NEW,Praise The Lord And Pass The Ammunition,The Merry Macs,The Merry Macs,pop,big band,19421107,10,8,4,19421107
+1,1,White Christmas,Bing Crosby & Ken Darby Singers / John Scott Trotter,Bing Crosby,jazz,jazz,19421003,9,1,15,19421031
+2,2,Praise The Lord And Pass The Ammunition,Kay Kyser & His Orchestra / The Glee Club,Kay Kyser,jazz,jazz,19421010,4,2,13,19421031
+3,4,Serenade In Blue,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,jazz,19420912,8,2,15,19421031
+4,3,(I've Got A Gal In) Kalamazoo,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,jazz,19420725,7,1,18,19421031
+5,6,Der Fuehrer's Face,Spike Jones & His City Slickers / Carl Grayson,Spike Jones,pop,comedy,19421017,6,3,8,19421031
+6,7,Strip Polka,The Andrews Sisters,The Andrews Sisters,jazz,swing,19421024,7,6,4,19421031
+7,5,My Devotion,Charlie Spivak & His Orchestra / Garry Stevens,Charlie Spivak,jazz,jazz,19420905,4,2,11,19421031
+8,8,My Devotion,Vaughn Monroe & His Orchestra,Vaughn Monroe,jazz,swing,19421017,5,5,4,19421031
+9,10,When The Lights Go On Again (All Over The World),Vaughn Monroe & His Orchestra,Vaughn Monroe,jazz,swing,19421024,10,9,2,19421031
+10,NEW,Daybreak,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,jazz,19421031,10,10,1,19421031
+1,2,White Christmas,Bing Crosby & Ken Darby Singers / John Scott Trotter,Bing Crosby,jazz,jazz,19421003,9,1,15,19421024
+2,3,Praise The Lord And Pass The Ammunition,Kay Kyser & His Orchestra / The Glee Club,Kay Kyser,jazz,jazz,19421010,4,2,13,19421024
+3,1,(I've Got A Gal In) Kalamazoo,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,jazz,19420725,7,1,18,19421024
+4,4,Serenade In Blue,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,jazz,19420912,8,2,15,19421024
+5,8,My Devotion,Charlie Spivak & His Orchestra / Garry Stevens,Charlie Spivak,jazz,jazz,19420905,4,2,11,19421024
+6,6,Der Fuehrer's Face,Spike Jones & His City Slickers / Carl Grayson,Spike Jones,pop,comedy,19421017,6,3,8,19421024
+7,NEW,Strip Polka,The Andrews Sisters,The Andrews Sisters,jazz,swing,19421024,7,6,4,19421024
+8,5,My Devotion,Vaughn Monroe & His Orchestra,Vaughn Monroe,jazz,swing,19421017,5,5,4,19421024
+9,NEW,Just As Though You Were Here,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19421024,9,9,1,19421024
+10,NEW,When The Lights Go On Again (All Over The World),Vaughn Monroe & His Orchestra,Vaughn Monroe,jazz,swing,19421024,10,9,2,19421024
+1,1,(I've Got A Gal In) Kalamazoo,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,jazz,19420725,7,1,18,19421017
+2,3,White Christmas,Bing Crosby & Ken Darby Singers / John Scott Trotter,Bing Crosby,jazz,jazz,19421003,9,1,15,19421017
+3,4,Praise The Lord And Pass The Ammunition,Kay Kyser & His Orchestra / The Glee Club,Kay Kyser,jazz,jazz,19421010,4,2,13,19421017
+4,5,Serenade In Blue,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,jazz,19420912,8,2,15,19421017
+5,NEW,My Devotion,Vaughn Monroe & His Orchestra,Vaughn Monroe,jazz,swing,19421017,5,5,4,19421017
+6,NEW,Der Fuehrer's Face,Spike Jones & His City Slickers / Carl Grayson,Spike Jones,pop,comedy,19421017,6,3,8,19421017
+7,7,Strip Polka,Johnny Mercer & The Mellowaires,Johnny Mercer,jazz,jazz,19421003,8,7,3,19421017
+8,2,My Devotion,Charlie Spivak & His Orchestra / Garry Stevens,Charlie Spivak,jazz,jazz,19420905,4,2,11,19421017
+9,NEW,Amen,Abe Lyman & His Orchestra / Rose Blane,Abe Lyman,pop,soundtrack,19421017,9,9,1,19421017
+10,NEW,Strip Polka,Kay Kyser & His Orchestra / Jack Martin & The Glee Club,Kay Kyser,jazz,jazz,19421017,10,10,1,19421017
+1,1,(I've Got A Gal In) Kalamazoo,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,jazz,19420725,7,1,18,19421010
+2,3,My Devotion,Charlie Spivak & His Orchestra / Garry Stevens,Charlie Spivak,jazz,jazz,19420905,4,2,11,19421010
+3,9,White Christmas,Bing Crosby & Ken Darby Singers / John Scott Trotter,Bing Crosby,jazz,jazz,19421003,9,1,15,19421010
+4,NEW,Praise The Lord And Pass The Ammunition,Kay Kyser & His Orchestra / The Glee Club,Kay Kyser,jazz,jazz,19421010,4,2,13,19421010
+5,2,Serenade In Blue,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,jazz,19420912,8,2,15,19421010
+6,10,He Wears A Pair Of Silver Wings,Kay Kyser & His Orchestra / Harry Babbitt,Kay Kyser,jazz,jazz,19420801,7,2,11,19421010
+7,8,Strip Polka,Johnny Mercer & The Mellowaires,Johnny Mercer,jazz,jazz,19421003,8,7,3,19421010
+8,NEW,I Left My Heart At The Stage Door Canteen,Charlie Spivak & His Orchestra / Garry Stevens,Charlie Spivak,jazz,jazz,19421010,8,8,1,19421010
+9,7,I Left My Heart At The Stage Door Canteen,Sammy Kaye & His Orchestra / Don Cornell,Sammy Kaye,jazz,swing,19420829,8,3,7,19421010
+10,NEW,Just As Though You Were Here,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19421010,10,10,1,19421010
+1,1,(I've Got A Gal In) Kalamazoo,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,jazz,19420725,7,1,18,19421003
+2,7,Serenade In Blue,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,jazz,19420912,8,2,15,19421003
+3,2,My Devotion,Charlie Spivak & His Orchestra / Garry Stevens,Charlie Spivak,jazz,jazz,19420905,4,2,11,19421003
+4,NEW,Amen,Abe Lyman / Rose Blane,Abe Lyman / Rose Blane,pop,unknown,19421003,4,4,1,19421003
+5,10,Strip Polka,Kay Kyser & His Orchestra / Jack Martin & The Glee Club,Kay Kyser,jazz,jazz,19420926,10,5,2,19421003
+6,5,Take Me,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,jazz,19420919,5,5,3,19421003
+7,4,I Left My Heart At The Stage Door Canteen,Sammy Kaye & His Orchestra / Don Cornell,Sammy Kaye,jazz,swing,19420829,8,3,7,19421003
+8,NEW,Strip Polka,Johnny Mercer & The Mellowaires,Johnny Mercer,jazz,jazz,19421003,8,7,3,19421003
+9,NEW,White Christmas,Bing Crosby & Ken Darby Singers / John Scott Trotter,Bing Crosby,jazz,jazz,19421003,9,1,15,19421003
+10,6,He Wears A Pair Of Silver Wings,Kay Kyser & His Orchestra / Harry Babbitt,Kay Kyser,jazz,jazz,19420801,7,2,11,19421003
+1,1,(I've Got A Gal In) Kalamazoo,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,jazz,19420725,7,1,18,19420926
+2,3,My Devotion,Charlie Spivak & His Orchestra / Garry Stevens,Charlie Spivak,jazz,jazz,19420905,4,2,11,19420926
+3,NEW,Just As Though You Were Here,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19420926,3,3,1,19420926
+4,4,I Left My Heart At The Stage Door Canteen,Sammy Kaye & His Orchestra / Don Cornell,Sammy Kaye,jazz,swing,19420829,8,3,7,19420926
+5,5,Take Me,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,jazz,19420919,5,5,3,19420926
+6,2,He Wears A Pair Of Silver Wings,Kay Kyser & His Orchestra / Harry Babbitt,Kay Kyser,jazz,jazz,19420801,7,2,11,19420926
+7,7,Serenade In Blue,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,jazz,19420912,8,2,15,19420926
+8,10,Strip Polka,Alvino Ray & His Orchestra & Chorus / The Four King Sisters,Alvino Ray,jazz,swing,19420919,10,8,2,19420926
+9,NEW,He's My Guy,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19420926,9,9,1,19420926
+10,NEW,Strip Polka,Kay Kyser & His Orchestra / Jack Martin & The Glee Club,Kay Kyser,jazz,jazz,19420926,10,5,2,19420926
+1,1,(I've Got A Gal In) Kalamazoo,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,jazz,19420725,7,1,18,19420919
+2,2,He Wears A Pair Of Silver Wings,Kay Kyser & His Orchestra / Harry Babbitt,Kay Kyser,jazz,jazz,19420801,7,2,11,19420919
+3,6,My Devotion,Charlie Spivak & His Orchestra / Garry Stevens,Charlie Spivak,jazz,jazz,19420905,4,2,11,19420919
+4,3,I Left My Heart At The Stage Door Canteen,Sammy Kaye & His Orchestra / Don Cornell,Sammy Kaye,jazz,swing,19420829,8,3,7,19420919
+5,NEW,Take Me,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,jazz,19420919,5,5,3,19420919
+6,5,Strictly Instrumental,Harry James & His Music Makers,Harry James,jazz,jazz,19420905,8,5,3,19420919
+7,8,Serenade In Blue,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,jazz,19420912,8,2,15,19420919
+8,4,"Jingle, Jangle, Jingle",Kay Kyser & His Orchestra / Harry Babbitt & Julie Conway,Kay Kyser,jazz,jazz,19420627,4,1,13,19420919
+9,9,Amen,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,jazz,19420829,9,5,4,19420919
+10,NEW,Strip Polka,Alvino Ray & His Orchestra & Chorus / The Four King Sisters,Alvino Ray,jazz,swing,19420919,10,8,2,19420919
+1,1,(I've Got A Gal In) Kalamazoo,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,jazz,19420725,7,1,18,19420912
+2,2,He Wears A Pair Of Silver Wings,Kay Kyser & His Orchestra / Harry Babbitt,Kay Kyser,jazz,jazz,19420801,7,2,11,19420912
+3,10,I Left My Heart At The Stage Door Canteen,Sammy Kaye & His Orchestra / Don Cornell,Sammy Kaye,jazz,swing,19420829,8,3,7,19420912
+4,3,"Jingle, Jangle, Jingle",Kay Kyser & His Orchestra / Harry Babbitt & Julie Conway,Kay Kyser,jazz,jazz,19420627,4,1,13,19420912
+5,8,Strictly Instrumental,Harry James & His Music Makers,Harry James,jazz,jazz,19420905,8,5,3,19420912
+6,4,My Devotion,Charlie Spivak & His Orchestra / Garry Stevens,Charlie Spivak,jazz,jazz,19420905,4,2,11,19420912
+7,9,Strip Polka,Johnny Mercer & The Mellowaires,Johnny Mercer,jazz,jazz,19420829,7,7,3,19420912
+8,NEW,Serenade In Blue,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,jazz,19420912,8,2,15,19420912
+9,5,Amen,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,jazz,19420829,9,5,4,19420912
+10,NEW,I Left My Heart At The Stage Door Canteen,Charlie Spivak & His Orchestra / Garry Stevens,Charlie Spivak,jazz,jazz,19420912,10,10,1,19420912
+1,3,(I've Got A Gal In) Kalamazoo,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,jazz,19420725,7,1,18,19420905
+2,2,He Wears A Pair Of Silver Wings,Kay Kyser & His Orchestra / Harry Babbitt,Kay Kyser,jazz,jazz,19420801,7,2,11,19420905
+3,1,"Jingle, Jangle, Jingle",Kay Kyser & His Orchestra / Harry Babbitt & Julie Conway,Kay Kyser,jazz,jazz,19420627,4,1,13,19420905
+4,NEW,My Devotion,Charlie Spivak & His Orchestra / Garry Stevens,Charlie Spivak,jazz,jazz,19420905,4,2,11,19420905
+5,9,Amen,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,jazz,19420829,9,5,4,19420905
+6,5,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,jazz,19420411,8,2,22,19420905
+7,4,Idaho,Benny Goodman & His Orchestra / Dick Haymes,Benny Goodman,jazz,jazz,19420822,6,4,3,19420905
+8,NEW,Strictly Instrumental,Harry James & His Music Makers,Harry James,jazz,jazz,19420905,8,5,3,19420905
+9,7,Strip Polka,Johnny Mercer & The Mellowaires,Johnny Mercer,jazz,jazz,19420829,7,7,3,19420905
+10,8,I Left My Heart At The Stage Door Canteen,Sammy Kaye & His Orchestra / Don Cornell,Sammy Kaye,jazz,swing,19420829,8,3,7,19420905
+1,1,"Jingle, Jangle, Jingle",Kay Kyser & His Orchestra / Harry Babbitt & Julie Conway,Kay Kyser,jazz,jazz,19420627,4,1,13,19420829
+2,4,He Wears A Pair Of Silver Wings,Kay Kyser & His Orchestra / Harry Babbitt,Kay Kyser,jazz,jazz,19420801,7,2,11,19420829
+3,2,(I've Got A Gal In) Kalamazoo,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,jazz,19420725,7,1,18,19420829
+4,6,Idaho,Benny Goodman & His Orchestra / Dick Haymes,Benny Goodman,jazz,jazz,19420822,6,4,3,19420829
+5,3,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,jazz,19420411,8,2,22,19420829
+6,NEW,Amen,Abe Lyman & His Orchestra & Chorus / Rose Blane,Abe Lyman,pop,soundtrack,19420829,6,6,1,19420829
+7,NEW,Strip Polka,Johnny Mercer & The Mellowaires,Johnny Mercer,jazz,jazz,19420829,7,7,3,19420829
+8,NEW,I Left My Heart At The Stage Door Canteen,Sammy Kaye & His Orchestra / Don Cornell,Sammy Kaye,jazz,swing,19420829,8,3,7,19420829
+9,NEW,Amen,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,jazz,19420829,9,5,4,19420829
+10,NEW,My Devotion,Vaughn Monroe & His Orchestra,Vaughn Monroe,jazz,swing,19420829,10,10,1,19420829
+1,1,"Jingle, Jangle, Jingle",Kay Kyser & His Orchestra / Harry Babbitt & Julie Conway,Kay Kyser,jazz,jazz,19420627,4,1,13,19420822
+2,4,(I've Got A Gal In) Kalamazoo,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,jazz,19420725,7,1,18,19420822
+3,2,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,jazz,19420411,8,2,22,19420822
+4,5,He Wears A Pair Of Silver Wings,Kay Kyser & His Orchestra / Harry Babbitt,Kay Kyser,jazz,jazz,19420801,7,2,11,19420822
+5,3,Sleepy Lagoon,Harry James & His Music Makers,Harry James,jazz,jazz,19420815,3,3,2,19420822
+6,NEW,Idaho,Benny Goodman & His Orchestra / Dick Haymes,Benny Goodman,jazz,jazz,19420822,6,4,3,19420822
+7,7,Strictly Instrumental,Harry James & His Music Makers,Harry James,jazz,jazz,19420801,8,6,4,19420822
+8,6,Just As Though You Were Here,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19420718,10,6,6,19420822
+9,9,Cow-Cow Boogie,Freddie Slack & His Orchestra / Ella Mae Morse,Freddie Slack,jazz,jazz,19420815,9,9,2,19420822
+10,NEW,My Devotion,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,jazz,19420822,10,10,1,19420822
+1,1,"Jingle, Jangle, Jingle",Kay Kyser & His Orchestra / Harry Babbitt & Julie Conway,Kay Kyser,jazz,jazz,19420627,4,1,13,19420815
+2,2,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,jazz,19420411,8,2,22,19420815
+3,NEW,Sleepy Lagoon,Harry James & His Music Makers,Harry James,jazz,jazz,19420815,3,3,2,19420815
+4,3,(I've Got A Gal In) Kalamazoo,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,jazz,19420725,7,1,18,19420815
+5,4,He Wears A Pair Of Silver Wings,Kay Kyser & His Orchestra / Harry Babbitt,Kay Kyser,jazz,jazz,19420801,7,2,11,19420815
+6,7,Just As Though You Were Here,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19420718,10,6,6,19420815
+7,6,Strictly Instrumental,Harry James & His Music Makers,Harry James,jazz,jazz,19420801,8,6,4,19420815
+8,5,"Jingle, Jangle, Jingle",The Merry Macs,The Merry Macs,pop,big band,19420627,9,4,8,19420815
+9,NEW,Cow-Cow Boogie,Freddie Slack & His Orchestra / Ella Mae Morse,Freddie Slack,jazz,jazz,19420815,9,9,2,19420815
+10,NEW,Take Me,Benny Goodman & His Orchestra / Dick Haymes,Benny Goodman,jazz,jazz,19420815,10,10,1,19420815
+1,1,"Jingle, Jangle, Jingle",Kay Kyser & His Orchestra / Harry Babbitt & Julie Conway,Kay Kyser,jazz,jazz,19420627,4,1,13,19420808
+2,2,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,jazz,19420411,8,2,22,19420808
+3,4,(I've Got A Gal In) Kalamazoo,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,jazz,19420725,7,1,18,19420808
+4,7,He Wears A Pair Of Silver Wings,Kay Kyser & His Orchestra / Harry Babbitt,Kay Kyser,jazz,jazz,19420801,7,2,11,19420808
+5,5,"Jingle, Jangle, Jingle",The Merry Macs,The Merry Macs,pop,big band,19420627,9,4,8,19420808
+6,8,Strictly Instrumental,Harry James & His Music Makers,Harry James,jazz,jazz,19420801,8,6,4,19420808
+7,6,Just As Though You Were Here,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19420718,10,6,6,19420808
+8,9,Sweet Eloise,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,jazz,19420725,10,8,3,19420808
+9,NEW,One Dozen Roses,Harry James & His Music Makers / Jimmy Saunders,Harry James,jazz,jazz,19420808,9,9,1,19420808
+10,10,Jersey Bounce,Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,jazz,19420328,7,2,20,19420808
+1,1,"Jingle, Jangle, Jingle",Kay Kyser & His Orchestra / Harry Babbitt & Julie Conway,Kay Kyser,jazz,jazz,19420627,4,1,13,19420801
+2,3,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,jazz,19420411,8,2,22,19420801
+3,2,Sleepy Lagoon,Harry James & His Music Makers,Harry James,jazz,jazz,19420418,10,1,16,19420801
+4,7,(I've Got A Gal In) Kalamazoo,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,jazz,19420725,7,1,18,19420801
+5,5,"Jingle, Jangle, Jingle",The Merry Macs,The Merry Macs,pop,big band,19420627,9,4,8,19420801
+6,6,Just As Though You Were Here,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19420718,10,6,6,19420801
+7,NEW,He Wears A Pair Of Silver Wings,Kay Kyser & His Orchestra / Harry Babbitt,Kay Kyser,jazz,jazz,19420801,7,2,11,19420801
+8,NEW,Strictly Instrumental,Harry James & His Music Makers,Harry James,jazz,jazz,19420801,8,6,4,19420801
+9,10,Sweet Eloise,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,jazz,19420725,10,8,3,19420801
+10,9,Jersey Bounce,Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,jazz,19420328,7,2,20,19420801
+1,1,"Jingle, Jangle, Jingle",Kay Kyser & His Orchestra / Harry Babbitt & Julie Conway,Kay Kyser,jazz,jazz,19420627,4,1,13,19420725
+2,2,Sleepy Lagoon,Harry James & His Music Makers,Harry James,jazz,jazz,19420418,10,1,16,19420725
+3,3,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,jazz,19420411,8,2,22,19420725
+4,6,One Dozen Roses,Harry James & His Music Masters / Jimmy Saunders,Harry James,jazz,jazz,19420530,7,4,9,19420725
+5,4,"Jingle, Jangle, Jingle",The Merry Macs,The Merry Macs,pop,big band,19420627,9,4,8,19420725
+6,10,Just As Though You Were Here,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19420718,10,6,6,19420725
+7,NEW,(I've Got A Gal In) Kalamazoo,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,jazz,19420725,7,1,18,19420725
+8,NEW,Johnny Doughboy Found A Rose In Ireland,Kay Kyser & His Orchestra / The Glee Club,Kay Kyser,jazz,jazz,19420725,8,8,1,19420725
+9,9,Jersey Bounce,Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,jazz,19420328,7,2,20,19420725
+10,NEW,Sweet Eloise,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,jazz,19420725,10,8,3,19420725
+1,1,"Jingle, Jangle, Jingle",Kay Kyser & His Orchestra / Harry Babbitt & Julie Conway,Kay Kyser,jazz,jazz,19420627,4,1,13,19420718
+2,3,Sleepy Lagoon,Harry James & His Music Makers,Harry James,jazz,jazz,19420418,10,1,16,19420718
+3,2,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,jazz,19420411,8,2,22,19420718
+4,4,"Jingle, Jangle, Jingle",The Merry Macs,The Merry Macs,pop,big band,19420627,9,4,8,19420718
+5,5,Tangerine,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,jazz,19420411,7,1,15,19420718
+6,6,One Dozen Roses,Harry James & His Music Masters / Jimmy Saunders,Harry James,jazz,jazz,19420530,7,4,9,19420718
+7,7,Don't Sit Under The Apple Tree,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,jazz,19420425,8,2,13,19420718
+8,NEW,One Dozen Roses,Dinah Shore,Dinah Shore,jazz,jazz,19420718,8,8,1,19420718
+9,10,Jersey Bounce,Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,jazz,19420328,7,2,20,19420718
+10,NEW,Just As Though You Were Here,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19420718,10,6,6,19420718
+1,3,"Jingle, Jangle, Jingle",Kay Kyser & His Orchestra / Harry Babbitt & Julie Conway,Kay Kyser,jazz,jazz,19420627,4,1,13,19420711
+2,2,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,jazz,19420411,8,2,22,19420711
+3,1,Sleepy Lagoon,Harry James & His Music Makers,Harry James,jazz,jazz,19420418,10,1,16,19420711
+4,4,"Jingle, Jangle, Jingle",The Merry Macs,The Merry Macs,pop,big band,19420627,9,4,8,19420711
+5,9,Tangerine,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,jazz,19420411,7,1,15,19420711
+6,5,One Dozen Roses,Harry James & His Music Masters / Jimmy Saunders,Harry James,jazz,jazz,19420530,7,4,9,19420711
+7,6,Don't Sit Under The Apple Tree,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,jazz,19420425,8,2,13,19420711
+8,NEW,Johnny Doughboy Found A Rose In Ireland,Kay Kyser & His Orchestra / The Glee Club,Kay Kyser,jazz,jazz,19420711,8,8,1,19420711
+9,NEW,One Dozen Roses,Glen Gray & The Casa Loma Orchestra / Pee Wee Hunt,Glen Gray,pop,big band,19420711,9,9,1,19420711
+10,7,Jersey Bounce,Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,jazz,19420328,7,2,20,19420711
+1,1,Sleepy Lagoon,Harry James & His Music Makers,Harry James,jazz,jazz,19420418,10,1,16,19420704
+2,2,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,jazz,19420411,8,2,22,19420704
+3,4,"Jingle, Jangle, Jingle",Kay Kyser & His Orchestra / Harry Babbitt & Julie Conway,Kay Kyser,jazz,jazz,19420627,4,1,13,19420704
+4,9,"Jingle, Jangle, Jingle",The Merry Macs,The Merry Macs,pop,big band,19420627,9,4,8,19420704
+5,5,One Dozen Roses,Harry James & His Music Masters / Jimmy Saunders,Harry James,jazz,jazz,19420530,7,4,9,19420704
+6,6,Don't Sit Under The Apple Tree,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,jazz,19420425,8,2,13,19420704
+7,3,Jersey Bounce,Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,jazz,19420328,7,2,20,19420704
+8,10,One Dozen Roses,Dinah Shore,Dinah Shore,jazz,jazz,19420613,9,8,4,19420704
+9,7,Tangerine,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,jazz,19420411,7,1,15,19420704
+10,8,Skylark,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,jazz,19420425,10,7,11,19420704
+1,1,Sleepy Lagoon,Harry James & His Music Makers,Harry James,jazz,jazz,19420418,10,1,16,19420627
+2,2,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,jazz,19420411,8,2,22,19420627
+3,5,Jersey Bounce,Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,jazz,19420328,7,2,20,19420627
+4,NEW,"Jingle, Jangle, Jingle",Kay Kyser & His Orchestra / Harry Babbitt & Julie Conway,Kay Kyser,jazz,jazz,19420627,4,1,13,19420627
+5,6,One Dozen Roses,Harry James & His Music Masters / Jimmy Saunders,Harry James,jazz,jazz,19420530,7,4,9,19420627
+6,4,Don't Sit Under The Apple Tree,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,jazz,19420425,8,2,13,19420627
+7,3,Tangerine,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,jazz,19420411,7,1,15,19420627
+8,8,Skylark,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,jazz,19420425,10,7,11,19420627
+9,NEW,"Jingle, Jangle, Jingle",The Merry Macs,The Merry Macs,pop,big band,19420627,9,4,8,19420627
+10,10,One Dozen Roses,Dinah Shore,Dinah Shore,jazz,jazz,19420613,9,8,4,19420627
+1,1,Sleepy Lagoon,Harry James & His Music Makers,Harry James,jazz,jazz,19420418,10,1,16,19420620
+2,2,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,jazz,19420411,8,2,22,19420620
+3,5,Tangerine,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,jazz,19420411,7,1,15,19420620
+4,4,Don't Sit Under The Apple Tree,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,jazz,19420425,8,2,13,19420620
+5,3,Jersey Bounce,Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,jazz,19420328,7,2,20,19420620
+6,6,One Dozen Roses,Harry James & His Music Masters / Jimmy Saunders,Harry James,jazz,jazz,19420530,7,4,9,19420620
+7,NEW,Somebody Else Is Taking My Place,Russ Morgan & His Orchestra / The Morganaires,Russ Morgan,pop,russ morgan,19420620,7,7,1,19420620
+8,7,Skylark,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,jazz,19420425,10,7,11,19420620
+9,NEW,Johnny Doughboy Found A Rose In Ireland,Guy Lombardo & His Royal Canadians / Kenny Gardner,Guy Lombardo,jazz,jazz,19420620,9,9,1,19420620
+10,9,One Dozen Roses,Dinah Shore,Dinah Shore,jazz,jazz,19420613,9,8,4,19420620
+1,3,Sleepy Lagoon,Harry James & His Music Makers,Harry James,jazz,jazz,19420418,10,1,16,19420613
+2,4,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,jazz,19420411,8,2,22,19420613
+3,5,Jersey Bounce,Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,jazz,19420328,7,2,20,19420613
+4,2,Don't Sit Under The Apple Tree,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,jazz,19420425,8,2,13,19420613
+5,1,Tangerine,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,jazz,19420411,7,1,15,19420613
+6,7,One Dozen Roses,Harry James & His Music Masters / Jimmy Saunders,Harry James,jazz,jazz,19420530,7,4,9,19420613
+7,10,Skylark,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,jazz,19420425,10,7,11,19420613
+8,NEW,Johnny Doughboy Found A Rose In Ireland,Kay Kyser & His Orchestra / The Glee Club,Kay Kyser,jazz,jazz,19420613,8,8,1,19420613
+9,NEW,One Dozen Roses,Dinah Shore,Dinah Shore,jazz,jazz,19420613,9,8,4,19420613
+10,8,One Dozen Roses,Glen Gray & The Casa Loma Orchestra / Pee Wee Hunt,Glen Gray,pop,big band,19420606,8,8,2,19420613
+1,1,Tangerine,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,jazz,19420411,7,1,15,19420606
+2,2,Don't Sit Under The Apple Tree,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,jazz,19420425,8,2,13,19420606
+3,4,Sleepy Lagoon,Harry James & His Music Makers,Harry James,jazz,jazz,19420418,10,1,16,19420606
+4,5,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,jazz,19420411,8,2,22,19420606
+5,3,Jersey Bounce,Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,jazz,19420328,7,2,20,19420606
+6,6,Somebody Else Is Taking My Place,Russ Morgan & His Orchestra / The Morganaires,Russ Morgan,pop,russ morgan,19420502,6,5,6,19420606
+7,7,One Dozen Roses,Harry James & His Music Masters / Jimmy Saunders,Harry James,jazz,jazz,19420530,7,4,9,19420606
+8,NEW,One Dozen Roses,Glen Gray & The Casa Loma Orchestra / Pee Wee Hunt,Glen Gray,pop,big band,19420606,8,8,2,19420606
+9,NEW,Jersey Bounce,Jimmy Dorsey & His Orchestra,Jimmy Dorsey & His Orchestra,jazz,jazz,19420606,9,9,1,19420606
+10,8,Skylark,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,jazz,19420425,10,7,11,19420606
+1,1,Tangerine,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,jazz,19420411,7,1,15,19420530
+2,3,Don't Sit Under The Apple Tree,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,jazz,19420425,8,2,13,19420530
+3,2,Jersey Bounce,Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,jazz,19420328,7,2,20,19420530
+4,5,Sleepy Lagoon,Harry James & His Music Makers,Harry James,jazz,jazz,19420418,10,1,16,19420530
+5,4,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,jazz,19420411,8,2,22,19420530
+6,6,Somebody Else Is Taking My Place,Russ Morgan & His Orchestra / The Morganaires,Russ Morgan,pop,russ morgan,19420502,6,5,6,19420530
+7,NEW,One Dozen Roses,Harry James & His Music Masters / Jimmy Saunders,Harry James,jazz,jazz,19420530,7,4,9,19420530
+8,7,Skylark,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,jazz,19420425,10,7,11,19420530
+9,NEW,Miss You,Bing Crosby,Bing Crosby,jazz,jazz,19420530,9,9,1,19420530
+10,10,I Don't Want To Walk Without You,Harry James & His Music Masters / Helen Forrest,Harry James,jazz,jazz,19420523,10,10,2,19420530
+1,1,Tangerine,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,jazz,19420411,7,1,15,19420523
+2,2,Jersey Bounce,Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,jazz,19420328,7,2,20,19420523
+3,3,Don't Sit Under The Apple Tree,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,jazz,19420425,8,2,13,19420523
+4,4,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,jazz,19420411,8,2,22,19420523
+5,6,Sleepy Lagoon,Harry James & His Music Makers,Harry James,jazz,jazz,19420418,10,1,16,19420523
+6,5,Somebody Else Is Taking My Place,Russ Morgan & His Orchestra / The Morganaires,Russ Morgan,pop,russ morgan,19420502,6,5,6,19420523
+7,8,Skylark,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,jazz,19420425,10,7,11,19420523
+8,7,Moonlight Cocktail,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,jazz,19420214,5,1,15,19420523
+9,NEW,A String Of Pearls,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,jazz,19420523,9,9,1,19420523
+10,NEW,I Don't Want To Walk Without You,Harry James & His Music Masters / Helen Forrest,Harry James,jazz,jazz,19420523,10,10,2,19420523
+1,1,Tangerine,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,jazz,19420411,7,1,15,19420516
+2,2,Jersey Bounce,Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,jazz,19420328,7,2,20,19420516
+3,5,Don't Sit Under The Apple Tree,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,jazz,19420425,8,2,13,19420516
+4,6,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,jazz,19420411,8,2,22,19420516
+5,10,Somebody Else Is Taking My Place,Russ Morgan & His Orchestra / The Morganaires,Russ Morgan,pop,russ morgan,19420502,6,5,6,19420516
+6,4,Sleepy Lagoon,Harry James & His Music Makers,Harry James,jazz,jazz,19420418,10,1,16,19420516
+7,3,Moonlight Cocktail,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,jazz,19420214,5,1,15,19420516
+8,8,Skylark,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,jazz,19420425,10,7,11,19420516
+9,7,Somebody Else Is Taking My Place,Benny Goodman & His Orchestra / Peggy Lee,Benny Goodman & His Orchestra / Peggy Lee,jazz,jazz,19420321,6,5,9,19420516
+10,NEW,Always In My Heart,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,jazz,19420516,10,10,1,19420516
+1,1,Tangerine,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,jazz,19420411,7,1,15,19420509
+2,2,Jersey Bounce,Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,jazz,19420328,7,2,20,19420509
+3,4,Moonlight Cocktail,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,jazz,19420214,5,1,15,19420509
+4,10,Sleepy Lagoon,Harry James & His Music Makers,Harry James,jazz,jazz,19420418,10,1,16,19420509
+5,5,Don't Sit Under The Apple Tree,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,jazz,19420425,8,2,13,19420509
+6,3,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,jazz,19420411,8,2,22,19420509
+7,9,Somebody Else Is Taking My Place,Benny Goodman & His Orchestra / Peggy Lee,Benny Goodman & His Orchestra / Peggy Lee,jazz,jazz,19420321,6,5,9,19420509
+8,7,Skylark,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,jazz,19420425,10,7,11,19420509
+9,NEW,A String Of Pearls,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,jazz,19420509,9,9,1,19420509
+10,6,Somebody Else Is Taking My Place,Russ Morgan & His Orchestra / The Morganaires,Russ Morgan,pop,russ morgan,19420502,6,5,6,19420509
+1,3,Tangerine,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,jazz,19420411,7,1,15,19420502
+2,2,Jersey Bounce,Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,jazz,19420328,7,2,20,19420502
+3,7,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,jazz,19420411,8,2,22,19420502
+4,1,Moonlight Cocktail,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,jazz,19420214,5,1,15,19420502
+5,8,Don't Sit Under The Apple Tree,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,jazz,19420425,8,2,13,19420502
+6,NEW,Somebody Else Is Taking My Place,Russ Morgan & His Orchestra / The Morganaires,Russ Morgan,pop,russ morgan,19420502,6,5,6,19420502
+7,10,Skylark,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,jazz,19420425,10,7,11,19420502
+8,4,I Don't Want To Walk Without You,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19420221,10,2,11,19420502
+9,5,Somebody Else Is Taking My Place,Benny Goodman & His Orchestra / Peggy Lee,Benny Goodman & His Orchestra / Peggy Lee,jazz,jazz,19420321,6,5,9,19420502
+10,9,Sleepy Lagoon,Harry James & His Music Makers,Harry James,jazz,jazz,19420418,10,1,16,19420502
+1,1,Moonlight Cocktail,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,jazz,19420214,5,1,15,19420425
+2,2,Jersey Bounce,Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,jazz,19420328,7,2,20,19420425
+3,4,Tangerine,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,jazz,19420411,7,1,15,19420425
+4,3,I Don't Want To Walk Without You,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19420221,10,2,11,19420425
+5,7,Somebody Else Is Taking My Place,Benny Goodman & His Orchestra / Peggy Lee,Benny Goodman & His Orchestra / Peggy Lee,jazz,jazz,19420321,6,5,9,19420425
+6,6,A String Of Pearls,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,jazz,19420117,10,1,15,19420425
+7,8,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,jazz,19420411,8,2,22,19420425
+8,NEW,Don't Sit Under The Apple Tree,Glenn Miller & His Orchestra / Marion Hutton & Tex Beneke,Glenn Miller,jazz,jazz,19420425,8,2,13,19420425
+9,10,Sleepy Lagoon,Harry James & His Music Makers,Harry James,jazz,jazz,19420418,10,1,16,19420425
+10,NEW,Skylark,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,jazz,19420425,10,7,11,19420425
+1,1,Moonlight Cocktail,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,jazz,19420214,5,1,15,19420418
+2,3,Jersey Bounce,Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,jazz,19420328,7,2,20,19420418
+3,2,I Don't Want To Walk Without You,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19420221,10,2,11,19420418
+4,7,Tangerine,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,jazz,19420411,7,1,15,19420418
+5,5,Somebody Else Is Taking My Place,Russ Morgan & His Orchestra / The Morganaires,Russ Morgan,pop,russ morgan,19420328,10,5,4,19420418
+6,4,A String Of Pearls,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,jazz,19420117,10,1,15,19420418
+7,6,Somebody Else Is Taking My Place,Benny Goodman & His Orchestra / Peggy Lee,Benny Goodman & His Orchestra / Peggy Lee,jazz,jazz,19420321,6,5,9,19420418
+8,8,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,jazz,19420411,8,2,22,19420418
+9,NEW,I Remember You,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,jazz,19420418,9,9,1,19420418
+10,NEW,Sleepy Lagoon,Harry James & His Music Makers,Harry James,jazz,jazz,19420418,10,1,16,19420418
+1,1,Moonlight Cocktail,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,jazz,19420214,5,1,15,19420411
+2,2,I Don't Want To Walk Without You,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19420221,10,2,11,19420411
+3,4,Jersey Bounce,Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,jazz,19420328,7,2,20,19420411
+4,3,A String Of Pearls,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,jazz,19420117,10,1,15,19420411
+5,8,Somebody Else Is Taking My Place,Russ Morgan & His Orchestra / The Morganaires,Russ Morgan,pop,russ morgan,19420328,10,5,4,19420411
+6,5,Somebody Else Is Taking My Place,Benny Goodman & His Orchestra / Peggy Lee,Benny Goodman & His Orchestra / Peggy Lee,jazz,jazz,19420321,6,5,9,19420411
+7,NEW,Tangerine,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,jazz,19420411,7,1,15,19420411
+8,NEW,Who Wouldn't Love You,Kay Kyser & His Orchestra / Harry Babbitt & Trudy Erwin,Kay Kyser,jazz,jazz,19420411,8,2,22,19420411
+9,NEW,Deep In The Heart Of Texas,Horace Heidt & His Orchestra / Band Ensemble,Horace Heidt,jazz,jazz,19420411,9,9,1,19420411
+10,9,Deep In The Heart Of Texas,Alvino Rey & His Orchestra / Bill Schallen & Skeets Herfurt,Alvino Rey,jazz,swing,19420328,6,6,3,19420411
+1,1,Moonlight Cocktail,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,jazz,19420214,5,1,15,19420404
+2,2,I Don't Want To Walk Without You,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19420221,10,2,11,19420404
+3,3,A String Of Pearls,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,jazz,19420117,10,1,15,19420404
+4,7,Jersey Bounce,Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,jazz,19420328,7,2,20,19420404
+5,8,Somebody Else Is Taking My Place,Benny Goodman & His Orchestra / Peggy Lee,Benny Goodman & His Orchestra / Peggy Lee,jazz,jazz,19420321,6,5,9,19420404
+6,4,Deep In The Heart Of Texas,Bing Crosby / Woody Herman & His Woodchoppers,Bing Crosby / Woody Herman,pop,unknown,19420228,3,3,6,19420404
+7,5,Blues In The Night,Dinah Shore,Dinah Shore,jazz,jazz,19420228,7,4,6,19420404
+8,10,Somebody Else Is Taking My Place,Russ Morgan & His Orchestra / The Morganaires,Russ Morgan,pop,russ morgan,19420328,10,5,4,19420404
+9,6,Deep In The Heart Of Texas,Alvino Rey & His Orchestra / Bill Schallen & Skeets Herfurt,Alvino Rey,jazz,swing,19420328,6,6,3,19420404
+10,NEW,Miss You,Dinah Shore,Dinah Shore,jazz,jazz,19420404,10,10,1,19420404
+1,1,Moonlight Cocktail,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,jazz,19420214,5,1,15,19420328
+2,2,I Don't Want To Walk Without You,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19420221,10,2,11,19420328
+3,3,A String Of Pearls,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,jazz,19420117,10,1,15,19420328
+4,4,Deep In The Heart Of Texas,Bing Crosby / Woody Herman & His Woodchoppers,Bing Crosby / Woody Herman,pop,unknown,19420228,3,3,6,19420328
+5,5,Blues In The Night,Dinah Shore,Dinah Shore,jazz,jazz,19420228,7,4,6,19420328
+6,NEW,Deep In The Heart Of Texas,Alvino Rey & His Orchestra / Bill Schallen & Skeets Herfurt,Alvino Rey,jazz,swing,19420328,6,6,3,19420328
+7,NEW,Jersey Bounce,Benny Goodman & His Orchestra,Benny Goodman & His Orchestra,jazz,jazz,19420328,7,2,20,19420328
+8,6,Somebody Else Is Taking My Place,Benny Goodman & His Orchestra / Peggy Lee,Benny Goodman & His Orchestra / Peggy Lee,jazz,jazz,19420321,6,5,9,19420328
+9,NEW,I Don't Want To Talk Without You,Bing Crosby,Bing Crosby,jazz,jazz,19420328,9,9,1,19420328
+10,NEW,Somebody Else Is Taking My Place,Russ Morgan & His Orchestra / The Morganaires,Russ Morgan,pop,russ morgan,19420328,10,5,4,19420328
+1,1,Moonlight Cocktail,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,jazz,19420214,5,1,15,19420321
+2,3,I Don't Want To Walk Without You,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19420221,10,2,11,19420321
+3,2,A String Of Pearls,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,jazz,19420117,10,1,15,19420321
+4,5,Deep In The Heart Of Texas,Bing Crosby / Woody Herman & His Woodchoppers,Bing Crosby / Woody Herman,pop,unknown,19420228,3,3,6,19420321
+5,4,Blues In The Night,Dinah Shore,Dinah Shore,jazz,jazz,19420228,7,4,6,19420321
+6,NEW,Somebody Else Is Taking My Place,Benny Goodman & His Orchestra / Peggy Lee,Benny Goodman & His Orchestra / Peggy Lee,jazz,jazz,19420321,6,5,9,19420321
+7,9,Blues In The Night,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,jazz,19420314,9,7,2,19420321
+8,10,Miss You,Dinah Shore,Dinah Shore,jazz,jazz,19420314,10,8,2,19420321
+9,NEW,"I Said ""No""",Alvino Rey & His Orchestra / Yvonne King,Alvino Rey,jazz,swing,19420321,9,9,1,19420321
+10,7,Deep In The Heart Of Texas,Horace Heidt & His Musical Knights / Band Ensemble,Horace Heidt,jazz,jazz,19420307,9,7,3,19420321
+1,1,Moonlight Cocktail,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,jazz,19420214,5,1,15,19420314
+2,5,A String Of Pearls,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,jazz,19420117,10,1,15,19420314
+3,2,I Don't Want To Walk Without You,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19420221,10,2,11,19420314
+4,6,Blues In The Night,Dinah Shore,Dinah Shore,jazz,jazz,19420228,7,4,6,19420314
+5,3,Deep In The Heart Of Texas,Bing Crosby / Woody Herman & His Woodchoppers,Bing Crosby / Woody Herman,pop,unknown,19420228,3,3,6,19420314
+6,4,Deep In The Heart Of Texas,Alvino Rey & His Orchestra / Bill Schallen & Skeets Herfurt,Alvino Rey,jazz,swing,19420207,10,3,6,19420314
+7,9,Deep In The Heart Of Texas,Horace Heidt & His Musical Knights / Band Ensemble,Horace Heidt,jazz,jazz,19420307,9,7,3,19420314
+8,NEW,A Zoot Suit,Kay Kyser & His Orchestra / Sully Mason & Trudy Erwin,Kay Kyser,jazz,jazz,19420314,8,8,1,19420314
+9,NEW,Blues In The Night,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,jazz,19420314,9,7,2,19420314
+10,NEW,Miss You,Dinah Shore,Dinah Shore,jazz,jazz,19420314,10,8,2,19420314
+1,1,Moonlight Cocktail,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,jazz,19420214,5,1,15,19420307
+2,8,I Don't Want To Walk Without You,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19420221,10,2,11,19420307
+3,3,Deep In The Heart Of Texas,Bing Crosby / Woody Herman & His Woodchoppers,Bing Crosby / Woody Herman,pop,unknown,19420228,3,3,6,19420307
+4,5,Deep In The Heart Of Texas,Alvino Rey & His Orchestra / Bill Schallen & Skeets Herfurt,Alvino Rey,jazz,swing,19420207,10,3,6,19420307
+5,2,A String Of Pearls,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,jazz,19420117,10,1,15,19420307
+6,7,Blues In The Night,Dinah Shore,Dinah Shore,jazz,jazz,19420228,7,4,6,19420307
+7,4,I Said No!,Alvino Rey & His Orchestra / Yvonne King,Alvino Rey,jazz,swing,19420110,10,2,9,19420307
+8,NEW,Blues In The Night,Cab Calloway,Cab Calloway,jazz,jazz,19420307,8,8,1,19420307
+9,NEW,Deep In The Heart Of Texas,Horace Heidt & His Musical Knights / Band Ensemble,Horace Heidt,jazz,jazz,19420307,9,7,3,19420307
+10,10,Rose O'Day (The Filla-Ga-Dusha Song),Kate Smith,Kate Smith,pop,40s,19420221,8,8,3,19420307
+1,1,Moonlight Cocktail,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,jazz,19420214,5,1,15,19420228
+2,2,A String Of Pearls,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,jazz,19420117,10,1,15,19420228
+3,NEW,Deep In The Heart Of Texas,Bing Crosby / Woody Herman & His Woodchoppers,Bing Crosby / Woody Herman,pop,unknown,19420228,3,3,6,19420228
+4,4,I Said No!,Alvino Rey & His Orchestra / Yvonne King,Alvino Rey,jazz,swing,19420110,10,2,9,19420228
+5,3,Deep In The Heart Of Texas,Alvino Rey & His Orchestra / Bill Schallen & Skeets Herfurt,Alvino Rey,jazz,swing,19420207,10,3,6,19420228
+6,7,Blues In The Night,Jimmie Lunceford & His Orchestra / Band Ensemble,Jimmie Lunceford,jazz,jazz,19420131,6,4,5,19420228
+7,NEW,Blues In The Night,Dinah Shore,Dinah Shore,jazz,jazz,19420228,7,4,6,19420228
+8,10,I Don't Want To Walk Without You,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19420221,10,2,11,19420228
+9,5,Blues In The Night,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,jazz,19420103,7,1,9,19420228
+10,8,Rose O'Day (The Filla-Ga-Dusha Song),Kate Smith,Kate Smith,pop,40s,19420221,8,8,3,19420228
+1,5,Moonlight Cocktail,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,jazz,19420214,5,1,15,19420221
+2,1,A String Of Pearls,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,jazz,19420117,10,1,15,19420221
+3,7,Deep In The Heart Of Texas,Alvino Rey & His Orchestra / Bill Schallen & Skeets Herfurt,Alvino Rey,jazz,swing,19420207,10,3,6,19420221
+4,2,I Said No!,Alvino Rey & His Orchestra / Yvonne King,Alvino Rey,jazz,swing,19420110,10,2,9,19420221
+5,3,Blues In The Night,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,jazz,19420103,7,1,9,19420221
+6,6,Remember Pearl Harbor,Sammy Kaye & His Orchestra / The Glee Club,Sammy Kaye,jazz,swing,19420124,7,3,5,19420221
+7,4,Blues In The Night,Jimmie Lunceford & His Orchestra / Band Ensemble,Jimmie Lunceford,jazz,jazz,19420131,6,4,5,19420221
+8,NEW,Rose O'Day (The Filla-Ga-Dusha Song),Kate Smith,Kate Smith,pop,40s,19420221,8,8,3,19420221
+9,10,(There'll Be Bluebirds Over) The White Cliffs Of Dover,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,jazz,19420110,9,6,7,19420221
+10,NEW,I Don't Want To Walk Without You,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19420221,10,2,11,19420221
+1,2,A String Of Pearls,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,jazz,19420117,10,1,15,19420214
+2,4,I Said No!,Alvino Rey & His Orchestra / Yvonne King,Alvino Rey,jazz,swing,19420110,10,2,9,19420214
+3,1,Blues In The Night,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,jazz,19420103,7,1,9,19420214
+4,5,Blues In The Night,Jimmie Lunceford & His Orchestra / Band Ensemble,Jimmie Lunceford,jazz,jazz,19420131,6,4,5,19420214
+5,NEW,Moonlight Cocktail,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,jazz,19420214,5,1,15,19420214
+6,3,Remember Pearl Harbor,Sammy Kaye & His Orchestra / The Glee Club,Sammy Kaye,jazz,swing,19420124,7,3,5,19420214
+7,10,Deep In The Heart Of Texas,Alvino Rey & His Orchestra / Bill Schallen & Skeets Herfurt,Alvino Rey,jazz,swing,19420207,10,3,6,19420214
+8,NEW,Blues In The Night,Dinah Shore,Dinah Shore,jazz,jazz,19420214,8,8,1,19420214
+9,NEW,(There'll Be Bluebirds Over) The White Cliffs Of Dover,Kate Smith,Kate Smith,pop,40s,19420214,9,9,1,19420214
+10,8,(There'll Be Bluebirds Over) The White Cliffs Of Dover,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,jazz,19420110,9,6,7,19420214
+1,4,Blues In The Night,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,jazz,19420103,7,1,9,19420207
+2,1,A String Of Pearls,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,jazz,19420117,10,1,15,19420207
+3,7,Remember Pearl Harbor,Sammy Kaye & His Orchestra / The Glee Club,Sammy Kaye,jazz,swing,19420124,7,3,5,19420207
+4,3,I Said No!,Alvino Rey & His Orchestra / Yvonne King,Alvino Rey,jazz,swing,19420110,10,2,9,19420207
+5,6,Blues In The Night,Jimmie Lunceford & His Orchestra / Band Ensemble,Jimmie Lunceford,jazz,jazz,19420131,6,4,5,19420207
+6,2,Chattanooga Choo Choo,Glenn Miller & His Orchestra / Tex Beneke & The Modernaires,Glenn Miller,jazz,jazz,19410906,9,1,23,19420207
+7,10,Everything I Love,Glenn Miller & His Orchestra / Ray Eberle & Choir,Glenn Miller,jazz,jazz,19420117,9,7,4,19420207
+8,9,(There'll Be Bluebirds Over) The White Cliffs Of Dover,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,jazz,19420110,9,6,7,19420207
+9,8,Elmer's Tune,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,jazz,19411101,4,1,15,19420207
+10,NEW,Deep In The Heart Of Texas,Alvino Rey & His Orchestra / Bill Schallen & Skeets Herfurt,Alvino Rey,jazz,swing,19420207,10,3,6,19420207
+1,3,A String Of Pearls,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,jazz,19420117,10,1,15,19420131
+2,1,Chattanooga Choo Choo,Glenn Miller & His Orchestra / Tex Beneke & The Modernaires,Glenn Miller,jazz,jazz,19410906,9,1,23,19420131
+3,5,I Said No!,Alvino Rey & His Orchestra / Yvonne King,Alvino Rey,jazz,swing,19420110,10,2,9,19420131
+4,2,Blues In The Night,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,jazz,19420103,7,1,9,19420131
+5,6,This Love Of Mine,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,jazz,19411018,9,3,16,19420131
+6,NEW,Blues In The Night,Jimmie Lunceford & His Orchestra / Band Ensemble,Jimmie Lunceford,jazz,jazz,19420131,6,4,5,19420131
+7,7,Remember Pearl Harbor,Sammy Kaye & His Orchestra / The Glee Club,Sammy Kaye,jazz,swing,19420124,7,3,5,19420131
+8,4,Elmer's Tune,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,jazz,19411101,4,1,15,19420131
+9,9,(There'll Be Bluebirds Over) The White Cliffs Of Dover,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,jazz,19420110,9,6,7,19420131
+10,8,Everything I Love,Glenn Miller & His Orchestra / Ray Eberle & Choir,Glenn Miller,jazz,jazz,19420117,9,7,4,19420131
+1,1,Chattanooga Choo Choo,Glenn Miller & His Orchestra / Tex Beneke & The Modernaires,Glenn Miller,jazz,jazz,19410906,9,1,23,19420124
+2,4,Blues In The Night,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,jazz,19420103,7,1,9,19420124
+3,10,A String Of Pearls,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,jazz,19420117,10,1,15,19420124
+4,2,Elmer's Tune,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,jazz,19411101,4,1,15,19420124
+5,8,I Said No!,Alvino Rey & His Orchestra / Yvonne King,Alvino Rey,jazz,swing,19420110,10,2,9,19420124
+6,3,This Love Of Mine,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,jazz,19411018,9,3,16,19420124
+7,NEW,Remember Pearl Harbor,Sammy Kaye & His Orchestra / The Glee Club,Sammy Kaye,jazz,swing,19420124,7,3,5,19420124
+8,9,Everything I Love,Glenn Miller & His Orchestra / Ray Eberle & Choir,Glenn Miller,jazz,jazz,19420117,9,7,4,19420124
+9,6,(There'll Be Bluebirds Over) The White Cliffs Of Dover,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,jazz,19420110,9,6,7,19420124
+10,NEW,I Said No,Jimmy Dorsey & His Orchestra / Bob Eberly & Helen O'Connell,Jimmy Dorsey,jazz,jazz,19420124,10,10,1,19420124
+1,1,Chattanooga Choo Choo,Glenn Miller & His Orchestra / Tex Beneke & The Modernaires,Glenn Miller,jazz,jazz,19410906,9,1,23,19420117
+2,2,Elmer's Tune,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,jazz,19411101,4,1,15,19420117
+3,3,This Love Of Mine,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,jazz,19411018,9,3,16,19420117
+4,6,Blues In The Night,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,jazz,19420103,7,1,9,19420117
+5,7,You Made Me Love You,Harry James & His Music Makers,Harry James,jazz,jazz,19411129,5,5,8,19420117
+6,9,(There'll Be Bluebirds Over) The White Cliffs Of Dover,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,jazz,19420110,9,6,7,19420117
+7,NEW,(There'll Be Bluebirds Over) The White Cliffs Of Dover,Kay Kyser & His Orchestra / Harry Babbitt & The Glee Club,Kay Kyser,jazz,jazz,19420117,7,7,1,19420117
+8,10,I Said No!,Alvino Rey & His Orchestra / Yvonne King,Alvino Rey,jazz,swing,19420110,10,2,9,19420117
+9,NEW,Everything I Love,Glenn Miller & His Orchestra / Ray Eberle & Choir,Glenn Miller,jazz,jazz,19420117,9,7,4,19420117
+10,NEW,A String Of Pearls,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,jazz,19420117,10,1,15,19420117
+1,1,Chattanooga Choo Choo,Glenn Miller & His Orchestra / Tex Beneke & The Modernaires,Glenn Miller,jazz,jazz,19410906,9,1,23,19420110
+2,2,Elmer's Tune,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,jazz,19411101,4,1,15,19420110
+3,4,This Love Of Mine,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,jazz,19411018,9,3,16,19420110
+4,3,Piano Concerto In B Flat,Freddy Martin & His Orchestra / Jack Fina,Freddy Martin,jazz,jazz,19410802,8,1,24,19420110
+5,5,Shepherd Serenade,Bing Crosby,Bing Crosby,jazz,jazz,19411206,8,5,6,19420110
+6,7,Blues In The Night,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,jazz,19420103,7,1,9,19420110
+7,6,You Made Me Love You,Harry James & His Music Makers,Harry James,jazz,jazz,19411129,5,5,8,19420110
+8,NEW,Tonight We Love,Freddy Martin & His Orchestra / Clyde Rogers,Freddy Martin,jazz,jazz,19420110,8,8,1,19420110
+9,NEW,(There'll Be Bluebirds Over) The White Cliffs Of Dover,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,jazz,19420110,9,6,7,19420110
+10,NEW,I Said No!,Alvino Rey & His Orchestra / Yvonne King,Alvino Rey,jazz,swing,19420110,10,2,9,19420110
+1,1,Chattanooga Choo Choo,Glenn Miller & His Orchestra / Tex Beneke & The Modernaires,Glenn Miller,jazz,jazz,19410906,9,1,23,19420103
+2,2,Elmer's Tune,Glenn Miller & His Orchestra / Ray Eberle & The Modernaires,Glenn Miller,jazz,jazz,19411101,4,1,15,19420103
+3,4,Piano Concerto In B Flat,Freddy Martin & His Orchestra / Jack Fina,Freddy Martin,jazz,jazz,19410802,8,1,24,19420103
+4,3,This Love Of Mine,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,jazz,19411018,9,3,16,19420103
+5,5,Shepherd Serenade,Bing Crosby,Bing Crosby,jazz,jazz,19411206,8,5,6,19420103
+6,8,You Made Me Love You,Harry James & His Music Makers,Harry James,jazz,jazz,19411129,5,5,8,19420103
+7,NEW,Blues In The Night,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,jazz,19420103,7,1,9,19420103
+8,9,This Is No Laughing Matter,Charlie Spivak & His Orchestra / Garry Stevens,Charlie Spivak,jazz,jazz,19411227,9,8,2,19420103
+9,NEW,A String Of Pearls,Glenn Miller & His Orchestra,Glenn Miller & His Orchestra,jazz,jazz,19420103,9,9,1,19420103
+10,NEW,(There'll Be Bluebirds Over) The White Cliffs Of Dover,Kay Kyser & His Orchestra / Harry Babbitt & The Glee Club,Kay Kyser,jazz,jazz,19420103,10,10,1,19420103

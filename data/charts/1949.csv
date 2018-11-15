@@ -1,1041 +1,1041 @@
-this_week_position,last_week_position,track,artist,clean_artist,genre,entry_date,entry_position,peak_position,total_weeks,chart_date
-1,1,Mule Train,Frankie Laine,Frankie Laine,country / folk,19491113,9,1,12,19491225
-2,2,I Can Dream Can't I,Andrews Sisters / Gordon Jenkins,Andrews Sisters / Gordon Jenkins,pop,19491002,19,1,22,19491225
-3,3,Slipping Around,Margaret Whiting / Jimmy Wakely,Margaret Whiting / Jimmy Wakely,pop,19490925,14,2,20,19491225
-4,8,Rudolph The Red Nosed Reindeer,Gene Autrey,Gene Autrey,country / folk,19491211,12,1,6,19491225
-5,7,Mule Train,Bing Crosby,Bing Crosby,jazz,19491120,10,5,9,19491225
-6,4,Don't Cry Joe,Gordon Jenkins / Betty Brewer,Gordon Jenkins / Betty Brewer,pop,19491002,14,4,13,19491225
-7,5,A Dreamer's Holiday,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,19491106,12,4,14,19491225
-8,6,That Lucky Old Sun,Frankie Laine,Frankie Laine,country / folk,19490904,20,1,18,19491225
-9,11,I Yust Go Nuts At Christmas,Yogi Yorgesson,Yogi Yorgesson,pop,19491218,11,5,3,19491225
-10,NEW,White Christmas,Bing Crosby,Bing Crosby,jazz,19491225,10,7,2,19491225
-11,9,I Never See Maggie Alone,Kenny Roberts,Kenny Roberts,country / folk,19490911,17,9,16,19491225
-12,14,I've Got A Lovely Bunch Of Coconuts,Freddy Martin / Merv Griffin,Freddy Martin / Merv Griffin,pop,19491113,16,8,7,19491225
-13,19,Yingle Bells,Yogi Yorgesson,Yogi Yorgesson,pop,19491218,19,9,3,19491225
-14,NEW,Dear Hearts And Gentle People,Bing Crosby,Bing Crosby,jazz,19491225,14,2,12,19491225
-15,13,Whispering Hope,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19490911,20,6,19,19491225
-16,NEW,Dear Hearts And Gentle People,Dinah Shore,Dinah Shore,jazz,19491225,16,7,11,19491225
-17,15,Mule Train,Vaughn Monroe,Vaughn Monroe,jazz,19491127,18,10,5,19491225
-18,12,Jealous Heart,Al Morgan,Al Morgan,pop,19490731,7,4,22,19491225
-19,10,Mule Train,Tennessee Ernie Ford,Tennessee Ernie Ford,country / folk,19491204,20,10,4,19491225
-20,NEW,Johnson Rag,Jack Teter Trio,Jack Teter Trio,pop,19491225,20,6,9,19491225
-1,1,Mule Train,Frankie Laine,Frankie Laine,country / folk,19491113,9,1,12,19491218
-2,2,I Can Dream Can't I,Andrews Sisters / Gordon Jenkins,Andrews Sisters / Gordon Jenkins,pop,19491002,19,1,22,19491218
-3,3,Slipping Around,Margaret Whiting / Jimmy Wakely,Margaret Whiting / Jimmy Wakely,pop,19490925,14,2,20,19491218
-4,6,Don't Cry Joe,Gordon Jenkins / Betty Brewer,Gordon Jenkins / Betty Brewer,pop,19491002,14,4,13,19491218
-5,7,A Dreamer's Holiday,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,19491106,12,4,14,19491218
-6,4,That Lucky Old Sun,Frankie Laine,Frankie Laine,country / folk,19490904,20,1,18,19491218
-7,5,Mule Train,Bing Crosby,Bing Crosby,jazz,19491120,10,5,9,19491218
-8,12,Rudolph The Red Nosed Reindeer,Gene Autrey,Gene Autrey,country / folk,19491211,12,1,6,19491218
-9,9,I Never See Maggie Alone,Kenny Roberts,Kenny Roberts,country / folk,19490911,17,9,16,19491218
-10,18,Mule Train,Tennessee Ernie Ford,Tennessee Ernie Ford,country / folk,19491204,20,10,4,19491218
-11,NEW,I Yust Go Nuts At Christmas,Yogi Yorgesson,Yogi Yorgesson,pop,19491218,11,5,3,19491218
-12,11,Jealous Heart,Al Morgan,Al Morgan,pop,19490731,7,4,22,19491218
-13,13,Whispering Hope,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19490911,20,6,19,19491218
-14,8,I've Got A Lovely Bunch Of Coconuts,Freddy Martin / Merv Griffin,Freddy Martin / Merv Griffin,pop,19491113,16,8,7,19491218
-15,10,Mule Train,Vaughn Monroe,Vaughn Monroe,jazz,19491127,18,10,5,19491218
-16,NEW,The Old Master Painter,Richard Hayes,Richard Hayes,pop,19491218,16,16,1,19491218
-17,NEW,Charley My Boy,Andrews Sisters / Russ Morgan,Andrews Sisters / Russ Morgan,pop,19491218,17,17,1,19491218
-18,15,That Lucky Old Sun,Vaughn Monroe,Vaughn Monroe,jazz,19491023,16,9,9,19491218
-19,NEW,Yingle Bells,Yogi Yorgesson,Yogi Yorgesson,pop,19491218,19,9,3,19491218
-20,20,Canadian Capers,Doris Day,Doris Day,jazz,19491120,16,16,5,19491218
-1,1,Mule Train,Frankie Laine,Frankie Laine,country / folk,19491113,9,1,12,19491211
-2,2,I Can Dream Can't I,Andrews Sisters / Gordon Jenkins,Andrews Sisters / Gordon Jenkins,pop,19491002,19,1,22,19491211
-3,3,Slipping Around,Margaret Whiting / Jimmy Wakely,Margaret Whiting / Jimmy Wakely,pop,19490925,14,2,20,19491211
-4,4,That Lucky Old Sun,Frankie Laine,Frankie Laine,country / folk,19490904,20,1,18,19491211
-5,5,Mule Train,Bing Crosby,Bing Crosby,jazz,19491120,10,5,9,19491211
-6,6,Don't Cry Joe,Gordon Jenkins / Betty Brewer,Gordon Jenkins / Betty Brewer,pop,19491002,14,4,13,19491211
-7,7,A Dreamer's Holiday,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,19491106,12,4,14,19491211
-8,9,I've Got A Lovely Bunch Of Coconuts,Freddy Martin / Merv Griffin,Freddy Martin / Merv Griffin,pop,19491113,16,8,7,19491211
-9,11,I Never See Maggie Alone,Kenny Roberts,Kenny Roberts,country / folk,19490911,17,9,16,19491211
-10,13,Mule Train,Vaughn Monroe,Vaughn Monroe,jazz,19491127,18,10,5,19491211
-11,8,Jealous Heart,Al Morgan,Al Morgan,pop,19490731,7,4,22,19491211
-12,NEW,Rudolph The Red Nosed Reindeer,Gene Autrey,Gene Autrey,country / folk,19491211,12,1,6,19491211
-13,10,Whispering Hope,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19490911,20,6,19,19491211
-14,14,I'll Never Slip Around Again,Margaret Whiting / Jimmy Wakely,Margaret Whiting / Jimmy Wakely,pop,19491113,11,11,5,19491211
-15,12,That Lucky Old Sun,Vaughn Monroe,Vaughn Monroe,jazz,19491023,16,9,9,19491211
-16,17,Johnson Rag,Jack Teter Trio,Jack Teter Trio,pop,19491120,17,16,4,19491211
-17,15,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,19490710,13,1,23,19491211
-18,20,Mule Train,Tennessee Ernie Ford,Tennessee Ernie Ford,country / folk,19491204,20,10,4,19491211
-19,NEW,A Dreamer's Holiday,Buddy Clark,Buddy Clark,jazz,19491211,19,19,1,19491211
-20,19,Canadian Capers,Doris Day,Doris Day,jazz,19491120,16,16,5,19491211
-1,1,Mule Train,Frankie Laine,Frankie Laine,country / folk,19491113,9,1,12,19491204
-2,4,I Can Dream Can't I,Andrews Sisters / Gordon Jenkins,Andrews Sisters / Gordon Jenkins,pop,19491002,19,1,22,19491204
-3,3,Slipping Around,Margaret Whiting / Jimmy Wakely,Margaret Whiting / Jimmy Wakely,pop,19490925,14,2,20,19491204
-4,2,That Lucky Old Sun,Frankie Laine,Frankie Laine,country / folk,19490904,20,1,18,19491204
-5,6,Mule Train,Bing Crosby,Bing Crosby,jazz,19491120,10,5,9,19491204
-6,5,Don't Cry Joe,Gordon Jenkins / Betty Brewer,Gordon Jenkins / Betty Brewer,pop,19491002,14,4,13,19491204
-7,8,A Dreamer's Holiday,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,19491106,12,4,14,19491204
-8,7,Jealous Heart,Al Morgan,Al Morgan,pop,19490731,7,4,22,19491204
-9,12,I've Got A Lovely Bunch Of Coconuts,Freddy Martin / Merv Griffin,Freddy Martin / Merv Griffin,pop,19491113,16,8,7,19491204
-10,10,Whispering Hope,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19490911,20,6,19,19491204
-11,15,I Never See Maggie Alone,Kenny Roberts,Kenny Roberts,country / folk,19490911,17,9,16,19491204
-12,14,That Lucky Old Sun,Vaughn Monroe,Vaughn Monroe,jazz,19491023,16,9,9,19491204
-13,18,Mule Train,Vaughn Monroe,Vaughn Monroe,jazz,19491127,18,10,5,19491204
-14,13,I'll Never Slip Around Again,Margaret Whiting / Jimmy Wakely,Margaret Whiting / Jimmy Wakely,pop,19491113,11,11,5,19491204
-15,9,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,19490710,13,1,23,19491204
-16,NEW,Hop-Scotch Polka (Scotch Hot),Guy Lombardo,Guy Lombardo,jazz,19491204,16,16,1,19491204
-17,19,Johnson Rag,Jack Teter Trio,Jack Teter Trio,pop,19491120,17,16,4,19491204
-18,11,You're Breaking My Heart,Buddy Clark,Buddy Clark,jazz,19491002,18,9,10,19491204
-19,17,Canadian Capers,Doris Day,Doris Day,jazz,19491120,16,16,5,19491204
-20,NEW,Mule Train,Tennessee Ernie Ford,Tennessee Ernie Ford,country / folk,19491204,20,10,4,19491204
-1,3,Mule Train,Frankie Laine,Frankie Laine,country / folk,19491113,9,1,12,19491127
-2,1,That Lucky Old Sun,Frankie Laine,Frankie Laine,country / folk,19490904,20,1,18,19491127
-3,2,Slipping Around,Margaret Whiting / Jimmy Wakely,Margaret Whiting / Jimmy Wakely,pop,19490925,14,2,20,19491127
-4,4,I Can Dream Can't I,Andrews Sisters / Gordon Jenkins,Andrews Sisters / Gordon Jenkins,pop,19491002,19,1,22,19491127
-5,5,Don't Cry Joe,Gordon Jenkins / Betty Brewer,Gordon Jenkins / Betty Brewer,pop,19491002,14,4,13,19491127
-6,10,Mule Train,Bing Crosby,Bing Crosby,jazz,19491120,10,5,9,19491127
-7,6,Jealous Heart,Al Morgan,Al Morgan,pop,19490731,7,4,22,19491127
-8,8,A Dreamer's Holiday,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,19491106,12,4,14,19491127
-9,7,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,19490710,13,1,23,19491127
-10,11,Whispering Hope,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19490911,20,6,19,19491127
-11,14,You're Breaking My Heart,Buddy Clark,Buddy Clark,jazz,19491002,18,9,10,19491127
-12,15,I've Got A Lovely Bunch Of Coconuts,Freddy Martin / Merv Griffin,Freddy Martin / Merv Griffin,pop,19491113,16,8,7,19491127
-13,12,I'll Never Slip Around Again,Margaret Whiting / Jimmy Wakely,Margaret Whiting / Jimmy Wakely,pop,19491113,11,11,5,19491127
-14,9,That Lucky Old Sun,Vaughn Monroe,Vaughn Monroe,jazz,19491023,16,9,9,19491127
-15,19,I Never See Maggie Alone,Kenny Roberts,Kenny Roberts,country / folk,19490911,17,9,16,19491127
-16,13,Someday,Vaughn Monroe,Vaughn Monroe,jazz,19490904,4,2,13,19491127
-17,16,Canadian Capers,Doris Day,Doris Day,jazz,19491120,16,16,5,19491127
-18,NEW,Mule Train,Vaughn Monroe,Vaughn Monroe,jazz,19491127,18,10,5,19491127
-19,17,Johnson Rag,Jack Teter Trio,Jack Teter Trio,pop,19491120,17,16,4,19491127
-20,NEW,Toot Toot Tootsie (Good-Bye),Art Mooney,Art Mooney,pop,19491127,20,20,1,19491127
-1,1,That Lucky Old Sun,Frankie Laine,Frankie Laine,country / folk,19490904,20,1,18,19491120
-2,3,Slipping Around,Margaret Whiting / Jimmy Wakely,Margaret Whiting / Jimmy Wakely,pop,19490925,14,2,20,19491120
-3,9,Mule Train,Frankie Laine,Frankie Laine,country / folk,19491113,9,1,12,19491120
-4,2,I Can Dream Can't I,Andrews Sisters / Gordon Jenkins,Andrews Sisters / Gordon Jenkins,pop,19491002,19,1,22,19491120
-5,4,Don't Cry Joe,Gordon Jenkins / Betty Brewer,Gordon Jenkins / Betty Brewer,pop,19491002,14,4,13,19491120
-6,5,Jealous Heart,Al Morgan,Al Morgan,pop,19490731,7,4,22,19491120
-7,6,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,19490710,13,1,23,19491120
-8,13,A Dreamer's Holiday,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,19491106,12,4,14,19491120
-9,10,That Lucky Old Sun,Vaughn Monroe,Vaughn Monroe,jazz,19491023,16,9,9,19491120
-10,NEW,Mule Train,Bing Crosby,Bing Crosby,jazz,19491120,10,5,9,19491120
-11,7,Whispering Hope,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19490911,20,6,19,19491120
-12,11,I'll Never Slip Around Again,Margaret Whiting / Jimmy Wakely,Margaret Whiting / Jimmy Wakely,pop,19491113,11,11,5,19491120
-13,8,Someday,Vaughn Monroe,Vaughn Monroe,jazz,19490904,4,2,13,19491120
-14,12,You're Breaking My Heart,Buddy Clark,Buddy Clark,jazz,19491002,18,9,10,19491120
-15,16,I've Got A Lovely Bunch Of Coconuts,Freddy Martin / Merv Griffin,Freddy Martin / Merv Griffin,pop,19491113,16,8,7,19491120
-16,NEW,Canadian Capers,Doris Day,Doris Day,jazz,19491120,16,16,5,19491120
-17,NEW,Johnson Rag,Jack Teter Trio,Jack Teter Trio,pop,19491120,17,16,4,19491120
-18,NEW,Room Full Of Roses,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19491120,18,18,1,19491120
-19,14,I Never See Maggie Alone,Kenny Roberts,Kenny Roberts,country / folk,19490911,17,9,16,19491120
-20,NEW,There's No Tomorrow,Tony Martin,Tony Martin,rock,19491120,20,20,1,19491120
-1,1,That Lucky Old Sun,Frankie Laine,Frankie Laine,country / folk,19490904,20,1,18,19491113
-2,3,I Can Dream Can't I,Andrews Sisters / Gordon Jenkins,Andrews Sisters / Gordon Jenkins,pop,19491002,19,1,22,19491113
-3,2,Slipping Around,Margaret Whiting / Jimmy Wakely,Margaret Whiting / Jimmy Wakely,pop,19490925,14,2,20,19491113
-4,5,Don't Cry Joe,Gordon Jenkins / Betty Brewer,Gordon Jenkins / Betty Brewer,pop,19491002,14,4,13,19491113
-5,6,Jealous Heart,Al Morgan,Al Morgan,pop,19490731,7,4,22,19491113
-6,4,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,19490710,13,1,23,19491113
-7,7,Whispering Hope,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19490911,20,6,19,19491113
-8,8,Someday,Vaughn Monroe,Vaughn Monroe,jazz,19490904,4,2,13,19491113
-9,NEW,Mule Train,Frankie Laine,Frankie Laine,country / folk,19491113,9,1,12,19491113
-10,10,That Lucky Old Sun,Vaughn Monroe,Vaughn Monroe,jazz,19491023,16,9,9,19491113
-11,NEW,I'll Never Slip Around Again,Margaret Whiting / Jimmy Wakely,Margaret Whiting / Jimmy Wakely,pop,19491113,11,11,5,19491113
-12,9,You're Breaking My Heart,Buddy Clark,Buddy Clark,jazz,19491002,18,9,10,19491113
-13,12,A Dreamer's Holiday,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,19491106,12,4,14,19491113
-14,13,I Never See Maggie Alone,Kenny Roberts,Kenny Roberts,country / folk,19490911,17,9,16,19491113
-15,15,Someday,Mills Brothers,Mills Brothers,jazz,19490904,18,8,11,19491113
-16,NEW,I've Got A Lovely Bunch Of Coconuts,Freddy Martin / Merv Griffin,Freddy Martin / Merv Griffin,pop,19491113,16,8,7,19491113
-17,18,Hop-Scotch Polka (Scotch Hot),Guy Lombardo / Kenny Gardner,Guy Lombardo / Kenny Gardner,pop,19491016,19,11,5,19491113
-18,NEW,Hop-Scotch Polka (Scotch Hot),Art Mooney,Art Mooney,pop,19491113,18,18,1,19491113
-19,NEW,Jealous Heart,Jack Owens,Jack Owens,pop,19491113,19,19,1,19491113
-20,11,Maybe It's Because,Dick Haymes,Dick Haymes,jazz,19490807,17,5,15,19491113
-1,1,That Lucky Old Sun,Frankie Laine,Frankie Laine,country / folk,19490904,20,1,18,19491106
-2,2,Slipping Around,Margaret Whiting / Jimmy Wakely,Margaret Whiting / Jimmy Wakely,pop,19490925,14,2,20,19491106
-3,4,I Can Dream Can't I,Andrews Sisters / Gordon Jenkins,Andrews Sisters / Gordon Jenkins,pop,19491002,19,1,22,19491106
-4,3,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,19490710,13,1,23,19491106
-5,7,Don't Cry Joe,Gordon Jenkins / Betty Brewer,Gordon Jenkins / Betty Brewer,pop,19491002,14,4,13,19491106
-6,5,Jealous Heart,Al Morgan,Al Morgan,pop,19490731,7,4,22,19491106
-7,8,Whispering Hope,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19490911,20,6,19,19491106
-8,6,Someday,Vaughn Monroe,Vaughn Monroe,jazz,19490904,4,2,13,19491106
-9,13,You're Breaking My Heart,Buddy Clark,Buddy Clark,jazz,19491002,18,9,10,19491106
-10,16,That Lucky Old Sun,Vaughn Monroe,Vaughn Monroe,jazz,19491023,16,9,9,19491106
-11,15,Maybe It's Because,Dick Haymes,Dick Haymes,jazz,19490807,17,5,15,19491106
-12,NEW,A Dreamer's Holiday,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,19491106,12,4,14,19491106
-13,9,I Never See Maggie Alone,Kenny Roberts,Kenny Roberts,country / folk,19490911,17,9,16,19491106
-14,10,Room Full Of Roses,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19490703,17,3,19,19491106
-15,12,Someday,Mills Brothers,Mills Brothers,jazz,19490904,18,8,11,19491106
-16,14,You're Breaking My Heart,Ink Spots,Ink Spots,jazz,19490904,19,9,10,19491106
-17,NEW,Canadian Capers,Doris Day,Doris Day,jazz,19491106,17,17,1,19491106
-18,11,Hop-Scotch Polka (Scotch Hot),Guy Lombardo / Kenny Gardner,Guy Lombardo / Kenny Gardner,pop,19491016,19,11,5,19491106
-19,19,Room Full Of Roses,Dick Haymes,Dick Haymes,jazz,19491030,19,19,2,19491106
-20,20,Johnson Rag,Jack Teter Trio,Jack Teter Trio,pop,19491030,20,20,2,19491106
-1,1,That Lucky Old Sun,Frankie Laine,Frankie Laine,country / folk,19490904,20,1,18,19491030
-2,5,Slipping Around,Margaret Whiting / Jimmy Wakely,Margaret Whiting / Jimmy Wakely,pop,19490925,14,2,20,19491030
-3,2,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,19490710,13,1,23,19491030
-4,6,I Can Dream Can't I,Andrews Sisters / Gordon Jenkins,Andrews Sisters / Gordon Jenkins,pop,19491002,19,1,22,19491030
-5,4,Jealous Heart,Al Morgan,Al Morgan,pop,19490731,7,4,22,19491030
-6,3,Someday,Vaughn Monroe,Vaughn Monroe,jazz,19490904,4,2,13,19491030
-7,7,Don't Cry Joe,Gordon Jenkins / Betty Brewer,Gordon Jenkins / Betty Brewer,pop,19491002,14,4,13,19491030
-8,8,Whispering Hope,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19490911,20,6,19,19491030
-9,14,I Never See Maggie Alone,Kenny Roberts,Kenny Roberts,country / folk,19490911,17,9,16,19491030
-10,10,Room Full Of Roses,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19490703,17,3,19,19491030
-11,20,Hop-Scotch Polka (Scotch Hot),Guy Lombardo / Kenny Gardner,Guy Lombardo / Kenny Gardner,pop,19491016,19,11,5,19491030
-12,11,Someday,Mills Brothers,Mills Brothers,jazz,19490904,18,8,11,19491030
-13,9,You're Breaking My Heart,Buddy Clark,Buddy Clark,jazz,19491002,18,9,10,19491030
-14,12,You're Breaking My Heart,Ink Spots,Ink Spots,jazz,19490904,19,9,10,19491030
-15,13,Maybe It's Because,Dick Haymes,Dick Haymes,jazz,19490807,17,5,15,19491030
-16,16,That Lucky Old Sun,Vaughn Monroe,Vaughn Monroe,jazz,19491023,16,9,9,19491030
-17,18,Hop-Scotch Polka (Scotch Hot),Art Mooney,Art Mooney,pop,19491016,20,17,3,19491030
-18,15,Room Full Of Roses,Eddy Howard,Eddy Howard,jazz,19490821,11,11,11,19491030
-19,NEW,Room Full Of Roses,Dick Haymes,Dick Haymes,jazz,19491030,19,19,2,19491030
-20,NEW,Johnson Rag,Jack Teter Trio,Jack Teter Trio,pop,19491030,20,20,2,19491030
-1,1,That Lucky Old Sun,Frankie Laine,Frankie Laine,country / folk,19490904,20,1,18,19491023
-2,2,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,19490710,13,1,23,19491023
-3,3,Someday,Vaughn Monroe,Vaughn Monroe,jazz,19490904,4,2,13,19491023
-4,4,Jealous Heart,Al Morgan,Al Morgan,pop,19490731,7,4,22,19491023
-5,5,Slipping Around,Margaret Whiting / Jimmy Wakely,Margaret Whiting / Jimmy Wakely,pop,19490925,14,2,20,19491023
-6,6,I Can Dream Can't I,Andrews Sisters / Gordon Jenkins,Andrews Sisters / Gordon Jenkins,pop,19491002,19,1,22,19491023
-7,7,Don't Cry Joe,Gordon Jenkins / Betty Brewer,Gordon Jenkins / Betty Brewer,pop,19491002,14,4,13,19491023
-8,8,Whispering Hope,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19490911,20,6,19,19491023
-9,15,You're Breaking My Heart,Buddy Clark,Buddy Clark,jazz,19491002,18,9,10,19491023
-10,11,Room Full Of Roses,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19490703,17,3,19,19491023
-11,9,Someday,Mills Brothers,Mills Brothers,jazz,19490904,18,8,11,19491023
-12,10,You're Breaking My Heart,Ink Spots,Ink Spots,jazz,19490904,19,9,10,19491023
-13,12,Maybe It's Because,Dick Haymes,Dick Haymes,jazz,19490807,17,5,15,19491023
-14,14,I Never See Maggie Alone,Kenny Roberts,Kenny Roberts,country / folk,19490911,17,9,16,19491023
-15,13,Room Full Of Roses,Eddy Howard,Eddy Howard,jazz,19490821,11,11,11,19491023
-16,NEW,That Lucky Old Sun,Vaughn Monroe,Vaughn Monroe,jazz,19491023,16,9,9,19491023
-17,NEW,Some Enchanted Evening,Ezio Pinza,Ezio Pinza,pop,19491023,17,17,1,19491023
-18,20,Hop-Scotch Polka (Scotch Hot),Art Mooney,Art Mooney,pop,19491016,20,17,3,19491023
-19,NEW,Maybe It's Because,Eddy Howard,Eddy Howard,jazz,19491023,19,19,1,19491023
-20,19,Hop-Scotch Polka (Scotch Hot),Guy Lombardo / Kenny Gardner,Guy Lombardo / Kenny Gardner,pop,19491016,19,11,5,19491023
-1,1,That Lucky Old Sun,Frankie Laine,Frankie Laine,country / folk,19490904,20,1,18,19491016
-2,2,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,19490710,13,1,23,19491016
-3,3,Someday,Vaughn Monroe,Vaughn Monroe,jazz,19490904,4,2,13,19491016
-4,4,Jealous Heart,Al Morgan,Al Morgan,pop,19490731,7,4,22,19491016
-5,5,Slipping Around,Margaret Whiting / Jimmy Wakely,Margaret Whiting / Jimmy Wakely,pop,19490925,14,2,20,19491016
-6,13,I Can Dream Can't I,Andrews Sisters / Gordon Jenkins,Andrews Sisters / Gordon Jenkins,pop,19491002,19,1,22,19491016
-7,17,Don't Cry Joe,Gordon Jenkins / Betty Brewer,Gordon Jenkins / Betty Brewer,pop,19491002,14,4,13,19491016
-8,7,Whispering Hope,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19490911,20,6,19,19491016
-9,8,Someday,Mills Brothers,Mills Brothers,jazz,19490904,18,8,11,19491016
-10,9,You're Breaking My Heart,Ink Spots,Ink Spots,jazz,19490904,19,9,10,19491016
-11,6,Room Full Of Roses,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19490703,17,3,19,19491016
-12,12,Maybe It's Because,Dick Haymes,Dick Haymes,jazz,19490807,17,5,15,19491016
-13,11,Room Full Of Roses,Eddy Howard,Eddy Howard,jazz,19490821,11,11,11,19491016
-14,10,I Never See Maggie Alone,Kenny Roberts,Kenny Roberts,country / folk,19490911,17,9,16,19491016
-15,16,You're Breaking My Heart,Buddy Clark,Buddy Clark,jazz,19491002,18,9,10,19491016
-16,14,Some Enchanted Evening,Perry Como,Perry Como,jazz,19490515,20,1,23,19491016
-17,15,Room Full Of Roses,Dick Haymes,Dick Haymes,jazz,19490918,11,10,5,19491016
-18,19,The Hucklebuck,Tommy Dorsey / Charlie Shavers,Tommy Dorsey / Charlie Shavers,pop,19490703,16,5,16,19491016
-19,NEW,Hop-Scotch Polka (Scotch Hot),Guy Lombardo / Kenny Gardner,Guy Lombardo / Kenny Gardner,pop,19491016,19,11,5,19491016
-20,NEW,Hop-Scotch Polka (Scotch Hot),Art Mooney,Art Mooney,pop,19491016,20,17,3,19491016
-1,1,That Lucky Old Sun,Frankie Laine,Frankie Laine,country / folk,19490904,20,1,18,19491009
-2,2,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,19490710,13,1,23,19491009
-3,3,Someday,Vaughn Monroe,Vaughn Monroe,jazz,19490904,4,2,13,19491009
-4,4,Jealous Heart,Al Morgan,Al Morgan,pop,19490731,7,4,22,19491009
-5,9,Slipping Around,Margaret Whiting / Jimmy Wakely,Margaret Whiting / Jimmy Wakely,pop,19490925,14,2,20,19491009
-6,5,Room Full Of Roses,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19490703,17,3,19,19491009
-7,6,Whispering Hope,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19490911,20,6,19,19491009
-8,8,Someday,Mills Brothers,Mills Brothers,jazz,19490904,18,8,11,19491009
-9,11,You're Breaking My Heart,Ink Spots,Ink Spots,jazz,19490904,19,9,10,19491009
-10,16,I Never See Maggie Alone,Kenny Roberts,Kenny Roberts,country / folk,19490911,17,9,16,19491009
-11,15,Room Full Of Roses,Eddy Howard,Eddy Howard,jazz,19490821,11,11,11,19491009
-12,10,Maybe It's Because,Dick Haymes,Dick Haymes,jazz,19490807,17,5,15,19491009
-13,19,I Can Dream Can't I,Andrews Sisters / Gordon Jenkins,Andrews Sisters / Gordon Jenkins,pop,19491002,19,1,22,19491009
-14,7,Some Enchanted Evening,Perry Como,Perry Como,jazz,19490515,20,1,23,19491009
-15,12,Room Full Of Roses,Dick Haymes,Dick Haymes,jazz,19490918,11,10,5,19491009
-16,18,You're Breaking My Heart,Buddy Clark,Buddy Clark,jazz,19491002,18,9,10,19491009
-17,14,Don't Cry Joe,Gordon Jenkins / Betty Brewer,Gordon Jenkins / Betty Brewer,pop,19491002,14,4,13,19491009
-18,13,Some Enchanted Evening,Ezio Pinza,Ezio Pinza,pop,19490911,16,7,5,19491009
-19,17,The Hucklebuck,Tommy Dorsey / Charlie Shavers,Tommy Dorsey / Charlie Shavers,pop,19490703,16,5,16,19491009
-20,NEW,That Lucky Old Sun,Vaughn Monroe,Vaughn Monroe,jazz,19491009,20,20,1,19491009
-1,2,That Lucky Old Sun,Frankie Laine,Frankie Laine,country / folk,19490904,20,1,18,19491002
-2,1,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,19490710,13,1,23,19491002
-3,3,Someday,Vaughn Monroe,Vaughn Monroe,jazz,19490904,4,2,13,19491002
-4,4,Jealous Heart,Al Morgan,Al Morgan,pop,19490731,7,4,22,19491002
-5,6,Room Full Of Roses,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19490703,17,3,19,19491002
-6,9,Whispering Hope,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19490911,20,6,19,19491002
-7,5,Some Enchanted Evening,Perry Como,Perry Como,jazz,19490515,20,1,23,19491002
-8,11,Someday,Mills Brothers,Mills Brothers,jazz,19490904,18,8,11,19491002
-9,14,Slipping Around,Margaret Whiting / Jimmy Wakely,Margaret Whiting / Jimmy Wakely,pop,19490925,14,2,20,19491002
-10,8,Maybe It's Because,Dick Haymes,Dick Haymes,jazz,19490807,17,5,15,19491002
-11,12,You're Breaking My Heart,Ink Spots,Ink Spots,jazz,19490904,19,9,10,19491002
-12,10,Room Full Of Roses,Dick Haymes,Dick Haymes,jazz,19490918,11,10,5,19491002
-13,7,Some Enchanted Evening,Ezio Pinza,Ezio Pinza,pop,19490911,16,7,5,19491002
-14,NEW,Don't Cry Joe,Gordon Jenkins / Betty Brewer,Gordon Jenkins / Betty Brewer,pop,19491002,14,4,13,19491002
-15,17,Room Full Of Roses,Eddy Howard,Eddy Howard,jazz,19490821,11,11,11,19491002
-16,15,I Never See Maggie Alone,Kenny Roberts,Kenny Roberts,country / folk,19490911,17,9,16,19491002
-17,16,The Hucklebuck,Tommy Dorsey / Charlie Shavers,Tommy Dorsey / Charlie Shavers,pop,19490703,16,5,16,19491002
-18,NEW,You're Breaking My Heart,Buddy Clark,Buddy Clark,jazz,19491002,18,9,10,19491002
-19,NEW,I Can Dream Can't I,Andrews Sisters / Gordon Jenkins,Andrews Sisters / Gordon Jenkins,pop,19491002,19,1,22,19491002
-20,NEW,(Where Are You) Now That I Need You,Doris Day,Doris Day,jazz,19491002,20,20,1,19491002
-1,1,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,19490710,13,1,23,19490925
-2,3,That Lucky Old Sun,Frankie Laine,Frankie Laine,country / folk,19490904,20,1,18,19490925
-3,2,Someday,Vaughn Monroe,Vaughn Monroe,jazz,19490904,4,2,13,19490925
-4,6,Jealous Heart,Al Morgan,Al Morgan,pop,19490731,7,4,22,19490925
-5,4,Some Enchanted Evening,Perry Como,Perry Como,jazz,19490515,20,1,23,19490925
-6,5,Room Full Of Roses,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19490703,17,3,19,19490925
-7,8,Some Enchanted Evening,Ezio Pinza,Ezio Pinza,pop,19490911,16,7,5,19490925
-8,7,Maybe It's Because,Dick Haymes,Dick Haymes,jazz,19490807,17,5,15,19490925
-9,14,Whispering Hope,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19490911,20,6,19,19490925
-10,11,Room Full Of Roses,Dick Haymes,Dick Haymes,jazz,19490918,11,10,5,19490925
-11,12,Someday,Mills Brothers,Mills Brothers,jazz,19490904,18,8,11,19490925
-12,13,You're Breaking My Heart,Ink Spots,Ink Spots,jazz,19490904,19,9,10,19490925
-13,18,Dance Of The Hours,Spike Jones / Doodles Weaver,Spike Jones / Doodles Weaver,pop,19490911,13,13,3,19490925
-14,NEW,Slipping Around,Margaret Whiting / Jimmy Wakely,Margaret Whiting / Jimmy Wakely,pop,19490925,14,2,20,19490925
-15,20,I Never See Maggie Alone,Kenny Roberts,Kenny Roberts,country / folk,19490911,17,9,16,19490925
-16,10,The Hucklebuck,Tommy Dorsey / Charlie Shavers,Tommy Dorsey / Charlie Shavers,pop,19490703,16,5,16,19490925
-17,15,Room Full Of Roses,Eddy Howard,Eddy Howard,jazz,19490821,11,11,11,19490925
-18,19,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,19490430,12,1,22,19490925
-19,9,Some Enchanted Evening,Bing Crosby,Bing Crosby,jazz,19490612,13,5,16,19490925
-20,17,Maybe It's Because,Eddy Howard,Eddy Howard,jazz,19490918,17,17,2,19490925
-1,1,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,19490710,13,1,23,19490918
-2,3,Someday,Vaughn Monroe,Vaughn Monroe,jazz,19490904,4,2,13,19490918
-3,5,That Lucky Old Sun,Frankie Laine,Frankie Laine,country / folk,19490904,20,1,18,19490918
-4,2,Some Enchanted Evening,Perry Como,Perry Como,jazz,19490515,20,1,23,19490918
-5,4,Room Full Of Roses,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19490703,17,3,19,19490918
-6,6,Jealous Heart,Al Morgan,Al Morgan,pop,19490731,7,4,22,19490918
-7,7,Maybe It's Because,Dick Haymes,Dick Haymes,jazz,19490807,17,5,15,19490918
-8,16,Some Enchanted Evening,Ezio Pinza,Ezio Pinza,pop,19490911,16,7,5,19490918
-9,14,Some Enchanted Evening,Bing Crosby,Bing Crosby,jazz,19490612,13,5,16,19490918
-10,8,The Hucklebuck,Tommy Dorsey / Charlie Shavers,Tommy Dorsey / Charlie Shavers,pop,19490703,16,5,16,19490918
-11,NEW,Room Full Of Roses,Dick Haymes,Dick Haymes,jazz,19490918,11,10,5,19490918
-12,12,Someday,Mills Brothers,Mills Brothers,jazz,19490904,18,8,11,19490918
-13,9,You're Breaking My Heart,Ink Spots,Ink Spots,jazz,19490904,19,9,10,19490918
-14,20,Whispering Hope,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19490911,20,6,19,19490918
-15,15,Room Full Of Roses,Eddy Howard,Eddy Howard,jazz,19490821,11,11,11,19490918
-16,10,My Bolero,Vic Damone,Vic Damone,jazz,19490828,14,10,4,19490918
-17,NEW,Maybe It's Because,Eddy Howard,Eddy Howard,jazz,19490918,17,17,2,19490918
-18,13,Dance Of The Hours,Spike Jones / Doodles Weaver,Spike Jones / Doodles Weaver,pop,19490911,13,13,3,19490918
-19,18,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,19490430,12,1,22,19490918
-20,17,I Never See Maggie Alone,Kenny Roberts,Kenny Roberts,country / folk,19490911,17,9,16,19490918
-1,1,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,19490710,13,1,23,19490911
-2,2,Some Enchanted Evening,Perry Como,Perry Como,jazz,19490515,20,1,23,19490911
-3,4,Someday,Vaughn Monroe,Vaughn Monroe,jazz,19490904,4,2,13,19490911
-4,3,Room Full Of Roses,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19490703,17,3,19,19490911
-5,20,That Lucky Old Sun,Frankie Laine,Frankie Laine,country / folk,19490904,20,1,18,19490911
-6,7,Jealous Heart,Al Morgan,Al Morgan,pop,19490731,7,4,22,19490911
-7,5,Maybe It's Because,Dick Haymes,Dick Haymes,jazz,19490807,17,5,15,19490911
-8,8,The Hucklebuck,Tommy Dorsey / Charlie Shavers,Tommy Dorsey / Charlie Shavers,pop,19490703,16,5,16,19490911
-9,19,You're Breaking My Heart,Ink Spots,Ink Spots,jazz,19490904,19,9,10,19490911
-10,16,My Bolero,Vic Damone,Vic Damone,jazz,19490828,14,10,4,19490911
-11,9,Baby It's Cold Outside,Dinah Shore / Buddy Clark,Dinah Shore / Buddy Clark,pop,19490529,17,4,16,19490911
-12,18,Someday,Mills Brothers,Mills Brothers,jazz,19490904,18,8,11,19490911
-13,NEW,Dance Of The Hours,Spike Jones / Doodles Weaver,Spike Jones / Doodles Weaver,pop,19490911,13,13,3,19490911
-14,12,Some Enchanted Evening,Bing Crosby,Bing Crosby,jazz,19490612,13,5,16,19490911
-15,11,Room Full Of Roses,Eddy Howard,Eddy Howard,jazz,19490821,11,11,11,19490911
-16,NEW,Some Enchanted Evening,Ezio Pinza,Ezio Pinza,pop,19490911,16,7,5,19490911
-17,NEW,I Never See Maggie Alone,Kenny Roberts,Kenny Roberts,country / folk,19490911,17,9,16,19490911
-18,6,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,19490430,12,1,22,19490911
-19,10,The Hucklebuck,Frank Sinatra,Frank Sinatra,jazz,19490828,17,10,3,19490911
-20,NEW,Whispering Hope,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19490911,20,6,19,19490911
-1,2,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,19490710,13,1,23,19490904
-2,1,Some Enchanted Evening,Perry Como,Perry Como,jazz,19490515,20,1,23,19490904
-3,3,Room Full Of Roses,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19490703,17,3,19,19490904
-4,NEW,Someday,Vaughn Monroe,Vaughn Monroe,jazz,19490904,4,2,13,19490904
-5,9,Maybe It's Because,Dick Haymes,Dick Haymes,jazz,19490807,17,5,15,19490904
-6,4,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,19490430,12,1,22,19490904
-7,6,Jealous Heart,Al Morgan,Al Morgan,pop,19490731,7,4,22,19490904
-8,5,The Hucklebuck,Tommy Dorsey / Charlie Shavers,Tommy Dorsey / Charlie Shavers,pop,19490703,16,5,16,19490904
-9,10,Baby It's Cold Outside,Dinah Shore / Buddy Clark,Dinah Shore / Buddy Clark,pop,19490529,17,4,16,19490904
-10,17,The Hucklebuck,Frank Sinatra,Frank Sinatra,jazz,19490828,17,10,3,19490904
-11,20,Room Full Of Roses,Eddy Howard,Eddy Howard,jazz,19490821,11,11,11,19490904
-12,12,Some Enchanted Evening,Bing Crosby,Bing Crosby,jazz,19490612,13,5,16,19490904
-13,NEW,-,-,-,pop,19490904,13,13,1,19490904
-14,NEW,-,-,-,pop,19490904,14,14,1,19490904
-15,NEW,-,-,-,pop,19490904,15,15,1,19490904
-16,14,My Bolero,Vic Damone,Vic Damone,jazz,19490828,14,10,4,19490904
-17,NEW,-,-,-,pop,19490904,17,17,1,19490904
-18,NEW,Someday,Mills Brothers,Mills Brothers,jazz,19490904,18,8,11,19490904
-19,NEW,You're Breaking My Heart,Ink Spots,Ink Spots,jazz,19490904,19,9,10,19490904
-20,NEW,That Lucky Old Sun,Frankie Laine,Frankie Laine,country / folk,19490904,20,1,18,19490904
-1,1,Some Enchanted Evening,Perry Como,Perry Como,jazz,19490515,20,1,23,19490828
-2,2,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,19490710,13,1,23,19490828
-3,3,Room Full Of Roses,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19490703,17,3,19,19490828
-4,4,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,19490430,12,1,22,19490828
-5,7,The Hucklebuck,Tommy Dorsey / Charlie Shavers,Tommy Dorsey / Charlie Shavers,pop,19490703,16,5,16,19490828
-6,9,Jealous Heart,Al Morgan,Al Morgan,pop,19490731,7,4,22,19490828
-7,16,"Baby, It's Cold Outside",Sammy Kaye,Sammy Kaye,jazz,19490814,14,7,3,19490828
-8,6,Again,Gordon Jenkins / Joe Graydon / Chorus,Gordon Jenkins / Joe Graydon / Chorus,pop,19490430,13,2,18,19490828
-9,10,Maybe It's Because,Dick Haymes,Dick Haymes,jazz,19490807,17,5,15,19490828
-10,8,Baby It's Cold Outside,Dinah Shore / Buddy Clark,Dinah Shore / Buddy Clark,pop,19490529,17,4,16,19490828
-11,5,Baby It's Cold Outside,Margaret Whiting / Johnny Mercer,Margaret Whiting / Johnny Mercer,pop,19490522,13,4,15,19490828
-12,12,Some Enchanted Evening,Bing Crosby,Bing Crosby,jazz,19490612,13,5,16,19490828
-13,13,Room Full Of Roses,Dick Haymes,Dick Haymes,jazz,19490814,18,13,3,19490828
-14,NEW,My Bolero,Vic Damone,Vic Damone,jazz,19490828,14,10,4,19490828
-15,NEW,Let's Take An Old Fashioned Walk,Perry Como,Perry Como,jazz,19490828,15,15,1,19490828
-16,14,I Don't See Me In Your Eyes Anymore,Stardusters,Stardusters,pop,19490430,15,6,18,19490828
-17,NEW,The Hucklebuck,Frank Sinatra,Frank Sinatra,jazz,19490828,17,10,3,19490828
-18,18,Four Winds And The Seven Seas,Sammy Kaye / Tony Alamo,Sammy Kaye / Tony Alamo,pop,19490619,17,7,11,19490828
-19,NEW,Whispering Hope,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19490828,19,19,1,19490828
-20,11,Room Full Of Roses,Eddy Howard,Eddy Howard,jazz,19490821,11,11,11,19490828
-1,1,Some Enchanted Evening,Perry Como,Perry Como,jazz,19490515,20,1,23,19490821
-2,3,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,19490710,13,1,23,19490821
-3,5,Room Full Of Roses,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19490703,17,3,19,19490821
-4,2,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,19490430,12,1,22,19490821
-5,4,Baby It's Cold Outside,Margaret Whiting / Johnny Mercer,Margaret Whiting / Johnny Mercer,pop,19490522,13,4,15,19490821
-6,6,Again,Gordon Jenkins / Joe Graydon / Chorus,Gordon Jenkins / Joe Graydon / Chorus,pop,19490430,13,2,18,19490821
-7,19,The Hucklebuck,Tommy Dorsey / Charlie Shavers,Tommy Dorsey / Charlie Shavers,pop,19490703,16,5,16,19490821
-8,7,Baby It's Cold Outside,Dinah Shore / Buddy Clark,Dinah Shore / Buddy Clark,pop,19490529,17,4,16,19490821
-9,8,Jealous Heart,Al Morgan,Al Morgan,pop,19490731,7,4,22,19490821
-10,10,Maybe It's Because,Dick Haymes,Dick Haymes,jazz,19490807,17,5,15,19490821
-11,NEW,Room Full Of Roses,Eddy Howard,Eddy Howard,jazz,19490821,11,11,11,19490821
-12,11,Some Enchanted Evening,Bing Crosby,Bing Crosby,jazz,19490612,13,5,16,19490821
-13,18,Room Full Of Roses,Dick Haymes,Dick Haymes,jazz,19490814,18,13,3,19490821
-14,9,I Don't See Me In Your Eyes Anymore,Stardusters,Stardusters,pop,19490430,15,6,18,19490821
-15,15,I Don't See Me In Your Eyes Anymore,Perry Como,Perry Como,jazz,19490731,12,12,4,19490821
-16,14,Someday,Vaughn Monroe,Vaughn Monroe,jazz,19490814,14,7,3,19490821
-17,NEW,Bali Ha'I,Peggy Lee,Peggy Lee,jazz,19490821,17,17,1,19490821
-18,17,Four Winds And The Seven Seas,Sammy Kaye / Tony Alamo,Sammy Kaye / Tony Alamo,pop,19490619,17,7,11,19490821
-19,NEW,Forever And Ever,Perry Como,Perry Como,jazz,19490821,19,19,1,19490821
-20,16,Forever & Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,19490814,16,16,2,19490821
-1,1,Some Enchanted Evening,Perry Como,Perry Como,jazz,19490515,20,1,23,19490814
-2,2,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,19490430,12,1,22,19490814
-3,3,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,19490710,13,1,23,19490814
-4,5,Baby It's Cold Outside,Margaret Whiting / Johnny Mercer,Margaret Whiting / Johnny Mercer,pop,19490522,13,4,15,19490814
-5,6,Room Full Of Roses,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19490703,17,3,19,19490814
-6,4,Again,Gordon Jenkins / Joe Graydon / Chorus,Gordon Jenkins / Joe Graydon / Chorus,pop,19490430,13,2,18,19490814
-7,7,Baby It's Cold Outside,Dinah Shore / Buddy Clark,Dinah Shore / Buddy Clark,pop,19490529,17,4,16,19490814
-8,10,Jealous Heart,Al Morgan,Al Morgan,pop,19490731,7,4,22,19490814
-9,11,I Don't See Me In Your Eyes Anymore,Stardusters,Stardusters,pop,19490430,15,6,18,19490814
-10,17,Maybe It's Because,Dick Haymes,Dick Haymes,jazz,19490807,17,5,15,19490814
-11,9,Some Enchanted Evening,Bing Crosby,Bing Crosby,jazz,19490612,13,5,16,19490814
-12,19,A Wonderful Guy,Margaret Whiting,Margaret Whiting,pop,19490710,20,12,6,19490814
-13,20,"Baby, It's Cold Outside",Sammy Kaye,Sammy Kaye,jazz,19490731,18,13,3,19490814
-14,NEW,Someday,Vaughn Monroe,Vaughn Monroe,jazz,19490814,14,7,3,19490814
-15,14,I Don't See Me In Your Eyes Anymore,Perry Como,Perry Como,jazz,19490731,12,12,4,19490814
-16,NEW,Forever & Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,19490814,16,16,2,19490814
-17,13,Four Winds And The Seven Seas,Sammy Kaye / Tony Alamo,Sammy Kaye / Tony Alamo,pop,19490619,17,7,11,19490814
-18,NEW,Room Full Of Roses,Dick Haymes,Dick Haymes,jazz,19490814,18,13,3,19490814
-19,8,The Hucklebuck,Tommy Dorsey / Charlie Shavers,Tommy Dorsey / Charlie Shavers,pop,19490703,16,5,16,19490814
-20,NEW,Ain't She Sweet,Mr. Ford And Mr. Goon-Bones,Mr. Ford And Mr. Goon-Bones,pop,19490814,20,20,1,19490814
-1,1,Some Enchanted Evening,Perry Como,Perry Como,jazz,19490515,20,1,23,19490807
-2,2,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,19490430,12,1,22,19490807
-3,3,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,19490710,13,1,23,19490807
-4,4,Again,Gordon Jenkins / Joe Graydon / Chorus,Gordon Jenkins / Joe Graydon / Chorus,pop,19490430,13,2,18,19490807
-5,5,Baby It's Cold Outside,Margaret Whiting / Johnny Mercer,Margaret Whiting / Johnny Mercer,pop,19490522,13,4,15,19490807
-6,9,Room Full Of Roses,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19490703,17,3,19,19490807
-7,6,Baby It's Cold Outside,Dinah Shore / Buddy Clark,Dinah Shore / Buddy Clark,pop,19490529,17,4,16,19490807
-8,11,The Hucklebuck,Tommy Dorsey / Charlie Shavers,Tommy Dorsey / Charlie Shavers,pop,19490703,16,5,16,19490807
-9,10,Some Enchanted Evening,Bing Crosby,Bing Crosby,jazz,19490612,13,5,16,19490807
-10,7,Jealous Heart,Al Morgan,Al Morgan,pop,19490731,7,4,22,19490807
-11,13,I Don't See Me In Your Eyes Anymore,Stardusters,Stardusters,pop,19490430,15,6,18,19490807
-12,15,Forever And Ever,Perry Como,Perry Como,jazz,19490319,15,3,21,19490807
-13,16,Four Winds And The Seven Seas,Sammy Kaye / Tony Alamo,Sammy Kaye / Tony Alamo,pop,19490619,17,7,11,19490807
-14,12,I Don't See Me In Your Eyes Anymore,Perry Como,Perry Como,jazz,19490731,12,12,4,19490807
-15,8,Bali Ha'I,Perry Como,Perry Como,jazz,19490731,8,8,2,19490807
-16,NEW,Room Full Of Roses,Eddy Howard,Eddy Howard,jazz,19490807,16,16,1,19490807
-17,NEW,Maybe It's Because,Dick Haymes,Dick Haymes,jazz,19490807,17,5,15,19490807
-18,NEW,The Hucklebuck,Frank Sinatra,Frank Sinatra,jazz,19490807,18,18,1,19490807
-19,14,A Wonderful Guy,Margaret Whiting,Margaret Whiting,pop,19490710,20,12,6,19490807
-20,18,"Baby, It's Cold Outside",Sammy Kaye,Sammy Kaye,jazz,19490731,18,13,3,19490807
-1,2,Some Enchanted Evening,Perry Como,Perry Como,jazz,19490515,20,1,23,19490731
-2,1,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,19490430,12,1,22,19490731
-3,5,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,19490710,13,1,23,19490731
-4,3,Again,Gordon Jenkins / Joe Graydon / Chorus,Gordon Jenkins / Joe Graydon / Chorus,pop,19490430,13,2,18,19490731
-5,6,Baby It's Cold Outside,Margaret Whiting / Johnny Mercer,Margaret Whiting / Johnny Mercer,pop,19490522,13,4,15,19490731
-6,4,Baby It's Cold Outside,Dinah Shore / Buddy Clark,Dinah Shore / Buddy Clark,pop,19490529,17,4,16,19490731
-7,NEW,Jealous Heart,Al Morgan,Al Morgan,pop,19490731,7,4,22,19490731
-8,NEW,Bali Ha'I,Perry Como,Perry Como,jazz,19490731,8,8,2,19490731
-9,8,Room Full Of Roses,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19490703,17,3,19,19490731
-10,7,Some Enchanted Evening,Bing Crosby,Bing Crosby,jazz,19490612,13,5,16,19490731
-11,9,The Hucklebuck,Tommy Dorsey / Charlie Shavers,Tommy Dorsey / Charlie Shavers,pop,19490703,16,5,16,19490731
-12,NEW,I Don't See Me In Your Eyes Anymore,Perry Como,Perry Como,jazz,19490731,12,12,4,19490731
-13,12,I Don't See Me In Your Eyes Anymore,Stardusters,Stardusters,pop,19490430,15,6,18,19490731
-14,19,A Wonderful Guy,Margaret Whiting,Margaret Whiting,pop,19490710,20,12,6,19490731
-15,10,Forever And Ever,Perry Como,Perry Como,jazz,19490319,15,3,21,19490731
-16,17,Four Winds And The Seven Seas,Sammy Kaye / Tony Alamo,Sammy Kaye / Tony Alamo,pop,19490619,17,7,11,19490731
-17,14,Blue Skirt Waltz,Frankie Yankovic,Frankie Yankovic,pop,19490724,14,14,2,19490731
-18,NEW,"Baby, It's Cold Outside",Sammy Kaye,Sammy Kaye,jazz,19490731,18,13,3,19490731
-19,13,Again,Mel Torme,Mel Torme,jazz,19490430,18,7,14,19490731
-20,11,Forever And Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,19490319,14,2,20,19490731
-1,1,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,19490430,12,1,22,19490724
-2,2,Some Enchanted Evening,Perry Como,Perry Como,jazz,19490515,20,1,23,19490724
-3,3,Again,Gordon Jenkins / Joe Graydon / Chorus,Gordon Jenkins / Joe Graydon / Chorus,pop,19490430,13,2,18,19490724
-4,9,Baby It's Cold Outside,Dinah Shore / Buddy Clark,Dinah Shore / Buddy Clark,pop,19490529,17,4,16,19490724
-5,16,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,19490710,13,1,23,19490724
-6,4,Baby It's Cold Outside,Margaret Whiting / Johnny Mercer,Margaret Whiting / Johnny Mercer,pop,19490522,13,4,15,19490724
-7,5,Some Enchanted Evening,Bing Crosby,Bing Crosby,jazz,19490612,13,5,16,19490724
-8,10,Room Full Of Roses,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19490703,17,3,19,19490724
-9,11,The Hucklebuck,Tommy Dorsey / Charlie Shavers,Tommy Dorsey / Charlie Shavers,pop,19490703,16,5,16,19490724
-10,20,Forever And Ever,Perry Como,Perry Como,jazz,19490319,15,3,21,19490724
-11,6,Forever And Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,19490319,14,2,20,19490724
-12,8,I Don't See Me In Your Eyes Anymore,Stardusters,Stardusters,pop,19490430,15,6,18,19490724
-13,12,Again,Mel Torme,Mel Torme,jazz,19490430,18,7,14,19490724
-14,NEW,Blue Skirt Waltz,Frankie Yankovic,Frankie Yankovic,pop,19490724,14,14,2,19490724
-15,18,The Hucklebuck,Frank Sinatra,Frank Sinatra,jazz,19490710,19,15,3,19490724
-16,NEW,Again,Vic Damone,Vic Damone,jazz,19490724,16,16,1,19490724
-17,7,Four Winds And The Seven Seas,Sammy Kaye / Tony Alamo,Sammy Kaye / Tony Alamo,pop,19490619,17,7,11,19490724
-18,NEW,Cruising Down The River,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,19490724,18,18,1,19490724
-19,19,A Wonderful Guy,Margaret Whiting,Margaret Whiting,pop,19490710,20,12,6,19490724
-20,NEW,Ain't She Sweet,Mr. Ford And Mr. Goon-Bones,Mr. Ford And Mr. Goon-Bones,pop,19490724,20,20,1,19490724
-1,1,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,19490430,12,1,22,19490717
-2,2,Some Enchanted Evening,Perry Como,Perry Como,jazz,19490515,20,1,23,19490717
-3,3,Again,Gordon Jenkins / Joe Graydon / Chorus,Gordon Jenkins / Joe Graydon / Chorus,pop,19490430,13,2,18,19490717
-4,4,Baby It's Cold Outside,Margaret Whiting / Johnny Mercer,Margaret Whiting / Johnny Mercer,pop,19490522,13,4,15,19490717
-5,8,Some Enchanted Evening,Bing Crosby,Bing Crosby,jazz,19490612,13,5,16,19490717
-6,11,Forever And Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,19490319,14,2,20,19490717
-7,14,Four Winds And The Seven Seas,Sammy Kaye / Tony Alamo,Sammy Kaye / Tony Alamo,pop,19490619,17,7,11,19490717
-8,6,I Don't See Me In Your Eyes Anymore,Stardusters,Stardusters,pop,19490430,15,6,18,19490717
-9,9,Baby It's Cold Outside,Dinah Shore / Buddy Clark,Dinah Shore / Buddy Clark,pop,19490529,17,4,16,19490717
-10,18,Room Full Of Roses,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19490703,17,3,19,19490717
-11,17,The Hucklebuck,Tommy Dorsey / Charlie Shavers,Tommy Dorsey / Charlie Shavers,pop,19490703,16,5,16,19490717
-12,10,Again,Mel Torme,Mel Torme,jazz,19490430,18,7,14,19490717
-13,NEW,Room Full Of Roses,Dick Haymes,Dick Haymes,jazz,19490717,13,13,1,19490717
-14,12,I Don't See Me In Your Eyes Anymore,Perry Como,Perry Como,jazz,19490626,20,10,4,19490717
-15,5,Bali Ha'I,Perry Como,Perry Como,jazz,19490529,20,5,8,19490717
-16,13,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,19490710,13,1,23,19490717
-17,NEW,Baby It's Cold Outside,Ella Fitzgerald / Louis Jordan,Ella Fitzgerald / Louis Jordan,jazz,19490717,17,17,1,19490717
-18,19,The Hucklebuck,Frank Sinatra,Frank Sinatra,jazz,19490710,19,15,3,19490717
-19,20,A Wonderful Guy,Margaret Whiting,Margaret Whiting,pop,19490710,20,12,6,19490717
-20,7,Forever And Ever,Perry Como,Perry Como,jazz,19490319,15,3,21,19490717
-1,1,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,19490430,12,1,22,19490710
-2,2,Some Enchanted Evening,Perry Como,Perry Como,jazz,19490515,20,1,23,19490710
-3,3,Again,Gordon Jenkins / Joe Graydon / Chorus,Gordon Jenkins / Joe Graydon / Chorus,pop,19490430,13,2,18,19490710
-4,4,Baby It's Cold Outside,Margaret Whiting / Johnny Mercer,Margaret Whiting / Johnny Mercer,pop,19490522,13,4,15,19490710
-5,9,Bali Ha'I,Perry Como,Perry Como,jazz,19490529,20,5,8,19490710
-6,13,I Don't See Me In Your Eyes Anymore,Stardusters,Stardusters,pop,19490430,15,6,18,19490710
-7,7,Forever And Ever,Perry Como,Perry Como,jazz,19490319,15,3,21,19490710
-8,6,Some Enchanted Evening,Bing Crosby,Bing Crosby,jazz,19490612,13,5,16,19490710
-9,12,Baby It's Cold Outside,Dinah Shore / Buddy Clark,Dinah Shore / Buddy Clark,pop,19490529,17,4,16,19490710
-10,8,Again,Mel Torme,Mel Torme,jazz,19490430,18,7,14,19490710
-11,5,Forever And Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,19490319,14,2,20,19490710
-12,10,I Don't See Me In Your Eyes Anymore,Perry Como,Perry Como,jazz,19490626,20,10,4,19490710
-13,NEW,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,19490710,13,1,23,19490710
-14,14,Four Winds And The Seven Seas,Sammy Kaye / Tony Alamo,Sammy Kaye / Tony Alamo,pop,19490619,17,7,11,19490710
-15,15,'A' You're Adorable,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,19490416,12,4,13,19490710
-16,11,Cruising Down The River,Russ Morgan,Russ Morgan,pop,19490226,15,1,20,19490710
-17,16,The Hucklebuck,Tommy Dorsey / Charlie Shavers,Tommy Dorsey / Charlie Shavers,pop,19490703,16,5,16,19490710
-18,17,Room Full Of Roses,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19490703,17,3,19,19490710
-19,NEW,The Hucklebuck,Frank Sinatra,Frank Sinatra,jazz,19490710,19,15,3,19490710
-20,NEW,A Wonderful Guy,Margaret Whiting,Margaret Whiting,pop,19490710,20,12,6,19490710
-1,1,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,19490430,12,1,22,19490703
-2,2,Some Enchanted Evening,Perry Como,Perry Como,jazz,19490515,20,1,23,19490703
-3,3,Again,Gordon Jenkins / Joe Graydon / Chorus,Gordon Jenkins / Joe Graydon / Chorus,pop,19490430,13,2,18,19490703
-4,5,Baby It's Cold Outside,Margaret Whiting / Johnny Mercer,Margaret Whiting / Johnny Mercer,pop,19490522,13,4,15,19490703
-5,6,Forever And Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,19490319,14,2,20,19490703
-6,11,Some Enchanted Evening,Bing Crosby,Bing Crosby,jazz,19490612,13,5,16,19490703
-7,4,Forever And Ever,Perry Como,Perry Como,jazz,19490319,15,3,21,19490703
-8,10,Again,Mel Torme,Mel Torme,jazz,19490430,18,7,14,19490703
-9,9,Bali Ha'I,Perry Como,Perry Como,jazz,19490529,20,5,8,19490703
-10,20,I Don't See Me In Your Eyes Anymore,Perry Como,Perry Como,jazz,19490626,20,10,4,19490703
-11,17,Cruising Down The River,Russ Morgan,Russ Morgan,pop,19490226,15,1,20,19490703
-12,7,Baby It's Cold Outside,Dinah Shore / Buddy Clark,Dinah Shore / Buddy Clark,pop,19490529,17,4,16,19490703
-13,8,I Don't See Me In Your Eyes Anymore,Stardusters,Stardusters,pop,19490430,15,6,18,19490703
-14,13,Four Winds And The Seven Seas,Sammy Kaye / Tony Alamo,Sammy Kaye / Tony Alamo,pop,19490619,17,7,11,19490703
-15,12,'A' You're Adorable,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,19490416,12,4,13,19490703
-16,NEW,The Hucklebuck,Tommy Dorsey / Charlie Shavers,Tommy Dorsey / Charlie Shavers,pop,19490703,16,5,16,19490703
-17,NEW,Room Full Of Roses,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19490703,17,3,19,19490703
-18,14,Again,Doris Day,Doris Day,jazz,19490626,14,14,2,19490703
-19,18,Baby It's Cold Outside,Ella Fitzgerald / Louis Jordan,Ella Fitzgerald / Louis Jordan,jazz,19490626,18,18,2,19490703
-20,19,Bali Ha'I,Bing Crosby,Bing Crosby,jazz,19490626,19,19,2,19490703
-1,1,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,19490430,12,1,22,19490626
-2,2,Some Enchanted Evening,Perry Como,Perry Como,jazz,19490515,20,1,23,19490626
-3,3,Again,Gordon Jenkins / Joe Graydon / Chorus,Gordon Jenkins / Joe Graydon / Chorus,pop,19490430,13,2,18,19490626
-4,5,Forever And Ever,Perry Como,Perry Como,jazz,19490319,15,3,21,19490626
-5,6,Baby It's Cold Outside,Margaret Whiting / Johnny Mercer,Margaret Whiting / Johnny Mercer,pop,19490522,13,4,15,19490626
-6,4,Forever And Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,19490319,14,2,20,19490626
-7,13,Baby It's Cold Outside,Dinah Shore / Buddy Clark,Dinah Shore / Buddy Clark,pop,19490529,17,4,16,19490626
-8,7,I Don't See Me In Your Eyes Anymore,Stardusters,Stardusters,pop,19490430,15,6,18,19490626
-9,12,Bali Ha'I,Perry Como,Perry Como,jazz,19490529,20,5,8,19490626
-10,9,Again,Mel Torme,Mel Torme,jazz,19490430,18,7,14,19490626
-11,14,Some Enchanted Evening,Bing Crosby,Bing Crosby,jazz,19490612,13,5,16,19490626
-12,8,'A' You're Adorable,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,19490416,12,4,13,19490626
-13,17,Four Winds And The Seven Seas,Sammy Kaye / Tony Alamo,Sammy Kaye / Tony Alamo,pop,19490619,17,7,11,19490626
-14,NEW,Again,Doris Day,Doris Day,jazz,19490626,14,14,2,19490626
-15,NEW,A Wonderful Guy,Margaret Whiting,Margaret Whiting,pop,19490626,15,15,1,19490626
-16,11,Again,Vic Damone,Vic Damone,jazz,19490507,18,11,8,19490626
-17,10,Cruising Down The River,Russ Morgan,Russ Morgan,pop,19490226,15,1,20,19490626
-18,NEW,Baby It's Cold Outside,Ella Fitzgerald / Louis Jordan,Ella Fitzgerald / Louis Jordan,jazz,19490626,18,18,2,19490626
-19,NEW,Bali Ha'I,Bing Crosby,Bing Crosby,jazz,19490626,19,19,2,19490626
-20,NEW,I Don't See Me In Your Eyes Anymore,Perry Como,Perry Como,jazz,19490626,20,10,4,19490626
-1,1,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,19490430,12,1,22,19490619
-2,3,Some Enchanted Evening,Perry Como,Perry Como,jazz,19490515,20,1,23,19490619
-3,2,Again,Gordon Jenkins / Joe Graydon / Chorus,Gordon Jenkins / Joe Graydon / Chorus,pop,19490430,13,2,18,19490619
-4,4,Forever And Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,19490319,14,2,20,19490619
-5,5,Forever And Ever,Perry Como,Perry Como,jazz,19490319,15,3,21,19490619
-6,11,Baby It's Cold Outside,Margaret Whiting / Johnny Mercer,Margaret Whiting / Johnny Mercer,pop,19490522,13,4,15,19490619
-7,8,I Don't See Me In Your Eyes Anymore,Stardusters,Stardusters,pop,19490430,15,6,18,19490619
-8,9,'A' You're Adorable,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,19490416,12,4,13,19490619
-9,7,Again,Mel Torme,Mel Torme,jazz,19490430,18,7,14,19490619
-10,6,Cruising Down The River,Russ Morgan,Russ Morgan,pop,19490226,15,1,20,19490619
-11,14,Again,Vic Damone,Vic Damone,jazz,19490507,18,11,8,19490619
-12,10,Bali Ha'I,Perry Como,Perry Como,jazz,19490529,20,5,8,19490619
-13,15,Baby It's Cold Outside,Dinah Shore / Buddy Clark,Dinah Shore / Buddy Clark,pop,19490529,17,4,16,19490619
-14,13,Some Enchanted Evening,Bing Crosby,Bing Crosby,jazz,19490612,13,5,16,19490619
-15,NEW,Room Full Of Roses,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19490619,15,15,1,19490619
-16,12,'A' You're Adorable,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19490430,4,4,8,19490619
-17,NEW,Four Winds And The Seven Seas,Sammy Kaye / Tony Alamo,Sammy Kaye / Tony Alamo,pop,19490619,17,7,11,19490619
-18,20,Careless Hands,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19490226,13,7,17,19490619
-19,NEW,The Hucklebuck,Tommy Dorsey / Charlie Shavers,Tommy Dorsey / Charlie Shavers,pop,19490619,19,19,1,19490619
-20,NEW,Merry-Go-Round Waltz,Guy Lombardo,Guy Lombardo,jazz,19490619,20,20,1,19490619
-1,1,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,19490430,12,1,22,19490612
-2,2,Again,Gordon Jenkins / Joe Graydon / Chorus,Gordon Jenkins / Joe Graydon / Chorus,pop,19490430,13,2,18,19490612
-3,4,Some Enchanted Evening,Perry Como,Perry Como,jazz,19490515,20,1,23,19490612
-4,3,Forever And Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,19490319,14,2,20,19490612
-5,5,Forever And Ever,Perry Como,Perry Como,jazz,19490319,15,3,21,19490612
-6,6,Cruising Down The River,Russ Morgan,Russ Morgan,pop,19490226,15,1,20,19490612
-7,8,Again,Mel Torme,Mel Torme,jazz,19490430,18,7,14,19490612
-8,9,I Don't See Me In Your Eyes Anymore,Stardusters,Stardusters,pop,19490430,15,6,18,19490612
-9,7,'A' You're Adorable,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,19490416,12,4,13,19490612
-10,15,Bali Ha'I,Perry Como,Perry Como,jazz,19490529,20,5,8,19490612
-11,10,Baby It's Cold Outside,Margaret Whiting / Johnny Mercer,Margaret Whiting / Johnny Mercer,pop,19490522,13,4,15,19490612
-12,11,'A' You're Adorable,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19490430,4,4,8,19490612
-13,NEW,Some Enchanted Evening,Bing Crosby,Bing Crosby,jazz,19490612,13,5,16,19490612
-14,13,Again,Vic Damone,Vic Damone,jazz,19490507,18,11,8,19490612
-15,17,Baby It's Cold Outside,Dinah Shore / Buddy Clark,Dinah Shore / Buddy Clark,pop,19490529,17,4,16,19490612
-16,16,Careless Hands,Mel Torme,Mel Torme,jazz,19490326,19,7,12,19490612
-17,14,Riders In The Sky,Bing Crosby,Bing Crosby,jazz,19490605,14,14,2,19490612
-18,19,Again,Doris Day,Doris Day,jazz,19490605,19,18,2,19490612
-19,NEW,I Don't See Me In Your Eyes Anymore,Perry Como,Perry Como,jazz,19490612,19,19,1,19490612
-20,12,Careless Hands,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19490226,13,7,17,19490612
-1,1,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,19490430,12,1,22,19490605
-2,2,Again,Gordon Jenkins / Joe Graydon / Chorus,Gordon Jenkins / Joe Graydon / Chorus,pop,19490430,13,2,18,19490605
-3,4,Forever And Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,19490319,14,2,20,19490605
-4,8,Some Enchanted Evening,Perry Como,Perry Como,jazz,19490515,20,1,23,19490605
-5,3,Forever And Ever,Perry Como,Perry Como,jazz,19490319,15,3,21,19490605
-6,5,Cruising Down The River,Russ Morgan,Russ Morgan,pop,19490226,15,1,20,19490605
-7,6,'A' You're Adorable,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,19490416,12,4,13,19490605
-8,10,Again,Mel Torme,Mel Torme,jazz,19490430,18,7,14,19490605
-9,7,I Don't See Me In Your Eyes Anymore,Stardusters,Stardusters,pop,19490430,15,6,18,19490605
-10,12,Baby It's Cold Outside,Margaret Whiting / Johnny Mercer,Margaret Whiting / Johnny Mercer,pop,19490522,13,4,15,19490605
-11,9,'A' You're Adorable,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19490430,4,4,8,19490605
-12,11,Careless Hands,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19490226,13,7,17,19490605
-13,14,Again,Vic Damone,Vic Damone,jazz,19490507,18,11,8,19490605
-14,NEW,Riders In The Sky,Bing Crosby,Bing Crosby,jazz,19490605,14,14,2,19490605
-15,20,Bali Ha'I,Perry Como,Perry Como,jazz,19490529,20,5,8,19490605
-16,15,Careless Hands,Mel Torme,Mel Torme,jazz,19490326,19,7,12,19490605
-17,17,Baby It's Cold Outside,Dinah Shore / Buddy Clark,Dinah Shore / Buddy Clark,pop,19490529,17,4,16,19490605
-18,13,Need You,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19490507,15,13,5,19490605
-19,NEW,Again,Doris Day,Doris Day,jazz,19490605,19,18,2,19490605
-20,18,Blue Skirt Waltz,Frank Yankovic,Frank Yankovic,pop,19490522,20,18,3,19490605
-1,1,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,19490430,12,1,22,19490529
-2,5,Again,Gordon Jenkins / Joe Graydon / Chorus,Gordon Jenkins / Joe Graydon / Chorus,pop,19490430,13,2,18,19490529
-3,4,Forever And Ever,Perry Como,Perry Como,jazz,19490319,15,3,21,19490529
-4,2,Forever And Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,19490319,14,2,20,19490529
-5,3,Cruising Down The River,Russ Morgan,Russ Morgan,pop,19490226,15,1,20,19490529
-6,6,'A' You're Adorable,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,19490416,12,4,13,19490529
-7,11,I Don't See Me In Your Eyes Anymore,Stardusters,Stardusters,pop,19490430,15,6,18,19490529
-8,15,Some Enchanted Evening,Perry Como,Perry Como,jazz,19490515,20,1,23,19490529
-9,9,'A' You're Adorable,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19490430,4,4,8,19490529
-10,7,Again,Mel Torme,Mel Torme,jazz,19490430,18,7,14,19490529
-11,10,Careless Hands,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19490226,13,7,17,19490529
-12,13,Baby It's Cold Outside,Margaret Whiting / Johnny Mercer,Margaret Whiting / Johnny Mercer,pop,19490522,13,4,15,19490529
-13,14,Need You,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19490507,15,13,5,19490529
-14,16,Again,Vic Damone,Vic Damone,jazz,19490507,18,11,8,19490529
-15,8,Careless Hands,Mel Torme,Mel Torme,jazz,19490326,19,7,12,19490529
-16,NEW,Once In Love With Amy,Ray Bolger,Ray Bolger,pop,19490529,16,16,1,19490529
-17,NEW,Baby It's Cold Outside,Dinah Shore / Buddy Clark,Dinah Shore / Buddy Clark,pop,19490529,17,4,16,19490529
-18,20,Blue Skirt Waltz,Frank Yankovic,Frank Yankovic,pop,19490522,20,18,3,19490529
-19,12,Cruising Down The River,Blue Barron,Blue Barron,jazz,19490205,12,1,17,19490529
-20,NEW,Bali Ha'I,Perry Como,Perry Como,jazz,19490529,20,5,8,19490529
-1,1,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,19490430,12,1,22,19490522
-2,3,Forever And Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,19490319,14,2,20,19490522
-3,2,Cruising Down The River,Russ Morgan,Russ Morgan,pop,19490226,15,1,20,19490522
-4,5,Forever And Ever,Perry Como,Perry Como,jazz,19490319,15,3,21,19490522
-5,6,Again,Gordon Jenkins / Joe Graydon / Chorus,Gordon Jenkins / Joe Graydon / Chorus,pop,19490430,13,2,18,19490522
-6,4,'A' You're Adorable,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,19490416,12,4,13,19490522
-7,9,Again,Mel Torme,Mel Torme,jazz,19490430,18,7,14,19490522
-8,7,Careless Hands,Mel Torme,Mel Torme,jazz,19490326,19,7,12,19490522
-9,8,'A' You're Adorable,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19490430,4,4,8,19490522
-10,12,Careless Hands,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19490226,13,7,17,19490522
-11,11,I Don't See Me In Your Eyes Anymore,Stardusters,Stardusters,pop,19490430,15,6,18,19490522
-12,10,Cruising Down The River,Blue Barron,Blue Barron,jazz,19490205,12,1,17,19490522
-13,NEW,Baby It's Cold Outside,Margaret Whiting / Johnny Mercer,Margaret Whiting / Johnny Mercer,pop,19490522,13,4,15,19490522
-14,14,Need You,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19490507,15,13,5,19490522
-15,20,Some Enchanted Evening,Perry Como,Perry Como,jazz,19490515,20,1,23,19490522
-16,15,Again,Vic Damone,Vic Damone,jazz,19490507,18,11,8,19490522
-17,NEW,Riders In The Sky,Bing Crosby,Bing Crosby,jazz,19490522,17,17,1,19490522
-18,13,Red Roses For A Blue Lady,Vaughn Monroe,Vaughn Monroe,jazz,19490205,17,4,16,19490522
-19,NEW,Slaughter On Tenth Avenue,Lennie Hayton Orchestra,Lennie Hayton Orchestra,pop,19490522,19,19,1,19490522
-20,NEW,Blue Skirt Waltz,Frank Yankovic,Frank Yankovic,pop,19490522,20,18,3,19490522
-1,4,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,19490430,12,1,22,19490515
-2,1,Cruising Down The River,Russ Morgan,Russ Morgan,pop,19490226,15,1,20,19490515
-3,2,Forever And Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,19490319,14,2,20,19490515
-4,5,'A' You're Adorable,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,19490416,12,4,13,19490515
-5,3,Forever And Ever,Perry Como,Perry Como,jazz,19490319,15,3,21,19490515
-6,8,Again,Gordon Jenkins / Joe Graydon / Chorus,Gordon Jenkins / Joe Graydon / Chorus,pop,19490430,13,2,18,19490515
-7,9,Careless Hands,Mel Torme,Mel Torme,jazz,19490326,19,7,12,19490515
-8,11,'A' You're Adorable,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19490430,4,4,8,19490515
-9,13,Again,Mel Torme,Mel Torme,jazz,19490430,18,7,14,19490515
-10,6,Cruising Down The River,Blue Barron,Blue Barron,jazz,19490205,12,1,17,19490515
-11,12,I Don't See Me In Your Eyes Anymore,Stardusters,Stardusters,pop,19490430,15,6,18,19490515
-12,7,Careless Hands,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19490226,13,7,17,19490515
-13,10,Red Roses For A Blue Lady,Vaughn Monroe,Vaughn Monroe,jazz,19490205,17,4,16,19490515
-14,15,Need You,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19490507,15,13,5,19490515
-15,18,Again,Vic Damone,Vic Damone,jazz,19490507,18,11,8,19490515
-16,17,Far Away Places,Perry Como,Perry Como,jazz,19490115,18,6,18,19490515
-17,16,Sunflower,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,19490326,11,10,8,19490515
-18,19,Red Roses For A Blue Lady,Guy Lombardo / Don Rodney,Guy Lombardo / Don Rodney,pop,19490319,16,10,9,19490515
-19,14,So Tired,Russ Morgan,Russ Morgan,pop,19490108,13,4,19,19490515
-20,NEW,Some Enchanted Evening,Perry Como,Perry Como,jazz,19490515,20,1,23,19490515
-1,1,Cruising Down The River,Russ Morgan,Russ Morgan,pop,19490226,15,1,20,19490507
-2,2,Forever And Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,19490319,14,2,20,19490507
-3,3,Forever And Ever,Perry Como,Perry Como,jazz,19490319,15,3,21,19490507
-4,12,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,19490430,12,1,22,19490507
-5,5,'A' You're Adorable,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,19490416,12,4,13,19490507
-6,6,Cruising Down The River,Blue Barron,Blue Barron,jazz,19490205,12,1,17,19490507
-7,7,Careless Hands,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19490226,13,7,17,19490507
-8,13,Again,Gordon Jenkins / Joe Graydon / Chorus,Gordon Jenkins / Joe Graydon / Chorus,pop,19490430,13,2,18,19490507
-9,9,Careless Hands,Mel Torme,Mel Torme,jazz,19490326,19,7,12,19490507
-10,8,Red Roses For A Blue Lady,Vaughn Monroe,Vaughn Monroe,jazz,19490205,17,4,16,19490507
-11,4,'A' You're Adorable,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19490430,4,4,8,19490507
-12,15,I Don't See Me In Your Eyes Anymore,Stardusters,Stardusters,pop,19490430,15,6,18,19490507
-13,18,Again,Mel Torme,Mel Torme,jazz,19490430,18,7,14,19490507
-14,11,So Tired,Russ Morgan,Russ Morgan,pop,19490108,13,4,19,19490507
-15,NEW,Need You,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19490507,15,13,5,19490507
-16,10,Sunflower,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,19490326,11,10,8,19490507
-17,17,Far Away Places,Perry Como,Perry Como,jazz,19490115,18,6,18,19490507
-18,NEW,Again,Vic Damone,Vic Damone,jazz,19490507,18,11,8,19490507
-19,16,Red Roses For A Blue Lady,Guy Lombardo / Don Rodney,Guy Lombardo / Don Rodney,pop,19490319,16,10,9,19490507
-20,NEW,-,-,-,pop,19490507,20,20,1,19490507
-1,1,Cruising Down The River,Russ Morgan,Russ Morgan,pop,19490226,15,1,20,19490430
-2,4,Forever And Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,19490319,14,2,20,19490430
-3,3,Forever And Ever,Perry Como,Perry Como,jazz,19490319,15,3,21,19490430
-4,NEW,'A' You're Adorable,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19490430,4,4,8,19490430
-5,9,'A' You're Adorable,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,19490416,12,4,13,19490430
-6,2,Cruising Down The River,Blue Barron,Blue Barron,jazz,19490205,12,1,17,19490430
-7,10,Careless Hands,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19490226,13,7,17,19490430
-8,5,Red Roses For A Blue Lady,Vaughn Monroe,Vaughn Monroe,jazz,19490205,17,4,16,19490430
-9,7,Careless Hands,Mel Torme,Mel Torme,jazz,19490326,19,7,12,19490430
-10,12,Sunflower,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,19490326,11,10,8,19490430
-11,6,So Tired,Russ Morgan,Russ Morgan,pop,19490108,13,4,19,19490430
-12,NEW,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,19490430,12,1,22,19490430
-13,NEW,Again,Gordon Jenkins / Joe Graydon / Chorus,Gordon Jenkins / Joe Graydon / Chorus,pop,19490430,13,2,18,19490430
-14,8,Far Away Places,Bing Crosby,Bing Crosby,jazz,19490115,12,2,16,19490430
-15,NEW,I Don't See Me In Your Eyes Anymore,Stardusters,Stardusters,pop,19490430,15,6,18,19490430
-16,15,Red Roses For A Blue Lady,Guy Lombardo / Don Rodney,Guy Lombardo / Don Rodney,pop,19490319,16,10,9,19490430
-17,19,Far Away Places,Perry Como,Perry Como,jazz,19490115,18,6,18,19490430
-18,NEW,Again,Mel Torme,Mel Torme,jazz,19490430,18,7,14,19490430
-19,13,Galway Bay,Bing Crosby,Bing Crosby,jazz,19490129,14,3,14,19490430
-20,NEW,Blue Moon,Mel Torme,Mel Torme,jazz,19490430,20,20,1,19490430
-1,1,Cruising Down The River,Russ Morgan,Russ Morgan,pop,19490226,15,1,20,19490423
-2,2,Cruising Down The River,Blue Barron,Blue Barron,jazz,19490205,12,1,17,19490423
-3,6,Forever And Ever,Perry Como,Perry Como,jazz,19490319,15,3,21,19490423
-4,3,Forever And Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,19490319,14,2,20,19490423
-5,5,Red Roses For A Blue Lady,Vaughn Monroe,Vaughn Monroe,jazz,19490205,17,4,16,19490423
-6,4,So Tired,Russ Morgan,Russ Morgan,pop,19490108,13,4,19,19490423
-7,15,Careless Hands,Mel Torme,Mel Torme,jazz,19490326,19,7,12,19490423
-8,9,Far Away Places,Bing Crosby,Bing Crosby,jazz,19490115,12,2,16,19490423
-9,12,'A' You're Adorable,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,19490416,12,4,13,19490423
-10,8,Careless Hands,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19490226,13,7,17,19490423
-11,13,Need You,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19490416,13,11,2,19490423
-12,11,Sunflower,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,19490326,11,10,8,19490423
-13,7,Galway Bay,Bing Crosby,Bing Crosby,jazz,19490129,14,3,14,19490423
-14,NEW,Cruisng Down The River,Jack Smith,Jack Smith,pop,19490423,14,14,1,19490423
-15,14,Red Roses For A Blue Lady,Guy Lombardo / Don Rodney,Guy Lombardo / Don Rodney,pop,19490319,16,10,9,19490423
-16,19,Again,Vic Damone,Vic Damone,jazz,19490416,19,16,2,19490423
-17,NEW,You You You Are The One,Russ Morgan,Russ Morgan,pop,19490423,17,17,1,19490423
-18,16,Blue Skirt Waltz,Frankie Yankovic,Frankie Yankovic,pop,19490416,16,16,2,19490423
-19,18,Far Away Places,Perry Como,Perry Como,jazz,19490115,18,6,18,19490423
-20,NEW,Once In Love With Amy,Ray Bolger,Ray Bolger,pop,19490423,20,20,1,19490423
-1,1,Cruising Down The River,Russ Morgan,Russ Morgan,pop,19490226,15,1,20,19490416
-2,2,Cruising Down The River,Blue Barron,Blue Barron,jazz,19490205,12,1,17,19490416
-3,8,Forever And Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,19490319,14,2,20,19490416
-4,7,So Tired,Russ Morgan,Russ Morgan,pop,19490108,13,4,19,19490416
-5,4,Red Roses For A Blue Lady,Vaughn Monroe,Vaughn Monroe,jazz,19490205,17,4,16,19490416
-6,6,Forever And Ever,Perry Como,Perry Como,jazz,19490319,15,3,21,19490416
-7,3,Galway Bay,Bing Crosby,Bing Crosby,jazz,19490129,14,3,14,19490416
-8,9,Careless Hands,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19490226,13,7,17,19490416
-9,5,Far Away Places,Bing Crosby,Bing Crosby,jazz,19490115,12,2,16,19490416
-10,18,'A' You're Adorable,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19490409,18,10,2,19490416
-11,12,Sunflower,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,19490326,11,10,8,19490416
-12,NEW,'A' You're Adorable,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,19490416,12,4,13,19490416
-13,NEW,Need You,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19490416,13,11,2,19490416
-14,10,Red Roses For A Blue Lady,Guy Lombardo / Don Rodney,Guy Lombardo / Don Rodney,pop,19490319,16,10,9,19490416
-15,11,Careless Hands,Mel Torme,Mel Torme,jazz,19490326,19,7,12,19490416
-16,NEW,Blue Skirt Waltz,Frankie Yankovic,Frankie Yankovic,pop,19490416,16,16,2,19490416
-17,13,Powder Your Face With Sunshine,Evelyn Knight,Evelyn Knight,jazz,19490108,18,3,15,19490416
-18,14,Far Away Places,Perry Como,Perry Como,jazz,19490115,18,6,18,19490416
-19,NEW,Again,Vic Damone,Vic Damone,jazz,19490416,19,16,2,19490416
-20,15,Sunflower,Jack Fulton,Jack Fulton,pop,19490409,15,15,2,19490416
-1,1,Cruising Down The River,Russ Morgan,Russ Morgan,pop,19490226,15,1,20,19490409
-2,2,Cruising Down The River,Blue Barron,Blue Barron,jazz,19490205,12,1,17,19490409
-3,3,Galway Bay,Bing Crosby,Bing Crosby,jazz,19490129,14,3,14,19490409
-4,5,Red Roses For A Blue Lady,Vaughn Monroe,Vaughn Monroe,jazz,19490205,17,4,16,19490409
-5,4,Far Away Places,Bing Crosby,Bing Crosby,jazz,19490115,12,2,16,19490409
-6,7,Forever And Ever,Perry Como,Perry Como,jazz,19490319,15,3,21,19490409
-7,6,So Tired,Russ Morgan,Russ Morgan,pop,19490108,13,4,19,19490409
-8,8,Forever And Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,19490319,14,2,20,19490409
-9,11,Careless Hands,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19490226,13,7,17,19490409
-10,12,Red Roses For A Blue Lady,Guy Lombardo / Don Rodney,Guy Lombardo / Don Rodney,pop,19490319,16,10,9,19490409
-11,14,Careless Hands,Mel Torme,Mel Torme,jazz,19490326,19,7,12,19490409
-12,10,Sunflower,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,19490326,11,10,8,19490409
-13,9,Powder Your Face With Sunshine,Evelyn Knight,Evelyn Knight,jazz,19490108,18,3,15,19490409
-14,13,Far Away Places,Perry Como,Perry Como,jazz,19490115,18,6,18,19490409
-15,NEW,Sunflower,Jack Fulton,Jack Fulton,pop,19490409,15,15,2,19490409
-16,NEW,I Love You So Much It Hurts,Mills Brothers,Mills Brothers,jazz,19490409,16,16,1,19490409
-17,15,I've Got My Love To Keep Me Warm,Les Brown,Les Brown,jazz,19490115,19,7,13,19490409
-18,NEW,'A' You're Adorable,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19490409,18,10,2,19490409
-19,18,I've Got My Love To Keep Me Warm,Mills Brothers,Mills Brothers,jazz,19490226,17,12,7,19490409
-20,NEW,Cruising Down The River,Jack Smith,Jack Smith,pop,19490409,20,20,1,19490409
-1,1,Cruising Down The River,Russ Morgan,Russ Morgan,pop,19490226,15,1,20,19490402
-2,2,Cruising Down The River,Blue Barron,Blue Barron,jazz,19490205,12,1,17,19490402
-3,3,Galway Bay,Bing Crosby,Bing Crosby,jazz,19490129,14,3,14,19490402
-4,4,Far Away Places,Bing Crosby,Bing Crosby,jazz,19490115,12,2,16,19490402
-5,7,Red Roses For A Blue Lady,Vaughn Monroe,Vaughn Monroe,jazz,19490205,17,4,16,19490402
-6,5,So Tired,Russ Morgan,Russ Morgan,pop,19490108,13,4,19,19490402
-7,15,Forever And Ever,Perry Como,Perry Como,jazz,19490319,15,3,21,19490402
-8,18,Forever And Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,19490319,14,2,20,19490402
-9,6,Powder Your Face With Sunshine,Evelyn Knight,Evelyn Knight,jazz,19490108,18,3,15,19490402
-10,11,Sunflower,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,19490326,11,10,8,19490402
-11,9,Careless Hands,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19490226,13,7,17,19490402
-12,16,Red Roses For A Blue Lady,Guy Lombardo / Don Rodney,Guy Lombardo / Don Rodney,pop,19490319,16,10,9,19490402
-13,14,Far Away Places,Perry Como,Perry Como,jazz,19490115,18,6,18,19490402
-14,19,Careless Hands,Mel Torme,Mel Torme,jazz,19490326,19,7,12,19490402
-15,10,I've Got My Love To Keep Me Warm,Les Brown,Les Brown,jazz,19490115,19,7,13,19490402
-16,NEW,Powder Your Face With Sunshine,Sammy Kaye,Sammy Kaye,jazz,19490402,16,16,1,19490402
-17,NEW,I Don't See Me In Your Eyes Anymore,Stardusters,Stardusters,pop,19490402,17,17,1,19490402
-18,13,I've Got My Love To Keep Me Warm,Mills Brothers,Mills Brothers,jazz,19490226,17,12,7,19490402
-19,12,A Little Bird Told Me,Evelyn Knight,Evelyn Knight,jazz,19481120,20,1,20,19490402
-20,NEW,Blue Skirt Waltz,Frankie Yankovic,Frankie Yankovic,pop,19490402,20,20,1,19490402
-1,2,Cruising Down The River,Russ Morgan,Russ Morgan,pop,19490226,15,1,20,19490326
-2,1,Cruising Down The River,Blue Barron,Blue Barron,jazz,19490205,12,1,17,19490326
-3,3,Galway Bay,Bing Crosby,Bing Crosby,jazz,19490129,14,3,14,19490326
-4,4,Far Away Places,Bing Crosby,Bing Crosby,jazz,19490115,12,2,16,19490326
-5,7,So Tired,Russ Morgan,Russ Morgan,pop,19490108,13,4,19,19490326
-6,5,Powder Your Face With Sunshine,Evelyn Knight,Evelyn Knight,jazz,19490108,18,3,15,19490326
-7,6,Red Roses For A Blue Lady,Vaughn Monroe,Vaughn Monroe,jazz,19490205,17,4,16,19490326
-8,13,I Love You So Much It Hurts,Mills Brothers,Mills Brothers,jazz,19490219,18,8,6,19490326
-9,9,Careless Hands,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19490226,13,7,17,19490326
-10,10,I've Got My Love To Keep Me Warm,Les Brown,Les Brown,jazz,19490115,19,7,13,19490326
-11,NEW,Sunflower,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,19490326,11,10,8,19490326
-12,8,A Little Bird Told Me,Evelyn Knight,Evelyn Knight,jazz,19481120,20,1,20,19490326
-13,12,I've Got My Love To Keep Me Warm,Mills Brothers,Mills Brothers,jazz,19490226,17,12,7,19490326
-14,11,Far Away Places,Perry Como,Perry Como,jazz,19490115,18,6,18,19490326
-15,15,Forever And Ever,Perry Como,Perry Como,jazz,19490319,15,3,21,19490326
-16,16,Red Roses For A Blue Lady,Guy Lombardo / Don Rodney,Guy Lombardo / Don Rodney,pop,19490319,16,10,9,19490326
-17,NEW,Faraway Places,Margaret Whiting,Margaret Whiting,pop,19490326,17,17,1,19490326
-18,14,Forever And Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,19490319,14,2,20,19490326
-19,NEW,Careless Hands,Mel Torme,Mel Torme,jazz,19490326,19,7,12,19490326
-20,NEW,Sunflower,Jack Fulton,Jack Fulton,pop,19490326,20,20,1,19490326
-1,1,Cruising Down The River,Blue Barron,Blue Barron,jazz,19490205,12,1,17,19490319
-2,4,Cruising Down The River,Russ Morgan,Russ Morgan,pop,19490226,15,1,20,19490319
-3,3,Galway Bay,Bing Crosby,Bing Crosby,jazz,19490129,14,3,14,19490319
-4,2,Far Away Places,Bing Crosby,Bing Crosby,jazz,19490115,12,2,16,19490319
-5,6,Powder Your Face With Sunshine,Evelyn Knight,Evelyn Knight,jazz,19490108,18,3,15,19490319
-6,8,Red Roses For A Blue Lady,Vaughn Monroe,Vaughn Monroe,jazz,19490205,17,4,16,19490319
-7,7,So Tired,Russ Morgan,Russ Morgan,pop,19490108,13,4,19,19490319
-8,5,A Little Bird Told Me,Evelyn Knight,Evelyn Knight,jazz,19481120,20,1,20,19490319
-9,14,Careless Hands,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19490226,13,7,17,19490319
-10,10,I've Got My Love To Keep Me Warm,Les Brown,Les Brown,jazz,19490115,19,7,13,19490319
-11,13,Far Away Places,Perry Como,Perry Como,jazz,19490115,18,6,18,19490319
-12,12,I've Got My Love To Keep Me Warm,Mills Brothers,Mills Brothers,jazz,19490226,17,12,7,19490319
-13,9,I Love You So Much It Hurts,Mills Brothers,Mills Brothers,jazz,19490219,18,8,6,19490319
-14,NEW,Forever And Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,19490319,14,2,20,19490319
-15,NEW,Forever And Ever,Perry Como,Perry Como,jazz,19490319,15,3,21,19490319
-16,NEW,Red Roses For A Blue Lady,Guy Lombardo / Don Rodney,Guy Lombardo / Don Rodney,pop,19490319,16,10,9,19490319
-17,15,Lavender Blue,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19481218,18,5,14,19490319
-18,NEW,Powder Your Face With Sunshine,Sammy Kaye / Kaydets,Sammy Kaye / Kaydets,pop,19490319,18,18,1,19490319
-19,19,Sweet Georgia Brown,Brother Bones And His Shadows,Brother Bones And His Shadows,pop,19490115,15,10,10,19490319
-20,11,Down By The Station,Tommy Dorsey,Tommy Dorsey,jazz,19490219,20,11,5,19490319
-1,2,Cruising Down The River,Blue Barron,Blue Barron,jazz,19490205,12,1,17,19490312
-2,3,Far Away Places,Bing Crosby,Bing Crosby,jazz,19490115,12,2,16,19490312
-3,5,Galway Bay,Bing Crosby,Bing Crosby,jazz,19490129,14,3,14,19490312
-4,6,Cruising Down The River,Russ Morgan,Russ Morgan,pop,19490226,15,1,20,19490312
-5,1,A Little Bird Told Me,Evelyn Knight,Evelyn Knight,jazz,19481120,20,1,20,19490312
-6,4,Powder Your Face With Sunshine,Evelyn Knight,Evelyn Knight,jazz,19490108,18,3,15,19490312
-7,12,So Tired,Russ Morgan,Russ Morgan,pop,19490108,13,4,19,19490312
-8,8,Red Roses For A Blue Lady,Vaughn Monroe,Vaughn Monroe,jazz,19490205,17,4,16,19490312
-9,11,I Love You So Much It Hurts,Mills Brothers,Mills Brothers,jazz,19490219,18,8,6,19490312
-10,7,I've Got My Love To Keep Me Warm,Les Brown,Les Brown,jazz,19490115,19,7,13,19490312
-11,19,Down By The Station,Tommy Dorsey,Tommy Dorsey,jazz,19490219,20,11,5,19490312
-12,13,I've Got My Love To Keep Me Warm,Mills Brothers,Mills Brothers,jazz,19490226,17,12,7,19490312
-13,10,Far Away Places,Perry Como,Perry Como,jazz,19490115,18,6,18,19490312
-14,16,Careless Hands,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19490226,13,7,17,19490312
-15,9,Lavender Blue,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19481218,18,5,14,19490312
-16,14,Far Away Places,Margaret Whiting,Margaret Whiting,pop,19490115,8,3,9,19490312
-17,NEW,Crusing Down The River,Jack Smith / Clark Sisters,Jack Smith / Clark Sisters,pop,19490312,17,17,1,19490312
-18,NEW,Blue Room,Perry Como,Perry Como,jazz,19490312,18,18,1,19490312
-19,15,Sweet Georgia Brown,Brother Bones And His Shadows,Brother Bones And His Shadows,pop,19490115,15,10,10,19490312
-20,NEW,So In Love,Gordon Macrae,Gordon Macrae,jazz,19490312,20,20,1,19490312
-1,1,A Little Bird Told Me,Evelyn Knight,Evelyn Knight,jazz,19481120,20,1,20,19490305
-2,2,Cruising Down The River,Blue Barron,Blue Barron,jazz,19490205,12,1,17,19490305
-3,5,Far Away Places,Bing Crosby,Bing Crosby,jazz,19490115,12,2,16,19490305
-4,3,Powder Your Face With Sunshine,Evelyn Knight,Evelyn Knight,jazz,19490108,18,3,15,19490305
-5,4,Galway Bay,Bing Crosby,Bing Crosby,jazz,19490129,14,3,14,19490305
-6,15,Cruising Down The River,Russ Morgan,Russ Morgan,pop,19490226,15,1,20,19490305
-7,9,I've Got My Love To Keep Me Warm,Les Brown,Les Brown,jazz,19490115,19,7,13,19490305
-8,11,Red Roses For A Blue Lady,Vaughn Monroe,Vaughn Monroe,jazz,19490205,17,4,16,19490305
-9,8,Lavender Blue,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19481218,18,5,14,19490305
-10,6,Far Away Places,Perry Como,Perry Como,jazz,19490115,18,6,18,19490305
-11,10,I Love You So Much It Hurts,Mills Brothers,Mills Brothers,jazz,19490219,18,8,6,19490305
-12,7,So Tired,Russ Morgan,Russ Morgan,pop,19490108,13,4,19,19490305
-13,17,I've Got My Love To Keep Me Warm,Mills Brothers,Mills Brothers,jazz,19490226,17,12,7,19490305
-14,12,Far Away Places,Margaret Whiting,Margaret Whiting,pop,19490115,8,3,9,19490305
-15,16,Sweet Georgia Brown,Brother Bones And His Shadows,Brother Bones And His Shadows,pop,19490115,15,10,10,19490305
-16,13,Careless Hands,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19490226,13,7,17,19490305
-17,14,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,19481002,18,1,23,19490305
-18,18,Powder Your Face With Sunshine,Sammy Kaye,Sammy Kaye,jazz,19490212,18,14,4,19490305
-19,19,Down By The Station,Tommy Dorsey,Tommy Dorsey,jazz,19490219,20,11,5,19490305
-20,NEW,Down By The Station,Guy Lombardo,Guy Lombardo,jazz,19490305,20,20,1,19490305
-1,1,A Little Bird Told Me,Evelyn Knight,Evelyn Knight,jazz,19481120,20,1,20,19490226
-2,4,Cruising Down The River,Blue Barron,Blue Barron,jazz,19490205,12,1,17,19490226
-3,3,Powder Your Face With Sunshine,Evelyn Knight,Evelyn Knight,jazz,19490108,18,3,15,19490226
-4,8,Galway Bay,Bing Crosby,Bing Crosby,jazz,19490129,14,3,14,19490226
-5,2,Far Away Places,Bing Crosby,Bing Crosby,jazz,19490115,12,2,16,19490226
-6,11,Far Away Places,Perry Como,Perry Como,jazz,19490115,18,6,18,19490226
-7,7,So Tired,Russ Morgan,Russ Morgan,pop,19490108,13,4,19,19490226
-8,5,Lavender Blue,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19481218,18,5,14,19490226
-9,9,I've Got My Love To Keep Me Warm,Les Brown,Les Brown,jazz,19490115,19,7,13,19490226
-10,18,I Love You So Much It Hurts,Mills Brothers,Mills Brothers,jazz,19490219,18,8,6,19490226
-11,16,Red Roses For A Blue Lady,Vaughn Monroe,Vaughn Monroe,jazz,19490205,17,4,16,19490226
-12,10,Far Away Places,Margaret Whiting,Margaret Whiting,pop,19490115,8,3,9,19490226
-13,NEW,Careless Hands,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19490226,13,7,17,19490226
-14,6,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,19481002,18,1,23,19490226
-15,NEW,Cruising Down The River,Russ Morgan,Russ Morgan,pop,19490226,15,1,20,19490226
-16,12,Sweet Georgia Brown,Brother Bones And His Shadows,Brother Bones And His Shadows,pop,19490115,15,10,10,19490226
-17,NEW,I've Got My Love To Keep Me Warm,Mills Brothers,Mills Brothers,jazz,19490226,17,12,7,19490226
-18,14,Powder Your Face With Sunshine,Sammy Kaye,Sammy Kaye,jazz,19490212,18,14,4,19490226
-19,20,Down By The Station,Tommy Dorsey,Tommy Dorsey,jazz,19490219,20,11,5,19490226
-20,15,Lavender Blue,Dinah Shore,Dinah Shore,jazz,19490122,17,9,6,19490226
-1,1,A Little Bird Told Me,Evelyn Knight,Evelyn Knight,jazz,19481120,20,1,20,19490219
-2,2,Far Away Places,Bing Crosby,Bing Crosby,jazz,19490115,12,2,16,19490219
-3,4,Powder Your Face With Sunshine,Evelyn Knight,Evelyn Knight,jazz,19490108,18,3,15,19490219
-4,9,Cruising Down The River,Blue Barron,Blue Barron,jazz,19490205,12,1,17,19490219
-5,6,Lavender Blue,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19481218,18,5,14,19490219
-6,5,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,19481002,18,1,23,19490219
-7,13,So Tired,Russ Morgan,Russ Morgan,pop,19490108,13,4,19,19490219
-8,7,Galway Bay,Bing Crosby,Bing Crosby,jazz,19490129,14,3,14,19490219
-9,10,I've Got My Love To Keep Me Warm,Les Brown,Les Brown,jazz,19490115,19,7,13,19490219
-10,3,Far Away Places,Margaret Whiting,Margaret Whiting,pop,19490115,8,3,9,19490219
-11,8,Far Away Places,Perry Como,Perry Como,jazz,19490115,18,6,18,19490219
-12,11,Sweet Georgia Brown,Brother Bones And His Shadows,Brother Bones And His Shadows,pop,19490115,15,10,10,19490219
-13,14,My Darling My Darling,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19481113,18,3,15,19490219
-14,18,Powder Your Face With Sunshine,Sammy Kaye,Sammy Kaye,jazz,19490212,18,14,4,19490219
-15,17,Lavender Blue,Dinah Shore,Dinah Shore,jazz,19490122,17,9,6,19490219
-16,15,Red Roses For A Blue Lady,Vaughn Monroe,Vaughn Monroe,jazz,19490205,17,4,16,19490219
-17,12,The Pussy Cat Song,Patty Andrews / Bob Crosby,Patty Andrews / Bob Crosby,pop,19490122,18,12,5,19490219
-18,NEW,I Love You So Much It Hurts,Mills Brothers,Mills Brothers,jazz,19490219,18,8,6,19490219
-19,19,Gloria,Mills Brothers,Mills Brothers,jazz,19490212,19,19,2,19490219
-20,NEW,Down By The Station,Tommy Dorsey,Tommy Dorsey,jazz,19490219,20,11,5,19490219
-1,1,A Little Bird Told Me,Evelyn Knight,Evelyn Knight,jazz,19481120,20,1,20,19490212
-2,3,Far Away Places,Bing Crosby,Bing Crosby,jazz,19490115,12,2,16,19490212
-3,6,Far Away Places,Margaret Whiting,Margaret Whiting,pop,19490115,8,3,9,19490212
-4,4,Powder Your Face With Sunshine,Evelyn Knight,Evelyn Knight,jazz,19490108,18,3,15,19490212
-5,2,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,19481002,18,1,23,19490212
-6,7,Lavender Blue,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19481218,18,5,14,19490212
-7,15,Galway Bay,Bing Crosby,Bing Crosby,jazz,19490129,14,3,14,19490212
-8,11,Far Away Places,Perry Como,Perry Como,jazz,19490115,18,6,18,19490212
-9,12,Cruising Down The River,Blue Barron,Blue Barron,jazz,19490205,12,1,17,19490212
-10,14,I've Got My Love To Keep Me Warm,Les Brown,Les Brown,jazz,19490115,19,7,13,19490212
-11,10,Sweet Georgia Brown,Brother Bones And His Shadows,Brother Bones And His Shadows,pop,19490115,15,10,10,19490212
-12,20,The Pussy Cat Song,Patty Andrews / Bob Crosby,Patty Andrews / Bob Crosby,pop,19490122,18,12,5,19490212
-13,13,So Tired,Russ Morgan,Russ Morgan,pop,19490108,13,4,19,19490212
-14,5,My Darling My Darling,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19481113,18,3,15,19490212
-15,17,Red Roses For A Blue Lady,Vaughn Monroe,Vaughn Monroe,jazz,19490205,17,4,16,19490212
-16,8,On A Slow Boat To China,Kay Kyser / Harry Babbitt / Gloria Wood,Kay Kyser / Harry Babbitt / Gloria Wood,pop,19481023,20,2,17,19490212
-17,9,Lavender Blue,Dinah Shore,Dinah Shore,jazz,19490122,17,9,6,19490212
-18,NEW,Powder Your Face With Sunshine,Sammy Kaye,Sammy Kaye,jazz,19490212,18,14,4,19490212
-19,NEW,Gloria,Mills Brothers,Mills Brothers,jazz,19490212,19,19,2,19490212
-20,19,Buttons & Bows,Dinning Sisters / Art Van Damme Quartet,Dinning Sisters / Art Van Damme Quartet,pop,19490108,7,7,6,19490212
-1,1,A Little Bird Told Me,Evelyn Knight,Evelyn Knight,jazz,19481120,20,1,20,19490205
-2,2,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,19481002,18,1,23,19490205
-3,7,Far Away Places,Bing Crosby,Bing Crosby,jazz,19490115,12,2,16,19490205
-4,6,Powder Your Face With Sunshine,Evelyn Knight,Evelyn Knight,jazz,19490108,18,3,15,19490205
-5,4,My Darling My Darling,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19481113,18,3,15,19490205
-6,5,Far Away Places,Margaret Whiting,Margaret Whiting,pop,19490115,8,3,9,19490205
-7,9,Lavender Blue,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19481218,18,5,14,19490205
-8,3,On A Slow Boat To China,Kay Kyser / Harry Babbitt / Gloria Wood,Kay Kyser / Harry Babbitt / Gloria Wood,pop,19481023,20,2,17,19490205
-9,19,Lavender Blue,Dinah Shore,Dinah Shore,jazz,19490122,17,9,6,19490205
-10,13,Sweet Georgia Brown,Brother Bones And His Shadows,Brother Bones And His Shadows,pop,19490115,15,10,10,19490205
-11,12,Far Away Places,Perry Como,Perry Como,jazz,19490115,18,6,18,19490205
-12,NEW,Cruising Down The River,Blue Barron,Blue Barron,jazz,19490205,12,1,17,19490205
-13,8,So Tired,Russ Morgan,Russ Morgan,pop,19490108,13,4,19,19490205
-14,10,I've Got My Love To Keep Me Warm,Les Brown,Les Brown,jazz,19490115,19,7,13,19490205
-15,14,Galway Bay,Bing Crosby,Bing Crosby,jazz,19490129,14,3,14,19490205
-16,11,On A Slow Boat To China,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,19481106,17,5,14,19490205
-17,NEW,Red Roses For A Blue Lady,Vaughn Monroe,Vaughn Monroe,jazz,19490205,17,4,16,19490205
-18,NEW,A Little Bird Told Me,Blue Lu Barker,Blue Lu Barker,rock,19490205,18,18,1,19490205
-19,16,Buttons & Bows,Dinning Sisters / Art Van Damme Quartet,Dinning Sisters / Art Van Damme Quartet,pop,19490108,7,7,6,19490205
-20,15,The Pussy Cat Song,Patty Andrews / Bob Crosby,Patty Andrews / Bob Crosby,pop,19490122,18,12,5,19490205
-1,1,A Little Bird Told Me,Evelyn Knight,Evelyn Knight,jazz,19481120,20,1,20,19490129
-2,2,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,19481002,18,1,23,19490129
-3,3,On A Slow Boat To China,Kay Kyser / Harry Babbitt / Gloria Wood,Kay Kyser / Harry Babbitt / Gloria Wood,pop,19481023,20,2,17,19490129
-4,4,My Darling My Darling,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19481113,18,3,15,19490129
-5,5,Far Away Places,Margaret Whiting,Margaret Whiting,pop,19490115,8,3,9,19490129
-6,9,Powder Your Face With Sunshine,Evelyn Knight,Evelyn Knight,jazz,19490108,18,3,15,19490129
-7,8,Far Away Places,Bing Crosby,Bing Crosby,jazz,19490115,12,2,16,19490129
-8,11,So Tired,Russ Morgan,Russ Morgan,pop,19490108,13,4,19,19490129
-9,6,Lavender Blue,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19481218,18,5,14,19490129
-10,15,I've Got My Love To Keep Me Warm,Les Brown,Les Brown,jazz,19490115,19,7,13,19490129
-11,7,On A Slow Boat To China,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,19481106,17,5,14,19490129
-12,10,Far Away Places,Perry Como,Perry Como,jazz,19490115,18,6,18,19490129
-13,13,Sweet Georgia Brown,Brother Bones And His Shadows,Brother Bones And His Shadows,pop,19490115,15,10,10,19490129
-14,NEW,Galway Bay,Bing Crosby,Bing Crosby,jazz,19490129,14,3,14,19490129
-15,18,The Pussy Cat Song,Patty Andrews / Bob Crosby,Patty Andrews / Bob Crosby,pop,19490122,18,12,5,19490129
-16,14,Buttons & Bows,Dinning Sisters / Art Van Damme Quartet,Dinning Sisters / Art Van Damme Quartet,pop,19490108,7,7,6,19490129
-17,20,On A Slow Boat To China,Benny Goodman / Al Hendrickson,Benny Goodman / Al Hendrickson,pop,19490101,10,10,5,19490129
-18,NEW,Gloria,Mills Brothers,Mills Brothers,jazz,19490129,18,18,1,19490129
-19,17,Lavender Blue,Dinah Shore,Dinah Shore,jazz,19490122,17,9,6,19490129
-20,12,My Darling My Darling,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,19481204,11,7,9,19490129
-1,2,A Little Bird Told Me,Evelyn Knight,Evelyn Knight,jazz,19481120,20,1,20,19490122
-2,1,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,19481002,18,1,23,19490122
-3,3,On A Slow Boat To China,Kay Kyser / Harry Babbitt / Gloria Wood,Kay Kyser / Harry Babbitt / Gloria Wood,pop,19481023,20,2,17,19490122
-4,4,My Darling My Darling,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19481113,18,3,15,19490122
-5,8,Far Away Places,Margaret Whiting,Margaret Whiting,pop,19490115,8,3,9,19490122
-6,6,Lavender Blue,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19481218,18,5,14,19490122
-7,7,On A Slow Boat To China,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,19481106,17,5,14,19490122
-8,12,Far Away Places,Bing Crosby,Bing Crosby,jazz,19490115,12,2,16,19490122
-9,9,Powder Your Face With Sunshine,Evelyn Knight,Evelyn Knight,jazz,19490108,18,3,15,19490122
-10,18,Far Away Places,Perry Como,Perry Como,jazz,19490115,18,6,18,19490122
-11,14,So Tired,Russ Morgan,Russ Morgan,pop,19490108,13,4,19,19490122
-12,13,My Darling My Darling,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,19481204,11,7,9,19490122
-13,15,Sweet Georgia Brown,Brother Bones And His Shadows,Brother Bones And His Shadows,pop,19490115,15,10,10,19490122
-14,10,Buttons & Bows,Dinning Sisters / Art Van Damme Quartet,Dinning Sisters / Art Van Damme Quartet,pop,19490108,7,7,6,19490122
-15,19,I've Got My Love To Keep Me Warm,Les Brown,Les Brown,jazz,19490115,19,7,13,19490122
-16,20,A Little Bird Told Me,Blue Lu Barker,Blue Lu Barker,rock,19490108,17,16,3,19490122
-17,NEW,Lavender Blue,Dinah Shore,Dinah Shore,jazz,19490122,17,9,6,19490122
-18,NEW,The Pussy Cat Song,Patty Andrews / Bob Crosby,Patty Andrews / Bob Crosby,pop,19490122,18,12,5,19490122
-19,16,Cuanto La Gusta,Carmen Miranda / Andrews Sisters,Carmen Miranda / Andrews Sisters,pop,19490115,16,16,2,19490122
-20,17,On A Slow Boat To China,Benny Goodman / Al Hendrickson,Benny Goodman / Al Hendrickson,pop,19490101,10,10,5,19490122
-1,2,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,19481002,18,1,23,19490115
-2,4,A Little Bird Told Me,Evelyn Knight,Evelyn Knight,jazz,19481120,20,1,20,19490115
-3,3,On A Slow Boat To China,Kay Kyser / Harry Babbitt / Gloria Wood,Kay Kyser / Harry Babbitt / Gloria Wood,pop,19481023,20,2,17,19490115
-4,5,My Darling My Darling,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19481113,18,3,15,19490115
-5,1,All I Want For Christmas (Is My Two Front Teeth),Spike Jones,Spike Jones,pop,19481127,17,1,8,19490115
-6,10,Lavender Blue,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19481218,18,5,14,19490115
-7,8,On A Slow Boat To China,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,19481106,17,5,14,19490115
-8,NEW,Far Away Places,Margaret Whiting,Margaret Whiting,pop,19490115,8,3,9,19490115
-9,18,Powder Your Face With Sunshine,Evelyn Knight,Evelyn Knight,jazz,19490108,18,3,15,19490115
-10,7,Buttons & Bows,Dinning Sisters / Art Van Damme Quartet,Dinning Sisters / Art Van Damme Quartet,pop,19490108,7,7,6,19490115
-11,14,Until,Tommy Dorsey / Harry Prime / Clark Sisters,Tommy Dorsey / Harry Prime / Clark Sisters,pop,19480918,15,6,18,19490115
-12,NEW,Far Away Places,Bing Crosby,Bing Crosby,jazz,19490115,12,2,16,19490115
-13,11,My Darling My Darling,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,19481204,11,7,9,19490115
-14,13,So Tired,Russ Morgan,Russ Morgan,pop,19490108,13,4,19,19490115
-15,NEW,Sweet Georgia Brown,Brother Bones And His Shadows,Brother Bones And His Shadows,pop,19490115,15,10,10,19490115
-16,NEW,Cuanto La Gusta,Carmen Miranda / Andrews Sisters,Carmen Miranda / Andrews Sisters,pop,19490115,16,16,2,19490115
-17,12,On A Slow Boat To China,Benny Goodman / Al Hendrickson,Benny Goodman / Al Hendrickson,pop,19490101,10,10,5,19490115
-18,NEW,Far Away Places,Perry Como,Perry Como,jazz,19490115,18,6,18,19490115
-19,NEW,I've Got My Love To Keep Me Warm,Les Brown,Les Brown,jazz,19490115,19,7,13,19490115
-20,17,A Little Bird Told Me,Blue Lu Barker,Blue Lu Barker,rock,19490108,17,16,3,19490115
-1,2,All I Want For Christmas (Is My Two Front Teeth),Spike Jones,Spike Jones,pop,19481127,17,1,8,19490108
-2,1,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,19481002,18,1,23,19490108
-3,4,On A Slow Boat To China,Kay Kyser / Harry Babbitt / Gloria Wood,Kay Kyser / Harry Babbitt / Gloria Wood,pop,19481023,20,2,17,19490108
-4,3,A Little Bird Told Me,Evelyn Knight,Evelyn Knight,jazz,19481120,20,1,20,19490108
-5,5,My Darling My Darling,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19481113,18,3,15,19490108
-6,7,White Christmas,Bing Crosby,Bing Crosby,jazz,19481218,11,6,4,19490108
-7,NEW,Buttons & Bows,Dinning Sisters / Art Van Damme Quartet,Dinning Sisters / Art Van Damme Quartet,pop,19490108,7,7,6,19490108
-8,6,On A Slow Boat To China,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,19481106,17,5,14,19490108
-9,8,Here Comes Santa Claus,Gene Autry,Gene Autry,country / folk,19481211,19,8,5,19490108
-10,20,Lavender Blue,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19481218,18,5,14,19490108
-11,9,My Darling My Darling,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,19481204,11,7,9,19490108
-12,10,On A Slow Boat To China,Benny Goodman / Al Hendrickson,Benny Goodman / Al Hendrickson,pop,19490101,10,10,5,19490108
-13,NEW,So Tired,Russ Morgan,Russ Morgan,pop,19490108,13,4,19,19490108
-14,19,Until,Tommy Dorsey / Harry Prime / Clark Sisters,Tommy Dorsey / Harry Prime / Clark Sisters,pop,19480918,15,6,18,19490108
-15,NEW,Buttons & Bows,Betty Rhodes,Betty Rhodes,jazz,19490108,15,15,1,19490108
-16,17,You Were Only Fooling,Blue Barron / Clyde Burke,Blue Barron / Clyde Burke,pop,19481023,16,9,12,19490108
-17,NEW,A Little Bird Told Me,Blue Lu Barker,Blue Lu Barker,rock,19490108,17,16,3,19490108
-18,NEW,Powder Your Face With Sunshine,Evelyn Knight,Evelyn Knight,jazz,19490108,18,3,15,19490108
-19,NEW,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,19490108,19,19,1,19490108
-20,NEW,My Darling My Darling,Peter Lind Hayes / Stardusters,Peter Lind Hayes / Stardusters,pop,19490108,20,20,1,19490108
-1,1,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,19481002,18,1,23,19490101
-2,2,All I Want For Christmas (Is My Two Front Teeth),Spike Jones,Spike Jones,pop,19481127,17,1,8,19490101
-3,4,A Little Bird Told Me,Evelyn Knight,Evelyn Knight,jazz,19481120,20,1,20,19490101
-4,3,On A Slow Boat To China,Kay Kyser / Harry Babbitt / Gloria Wood,Kay Kyser / Harry Babbitt / Gloria Wood,pop,19481023,20,2,17,19490101
-5,5,My Darling My Darling,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19481113,18,3,15,19490101
-6,6,On A Slow Boat To China,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,19481106,17,5,14,19490101
-7,7,White Christmas,Bing Crosby,Bing Crosby,jazz,19481218,11,6,4,19490101
-8,14,Here Comes Santa Claus,Gene Autry,Gene Autry,country / folk,19481211,19,8,5,19490101
-9,10,My Darling My Darling,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,19481204,11,7,9,19490101
-10,NEW,On A Slow Boat To China,Benny Goodman / Al Hendrickson,Benny Goodman / Al Hendrickson,pop,19490101,10,10,5,19490101
-11,NEW,I]ve Got My Love To Keep Me Warm,Les Brown,Les Brown,jazz,19490101,11,11,1,19490101
-12,NEW,You're All I Want For Christmas,Frankie Laine,Frankie Laine,country / folk,19490101,12,12,1,19490101
-13,15,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,19480703,14,1,27,19490101
-14,NEW,Far Away Places,Margaret Whiting,Margaret Whiting,pop,19490101,14,14,1,19490101
-15,12,On A Slow Boat To China,Eddy Howard,Eddy Howard,jazz,19481127,13,12,6,19490101
-16,NEW,You Were Only Foolin',Kay Starr,Kay Starr,jazz,19490101,16,16,1,19490101
-17,11,You Were Only Fooling,Blue Barron / Clyde Burke,Blue Barron / Clyde Burke,pop,19481023,16,9,12,19490101
-18,NEW,Gloria,Mills Brothers,Mills Brothers,jazz,19490101,18,18,1,19490101
-19,9,Until,Tommy Dorsey / Harry Prime / Clark Sisters,Tommy Dorsey / Harry Prime / Clark Sisters,pop,19480918,15,6,18,19490101
-20,13,Lavender Blue,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19481218,18,5,14,19490101
+this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genre,entry_date,entry_position,peak_position,total_weeks,chart_date
+1,1,Mule Train,Frankie Laine,Frankie Laine,country / folk,country,19491113,9,1,12,19491225
+2,2,I Can Dream Can't I,Andrews Sisters / Gordon Jenkins,Andrews Sisters / Gordon Jenkins,pop,unknown,19491002,19,1,22,19491225
+3,3,Slipping Around,Margaret Whiting / Jimmy Wakely,Margaret Whiting / Jimmy Wakely,pop,unknown,19490925,14,2,20,19491225
+4,8,Rudolph The Red Nosed Reindeer,Gene Autrey,Gene Autrey,country / folk,country,19491211,12,1,6,19491225
+5,7,Mule Train,Bing Crosby,Bing Crosby,jazz,jazz,19491120,10,5,9,19491225
+6,4,Don't Cry Joe,Gordon Jenkins / Betty Brewer,Gordon Jenkins / Betty Brewer,pop,unknown,19491002,14,4,13,19491225
+7,5,A Dreamer's Holiday,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,unknown,19491106,12,4,14,19491225
+8,6,That Lucky Old Sun,Frankie Laine,Frankie Laine,country / folk,country,19490904,20,1,18,19491225
+9,11,I Yust Go Nuts At Christmas,Yogi Yorgesson,Yogi Yorgesson,pop,comedy,19491218,11,5,3,19491225
+10,NEW,White Christmas,Bing Crosby,Bing Crosby,jazz,jazz,19491225,10,7,2,19491225
+11,9,I Never See Maggie Alone,Kenny Roberts,Kenny Roberts,country / folk,country,19490911,17,9,16,19491225
+12,14,I've Got A Lovely Bunch Of Coconuts,Freddy Martin / Merv Griffin,Freddy Martin / Merv Griffin,pop,unknown,19491113,16,8,7,19491225
+13,19,Yingle Bells,Yogi Yorgesson,Yogi Yorgesson,pop,comedy,19491218,19,9,3,19491225
+14,NEW,Dear Hearts And Gentle People,Bing Crosby,Bing Crosby,jazz,jazz,19491225,14,2,12,19491225
+15,13,Whispering Hope,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19490911,20,6,19,19491225
+16,NEW,Dear Hearts And Gentle People,Dinah Shore,Dinah Shore,jazz,jazz,19491225,16,7,11,19491225
+17,15,Mule Train,Vaughn Monroe,Vaughn Monroe,jazz,swing,19491127,18,10,5,19491225
+18,12,Jealous Heart,Al Morgan,Al Morgan,pop,unknown,19490731,7,4,22,19491225
+19,10,Mule Train,Tennessee Ernie Ford,Tennessee Ernie Ford,country / folk,country,19491204,20,10,4,19491225
+20,NEW,Johnson Rag,Jack Teter Trio,Jack Teter Trio,pop,unknown,19491225,20,6,9,19491225
+1,1,Mule Train,Frankie Laine,Frankie Laine,country / folk,country,19491113,9,1,12,19491218
+2,2,I Can Dream Can't I,Andrews Sisters / Gordon Jenkins,Andrews Sisters / Gordon Jenkins,pop,unknown,19491002,19,1,22,19491218
+3,3,Slipping Around,Margaret Whiting / Jimmy Wakely,Margaret Whiting / Jimmy Wakely,pop,unknown,19490925,14,2,20,19491218
+4,6,Don't Cry Joe,Gordon Jenkins / Betty Brewer,Gordon Jenkins / Betty Brewer,pop,unknown,19491002,14,4,13,19491218
+5,7,A Dreamer's Holiday,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,unknown,19491106,12,4,14,19491218
+6,4,That Lucky Old Sun,Frankie Laine,Frankie Laine,country / folk,country,19490904,20,1,18,19491218
+7,5,Mule Train,Bing Crosby,Bing Crosby,jazz,jazz,19491120,10,5,9,19491218
+8,12,Rudolph The Red Nosed Reindeer,Gene Autrey,Gene Autrey,country / folk,country,19491211,12,1,6,19491218
+9,9,I Never See Maggie Alone,Kenny Roberts,Kenny Roberts,country / folk,country,19490911,17,9,16,19491218
+10,18,Mule Train,Tennessee Ernie Ford,Tennessee Ernie Ford,country / folk,country,19491204,20,10,4,19491218
+11,NEW,I Yust Go Nuts At Christmas,Yogi Yorgesson,Yogi Yorgesson,pop,comedy,19491218,11,5,3,19491218
+12,11,Jealous Heart,Al Morgan,Al Morgan,pop,unknown,19490731,7,4,22,19491218
+13,13,Whispering Hope,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19490911,20,6,19,19491218
+14,8,I've Got A Lovely Bunch Of Coconuts,Freddy Martin / Merv Griffin,Freddy Martin / Merv Griffin,pop,unknown,19491113,16,8,7,19491218
+15,10,Mule Train,Vaughn Monroe,Vaughn Monroe,jazz,swing,19491127,18,10,5,19491218
+16,NEW,The Old Master Painter,Richard Hayes,Richard Hayes,pop,under 2000 listeners,19491218,16,16,1,19491218
+17,NEW,Charley My Boy,Andrews Sisters / Russ Morgan,Andrews Sisters / Russ Morgan,pop,unknown,19491218,17,17,1,19491218
+18,15,That Lucky Old Sun,Vaughn Monroe,Vaughn Monroe,jazz,swing,19491023,16,9,9,19491218
+19,NEW,Yingle Bells,Yogi Yorgesson,Yogi Yorgesson,pop,comedy,19491218,19,9,3,19491218
+20,20,Canadian Capers,Doris Day,Doris Day,jazz,jazz,19491120,16,16,5,19491218
+1,1,Mule Train,Frankie Laine,Frankie Laine,country / folk,country,19491113,9,1,12,19491211
+2,2,I Can Dream Can't I,Andrews Sisters / Gordon Jenkins,Andrews Sisters / Gordon Jenkins,pop,unknown,19491002,19,1,22,19491211
+3,3,Slipping Around,Margaret Whiting / Jimmy Wakely,Margaret Whiting / Jimmy Wakely,pop,unknown,19490925,14,2,20,19491211
+4,4,That Lucky Old Sun,Frankie Laine,Frankie Laine,country / folk,country,19490904,20,1,18,19491211
+5,5,Mule Train,Bing Crosby,Bing Crosby,jazz,jazz,19491120,10,5,9,19491211
+6,6,Don't Cry Joe,Gordon Jenkins / Betty Brewer,Gordon Jenkins / Betty Brewer,pop,unknown,19491002,14,4,13,19491211
+7,7,A Dreamer's Holiday,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,unknown,19491106,12,4,14,19491211
+8,9,I've Got A Lovely Bunch Of Coconuts,Freddy Martin / Merv Griffin,Freddy Martin / Merv Griffin,pop,unknown,19491113,16,8,7,19491211
+9,11,I Never See Maggie Alone,Kenny Roberts,Kenny Roberts,country / folk,country,19490911,17,9,16,19491211
+10,13,Mule Train,Vaughn Monroe,Vaughn Monroe,jazz,swing,19491127,18,10,5,19491211
+11,8,Jealous Heart,Al Morgan,Al Morgan,pop,unknown,19490731,7,4,22,19491211
+12,NEW,Rudolph The Red Nosed Reindeer,Gene Autrey,Gene Autrey,country / folk,country,19491211,12,1,6,19491211
+13,10,Whispering Hope,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19490911,20,6,19,19491211
+14,14,I'll Never Slip Around Again,Margaret Whiting / Jimmy Wakely,Margaret Whiting / Jimmy Wakely,pop,unknown,19491113,11,11,5,19491211
+15,12,That Lucky Old Sun,Vaughn Monroe,Vaughn Monroe,jazz,swing,19491023,16,9,9,19491211
+16,17,Johnson Rag,Jack Teter Trio,Jack Teter Trio,pop,unknown,19491120,17,16,4,19491211
+17,15,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,swing,19490710,13,1,23,19491211
+18,20,Mule Train,Tennessee Ernie Ford,Tennessee Ernie Ford,country / folk,country,19491204,20,10,4,19491211
+19,NEW,A Dreamer's Holiday,Buddy Clark,Buddy Clark,jazz,swing,19491211,19,19,1,19491211
+20,19,Canadian Capers,Doris Day,Doris Day,jazz,jazz,19491120,16,16,5,19491211
+1,1,Mule Train,Frankie Laine,Frankie Laine,country / folk,country,19491113,9,1,12,19491204
+2,4,I Can Dream Can't I,Andrews Sisters / Gordon Jenkins,Andrews Sisters / Gordon Jenkins,pop,unknown,19491002,19,1,22,19491204
+3,3,Slipping Around,Margaret Whiting / Jimmy Wakely,Margaret Whiting / Jimmy Wakely,pop,unknown,19490925,14,2,20,19491204
+4,2,That Lucky Old Sun,Frankie Laine,Frankie Laine,country / folk,country,19490904,20,1,18,19491204
+5,6,Mule Train,Bing Crosby,Bing Crosby,jazz,jazz,19491120,10,5,9,19491204
+6,5,Don't Cry Joe,Gordon Jenkins / Betty Brewer,Gordon Jenkins / Betty Brewer,pop,unknown,19491002,14,4,13,19491204
+7,8,A Dreamer's Holiday,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,unknown,19491106,12,4,14,19491204
+8,7,Jealous Heart,Al Morgan,Al Morgan,pop,unknown,19490731,7,4,22,19491204
+9,12,I've Got A Lovely Bunch Of Coconuts,Freddy Martin / Merv Griffin,Freddy Martin / Merv Griffin,pop,unknown,19491113,16,8,7,19491204
+10,10,Whispering Hope,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19490911,20,6,19,19491204
+11,15,I Never See Maggie Alone,Kenny Roberts,Kenny Roberts,country / folk,country,19490911,17,9,16,19491204
+12,14,That Lucky Old Sun,Vaughn Monroe,Vaughn Monroe,jazz,swing,19491023,16,9,9,19491204
+13,18,Mule Train,Vaughn Monroe,Vaughn Monroe,jazz,swing,19491127,18,10,5,19491204
+14,13,I'll Never Slip Around Again,Margaret Whiting / Jimmy Wakely,Margaret Whiting / Jimmy Wakely,pop,unknown,19491113,11,11,5,19491204
+15,9,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,swing,19490710,13,1,23,19491204
+16,NEW,Hop-Scotch Polka (Scotch Hot),Guy Lombardo,Guy Lombardo,jazz,jazz,19491204,16,16,1,19491204
+17,19,Johnson Rag,Jack Teter Trio,Jack Teter Trio,pop,unknown,19491120,17,16,4,19491204
+18,11,You're Breaking My Heart,Buddy Clark,Buddy Clark,jazz,swing,19491002,18,9,10,19491204
+19,17,Canadian Capers,Doris Day,Doris Day,jazz,jazz,19491120,16,16,5,19491204
+20,NEW,Mule Train,Tennessee Ernie Ford,Tennessee Ernie Ford,country / folk,country,19491204,20,10,4,19491204
+1,3,Mule Train,Frankie Laine,Frankie Laine,country / folk,country,19491113,9,1,12,19491127
+2,1,That Lucky Old Sun,Frankie Laine,Frankie Laine,country / folk,country,19490904,20,1,18,19491127
+3,2,Slipping Around,Margaret Whiting / Jimmy Wakely,Margaret Whiting / Jimmy Wakely,pop,unknown,19490925,14,2,20,19491127
+4,4,I Can Dream Can't I,Andrews Sisters / Gordon Jenkins,Andrews Sisters / Gordon Jenkins,pop,unknown,19491002,19,1,22,19491127
+5,5,Don't Cry Joe,Gordon Jenkins / Betty Brewer,Gordon Jenkins / Betty Brewer,pop,unknown,19491002,14,4,13,19491127
+6,10,Mule Train,Bing Crosby,Bing Crosby,jazz,jazz,19491120,10,5,9,19491127
+7,6,Jealous Heart,Al Morgan,Al Morgan,pop,unknown,19490731,7,4,22,19491127
+8,8,A Dreamer's Holiday,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,unknown,19491106,12,4,14,19491127
+9,7,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,swing,19490710,13,1,23,19491127
+10,11,Whispering Hope,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19490911,20,6,19,19491127
+11,14,You're Breaking My Heart,Buddy Clark,Buddy Clark,jazz,swing,19491002,18,9,10,19491127
+12,15,I've Got A Lovely Bunch Of Coconuts,Freddy Martin / Merv Griffin,Freddy Martin / Merv Griffin,pop,unknown,19491113,16,8,7,19491127
+13,12,I'll Never Slip Around Again,Margaret Whiting / Jimmy Wakely,Margaret Whiting / Jimmy Wakely,pop,unknown,19491113,11,11,5,19491127
+14,9,That Lucky Old Sun,Vaughn Monroe,Vaughn Monroe,jazz,swing,19491023,16,9,9,19491127
+15,19,I Never See Maggie Alone,Kenny Roberts,Kenny Roberts,country / folk,country,19490911,17,9,16,19491127
+16,13,Someday,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490904,4,2,13,19491127
+17,16,Canadian Capers,Doris Day,Doris Day,jazz,jazz,19491120,16,16,5,19491127
+18,NEW,Mule Train,Vaughn Monroe,Vaughn Monroe,jazz,swing,19491127,18,10,5,19491127
+19,17,Johnson Rag,Jack Teter Trio,Jack Teter Trio,pop,unknown,19491120,17,16,4,19491127
+20,NEW,Toot Toot Tootsie (Good-Bye),Art Mooney,Art Mooney,pop,40s,19491127,20,20,1,19491127
+1,1,That Lucky Old Sun,Frankie Laine,Frankie Laine,country / folk,country,19490904,20,1,18,19491120
+2,3,Slipping Around,Margaret Whiting / Jimmy Wakely,Margaret Whiting / Jimmy Wakely,pop,unknown,19490925,14,2,20,19491120
+3,9,Mule Train,Frankie Laine,Frankie Laine,country / folk,country,19491113,9,1,12,19491120
+4,2,I Can Dream Can't I,Andrews Sisters / Gordon Jenkins,Andrews Sisters / Gordon Jenkins,pop,unknown,19491002,19,1,22,19491120
+5,4,Don't Cry Joe,Gordon Jenkins / Betty Brewer,Gordon Jenkins / Betty Brewer,pop,unknown,19491002,14,4,13,19491120
+6,5,Jealous Heart,Al Morgan,Al Morgan,pop,unknown,19490731,7,4,22,19491120
+7,6,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,swing,19490710,13,1,23,19491120
+8,13,A Dreamer's Holiday,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,unknown,19491106,12,4,14,19491120
+9,10,That Lucky Old Sun,Vaughn Monroe,Vaughn Monroe,jazz,swing,19491023,16,9,9,19491120
+10,NEW,Mule Train,Bing Crosby,Bing Crosby,jazz,jazz,19491120,10,5,9,19491120
+11,7,Whispering Hope,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19490911,20,6,19,19491120
+12,11,I'll Never Slip Around Again,Margaret Whiting / Jimmy Wakely,Margaret Whiting / Jimmy Wakely,pop,unknown,19491113,11,11,5,19491120
+13,8,Someday,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490904,4,2,13,19491120
+14,12,You're Breaking My Heart,Buddy Clark,Buddy Clark,jazz,swing,19491002,18,9,10,19491120
+15,16,I've Got A Lovely Bunch Of Coconuts,Freddy Martin / Merv Griffin,Freddy Martin / Merv Griffin,pop,unknown,19491113,16,8,7,19491120
+16,NEW,Canadian Capers,Doris Day,Doris Day,jazz,jazz,19491120,16,16,5,19491120
+17,NEW,Johnson Rag,Jack Teter Trio,Jack Teter Trio,pop,unknown,19491120,17,16,4,19491120
+18,NEW,Room Full Of Roses,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19491120,18,18,1,19491120
+19,14,I Never See Maggie Alone,Kenny Roberts,Kenny Roberts,country / folk,country,19490911,17,9,16,19491120
+20,NEW,There's No Tomorrow,Tony Martin,Tony Martin,rock,heavy metal,19491120,20,20,1,19491120
+1,1,That Lucky Old Sun,Frankie Laine,Frankie Laine,country / folk,country,19490904,20,1,18,19491113
+2,3,I Can Dream Can't I,Andrews Sisters / Gordon Jenkins,Andrews Sisters / Gordon Jenkins,pop,unknown,19491002,19,1,22,19491113
+3,2,Slipping Around,Margaret Whiting / Jimmy Wakely,Margaret Whiting / Jimmy Wakely,pop,unknown,19490925,14,2,20,19491113
+4,5,Don't Cry Joe,Gordon Jenkins / Betty Brewer,Gordon Jenkins / Betty Brewer,pop,unknown,19491002,14,4,13,19491113
+5,6,Jealous Heart,Al Morgan,Al Morgan,pop,unknown,19490731,7,4,22,19491113
+6,4,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,swing,19490710,13,1,23,19491113
+7,7,Whispering Hope,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19490911,20,6,19,19491113
+8,8,Someday,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490904,4,2,13,19491113
+9,NEW,Mule Train,Frankie Laine,Frankie Laine,country / folk,country,19491113,9,1,12,19491113
+10,10,That Lucky Old Sun,Vaughn Monroe,Vaughn Monroe,jazz,swing,19491023,16,9,9,19491113
+11,NEW,I'll Never Slip Around Again,Margaret Whiting / Jimmy Wakely,Margaret Whiting / Jimmy Wakely,pop,unknown,19491113,11,11,5,19491113
+12,9,You're Breaking My Heart,Buddy Clark,Buddy Clark,jazz,swing,19491002,18,9,10,19491113
+13,12,A Dreamer's Holiday,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,unknown,19491106,12,4,14,19491113
+14,13,I Never See Maggie Alone,Kenny Roberts,Kenny Roberts,country / folk,country,19490911,17,9,16,19491113
+15,15,Someday,Mills Brothers,Mills Brothers,jazz,jazz,19490904,18,8,11,19491113
+16,NEW,I've Got A Lovely Bunch Of Coconuts,Freddy Martin / Merv Griffin,Freddy Martin / Merv Griffin,pop,unknown,19491113,16,8,7,19491113
+17,18,Hop-Scotch Polka (Scotch Hot),Guy Lombardo / Kenny Gardner,Guy Lombardo / Kenny Gardner,pop,unknown,19491016,19,11,5,19491113
+18,NEW,Hop-Scotch Polka (Scotch Hot),Art Mooney,Art Mooney,pop,40s,19491113,18,18,1,19491113
+19,NEW,Jealous Heart,Jack Owens,Jack Owens,pop,delta blues,19491113,19,19,1,19491113
+20,11,Maybe It's Because,Dick Haymes,Dick Haymes,jazz,jazz,19490807,17,5,15,19491113
+1,1,That Lucky Old Sun,Frankie Laine,Frankie Laine,country / folk,country,19490904,20,1,18,19491106
+2,2,Slipping Around,Margaret Whiting / Jimmy Wakely,Margaret Whiting / Jimmy Wakely,pop,unknown,19490925,14,2,20,19491106
+3,4,I Can Dream Can't I,Andrews Sisters / Gordon Jenkins,Andrews Sisters / Gordon Jenkins,pop,unknown,19491002,19,1,22,19491106
+4,3,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,swing,19490710,13,1,23,19491106
+5,7,Don't Cry Joe,Gordon Jenkins / Betty Brewer,Gordon Jenkins / Betty Brewer,pop,unknown,19491002,14,4,13,19491106
+6,5,Jealous Heart,Al Morgan,Al Morgan,pop,unknown,19490731,7,4,22,19491106
+7,8,Whispering Hope,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19490911,20,6,19,19491106
+8,6,Someday,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490904,4,2,13,19491106
+9,13,You're Breaking My Heart,Buddy Clark,Buddy Clark,jazz,swing,19491002,18,9,10,19491106
+10,16,That Lucky Old Sun,Vaughn Monroe,Vaughn Monroe,jazz,swing,19491023,16,9,9,19491106
+11,15,Maybe It's Because,Dick Haymes,Dick Haymes,jazz,jazz,19490807,17,5,15,19491106
+12,NEW,A Dreamer's Holiday,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,unknown,19491106,12,4,14,19491106
+13,9,I Never See Maggie Alone,Kenny Roberts,Kenny Roberts,country / folk,country,19490911,17,9,16,19491106
+14,10,Room Full Of Roses,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19490703,17,3,19,19491106
+15,12,Someday,Mills Brothers,Mills Brothers,jazz,jazz,19490904,18,8,11,19491106
+16,14,You're Breaking My Heart,Ink Spots,Ink Spots,jazz,jazz,19490904,19,9,10,19491106
+17,NEW,Canadian Capers,Doris Day,Doris Day,jazz,jazz,19491106,17,17,1,19491106
+18,11,Hop-Scotch Polka (Scotch Hot),Guy Lombardo / Kenny Gardner,Guy Lombardo / Kenny Gardner,pop,unknown,19491016,19,11,5,19491106
+19,19,Room Full Of Roses,Dick Haymes,Dick Haymes,jazz,jazz,19491030,19,19,2,19491106
+20,20,Johnson Rag,Jack Teter Trio,Jack Teter Trio,pop,unknown,19491030,20,20,2,19491106
+1,1,That Lucky Old Sun,Frankie Laine,Frankie Laine,country / folk,country,19490904,20,1,18,19491030
+2,5,Slipping Around,Margaret Whiting / Jimmy Wakely,Margaret Whiting / Jimmy Wakely,pop,unknown,19490925,14,2,20,19491030
+3,2,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,swing,19490710,13,1,23,19491030
+4,6,I Can Dream Can't I,Andrews Sisters / Gordon Jenkins,Andrews Sisters / Gordon Jenkins,pop,unknown,19491002,19,1,22,19491030
+5,4,Jealous Heart,Al Morgan,Al Morgan,pop,unknown,19490731,7,4,22,19491030
+6,3,Someday,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490904,4,2,13,19491030
+7,7,Don't Cry Joe,Gordon Jenkins / Betty Brewer,Gordon Jenkins / Betty Brewer,pop,unknown,19491002,14,4,13,19491030
+8,8,Whispering Hope,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19490911,20,6,19,19491030
+9,14,I Never See Maggie Alone,Kenny Roberts,Kenny Roberts,country / folk,country,19490911,17,9,16,19491030
+10,10,Room Full Of Roses,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19490703,17,3,19,19491030
+11,20,Hop-Scotch Polka (Scotch Hot),Guy Lombardo / Kenny Gardner,Guy Lombardo / Kenny Gardner,pop,unknown,19491016,19,11,5,19491030
+12,11,Someday,Mills Brothers,Mills Brothers,jazz,jazz,19490904,18,8,11,19491030
+13,9,You're Breaking My Heart,Buddy Clark,Buddy Clark,jazz,swing,19491002,18,9,10,19491030
+14,12,You're Breaking My Heart,Ink Spots,Ink Spots,jazz,jazz,19490904,19,9,10,19491030
+15,13,Maybe It's Because,Dick Haymes,Dick Haymes,jazz,jazz,19490807,17,5,15,19491030
+16,16,That Lucky Old Sun,Vaughn Monroe,Vaughn Monroe,jazz,swing,19491023,16,9,9,19491030
+17,18,Hop-Scotch Polka (Scotch Hot),Art Mooney,Art Mooney,pop,40s,19491016,20,17,3,19491030
+18,15,Room Full Of Roses,Eddy Howard,Eddy Howard,jazz,jazz,19490821,11,11,11,19491030
+19,NEW,Room Full Of Roses,Dick Haymes,Dick Haymes,jazz,jazz,19491030,19,19,2,19491030
+20,NEW,Johnson Rag,Jack Teter Trio,Jack Teter Trio,pop,unknown,19491030,20,20,2,19491030
+1,1,That Lucky Old Sun,Frankie Laine,Frankie Laine,country / folk,country,19490904,20,1,18,19491023
+2,2,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,swing,19490710,13,1,23,19491023
+3,3,Someday,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490904,4,2,13,19491023
+4,4,Jealous Heart,Al Morgan,Al Morgan,pop,unknown,19490731,7,4,22,19491023
+5,5,Slipping Around,Margaret Whiting / Jimmy Wakely,Margaret Whiting / Jimmy Wakely,pop,unknown,19490925,14,2,20,19491023
+6,6,I Can Dream Can't I,Andrews Sisters / Gordon Jenkins,Andrews Sisters / Gordon Jenkins,pop,unknown,19491002,19,1,22,19491023
+7,7,Don't Cry Joe,Gordon Jenkins / Betty Brewer,Gordon Jenkins / Betty Brewer,pop,unknown,19491002,14,4,13,19491023
+8,8,Whispering Hope,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19490911,20,6,19,19491023
+9,15,You're Breaking My Heart,Buddy Clark,Buddy Clark,jazz,swing,19491002,18,9,10,19491023
+10,11,Room Full Of Roses,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19490703,17,3,19,19491023
+11,9,Someday,Mills Brothers,Mills Brothers,jazz,jazz,19490904,18,8,11,19491023
+12,10,You're Breaking My Heart,Ink Spots,Ink Spots,jazz,jazz,19490904,19,9,10,19491023
+13,12,Maybe It's Because,Dick Haymes,Dick Haymes,jazz,jazz,19490807,17,5,15,19491023
+14,14,I Never See Maggie Alone,Kenny Roberts,Kenny Roberts,country / folk,country,19490911,17,9,16,19491023
+15,13,Room Full Of Roses,Eddy Howard,Eddy Howard,jazz,jazz,19490821,11,11,11,19491023
+16,NEW,That Lucky Old Sun,Vaughn Monroe,Vaughn Monroe,jazz,swing,19491023,16,9,9,19491023
+17,NEW,Some Enchanted Evening,Ezio Pinza,Ezio Pinza,pop,opera,19491023,17,17,1,19491023
+18,20,Hop-Scotch Polka (Scotch Hot),Art Mooney,Art Mooney,pop,40s,19491016,20,17,3,19491023
+19,NEW,Maybe It's Because,Eddy Howard,Eddy Howard,jazz,jazz,19491023,19,19,1,19491023
+20,19,Hop-Scotch Polka (Scotch Hot),Guy Lombardo / Kenny Gardner,Guy Lombardo / Kenny Gardner,pop,unknown,19491016,19,11,5,19491023
+1,1,That Lucky Old Sun,Frankie Laine,Frankie Laine,country / folk,country,19490904,20,1,18,19491016
+2,2,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,swing,19490710,13,1,23,19491016
+3,3,Someday,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490904,4,2,13,19491016
+4,4,Jealous Heart,Al Morgan,Al Morgan,pop,unknown,19490731,7,4,22,19491016
+5,5,Slipping Around,Margaret Whiting / Jimmy Wakely,Margaret Whiting / Jimmy Wakely,pop,unknown,19490925,14,2,20,19491016
+6,13,I Can Dream Can't I,Andrews Sisters / Gordon Jenkins,Andrews Sisters / Gordon Jenkins,pop,unknown,19491002,19,1,22,19491016
+7,17,Don't Cry Joe,Gordon Jenkins / Betty Brewer,Gordon Jenkins / Betty Brewer,pop,unknown,19491002,14,4,13,19491016
+8,7,Whispering Hope,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19490911,20,6,19,19491016
+9,8,Someday,Mills Brothers,Mills Brothers,jazz,jazz,19490904,18,8,11,19491016
+10,9,You're Breaking My Heart,Ink Spots,Ink Spots,jazz,jazz,19490904,19,9,10,19491016
+11,6,Room Full Of Roses,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19490703,17,3,19,19491016
+12,12,Maybe It's Because,Dick Haymes,Dick Haymes,jazz,jazz,19490807,17,5,15,19491016
+13,11,Room Full Of Roses,Eddy Howard,Eddy Howard,jazz,jazz,19490821,11,11,11,19491016
+14,10,I Never See Maggie Alone,Kenny Roberts,Kenny Roberts,country / folk,country,19490911,17,9,16,19491016
+15,16,You're Breaking My Heart,Buddy Clark,Buddy Clark,jazz,swing,19491002,18,9,10,19491016
+16,14,Some Enchanted Evening,Perry Como,Perry Como,jazz,jazz,19490515,20,1,23,19491016
+17,15,Room Full Of Roses,Dick Haymes,Dick Haymes,jazz,jazz,19490918,11,10,5,19491016
+18,19,The Hucklebuck,Tommy Dorsey / Charlie Shavers,Tommy Dorsey / Charlie Shavers,pop,unknown,19490703,16,5,16,19491016
+19,NEW,Hop-Scotch Polka (Scotch Hot),Guy Lombardo / Kenny Gardner,Guy Lombardo / Kenny Gardner,pop,unknown,19491016,19,11,5,19491016
+20,NEW,Hop-Scotch Polka (Scotch Hot),Art Mooney,Art Mooney,pop,40s,19491016,20,17,3,19491016
+1,1,That Lucky Old Sun,Frankie Laine,Frankie Laine,country / folk,country,19490904,20,1,18,19491009
+2,2,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,swing,19490710,13,1,23,19491009
+3,3,Someday,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490904,4,2,13,19491009
+4,4,Jealous Heart,Al Morgan,Al Morgan,pop,unknown,19490731,7,4,22,19491009
+5,9,Slipping Around,Margaret Whiting / Jimmy Wakely,Margaret Whiting / Jimmy Wakely,pop,unknown,19490925,14,2,20,19491009
+6,5,Room Full Of Roses,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19490703,17,3,19,19491009
+7,6,Whispering Hope,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19490911,20,6,19,19491009
+8,8,Someday,Mills Brothers,Mills Brothers,jazz,jazz,19490904,18,8,11,19491009
+9,11,You're Breaking My Heart,Ink Spots,Ink Spots,jazz,jazz,19490904,19,9,10,19491009
+10,16,I Never See Maggie Alone,Kenny Roberts,Kenny Roberts,country / folk,country,19490911,17,9,16,19491009
+11,15,Room Full Of Roses,Eddy Howard,Eddy Howard,jazz,jazz,19490821,11,11,11,19491009
+12,10,Maybe It's Because,Dick Haymes,Dick Haymes,jazz,jazz,19490807,17,5,15,19491009
+13,19,I Can Dream Can't I,Andrews Sisters / Gordon Jenkins,Andrews Sisters / Gordon Jenkins,pop,unknown,19491002,19,1,22,19491009
+14,7,Some Enchanted Evening,Perry Como,Perry Como,jazz,jazz,19490515,20,1,23,19491009
+15,12,Room Full Of Roses,Dick Haymes,Dick Haymes,jazz,jazz,19490918,11,10,5,19491009
+16,18,You're Breaking My Heart,Buddy Clark,Buddy Clark,jazz,swing,19491002,18,9,10,19491009
+17,14,Don't Cry Joe,Gordon Jenkins / Betty Brewer,Gordon Jenkins / Betty Brewer,pop,unknown,19491002,14,4,13,19491009
+18,13,Some Enchanted Evening,Ezio Pinza,Ezio Pinza,pop,opera,19490911,16,7,5,19491009
+19,17,The Hucklebuck,Tommy Dorsey / Charlie Shavers,Tommy Dorsey / Charlie Shavers,pop,unknown,19490703,16,5,16,19491009
+20,NEW,That Lucky Old Sun,Vaughn Monroe,Vaughn Monroe,jazz,swing,19491009,20,20,1,19491009
+1,2,That Lucky Old Sun,Frankie Laine,Frankie Laine,country / folk,country,19490904,20,1,18,19491002
+2,1,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,swing,19490710,13,1,23,19491002
+3,3,Someday,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490904,4,2,13,19491002
+4,4,Jealous Heart,Al Morgan,Al Morgan,pop,unknown,19490731,7,4,22,19491002
+5,6,Room Full Of Roses,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19490703,17,3,19,19491002
+6,9,Whispering Hope,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19490911,20,6,19,19491002
+7,5,Some Enchanted Evening,Perry Como,Perry Como,jazz,jazz,19490515,20,1,23,19491002
+8,11,Someday,Mills Brothers,Mills Brothers,jazz,jazz,19490904,18,8,11,19491002
+9,14,Slipping Around,Margaret Whiting / Jimmy Wakely,Margaret Whiting / Jimmy Wakely,pop,unknown,19490925,14,2,20,19491002
+10,8,Maybe It's Because,Dick Haymes,Dick Haymes,jazz,jazz,19490807,17,5,15,19491002
+11,12,You're Breaking My Heart,Ink Spots,Ink Spots,jazz,jazz,19490904,19,9,10,19491002
+12,10,Room Full Of Roses,Dick Haymes,Dick Haymes,jazz,jazz,19490918,11,10,5,19491002
+13,7,Some Enchanted Evening,Ezio Pinza,Ezio Pinza,pop,opera,19490911,16,7,5,19491002
+14,NEW,Don't Cry Joe,Gordon Jenkins / Betty Brewer,Gordon Jenkins / Betty Brewer,pop,unknown,19491002,14,4,13,19491002
+15,17,Room Full Of Roses,Eddy Howard,Eddy Howard,jazz,jazz,19490821,11,11,11,19491002
+16,15,I Never See Maggie Alone,Kenny Roberts,Kenny Roberts,country / folk,country,19490911,17,9,16,19491002
+17,16,The Hucklebuck,Tommy Dorsey / Charlie Shavers,Tommy Dorsey / Charlie Shavers,pop,unknown,19490703,16,5,16,19491002
+18,NEW,You're Breaking My Heart,Buddy Clark,Buddy Clark,jazz,swing,19491002,18,9,10,19491002
+19,NEW,I Can Dream Can't I,Andrews Sisters / Gordon Jenkins,Andrews Sisters / Gordon Jenkins,pop,unknown,19491002,19,1,22,19491002
+20,NEW,(Where Are You) Now That I Need You,Doris Day,Doris Day,jazz,jazz,19491002,20,20,1,19491002
+1,1,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,swing,19490710,13,1,23,19490925
+2,3,That Lucky Old Sun,Frankie Laine,Frankie Laine,country / folk,country,19490904,20,1,18,19490925
+3,2,Someday,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490904,4,2,13,19490925
+4,6,Jealous Heart,Al Morgan,Al Morgan,pop,unknown,19490731,7,4,22,19490925
+5,4,Some Enchanted Evening,Perry Como,Perry Como,jazz,jazz,19490515,20,1,23,19490925
+6,5,Room Full Of Roses,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19490703,17,3,19,19490925
+7,8,Some Enchanted Evening,Ezio Pinza,Ezio Pinza,pop,opera,19490911,16,7,5,19490925
+8,7,Maybe It's Because,Dick Haymes,Dick Haymes,jazz,jazz,19490807,17,5,15,19490925
+9,14,Whispering Hope,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19490911,20,6,19,19490925
+10,11,Room Full Of Roses,Dick Haymes,Dick Haymes,jazz,jazz,19490918,11,10,5,19490925
+11,12,Someday,Mills Brothers,Mills Brothers,jazz,jazz,19490904,18,8,11,19490925
+12,13,You're Breaking My Heart,Ink Spots,Ink Spots,jazz,jazz,19490904,19,9,10,19490925
+13,18,Dance Of The Hours,Spike Jones / Doodles Weaver,Spike Jones / Doodles Weaver,pop,unknown,19490911,13,13,3,19490925
+14,NEW,Slipping Around,Margaret Whiting / Jimmy Wakely,Margaret Whiting / Jimmy Wakely,pop,unknown,19490925,14,2,20,19490925
+15,20,I Never See Maggie Alone,Kenny Roberts,Kenny Roberts,country / folk,country,19490911,17,9,16,19490925
+16,10,The Hucklebuck,Tommy Dorsey / Charlie Shavers,Tommy Dorsey / Charlie Shavers,pop,unknown,19490703,16,5,16,19490925
+17,15,Room Full Of Roses,Eddy Howard,Eddy Howard,jazz,jazz,19490821,11,11,11,19490925
+18,19,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490430,12,1,22,19490925
+19,9,Some Enchanted Evening,Bing Crosby,Bing Crosby,jazz,jazz,19490612,13,5,16,19490925
+20,17,Maybe It's Because,Eddy Howard,Eddy Howard,jazz,jazz,19490918,17,17,2,19490925
+1,1,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,swing,19490710,13,1,23,19490918
+2,3,Someday,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490904,4,2,13,19490918
+3,5,That Lucky Old Sun,Frankie Laine,Frankie Laine,country / folk,country,19490904,20,1,18,19490918
+4,2,Some Enchanted Evening,Perry Como,Perry Como,jazz,jazz,19490515,20,1,23,19490918
+5,4,Room Full Of Roses,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19490703,17,3,19,19490918
+6,6,Jealous Heart,Al Morgan,Al Morgan,pop,unknown,19490731,7,4,22,19490918
+7,7,Maybe It's Because,Dick Haymes,Dick Haymes,jazz,jazz,19490807,17,5,15,19490918
+8,16,Some Enchanted Evening,Ezio Pinza,Ezio Pinza,pop,opera,19490911,16,7,5,19490918
+9,14,Some Enchanted Evening,Bing Crosby,Bing Crosby,jazz,jazz,19490612,13,5,16,19490918
+10,8,The Hucklebuck,Tommy Dorsey / Charlie Shavers,Tommy Dorsey / Charlie Shavers,pop,unknown,19490703,16,5,16,19490918
+11,NEW,Room Full Of Roses,Dick Haymes,Dick Haymes,jazz,jazz,19490918,11,10,5,19490918
+12,12,Someday,Mills Brothers,Mills Brothers,jazz,jazz,19490904,18,8,11,19490918
+13,9,You're Breaking My Heart,Ink Spots,Ink Spots,jazz,jazz,19490904,19,9,10,19490918
+14,20,Whispering Hope,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19490911,20,6,19,19490918
+15,15,Room Full Of Roses,Eddy Howard,Eddy Howard,jazz,jazz,19490821,11,11,11,19490918
+16,10,My Bolero,Vic Damone,Vic Damone,jazz,swing,19490828,14,10,4,19490918
+17,NEW,Maybe It's Because,Eddy Howard,Eddy Howard,jazz,jazz,19490918,17,17,2,19490918
+18,13,Dance Of The Hours,Spike Jones / Doodles Weaver,Spike Jones / Doodles Weaver,pop,unknown,19490911,13,13,3,19490918
+19,18,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490430,12,1,22,19490918
+20,17,I Never See Maggie Alone,Kenny Roberts,Kenny Roberts,country / folk,country,19490911,17,9,16,19490918
+1,1,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,swing,19490710,13,1,23,19490911
+2,2,Some Enchanted Evening,Perry Como,Perry Como,jazz,jazz,19490515,20,1,23,19490911
+3,4,Someday,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490904,4,2,13,19490911
+4,3,Room Full Of Roses,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19490703,17,3,19,19490911
+5,20,That Lucky Old Sun,Frankie Laine,Frankie Laine,country / folk,country,19490904,20,1,18,19490911
+6,7,Jealous Heart,Al Morgan,Al Morgan,pop,unknown,19490731,7,4,22,19490911
+7,5,Maybe It's Because,Dick Haymes,Dick Haymes,jazz,jazz,19490807,17,5,15,19490911
+8,8,The Hucklebuck,Tommy Dorsey / Charlie Shavers,Tommy Dorsey / Charlie Shavers,pop,unknown,19490703,16,5,16,19490911
+9,19,You're Breaking My Heart,Ink Spots,Ink Spots,jazz,jazz,19490904,19,9,10,19490911
+10,16,My Bolero,Vic Damone,Vic Damone,jazz,swing,19490828,14,10,4,19490911
+11,9,Baby It's Cold Outside,Dinah Shore / Buddy Clark,Dinah Shore / Buddy Clark,pop,unknown,19490529,17,4,16,19490911
+12,18,Someday,Mills Brothers,Mills Brothers,jazz,jazz,19490904,18,8,11,19490911
+13,NEW,Dance Of The Hours,Spike Jones / Doodles Weaver,Spike Jones / Doodles Weaver,pop,unknown,19490911,13,13,3,19490911
+14,12,Some Enchanted Evening,Bing Crosby,Bing Crosby,jazz,jazz,19490612,13,5,16,19490911
+15,11,Room Full Of Roses,Eddy Howard,Eddy Howard,jazz,jazz,19490821,11,11,11,19490911
+16,NEW,Some Enchanted Evening,Ezio Pinza,Ezio Pinza,pop,opera,19490911,16,7,5,19490911
+17,NEW,I Never See Maggie Alone,Kenny Roberts,Kenny Roberts,country / folk,country,19490911,17,9,16,19490911
+18,6,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490430,12,1,22,19490911
+19,10,The Hucklebuck,Frank Sinatra,Frank Sinatra,jazz,jazz,19490828,17,10,3,19490911
+20,NEW,Whispering Hope,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19490911,20,6,19,19490911
+1,2,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,swing,19490710,13,1,23,19490904
+2,1,Some Enchanted Evening,Perry Como,Perry Como,jazz,jazz,19490515,20,1,23,19490904
+3,3,Room Full Of Roses,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19490703,17,3,19,19490904
+4,NEW,Someday,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490904,4,2,13,19490904
+5,9,Maybe It's Because,Dick Haymes,Dick Haymes,jazz,jazz,19490807,17,5,15,19490904
+6,4,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490430,12,1,22,19490904
+7,6,Jealous Heart,Al Morgan,Al Morgan,pop,unknown,19490731,7,4,22,19490904
+8,5,The Hucklebuck,Tommy Dorsey / Charlie Shavers,Tommy Dorsey / Charlie Shavers,pop,unknown,19490703,16,5,16,19490904
+9,10,Baby It's Cold Outside,Dinah Shore / Buddy Clark,Dinah Shore / Buddy Clark,pop,unknown,19490529,17,4,16,19490904
+10,17,The Hucklebuck,Frank Sinatra,Frank Sinatra,jazz,jazz,19490828,17,10,3,19490904
+11,20,Room Full Of Roses,Eddy Howard,Eddy Howard,jazz,jazz,19490821,11,11,11,19490904
+12,12,Some Enchanted Evening,Bing Crosby,Bing Crosby,jazz,jazz,19490612,13,5,16,19490904
+13,NEW,-,-,-,pop,mysterious,19490904,13,13,1,19490904
+14,NEW,-,-,-,pop,mysterious,19490904,14,14,1,19490904
+15,NEW,-,-,-,pop,mysterious,19490904,15,15,1,19490904
+16,14,My Bolero,Vic Damone,Vic Damone,jazz,swing,19490828,14,10,4,19490904
+17,NEW,-,-,-,pop,mysterious,19490904,17,17,1,19490904
+18,NEW,Someday,Mills Brothers,Mills Brothers,jazz,jazz,19490904,18,8,11,19490904
+19,NEW,You're Breaking My Heart,Ink Spots,Ink Spots,jazz,jazz,19490904,19,9,10,19490904
+20,NEW,That Lucky Old Sun,Frankie Laine,Frankie Laine,country / folk,country,19490904,20,1,18,19490904
+1,1,Some Enchanted Evening,Perry Como,Perry Como,jazz,jazz,19490515,20,1,23,19490828
+2,2,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,swing,19490710,13,1,23,19490828
+3,3,Room Full Of Roses,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19490703,17,3,19,19490828
+4,4,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490430,12,1,22,19490828
+5,7,The Hucklebuck,Tommy Dorsey / Charlie Shavers,Tommy Dorsey / Charlie Shavers,pop,unknown,19490703,16,5,16,19490828
+6,9,Jealous Heart,Al Morgan,Al Morgan,pop,unknown,19490731,7,4,22,19490828
+7,16,"Baby, It's Cold Outside",Sammy Kaye,Sammy Kaye,jazz,swing,19490814,14,7,3,19490828
+8,6,Again,Gordon Jenkins / Joe Graydon / Chorus,Gordon Jenkins / Joe Graydon / Chorus,pop,unknown,19490430,13,2,18,19490828
+9,10,Maybe It's Because,Dick Haymes,Dick Haymes,jazz,jazz,19490807,17,5,15,19490828
+10,8,Baby It's Cold Outside,Dinah Shore / Buddy Clark,Dinah Shore / Buddy Clark,pop,unknown,19490529,17,4,16,19490828
+11,5,Baby It's Cold Outside,Margaret Whiting / Johnny Mercer,Margaret Whiting / Johnny Mercer,pop,unknown,19490522,13,4,15,19490828
+12,12,Some Enchanted Evening,Bing Crosby,Bing Crosby,jazz,jazz,19490612,13,5,16,19490828
+13,13,Room Full Of Roses,Dick Haymes,Dick Haymes,jazz,jazz,19490814,18,13,3,19490828
+14,NEW,My Bolero,Vic Damone,Vic Damone,jazz,swing,19490828,14,10,4,19490828
+15,NEW,Let's Take An Old Fashioned Walk,Perry Como,Perry Como,jazz,jazz,19490828,15,15,1,19490828
+16,14,I Don't See Me In Your Eyes Anymore,Stardusters,Stardusters,pop,unknown,19490430,15,6,18,19490828
+17,NEW,The Hucklebuck,Frank Sinatra,Frank Sinatra,jazz,jazz,19490828,17,10,3,19490828
+18,18,Four Winds And The Seven Seas,Sammy Kaye / Tony Alamo,Sammy Kaye / Tony Alamo,pop,unknown,19490619,17,7,11,19490828
+19,NEW,Whispering Hope,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19490828,19,19,1,19490828
+20,11,Room Full Of Roses,Eddy Howard,Eddy Howard,jazz,jazz,19490821,11,11,11,19490828
+1,1,Some Enchanted Evening,Perry Como,Perry Como,jazz,jazz,19490515,20,1,23,19490821
+2,3,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,swing,19490710,13,1,23,19490821
+3,5,Room Full Of Roses,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19490703,17,3,19,19490821
+4,2,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490430,12,1,22,19490821
+5,4,Baby It's Cold Outside,Margaret Whiting / Johnny Mercer,Margaret Whiting / Johnny Mercer,pop,unknown,19490522,13,4,15,19490821
+6,6,Again,Gordon Jenkins / Joe Graydon / Chorus,Gordon Jenkins / Joe Graydon / Chorus,pop,unknown,19490430,13,2,18,19490821
+7,19,The Hucklebuck,Tommy Dorsey / Charlie Shavers,Tommy Dorsey / Charlie Shavers,pop,unknown,19490703,16,5,16,19490821
+8,7,Baby It's Cold Outside,Dinah Shore / Buddy Clark,Dinah Shore / Buddy Clark,pop,unknown,19490529,17,4,16,19490821
+9,8,Jealous Heart,Al Morgan,Al Morgan,pop,unknown,19490731,7,4,22,19490821
+10,10,Maybe It's Because,Dick Haymes,Dick Haymes,jazz,jazz,19490807,17,5,15,19490821
+11,NEW,Room Full Of Roses,Eddy Howard,Eddy Howard,jazz,jazz,19490821,11,11,11,19490821
+12,11,Some Enchanted Evening,Bing Crosby,Bing Crosby,jazz,jazz,19490612,13,5,16,19490821
+13,18,Room Full Of Roses,Dick Haymes,Dick Haymes,jazz,jazz,19490814,18,13,3,19490821
+14,9,I Don't See Me In Your Eyes Anymore,Stardusters,Stardusters,pop,unknown,19490430,15,6,18,19490821
+15,15,I Don't See Me In Your Eyes Anymore,Perry Como,Perry Como,jazz,jazz,19490731,12,12,4,19490821
+16,14,Someday,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490814,14,7,3,19490821
+17,NEW,Bali Ha'I,Peggy Lee,Peggy Lee,jazz,jazz,19490821,17,17,1,19490821
+18,17,Four Winds And The Seven Seas,Sammy Kaye / Tony Alamo,Sammy Kaye / Tony Alamo,pop,unknown,19490619,17,7,11,19490821
+19,NEW,Forever And Ever,Perry Como,Perry Como,jazz,jazz,19490821,19,19,1,19490821
+20,16,Forever & Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,unknown,19490814,16,16,2,19490821
+1,1,Some Enchanted Evening,Perry Como,Perry Como,jazz,jazz,19490515,20,1,23,19490814
+2,2,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490430,12,1,22,19490814
+3,3,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,swing,19490710,13,1,23,19490814
+4,5,Baby It's Cold Outside,Margaret Whiting / Johnny Mercer,Margaret Whiting / Johnny Mercer,pop,unknown,19490522,13,4,15,19490814
+5,6,Room Full Of Roses,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19490703,17,3,19,19490814
+6,4,Again,Gordon Jenkins / Joe Graydon / Chorus,Gordon Jenkins / Joe Graydon / Chorus,pop,unknown,19490430,13,2,18,19490814
+7,7,Baby It's Cold Outside,Dinah Shore / Buddy Clark,Dinah Shore / Buddy Clark,pop,unknown,19490529,17,4,16,19490814
+8,10,Jealous Heart,Al Morgan,Al Morgan,pop,unknown,19490731,7,4,22,19490814
+9,11,I Don't See Me In Your Eyes Anymore,Stardusters,Stardusters,pop,unknown,19490430,15,6,18,19490814
+10,17,Maybe It's Because,Dick Haymes,Dick Haymes,jazz,jazz,19490807,17,5,15,19490814
+11,9,Some Enchanted Evening,Bing Crosby,Bing Crosby,jazz,jazz,19490612,13,5,16,19490814
+12,19,A Wonderful Guy,Margaret Whiting,Margaret Whiting,pop,40s,19490710,20,12,6,19490814
+13,20,"Baby, It's Cold Outside",Sammy Kaye,Sammy Kaye,jazz,swing,19490731,18,13,3,19490814
+14,NEW,Someday,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490814,14,7,3,19490814
+15,14,I Don't See Me In Your Eyes Anymore,Perry Como,Perry Como,jazz,jazz,19490731,12,12,4,19490814
+16,NEW,Forever & Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,unknown,19490814,16,16,2,19490814
+17,13,Four Winds And The Seven Seas,Sammy Kaye / Tony Alamo,Sammy Kaye / Tony Alamo,pop,unknown,19490619,17,7,11,19490814
+18,NEW,Room Full Of Roses,Dick Haymes,Dick Haymes,jazz,jazz,19490814,18,13,3,19490814
+19,8,The Hucklebuck,Tommy Dorsey / Charlie Shavers,Tommy Dorsey / Charlie Shavers,pop,unknown,19490703,16,5,16,19490814
+20,NEW,Ain't She Sweet,Mr. Ford And Mr. Goon-Bones,Mr. Ford And Mr. Goon-Bones,pop,unknown,19490814,20,20,1,19490814
+1,1,Some Enchanted Evening,Perry Como,Perry Como,jazz,jazz,19490515,20,1,23,19490807
+2,2,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490430,12,1,22,19490807
+3,3,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,swing,19490710,13,1,23,19490807
+4,4,Again,Gordon Jenkins / Joe Graydon / Chorus,Gordon Jenkins / Joe Graydon / Chorus,pop,unknown,19490430,13,2,18,19490807
+5,5,Baby It's Cold Outside,Margaret Whiting / Johnny Mercer,Margaret Whiting / Johnny Mercer,pop,unknown,19490522,13,4,15,19490807
+6,9,Room Full Of Roses,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19490703,17,3,19,19490807
+7,6,Baby It's Cold Outside,Dinah Shore / Buddy Clark,Dinah Shore / Buddy Clark,pop,unknown,19490529,17,4,16,19490807
+8,11,The Hucklebuck,Tommy Dorsey / Charlie Shavers,Tommy Dorsey / Charlie Shavers,pop,unknown,19490703,16,5,16,19490807
+9,10,Some Enchanted Evening,Bing Crosby,Bing Crosby,jazz,jazz,19490612,13,5,16,19490807
+10,7,Jealous Heart,Al Morgan,Al Morgan,pop,unknown,19490731,7,4,22,19490807
+11,13,I Don't See Me In Your Eyes Anymore,Stardusters,Stardusters,pop,unknown,19490430,15,6,18,19490807
+12,15,Forever And Ever,Perry Como,Perry Como,jazz,jazz,19490319,15,3,21,19490807
+13,16,Four Winds And The Seven Seas,Sammy Kaye / Tony Alamo,Sammy Kaye / Tony Alamo,pop,unknown,19490619,17,7,11,19490807
+14,12,I Don't See Me In Your Eyes Anymore,Perry Como,Perry Como,jazz,jazz,19490731,12,12,4,19490807
+15,8,Bali Ha'I,Perry Como,Perry Como,jazz,jazz,19490731,8,8,2,19490807
+16,NEW,Room Full Of Roses,Eddy Howard,Eddy Howard,jazz,jazz,19490807,16,16,1,19490807
+17,NEW,Maybe It's Because,Dick Haymes,Dick Haymes,jazz,jazz,19490807,17,5,15,19490807
+18,NEW,The Hucklebuck,Frank Sinatra,Frank Sinatra,jazz,jazz,19490807,18,18,1,19490807
+19,14,A Wonderful Guy,Margaret Whiting,Margaret Whiting,pop,40s,19490710,20,12,6,19490807
+20,18,"Baby, It's Cold Outside",Sammy Kaye,Sammy Kaye,jazz,swing,19490731,18,13,3,19490807
+1,2,Some Enchanted Evening,Perry Como,Perry Como,jazz,jazz,19490515,20,1,23,19490731
+2,1,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490430,12,1,22,19490731
+3,5,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,swing,19490710,13,1,23,19490731
+4,3,Again,Gordon Jenkins / Joe Graydon / Chorus,Gordon Jenkins / Joe Graydon / Chorus,pop,unknown,19490430,13,2,18,19490731
+5,6,Baby It's Cold Outside,Margaret Whiting / Johnny Mercer,Margaret Whiting / Johnny Mercer,pop,unknown,19490522,13,4,15,19490731
+6,4,Baby It's Cold Outside,Dinah Shore / Buddy Clark,Dinah Shore / Buddy Clark,pop,unknown,19490529,17,4,16,19490731
+7,NEW,Jealous Heart,Al Morgan,Al Morgan,pop,unknown,19490731,7,4,22,19490731
+8,NEW,Bali Ha'I,Perry Como,Perry Como,jazz,jazz,19490731,8,8,2,19490731
+9,8,Room Full Of Roses,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19490703,17,3,19,19490731
+10,7,Some Enchanted Evening,Bing Crosby,Bing Crosby,jazz,jazz,19490612,13,5,16,19490731
+11,9,The Hucklebuck,Tommy Dorsey / Charlie Shavers,Tommy Dorsey / Charlie Shavers,pop,unknown,19490703,16,5,16,19490731
+12,NEW,I Don't See Me In Your Eyes Anymore,Perry Como,Perry Como,jazz,jazz,19490731,12,12,4,19490731
+13,12,I Don't See Me In Your Eyes Anymore,Stardusters,Stardusters,pop,unknown,19490430,15,6,18,19490731
+14,19,A Wonderful Guy,Margaret Whiting,Margaret Whiting,pop,40s,19490710,20,12,6,19490731
+15,10,Forever And Ever,Perry Como,Perry Como,jazz,jazz,19490319,15,3,21,19490731
+16,17,Four Winds And The Seven Seas,Sammy Kaye / Tony Alamo,Sammy Kaye / Tony Alamo,pop,unknown,19490619,17,7,11,19490731
+17,14,Blue Skirt Waltz,Frankie Yankovic,Frankie Yankovic,pop,polka,19490724,14,14,2,19490731
+18,NEW,"Baby, It's Cold Outside",Sammy Kaye,Sammy Kaye,jazz,swing,19490731,18,13,3,19490731
+19,13,Again,Mel Torme,Mel Torme,jazz,jazz,19490430,18,7,14,19490731
+20,11,Forever And Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,unknown,19490319,14,2,20,19490731
+1,1,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490430,12,1,22,19490724
+2,2,Some Enchanted Evening,Perry Como,Perry Como,jazz,jazz,19490515,20,1,23,19490724
+3,3,Again,Gordon Jenkins / Joe Graydon / Chorus,Gordon Jenkins / Joe Graydon / Chorus,pop,unknown,19490430,13,2,18,19490724
+4,9,Baby It's Cold Outside,Dinah Shore / Buddy Clark,Dinah Shore / Buddy Clark,pop,unknown,19490529,17,4,16,19490724
+5,16,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,swing,19490710,13,1,23,19490724
+6,4,Baby It's Cold Outside,Margaret Whiting / Johnny Mercer,Margaret Whiting / Johnny Mercer,pop,unknown,19490522,13,4,15,19490724
+7,5,Some Enchanted Evening,Bing Crosby,Bing Crosby,jazz,jazz,19490612,13,5,16,19490724
+8,10,Room Full Of Roses,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19490703,17,3,19,19490724
+9,11,The Hucklebuck,Tommy Dorsey / Charlie Shavers,Tommy Dorsey / Charlie Shavers,pop,unknown,19490703,16,5,16,19490724
+10,20,Forever And Ever,Perry Como,Perry Como,jazz,jazz,19490319,15,3,21,19490724
+11,6,Forever And Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,unknown,19490319,14,2,20,19490724
+12,8,I Don't See Me In Your Eyes Anymore,Stardusters,Stardusters,pop,unknown,19490430,15,6,18,19490724
+13,12,Again,Mel Torme,Mel Torme,jazz,jazz,19490430,18,7,14,19490724
+14,NEW,Blue Skirt Waltz,Frankie Yankovic,Frankie Yankovic,pop,polka,19490724,14,14,2,19490724
+15,18,The Hucklebuck,Frank Sinatra,Frank Sinatra,jazz,jazz,19490710,19,15,3,19490724
+16,NEW,Again,Vic Damone,Vic Damone,jazz,swing,19490724,16,16,1,19490724
+17,7,Four Winds And The Seven Seas,Sammy Kaye / Tony Alamo,Sammy Kaye / Tony Alamo,pop,unknown,19490619,17,7,11,19490724
+18,NEW,Cruising Down The River,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,unknown,19490724,18,18,1,19490724
+19,19,A Wonderful Guy,Margaret Whiting,Margaret Whiting,pop,40s,19490710,20,12,6,19490724
+20,NEW,Ain't She Sweet,Mr. Ford And Mr. Goon-Bones,Mr. Ford And Mr. Goon-Bones,pop,unknown,19490724,20,20,1,19490724
+1,1,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490430,12,1,22,19490717
+2,2,Some Enchanted Evening,Perry Como,Perry Como,jazz,jazz,19490515,20,1,23,19490717
+3,3,Again,Gordon Jenkins / Joe Graydon / Chorus,Gordon Jenkins / Joe Graydon / Chorus,pop,unknown,19490430,13,2,18,19490717
+4,4,Baby It's Cold Outside,Margaret Whiting / Johnny Mercer,Margaret Whiting / Johnny Mercer,pop,unknown,19490522,13,4,15,19490717
+5,8,Some Enchanted Evening,Bing Crosby,Bing Crosby,jazz,jazz,19490612,13,5,16,19490717
+6,11,Forever And Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,unknown,19490319,14,2,20,19490717
+7,14,Four Winds And The Seven Seas,Sammy Kaye / Tony Alamo,Sammy Kaye / Tony Alamo,pop,unknown,19490619,17,7,11,19490717
+8,6,I Don't See Me In Your Eyes Anymore,Stardusters,Stardusters,pop,unknown,19490430,15,6,18,19490717
+9,9,Baby It's Cold Outside,Dinah Shore / Buddy Clark,Dinah Shore / Buddy Clark,pop,unknown,19490529,17,4,16,19490717
+10,18,Room Full Of Roses,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19490703,17,3,19,19490717
+11,17,The Hucklebuck,Tommy Dorsey / Charlie Shavers,Tommy Dorsey / Charlie Shavers,pop,unknown,19490703,16,5,16,19490717
+12,10,Again,Mel Torme,Mel Torme,jazz,jazz,19490430,18,7,14,19490717
+13,NEW,Room Full Of Roses,Dick Haymes,Dick Haymes,jazz,jazz,19490717,13,13,1,19490717
+14,12,I Don't See Me In Your Eyes Anymore,Perry Como,Perry Como,jazz,jazz,19490626,20,10,4,19490717
+15,5,Bali Ha'I,Perry Como,Perry Como,jazz,jazz,19490529,20,5,8,19490717
+16,13,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,swing,19490710,13,1,23,19490717
+17,NEW,Baby It's Cold Outside,Ella Fitzgerald / Louis Jordan,Ella Fitzgerald / Louis Jordan,jazz,jazz,19490717,17,17,1,19490717
+18,19,The Hucklebuck,Frank Sinatra,Frank Sinatra,jazz,jazz,19490710,19,15,3,19490717
+19,20,A Wonderful Guy,Margaret Whiting,Margaret Whiting,pop,40s,19490710,20,12,6,19490717
+20,7,Forever And Ever,Perry Como,Perry Como,jazz,jazz,19490319,15,3,21,19490717
+1,1,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490430,12,1,22,19490710
+2,2,Some Enchanted Evening,Perry Como,Perry Como,jazz,jazz,19490515,20,1,23,19490710
+3,3,Again,Gordon Jenkins / Joe Graydon / Chorus,Gordon Jenkins / Joe Graydon / Chorus,pop,unknown,19490430,13,2,18,19490710
+4,4,Baby It's Cold Outside,Margaret Whiting / Johnny Mercer,Margaret Whiting / Johnny Mercer,pop,unknown,19490522,13,4,15,19490710
+5,9,Bali Ha'I,Perry Como,Perry Como,jazz,jazz,19490529,20,5,8,19490710
+6,13,I Don't See Me In Your Eyes Anymore,Stardusters,Stardusters,pop,unknown,19490430,15,6,18,19490710
+7,7,Forever And Ever,Perry Como,Perry Como,jazz,jazz,19490319,15,3,21,19490710
+8,6,Some Enchanted Evening,Bing Crosby,Bing Crosby,jazz,jazz,19490612,13,5,16,19490710
+9,12,Baby It's Cold Outside,Dinah Shore / Buddy Clark,Dinah Shore / Buddy Clark,pop,unknown,19490529,17,4,16,19490710
+10,8,Again,Mel Torme,Mel Torme,jazz,jazz,19490430,18,7,14,19490710
+11,5,Forever And Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,unknown,19490319,14,2,20,19490710
+12,10,I Don't See Me In Your Eyes Anymore,Perry Como,Perry Como,jazz,jazz,19490626,20,10,4,19490710
+13,NEW,You're Breaking My Heart,Vic Damone,Vic Damone,jazz,swing,19490710,13,1,23,19490710
+14,14,Four Winds And The Seven Seas,Sammy Kaye / Tony Alamo,Sammy Kaye / Tony Alamo,pop,unknown,19490619,17,7,11,19490710
+15,15,'A' You're Adorable,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,unknown,19490416,12,4,13,19490710
+16,11,Cruising Down The River,Russ Morgan,Russ Morgan,pop,russ morgan,19490226,15,1,20,19490710
+17,16,The Hucklebuck,Tommy Dorsey / Charlie Shavers,Tommy Dorsey / Charlie Shavers,pop,unknown,19490703,16,5,16,19490710
+18,17,Room Full Of Roses,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19490703,17,3,19,19490710
+19,NEW,The Hucklebuck,Frank Sinatra,Frank Sinatra,jazz,jazz,19490710,19,15,3,19490710
+20,NEW,A Wonderful Guy,Margaret Whiting,Margaret Whiting,pop,40s,19490710,20,12,6,19490710
+1,1,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490430,12,1,22,19490703
+2,2,Some Enchanted Evening,Perry Como,Perry Como,jazz,jazz,19490515,20,1,23,19490703
+3,3,Again,Gordon Jenkins / Joe Graydon / Chorus,Gordon Jenkins / Joe Graydon / Chorus,pop,unknown,19490430,13,2,18,19490703
+4,5,Baby It's Cold Outside,Margaret Whiting / Johnny Mercer,Margaret Whiting / Johnny Mercer,pop,unknown,19490522,13,4,15,19490703
+5,6,Forever And Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,unknown,19490319,14,2,20,19490703
+6,11,Some Enchanted Evening,Bing Crosby,Bing Crosby,jazz,jazz,19490612,13,5,16,19490703
+7,4,Forever And Ever,Perry Como,Perry Como,jazz,jazz,19490319,15,3,21,19490703
+8,10,Again,Mel Torme,Mel Torme,jazz,jazz,19490430,18,7,14,19490703
+9,9,Bali Ha'I,Perry Como,Perry Como,jazz,jazz,19490529,20,5,8,19490703
+10,20,I Don't See Me In Your Eyes Anymore,Perry Como,Perry Como,jazz,jazz,19490626,20,10,4,19490703
+11,17,Cruising Down The River,Russ Morgan,Russ Morgan,pop,russ morgan,19490226,15,1,20,19490703
+12,7,Baby It's Cold Outside,Dinah Shore / Buddy Clark,Dinah Shore / Buddy Clark,pop,unknown,19490529,17,4,16,19490703
+13,8,I Don't See Me In Your Eyes Anymore,Stardusters,Stardusters,pop,unknown,19490430,15,6,18,19490703
+14,13,Four Winds And The Seven Seas,Sammy Kaye / Tony Alamo,Sammy Kaye / Tony Alamo,pop,unknown,19490619,17,7,11,19490703
+15,12,'A' You're Adorable,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,unknown,19490416,12,4,13,19490703
+16,NEW,The Hucklebuck,Tommy Dorsey / Charlie Shavers,Tommy Dorsey / Charlie Shavers,pop,unknown,19490703,16,5,16,19490703
+17,NEW,Room Full Of Roses,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19490703,17,3,19,19490703
+18,14,Again,Doris Day,Doris Day,jazz,jazz,19490626,14,14,2,19490703
+19,18,Baby It's Cold Outside,Ella Fitzgerald / Louis Jordan,Ella Fitzgerald / Louis Jordan,jazz,jazz,19490626,18,18,2,19490703
+20,19,Bali Ha'I,Bing Crosby,Bing Crosby,jazz,jazz,19490626,19,19,2,19490703
+1,1,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490430,12,1,22,19490626
+2,2,Some Enchanted Evening,Perry Como,Perry Como,jazz,jazz,19490515,20,1,23,19490626
+3,3,Again,Gordon Jenkins / Joe Graydon / Chorus,Gordon Jenkins / Joe Graydon / Chorus,pop,unknown,19490430,13,2,18,19490626
+4,5,Forever And Ever,Perry Como,Perry Como,jazz,jazz,19490319,15,3,21,19490626
+5,6,Baby It's Cold Outside,Margaret Whiting / Johnny Mercer,Margaret Whiting / Johnny Mercer,pop,unknown,19490522,13,4,15,19490626
+6,4,Forever And Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,unknown,19490319,14,2,20,19490626
+7,13,Baby It's Cold Outside,Dinah Shore / Buddy Clark,Dinah Shore / Buddy Clark,pop,unknown,19490529,17,4,16,19490626
+8,7,I Don't See Me In Your Eyes Anymore,Stardusters,Stardusters,pop,unknown,19490430,15,6,18,19490626
+9,12,Bali Ha'I,Perry Como,Perry Como,jazz,jazz,19490529,20,5,8,19490626
+10,9,Again,Mel Torme,Mel Torme,jazz,jazz,19490430,18,7,14,19490626
+11,14,Some Enchanted Evening,Bing Crosby,Bing Crosby,jazz,jazz,19490612,13,5,16,19490626
+12,8,'A' You're Adorable,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,unknown,19490416,12,4,13,19490626
+13,17,Four Winds And The Seven Seas,Sammy Kaye / Tony Alamo,Sammy Kaye / Tony Alamo,pop,unknown,19490619,17,7,11,19490626
+14,NEW,Again,Doris Day,Doris Day,jazz,jazz,19490626,14,14,2,19490626
+15,NEW,A Wonderful Guy,Margaret Whiting,Margaret Whiting,pop,40s,19490626,15,15,1,19490626
+16,11,Again,Vic Damone,Vic Damone,jazz,swing,19490507,18,11,8,19490626
+17,10,Cruising Down The River,Russ Morgan,Russ Morgan,pop,russ morgan,19490226,15,1,20,19490626
+18,NEW,Baby It's Cold Outside,Ella Fitzgerald / Louis Jordan,Ella Fitzgerald / Louis Jordan,jazz,jazz,19490626,18,18,2,19490626
+19,NEW,Bali Ha'I,Bing Crosby,Bing Crosby,jazz,jazz,19490626,19,19,2,19490626
+20,NEW,I Don't See Me In Your Eyes Anymore,Perry Como,Perry Como,jazz,jazz,19490626,20,10,4,19490626
+1,1,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490430,12,1,22,19490619
+2,3,Some Enchanted Evening,Perry Como,Perry Como,jazz,jazz,19490515,20,1,23,19490619
+3,2,Again,Gordon Jenkins / Joe Graydon / Chorus,Gordon Jenkins / Joe Graydon / Chorus,pop,unknown,19490430,13,2,18,19490619
+4,4,Forever And Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,unknown,19490319,14,2,20,19490619
+5,5,Forever And Ever,Perry Como,Perry Como,jazz,jazz,19490319,15,3,21,19490619
+6,11,Baby It's Cold Outside,Margaret Whiting / Johnny Mercer,Margaret Whiting / Johnny Mercer,pop,unknown,19490522,13,4,15,19490619
+7,8,I Don't See Me In Your Eyes Anymore,Stardusters,Stardusters,pop,unknown,19490430,15,6,18,19490619
+8,9,'A' You're Adorable,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,unknown,19490416,12,4,13,19490619
+9,7,Again,Mel Torme,Mel Torme,jazz,jazz,19490430,18,7,14,19490619
+10,6,Cruising Down The River,Russ Morgan,Russ Morgan,pop,russ morgan,19490226,15,1,20,19490619
+11,14,Again,Vic Damone,Vic Damone,jazz,swing,19490507,18,11,8,19490619
+12,10,Bali Ha'I,Perry Como,Perry Como,jazz,jazz,19490529,20,5,8,19490619
+13,15,Baby It's Cold Outside,Dinah Shore / Buddy Clark,Dinah Shore / Buddy Clark,pop,unknown,19490529,17,4,16,19490619
+14,13,Some Enchanted Evening,Bing Crosby,Bing Crosby,jazz,jazz,19490612,13,5,16,19490619
+15,NEW,Room Full Of Roses,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19490619,15,15,1,19490619
+16,12,'A' You're Adorable,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19490430,4,4,8,19490619
+17,NEW,Four Winds And The Seven Seas,Sammy Kaye / Tony Alamo,Sammy Kaye / Tony Alamo,pop,unknown,19490619,17,7,11,19490619
+18,20,Careless Hands,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19490226,13,7,17,19490619
+19,NEW,The Hucklebuck,Tommy Dorsey / Charlie Shavers,Tommy Dorsey / Charlie Shavers,pop,unknown,19490619,19,19,1,19490619
+20,NEW,Merry-Go-Round Waltz,Guy Lombardo,Guy Lombardo,jazz,jazz,19490619,20,20,1,19490619
+1,1,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490430,12,1,22,19490612
+2,2,Again,Gordon Jenkins / Joe Graydon / Chorus,Gordon Jenkins / Joe Graydon / Chorus,pop,unknown,19490430,13,2,18,19490612
+3,4,Some Enchanted Evening,Perry Como,Perry Como,jazz,jazz,19490515,20,1,23,19490612
+4,3,Forever And Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,unknown,19490319,14,2,20,19490612
+5,5,Forever And Ever,Perry Como,Perry Como,jazz,jazz,19490319,15,3,21,19490612
+6,6,Cruising Down The River,Russ Morgan,Russ Morgan,pop,russ morgan,19490226,15,1,20,19490612
+7,8,Again,Mel Torme,Mel Torme,jazz,jazz,19490430,18,7,14,19490612
+8,9,I Don't See Me In Your Eyes Anymore,Stardusters,Stardusters,pop,unknown,19490430,15,6,18,19490612
+9,7,'A' You're Adorable,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,unknown,19490416,12,4,13,19490612
+10,15,Bali Ha'I,Perry Como,Perry Como,jazz,jazz,19490529,20,5,8,19490612
+11,10,Baby It's Cold Outside,Margaret Whiting / Johnny Mercer,Margaret Whiting / Johnny Mercer,pop,unknown,19490522,13,4,15,19490612
+12,11,'A' You're Adorable,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19490430,4,4,8,19490612
+13,NEW,Some Enchanted Evening,Bing Crosby,Bing Crosby,jazz,jazz,19490612,13,5,16,19490612
+14,13,Again,Vic Damone,Vic Damone,jazz,swing,19490507,18,11,8,19490612
+15,17,Baby It's Cold Outside,Dinah Shore / Buddy Clark,Dinah Shore / Buddy Clark,pop,unknown,19490529,17,4,16,19490612
+16,16,Careless Hands,Mel Torme,Mel Torme,jazz,jazz,19490326,19,7,12,19490612
+17,14,Riders In The Sky,Bing Crosby,Bing Crosby,jazz,jazz,19490605,14,14,2,19490612
+18,19,Again,Doris Day,Doris Day,jazz,jazz,19490605,19,18,2,19490612
+19,NEW,I Don't See Me In Your Eyes Anymore,Perry Como,Perry Como,jazz,jazz,19490612,19,19,1,19490612
+20,12,Careless Hands,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19490226,13,7,17,19490612
+1,1,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490430,12,1,22,19490605
+2,2,Again,Gordon Jenkins / Joe Graydon / Chorus,Gordon Jenkins / Joe Graydon / Chorus,pop,unknown,19490430,13,2,18,19490605
+3,4,Forever And Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,unknown,19490319,14,2,20,19490605
+4,8,Some Enchanted Evening,Perry Como,Perry Como,jazz,jazz,19490515,20,1,23,19490605
+5,3,Forever And Ever,Perry Como,Perry Como,jazz,jazz,19490319,15,3,21,19490605
+6,5,Cruising Down The River,Russ Morgan,Russ Morgan,pop,russ morgan,19490226,15,1,20,19490605
+7,6,'A' You're Adorable,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,unknown,19490416,12,4,13,19490605
+8,10,Again,Mel Torme,Mel Torme,jazz,jazz,19490430,18,7,14,19490605
+9,7,I Don't See Me In Your Eyes Anymore,Stardusters,Stardusters,pop,unknown,19490430,15,6,18,19490605
+10,12,Baby It's Cold Outside,Margaret Whiting / Johnny Mercer,Margaret Whiting / Johnny Mercer,pop,unknown,19490522,13,4,15,19490605
+11,9,'A' You're Adorable,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19490430,4,4,8,19490605
+12,11,Careless Hands,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19490226,13,7,17,19490605
+13,14,Again,Vic Damone,Vic Damone,jazz,swing,19490507,18,11,8,19490605
+14,NEW,Riders In The Sky,Bing Crosby,Bing Crosby,jazz,jazz,19490605,14,14,2,19490605
+15,20,Bali Ha'I,Perry Como,Perry Como,jazz,jazz,19490529,20,5,8,19490605
+16,15,Careless Hands,Mel Torme,Mel Torme,jazz,jazz,19490326,19,7,12,19490605
+17,17,Baby It's Cold Outside,Dinah Shore / Buddy Clark,Dinah Shore / Buddy Clark,pop,unknown,19490529,17,4,16,19490605
+18,13,Need You,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19490507,15,13,5,19490605
+19,NEW,Again,Doris Day,Doris Day,jazz,jazz,19490605,19,18,2,19490605
+20,18,Blue Skirt Waltz,Frank Yankovic,Frank Yankovic,pop,polka,19490522,20,18,3,19490605
+1,1,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490430,12,1,22,19490529
+2,5,Again,Gordon Jenkins / Joe Graydon / Chorus,Gordon Jenkins / Joe Graydon / Chorus,pop,unknown,19490430,13,2,18,19490529
+3,4,Forever And Ever,Perry Como,Perry Como,jazz,jazz,19490319,15,3,21,19490529
+4,2,Forever And Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,unknown,19490319,14,2,20,19490529
+5,3,Cruising Down The River,Russ Morgan,Russ Morgan,pop,russ morgan,19490226,15,1,20,19490529
+6,6,'A' You're Adorable,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,unknown,19490416,12,4,13,19490529
+7,11,I Don't See Me In Your Eyes Anymore,Stardusters,Stardusters,pop,unknown,19490430,15,6,18,19490529
+8,15,Some Enchanted Evening,Perry Como,Perry Como,jazz,jazz,19490515,20,1,23,19490529
+9,9,'A' You're Adorable,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19490430,4,4,8,19490529
+10,7,Again,Mel Torme,Mel Torme,jazz,jazz,19490430,18,7,14,19490529
+11,10,Careless Hands,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19490226,13,7,17,19490529
+12,13,Baby It's Cold Outside,Margaret Whiting / Johnny Mercer,Margaret Whiting / Johnny Mercer,pop,unknown,19490522,13,4,15,19490529
+13,14,Need You,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19490507,15,13,5,19490529
+14,16,Again,Vic Damone,Vic Damone,jazz,swing,19490507,18,11,8,19490529
+15,8,Careless Hands,Mel Torme,Mel Torme,jazz,jazz,19490326,19,7,12,19490529
+16,NEW,Once In Love With Amy,Ray Bolger,Ray Bolger,pop,soundtrack,19490529,16,16,1,19490529
+17,NEW,Baby It's Cold Outside,Dinah Shore / Buddy Clark,Dinah Shore / Buddy Clark,pop,unknown,19490529,17,4,16,19490529
+18,20,Blue Skirt Waltz,Frank Yankovic,Frank Yankovic,pop,polka,19490522,20,18,3,19490529
+19,12,Cruising Down The River,Blue Barron,Blue Barron,jazz,jazz,19490205,12,1,17,19490529
+20,NEW,Bali Ha'I,Perry Como,Perry Como,jazz,jazz,19490529,20,5,8,19490529
+1,1,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490430,12,1,22,19490522
+2,3,Forever And Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,unknown,19490319,14,2,20,19490522
+3,2,Cruising Down The River,Russ Morgan,Russ Morgan,pop,russ morgan,19490226,15,1,20,19490522
+4,5,Forever And Ever,Perry Como,Perry Como,jazz,jazz,19490319,15,3,21,19490522
+5,6,Again,Gordon Jenkins / Joe Graydon / Chorus,Gordon Jenkins / Joe Graydon / Chorus,pop,unknown,19490430,13,2,18,19490522
+6,4,'A' You're Adorable,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,unknown,19490416,12,4,13,19490522
+7,9,Again,Mel Torme,Mel Torme,jazz,jazz,19490430,18,7,14,19490522
+8,7,Careless Hands,Mel Torme,Mel Torme,jazz,jazz,19490326,19,7,12,19490522
+9,8,'A' You're Adorable,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19490430,4,4,8,19490522
+10,12,Careless Hands,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19490226,13,7,17,19490522
+11,11,I Don't See Me In Your Eyes Anymore,Stardusters,Stardusters,pop,unknown,19490430,15,6,18,19490522
+12,10,Cruising Down The River,Blue Barron,Blue Barron,jazz,jazz,19490205,12,1,17,19490522
+13,NEW,Baby It's Cold Outside,Margaret Whiting / Johnny Mercer,Margaret Whiting / Johnny Mercer,pop,unknown,19490522,13,4,15,19490522
+14,14,Need You,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19490507,15,13,5,19490522
+15,20,Some Enchanted Evening,Perry Como,Perry Como,jazz,jazz,19490515,20,1,23,19490522
+16,15,Again,Vic Damone,Vic Damone,jazz,swing,19490507,18,11,8,19490522
+17,NEW,Riders In The Sky,Bing Crosby,Bing Crosby,jazz,jazz,19490522,17,17,1,19490522
+18,13,Red Roses For A Blue Lady,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490205,17,4,16,19490522
+19,NEW,Slaughter On Tenth Avenue,Lennie Hayton Orchestra,Lennie Hayton Orchestra,pop,unknown,19490522,19,19,1,19490522
+20,NEW,Blue Skirt Waltz,Frank Yankovic,Frank Yankovic,pop,polka,19490522,20,18,3,19490522
+1,4,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490430,12,1,22,19490515
+2,1,Cruising Down The River,Russ Morgan,Russ Morgan,pop,russ morgan,19490226,15,1,20,19490515
+3,2,Forever And Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,unknown,19490319,14,2,20,19490515
+4,5,'A' You're Adorable,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,unknown,19490416,12,4,13,19490515
+5,3,Forever And Ever,Perry Como,Perry Como,jazz,jazz,19490319,15,3,21,19490515
+6,8,Again,Gordon Jenkins / Joe Graydon / Chorus,Gordon Jenkins / Joe Graydon / Chorus,pop,unknown,19490430,13,2,18,19490515
+7,9,Careless Hands,Mel Torme,Mel Torme,jazz,jazz,19490326,19,7,12,19490515
+8,11,'A' You're Adorable,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19490430,4,4,8,19490515
+9,13,Again,Mel Torme,Mel Torme,jazz,jazz,19490430,18,7,14,19490515
+10,6,Cruising Down The River,Blue Barron,Blue Barron,jazz,jazz,19490205,12,1,17,19490515
+11,12,I Don't See Me In Your Eyes Anymore,Stardusters,Stardusters,pop,unknown,19490430,15,6,18,19490515
+12,7,Careless Hands,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19490226,13,7,17,19490515
+13,10,Red Roses For A Blue Lady,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490205,17,4,16,19490515
+14,15,Need You,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19490507,15,13,5,19490515
+15,18,Again,Vic Damone,Vic Damone,jazz,swing,19490507,18,11,8,19490515
+16,17,Far Away Places,Perry Como,Perry Como,jazz,jazz,19490115,18,6,18,19490515
+17,16,Sunflower,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,unknown,19490326,11,10,8,19490515
+18,19,Red Roses For A Blue Lady,Guy Lombardo / Don Rodney,Guy Lombardo / Don Rodney,pop,unknown,19490319,16,10,9,19490515
+19,14,So Tired,Russ Morgan,Russ Morgan,pop,russ morgan,19490108,13,4,19,19490515
+20,NEW,Some Enchanted Evening,Perry Como,Perry Como,jazz,jazz,19490515,20,1,23,19490515
+1,1,Cruising Down The River,Russ Morgan,Russ Morgan,pop,russ morgan,19490226,15,1,20,19490507
+2,2,Forever And Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,unknown,19490319,14,2,20,19490507
+3,3,Forever And Ever,Perry Como,Perry Como,jazz,jazz,19490319,15,3,21,19490507
+4,12,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490430,12,1,22,19490507
+5,5,'A' You're Adorable,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,unknown,19490416,12,4,13,19490507
+6,6,Cruising Down The River,Blue Barron,Blue Barron,jazz,jazz,19490205,12,1,17,19490507
+7,7,Careless Hands,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19490226,13,7,17,19490507
+8,13,Again,Gordon Jenkins / Joe Graydon / Chorus,Gordon Jenkins / Joe Graydon / Chorus,pop,unknown,19490430,13,2,18,19490507
+9,9,Careless Hands,Mel Torme,Mel Torme,jazz,jazz,19490326,19,7,12,19490507
+10,8,Red Roses For A Blue Lady,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490205,17,4,16,19490507
+11,4,'A' You're Adorable,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19490430,4,4,8,19490507
+12,15,I Don't See Me In Your Eyes Anymore,Stardusters,Stardusters,pop,unknown,19490430,15,6,18,19490507
+13,18,Again,Mel Torme,Mel Torme,jazz,jazz,19490430,18,7,14,19490507
+14,11,So Tired,Russ Morgan,Russ Morgan,pop,russ morgan,19490108,13,4,19,19490507
+15,NEW,Need You,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19490507,15,13,5,19490507
+16,10,Sunflower,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,unknown,19490326,11,10,8,19490507
+17,17,Far Away Places,Perry Como,Perry Como,jazz,jazz,19490115,18,6,18,19490507
+18,NEW,Again,Vic Damone,Vic Damone,jazz,swing,19490507,18,11,8,19490507
+19,16,Red Roses For A Blue Lady,Guy Lombardo / Don Rodney,Guy Lombardo / Don Rodney,pop,unknown,19490319,16,10,9,19490507
+20,NEW,-,-,-,pop,mysterious,19490507,20,20,1,19490507
+1,1,Cruising Down The River,Russ Morgan,Russ Morgan,pop,russ morgan,19490226,15,1,20,19490430
+2,4,Forever And Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,unknown,19490319,14,2,20,19490430
+3,3,Forever And Ever,Perry Como,Perry Como,jazz,jazz,19490319,15,3,21,19490430
+4,NEW,'A' You're Adorable,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19490430,4,4,8,19490430
+5,9,'A' You're Adorable,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,unknown,19490416,12,4,13,19490430
+6,2,Cruising Down The River,Blue Barron,Blue Barron,jazz,jazz,19490205,12,1,17,19490430
+7,10,Careless Hands,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19490226,13,7,17,19490430
+8,5,Red Roses For A Blue Lady,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490205,17,4,16,19490430
+9,7,Careless Hands,Mel Torme,Mel Torme,jazz,jazz,19490326,19,7,12,19490430
+10,12,Sunflower,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,unknown,19490326,11,10,8,19490430
+11,6,So Tired,Russ Morgan,Russ Morgan,pop,russ morgan,19490108,13,4,19,19490430
+12,NEW,Riders In The Sky,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490430,12,1,22,19490430
+13,NEW,Again,Gordon Jenkins / Joe Graydon / Chorus,Gordon Jenkins / Joe Graydon / Chorus,pop,unknown,19490430,13,2,18,19490430
+14,8,Far Away Places,Bing Crosby,Bing Crosby,jazz,jazz,19490115,12,2,16,19490430
+15,NEW,I Don't See Me In Your Eyes Anymore,Stardusters,Stardusters,pop,unknown,19490430,15,6,18,19490430
+16,15,Red Roses For A Blue Lady,Guy Lombardo / Don Rodney,Guy Lombardo / Don Rodney,pop,unknown,19490319,16,10,9,19490430
+17,19,Far Away Places,Perry Como,Perry Como,jazz,jazz,19490115,18,6,18,19490430
+18,NEW,Again,Mel Torme,Mel Torme,jazz,jazz,19490430,18,7,14,19490430
+19,13,Galway Bay,Bing Crosby,Bing Crosby,jazz,jazz,19490129,14,3,14,19490430
+20,NEW,Blue Moon,Mel Torme,Mel Torme,jazz,jazz,19490430,20,20,1,19490430
+1,1,Cruising Down The River,Russ Morgan,Russ Morgan,pop,russ morgan,19490226,15,1,20,19490423
+2,2,Cruising Down The River,Blue Barron,Blue Barron,jazz,jazz,19490205,12,1,17,19490423
+3,6,Forever And Ever,Perry Como,Perry Como,jazz,jazz,19490319,15,3,21,19490423
+4,3,Forever And Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,unknown,19490319,14,2,20,19490423
+5,5,Red Roses For A Blue Lady,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490205,17,4,16,19490423
+6,4,So Tired,Russ Morgan,Russ Morgan,pop,russ morgan,19490108,13,4,19,19490423
+7,15,Careless Hands,Mel Torme,Mel Torme,jazz,jazz,19490326,19,7,12,19490423
+8,9,Far Away Places,Bing Crosby,Bing Crosby,jazz,jazz,19490115,12,2,16,19490423
+9,12,'A' You're Adorable,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,unknown,19490416,12,4,13,19490423
+10,8,Careless Hands,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19490226,13,7,17,19490423
+11,13,Need You,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19490416,13,11,2,19490423
+12,11,Sunflower,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,unknown,19490326,11,10,8,19490423
+13,7,Galway Bay,Bing Crosby,Bing Crosby,jazz,jazz,19490129,14,3,14,19490423
+14,NEW,Cruisng Down The River,Jack Smith,Jack Smith,pop,experimental,19490423,14,14,1,19490423
+15,14,Red Roses For A Blue Lady,Guy Lombardo / Don Rodney,Guy Lombardo / Don Rodney,pop,unknown,19490319,16,10,9,19490423
+16,19,Again,Vic Damone,Vic Damone,jazz,swing,19490416,19,16,2,19490423
+17,NEW,You You You Are The One,Russ Morgan,Russ Morgan,pop,russ morgan,19490423,17,17,1,19490423
+18,16,Blue Skirt Waltz,Frankie Yankovic,Frankie Yankovic,pop,polka,19490416,16,16,2,19490423
+19,18,Far Away Places,Perry Como,Perry Como,jazz,jazz,19490115,18,6,18,19490423
+20,NEW,Once In Love With Amy,Ray Bolger,Ray Bolger,pop,soundtrack,19490423,20,20,1,19490423
+1,1,Cruising Down The River,Russ Morgan,Russ Morgan,pop,russ morgan,19490226,15,1,20,19490416
+2,2,Cruising Down The River,Blue Barron,Blue Barron,jazz,jazz,19490205,12,1,17,19490416
+3,8,Forever And Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,unknown,19490319,14,2,20,19490416
+4,7,So Tired,Russ Morgan,Russ Morgan,pop,russ morgan,19490108,13,4,19,19490416
+5,4,Red Roses For A Blue Lady,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490205,17,4,16,19490416
+6,6,Forever And Ever,Perry Como,Perry Como,jazz,jazz,19490319,15,3,21,19490416
+7,3,Galway Bay,Bing Crosby,Bing Crosby,jazz,jazz,19490129,14,3,14,19490416
+8,9,Careless Hands,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19490226,13,7,17,19490416
+9,5,Far Away Places,Bing Crosby,Bing Crosby,jazz,jazz,19490115,12,2,16,19490416
+10,18,'A' You're Adorable,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19490409,18,10,2,19490416
+11,12,Sunflower,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,unknown,19490326,11,10,8,19490416
+12,NEW,'A' You're Adorable,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,unknown,19490416,12,4,13,19490416
+13,NEW,Need You,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19490416,13,11,2,19490416
+14,10,Red Roses For A Blue Lady,Guy Lombardo / Don Rodney,Guy Lombardo / Don Rodney,pop,unknown,19490319,16,10,9,19490416
+15,11,Careless Hands,Mel Torme,Mel Torme,jazz,jazz,19490326,19,7,12,19490416
+16,NEW,Blue Skirt Waltz,Frankie Yankovic,Frankie Yankovic,pop,polka,19490416,16,16,2,19490416
+17,13,Powder Your Face With Sunshine,Evelyn Knight,Evelyn Knight,jazz,jazz,19490108,18,3,15,19490416
+18,14,Far Away Places,Perry Como,Perry Como,jazz,jazz,19490115,18,6,18,19490416
+19,NEW,Again,Vic Damone,Vic Damone,jazz,swing,19490416,19,16,2,19490416
+20,15,Sunflower,Jack Fulton,Jack Fulton,pop,unknown,19490409,15,15,2,19490416
+1,1,Cruising Down The River,Russ Morgan,Russ Morgan,pop,russ morgan,19490226,15,1,20,19490409
+2,2,Cruising Down The River,Blue Barron,Blue Barron,jazz,jazz,19490205,12,1,17,19490409
+3,3,Galway Bay,Bing Crosby,Bing Crosby,jazz,jazz,19490129,14,3,14,19490409
+4,5,Red Roses For A Blue Lady,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490205,17,4,16,19490409
+5,4,Far Away Places,Bing Crosby,Bing Crosby,jazz,jazz,19490115,12,2,16,19490409
+6,7,Forever And Ever,Perry Como,Perry Como,jazz,jazz,19490319,15,3,21,19490409
+7,6,So Tired,Russ Morgan,Russ Morgan,pop,russ morgan,19490108,13,4,19,19490409
+8,8,Forever And Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,unknown,19490319,14,2,20,19490409
+9,11,Careless Hands,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19490226,13,7,17,19490409
+10,12,Red Roses For A Blue Lady,Guy Lombardo / Don Rodney,Guy Lombardo / Don Rodney,pop,unknown,19490319,16,10,9,19490409
+11,14,Careless Hands,Mel Torme,Mel Torme,jazz,jazz,19490326,19,7,12,19490409
+12,10,Sunflower,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,unknown,19490326,11,10,8,19490409
+13,9,Powder Your Face With Sunshine,Evelyn Knight,Evelyn Knight,jazz,jazz,19490108,18,3,15,19490409
+14,13,Far Away Places,Perry Como,Perry Como,jazz,jazz,19490115,18,6,18,19490409
+15,NEW,Sunflower,Jack Fulton,Jack Fulton,pop,unknown,19490409,15,15,2,19490409
+16,NEW,I Love You So Much It Hurts,Mills Brothers,Mills Brothers,jazz,jazz,19490409,16,16,1,19490409
+17,15,I've Got My Love To Keep Me Warm,Les Brown,Les Brown,jazz,jazz,19490115,19,7,13,19490409
+18,NEW,'A' You're Adorable,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19490409,18,10,2,19490409
+19,18,I've Got My Love To Keep Me Warm,Mills Brothers,Mills Brothers,jazz,jazz,19490226,17,12,7,19490409
+20,NEW,Cruising Down The River,Jack Smith,Jack Smith,pop,experimental,19490409,20,20,1,19490409
+1,1,Cruising Down The River,Russ Morgan,Russ Morgan,pop,russ morgan,19490226,15,1,20,19490402
+2,2,Cruising Down The River,Blue Barron,Blue Barron,jazz,jazz,19490205,12,1,17,19490402
+3,3,Galway Bay,Bing Crosby,Bing Crosby,jazz,jazz,19490129,14,3,14,19490402
+4,4,Far Away Places,Bing Crosby,Bing Crosby,jazz,jazz,19490115,12,2,16,19490402
+5,7,Red Roses For A Blue Lady,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490205,17,4,16,19490402
+6,5,So Tired,Russ Morgan,Russ Morgan,pop,russ morgan,19490108,13,4,19,19490402
+7,15,Forever And Ever,Perry Como,Perry Como,jazz,jazz,19490319,15,3,21,19490402
+8,18,Forever And Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,unknown,19490319,14,2,20,19490402
+9,6,Powder Your Face With Sunshine,Evelyn Knight,Evelyn Knight,jazz,jazz,19490108,18,3,15,19490402
+10,11,Sunflower,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,unknown,19490326,11,10,8,19490402
+11,9,Careless Hands,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19490226,13,7,17,19490402
+12,16,Red Roses For A Blue Lady,Guy Lombardo / Don Rodney,Guy Lombardo / Don Rodney,pop,unknown,19490319,16,10,9,19490402
+13,14,Far Away Places,Perry Como,Perry Como,jazz,jazz,19490115,18,6,18,19490402
+14,19,Careless Hands,Mel Torme,Mel Torme,jazz,jazz,19490326,19,7,12,19490402
+15,10,I've Got My Love To Keep Me Warm,Les Brown,Les Brown,jazz,jazz,19490115,19,7,13,19490402
+16,NEW,Powder Your Face With Sunshine,Sammy Kaye,Sammy Kaye,jazz,swing,19490402,16,16,1,19490402
+17,NEW,I Don't See Me In Your Eyes Anymore,Stardusters,Stardusters,pop,unknown,19490402,17,17,1,19490402
+18,13,I've Got My Love To Keep Me Warm,Mills Brothers,Mills Brothers,jazz,jazz,19490226,17,12,7,19490402
+19,12,A Little Bird Told Me,Evelyn Knight,Evelyn Knight,jazz,jazz,19481120,20,1,20,19490402
+20,NEW,Blue Skirt Waltz,Frankie Yankovic,Frankie Yankovic,pop,polka,19490402,20,20,1,19490402
+1,2,Cruising Down The River,Russ Morgan,Russ Morgan,pop,russ morgan,19490226,15,1,20,19490326
+2,1,Cruising Down The River,Blue Barron,Blue Barron,jazz,jazz,19490205,12,1,17,19490326
+3,3,Galway Bay,Bing Crosby,Bing Crosby,jazz,jazz,19490129,14,3,14,19490326
+4,4,Far Away Places,Bing Crosby,Bing Crosby,jazz,jazz,19490115,12,2,16,19490326
+5,7,So Tired,Russ Morgan,Russ Morgan,pop,russ morgan,19490108,13,4,19,19490326
+6,5,Powder Your Face With Sunshine,Evelyn Knight,Evelyn Knight,jazz,jazz,19490108,18,3,15,19490326
+7,6,Red Roses For A Blue Lady,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490205,17,4,16,19490326
+8,13,I Love You So Much It Hurts,Mills Brothers,Mills Brothers,jazz,jazz,19490219,18,8,6,19490326
+9,9,Careless Hands,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19490226,13,7,17,19490326
+10,10,I've Got My Love To Keep Me Warm,Les Brown,Les Brown,jazz,jazz,19490115,19,7,13,19490326
+11,NEW,Sunflower,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,unknown,19490326,11,10,8,19490326
+12,8,A Little Bird Told Me,Evelyn Knight,Evelyn Knight,jazz,jazz,19481120,20,1,20,19490326
+13,12,I've Got My Love To Keep Me Warm,Mills Brothers,Mills Brothers,jazz,jazz,19490226,17,12,7,19490326
+14,11,Far Away Places,Perry Como,Perry Como,jazz,jazz,19490115,18,6,18,19490326
+15,15,Forever And Ever,Perry Como,Perry Como,jazz,jazz,19490319,15,3,21,19490326
+16,16,Red Roses For A Blue Lady,Guy Lombardo / Don Rodney,Guy Lombardo / Don Rodney,pop,unknown,19490319,16,10,9,19490326
+17,NEW,Faraway Places,Margaret Whiting,Margaret Whiting,pop,40s,19490326,17,17,1,19490326
+18,14,Forever And Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,unknown,19490319,14,2,20,19490326
+19,NEW,Careless Hands,Mel Torme,Mel Torme,jazz,jazz,19490326,19,7,12,19490326
+20,NEW,Sunflower,Jack Fulton,Jack Fulton,pop,unknown,19490326,20,20,1,19490326
+1,1,Cruising Down The River,Blue Barron,Blue Barron,jazz,jazz,19490205,12,1,17,19490319
+2,4,Cruising Down The River,Russ Morgan,Russ Morgan,pop,russ morgan,19490226,15,1,20,19490319
+3,3,Galway Bay,Bing Crosby,Bing Crosby,jazz,jazz,19490129,14,3,14,19490319
+4,2,Far Away Places,Bing Crosby,Bing Crosby,jazz,jazz,19490115,12,2,16,19490319
+5,6,Powder Your Face With Sunshine,Evelyn Knight,Evelyn Knight,jazz,jazz,19490108,18,3,15,19490319
+6,8,Red Roses For A Blue Lady,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490205,17,4,16,19490319
+7,7,So Tired,Russ Morgan,Russ Morgan,pop,russ morgan,19490108,13,4,19,19490319
+8,5,A Little Bird Told Me,Evelyn Knight,Evelyn Knight,jazz,jazz,19481120,20,1,20,19490319
+9,14,Careless Hands,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19490226,13,7,17,19490319
+10,10,I've Got My Love To Keep Me Warm,Les Brown,Les Brown,jazz,jazz,19490115,19,7,13,19490319
+11,13,Far Away Places,Perry Como,Perry Como,jazz,jazz,19490115,18,6,18,19490319
+12,12,I've Got My Love To Keep Me Warm,Mills Brothers,Mills Brothers,jazz,jazz,19490226,17,12,7,19490319
+13,9,I Love You So Much It Hurts,Mills Brothers,Mills Brothers,jazz,jazz,19490219,18,8,6,19490319
+14,NEW,Forever And Ever,Russ Morgan / Skylarks,Russ Morgan / Skylarks,pop,unknown,19490319,14,2,20,19490319
+15,NEW,Forever And Ever,Perry Como,Perry Como,jazz,jazz,19490319,15,3,21,19490319
+16,NEW,Red Roses For A Blue Lady,Guy Lombardo / Don Rodney,Guy Lombardo / Don Rodney,pop,unknown,19490319,16,10,9,19490319
+17,15,Lavender Blue,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19481218,18,5,14,19490319
+18,NEW,Powder Your Face With Sunshine,Sammy Kaye / Kaydets,Sammy Kaye / Kaydets,pop,unknown,19490319,18,18,1,19490319
+19,19,Sweet Georgia Brown,Brother Bones And His Shadows,Brother Bones And His Shadows,pop,unknown,19490115,15,10,10,19490319
+20,11,Down By The Station,Tommy Dorsey,Tommy Dorsey,jazz,jazz,19490219,20,11,5,19490319
+1,2,Cruising Down The River,Blue Barron,Blue Barron,jazz,jazz,19490205,12,1,17,19490312
+2,3,Far Away Places,Bing Crosby,Bing Crosby,jazz,jazz,19490115,12,2,16,19490312
+3,5,Galway Bay,Bing Crosby,Bing Crosby,jazz,jazz,19490129,14,3,14,19490312
+4,6,Cruising Down The River,Russ Morgan,Russ Morgan,pop,russ morgan,19490226,15,1,20,19490312
+5,1,A Little Bird Told Me,Evelyn Knight,Evelyn Knight,jazz,jazz,19481120,20,1,20,19490312
+6,4,Powder Your Face With Sunshine,Evelyn Knight,Evelyn Knight,jazz,jazz,19490108,18,3,15,19490312
+7,12,So Tired,Russ Morgan,Russ Morgan,pop,russ morgan,19490108,13,4,19,19490312
+8,8,Red Roses For A Blue Lady,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490205,17,4,16,19490312
+9,11,I Love You So Much It Hurts,Mills Brothers,Mills Brothers,jazz,jazz,19490219,18,8,6,19490312
+10,7,I've Got My Love To Keep Me Warm,Les Brown,Les Brown,jazz,jazz,19490115,19,7,13,19490312
+11,19,Down By The Station,Tommy Dorsey,Tommy Dorsey,jazz,jazz,19490219,20,11,5,19490312
+12,13,I've Got My Love To Keep Me Warm,Mills Brothers,Mills Brothers,jazz,jazz,19490226,17,12,7,19490312
+13,10,Far Away Places,Perry Como,Perry Como,jazz,jazz,19490115,18,6,18,19490312
+14,16,Careless Hands,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19490226,13,7,17,19490312
+15,9,Lavender Blue,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19481218,18,5,14,19490312
+16,14,Far Away Places,Margaret Whiting,Margaret Whiting,pop,40s,19490115,8,3,9,19490312
+17,NEW,Crusing Down The River,Jack Smith / Clark Sisters,Jack Smith / Clark Sisters,pop,unknown,19490312,17,17,1,19490312
+18,NEW,Blue Room,Perry Como,Perry Como,jazz,jazz,19490312,18,18,1,19490312
+19,15,Sweet Georgia Brown,Brother Bones And His Shadows,Brother Bones And His Shadows,pop,unknown,19490115,15,10,10,19490312
+20,NEW,So In Love,Gordon Macrae,Gordon Macrae,jazz,jazz,19490312,20,20,1,19490312
+1,1,A Little Bird Told Me,Evelyn Knight,Evelyn Knight,jazz,jazz,19481120,20,1,20,19490305
+2,2,Cruising Down The River,Blue Barron,Blue Barron,jazz,jazz,19490205,12,1,17,19490305
+3,5,Far Away Places,Bing Crosby,Bing Crosby,jazz,jazz,19490115,12,2,16,19490305
+4,3,Powder Your Face With Sunshine,Evelyn Knight,Evelyn Knight,jazz,jazz,19490108,18,3,15,19490305
+5,4,Galway Bay,Bing Crosby,Bing Crosby,jazz,jazz,19490129,14,3,14,19490305
+6,15,Cruising Down The River,Russ Morgan,Russ Morgan,pop,russ morgan,19490226,15,1,20,19490305
+7,9,I've Got My Love To Keep Me Warm,Les Brown,Les Brown,jazz,jazz,19490115,19,7,13,19490305
+8,11,Red Roses For A Blue Lady,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490205,17,4,16,19490305
+9,8,Lavender Blue,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19481218,18,5,14,19490305
+10,6,Far Away Places,Perry Como,Perry Como,jazz,jazz,19490115,18,6,18,19490305
+11,10,I Love You So Much It Hurts,Mills Brothers,Mills Brothers,jazz,jazz,19490219,18,8,6,19490305
+12,7,So Tired,Russ Morgan,Russ Morgan,pop,russ morgan,19490108,13,4,19,19490305
+13,17,I've Got My Love To Keep Me Warm,Mills Brothers,Mills Brothers,jazz,jazz,19490226,17,12,7,19490305
+14,12,Far Away Places,Margaret Whiting,Margaret Whiting,pop,40s,19490115,8,3,9,19490305
+15,16,Sweet Georgia Brown,Brother Bones And His Shadows,Brother Bones And His Shadows,pop,unknown,19490115,15,10,10,19490305
+16,13,Careless Hands,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19490226,13,7,17,19490305
+17,14,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,jazz,19481002,18,1,23,19490305
+18,18,Powder Your Face With Sunshine,Sammy Kaye,Sammy Kaye,jazz,swing,19490212,18,14,4,19490305
+19,19,Down By The Station,Tommy Dorsey,Tommy Dorsey,jazz,jazz,19490219,20,11,5,19490305
+20,NEW,Down By The Station,Guy Lombardo,Guy Lombardo,jazz,jazz,19490305,20,20,1,19490305
+1,1,A Little Bird Told Me,Evelyn Knight,Evelyn Knight,jazz,jazz,19481120,20,1,20,19490226
+2,4,Cruising Down The River,Blue Barron,Blue Barron,jazz,jazz,19490205,12,1,17,19490226
+3,3,Powder Your Face With Sunshine,Evelyn Knight,Evelyn Knight,jazz,jazz,19490108,18,3,15,19490226
+4,8,Galway Bay,Bing Crosby,Bing Crosby,jazz,jazz,19490129,14,3,14,19490226
+5,2,Far Away Places,Bing Crosby,Bing Crosby,jazz,jazz,19490115,12,2,16,19490226
+6,11,Far Away Places,Perry Como,Perry Como,jazz,jazz,19490115,18,6,18,19490226
+7,7,So Tired,Russ Morgan,Russ Morgan,pop,russ morgan,19490108,13,4,19,19490226
+8,5,Lavender Blue,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19481218,18,5,14,19490226
+9,9,I've Got My Love To Keep Me Warm,Les Brown,Les Brown,jazz,jazz,19490115,19,7,13,19490226
+10,18,I Love You So Much It Hurts,Mills Brothers,Mills Brothers,jazz,jazz,19490219,18,8,6,19490226
+11,16,Red Roses For A Blue Lady,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490205,17,4,16,19490226
+12,10,Far Away Places,Margaret Whiting,Margaret Whiting,pop,40s,19490115,8,3,9,19490226
+13,NEW,Careless Hands,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19490226,13,7,17,19490226
+14,6,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,jazz,19481002,18,1,23,19490226
+15,NEW,Cruising Down The River,Russ Morgan,Russ Morgan,pop,russ morgan,19490226,15,1,20,19490226
+16,12,Sweet Georgia Brown,Brother Bones And His Shadows,Brother Bones And His Shadows,pop,unknown,19490115,15,10,10,19490226
+17,NEW,I've Got My Love To Keep Me Warm,Mills Brothers,Mills Brothers,jazz,jazz,19490226,17,12,7,19490226
+18,14,Powder Your Face With Sunshine,Sammy Kaye,Sammy Kaye,jazz,swing,19490212,18,14,4,19490226
+19,20,Down By The Station,Tommy Dorsey,Tommy Dorsey,jazz,jazz,19490219,20,11,5,19490226
+20,15,Lavender Blue,Dinah Shore,Dinah Shore,jazz,jazz,19490122,17,9,6,19490226
+1,1,A Little Bird Told Me,Evelyn Knight,Evelyn Knight,jazz,jazz,19481120,20,1,20,19490219
+2,2,Far Away Places,Bing Crosby,Bing Crosby,jazz,jazz,19490115,12,2,16,19490219
+3,4,Powder Your Face With Sunshine,Evelyn Knight,Evelyn Knight,jazz,jazz,19490108,18,3,15,19490219
+4,9,Cruising Down The River,Blue Barron,Blue Barron,jazz,jazz,19490205,12,1,17,19490219
+5,6,Lavender Blue,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19481218,18,5,14,19490219
+6,5,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,jazz,19481002,18,1,23,19490219
+7,13,So Tired,Russ Morgan,Russ Morgan,pop,russ morgan,19490108,13,4,19,19490219
+8,7,Galway Bay,Bing Crosby,Bing Crosby,jazz,jazz,19490129,14,3,14,19490219
+9,10,I've Got My Love To Keep Me Warm,Les Brown,Les Brown,jazz,jazz,19490115,19,7,13,19490219
+10,3,Far Away Places,Margaret Whiting,Margaret Whiting,pop,40s,19490115,8,3,9,19490219
+11,8,Far Away Places,Perry Como,Perry Como,jazz,jazz,19490115,18,6,18,19490219
+12,11,Sweet Georgia Brown,Brother Bones And His Shadows,Brother Bones And His Shadows,pop,unknown,19490115,15,10,10,19490219
+13,14,My Darling My Darling,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19481113,18,3,15,19490219
+14,18,Powder Your Face With Sunshine,Sammy Kaye,Sammy Kaye,jazz,swing,19490212,18,14,4,19490219
+15,17,Lavender Blue,Dinah Shore,Dinah Shore,jazz,jazz,19490122,17,9,6,19490219
+16,15,Red Roses For A Blue Lady,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490205,17,4,16,19490219
+17,12,The Pussy Cat Song,Patty Andrews / Bob Crosby,Patty Andrews / Bob Crosby,pop,unknown,19490122,18,12,5,19490219
+18,NEW,I Love You So Much It Hurts,Mills Brothers,Mills Brothers,jazz,jazz,19490219,18,8,6,19490219
+19,19,Gloria,Mills Brothers,Mills Brothers,jazz,jazz,19490212,19,19,2,19490219
+20,NEW,Down By The Station,Tommy Dorsey,Tommy Dorsey,jazz,jazz,19490219,20,11,5,19490219
+1,1,A Little Bird Told Me,Evelyn Knight,Evelyn Knight,jazz,jazz,19481120,20,1,20,19490212
+2,3,Far Away Places,Bing Crosby,Bing Crosby,jazz,jazz,19490115,12,2,16,19490212
+3,6,Far Away Places,Margaret Whiting,Margaret Whiting,pop,40s,19490115,8,3,9,19490212
+4,4,Powder Your Face With Sunshine,Evelyn Knight,Evelyn Knight,jazz,jazz,19490108,18,3,15,19490212
+5,2,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,jazz,19481002,18,1,23,19490212
+6,7,Lavender Blue,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19481218,18,5,14,19490212
+7,15,Galway Bay,Bing Crosby,Bing Crosby,jazz,jazz,19490129,14,3,14,19490212
+8,11,Far Away Places,Perry Como,Perry Como,jazz,jazz,19490115,18,6,18,19490212
+9,12,Cruising Down The River,Blue Barron,Blue Barron,jazz,jazz,19490205,12,1,17,19490212
+10,14,I've Got My Love To Keep Me Warm,Les Brown,Les Brown,jazz,jazz,19490115,19,7,13,19490212
+11,10,Sweet Georgia Brown,Brother Bones And His Shadows,Brother Bones And His Shadows,pop,unknown,19490115,15,10,10,19490212
+12,20,The Pussy Cat Song,Patty Andrews / Bob Crosby,Patty Andrews / Bob Crosby,pop,unknown,19490122,18,12,5,19490212
+13,13,So Tired,Russ Morgan,Russ Morgan,pop,russ morgan,19490108,13,4,19,19490212
+14,5,My Darling My Darling,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19481113,18,3,15,19490212
+15,17,Red Roses For A Blue Lady,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490205,17,4,16,19490212
+16,8,On A Slow Boat To China,Kay Kyser / Harry Babbitt / Gloria Wood,Kay Kyser / Harry Babbitt / Gloria Wood,pop,unknown,19481023,20,2,17,19490212
+17,9,Lavender Blue,Dinah Shore,Dinah Shore,jazz,jazz,19490122,17,9,6,19490212
+18,NEW,Powder Your Face With Sunshine,Sammy Kaye,Sammy Kaye,jazz,swing,19490212,18,14,4,19490212
+19,NEW,Gloria,Mills Brothers,Mills Brothers,jazz,jazz,19490212,19,19,2,19490212
+20,19,Buttons & Bows,Dinning Sisters / Art Van Damme Quartet,Dinning Sisters / Art Van Damme Quartet,pop,unknown,19490108,7,7,6,19490212
+1,1,A Little Bird Told Me,Evelyn Knight,Evelyn Knight,jazz,jazz,19481120,20,1,20,19490205
+2,2,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,jazz,19481002,18,1,23,19490205
+3,7,Far Away Places,Bing Crosby,Bing Crosby,jazz,jazz,19490115,12,2,16,19490205
+4,6,Powder Your Face With Sunshine,Evelyn Knight,Evelyn Knight,jazz,jazz,19490108,18,3,15,19490205
+5,4,My Darling My Darling,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19481113,18,3,15,19490205
+6,5,Far Away Places,Margaret Whiting,Margaret Whiting,pop,40s,19490115,8,3,9,19490205
+7,9,Lavender Blue,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19481218,18,5,14,19490205
+8,3,On A Slow Boat To China,Kay Kyser / Harry Babbitt / Gloria Wood,Kay Kyser / Harry Babbitt / Gloria Wood,pop,unknown,19481023,20,2,17,19490205
+9,19,Lavender Blue,Dinah Shore,Dinah Shore,jazz,jazz,19490122,17,9,6,19490205
+10,13,Sweet Georgia Brown,Brother Bones And His Shadows,Brother Bones And His Shadows,pop,unknown,19490115,15,10,10,19490205
+11,12,Far Away Places,Perry Como,Perry Como,jazz,jazz,19490115,18,6,18,19490205
+12,NEW,Cruising Down The River,Blue Barron,Blue Barron,jazz,jazz,19490205,12,1,17,19490205
+13,8,So Tired,Russ Morgan,Russ Morgan,pop,russ morgan,19490108,13,4,19,19490205
+14,10,I've Got My Love To Keep Me Warm,Les Brown,Les Brown,jazz,jazz,19490115,19,7,13,19490205
+15,14,Galway Bay,Bing Crosby,Bing Crosby,jazz,jazz,19490129,14,3,14,19490205
+16,11,On A Slow Boat To China,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,unknown,19481106,17,5,14,19490205
+17,NEW,Red Roses For A Blue Lady,Vaughn Monroe,Vaughn Monroe,jazz,swing,19490205,17,4,16,19490205
+18,NEW,A Little Bird Told Me,Blue Lu Barker,Blue Lu Barker,rock,blues,19490205,18,18,1,19490205
+19,16,Buttons & Bows,Dinning Sisters / Art Van Damme Quartet,Dinning Sisters / Art Van Damme Quartet,pop,unknown,19490108,7,7,6,19490205
+20,15,The Pussy Cat Song,Patty Andrews / Bob Crosby,Patty Andrews / Bob Crosby,pop,unknown,19490122,18,12,5,19490205
+1,1,A Little Bird Told Me,Evelyn Knight,Evelyn Knight,jazz,jazz,19481120,20,1,20,19490129
+2,2,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,jazz,19481002,18,1,23,19490129
+3,3,On A Slow Boat To China,Kay Kyser / Harry Babbitt / Gloria Wood,Kay Kyser / Harry Babbitt / Gloria Wood,pop,unknown,19481023,20,2,17,19490129
+4,4,My Darling My Darling,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19481113,18,3,15,19490129
+5,5,Far Away Places,Margaret Whiting,Margaret Whiting,pop,40s,19490115,8,3,9,19490129
+6,9,Powder Your Face With Sunshine,Evelyn Knight,Evelyn Knight,jazz,jazz,19490108,18,3,15,19490129
+7,8,Far Away Places,Bing Crosby,Bing Crosby,jazz,jazz,19490115,12,2,16,19490129
+8,11,So Tired,Russ Morgan,Russ Morgan,pop,russ morgan,19490108,13,4,19,19490129
+9,6,Lavender Blue,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19481218,18,5,14,19490129
+10,15,I've Got My Love To Keep Me Warm,Les Brown,Les Brown,jazz,jazz,19490115,19,7,13,19490129
+11,7,On A Slow Boat To China,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,unknown,19481106,17,5,14,19490129
+12,10,Far Away Places,Perry Como,Perry Como,jazz,jazz,19490115,18,6,18,19490129
+13,13,Sweet Georgia Brown,Brother Bones And His Shadows,Brother Bones And His Shadows,pop,unknown,19490115,15,10,10,19490129
+14,NEW,Galway Bay,Bing Crosby,Bing Crosby,jazz,jazz,19490129,14,3,14,19490129
+15,18,The Pussy Cat Song,Patty Andrews / Bob Crosby,Patty Andrews / Bob Crosby,pop,unknown,19490122,18,12,5,19490129
+16,14,Buttons & Bows,Dinning Sisters / Art Van Damme Quartet,Dinning Sisters / Art Van Damme Quartet,pop,unknown,19490108,7,7,6,19490129
+17,20,On A Slow Boat To China,Benny Goodman / Al Hendrickson,Benny Goodman / Al Hendrickson,pop,unknown,19490101,10,10,5,19490129
+18,NEW,Gloria,Mills Brothers,Mills Brothers,jazz,jazz,19490129,18,18,1,19490129
+19,17,Lavender Blue,Dinah Shore,Dinah Shore,jazz,jazz,19490122,17,9,6,19490129
+20,12,My Darling My Darling,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,unknown,19481204,11,7,9,19490129
+1,2,A Little Bird Told Me,Evelyn Knight,Evelyn Knight,jazz,jazz,19481120,20,1,20,19490122
+2,1,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,jazz,19481002,18,1,23,19490122
+3,3,On A Slow Boat To China,Kay Kyser / Harry Babbitt / Gloria Wood,Kay Kyser / Harry Babbitt / Gloria Wood,pop,unknown,19481023,20,2,17,19490122
+4,4,My Darling My Darling,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19481113,18,3,15,19490122
+5,8,Far Away Places,Margaret Whiting,Margaret Whiting,pop,40s,19490115,8,3,9,19490122
+6,6,Lavender Blue,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19481218,18,5,14,19490122
+7,7,On A Slow Boat To China,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,unknown,19481106,17,5,14,19490122
+8,12,Far Away Places,Bing Crosby,Bing Crosby,jazz,jazz,19490115,12,2,16,19490122
+9,9,Powder Your Face With Sunshine,Evelyn Knight,Evelyn Knight,jazz,jazz,19490108,18,3,15,19490122
+10,18,Far Away Places,Perry Como,Perry Como,jazz,jazz,19490115,18,6,18,19490122
+11,14,So Tired,Russ Morgan,Russ Morgan,pop,russ morgan,19490108,13,4,19,19490122
+12,13,My Darling My Darling,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,unknown,19481204,11,7,9,19490122
+13,15,Sweet Georgia Brown,Brother Bones And His Shadows,Brother Bones And His Shadows,pop,unknown,19490115,15,10,10,19490122
+14,10,Buttons & Bows,Dinning Sisters / Art Van Damme Quartet,Dinning Sisters / Art Van Damme Quartet,pop,unknown,19490108,7,7,6,19490122
+15,19,I've Got My Love To Keep Me Warm,Les Brown,Les Brown,jazz,jazz,19490115,19,7,13,19490122
+16,20,A Little Bird Told Me,Blue Lu Barker,Blue Lu Barker,rock,blues,19490108,17,16,3,19490122
+17,NEW,Lavender Blue,Dinah Shore,Dinah Shore,jazz,jazz,19490122,17,9,6,19490122
+18,NEW,The Pussy Cat Song,Patty Andrews / Bob Crosby,Patty Andrews / Bob Crosby,pop,unknown,19490122,18,12,5,19490122
+19,16,Cuanto La Gusta,Carmen Miranda / Andrews Sisters,Carmen Miranda / Andrews Sisters,pop,unknown,19490115,16,16,2,19490122
+20,17,On A Slow Boat To China,Benny Goodman / Al Hendrickson,Benny Goodman / Al Hendrickson,pop,unknown,19490101,10,10,5,19490122
+1,2,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,jazz,19481002,18,1,23,19490115
+2,4,A Little Bird Told Me,Evelyn Knight,Evelyn Knight,jazz,jazz,19481120,20,1,20,19490115
+3,3,On A Slow Boat To China,Kay Kyser / Harry Babbitt / Gloria Wood,Kay Kyser / Harry Babbitt / Gloria Wood,pop,unknown,19481023,20,2,17,19490115
+4,5,My Darling My Darling,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19481113,18,3,15,19490115
+5,1,All I Want For Christmas (Is My Two Front Teeth),Spike Jones,Spike Jones,pop,comedy,19481127,17,1,8,19490115
+6,10,Lavender Blue,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19481218,18,5,14,19490115
+7,8,On A Slow Boat To China,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,unknown,19481106,17,5,14,19490115
+8,NEW,Far Away Places,Margaret Whiting,Margaret Whiting,pop,40s,19490115,8,3,9,19490115
+9,18,Powder Your Face With Sunshine,Evelyn Knight,Evelyn Knight,jazz,jazz,19490108,18,3,15,19490115
+10,7,Buttons & Bows,Dinning Sisters / Art Van Damme Quartet,Dinning Sisters / Art Van Damme Quartet,pop,unknown,19490108,7,7,6,19490115
+11,14,Until,Tommy Dorsey / Harry Prime / Clark Sisters,Tommy Dorsey / Harry Prime / Clark Sisters,pop,unknown,19480918,15,6,18,19490115
+12,NEW,Far Away Places,Bing Crosby,Bing Crosby,jazz,jazz,19490115,12,2,16,19490115
+13,11,My Darling My Darling,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,unknown,19481204,11,7,9,19490115
+14,13,So Tired,Russ Morgan,Russ Morgan,pop,russ morgan,19490108,13,4,19,19490115
+15,NEW,Sweet Georgia Brown,Brother Bones And His Shadows,Brother Bones And His Shadows,pop,unknown,19490115,15,10,10,19490115
+16,NEW,Cuanto La Gusta,Carmen Miranda / Andrews Sisters,Carmen Miranda / Andrews Sisters,pop,unknown,19490115,16,16,2,19490115
+17,12,On A Slow Boat To China,Benny Goodman / Al Hendrickson,Benny Goodman / Al Hendrickson,pop,unknown,19490101,10,10,5,19490115
+18,NEW,Far Away Places,Perry Como,Perry Como,jazz,jazz,19490115,18,6,18,19490115
+19,NEW,I've Got My Love To Keep Me Warm,Les Brown,Les Brown,jazz,jazz,19490115,19,7,13,19490115
+20,17,A Little Bird Told Me,Blue Lu Barker,Blue Lu Barker,rock,blues,19490108,17,16,3,19490115
+1,2,All I Want For Christmas (Is My Two Front Teeth),Spike Jones,Spike Jones,pop,comedy,19481127,17,1,8,19490108
+2,1,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,jazz,19481002,18,1,23,19490108
+3,4,On A Slow Boat To China,Kay Kyser / Harry Babbitt / Gloria Wood,Kay Kyser / Harry Babbitt / Gloria Wood,pop,unknown,19481023,20,2,17,19490108
+4,3,A Little Bird Told Me,Evelyn Knight,Evelyn Knight,jazz,jazz,19481120,20,1,20,19490108
+5,5,My Darling My Darling,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19481113,18,3,15,19490108
+6,7,White Christmas,Bing Crosby,Bing Crosby,jazz,jazz,19481218,11,6,4,19490108
+7,NEW,Buttons & Bows,Dinning Sisters / Art Van Damme Quartet,Dinning Sisters / Art Van Damme Quartet,pop,unknown,19490108,7,7,6,19490108
+8,6,On A Slow Boat To China,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,unknown,19481106,17,5,14,19490108
+9,8,Here Comes Santa Claus,Gene Autry,Gene Autry,country / folk,country,19481211,19,8,5,19490108
+10,20,Lavender Blue,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19481218,18,5,14,19490108
+11,9,My Darling My Darling,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,unknown,19481204,11,7,9,19490108
+12,10,On A Slow Boat To China,Benny Goodman / Al Hendrickson,Benny Goodman / Al Hendrickson,pop,unknown,19490101,10,10,5,19490108
+13,NEW,So Tired,Russ Morgan,Russ Morgan,pop,russ morgan,19490108,13,4,19,19490108
+14,19,Until,Tommy Dorsey / Harry Prime / Clark Sisters,Tommy Dorsey / Harry Prime / Clark Sisters,pop,unknown,19480918,15,6,18,19490108
+15,NEW,Buttons & Bows,Betty Rhodes,Betty Rhodes,jazz,jazz,19490108,15,15,1,19490108
+16,17,You Were Only Fooling,Blue Barron / Clyde Burke,Blue Barron / Clyde Burke,pop,unknown,19481023,16,9,12,19490108
+17,NEW,A Little Bird Told Me,Blue Lu Barker,Blue Lu Barker,rock,blues,19490108,17,16,3,19490108
+18,NEW,Powder Your Face With Sunshine,Evelyn Knight,Evelyn Knight,jazz,jazz,19490108,18,3,15,19490108
+19,NEW,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,unknown,19490108,19,19,1,19490108
+20,NEW,My Darling My Darling,Peter Lind Hayes / Stardusters,Peter Lind Hayes / Stardusters,pop,unknown,19490108,20,20,1,19490108
+1,1,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,jazz,19481002,18,1,23,19490101
+2,2,All I Want For Christmas (Is My Two Front Teeth),Spike Jones,Spike Jones,pop,comedy,19481127,17,1,8,19490101
+3,4,A Little Bird Told Me,Evelyn Knight,Evelyn Knight,jazz,jazz,19481120,20,1,20,19490101
+4,3,On A Slow Boat To China,Kay Kyser / Harry Babbitt / Gloria Wood,Kay Kyser / Harry Babbitt / Gloria Wood,pop,unknown,19481023,20,2,17,19490101
+5,5,My Darling My Darling,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19481113,18,3,15,19490101
+6,6,On A Slow Boat To China,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,unknown,19481106,17,5,14,19490101
+7,7,White Christmas,Bing Crosby,Bing Crosby,jazz,jazz,19481218,11,6,4,19490101
+8,14,Here Comes Santa Claus,Gene Autry,Gene Autry,country / folk,country,19481211,19,8,5,19490101
+9,10,My Darling My Darling,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,unknown,19481204,11,7,9,19490101
+10,NEW,On A Slow Boat To China,Benny Goodman / Al Hendrickson,Benny Goodman / Al Hendrickson,pop,unknown,19490101,10,10,5,19490101
+11,NEW,I]ve Got My Love To Keep Me Warm,Les Brown,Les Brown,jazz,jazz,19490101,11,11,1,19490101
+12,NEW,You're All I Want For Christmas,Frankie Laine,Frankie Laine,country / folk,country,19490101,12,12,1,19490101
+13,15,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,jazz,19480703,14,1,27,19490101
+14,NEW,Far Away Places,Margaret Whiting,Margaret Whiting,pop,40s,19490101,14,14,1,19490101
+15,12,On A Slow Boat To China,Eddy Howard,Eddy Howard,jazz,jazz,19481127,13,12,6,19490101
+16,NEW,You Were Only Foolin',Kay Starr,Kay Starr,jazz,jazz,19490101,16,16,1,19490101
+17,11,You Were Only Fooling,Blue Barron / Clyde Burke,Blue Barron / Clyde Burke,pop,unknown,19481023,16,9,12,19490101
+18,NEW,Gloria,Mills Brothers,Mills Brothers,jazz,jazz,19490101,18,18,1,19490101
+19,9,Until,Tommy Dorsey / Harry Prime / Clark Sisters,Tommy Dorsey / Harry Prime / Clark Sisters,pop,unknown,19480918,15,6,18,19490101
+20,13,Lavender Blue,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19481218,18,5,14,19490101

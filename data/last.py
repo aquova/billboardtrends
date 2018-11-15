@@ -11,6 +11,7 @@ from requests_oauthlib import OAuth1
 API_KEY = '9bf80dfdb834452add05f33d8e735316'
 API_SECRET = 'b0a55ce0e0f89e575432e7a0e2b4c6be'
 genre_cache = {}
+clean_genre_cache = {}
 
 def main():
     clean_rows = []
@@ -55,9 +56,9 @@ def main():
 
             artist = row[5]
 
-            clean_genre, clean_artist = get_genre(artist)
+            genre, clean_genre, clean_artist = get_genre(artist)
 
-            clean_rows.append({ 'this_week_position':row[0], 'last_week_position':row[1], 'track':row[4], 'artist':row[5].title(), 'clean_artist':clean_artist.title(), 'genre':clean_genre,
+            clean_rows.append({ 'this_week_position':row[0], 'last_week_position':row[1], 'track':row[4], 'artist':row[5].title(), 'clean_artist':clean_artist.title(), 'clean_genre':clean_genre, 'genre':genre,
                                 'entry_date':re.sub('\-','',row[6]), 'entry_position':row[7], 'peak_position':row[8], 'total_weeks':row[9], 'chart_date':chart_date })
 
             print(f'Building {this_year}.csv (on month {chart_date[4:6]}) { animation[load_count % len(animation)] } ', end='\r')
@@ -79,7 +80,7 @@ def get_genre(artist):
     }
 
     if artist in genre_cache:
-        return genre_cache[artist], artist
+        return genre_cache[artist], clean_genre_cache[artist], artist
 
     r = requests.get('http://ws.audioscrobbler.com/2.0', params=payload)
     top_tags = json.loads(r.content)
@@ -102,14 +103,15 @@ def get_genre(artist):
         }
 
         if artist in genre_cache:
-            return genre_cache[artist], artist
+            return genre_cache[artist], clean_genre_cache[artist], artist
 
         r = requests.get('http://ws.audioscrobbler.com/2.0', params=payload)
         top_tags = json.loads(r.content)
 
         if 'toptags' not in top_tags or len(top_tags['toptags']['tag']) == 0:
-            genre_cache[artist] = 'pop'
-            return 'pop', artist
+            genre_cache[artist] = 'unknown'
+            clean_genre_cache[artist] = 'pop'
+            return 'unknown','pop', artist
 
 
     genre = top_tags['toptags']['tag'][0]['name']
@@ -136,9 +138,10 @@ def get_genre(artist):
     else:
         clean_genre = 'pop'
 
-    genre_cache[artist] = clean_genre
+    genre_cache[artist] = genre
+    clean_genre_cache[artist] = clean_genre
 
-    return clean_genre, artist
+    return genre, clean_genre, artist
 
 
 

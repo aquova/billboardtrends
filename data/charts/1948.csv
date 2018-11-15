@@ -1,931 +1,931 @@
-this_week_position,last_week_position,track,artist,clean_artist,genre,entry_date,entry_position,peak_position,total_weeks,chart_date
-1,1,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,19481002,18,1,23,19481225
-2,3,All I Want For Christmas (Is My Two Front Teeth),Spike Jones,Spike Jones,pop,19481127,17,1,8,19481225
-3,2,On A Slow Boat To China,Kay Kyser / Harry Babbitt / Gloria Wood,Kay Kyser / Harry Babbitt / Gloria Wood,pop,19481023,20,2,17,19481225
-4,5,A Little Bird Told Me,Evelyn Knight,Evelyn Knight,jazz,19481120,20,1,20,19481225
-5,4,My Darling My Darling,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19481113,18,3,15,19481225
-6,6,On A Slow Boat To China,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,19481106,17,5,14,19481225
-7,11,White Christmas,Bing Crosby,Bing Crosby,jazz,19481218,11,6,4,19481225
-8,10,Buttons And Bows,Dinning Sisters,Dinning Sisters,pop,19481106,8,7,8,19481225
-9,12,Until,Tommy Dorsey / Harry Prime / Clark Sisters,Tommy Dorsey / Harry Prime / Clark Sisters,pop,19480918,15,6,18,19481225
-10,7,My Darling My Darling,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,19481204,11,7,9,19481225
-11,13,You Were Only Fooling,Blue Barron / Clyde Burke,Blue Barron / Clyde Burke,pop,19481023,16,9,12,19481225
-12,15,On A Slow Boat To China,Eddy Howard,Eddy Howard,jazz,19481127,13,12,6,19481225
-13,18,Lavender Blue,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19481218,18,5,14,19481225
-14,9,Here Comes Santa Claus,Gene Autry,Gene Autry,country / folk,19481211,19,8,5,19481225
-15,8,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,19480703,14,1,27,19481225
-16,NEW,Powder Your Face With Sunshine,Evelyn Knight,Evelyn Knight,jazz,19481225,16,16,1,19481225
-17,NEW,Cuanto la gusta,Carmen Miranda / Andrews Sisters,Carmen Miranda / Andrews Sisters,pop,19481225,17,17,1,19481225
-18,NEW,So Tired,Russ Morgan,Russ Morgan,pop,19481225,18,18,1,19481225
-19,NEW,Sweet Georgia Brown,Brother Bones And His Shadows,Brother Bones And His Shadows,pop,19481225,19,19,1,19481225
-20,20,On A Slow Boat To China,Art Lund,Art Lund,jazz,19481120,13,13,6,19481225
-1,1,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,19481002,18,1,23,19481218
-2,2,On A Slow Boat To China,Kay Kyser / Harry Babbitt / Gloria Wood,Kay Kyser / Harry Babbitt / Gloria Wood,pop,19481023,20,2,17,19481218
-3,4,All I Want For Christmas (Is My Two Front Teeth),Spike Jones,Spike Jones,pop,19481127,17,1,8,19481218
-4,3,My Darling My Darling,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19481113,18,3,15,19481218
-5,7,A Little Bird Told Me,Evelyn Knight,Evelyn Knight,jazz,19481120,20,1,20,19481218
-6,5,On A Slow Boat To China,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,19481106,17,5,14,19481218
-7,9,My Darling My Darling,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,19481204,11,7,9,19481218
-8,6,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,19480703,14,1,27,19481218
-9,19,Here Comes Santa Claus,Gene Autry,Gene Autry,country / folk,19481211,19,8,5,19481218
-10,10,Buttons And Bows,Dinning Sisters,Dinning Sisters,pop,19481106,8,7,8,19481218
-11,NEW,White Christmas,Bing Crosby,Bing Crosby,jazz,19481218,11,6,4,19481218
-12,13,Until,Tommy Dorsey / Harry Prime / Clark Sisters,Tommy Dorsey / Harry Prime / Clark Sisters,pop,19480918,15,6,18,19481218
-13,11,You Were Only Fooling,Blue Barron / Clyde Burke,Blue Barron / Clyde Burke,pop,19481023,16,9,12,19481218
-14,8,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,19480626,20,3,26,19481218
-15,15,On A Slow Boat To China,Eddy Howard,Eddy Howard,jazz,19481127,13,12,6,19481218
-16,16,A Little Bird Told Me,Paula Watson,Paula Watson,pop,19481204,14,14,3,19481218
-17,14,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,19480717,17,1,23,19481218
-18,NEW,Lavender Blue,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19481218,18,5,14,19481218
-19,12,On A Slow Boat To China,Benny Goodman / Al Hendrickson,Benny Goodman / Al Hendrickson,pop,19481204,19,12,3,19481218
-20,20,On A Slow Boat To China,Art Lund,Art Lund,jazz,19481120,13,13,6,19481218
-1,1,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,19481002,18,1,23,19481211
-2,2,On A Slow Boat To China,Kay Kyser / Harry Babbitt / Gloria Wood,Kay Kyser / Harry Babbitt / Gloria Wood,pop,19481023,20,2,17,19481211
-3,6,My Darling My Darling,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19481113,18,3,15,19481211
-4,12,All I Want For Christmas (Is My Two Front Teeth),Spike Jones,Spike Jones,pop,19481127,17,1,8,19481211
-5,5,On A Slow Boat To China,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,19481106,17,5,14,19481211
-6,3,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,19480703,14,1,27,19481211
-7,8,A Little Bird Told Me,Evelyn Knight,Evelyn Knight,jazz,19481120,20,1,20,19481211
-8,4,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,19480626,20,3,26,19481211
-9,11,My Darling My Darling,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,19481204,11,7,9,19481211
-10,7,Buttons And Bows,Dinning Sisters,Dinning Sisters,pop,19481106,8,7,8,19481211
-11,13,You Were Only Fooling,Blue Barron / Clyde Burke,Blue Barron / Clyde Burke,pop,19481023,16,9,12,19481211
-12,19,On A Slow Boat To China,Benny Goodman / Al Hendrickson,Benny Goodman / Al Hendrickson,pop,19481204,19,12,3,19481211
-13,10,Until,Tommy Dorsey / Harry Prime / Clark Sisters,Tommy Dorsey / Harry Prime / Clark Sisters,pop,19480918,15,6,18,19481211
-14,9,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,19480717,17,1,23,19481211
-15,16,On A Slow Boat To China,Eddy Howard,Eddy Howard,jazz,19481127,13,12,6,19481211
-16,14,A Little Bird Told Me,Paula Watson,Paula Watson,pop,19481204,14,14,3,19481211
-17,15,Cuanto La Gusta,Carmen Miranda / Andrews Sisters,Carmen Miranda / Andrews Sisters,pop,19481106,15,12,6,19481211
-18,NEW,Sweet Georgia Brown,Brother Bones And His Shadows,Brother Bones And His Shadows,pop,19481211,18,18,1,19481211
-19,NEW,Here Comes Santa Claus,Gene Autry,Gene Autry,country / folk,19481211,19,8,5,19481211
-20,20,On A Slow Boat To China,Art Lund,Art Lund,jazz,19481120,13,13,6,19481211
-1,1,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,19481002,18,1,23,19481204
-2,2,On A Slow Boat To China,Kay Kyser / Harry Babbitt / Gloria Wood,Kay Kyser / Harry Babbitt / Gloria Wood,pop,19481023,20,2,17,19481204
-3,3,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,19480703,14,1,27,19481204
-4,5,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,19480626,20,3,26,19481204
-5,6,On A Slow Boat To China,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,19481106,17,5,14,19481204
-6,4,My Darling My Darling,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19481113,18,3,15,19481204
-7,8,Buttons And Bows,Dinning Sisters,Dinning Sisters,pop,19481106,8,7,8,19481204
-8,9,A Little Bird Told Me,Evelyn Knight,Evelyn Knight,jazz,19481120,20,1,20,19481204
-9,7,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,19480717,17,1,23,19481204
-10,11,Until,Tommy Dorsey / Harry Prime / Clark Sisters,Tommy Dorsey / Harry Prime / Clark Sisters,pop,19480918,15,6,18,19481204
-11,NEW,My Darling My Darling,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,19481204,11,7,9,19481204
-12,17,All I Want For Christmas (Is My Two Front Teeth),Spike Jones,Spike Jones,pop,19481127,17,1,8,19481204
-13,10,You Were Only Fooling,Blue Barron / Clyde Burke,Blue Barron / Clyde Burke,pop,19481023,16,9,12,19481204
-14,NEW,A Little Bird Told Me,Paula Watson,Paula Watson,pop,19481204,14,14,3,19481204
-15,12,Cuanto La Gusta,Carmen Miranda / Andrews Sisters,Carmen Miranda / Andrews Sisters,pop,19481106,15,12,6,19481204
-16,13,On A Slow Boat To China,Eddy Howard,Eddy Howard,jazz,19481127,13,12,6,19481204
-17,15,Hair Of Gold Eyes Of Blue,Gordon Macrae,Gordon Macrae,jazz,19481009,18,10,9,19481204
-18,NEW,You Were Only Fooling,Ink Spots,Ink Spots,jazz,19481204,18,18,1,19481204
-19,NEW,On A Slow Boat To China,Benny Goodman / Al Hendrickson,Benny Goodman / Al Hendrickson,pop,19481204,19,12,3,19481204
-20,16,On A Slow Boat To China,Art Lund,Art Lund,jazz,19481120,13,13,6,19481204
-1,1,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,19481002,18,1,23,19481127
-2,3,On A Slow Boat To China,Kay Kyser / Harry Babbitt / Gloria Wood,Kay Kyser / Harry Babbitt / Gloria Wood,pop,19481023,20,2,17,19481127
-3,2,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,19480703,14,1,27,19481127
-4,7,My Darling My Darling,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19481113,18,3,15,19481127
-5,5,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,19480626,20,3,26,19481127
-6,6,On A Slow Boat To China,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,19481106,17,5,14,19481127
-7,4,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,19480717,17,1,23,19481127
-8,9,Buttons And Bows,Dinning Sisters,Dinning Sisters,pop,19481106,8,7,8,19481127
-9,20,A Little Bird Told Me,Evelyn Knight,Evelyn Knight,jazz,19481120,20,1,20,19481127
-10,11,You Were Only Fooling,Blue Barron / Clyde Burke,Blue Barron / Clyde Burke,pop,19481023,16,9,12,19481127
-11,8,Until,Tommy Dorsey / Harry Prime / Clark Sisters,Tommy Dorsey / Harry Prime / Clark Sisters,pop,19480918,15,6,18,19481127
-12,16,Cuanto La Gusta,Carmen Miranda / Andrews Sisters,Carmen Miranda / Andrews Sisters,pop,19481106,15,12,6,19481127
-13,NEW,On A Slow Boat To China,Eddy Howard,Eddy Howard,jazz,19481127,13,12,6,19481127
-14,17,That Certain Party,Benny Strong,Benny Strong,pop,19481023,17,12,6,19481127
-15,12,Hair Of Gold Eyes Of Blue,Gordon Macrae,Gordon Macrae,jazz,19481009,18,10,9,19481127
-16,13,On A Slow Boat To China,Art Lund,Art Lund,jazz,19481120,13,13,6,19481127
-17,NEW,All I Want For Christmas (Is My Two Front Teeth),Spike Jones,Spike Jones,pop,19481127,17,1,8,19481127
-18,NEW,So Tired,Russ Morgan,Russ Morgan,pop,19481127,18,18,1,19481127
-19,10,It's Magic,Doris Day,Doris Day,jazz,19480724,18,2,19,19481127
-20,NEW,Say Something Sweet To Your Sweetheart,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19481127,20,20,1,19481127
-1,1,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,19481002,18,1,23,19481120
-2,2,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,19480703,14,1,27,19481120
-3,4,On A Slow Boat To China,Kay Kyser / Harry Babbitt / Gloria Wood,Kay Kyser / Harry Babbitt / Gloria Wood,pop,19481023,20,2,17,19481120
-4,3,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,19480717,17,1,23,19481120
-5,5,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,19480626,20,3,26,19481120
-6,9,On A Slow Boat To China,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,19481106,17,5,14,19481120
-7,18,My Darling My Darling,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19481113,18,3,15,19481120
-8,6,Until,Tommy Dorsey / Harry Prime / Clark Sisters,Tommy Dorsey / Harry Prime / Clark Sisters,pop,19480918,15,6,18,19481120
-9,8,Buttons And Bows,Dinning Sisters,Dinning Sisters,pop,19481106,8,7,8,19481120
-10,7,It's Magic,Doris Day,Doris Day,jazz,19480724,18,2,19,19481120
-11,11,You Were Only Fooling,Blue Barron / Clyde Burke,Blue Barron / Clyde Burke,pop,19481023,16,9,12,19481120
-12,10,Hair Of Gold Eyes Of Blue,Gordon Macrae,Gordon Macrae,jazz,19481009,18,10,9,19481120
-13,NEW,On A Slow Boat To China,Art Lund,Art Lund,jazz,19481120,13,13,6,19481120
-14,13,Bluebird Of Happiness,Art Mooney,Art Mooney,pop,19480911,15,9,11,19481120
-15,NEW,On A Slow Boat To China,Benny Goodman / Al Hendrickson,Benny Goodman / Al Hendrickson,pop,19481120,15,15,1,19481120
-16,15,Cuanto La Gusta,Carmen Miranda / Andrews Sisters,Carmen Miranda / Andrews Sisters,pop,19481106,15,12,6,19481120
-17,12,That Certain Party,Benny Strong,Benny Strong,pop,19481023,17,12,6,19481120
-18,NEW,You Came A Long Way,Ray Mckinley,Ray Mckinley,pop,19481120,18,18,1,19481120
-19,19,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,19481113,19,19,2,19481120
-20,NEW,A Little Bird Told Me,Evelyn Knight,Evelyn Knight,jazz,19481120,20,1,20,19481120
-1,1,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,19481002,18,1,23,19481113
-2,2,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,19480703,14,1,27,19481113
-3,3,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,19480717,17,1,23,19481113
-4,5,On A Slow Boat To China,Kay Kyser / Harry Babbitt / Gloria Wood,Kay Kyser / Harry Babbitt / Gloria Wood,pop,19481023,20,2,17,19481113
-5,4,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,19480626,20,3,26,19481113
-6,7,Until,Tommy Dorsey / Harry Prime / Clark Sisters,Tommy Dorsey / Harry Prime / Clark Sisters,pop,19480918,15,6,18,19481113
-7,6,It's Magic,Doris Day,Doris Day,jazz,19480724,18,2,19,19481113
-8,8,Buttons And Bows,Dinning Sisters,Dinning Sisters,pop,19481106,8,7,8,19481113
-9,17,On A Slow Boat To China,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,19481106,17,5,14,19481113
-10,14,Hair Of Gold Eyes Of Blue,Gordon Macrae,Gordon Macrae,jazz,19481009,18,10,9,19481113
-11,9,You Were Only Fooling,Blue Barron / Clyde Burke,Blue Barron / Clyde Burke,pop,19481023,16,9,12,19481113
-12,18,That Certain Party,Benny Strong,Benny Strong,pop,19481023,17,12,6,19481113
-13,10,Bluebird Of Happiness,Art Mooney,Art Mooney,pop,19480911,15,9,11,19481113
-14,20,Life Gits Tee-Jus Don't It,Carson Robison,Carson Robison,jazz,19481030,17,14,3,19481113
-15,15,Cuanto La Gusta,Carmen Miranda / Andrews Sisters,Carmen Miranda / Andrews Sisters,pop,19481106,15,12,6,19481113
-16,13,You Call Everybody Darling,Al Trace / Bob Vincent,Al Trace / Bob Vincent,pop,19480626,13,1,21,19481113
-17,11,Underneath The Arches,Primo Scala Banjo And Accordion Orchestra,Primo Scala Banjo And Accordion Orchestra,pop,19480821,20,6,13,19481113
-18,NEW,My Darling My Darling,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19481113,18,3,15,19481113
-19,NEW,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,19481113,19,19,2,19481113
-20,NEW,Say Something Sweet To Your Sweetheart,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19481113,20,20,1,19481113
-1,3,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,19481002,18,1,23,19481106
-2,1,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,19480703,14,1,27,19481106
-3,2,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,19480717,17,1,23,19481106
-4,4,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,19480626,20,3,26,19481106
-5,8,On A Slow Boat To China,Kay Kyser / Harry Babbitt / Gloria Wood,Kay Kyser / Harry Babbitt / Gloria Wood,pop,19481023,20,2,17,19481106
-6,5,It's Magic,Doris Day,Doris Day,jazz,19480724,18,2,19,19481106
-7,7,Until,Tommy Dorsey / Harry Prime / Clark Sisters,Tommy Dorsey / Harry Prime / Clark Sisters,pop,19480918,15,6,18,19481106
-8,NEW,Buttons And Bows,Dinning Sisters,Dinning Sisters,pop,19481106,8,7,8,19481106
-9,13,You Were Only Fooling,Blue Barron / Clyde Burke,Blue Barron / Clyde Burke,pop,19481023,16,9,12,19481106
-10,10,Bluebird Of Happiness,Art Mooney,Art Mooney,pop,19480911,15,9,11,19481106
-11,9,Underneath The Arches,Primo Scala Banjo And Accordion Orchestra,Primo Scala Banjo And Accordion Orchestra,pop,19480821,20,6,13,19481106
-12,18,Underneath The Arches,Andrews Sisters,Andrews Sisters,jazz,19480925,15,10,7,19481106
-13,6,You Call Everybody Darling,Al Trace / Bob Vincent,Al Trace / Bob Vincent,pop,19480626,13,1,21,19481106
-14,11,Hair Of Gold Eyes Of Blue,Gordon Macrae,Gordon Macrae,jazz,19481009,18,10,9,19481106
-15,NEW,Cuanto La Gusta,Carmen Miranda / Andrews Sisters,Carmen Miranda / Andrews Sisters,pop,19481106,15,12,6,19481106
-16,NEW,Bluebird Of Happiness,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,19481106,16,16,1,19481106
-17,NEW,On A Slow Boat To China,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,19481106,17,5,14,19481106
-18,15,That Certain Party,Benny Strong,Benny Strong,pop,19481023,17,12,6,19481106
-19,14,My Happiness,Ella Fitzgerald / Song Spinners,Ella Fitzgerald / Song Spinners,pop,19480703,12,8,19,19481106
-20,17,Life Gits Tee-Jus Don't It,Carson Robison,Carson Robison,jazz,19481030,17,14,3,19481106
-1,1,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,19480703,14,1,27,19481030
-2,2,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,19480717,17,1,23,19481030
-3,5,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,19481002,18,1,23,19481030
-4,3,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,19480626,20,3,26,19481030
-5,4,It's Magic,Doris Day,Doris Day,jazz,19480724,18,2,19,19481030
-6,7,You Call Everybody Darling,Al Trace / Bob Vincent,Al Trace / Bob Vincent,pop,19480626,13,1,21,19481030
-7,6,Until,Tommy Dorsey / Harry Prime / Clark Sisters,Tommy Dorsey / Harry Prime / Clark Sisters,pop,19480918,15,6,18,19481030
-8,20,On A Slow Boat To China,Kay Kyser / Harry Babbitt / Gloria Wood,Kay Kyser / Harry Babbitt / Gloria Wood,pop,19481023,20,2,17,19481030
-9,8,Underneath The Arches,Primo Scala Banjo And Accordion Orchestra,Primo Scala Banjo And Accordion Orchestra,pop,19480821,20,6,13,19481030
-10,9,Bluebird Of Happiness,Art Mooney,Art Mooney,pop,19480911,15,9,11,19481030
-11,11,Hair Of Gold Eyes Of Blue,Gordon Macrae,Gordon Macrae,jazz,19481009,18,10,9,19481030
-12,12,My Happiness,Pied Pipers,Pied Pipers,jazz,19480612,9,4,21,19481030
-13,16,You Were Only Fooling,Blue Barron / Clyde Burke,Blue Barron / Clyde Burke,pop,19481023,16,9,12,19481030
-14,14,My Happiness,Ella Fitzgerald / Song Spinners,Ella Fitzgerald / Song Spinners,pop,19480703,12,8,19,19481030
-15,17,That Certain Party,Benny Strong,Benny Strong,pop,19481023,17,12,6,19481030
-16,15,Love Somebody,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,19480619,9,6,20,19481030
-17,NEW,Life Gits Tee-Jus Don't It,Carson Robison,Carson Robison,jazz,19481030,17,14,3,19481030
-18,10,Underneath The Arches,Andrews Sisters,Andrews Sisters,jazz,19480925,15,10,7,19481030
-19,NEW,Rambling Rose,Perry Como,Perry Como,jazz,19481030,19,19,1,19481030
-20,13,Cool Water,Vaughn Monroe / Sons Of The Pioneers,Vaughn Monroe / Sons Of The Pioneers,pop,19480904,11,9,9,19481030
-1,2,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,19480703,14,1,27,19481023
-2,1,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,19480717,17,1,23,19481023
-3,4,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,19480626,20,3,26,19481023
-4,3,It's Magic,Doris Day,Doris Day,jazz,19480724,18,2,19,19481023
-5,7,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,19481002,18,1,23,19481023
-6,8,Until,Tommy Dorsey / Harry Prime / Clark Sisters,Tommy Dorsey / Harry Prime / Clark Sisters,pop,19480918,15,6,18,19481023
-7,5,You Call Everybody Darling,Al Trace / Bob Vincent,Al Trace / Bob Vincent,pop,19480626,13,1,21,19481023
-8,6,Underneath The Arches,Primo Scala Banjo And Accordion Orchestra,Primo Scala Banjo And Accordion Orchestra,pop,19480821,20,6,13,19481023
-9,20,Bluebird Of Happiness,Art Mooney,Art Mooney,pop,19480911,15,9,11,19481023
-10,12,Underneath The Arches,Andrews Sisters,Andrews Sisters,jazz,19480925,15,10,7,19481023
-11,16,Hair Of Gold Eyes Of Blue,Gordon Macrae,Gordon Macrae,jazz,19481009,18,10,9,19481023
-12,9,My Happiness,Pied Pipers,Pied Pipers,jazz,19480612,9,4,21,19481023
-13,10,Cool Water,Vaughn Monroe / Sons Of The Pioneers,Vaughn Monroe / Sons Of The Pioneers,pop,19480904,11,9,9,19481023
-14,19,My Happiness,Ella Fitzgerald / Song Spinners,Ella Fitzgerald / Song Spinners,pop,19480703,12,8,19,19481023
-15,14,Love Somebody,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,19480619,9,6,20,19481023
-16,NEW,You Were Only Fooling,Blue Barron / Clyde Burke,Blue Barron / Clyde Burke,pop,19481023,16,9,12,19481023
-17,NEW,That Certain Party,Benny Strong,Benny Strong,pop,19481023,17,12,6,19481023
-18,13,You Came A Long Way,Ray Mckinley,Ray Mckinley,pop,19480911,18,13,7,19481023
-19,11,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,19480515,13,3,24,19481023
-20,NEW,On A Slow Boat To China,Kay Kyser / Harry Babbitt / Gloria Wood,Kay Kyser / Harry Babbitt / Gloria Wood,pop,19481023,20,2,17,19481023
-1,1,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,19480717,17,1,23,19481016
-2,2,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,19480703,14,1,27,19481016
-3,3,It's Magic,Doris Day,Doris Day,jazz,19480724,18,2,19,19481016
-4,5,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,19480626,20,3,26,19481016
-5,4,You Call Everybody Darling,Al Trace / Bob Vincent,Al Trace / Bob Vincent,pop,19480626,13,1,21,19481016
-6,7,Underneath The Arches,Primo Scala Banjo And Accordion Orchestra,Primo Scala Banjo And Accordion Orchestra,pop,19480821,20,6,13,19481016
-7,14,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,19481002,18,1,23,19481016
-8,10,Until,Tommy Dorsey / Harry Prime / Clark Sisters,Tommy Dorsey / Harry Prime / Clark Sisters,pop,19480918,15,6,18,19481016
-9,6,My Happiness,Pied Pipers,Pied Pipers,jazz,19480612,9,4,21,19481016
-10,9,Cool Water,Vaughn Monroe / Sons Of The Pioneers,Vaughn Monroe / Sons Of The Pioneers,pop,19480904,11,9,9,19481016
-11,13,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,19480515,13,3,24,19481016
-12,12,Underneath The Arches,Andrews Sisters,Andrews Sisters,jazz,19480925,15,10,7,19481016
-13,17,You Came A Long Way,Ray Mckinley,Ray Mckinley,pop,19480911,18,13,7,19481016
-14,8,Love Somebody,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,19480619,9,6,20,19481016
-15,16,It's Magic,Dick Haymes,Dick Haymes,jazz,19480814,17,13,10,19481016
-16,18,Hair Of Gold Eyes Of Blue,Gordon Macrae,Gordon Macrae,jazz,19481009,18,10,9,19481016
-17,20,You Call Everybody Darlin',Andrews Sisters,Andrews Sisters,jazz,19481002,16,16,3,19481016
-18,15,It's Magic,Tony Martin,Tony Martin,rock,19480828,18,12,8,19481016
-19,11,My Happiness,Ella Fitzgerald / Song Spinners,Ella Fitzgerald / Song Spinners,pop,19480703,12,8,19,19481016
-20,19,Bluebird Of Happiness,Art Mooney,Art Mooney,pop,19480911,15,9,11,19481016
-1,2,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,19480717,17,1,23,19481009
-2,1,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,19480703,14,1,27,19481009
-3,3,It's Magic,Doris Day,Doris Day,jazz,19480724,18,2,19,19481009
-4,4,You Call Everybody Darling,Al Trace / Bob Vincent,Al Trace / Bob Vincent,pop,19480626,13,1,21,19481009
-5,5,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,19480626,20,3,26,19481009
-6,7,My Happiness,Pied Pipers,Pied Pipers,jazz,19480612,9,4,21,19481009
-7,6,Underneath The Arches,Primo Scala Banjo And Accordion Orchestra,Primo Scala Banjo And Accordion Orchestra,pop,19480821,20,6,13,19481009
-8,10,Love Somebody,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,19480619,9,6,20,19481009
-9,11,Cool Water,Vaughn Monroe / Sons Of The Pioneers,Vaughn Monroe / Sons Of The Pioneers,pop,19480904,11,9,9,19481009
-10,9,Until,Tommy Dorsey / Harry Prime / Clark Sisters,Tommy Dorsey / Harry Prime / Clark Sisters,pop,19480918,15,6,18,19481009
-11,8,My Happiness,Ella Fitzgerald / Song Spinners,Ella Fitzgerald / Song Spinners,pop,19480703,12,8,19,19481009
-12,13,Underneath The Arches,Andrews Sisters,Andrews Sisters,jazz,19480925,15,10,7,19481009
-13,15,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,19480515,13,3,24,19481009
-14,18,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,19481002,18,1,23,19481009
-15,20,It's Magic,Tony Martin,Tony Martin,rock,19480828,18,12,8,19481009
-16,17,It's Magic,Dick Haymes,Dick Haymes,jazz,19480814,17,13,10,19481009
-17,14,You Came A Long Way,Ray Mckinley,Ray Mckinley,pop,19480911,18,13,7,19481009
-18,NEW,Hair Of Gold Eyes Of Blue,Gordon Macrae,Gordon Macrae,jazz,19481009,18,10,9,19481009
-19,12,Bluebird Of Happiness,Art Mooney,Art Mooney,pop,19480911,15,9,11,19481009
-20,16,You Call Everybody Darlin',Andrews Sisters,Andrews Sisters,jazz,19481002,16,16,3,19481009
-1,1,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,19480703,14,1,27,19481002
-2,2,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,19480717,17,1,23,19481002
-3,4,It's Magic,Doris Day,Doris Day,jazz,19480724,18,2,19,19481002
-4,3,You Call Everybody Darling,Al Trace / Bob Vincent,Al Trace / Bob Vincent,pop,19480626,13,1,21,19481002
-5,5,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,19480626,20,3,26,19481002
-6,9,Underneath The Arches,Primo Scala Banjo And Accordion Orchestra,Primo Scala Banjo And Accordion Orchestra,pop,19480821,20,6,13,19481002
-7,7,My Happiness,Pied Pipers,Pied Pipers,jazz,19480612,9,4,21,19481002
-8,8,My Happiness,Ella Fitzgerald / Song Spinners,Ella Fitzgerald / Song Spinners,pop,19480703,12,8,19,19481002
-9,17,Until,Tommy Dorsey / Harry Prime / Clark Sisters,Tommy Dorsey / Harry Prime / Clark Sisters,pop,19480918,15,6,18,19481002
-10,6,Love Somebody,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,19480619,9,6,20,19481002
-11,11,Cool Water,Vaughn Monroe / Sons Of The Pioneers,Vaughn Monroe / Sons Of The Pioneers,pop,19480904,11,9,9,19481002
-12,10,Bluebird Of Happiness,Art Mooney,Art Mooney,pop,19480911,15,9,11,19481002
-13,15,Underneath The Arches,Andrews Sisters,Andrews Sisters,jazz,19480925,15,10,7,19481002
-14,14,You Came A Long Way,Ray Mckinley,Ray Mckinley,pop,19480911,18,13,7,19481002
-15,12,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,19480515,13,3,24,19481002
-16,NEW,You Call Everybody Darlin',Andrews Sisters,Andrews Sisters,jazz,19481002,16,16,3,19481002
-17,13,It's Magic,Dick Haymes,Dick Haymes,jazz,19480814,17,13,10,19481002
-18,NEW,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,19481002,18,1,23,19481002
-19,NEW,That Certain Party,Benny Strong,Benny Strong,pop,19481002,19,19,1,19481002
-20,19,It's Magic,Tony Martin,Tony Martin,rock,19480828,18,12,8,19481002
-1,1,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,19480703,14,1,27,19480925
-2,2,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,19480717,17,1,23,19480925
-3,3,You Call Everybody Darling,Al Trace / Bob Vincent,Al Trace / Bob Vincent,pop,19480626,13,1,21,19480925
-4,4,It's Magic,Doris Day,Doris Day,jazz,19480724,18,2,19,19480925
-5,6,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,19480626,20,3,26,19480925
-6,7,Love Somebody,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,19480619,9,6,20,19480925
-7,5,My Happiness,Pied Pipers,Pied Pipers,jazz,19480612,9,4,21,19480925
-8,9,My Happiness,Ella Fitzgerald / Song Spinners,Ella Fitzgerald / Song Spinners,pop,19480703,12,8,19,19480925
-9,10,Underneath The Arches,Primo Scala Banjo And Accordion Orchestra,Primo Scala Banjo And Accordion Orchestra,pop,19480821,20,6,13,19480925
-10,14,Bluebird Of Happiness,Art Mooney,Art Mooney,pop,19480911,15,9,11,19480925
-11,11,Cool Water,Vaughn Monroe / Sons Of The Pioneers,Vaughn Monroe / Sons Of The Pioneers,pop,19480904,11,9,9,19480925
-12,8,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,19480515,13,3,24,19480925
-13,18,It's Magic,Dick Haymes,Dick Haymes,jazz,19480814,17,13,10,19480925
-14,17,You Came A Long Way,Ray Mckinley,Ray Mckinley,pop,19480911,18,13,7,19480925
-15,NEW,Underneath The Arches,Andrews Sisters,Andrews Sisters,jazz,19480925,15,10,7,19480925
-16,13,You Can't Be True Dear,Ken Griffin,Ken Griffin,pop,19480710,2,2,12,19480925
-17,15,Until,Tommy Dorsey / Harry Prime / Clark Sisters,Tommy Dorsey / Harry Prime / Clark Sisters,pop,19480918,15,6,18,19480925
-18,NEW,You Call Everybody Darlin',Anne Vincent,Anne Vincent,pop,19480925,18,18,1,19480925
-19,12,It's Magic,Tony Martin,Tony Martin,rock,19480828,18,12,8,19480925
-20,19,"Hair Of Gold, Eyes Of Blue",Gordon Macrae,Gordon Macrae,jazz,19480918,19,19,2,19480925
-1,1,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,19480703,14,1,27,19480918
-2,3,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,19480717,17,1,23,19480918
-3,4,You Call Everybody Darling,Al Trace / Bob Vincent,Al Trace / Bob Vincent,pop,19480626,13,1,21,19480918
-4,2,It's Magic,Doris Day,Doris Day,jazz,19480724,18,2,19,19480918
-5,5,My Happiness,Pied Pipers,Pied Pipers,jazz,19480612,9,4,21,19480918
-6,8,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,19480626,20,3,26,19480918
-7,7,Love Somebody,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,19480619,9,6,20,19480918
-8,6,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,19480515,13,3,24,19480918
-9,12,My Happiness,Ella Fitzgerald / Song Spinners,Ella Fitzgerald / Song Spinners,pop,19480703,12,8,19,19480918
-10,11,Underneath The Arches,Primo Scala Banjo And Accordion Orchestra,Primo Scala Banjo And Accordion Orchestra,pop,19480821,20,6,13,19480918
-11,10,Cool Water,Vaughn Monroe / Sons Of The Pioneers,Vaughn Monroe / Sons Of The Pioneers,pop,19480904,11,9,9,19480918
-12,19,It's Magic,Tony Martin,Tony Martin,rock,19480828,18,12,8,19480918
-13,9,You Can't Be True Dear,Ken Griffin,Ken Griffin,pop,19480710,2,2,12,19480918
-14,15,Bluebird Of Happiness,Art Mooney,Art Mooney,pop,19480911,15,9,11,19480918
-15,NEW,Until,Tommy Dorsey / Harry Prime / Clark Sisters,Tommy Dorsey / Harry Prime / Clark Sisters,pop,19480918,15,6,18,19480918
-16,NEW,You Call Everybody Darlin',Andrews Sisters,Andrews Sisters,jazz,19480918,16,16,1,19480918
-17,18,You Came A Long Way,Ray Mckinley,Ray Mckinley,pop,19480911,18,13,7,19480918
-18,14,It's Magic,Dick Haymes,Dick Haymes,jazz,19480814,17,13,10,19480918
-19,NEW,"Hair Of Gold, Eyes Of Blue",Gordon Macrae,Gordon Macrae,jazz,19480918,19,19,2,19480918
-20,NEW,You Were Only Fooling,Blue Barron / Clyde Burke,Blue Barron / Clyde Burke,pop,19480918,20,20,1,19480918
-1,1,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,19480703,14,1,27,19480911
-2,3,It's Magic,Doris Day,Doris Day,jazz,19480724,18,2,19,19480911
-3,4,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,19480717,17,1,23,19480911
-4,2,You Call Everybody Darling,Al Trace / Bob Vincent,Al Trace / Bob Vincent,pop,19480626,13,1,21,19480911
-5,5,My Happiness,Pied Pipers,Pied Pipers,jazz,19480612,9,4,21,19480911
-6,7,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,19480515,13,3,24,19480911
-7,6,Love Somebody,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,19480619,9,6,20,19480911
-8,9,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,19480626,20,3,26,19480911
-9,10,You Can't Be True Dear,Ken Griffin,Ken Griffin,pop,19480710,2,2,12,19480911
-10,11,Cool Water,Vaughn Monroe / Sons Of The Pioneers,Vaughn Monroe / Sons Of The Pioneers,pop,19480904,11,9,9,19480911
-11,12,Underneath The Arches,Primo Scala Banjo And Accordion Orchestra,Primo Scala Banjo And Accordion Orchestra,pop,19480821,20,6,13,19480911
-12,8,My Happiness,Ella Fitzgerald / Song Spinners,Ella Fitzgerald / Song Spinners,pop,19480703,12,8,19,19480911
-13,19,You Call Everybody Darlin',Jack Smith / Clark Sisters,Jack Smith / Clark Sisters,pop,19480821,19,13,4,19480911
-14,14,It's Magic,Dick Haymes,Dick Haymes,jazz,19480814,17,13,10,19480911
-15,NEW,Bluebird Of Happiness,Art Mooney,Art Mooney,pop,19480911,15,9,11,19480911
-16,13,You Call Everybody Darlin',Anne Vincent,Anne Vincent,pop,19480828,16,13,3,19480911
-17,17,Woody Woodpecker,Sportsmen / Mel Blanc,Sportsmen / Mel Blanc,pop,19480717,8,2,9,19480911
-18,NEW,You Came A Long Way,Ray Mckinley,Ray Mckinley,pop,19480911,18,13,7,19480911
-19,16,It's Magic,Tony Martin,Tony Martin,rock,19480828,18,12,8,19480911
-20,NEW,It's Magic,Gordon Macrae,Gordon Macrae,jazz,19480911,20,20,1,19480911
-1,1,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,19480703,14,1,27,19480904
-2,2,You Call Everybody Darling,Al Trace / Bob Vincent,Al Trace / Bob Vincent,pop,19480626,13,1,21,19480904
-3,4,It's Magic,Doris Day,Doris Day,jazz,19480724,18,2,19,19480904
-4,3,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,19480717,17,1,23,19480904
-5,5,My Happiness,Pied Pipers,Pied Pipers,jazz,19480612,9,4,21,19480904
-6,7,Love Somebody,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,19480619,9,6,20,19480904
-7,6,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,19480515,13,3,24,19480904
-8,10,My Happiness,Ella Fitzgerald / Song Spinners,Ella Fitzgerald / Song Spinners,pop,19480703,12,8,19,19480904
-9,9,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,19480626,20,3,26,19480904
-10,8,You Can't Be True Dear,Ken Griffin,Ken Griffin,pop,19480710,2,2,12,19480904
-11,NEW,Cool Water,Vaughn Monroe / Sons Of The Pioneers,Vaughn Monroe / Sons Of The Pioneers,pop,19480904,11,9,9,19480904
-12,13,Underneath The Arches,Primo Scala Banjo And Accordion Orchestra,Primo Scala Banjo And Accordion Orchestra,pop,19480821,20,6,13,19480904
-13,16,You Call Everybody Darlin',Anne Vincent,Anne Vincent,pop,19480828,16,13,3,19480904
-14,15,It's Magic,Dick Haymes,Dick Haymes,jazz,19480814,17,13,10,19480904
-15,12,Woody Woodpecker,Kay Kyser / Gloria Wood,Kay Kyser / Gloria Wood,pop,19480605,13,1,14,19480904
-16,18,It's Magic,Tony Martin,Tony Martin,rock,19480828,18,12,8,19480904
-17,11,Woody Woodpecker,Sportsmen / Mel Blanc,Sportsmen / Mel Blanc,pop,19480717,8,2,9,19480904
-18,NEW,Rambling Rose,Perry Como,Perry Como,jazz,19480904,18,18,1,19480904
-19,19,You Call Everybody Darlin',Jack Smith / Clark Sisters,Jack Smith / Clark Sisters,pop,19480821,19,13,4,19480904
-20,17,William Tell Overture (Feedlebaum),Spike Jones / Doodles Weave,Spike Jones / Doodles Weave,pop,19480612,10,6,13,19480904
-1,2,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,19480703,14,1,27,19480828
-2,1,You Call Everybody Darling,Al Trace / Bob Vincent,Al Trace / Bob Vincent,pop,19480626,13,1,21,19480828
-3,6,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,19480717,17,1,23,19480828
-4,3,It's Magic,Doris Day,Doris Day,jazz,19480724,18,2,19,19480828
-5,4,My Happiness,Pied Pipers,Pied Pipers,jazz,19480612,9,4,21,19480828
-6,5,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,19480515,13,3,24,19480828
-7,8,Love Somebody,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,19480619,9,6,20,19480828
-8,7,You Can't Be True Dear,Ken Griffin,Ken Griffin,pop,19480710,2,2,12,19480828
-9,12,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,19480626,20,3,26,19480828
-10,11,My Happiness,Ella Fitzgerald / Song Spinners,Ella Fitzgerald / Song Spinners,pop,19480703,12,8,19,19480828
-11,9,Woody Woodpecker,Sportsmen / Mel Blanc,Sportsmen / Mel Blanc,pop,19480717,8,2,9,19480828
-12,10,Woody Woodpecker,Kay Kyser / Gloria Wood,Kay Kyser / Gloria Wood,pop,19480605,13,1,14,19480828
-13,20,Underneath The Arches,Primo Scala Banjo And Accordion Orchestra,Primo Scala Banjo And Accordion Orchestra,pop,19480821,20,6,13,19480828
-14,17,Bluebird Of Happiness,Art Mooney / Bud Brees / Galli Sisters,Art Mooney / Bud Brees / Galli Sisters,pop,19480710,20,14,8,19480828
-15,18,It's Magic,Dick Haymes,Dick Haymes,jazz,19480814,17,13,10,19480828
-16,NEW,You Call Everybody Darlin',Anne Vincent,Anne Vincent,pop,19480828,16,13,3,19480828
-17,13,William Tell Overture (Feedlebaum),Spike Jones / Doodles Weave,Spike Jones / Doodles Weave,pop,19480612,10,6,13,19480828
-18,NEW,It's Magic,Tony Martin,Tony Martin,rock,19480828,18,12,8,19480828
-19,19,You Call Everybody Darlin',Jack Smith / Clark Sisters,Jack Smith / Clark Sisters,pop,19480821,19,13,4,19480828
-20,15,Little White Lies,Dick Haymes,Dick Haymes,jazz,19480410,11,3,21,19480828
-1,1,You Call Everybody Darling,Al Trace / Bob Vincent,Al Trace / Bob Vincent,pop,19480626,13,1,21,19480821
-2,7,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,19480703,14,1,27,19480821
-3,9,It's Magic,Doris Day,Doris Day,jazz,19480724,18,2,19,19480821
-4,4,My Happiness,Pied Pipers,Pied Pipers,jazz,19480612,9,4,21,19480821
-5,3,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,19480515,13,3,24,19480821
-6,8,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,19480717,17,1,23,19480821
-7,2,You Can't Be True Dear,Ken Griffin,Ken Griffin,pop,19480710,2,2,12,19480821
-8,10,Love Somebody,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,19480619,9,6,20,19480821
-9,5,Woody Woodpecker,Sportsmen / Mel Blanc,Sportsmen / Mel Blanc,pop,19480717,8,2,9,19480821
-10,6,Woody Woodpecker,Kay Kyser / Gloria Wood,Kay Kyser / Gloria Wood,pop,19480605,13,1,14,19480821
-11,12,My Happiness,Ella Fitzgerald / Song Spinners,Ella Fitzgerald / Song Spinners,pop,19480703,12,8,19,19480821
-12,14,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,19480626,20,3,26,19480821
-13,13,William Tell Overture (Feedlebaum),Spike Jones / Doodles Weave,Spike Jones / Doodles Weave,pop,19480612,10,6,13,19480821
-14,15,You Can't Be True Dear,Ken Griffin / Jerry Wayne,Ken Griffin / Jerry Wayne,pop,19480410,10,2,20,19480821
-15,11,Little White Lies,Dick Haymes,Dick Haymes,jazz,19480410,11,3,21,19480821
-16,NEW,Confess,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,19480821,16,16,1,19480821
-17,20,Bluebird Of Happiness,Art Mooney / Bud Brees / Galli Sisters,Art Mooney / Bud Brees / Galli Sisters,pop,19480710,20,14,8,19480821
-18,17,It's Magic,Dick Haymes,Dick Haymes,jazz,19480814,17,13,10,19480821
-19,NEW,You Call Everybody Darlin',Jack Smith / Clark Sisters,Jack Smith / Clark Sisters,pop,19480821,19,13,4,19480821
-20,NEW,Underneath The Arches,Primo Scala Banjo And Accordion Orchestra,Primo Scala Banjo And Accordion Orchestra,pop,19480821,20,6,13,19480821
-1,5,You Call Everybody Darling,Al Trace / Bob Vincent,Al Trace / Bob Vincent,pop,19480626,13,1,21,19480814
-2,3,You Can't Be True Dear,Ken Griffin,Ken Griffin,pop,19480710,2,2,12,19480814
-3,6,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,19480515,13,3,24,19480814
-4,4,My Happiness,Pied Pipers,Pied Pipers,jazz,19480612,9,4,21,19480814
-5,2,Woody Woodpecker,Sportsmen / Mel Blanc,Sportsmen / Mel Blanc,pop,19480717,8,2,9,19480814
-6,1,Woody Woodpecker,Kay Kyser / Gloria Wood,Kay Kyser / Gloria Wood,pop,19480605,13,1,14,19480814
-7,8,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,19480703,14,1,27,19480814
-8,11,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,19480717,17,1,23,19480814
-9,12,It's Magic,Doris Day,Doris Day,jazz,19480724,18,2,19,19480814
-10,7,Love Somebody,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,19480619,9,6,20,19480814
-11,9,Little White Lies,Dick Haymes,Dick Haymes,jazz,19480410,11,3,21,19480814
-12,10,My Happiness,Ella Fitzgerald / Song Spinners,Ella Fitzgerald / Song Spinners,pop,19480703,12,8,19,19480814
-13,14,William Tell Overture (Feedlebaum),Spike Jones / Doodles Weave,Spike Jones / Doodles Weave,pop,19480612,10,6,13,19480814
-14,15,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,19480626,20,3,26,19480814
-15,13,You Can't Be True Dear,Ken Griffin / Jerry Wayne,Ken Griffin / Jerry Wayne,pop,19480410,10,2,20,19480814
-16,20,You Can't Be True Dear,Dick Haymes / Song Spinners,Dick Haymes / Song Spinners,pop,19480605,16,9,11,19480814
-17,NEW,It's Magic,Dick Haymes,Dick Haymes,jazz,19480814,17,13,10,19480814
-18,NEW,Cool Water,Vaughn Monroe / Sons Of The Pioneers,Vaughn Monroe / Sons Of The Pioneers,pop,19480814,18,18,1,19480814
-19,16,You Can't Be True Dear,Sportsmen,Sportsmen,pop,19480724,17,16,4,19480814
-20,17,Bluebird Of Happiness,Art Mooney / Bud Brees / Galli Sisters,Art Mooney / Bud Brees / Galli Sisters,pop,19480710,20,14,8,19480814
-1,1,Woody Woodpecker,Kay Kyser / Gloria Wood,Kay Kyser / Gloria Wood,pop,19480605,13,1,14,19480807
-2,2,Woody Woodpecker,Sportsmen / Mel Blanc,Sportsmen / Mel Blanc,pop,19480717,8,2,9,19480807
-3,3,You Can't Be True Dear,Ken Griffin,Ken Griffin,pop,19480710,2,2,12,19480807
-4,5,My Happiness,Pied Pipers,Pied Pipers,jazz,19480612,9,4,21,19480807
-5,6,You Call Everybody Darling,Al Trace / Bob Vincent,Al Trace / Bob Vincent,pop,19480626,13,1,21,19480807
-6,4,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,19480515,13,3,24,19480807
-7,9,Love Somebody,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,19480619,9,6,20,19480807
-8,7,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,19480703,14,1,27,19480807
-9,10,Little White Lies,Dick Haymes,Dick Haymes,jazz,19480410,11,3,21,19480807
-10,11,My Happiness,Ella Fitzgerald / Song Spinners,Ella Fitzgerald / Song Spinners,pop,19480703,12,8,19,19480807
-11,15,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,19480717,17,1,23,19480807
-12,14,It's Magic,Doris Day,Doris Day,jazz,19480724,18,2,19,19480807
-13,13,You Can't Be True Dear,Ken Griffin / Jerry Wayne,Ken Griffin / Jerry Wayne,pop,19480410,10,2,20,19480807
-14,8,William Tell Overture (Feedlebaum),Spike Jones / Doodles Weave,Spike Jones / Doodles Weave,pop,19480612,10,6,13,19480807
-15,12,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,19480626,20,3,26,19480807
-16,17,You Can't Be True Dear,Sportsmen,Sportsmen,pop,19480724,17,16,4,19480807
-17,18,Bluebird Of Happiness,Art Mooney / Bud Brees / Galli Sisters,Art Mooney / Bud Brees / Galli Sisters,pop,19480710,20,14,8,19480807
-18,NEW,You Call Everybody Darlin',Anne Vincent,Anne Vincent,pop,19480807,18,18,1,19480807
-19,NEW,The Maharajah Of Magador,Vaughn Monroe / Ziggy Talent,Vaughn Monroe / Ziggy Talent,pop,19480807,19,19,1,19480807
-20,16,You Can't Be True Dear,Dick Haymes / Song Spinners,Dick Haymes / Song Spinners,pop,19480605,16,9,11,19480807
-1,1,Woody Woodpecker,Kay Kyser / Gloria Wood,Kay Kyser / Gloria Wood,pop,19480605,13,1,14,19480731
-2,3,Woody Woodpecker,Sportsmen / Mel Blanc,Sportsmen / Mel Blanc,pop,19480717,8,2,9,19480731
-3,2,You Can't Be True Dear,Ken Griffin,Ken Griffin,pop,19480710,2,2,12,19480731
-4,4,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,19480515,13,3,24,19480731
-5,5,My Happiness,Pied Pipers,Pied Pipers,jazz,19480612,9,4,21,19480731
-6,8,You Call Everybody Darling,Al Trace / Bob Vincent,Al Trace / Bob Vincent,pop,19480626,13,1,21,19480731
-7,10,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,19480703,14,1,27,19480731
-8,6,William Tell Overture (Feedlebaum),Spike Jones / Doodles Weave,Spike Jones / Doodles Weave,pop,19480612,10,6,13,19480731
-9,12,Love Somebody,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,19480619,9,6,20,19480731
-10,7,Little White Lies,Dick Haymes,Dick Haymes,jazz,19480410,11,3,21,19480731
-11,11,My Happiness,Ella Fitzgerald / Song Spinners,Ella Fitzgerald / Song Spinners,pop,19480703,12,8,19,19480731
-12,13,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,19480626,20,3,26,19480731
-13,9,You Can't Be True Dear,Ken Griffin / Jerry Wayne,Ken Griffin / Jerry Wayne,pop,19480410,10,2,20,19480731
-14,18,It's Magic,Doris Day,Doris Day,jazz,19480724,18,2,19,19480731
-15,19,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,19480717,17,1,23,19480731
-16,15,You Can't Be True Dear,Dick Haymes / Song Spinners,Dick Haymes / Song Spinners,pop,19480605,16,9,11,19480731
-17,17,You Can't Be True Dear,Sportsmen,Sportsmen,pop,19480724,17,16,4,19480731
-18,20,Bluebird Of Happiness,Art Mooney / Bud Brees / Galli Sisters,Art Mooney / Bud Brees / Galli Sisters,pop,19480710,20,14,8,19480731
-19,14,Nature Boy,Nat King Cole,Nat King Cole,jazz,19480424,15,1,15,19480731
-20,16,Toolie Oolie Doolie (The Yodel Polka),Andrews Sisters,Andrews Sisters,jazz,19480424,14,4,15,19480731
-1,1,Woody Woodpecker,Kay Kyser / Gloria Wood,Kay Kyser / Gloria Wood,pop,19480605,13,1,14,19480724
-2,2,You Can't Be True Dear,Ken Griffin,Ken Griffin,pop,19480710,2,2,12,19480724
-3,8,Woody Woodpecker,Sportsmen / Mel Blanc,Sportsmen / Mel Blanc,pop,19480717,8,2,9,19480724
-4,3,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,19480515,13,3,24,19480724
-5,4,My Happiness,Pied Pipers,Pied Pipers,jazz,19480612,9,4,21,19480724
-6,9,William Tell Overture (Feedlebaum),Spike Jones / Doodles Weave,Spike Jones / Doodles Weave,pop,19480612,10,6,13,19480724
-7,5,Little White Lies,Dick Haymes,Dick Haymes,jazz,19480410,11,3,21,19480724
-8,11,You Call Everybody Darling,Al Trace / Bob Vincent,Al Trace / Bob Vincent,pop,19480626,13,1,21,19480724
-9,6,You Can't Be True Dear,Ken Griffin / Jerry Wayne,Ken Griffin / Jerry Wayne,pop,19480410,10,2,20,19480724
-10,15,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,19480703,14,1,27,19480724
-11,12,My Happiness,Ella Fitzgerald / Song Spinners,Ella Fitzgerald / Song Spinners,pop,19480703,12,8,19,19480724
-12,10,Love Somebody,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,19480619,9,6,20,19480724
-13,16,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,19480626,20,3,26,19480724
-14,7,Nature Boy,Nat King Cole,Nat King Cole,jazz,19480424,15,1,15,19480724
-15,13,You Can't Be True Dear,Dick Haymes / Song Spinners,Dick Haymes / Song Spinners,pop,19480605,16,9,11,19480724
-16,14,Toolie Oolie Doolie (The Yodel Polka),Andrews Sisters,Andrews Sisters,jazz,19480424,14,4,15,19480724
-17,NEW,You Can't Be True Dear,Sportsmen,Sportsmen,pop,19480724,17,16,4,19480724
-18,NEW,It's Magic,Doris Day,Doris Day,jazz,19480724,18,2,19,19480724
-19,17,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,19480717,17,1,23,19480724
-20,20,Bluebird Of Happiness,Art Mooney / Bud Brees / Galli Sisters,Art Mooney / Bud Brees / Galli Sisters,pop,19480710,20,14,8,19480724
-1,1,Woody Woodpecker,Kay Kyser / Gloria Wood,Kay Kyser / Gloria Wood,pop,19480605,13,1,14,19480717
-2,2,You Can't Be True Dear,Ken Griffin,Ken Griffin,pop,19480710,2,2,12,19480717
-3,5,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,19480515,13,3,24,19480717
-4,7,My Happiness,Pied Pipers,Pied Pipers,jazz,19480612,9,4,21,19480717
-5,4,Little White Lies,Dick Haymes,Dick Haymes,jazz,19480410,11,3,21,19480717
-6,8,You Can't Be True Dear,Ken Griffin / Jerry Wayne,Ken Griffin / Jerry Wayne,pop,19480410,10,2,20,19480717
-7,3,Nature Boy,Nat King Cole,Nat King Cole,jazz,19480424,15,1,15,19480717
-8,NEW,Woody Woodpecker,Sportsmen / Mel Blanc,Sportsmen / Mel Blanc,pop,19480717,8,2,9,19480717
-9,6,William Tell Overture (Feedlebaum),Spike Jones / Doodles Weave,Spike Jones / Doodles Weave,pop,19480612,10,6,13,19480717
-10,10,Love Somebody,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,19480619,9,6,20,19480717
-11,14,You Call Everybody Darling,Al Trace / Bob Vincent,Al Trace / Bob Vincent,pop,19480626,13,1,21,19480717
-12,13,My Happiness,Ella Fitzgerald / Song Spinners,Ella Fitzgerald / Song Spinners,pop,19480703,12,8,19,19480717
-13,12,You Can't Be True Dear,Dick Haymes / Song Spinners,Dick Haymes / Song Spinners,pop,19480605,16,9,11,19480717
-14,9,Toolie Oolie Doolie (The Yodel Polka),Andrews Sisters,Andrews Sisters,jazz,19480424,14,4,15,19480717
-15,11,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,19480703,14,1,27,19480717
-16,16,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,19480626,20,3,26,19480717
-17,NEW,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,19480717,17,1,23,19480717
-18,18,St. Louis Blues March,Tex Beneke,Tex Beneke,jazz,19480417,9,5,14,19480717
-19,NEW,Woody Woodpecker,Danny Kaye / Andrews Sisters,Danny Kaye / Andrews Sisters,pop,19480717,19,19,1,19480717
-20,20,Bluebird Of Happiness,Art Mooney / Bud Brees / Galli Sisters,Art Mooney / Bud Brees / Galli Sisters,pop,19480710,20,14,8,19480717
-1,1,Woody Woodpecker,Kay Kyser / Gloria Wood,Kay Kyser / Gloria Wood,pop,19480605,13,1,14,19480710
-2,NEW,You Can't Be True Dear,Ken Griffin,Ken Griffin,pop,19480710,2,2,12,19480710
-3,3,Nature Boy,Nat King Cole,Nat King Cole,jazz,19480424,15,1,15,19480710
-4,4,Little White Lies,Dick Haymes,Dick Haymes,jazz,19480410,11,3,21,19480710
-5,5,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,19480515,13,3,24,19480710
-6,6,William Tell Overture (Feedlebaum),Spike Jones / Doodles Weave,Spike Jones / Doodles Weave,pop,19480612,10,6,13,19480710
-7,8,My Happiness,Pied Pipers,Pied Pipers,jazz,19480612,9,4,21,19480710
-8,2,You Can't Be True Dear,Ken Griffin / Jerry Wayne,Ken Griffin / Jerry Wayne,pop,19480410,10,2,20,19480710
-9,7,Toolie Oolie Doolie (The Yodel Polka),Andrews Sisters,Andrews Sisters,jazz,19480424,14,4,15,19480710
-10,9,Love Somebody,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,19480619,9,6,20,19480710
-11,14,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,19480703,14,1,27,19480710
-12,10,You Can't Be True Dear,Dick Haymes / Song Spinners,Dick Haymes / Song Spinners,pop,19480605,16,9,11,19480710
-13,12,My Happiness,Ella Fitzgerald / Song Spinners,Ella Fitzgerald / Song Spinners,pop,19480703,12,8,19,19480710
-14,18,You Call Everybody Darling,Al Trace / Bob Vincent,Al Trace / Bob Vincent,pop,19480626,13,1,21,19480710
-15,11,You Can't Be True Dear,Sportsmen,Sportsmen,pop,19480605,18,11,6,19480710
-16,17,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,19480626,20,3,26,19480710
-17,13,The Dickey-Bird Song,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,19480508,12,5,10,19480710
-18,15,St. Louis Blues March,Tex Beneke,Tex Beneke,jazz,19480417,9,5,14,19480710
-19,NEW,You Can't Be True Dear,Dick James,Dick James,pop,19480710,19,19,1,19480710
-20,NEW,Bluebird Of Happiness,Art Mooney / Bud Brees / Galli Sisters,Art Mooney / Bud Brees / Galli Sisters,pop,19480710,20,14,8,19480710
-1,3,Woody Woodpecker,Kay Kyser / Gloria Wood,Kay Kyser / Gloria Wood,pop,19480605,13,1,14,19480703
-2,2,You Can't Be True Dear,Ken Griffin / Jerry Wayne,Ken Griffin / Jerry Wayne,pop,19480410,10,2,20,19480703
-3,1,Nature Boy,Nat King Cole,Nat King Cole,jazz,19480424,15,1,15,19480703
-4,4,Little White Lies,Dick Haymes,Dick Haymes,jazz,19480410,11,3,21,19480703
-5,5,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,19480515,13,3,24,19480703
-6,6,William Tell Overture (Feedlebaum),Spike Jones / Doodles Weave,Spike Jones / Doodles Weave,pop,19480612,10,6,13,19480703
-7,7,Toolie Oolie Doolie (The Yodel Polka),Andrews Sisters,Andrews Sisters,jazz,19480424,14,4,15,19480703
-8,8,My Happiness,Pied Pipers,Pied Pipers,jazz,19480612,9,4,21,19480703
-9,10,Love Somebody,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,19480619,9,6,20,19480703
-10,9,You Can't Be True Dear,Dick Haymes / Song Spinners,Dick Haymes / Song Spinners,pop,19480605,16,9,11,19480703
-11,11,You Can't Be True Dear,Sportsmen,Sportsmen,pop,19480605,18,11,6,19480703
-12,NEW,My Happiness,Ella Fitzgerald / Song Spinners,Ella Fitzgerald / Song Spinners,pop,19480703,12,8,19,19480703
-13,12,The Dickey-Bird Song,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,19480508,12,5,10,19480703
-14,NEW,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,19480703,14,1,27,19480703
-15,14,St. Louis Blues March,Tex Beneke,Tex Beneke,jazz,19480417,9,5,14,19480703
-16,15,Tell Me A Story,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19480626,15,15,2,19480703
-17,20,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,19480626,20,3,26,19480703
-18,13,You Call Everybody Darling,Al Trace / Bob Vincent,Al Trace / Bob Vincent,pop,19480626,13,1,21,19480703
-19,NEW,You Can't Be True Dear,Marlin Sisters / Eddie Fisher,Marlin Sisters / Eddie Fisher,pop,19480703,19,19,1,19480703
-20,NEW,Toolie Oolie Doolie,Sportsmen,Sportsmen,pop,19480703,20,20,1,19480703
-1,1,Nature Boy,Nat King Cole,Nat King Cole,jazz,19480424,15,1,15,19480626
-2,2,You Can't Be True Dear,Ken Griffin / Jerry Wayne,Ken Griffin / Jerry Wayne,pop,19480410,10,2,20,19480626
-3,4,Woody Woodpecker,Kay Kyser / Gloria Wood,Kay Kyser / Gloria Wood,pop,19480605,13,1,14,19480626
-4,3,Little White Lies,Dick Haymes,Dick Haymes,jazz,19480410,11,3,21,19480626
-5,5,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,19480515,13,3,24,19480626
-6,7,William Tell Overture (Feedlebaum),Spike Jones / Doodles Weave,Spike Jones / Doodles Weave,pop,19480612,10,6,13,19480626
-7,6,Toolie Oolie Doolie (The Yodel Polka),Andrews Sisters,Andrews Sisters,jazz,19480424,14,4,15,19480626
-8,8,My Happiness,Pied Pipers,Pied Pipers,jazz,19480612,9,4,21,19480626
-9,10,You Can't Be True Dear,Dick Haymes / Song Spinners,Dick Haymes / Song Spinners,pop,19480605,16,9,11,19480626
-10,9,Love Somebody,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,19480619,9,6,20,19480626
-11,17,You Can't Be True Dear,Sportsmen,Sportsmen,pop,19480605,18,11,6,19480626
-12,11,The Dickey-Bird Song,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,19480508,12,5,10,19480626
-13,NEW,You Call Everybody Darling,Al Trace / Bob Vincent,Al Trace / Bob Vincent,pop,19480626,13,1,21,19480626
-14,13,St. Louis Blues March,Tex Beneke,Tex Beneke,jazz,19480417,9,5,14,19480626
-15,NEW,Tell Me A Story,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19480626,15,15,2,19480626
-16,16,Nature Boy,Dick Haymes / Song Spinners,Dick Haymes / Song Spinners,pop,19480612,16,16,3,19480626
-17,12,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,19480131,15,2,22,19480626
-18,15,Because,Perry Como,Perry Como,jazz,19480313,11,4,16,19480626
-19,14,Baby Face,Art Mooney / Choir,Art Mooney / Choir,pop,19480403,13,5,13,19480626
-20,NEW,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,19480626,20,3,26,19480626
-1,1,Nature Boy,Nat King Cole,Nat King Cole,jazz,19480424,15,1,15,19480619
-2,2,You Can't Be True Dear,Ken Griffin / Jerry Wayne,Ken Griffin / Jerry Wayne,pop,19480410,10,2,20,19480619
-3,3,Little White Lies,Dick Haymes,Dick Haymes,jazz,19480410,11,3,21,19480619
-4,6,Woody Woodpecker,Kay Kyser / Gloria Wood,Kay Kyser / Gloria Wood,pop,19480605,13,1,14,19480619
-5,5,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,19480515,13,3,24,19480619
-6,4,Toolie Oolie Doolie (The Yodel Polka),Andrews Sisters,Andrews Sisters,jazz,19480424,14,4,15,19480619
-7,10,William Tell Overture (Feedlebaum),Spike Jones / Doodles Weave,Spike Jones / Doodles Weave,pop,19480612,10,6,13,19480619
-8,9,My Happiness,Pied Pipers,Pied Pipers,jazz,19480612,9,4,21,19480619
-9,NEW,Love Somebody,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,19480619,9,6,20,19480619
-10,12,You Can't Be True Dear,Dick Haymes / Song Spinners,Dick Haymes / Song Spinners,pop,19480605,16,9,11,19480619
-11,7,The Dickey-Bird Song,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,19480508,12,5,10,19480619
-12,14,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,19480131,15,2,22,19480619
-13,8,St. Louis Blues March,Tex Beneke,Tex Beneke,jazz,19480417,9,5,14,19480619
-14,11,Baby Face,Art Mooney / Choir,Art Mooney / Choir,pop,19480403,13,5,13,19480619
-15,13,Because,Perry Como,Perry Como,jazz,19480313,11,4,16,19480619
-16,16,Nature Boy,Dick Haymes / Song Spinners,Dick Haymes / Song Spinners,pop,19480612,16,16,3,19480619
-17,15,You Can't Be True Dear,Sportsmen,Sportsmen,pop,19480605,18,11,6,19480619
-18,NEW,Nature Boy,Frank Sinatra,Frank Sinatra,jazz,19480619,18,18,1,19480619
-19,18,Manana,Peggy Lee,Peggy Lee,jazz,19480131,8,1,21,19480619
-20,NEW,Toolie Oolie Doolie (The Yodel Polka),Sportsmen,Sportsmen,pop,19480619,20,20,1,19480619
-1,1,Nature Boy,Nat King Cole,Nat King Cole,jazz,19480424,15,1,15,19480612
-2,2,You Can't Be True Dear,Ken Griffin / Jerry Wayne,Ken Griffin / Jerry Wayne,pop,19480410,10,2,20,19480612
-3,3,Little White Lies,Dick Haymes,Dick Haymes,jazz,19480410,11,3,21,19480612
-4,4,Toolie Oolie Doolie (The Yodel Polka),Andrews Sisters,Andrews Sisters,jazz,19480424,14,4,15,19480612
-5,5,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,19480515,13,3,24,19480612
-6,13,Woody Woodpecker,Kay Kyser / Gloria Wood,Kay Kyser / Gloria Wood,pop,19480605,13,1,14,19480612
-7,7,The Dickey-Bird Song,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,19480508,12,5,10,19480612
-8,9,St. Louis Blues March,Tex Beneke,Tex Beneke,jazz,19480417,9,5,14,19480612
-9,NEW,My Happiness,Pied Pipers,Pied Pipers,jazz,19480612,9,4,21,19480612
-10,NEW,William Tell Overture (Feedlebaum),Spike Jones / Doodles Weave,Spike Jones / Doodles Weave,pop,19480612,10,6,13,19480612
-11,8,Baby Face,Art Mooney / Choir,Art Mooney / Choir,pop,19480403,13,5,13,19480612
-12,16,You Can't Be True Dear,Dick Haymes / Song Spinners,Dick Haymes / Song Spinners,pop,19480605,16,9,11,19480612
-13,11,Because,Perry Como,Perry Como,jazz,19480313,11,4,16,19480612
-14,6,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,19480131,15,2,22,19480612
-15,18,You Can't Be True Dear,Sportsmen,Sportsmen,pop,19480605,18,11,6,19480612
-16,NEW,Nature Boy,Dick Haymes / Song Spinners,Dick Haymes / Song Spinners,pop,19480612,16,16,3,19480612
-17,19,Baby Face,Sammy Kaye / Kaydets,Sammy Kaye / Kaydets,pop,19480605,19,17,2,19480612
-18,10,Manana,Peggy Lee,Peggy Lee,jazz,19480131,8,1,21,19480612
-19,NEW,Baby Face,Jack Smith / Clark Sisters,Jack Smith / Clark Sisters,pop,19480612,19,19,1,19480612
-20,NEW,You Can't Be True Dear,Marlin Sisters / Eddie Fisher,Marlin Sisters / Eddie Fisher,pop,19480612,20,20,1,19480612
-1,1,Nature Boy,Nat King Cole,Nat King Cole,jazz,19480424,15,1,15,19480605
-2,2,You Can't Be True Dear,Ken Griffin / Jerry Wayne,Ken Griffin / Jerry Wayne,pop,19480410,10,2,20,19480605
-3,3,Little White Lies,Dick Haymes,Dick Haymes,jazz,19480410,11,3,21,19480605
-4,4,Toolie Oolie Doolie (The Yodel Polka),Andrews Sisters,Andrews Sisters,jazz,19480424,14,4,15,19480605
-5,6,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,19480515,13,3,24,19480605
-6,9,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,19480131,15,2,22,19480605
-7,5,The Dickey-Bird Song,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,19480508,12,5,10,19480605
-8,7,Baby Face,Art Mooney / Choir,Art Mooney / Choir,pop,19480403,13,5,13,19480605
-9,8,St. Louis Blues March,Tex Beneke,Tex Beneke,jazz,19480417,9,5,14,19480605
-10,12,Manana,Peggy Lee,Peggy Lee,jazz,19480131,8,1,21,19480605
-11,10,Because,Perry Como,Perry Como,jazz,19480313,11,4,16,19480605
-12,NEW,Love Somebody,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,19480605,12,12,1,19480605
-13,NEW,Woody Woodpecker,Kay Kyser / Gloria Wood,Kay Kyser / Gloria Wood,pop,19480605,13,1,14,19480605
-14,15,You Can't Be True Dear,Vera Lynn,Vera Lynn,pop,19480529,15,14,2,19480605
-15,NEW,Sabre Dance,Woody Herman,Woody Herman,jazz,19480605,15,15,1,19480605
-16,NEW,You Can't Be True Dear,Dick Haymes / Song Spinners,Dick Haymes / Song Spinners,pop,19480605,16,9,11,19480605
-17,NEW,Tell Me A Story,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19480605,17,17,1,19480605
-18,NEW,You Can't Be True Dear,Sportsmen,Sportsmen,pop,19480605,18,11,6,19480605
-19,NEW,Baby Face,Sammy Kaye / Kaydets,Sammy Kaye / Kaydets,pop,19480605,19,17,2,19480605
-20,NEW,Nature Boy,Frank Sinatra,Frank Sinatra,jazz,19480605,20,20,1,19480605
-1,1,Nature Boy,Nat King Cole,Nat King Cole,jazz,19480424,15,1,15,19480529
-2,2,You Can't Be True Dear,Ken Griffin / Jerry Wayne,Ken Griffin / Jerry Wayne,pop,19480410,10,2,20,19480529
-3,3,Little White Lies,Dick Haymes,Dick Haymes,jazz,19480410,11,3,21,19480529
-4,6,Toolie Oolie Doolie (The Yodel Polka),Andrews Sisters,Andrews Sisters,jazz,19480424,14,4,15,19480529
-5,7,The Dickey-Bird Song,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,19480508,12,5,10,19480529
-6,10,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,19480515,13,3,24,19480529
-7,8,Baby Face,Art Mooney / Choir,Art Mooney / Choir,pop,19480403,13,5,13,19480529
-8,9,St. Louis Blues March,Tex Beneke,Tex Beneke,jazz,19480417,9,5,14,19480529
-9,4,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,19480131,15,2,22,19480529
-10,11,Because,Perry Como,Perry Como,jazz,19480313,11,4,16,19480529
-11,NEW,Toolie Oolie Doolie (The Yodel Polka),Vaughn Horton / Polka Debs,Vaughn Horton / Polka Debs,pop,19480529,11,11,1,19480529
-12,5,Manana,Peggy Lee,Peggy Lee,jazz,19480131,8,1,21,19480529
-13,13,Sabre Dance Boogie,Freddy Martin / Barclay Allen,Freddy Martin / Barclay Allen,pop,19480522,13,13,2,19480529
-14,15,Just Because,Frankie Yankovic / Johnny Pecon,Frankie Yankovic / Johnny Pecon,pop,19480522,15,14,2,19480529
-15,NEW,You Can't Be True Dear,Vera Lynn,Vera Lynn,pop,19480529,15,14,2,19480529
-1,1,Nature Boy,Nat King Cole,Nat King Cole,jazz,19480424,15,1,15,19480522
-2,2,You Can't Be True Dear,Ken Griffin / Jerry Wayne,Ken Griffin / Jerry Wayne,pop,19480410,10,2,20,19480522
-3,4,Little White Lies,Dick Haymes,Dick Haymes,jazz,19480410,11,3,21,19480522
-4,5,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,19480131,15,2,22,19480522
-5,3,Manana,Peggy Lee,Peggy Lee,jazz,19480131,8,1,21,19480522
-6,6,Toolie Oolie Doolie (The Yodel Polka),Andrews Sisters,Andrews Sisters,jazz,19480424,14,4,15,19480522
-7,8,The Dickey-Bird Song,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,19480508,12,5,10,19480522
-8,7,Baby Face,Art Mooney / Choir,Art Mooney / Choir,pop,19480403,13,5,13,19480522
-9,9,St. Louis Blues March,Tex Beneke,Tex Beneke,jazz,19480417,9,5,14,19480522
-10,13,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,19480515,13,3,24,19480522
-11,10,Because,Perry Como,Perry Como,jazz,19480313,11,4,16,19480522
-12,14,Sabre Dance,Woody Herman,Woody Herman,jazz,19480403,15,7,8,19480522
-13,NEW,Sabre Dance Boogie,Freddy Martin / Barclay Allen,Freddy Martin / Barclay Allen,pop,19480522,13,13,2,19480522
-14,11,Tell Me A Story,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19480515,11,11,2,19480522
-15,NEW,Just Because,Frankie Yankovic / Johnny Pecon,Frankie Yankovic / Johnny Pecon,pop,19480522,15,14,2,19480522
-1,2,Nature Boy,Nat King Cole,Nat King Cole,jazz,19480424,15,1,15,19480515
-2,4,You Can't Be True Dear,Ken Griffin / Jerry Wayne,Ken Griffin / Jerry Wayne,pop,19480410,10,2,20,19480515
-3,1,Manana,Peggy Lee,Peggy Lee,jazz,19480131,8,1,21,19480515
-4,6,Little White Lies,Dick Haymes,Dick Haymes,jazz,19480410,11,3,21,19480515
-5,3,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,19480131,15,2,22,19480515
-6,5,Toolie Oolie Doolie (The Yodel Polka),Andrews Sisters,Andrews Sisters,jazz,19480424,14,4,15,19480515
-7,7,Baby Face,Art Mooney / Choir,Art Mooney / Choir,pop,19480403,13,5,13,19480515
-8,12,The Dickey-Bird Song,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,19480508,12,5,10,19480515
-9,9,St. Louis Blues March,Tex Beneke,Tex Beneke,jazz,19480417,9,5,14,19480515
-10,11,Because,Perry Como,Perry Como,jazz,19480313,11,4,16,19480515
-11,NEW,Tell Me A Story,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19480515,11,11,2,19480515
-12,13,Toolie Oolie Doolie (The Yodel Polka),Vaughn Horton / Polka Debs,Vaughn Horton / Polka Debs,pop,19480508,13,12,2,19480515
-13,NEW,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,19480515,13,3,24,19480515
-14,8,Sabre Dance,Woody Herman,Woody Herman,jazz,19480403,15,7,8,19480515
-15,15,Shine,Frankie Laine,Frankie Laine,country / folk,19480410,12,12,6,19480515
-1,1,Manana,Peggy Lee,Peggy Lee,jazz,19480131,8,1,21,19480508
-2,7,Nature Boy,Nat King Cole,Nat King Cole,jazz,19480424,15,1,15,19480508
-3,2,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,19480131,15,2,22,19480508
-4,3,You Can't Be True Dear,Ken Griffin / Jerry Wayne,Ken Griffin / Jerry Wayne,pop,19480410,10,2,20,19480508
-5,8,Toolie Oolie Doolie (The Yodel Polka),Andrews Sisters,Andrews Sisters,jazz,19480424,14,4,15,19480508
-6,4,Little White Lies,Dick Haymes,Dick Haymes,jazz,19480410,11,3,21,19480508
-7,6,Baby Face,Art Mooney / Choir,Art Mooney / Choir,pop,19480403,13,5,13,19480508
-8,9,Sabre Dance,Woody Herman,Woody Herman,jazz,19480403,15,7,8,19480508
-9,5,St. Louis Blues March,Tex Beneke,Tex Beneke,jazz,19480417,9,5,14,19480508
-10,10,Sabre Dance Boogie,Freddy Martin / Barclay Allen,Freddy Martin / Barclay Allen,pop,19480403,14,6,6,19480508
-11,12,Because,Perry Como,Perry Como,jazz,19480313,11,4,16,19480508
-12,NEW,The Dickey-Bird Song,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,19480508,12,5,10,19480508
-13,NEW,Toolie Oolie Doolie (The Yodel Polka),Vaughn Horton / Polka Debs,Vaughn Horton / Polka Debs,pop,19480508,13,12,2,19480508
-14,11,I'm Looing Over A 4-Leaf Clover,Art Mooney / Choir,Art Mooney / Choir,pop,19480124,14,1,16,19480508
-15,13,Shine,Frankie Laine,Frankie Laine,country / folk,19480410,12,12,6,19480508
-1,1,Manana,Peggy Lee,Peggy Lee,jazz,19480131,8,1,21,19480501
-2,2,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,19480131,15,2,22,19480501
-3,4,You Can't Be True Dear,Ken Griffin / Jerry Wayne,Ken Griffin / Jerry Wayne,pop,19480410,10,2,20,19480501
-4,3,Little White Lies,Dick Haymes,Dick Haymes,jazz,19480410,11,3,21,19480501
-5,10,St. Louis Blues March,Tex Beneke,Tex Beneke,jazz,19480417,9,5,14,19480501
-6,7,Baby Face,Art Mooney / Choir,Art Mooney / Choir,pop,19480403,13,5,13,19480501
-7,15,Nature Boy,Nat King Cole,Nat King Cole,jazz,19480424,15,1,15,19480501
-8,14,Toolie Oolie Doolie (The Yodel Polka),Andrews Sisters,Andrews Sisters,jazz,19480424,14,4,15,19480501
-9,8,Sabre Dance,Woody Herman,Woody Herman,jazz,19480403,15,7,8,19480501
-10,11,Sabre Dance Boogie,Freddy Martin / Barclay Allen,Freddy Martin / Barclay Allen,pop,19480403,14,6,6,19480501
-11,5,I'm Looing Over A 4-Leaf Clover,Art Mooney / Choir,Art Mooney / Choir,pop,19480124,14,1,16,19480501
-12,6,Because,Perry Como,Perry Como,jazz,19480313,11,4,16,19480501
-13,12,Shine,Frankie Laine,Frankie Laine,country / folk,19480410,12,12,6,19480501
-14,9,Now Is The Hour,Gracie Fields,Gracie Fields,pop,19480131,13,4,14,19480501
-15,13,Beg Your Pardon,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,19480117,14,4,16,19480501
-1,1,Manana,Peggy Lee,Peggy Lee,jazz,19480131,8,1,21,19480424
-2,2,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,19480131,15,2,22,19480424
-3,11,Little White Lies,Dick Haymes,Dick Haymes,jazz,19480410,11,3,21,19480424
-4,8,You Can't Be True Dear,Ken Griffin / Jerry Wayne,Ken Griffin / Jerry Wayne,pop,19480410,10,2,20,19480424
-5,3,I'm Looing Over A 4-Leaf Clover,Art Mooney / Choir,Art Mooney / Choir,pop,19480124,14,1,16,19480424
-6,4,Because,Perry Como,Perry Como,jazz,19480313,11,4,16,19480424
-7,5,Baby Face,Art Mooney / Choir,Art Mooney / Choir,pop,19480403,13,5,13,19480424
-8,7,Sabre Dance,Woody Herman,Woody Herman,jazz,19480403,15,7,8,19480424
-9,10,Now Is The Hour,Gracie Fields,Gracie Fields,pop,19480131,13,4,14,19480424
-10,9,St. Louis Blues March,Tex Beneke,Tex Beneke,jazz,19480417,9,5,14,19480424
-11,6,Sabre Dance Boogie,Freddy Martin / Barclay Allen,Freddy Martin / Barclay Allen,pop,19480403,14,6,6,19480424
-12,15,Shine,Frankie Laine,Frankie Laine,country / folk,19480410,12,12,6,19480424
-13,14,Beg Your Pardon,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,19480117,14,4,16,19480424
-14,NEW,Toolie Oolie Doolie (The Yodel Polka),Andrews Sisters,Andrews Sisters,jazz,19480424,14,4,15,19480424
-15,NEW,Nature Boy,Nat King Cole,Nat King Cole,jazz,19480424,15,1,15,19480424
-1,1,Manana,Peggy Lee,Peggy Lee,jazz,19480131,8,1,21,19480417
-2,2,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,19480131,15,2,22,19480417
-3,3,I'm Looing Over A 4-Leaf Clover,Art Mooney / Choir,Art Mooney / Choir,pop,19480124,14,1,16,19480417
-4,7,Because,Perry Como,Perry Como,jazz,19480313,11,4,16,19480417
-5,8,Baby Face,Art Mooney / Choir,Art Mooney / Choir,pop,19480403,13,5,13,19480417
-6,15,Sabre Dance Boogie,Freddy Martin / Barclay Allen,Freddy Martin / Barclay Allen,pop,19480403,14,6,6,19480417
-7,13,Sabre Dance,Woody Herman,Woody Herman,jazz,19480403,15,7,8,19480417
-8,10,You Can't Be True Dear,Ken Griffin / Jerry Wayne,Ken Griffin / Jerry Wayne,pop,19480410,10,2,20,19480417
-9,NEW,St. Louis Blues March,Tex Beneke,Tex Beneke,jazz,19480417,9,5,14,19480417
-10,4,Now Is The Hour,Gracie Fields,Gracie Fields,pop,19480131,13,4,14,19480417
-11,11,Little White Lies,Dick Haymes,Dick Haymes,jazz,19480410,11,3,21,19480417
-12,NEW,Now Is The Hour,Eddy Howard,Eddy Howard,jazz,19480417,12,12,1,19480417
-13,9,I'm Looking Over A 4-Leaf Clover,Russ Morgan / Ames Brothers,Russ Morgan / Ames Brothers,pop,19480221,15,7,9,19480417
-14,5,Beg Your Pardon,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,19480117,14,4,16,19480417
-15,12,Shine,Frankie Laine,Frankie Laine,country / folk,19480410,12,12,6,19480417
-1,1,Manana,Peggy Lee,Peggy Lee,jazz,19480131,8,1,21,19480410
-2,2,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,19480131,15,2,22,19480410
-3,3,I'm Looing Over A 4-Leaf Clover,Art Mooney / Choir,Art Mooney / Choir,pop,19480124,14,1,16,19480410
-4,4,Now Is The Hour,Gracie Fields,Gracie Fields,pop,19480131,13,4,14,19480410
-5,5,Beg Your Pardon,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,19480117,14,4,16,19480410
-6,6,Beg Your Pardon,Francis Craig / Marjorie Hughes,Francis Craig / Marjorie Hughes,pop,19480221,8,6,8,19480410
-7,7,Because,Perry Como,Perry Como,jazz,19480313,11,4,16,19480410
-8,13,Baby Face,Art Mooney / Choir,Art Mooney / Choir,pop,19480403,13,5,13,19480410
-9,9,I'm Looking Over A 4-Leaf Clover,Russ Morgan / Ames Brothers,Russ Morgan / Ames Brothers,pop,19480221,15,7,9,19480410
-10,NEW,You Can't Be True Dear,Ken Griffin / Jerry Wayne,Ken Griffin / Jerry Wayne,pop,19480410,10,2,20,19480410
-11,NEW,Little White Lies,Dick Haymes,Dick Haymes,jazz,19480410,11,3,21,19480410
-12,NEW,Shine,Frankie Laine,Frankie Laine,country / folk,19480410,12,12,6,19480410
-13,15,Sabre Dance,Woody Herman,Woody Herman,jazz,19480403,15,7,8,19480410
-14,12,Now Is The Hour,Margaret Whiting,Margaret Whiting,pop,19480228,12,8,7,19480410
-15,14,Sabre Dance Boogie,Freddy Martin / Barclay Allen,Freddy Martin / Barclay Allen,pop,19480403,14,6,6,19480410
-1,1,Manana,Peggy Lee,Peggy Lee,jazz,19480131,8,1,21,19480403
-2,2,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,19480131,15,2,22,19480403
-3,3,I'm Looing Over A 4-Leaf Clover,Art Mooney / Choir,Art Mooney / Choir,pop,19480124,14,1,16,19480403
-4,4,Now Is The Hour,Gracie Fields,Gracie Fields,pop,19480131,13,4,14,19480403
-5,5,Beg Your Pardon,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,19480117,14,4,16,19480403
-6,6,Beg Your Pardon,Francis Craig / Marjorie Hughes,Francis Craig / Marjorie Hughes,pop,19480221,8,6,8,19480403
-7,11,Because,Perry Como,Perry Como,jazz,19480313,11,4,16,19480403
-8,9,Beg Your Pardon,Larry Green,Larry Green,pop,19480306,13,8,5,19480403
-9,7,I'm Looking Over A 4-Leaf Clover,Russ Morgan / Ames Brothers,Russ Morgan / Ames Brothers,pop,19480221,15,7,9,19480403
-10,12,"Slap 'er Down Agin, Paw",Arthur Godfrey,Arthur Godfrey,pop,19480221,13,8,7,19480403
-11,13,Now Is The Hour,Eddy Howard,Eddy Howard,jazz,19480214,14,8,8,19480403
-12,8,Now Is The Hour,Margaret Whiting,Margaret Whiting,pop,19480228,12,8,7,19480403
-13,NEW,Baby Face,Art Mooney / Choir,Art Mooney / Choir,pop,19480403,13,5,13,19480403
-14,NEW,Sabre Dance Boogie,Freddy Martin / Barclay Allen,Freddy Martin / Barclay Allen,pop,19480403,14,6,6,19480403
-15,NEW,Sabre Dance,Woody Herman,Woody Herman,jazz,19480403,15,7,8,19480403
-1,1,Manana,Peggy Lee,Peggy Lee,jazz,19480131,8,1,21,19480327
-2,2,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,19480131,15,2,22,19480327
-3,3,I'm Looing Over A 4-Leaf Clover,Art Mooney / Choir,Art Mooney / Choir,pop,19480124,14,1,16,19480327
-4,4,Now Is The Hour,Gracie Fields,Gracie Fields,pop,19480131,13,4,14,19480327
-5,5,Beg Your Pardon,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,19480117,14,4,16,19480327
-6,6,Beg Your Pardon,Francis Craig / Marjorie Hughes,Francis Craig / Marjorie Hughes,pop,19480221,8,6,8,19480327
-7,7,I'm Looking Over A 4-Leaf Clover,Russ Morgan / Ames Brothers,Russ Morgan / Ames Brothers,pop,19480221,15,7,9,19480327
-8,9,Now Is The Hour,Margaret Whiting,Margaret Whiting,pop,19480228,12,8,7,19480327
-9,11,Beg Your Pardon,Larry Green,Larry Green,pop,19480306,13,8,5,19480327
-10,8,Ballerina,Vaughn Monroe,Vaughn Monroe,jazz,19471108,4,1,21,19480327
-11,14,Because,Perry Como,Perry Como,jazz,19480313,11,4,16,19480327
-12,10,"Slap 'er Down Agin, Paw",Arthur Godfrey,Arthur Godfrey,pop,19480221,13,8,7,19480327
-13,12,Now Is The Hour,Eddy Howard,Eddy Howard,jazz,19480214,14,8,8,19480327
-14,NEW,Now Is The Hour,Charlie Spivak / Tommy Mercer,Charlie Spivak / Tommy Mercer,pop,19480327,14,14,1,19480327
-15,13,I'm Looking Over A 4-Leaf Clover,Three Suns / Artie Dunn,Three Suns / Artie Dunn,pop,19480306,14,13,4,19480327
-1,1,Manana,Peggy Lee,Peggy Lee,jazz,19480131,8,1,21,19480320
-2,3,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,19480131,15,2,22,19480320
-3,2,I'm Looing Over A 4-Leaf Clover,Art Mooney / Choir,Art Mooney / Choir,pop,19480124,14,1,16,19480320
-4,5,Now Is The Hour,Gracie Fields,Gracie Fields,pop,19480131,13,4,14,19480320
-5,4,Beg Your Pardon,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,19480117,14,4,16,19480320
-6,8,Beg Your Pardon,Francis Craig / Marjorie Hughes,Francis Craig / Marjorie Hughes,pop,19480221,8,6,8,19480320
-7,7,I'm Looking Over A 4-Leaf Clover,Russ Morgan / Ames Brothers,Russ Morgan / Ames Brothers,pop,19480221,15,7,9,19480320
-8,6,Ballerina,Vaughn Monroe,Vaughn Monroe,jazz,19471108,4,1,21,19480320
-9,9,Now Is The Hour,Margaret Whiting,Margaret Whiting,pop,19480228,12,8,7,19480320
-10,10,"Slap 'er Down Agin, Paw",Arthur Godfrey,Arthur Godfrey,pop,19480221,13,8,7,19480320
-11,15,Beg Your Pardon,Larry Green,Larry Green,pop,19480306,13,8,5,19480320
-12,14,Now Is The Hour,Eddy Howard,Eddy Howard,jazz,19480214,14,8,8,19480320
-13,13,I'm Looking Over A 4-Leaf Clover,Three Suns / Artie Dunn,Three Suns / Artie Dunn,pop,19480306,14,13,4,19480320
-14,11,Because,Perry Como,Perry Como,jazz,19480313,11,4,16,19480320
-15,NEW,Shine,Frankie Laine,Frankie Laine,country / folk,19480320,15,15,1,19480320
-1,2,Manana,Peggy Lee,Peggy Lee,jazz,19480131,8,1,21,19480313
-2,1,I'm Looing Over A 4-Leaf Clover,Art Mooney / Choir,Art Mooney / Choir,pop,19480124,14,1,16,19480313
-3,3,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,19480131,15,2,22,19480313
-4,6,Beg Your Pardon,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,19480117,14,4,16,19480313
-5,5,Now Is The Hour,Gracie Fields,Gracie Fields,pop,19480131,13,4,14,19480313
-6,4,Ballerina,Vaughn Monroe,Vaughn Monroe,jazz,19471108,4,1,21,19480313
-7,10,I'm Looking Over A 4-Leaf Clover,Russ Morgan / Ames Brothers,Russ Morgan / Ames Brothers,pop,19480221,15,7,9,19480313
-8,7,Beg Your Pardon,Francis Craig / Marjorie Hughes,Francis Craig / Marjorie Hughes,pop,19480221,8,6,8,19480313
-9,11,Now Is The Hour,Margaret Whiting,Margaret Whiting,pop,19480228,12,8,7,19480313
-10,9,"Slap 'er Down Agin, Paw",Arthur Godfrey,Arthur Godfrey,pop,19480221,13,8,7,19480313
-11,NEW,Because,Perry Como,Perry Como,jazz,19480313,11,4,16,19480313
-12,12,Golden Earrings,Peggy Lee,Peggy Lee,jazz,19480103,8,2,11,19480313
-13,14,I'm Looking Over A 4-Leaf Clover,Three Suns / Artie Dunn,Three Suns / Artie Dunn,pop,19480306,14,13,4,19480313
-14,8,Now Is The Hour,Eddy Howard,Eddy Howard,jazz,19480214,14,8,8,19480313
-15,13,Beg Your Pardon,Larry Green,Larry Green,pop,19480306,13,8,5,19480313
-1,1,I'm Looing Over A 4-Leaf Clover,Art Mooney / Choir,Art Mooney / Choir,pop,19480124,14,1,16,19480306
-2,2,Manana,Peggy Lee,Peggy Lee,jazz,19480131,8,1,21,19480306
-3,3,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,19480131,15,2,22,19480306
-4,4,Ballerina,Vaughn Monroe,Vaughn Monroe,jazz,19471108,4,1,21,19480306
-5,6,Now Is The Hour,Gracie Fields,Gracie Fields,pop,19480131,13,4,14,19480306
-6,5,Beg Your Pardon,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,19480117,14,4,16,19480306
-7,7,Beg Your Pardon,Francis Craig / Marjorie Hughes,Francis Craig / Marjorie Hughes,pop,19480221,8,6,8,19480306
-8,10,Now Is The Hour,Eddy Howard,Eddy Howard,jazz,19480214,14,8,8,19480306
-9,8,"Slap 'er Down Agin, Paw",Arthur Godfrey,Arthur Godfrey,pop,19480221,13,8,7,19480306
-10,9,I'm Looking Over A 4-Leaf Clover,Russ Morgan / Ames Brothers,Russ Morgan / Ames Brothers,pop,19480221,15,7,9,19480306
-11,12,Now Is The Hour,Margaret Whiting,Margaret Whiting,pop,19480228,12,8,7,19480306
-12,11,Golden Earrings,Peggy Lee,Peggy Lee,jazz,19480103,8,2,11,19480306
-13,NEW,Beg Your Pardon,Larry Green,Larry Green,pop,19480306,13,8,5,19480306
-14,NEW,I'm Looking Over A 4-Leaf Clover,Three Suns / Artie Dunn,Three Suns / Artie Dunn,pop,19480306,14,13,4,19480306
-15,13,Serenade Of The Bells,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19471129,12,4,15,19480306
-1,1,I'm Looing Over A 4-Leaf Clover,Art Mooney / Choir,Art Mooney / Choir,pop,19480124,14,1,16,19480228
-2,4,Manana,Peggy Lee,Peggy Lee,jazz,19480131,8,1,21,19480228
-3,3,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,19480131,15,2,22,19480228
-4,2,Ballerina,Vaughn Monroe,Vaughn Monroe,jazz,19471108,4,1,21,19480228
-5,7,Beg Your Pardon,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,19480117,14,4,16,19480228
-6,6,Now Is The Hour,Gracie Fields,Gracie Fields,pop,19480131,13,4,14,19480228
-7,8,Beg Your Pardon,Francis Craig / Marjorie Hughes,Francis Craig / Marjorie Hughes,pop,19480221,8,6,8,19480228
-8,13,"Slap 'er Down Agin, Paw",Arthur Godfrey,Arthur Godfrey,pop,19480221,13,8,7,19480228
-9,15,I'm Looking Over A 4-Leaf Clover,Russ Morgan / Ames Brothers,Russ Morgan / Ames Brothers,pop,19480221,15,7,9,19480228
-10,10,Now Is The Hour,Eddy Howard,Eddy Howard,jazz,19480214,14,8,8,19480228
-11,5,Golden Earrings,Peggy Lee,Peggy Lee,jazz,19480103,8,2,11,19480228
-12,NEW,Now Is The Hour,Margaret Whiting,Margaret Whiting,pop,19480228,12,8,7,19480228
-13,9,Serenade Of The Bells,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19471129,12,4,15,19480228
-14,12,I'm Looking Over A 4-Leaf Clover,Uptown String Band,Uptown String Band,pop,19480221,12,12,2,19480228
-15,NEW,Too Fat Polka,Arthur Godfrey,Arthur Godfrey,pop,19480228,15,15,1,19480228
-1,2,I'm Looing Over A 4-Leaf Clover,Art Mooney / Choir,Art Mooney / Choir,pop,19480124,14,1,16,19480221
-2,1,Ballerina,Vaughn Monroe,Vaughn Monroe,jazz,19471108,4,1,21,19480221
-3,7,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,19480131,15,2,22,19480221
-4,3,Manana,Peggy Lee,Peggy Lee,jazz,19480131,8,1,21,19480221
-5,4,Golden Earrings,Peggy Lee,Peggy Lee,jazz,19480103,8,2,11,19480221
-6,9,Now Is The Hour,Gracie Fields,Gracie Fields,pop,19480131,13,4,14,19480221
-7,8,Beg Your Pardon,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,19480117,14,4,16,19480221
-8,NEW,Beg Your Pardon,Francis Craig / Marjorie Hughes,Francis Craig / Marjorie Hughes,pop,19480221,8,6,8,19480221
-9,6,Serenade Of The Bells,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19471129,12,4,15,19480221
-10,14,Now Is The Hour,Eddy Howard,Eddy Howard,jazz,19480214,14,8,8,19480221
-11,11,Ballerina,Bing Crosby,Bing Crosby,jazz,19480117,15,10,6,19480221
-12,NEW,I'm Looking Over A 4-Leaf Clover,Uptown String Band,Uptown String Band,pop,19480221,12,12,2,19480221
-13,NEW,"Slap 'er Down Agin, Paw",Arthur Godfrey,Arthur Godfrey,pop,19480221,13,8,7,19480221
-14,NEW,Serenade Of The Bells,Jo Stafford,Jo Stafford,jazz,19480221,14,14,1,19480221
-15,NEW,I'm Looking Over A 4-Leaf Clover,Russ Morgan / Ames Brothers,Russ Morgan / Ames Brothers,pop,19480221,15,7,9,19480221
-1,1,Ballerina,Vaughn Monroe,Vaughn Monroe,jazz,19471108,4,1,21,19480214
-2,2,I'm Looing Over A 4-Leaf Clover,Art Mooney / Choir,Art Mooney / Choir,pop,19480124,14,1,16,19480214
-3,6,Manana,Peggy Lee,Peggy Lee,jazz,19480131,8,1,21,19480214
-4,3,Golden Earrings,Peggy Lee,Peggy Lee,jazz,19480103,8,2,11,19480214
-5,5,Too Fat Polka,Arthur Godfrey,Arthur Godfrey,pop,19471122,7,2,13,19480214
-6,7,Serenade Of The Bells,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19471129,12,4,15,19480214
-7,10,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,19480131,15,2,22,19480214
-8,8,Beg Your Pardon,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,19480117,14,4,16,19480214
-9,11,Now Is The Hour,Gracie Fields,Gracie Fields,pop,19480131,13,4,14,19480214
-10,12,I'm My Own Grandpaw,Guy Lombardo / Trio,Guy Lombardo / Trio,pop,19480131,10,10,3,19480214
-11,15,Ballerina,Bing Crosby,Bing Crosby,jazz,19480117,15,10,6,19480214
-12,13,How Soon,Vaughn Monroe,Vaughn Monroe,jazz,19471129,14,5,12,19480214
-13,4,I'll Dance At Your Wedding,Ray Noble / Buddy Clark / Anita Gordon,Ray Noble / Buddy Clark / Anita Gordon,pop,19480103,7,3,7,19480214
-14,NEW,Now Is The Hour,Eddy Howard,Eddy Howard,jazz,19480214,14,8,8,19480214
-15,NEW,Ballerina,Buddy Clark,Buddy Clark,jazz,19480214,15,15,1,19480214
-1,1,Ballerina,Vaughn Monroe,Vaughn Monroe,jazz,19471108,4,1,21,19480207
-2,3,I'm Looing Over A 4-Leaf Clover,Art Mooney / Choir,Art Mooney / Choir,pop,19480124,14,1,16,19480207
-3,2,Golden Earrings,Peggy Lee,Peggy Lee,jazz,19480103,8,2,11,19480207
-4,6,I'll Dance At Your Wedding,Ray Noble / Buddy Clark / Anita Gordon,Ray Noble / Buddy Clark / Anita Gordon,pop,19480103,7,3,7,19480207
-5,4,Too Fat Polka,Arthur Godfrey,Arthur Godfrey,pop,19471122,7,2,13,19480207
-6,8,Manana,Peggy Lee,Peggy Lee,jazz,19480131,8,1,21,19480207
-7,5,Serenade Of The Bells,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19471129,12,4,15,19480207
-8,11,Beg Your Pardon,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,19480117,14,4,16,19480207
-9,7,Serenade Of The Bells,Jo Stafford,Jo Stafford,jazz,19471220,12,6,8,19480207
-10,15,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,19480131,15,2,22,19480207
-11,13,Now Is The Hour,Gracie Fields,Gracie Fields,pop,19480131,13,4,14,19480207
-12,10,I'm My Own Grandpaw,Guy Lombardo / Trio,Guy Lombardo / Trio,pop,19480131,10,10,3,19480207
-13,14,How Soon,Vaughn Monroe,Vaughn Monroe,jazz,19471129,14,5,12,19480207
-14,NEW,Beg Your Pardon,Francis Craig / Marjorie Hughes,Francis Craig / Marjorie Hughes,pop,19480207,14,14,1,19480207
-15,12,Ballerina,Bing Crosby,Bing Crosby,jazz,19480117,15,10,6,19480207
-1,1,Ballerina,Vaughn Monroe,Vaughn Monroe,jazz,19471108,4,1,21,19480131
-2,3,Golden Earrings,Peggy Lee,Peggy Lee,jazz,19480103,8,2,11,19480131
-3,14,I'm Looing Over A 4-Leaf Clover,Art Mooney / Choir,Art Mooney / Choir,pop,19480124,14,1,16,19480131
-4,2,Too Fat Polka,Arthur Godfrey,Arthur Godfrey,pop,19471122,7,2,13,19480131
-5,4,Serenade Of The Bells,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19471129,12,4,15,19480131
-6,5,I'll Dance At Your Wedding,Ray Noble / Buddy Clark / Anita Gordon,Ray Noble / Buddy Clark / Anita Gordon,pop,19480103,7,3,7,19480131
-7,6,Serenade Of The Bells,Jo Stafford,Jo Stafford,jazz,19471220,12,6,8,19480131
-8,NEW,Manana,Peggy Lee,Peggy Lee,jazz,19480131,8,1,21,19480131
-9,9,How Soon,Bing Crosby / Carmen Cavallaro,Bing Crosby / Carmen Cavallaro,pop,19471213,9,9,8,19480131
-10,NEW,I'm My Own Grandpaw,Guy Lombardo / Trio,Guy Lombardo / Trio,pop,19480131,10,10,3,19480131
-11,12,Beg Your Pardon,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,19480117,14,4,16,19480131
-12,10,Ballerina,Bing Crosby,Bing Crosby,jazz,19480117,15,10,6,19480131
-13,NEW,Now Is The Hour,Gracie Fields,Gracie Fields,pop,19480131,13,4,14,19480131
-14,7,How Soon,Vaughn Monroe,Vaughn Monroe,jazz,19471129,14,5,12,19480131
-15,NEW,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,19480131,15,2,22,19480131
-1,1,Ballerina,Vaughn Monroe,Vaughn Monroe,jazz,19471108,4,1,21,19480124
-2,2,Too Fat Polka,Arthur Godfrey,Arthur Godfrey,pop,19471122,7,2,13,19480124
-3,5,Golden Earrings,Peggy Lee,Peggy Lee,jazz,19480103,8,2,11,19480124
-4,4,Serenade Of The Bells,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19471129,12,4,15,19480124
-5,3,I'll Dance At Your Wedding,Ray Noble / Buddy Clark / Anita Gordon,Ray Noble / Buddy Clark / Anita Gordon,pop,19480103,7,3,7,19480124
-6,8,Serenade Of The Bells,Jo Stafford,Jo Stafford,jazz,19471220,12,6,8,19480124
-7,6,How Soon,Vaughn Monroe,Vaughn Monroe,jazz,19471129,14,5,12,19480124
-8,7,Civilization,Danny Kaye / Andrews Sisters,Danny Kaye / Andrews Sisters,pop,19480110,3,3,3,19480124
-9,10,How Soon,Bing Crosby / Carmen Cavallaro,Bing Crosby / Carmen Cavallaro,pop,19471213,9,9,8,19480124
-10,15,Ballerina,Bing Crosby,Bing Crosby,jazz,19480117,15,10,6,19480124
-11,9,Near You,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,19470906,4,1,21,19480124
-12,14,Beg Your Pardon,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,19480117,14,4,16,19480124
-13,13,Ballerina,Buddy Clark,Buddy Clark,jazz,19480110,10,10,3,19480124
-14,NEW,I'm Looing Over A 4-Leaf Clover,Art Mooney / Choir,Art Mooney / Choir,pop,19480124,14,1,16,19480124
-15,11,How Soon,Jack Owens,Jack Owens,pop,19480103,10,6,4,19480124
-1,1,Ballerina,Vaughn Monroe,Vaughn Monroe,jazz,19471108,4,1,21,19480117
-2,2,Too Fat Polka,Arthur Godfrey,Arthur Godfrey,pop,19471122,7,2,13,19480117
-3,9,I'll Dance At Your Wedding,Ray Noble / Buddy Clark / Anita Gordon,Ray Noble / Buddy Clark / Anita Gordon,pop,19480103,7,3,7,19480117
-4,8,Serenade Of The Bells,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19471129,12,4,15,19480117
-5,7,Golden Earrings,Peggy Lee,Peggy Lee,jazz,19480103,8,2,11,19480117
-6,5,How Soon,Vaughn Monroe,Vaughn Monroe,jazz,19471129,14,5,12,19480117
-7,3,Civilization,Danny Kaye / Andrews Sisters,Danny Kaye / Andrews Sisters,pop,19480110,3,3,3,19480117
-8,12,Serenade Of The Bells,Jo Stafford,Jo Stafford,jazz,19471220,12,6,8,19480117
-9,4,Near You,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,19470906,4,1,21,19480117
-10,11,How Soon,Bing Crosby / Carmen Cavallaro,Bing Crosby / Carmen Cavallaro,pop,19471213,9,9,8,19480117
-11,6,How Soon,Jack Owens,Jack Owens,pop,19480103,10,6,4,19480117
-12,14,Civilization,Louis Prima,Louis Prima,jazz,19480110,14,12,2,19480117
-13,10,Ballerina,Buddy Clark,Buddy Clark,jazz,19480110,10,10,3,19480117
-14,NEW,Beg Your Pardon,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,19480117,14,4,16,19480117
-15,NEW,Ballerina,Bing Crosby,Bing Crosby,jazz,19480117,15,10,6,19480117
-1,1,Ballerina,Vaughn Monroe,Vaughn Monroe,jazz,19471108,4,1,21,19480110
-2,2,Too Fat Polka,Arthur Godfrey,Arthur Godfrey,pop,19471122,7,2,13,19480110
-3,NEW,Civilization,Danny Kaye / Andrews Sisters,Danny Kaye / Andrews Sisters,pop,19480110,3,3,3,19480110
-4,4,Near You,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,19470906,4,1,21,19480110
-5,6,How Soon,Vaughn Monroe,Vaughn Monroe,jazz,19471129,14,5,12,19480110
-6,10,How Soon,Jack Owens,Jack Owens,pop,19480103,10,6,4,19480110
-7,8,Golden Earrings,Peggy Lee,Peggy Lee,jazz,19480103,8,2,11,19480110
-8,5,Serenade Of The Bells,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19471129,12,4,15,19480110
-9,7,I'll Dance At Your Wedding,Ray Noble / Buddy Clark / Anita Gordon,Ray Noble / Buddy Clark / Anita Gordon,pop,19480103,7,3,7,19480110
-10,NEW,Ballerina,Buddy Clark,Buddy Clark,jazz,19480110,10,10,3,19480110
-11,11,How Soon,Bing Crosby / Carmen Cavallaro,Bing Crosby / Carmen Cavallaro,pop,19471213,9,9,8,19480110
-12,9,Serenade Of The Bells,Jo Stafford,Jo Stafford,jazz,19471220,12,6,8,19480110
-13,NEW,You Do,Bing Crosby / Carmen Cavallaro,Bing Crosby / Carmen Cavallaro,pop,19480110,13,13,1,19480110
-14,NEW,Civilization,Louis Prima,Louis Prima,jazz,19480110,14,12,2,19480110
-15,NEW,Near You,Larry Green / Trio,Larry Green / Trio,pop,19480110,15,15,1,19480110
-1,1,Ballerina,Vaughn Monroe,Vaughn Monroe,jazz,19471108,4,1,21,19480103
-2,2,Too Fat Polka,Arthur Godfrey,Arthur Godfrey,pop,19471122,7,2,13,19480103
-3,4,White Christmas,Bing Crosby,Bing Crosby,jazz,19471213,6,3,4,19480103
-4,3,Near You,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,19470906,4,1,21,19480103
-5,7,Serenade Of The Bells,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,19471129,12,4,15,19480103
-6,6,How Soon,Vaughn Monroe,Vaughn Monroe,jazz,19471129,14,5,12,19480103
-7,NEW,I'll Dance At Your Wedding,Ray Noble / Buddy Clark / Anita Gordon,Ray Noble / Buddy Clark / Anita Gordon,pop,19480103,7,3,7,19480103
-8,NEW,Golden Earrings,Peggy Lee,Peggy Lee,jazz,19480103,8,2,11,19480103
-9,15,Serenade Of The Bells,Jo Stafford,Jo Stafford,jazz,19471220,12,6,8,19480103
-10,NEW,How Soon,Jack Owens,Jack Owens,pop,19480103,10,6,4,19480103
-11,10,How Soon,Bing Crosby / Carmen Cavallaro,Bing Crosby / Carmen Cavallaro,pop,19471213,9,9,8,19480103
-12,9,Here Comes Santa Claus,Gene Autry,Gene Autry,country / folk,19471227,9,9,2,19480103
-13,NEW,Serenade Of The Bells,Kay Kyser / Harry Babbitt / Campus Kids,Kay Kyser / Harry Babbitt / Campus Kids,pop,19480103,13,13,1,19480103
-14,NEW,Civilization,Ray Mckinley,Ray Mckinley,pop,19480103,14,14,1,19480103
-15,NEW,Civilization,Woody Herman,Woody Herman,jazz,19480103,15,15,1,19480103
+this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genre,entry_date,entry_position,peak_position,total_weeks,chart_date
+1,1,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,jazz,19481002,18,1,23,19481225
+2,3,All I Want For Christmas (Is My Two Front Teeth),Spike Jones,Spike Jones,pop,comedy,19481127,17,1,8,19481225
+3,2,On A Slow Boat To China,Kay Kyser / Harry Babbitt / Gloria Wood,Kay Kyser / Harry Babbitt / Gloria Wood,pop,unknown,19481023,20,2,17,19481225
+4,5,A Little Bird Told Me,Evelyn Knight,Evelyn Knight,jazz,jazz,19481120,20,1,20,19481225
+5,4,My Darling My Darling,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19481113,18,3,15,19481225
+6,6,On A Slow Boat To China,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,unknown,19481106,17,5,14,19481225
+7,11,White Christmas,Bing Crosby,Bing Crosby,jazz,jazz,19481218,11,6,4,19481225
+8,10,Buttons And Bows,Dinning Sisters,Dinning Sisters,pop,standards,19481106,8,7,8,19481225
+9,12,Until,Tommy Dorsey / Harry Prime / Clark Sisters,Tommy Dorsey / Harry Prime / Clark Sisters,pop,unknown,19480918,15,6,18,19481225
+10,7,My Darling My Darling,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,unknown,19481204,11,7,9,19481225
+11,13,You Were Only Fooling,Blue Barron / Clyde Burke,Blue Barron / Clyde Burke,pop,unknown,19481023,16,9,12,19481225
+12,15,On A Slow Boat To China,Eddy Howard,Eddy Howard,jazz,jazz,19481127,13,12,6,19481225
+13,18,Lavender Blue,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19481218,18,5,14,19481225
+14,9,Here Comes Santa Claus,Gene Autry,Gene Autry,country / folk,country,19481211,19,8,5,19481225
+15,8,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,jazz,19480703,14,1,27,19481225
+16,NEW,Powder Your Face With Sunshine,Evelyn Knight,Evelyn Knight,jazz,jazz,19481225,16,16,1,19481225
+17,NEW,Cuanto la gusta,Carmen Miranda / Andrews Sisters,Carmen Miranda / Andrews Sisters,pop,unknown,19481225,17,17,1,19481225
+18,NEW,So Tired,Russ Morgan,Russ Morgan,pop,russ morgan,19481225,18,18,1,19481225
+19,NEW,Sweet Georgia Brown,Brother Bones And His Shadows,Brother Bones And His Shadows,pop,unknown,19481225,19,19,1,19481225
+20,20,On A Slow Boat To China,Art Lund,Art Lund,jazz,jazz,19481120,13,13,6,19481225
+1,1,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,jazz,19481002,18,1,23,19481218
+2,2,On A Slow Boat To China,Kay Kyser / Harry Babbitt / Gloria Wood,Kay Kyser / Harry Babbitt / Gloria Wood,pop,unknown,19481023,20,2,17,19481218
+3,4,All I Want For Christmas (Is My Two Front Teeth),Spike Jones,Spike Jones,pop,comedy,19481127,17,1,8,19481218
+4,3,My Darling My Darling,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19481113,18,3,15,19481218
+5,7,A Little Bird Told Me,Evelyn Knight,Evelyn Knight,jazz,jazz,19481120,20,1,20,19481218
+6,5,On A Slow Boat To China,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,unknown,19481106,17,5,14,19481218
+7,9,My Darling My Darling,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,unknown,19481204,11,7,9,19481218
+8,6,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,jazz,19480703,14,1,27,19481218
+9,19,Here Comes Santa Claus,Gene Autry,Gene Autry,country / folk,country,19481211,19,8,5,19481218
+10,10,Buttons And Bows,Dinning Sisters,Dinning Sisters,pop,standards,19481106,8,7,8,19481218
+11,NEW,White Christmas,Bing Crosby,Bing Crosby,jazz,jazz,19481218,11,6,4,19481218
+12,13,Until,Tommy Dorsey / Harry Prime / Clark Sisters,Tommy Dorsey / Harry Prime / Clark Sisters,pop,unknown,19480918,15,6,18,19481218
+13,11,You Were Only Fooling,Blue Barron / Clyde Burke,Blue Barron / Clyde Burke,pop,unknown,19481023,16,9,12,19481218
+14,8,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,unknown,19480626,20,3,26,19481218
+15,15,On A Slow Boat To China,Eddy Howard,Eddy Howard,jazz,jazz,19481127,13,12,6,19481218
+16,16,A Little Bird Told Me,Paula Watson,Paula Watson,pop,rhythm and blues,19481204,14,14,3,19481218
+17,14,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,40s,19480717,17,1,23,19481218
+18,NEW,Lavender Blue,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19481218,18,5,14,19481218
+19,12,On A Slow Boat To China,Benny Goodman / Al Hendrickson,Benny Goodman / Al Hendrickson,pop,unknown,19481204,19,12,3,19481218
+20,20,On A Slow Boat To China,Art Lund,Art Lund,jazz,jazz,19481120,13,13,6,19481218
+1,1,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,jazz,19481002,18,1,23,19481211
+2,2,On A Slow Boat To China,Kay Kyser / Harry Babbitt / Gloria Wood,Kay Kyser / Harry Babbitt / Gloria Wood,pop,unknown,19481023,20,2,17,19481211
+3,6,My Darling My Darling,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19481113,18,3,15,19481211
+4,12,All I Want For Christmas (Is My Two Front Teeth),Spike Jones,Spike Jones,pop,comedy,19481127,17,1,8,19481211
+5,5,On A Slow Boat To China,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,unknown,19481106,17,5,14,19481211
+6,3,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,jazz,19480703,14,1,27,19481211
+7,8,A Little Bird Told Me,Evelyn Knight,Evelyn Knight,jazz,jazz,19481120,20,1,20,19481211
+8,4,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,unknown,19480626,20,3,26,19481211
+9,11,My Darling My Darling,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,unknown,19481204,11,7,9,19481211
+10,7,Buttons And Bows,Dinning Sisters,Dinning Sisters,pop,standards,19481106,8,7,8,19481211
+11,13,You Were Only Fooling,Blue Barron / Clyde Burke,Blue Barron / Clyde Burke,pop,unknown,19481023,16,9,12,19481211
+12,19,On A Slow Boat To China,Benny Goodman / Al Hendrickson,Benny Goodman / Al Hendrickson,pop,unknown,19481204,19,12,3,19481211
+13,10,Until,Tommy Dorsey / Harry Prime / Clark Sisters,Tommy Dorsey / Harry Prime / Clark Sisters,pop,unknown,19480918,15,6,18,19481211
+14,9,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,40s,19480717,17,1,23,19481211
+15,16,On A Slow Boat To China,Eddy Howard,Eddy Howard,jazz,jazz,19481127,13,12,6,19481211
+16,14,A Little Bird Told Me,Paula Watson,Paula Watson,pop,rhythm and blues,19481204,14,14,3,19481211
+17,15,Cuanto La Gusta,Carmen Miranda / Andrews Sisters,Carmen Miranda / Andrews Sisters,pop,unknown,19481106,15,12,6,19481211
+18,NEW,Sweet Georgia Brown,Brother Bones And His Shadows,Brother Bones And His Shadows,pop,unknown,19481211,18,18,1,19481211
+19,NEW,Here Comes Santa Claus,Gene Autry,Gene Autry,country / folk,country,19481211,19,8,5,19481211
+20,20,On A Slow Boat To China,Art Lund,Art Lund,jazz,jazz,19481120,13,13,6,19481211
+1,1,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,jazz,19481002,18,1,23,19481204
+2,2,On A Slow Boat To China,Kay Kyser / Harry Babbitt / Gloria Wood,Kay Kyser / Harry Babbitt / Gloria Wood,pop,unknown,19481023,20,2,17,19481204
+3,3,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,jazz,19480703,14,1,27,19481204
+4,5,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,unknown,19480626,20,3,26,19481204
+5,6,On A Slow Boat To China,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,unknown,19481106,17,5,14,19481204
+6,4,My Darling My Darling,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19481113,18,3,15,19481204
+7,8,Buttons And Bows,Dinning Sisters,Dinning Sisters,pop,standards,19481106,8,7,8,19481204
+8,9,A Little Bird Told Me,Evelyn Knight,Evelyn Knight,jazz,jazz,19481120,20,1,20,19481204
+9,7,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,40s,19480717,17,1,23,19481204
+10,11,Until,Tommy Dorsey / Harry Prime / Clark Sisters,Tommy Dorsey / Harry Prime / Clark Sisters,pop,unknown,19480918,15,6,18,19481204
+11,NEW,My Darling My Darling,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,unknown,19481204,11,7,9,19481204
+12,17,All I Want For Christmas (Is My Two Front Teeth),Spike Jones,Spike Jones,pop,comedy,19481127,17,1,8,19481204
+13,10,You Were Only Fooling,Blue Barron / Clyde Burke,Blue Barron / Clyde Burke,pop,unknown,19481023,16,9,12,19481204
+14,NEW,A Little Bird Told Me,Paula Watson,Paula Watson,pop,rhythm and blues,19481204,14,14,3,19481204
+15,12,Cuanto La Gusta,Carmen Miranda / Andrews Sisters,Carmen Miranda / Andrews Sisters,pop,unknown,19481106,15,12,6,19481204
+16,13,On A Slow Boat To China,Eddy Howard,Eddy Howard,jazz,jazz,19481127,13,12,6,19481204
+17,15,Hair Of Gold Eyes Of Blue,Gordon Macrae,Gordon Macrae,jazz,jazz,19481009,18,10,9,19481204
+18,NEW,You Were Only Fooling,Ink Spots,Ink Spots,jazz,jazz,19481204,18,18,1,19481204
+19,NEW,On A Slow Boat To China,Benny Goodman / Al Hendrickson,Benny Goodman / Al Hendrickson,pop,unknown,19481204,19,12,3,19481204
+20,16,On A Slow Boat To China,Art Lund,Art Lund,jazz,jazz,19481120,13,13,6,19481204
+1,1,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,jazz,19481002,18,1,23,19481127
+2,3,On A Slow Boat To China,Kay Kyser / Harry Babbitt / Gloria Wood,Kay Kyser / Harry Babbitt / Gloria Wood,pop,unknown,19481023,20,2,17,19481127
+3,2,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,jazz,19480703,14,1,27,19481127
+4,7,My Darling My Darling,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19481113,18,3,15,19481127
+5,5,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,unknown,19480626,20,3,26,19481127
+6,6,On A Slow Boat To China,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,unknown,19481106,17,5,14,19481127
+7,4,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,40s,19480717,17,1,23,19481127
+8,9,Buttons And Bows,Dinning Sisters,Dinning Sisters,pop,standards,19481106,8,7,8,19481127
+9,20,A Little Bird Told Me,Evelyn Knight,Evelyn Knight,jazz,jazz,19481120,20,1,20,19481127
+10,11,You Were Only Fooling,Blue Barron / Clyde Burke,Blue Barron / Clyde Burke,pop,unknown,19481023,16,9,12,19481127
+11,8,Until,Tommy Dorsey / Harry Prime / Clark Sisters,Tommy Dorsey / Harry Prime / Clark Sisters,pop,unknown,19480918,15,6,18,19481127
+12,16,Cuanto La Gusta,Carmen Miranda / Andrews Sisters,Carmen Miranda / Andrews Sisters,pop,unknown,19481106,15,12,6,19481127
+13,NEW,On A Slow Boat To China,Eddy Howard,Eddy Howard,jazz,jazz,19481127,13,12,6,19481127
+14,17,That Certain Party,Benny Strong,Benny Strong,pop,unknown,19481023,17,12,6,19481127
+15,12,Hair Of Gold Eyes Of Blue,Gordon Macrae,Gordon Macrae,jazz,jazz,19481009,18,10,9,19481127
+16,13,On A Slow Boat To China,Art Lund,Art Lund,jazz,jazz,19481120,13,13,6,19481127
+17,NEW,All I Want For Christmas (Is My Two Front Teeth),Spike Jones,Spike Jones,pop,comedy,19481127,17,1,8,19481127
+18,NEW,So Tired,Russ Morgan,Russ Morgan,pop,russ morgan,19481127,18,18,1,19481127
+19,10,It's Magic,Doris Day,Doris Day,jazz,jazz,19480724,18,2,19,19481127
+20,NEW,Say Something Sweet To Your Sweetheart,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19481127,20,20,1,19481127
+1,1,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,jazz,19481002,18,1,23,19481120
+2,2,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,jazz,19480703,14,1,27,19481120
+3,4,On A Slow Boat To China,Kay Kyser / Harry Babbitt / Gloria Wood,Kay Kyser / Harry Babbitt / Gloria Wood,pop,unknown,19481023,20,2,17,19481120
+4,3,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,40s,19480717,17,1,23,19481120
+5,5,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,unknown,19480626,20,3,26,19481120
+6,9,On A Slow Boat To China,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,unknown,19481106,17,5,14,19481120
+7,18,My Darling My Darling,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19481113,18,3,15,19481120
+8,6,Until,Tommy Dorsey / Harry Prime / Clark Sisters,Tommy Dorsey / Harry Prime / Clark Sisters,pop,unknown,19480918,15,6,18,19481120
+9,8,Buttons And Bows,Dinning Sisters,Dinning Sisters,pop,standards,19481106,8,7,8,19481120
+10,7,It's Magic,Doris Day,Doris Day,jazz,jazz,19480724,18,2,19,19481120
+11,11,You Were Only Fooling,Blue Barron / Clyde Burke,Blue Barron / Clyde Burke,pop,unknown,19481023,16,9,12,19481120
+12,10,Hair Of Gold Eyes Of Blue,Gordon Macrae,Gordon Macrae,jazz,jazz,19481009,18,10,9,19481120
+13,NEW,On A Slow Boat To China,Art Lund,Art Lund,jazz,jazz,19481120,13,13,6,19481120
+14,13,Bluebird Of Happiness,Art Mooney,Art Mooney,pop,40s,19480911,15,9,11,19481120
+15,NEW,On A Slow Boat To China,Benny Goodman / Al Hendrickson,Benny Goodman / Al Hendrickson,pop,unknown,19481120,15,15,1,19481120
+16,15,Cuanto La Gusta,Carmen Miranda / Andrews Sisters,Carmen Miranda / Andrews Sisters,pop,unknown,19481106,15,12,6,19481120
+17,12,That Certain Party,Benny Strong,Benny Strong,pop,unknown,19481023,17,12,6,19481120
+18,NEW,You Came A Long Way,Ray Mckinley,Ray Mckinley,pop,boogie woogie,19481120,18,18,1,19481120
+19,19,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,unknown,19481113,19,19,2,19481120
+20,NEW,A Little Bird Told Me,Evelyn Knight,Evelyn Knight,jazz,jazz,19481120,20,1,20,19481120
+1,1,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,jazz,19481002,18,1,23,19481113
+2,2,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,jazz,19480703,14,1,27,19481113
+3,3,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,40s,19480717,17,1,23,19481113
+4,5,On A Slow Boat To China,Kay Kyser / Harry Babbitt / Gloria Wood,Kay Kyser / Harry Babbitt / Gloria Wood,pop,unknown,19481023,20,2,17,19481113
+5,4,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,unknown,19480626,20,3,26,19481113
+6,7,Until,Tommy Dorsey / Harry Prime / Clark Sisters,Tommy Dorsey / Harry Prime / Clark Sisters,pop,unknown,19480918,15,6,18,19481113
+7,6,It's Magic,Doris Day,Doris Day,jazz,jazz,19480724,18,2,19,19481113
+8,8,Buttons And Bows,Dinning Sisters,Dinning Sisters,pop,standards,19481106,8,7,8,19481113
+9,17,On A Slow Boat To China,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,unknown,19481106,17,5,14,19481113
+10,14,Hair Of Gold Eyes Of Blue,Gordon Macrae,Gordon Macrae,jazz,jazz,19481009,18,10,9,19481113
+11,9,You Were Only Fooling,Blue Barron / Clyde Burke,Blue Barron / Clyde Burke,pop,unknown,19481023,16,9,12,19481113
+12,18,That Certain Party,Benny Strong,Benny Strong,pop,unknown,19481023,17,12,6,19481113
+13,10,Bluebird Of Happiness,Art Mooney,Art Mooney,pop,40s,19480911,15,9,11,19481113
+14,20,Life Gits Tee-Jus Don't It,Carson Robison,Carson Robison,jazz,jazz,19481030,17,14,3,19481113
+15,15,Cuanto La Gusta,Carmen Miranda / Andrews Sisters,Carmen Miranda / Andrews Sisters,pop,unknown,19481106,15,12,6,19481113
+16,13,You Call Everybody Darling,Al Trace / Bob Vincent,Al Trace / Bob Vincent,pop,unknown,19480626,13,1,21,19481113
+17,11,Underneath The Arches,Primo Scala Banjo And Accordion Orchestra,Primo Scala Banjo And Accordion Orchestra,pop,unknown,19480821,20,6,13,19481113
+18,NEW,My Darling My Darling,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19481113,18,3,15,19481113
+19,NEW,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,unknown,19481113,19,19,2,19481113
+20,NEW,Say Something Sweet To Your Sweetheart,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19481113,20,20,1,19481113
+1,3,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,jazz,19481002,18,1,23,19481106
+2,1,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,jazz,19480703,14,1,27,19481106
+3,2,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,40s,19480717,17,1,23,19481106
+4,4,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,unknown,19480626,20,3,26,19481106
+5,8,On A Slow Boat To China,Kay Kyser / Harry Babbitt / Gloria Wood,Kay Kyser / Harry Babbitt / Gloria Wood,pop,unknown,19481023,20,2,17,19481106
+6,5,It's Magic,Doris Day,Doris Day,jazz,jazz,19480724,18,2,19,19481106
+7,7,Until,Tommy Dorsey / Harry Prime / Clark Sisters,Tommy Dorsey / Harry Prime / Clark Sisters,pop,unknown,19480918,15,6,18,19481106
+8,NEW,Buttons And Bows,Dinning Sisters,Dinning Sisters,pop,standards,19481106,8,7,8,19481106
+9,13,You Were Only Fooling,Blue Barron / Clyde Burke,Blue Barron / Clyde Burke,pop,unknown,19481023,16,9,12,19481106
+10,10,Bluebird Of Happiness,Art Mooney,Art Mooney,pop,40s,19480911,15,9,11,19481106
+11,9,Underneath The Arches,Primo Scala Banjo And Accordion Orchestra,Primo Scala Banjo And Accordion Orchestra,pop,unknown,19480821,20,6,13,19481106
+12,18,Underneath The Arches,Andrews Sisters,Andrews Sisters,jazz,swing,19480925,15,10,7,19481106
+13,6,You Call Everybody Darling,Al Trace / Bob Vincent,Al Trace / Bob Vincent,pop,unknown,19480626,13,1,21,19481106
+14,11,Hair Of Gold Eyes Of Blue,Gordon Macrae,Gordon Macrae,jazz,jazz,19481009,18,10,9,19481106
+15,NEW,Cuanto La Gusta,Carmen Miranda / Andrews Sisters,Carmen Miranda / Andrews Sisters,pop,unknown,19481106,15,12,6,19481106
+16,NEW,Bluebird Of Happiness,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19481106,16,16,1,19481106
+17,NEW,On A Slow Boat To China,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,unknown,19481106,17,5,14,19481106
+18,15,That Certain Party,Benny Strong,Benny Strong,pop,unknown,19481023,17,12,6,19481106
+19,14,My Happiness,Ella Fitzgerald / Song Spinners,Ella Fitzgerald / Song Spinners,pop,unknown,19480703,12,8,19,19481106
+20,17,Life Gits Tee-Jus Don't It,Carson Robison,Carson Robison,jazz,jazz,19481030,17,14,3,19481106
+1,1,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,jazz,19480703,14,1,27,19481030
+2,2,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,40s,19480717,17,1,23,19481030
+3,5,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,jazz,19481002,18,1,23,19481030
+4,3,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,unknown,19480626,20,3,26,19481030
+5,4,It's Magic,Doris Day,Doris Day,jazz,jazz,19480724,18,2,19,19481030
+6,7,You Call Everybody Darling,Al Trace / Bob Vincent,Al Trace / Bob Vincent,pop,unknown,19480626,13,1,21,19481030
+7,6,Until,Tommy Dorsey / Harry Prime / Clark Sisters,Tommy Dorsey / Harry Prime / Clark Sisters,pop,unknown,19480918,15,6,18,19481030
+8,20,On A Slow Boat To China,Kay Kyser / Harry Babbitt / Gloria Wood,Kay Kyser / Harry Babbitt / Gloria Wood,pop,unknown,19481023,20,2,17,19481030
+9,8,Underneath The Arches,Primo Scala Banjo And Accordion Orchestra,Primo Scala Banjo And Accordion Orchestra,pop,unknown,19480821,20,6,13,19481030
+10,9,Bluebird Of Happiness,Art Mooney,Art Mooney,pop,40s,19480911,15,9,11,19481030
+11,11,Hair Of Gold Eyes Of Blue,Gordon Macrae,Gordon Macrae,jazz,jazz,19481009,18,10,9,19481030
+12,12,My Happiness,Pied Pipers,Pied Pipers,jazz,jazz,19480612,9,4,21,19481030
+13,16,You Were Only Fooling,Blue Barron / Clyde Burke,Blue Barron / Clyde Burke,pop,unknown,19481023,16,9,12,19481030
+14,14,My Happiness,Ella Fitzgerald / Song Spinners,Ella Fitzgerald / Song Spinners,pop,unknown,19480703,12,8,19,19481030
+15,17,That Certain Party,Benny Strong,Benny Strong,pop,unknown,19481023,17,12,6,19481030
+16,15,Love Somebody,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,unknown,19480619,9,6,20,19481030
+17,NEW,Life Gits Tee-Jus Don't It,Carson Robison,Carson Robison,jazz,jazz,19481030,17,14,3,19481030
+18,10,Underneath The Arches,Andrews Sisters,Andrews Sisters,jazz,swing,19480925,15,10,7,19481030
+19,NEW,Rambling Rose,Perry Como,Perry Como,jazz,jazz,19481030,19,19,1,19481030
+20,13,Cool Water,Vaughn Monroe / Sons Of The Pioneers,Vaughn Monroe / Sons Of The Pioneers,pop,unknown,19480904,11,9,9,19481030
+1,2,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,jazz,19480703,14,1,27,19481023
+2,1,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,40s,19480717,17,1,23,19481023
+3,4,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,unknown,19480626,20,3,26,19481023
+4,3,It's Magic,Doris Day,Doris Day,jazz,jazz,19480724,18,2,19,19481023
+5,7,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,jazz,19481002,18,1,23,19481023
+6,8,Until,Tommy Dorsey / Harry Prime / Clark Sisters,Tommy Dorsey / Harry Prime / Clark Sisters,pop,unknown,19480918,15,6,18,19481023
+7,5,You Call Everybody Darling,Al Trace / Bob Vincent,Al Trace / Bob Vincent,pop,unknown,19480626,13,1,21,19481023
+8,6,Underneath The Arches,Primo Scala Banjo And Accordion Orchestra,Primo Scala Banjo And Accordion Orchestra,pop,unknown,19480821,20,6,13,19481023
+9,20,Bluebird Of Happiness,Art Mooney,Art Mooney,pop,40s,19480911,15,9,11,19481023
+10,12,Underneath The Arches,Andrews Sisters,Andrews Sisters,jazz,swing,19480925,15,10,7,19481023
+11,16,Hair Of Gold Eyes Of Blue,Gordon Macrae,Gordon Macrae,jazz,jazz,19481009,18,10,9,19481023
+12,9,My Happiness,Pied Pipers,Pied Pipers,jazz,jazz,19480612,9,4,21,19481023
+13,10,Cool Water,Vaughn Monroe / Sons Of The Pioneers,Vaughn Monroe / Sons Of The Pioneers,pop,unknown,19480904,11,9,9,19481023
+14,19,My Happiness,Ella Fitzgerald / Song Spinners,Ella Fitzgerald / Song Spinners,pop,unknown,19480703,12,8,19,19481023
+15,14,Love Somebody,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,unknown,19480619,9,6,20,19481023
+16,NEW,You Were Only Fooling,Blue Barron / Clyde Burke,Blue Barron / Clyde Burke,pop,unknown,19481023,16,9,12,19481023
+17,NEW,That Certain Party,Benny Strong,Benny Strong,pop,unknown,19481023,17,12,6,19481023
+18,13,You Came A Long Way,Ray Mckinley,Ray Mckinley,pop,boogie woogie,19480911,18,13,7,19481023
+19,11,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,unknown,19480515,13,3,24,19481023
+20,NEW,On A Slow Boat To China,Kay Kyser / Harry Babbitt / Gloria Wood,Kay Kyser / Harry Babbitt / Gloria Wood,pop,unknown,19481023,20,2,17,19481023
+1,1,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,40s,19480717,17,1,23,19481016
+2,2,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,jazz,19480703,14,1,27,19481016
+3,3,It's Magic,Doris Day,Doris Day,jazz,jazz,19480724,18,2,19,19481016
+4,5,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,unknown,19480626,20,3,26,19481016
+5,4,You Call Everybody Darling,Al Trace / Bob Vincent,Al Trace / Bob Vincent,pop,unknown,19480626,13,1,21,19481016
+6,7,Underneath The Arches,Primo Scala Banjo And Accordion Orchestra,Primo Scala Banjo And Accordion Orchestra,pop,unknown,19480821,20,6,13,19481016
+7,14,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,jazz,19481002,18,1,23,19481016
+8,10,Until,Tommy Dorsey / Harry Prime / Clark Sisters,Tommy Dorsey / Harry Prime / Clark Sisters,pop,unknown,19480918,15,6,18,19481016
+9,6,My Happiness,Pied Pipers,Pied Pipers,jazz,jazz,19480612,9,4,21,19481016
+10,9,Cool Water,Vaughn Monroe / Sons Of The Pioneers,Vaughn Monroe / Sons Of The Pioneers,pop,unknown,19480904,11,9,9,19481016
+11,13,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,unknown,19480515,13,3,24,19481016
+12,12,Underneath The Arches,Andrews Sisters,Andrews Sisters,jazz,swing,19480925,15,10,7,19481016
+13,17,You Came A Long Way,Ray Mckinley,Ray Mckinley,pop,boogie woogie,19480911,18,13,7,19481016
+14,8,Love Somebody,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,unknown,19480619,9,6,20,19481016
+15,16,It's Magic,Dick Haymes,Dick Haymes,jazz,jazz,19480814,17,13,10,19481016
+16,18,Hair Of Gold Eyes Of Blue,Gordon Macrae,Gordon Macrae,jazz,jazz,19481009,18,10,9,19481016
+17,20,You Call Everybody Darlin',Andrews Sisters,Andrews Sisters,jazz,swing,19481002,16,16,3,19481016
+18,15,It's Magic,Tony Martin,Tony Martin,rock,heavy metal,19480828,18,12,8,19481016
+19,11,My Happiness,Ella Fitzgerald / Song Spinners,Ella Fitzgerald / Song Spinners,pop,unknown,19480703,12,8,19,19481016
+20,19,Bluebird Of Happiness,Art Mooney,Art Mooney,pop,40s,19480911,15,9,11,19481016
+1,2,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,40s,19480717,17,1,23,19481009
+2,1,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,jazz,19480703,14,1,27,19481009
+3,3,It's Magic,Doris Day,Doris Day,jazz,jazz,19480724,18,2,19,19481009
+4,4,You Call Everybody Darling,Al Trace / Bob Vincent,Al Trace / Bob Vincent,pop,unknown,19480626,13,1,21,19481009
+5,5,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,unknown,19480626,20,3,26,19481009
+6,7,My Happiness,Pied Pipers,Pied Pipers,jazz,jazz,19480612,9,4,21,19481009
+7,6,Underneath The Arches,Primo Scala Banjo And Accordion Orchestra,Primo Scala Banjo And Accordion Orchestra,pop,unknown,19480821,20,6,13,19481009
+8,10,Love Somebody,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,unknown,19480619,9,6,20,19481009
+9,11,Cool Water,Vaughn Monroe / Sons Of The Pioneers,Vaughn Monroe / Sons Of The Pioneers,pop,unknown,19480904,11,9,9,19481009
+10,9,Until,Tommy Dorsey / Harry Prime / Clark Sisters,Tommy Dorsey / Harry Prime / Clark Sisters,pop,unknown,19480918,15,6,18,19481009
+11,8,My Happiness,Ella Fitzgerald / Song Spinners,Ella Fitzgerald / Song Spinners,pop,unknown,19480703,12,8,19,19481009
+12,13,Underneath The Arches,Andrews Sisters,Andrews Sisters,jazz,swing,19480925,15,10,7,19481009
+13,15,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,unknown,19480515,13,3,24,19481009
+14,18,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,jazz,19481002,18,1,23,19481009
+15,20,It's Magic,Tony Martin,Tony Martin,rock,heavy metal,19480828,18,12,8,19481009
+16,17,It's Magic,Dick Haymes,Dick Haymes,jazz,jazz,19480814,17,13,10,19481009
+17,14,You Came A Long Way,Ray Mckinley,Ray Mckinley,pop,boogie woogie,19480911,18,13,7,19481009
+18,NEW,Hair Of Gold Eyes Of Blue,Gordon Macrae,Gordon Macrae,jazz,jazz,19481009,18,10,9,19481009
+19,12,Bluebird Of Happiness,Art Mooney,Art Mooney,pop,40s,19480911,15,9,11,19481009
+20,16,You Call Everybody Darlin',Andrews Sisters,Andrews Sisters,jazz,swing,19481002,16,16,3,19481009
+1,1,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,jazz,19480703,14,1,27,19481002
+2,2,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,40s,19480717,17,1,23,19481002
+3,4,It's Magic,Doris Day,Doris Day,jazz,jazz,19480724,18,2,19,19481002
+4,3,You Call Everybody Darling,Al Trace / Bob Vincent,Al Trace / Bob Vincent,pop,unknown,19480626,13,1,21,19481002
+5,5,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,unknown,19480626,20,3,26,19481002
+6,9,Underneath The Arches,Primo Scala Banjo And Accordion Orchestra,Primo Scala Banjo And Accordion Orchestra,pop,unknown,19480821,20,6,13,19481002
+7,7,My Happiness,Pied Pipers,Pied Pipers,jazz,jazz,19480612,9,4,21,19481002
+8,8,My Happiness,Ella Fitzgerald / Song Spinners,Ella Fitzgerald / Song Spinners,pop,unknown,19480703,12,8,19,19481002
+9,17,Until,Tommy Dorsey / Harry Prime / Clark Sisters,Tommy Dorsey / Harry Prime / Clark Sisters,pop,unknown,19480918,15,6,18,19481002
+10,6,Love Somebody,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,unknown,19480619,9,6,20,19481002
+11,11,Cool Water,Vaughn Monroe / Sons Of The Pioneers,Vaughn Monroe / Sons Of The Pioneers,pop,unknown,19480904,11,9,9,19481002
+12,10,Bluebird Of Happiness,Art Mooney,Art Mooney,pop,40s,19480911,15,9,11,19481002
+13,15,Underneath The Arches,Andrews Sisters,Andrews Sisters,jazz,swing,19480925,15,10,7,19481002
+14,14,You Came A Long Way,Ray Mckinley,Ray Mckinley,pop,boogie woogie,19480911,18,13,7,19481002
+15,12,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,unknown,19480515,13,3,24,19481002
+16,NEW,You Call Everybody Darlin',Andrews Sisters,Andrews Sisters,jazz,swing,19481002,16,16,3,19481002
+17,13,It's Magic,Dick Haymes,Dick Haymes,jazz,jazz,19480814,17,13,10,19481002
+18,NEW,Buttons And Bows,Dinah Shore,Dinah Shore,jazz,jazz,19481002,18,1,23,19481002
+19,NEW,That Certain Party,Benny Strong,Benny Strong,pop,unknown,19481002,19,19,1,19481002
+20,19,It's Magic,Tony Martin,Tony Martin,rock,heavy metal,19480828,18,12,8,19481002
+1,1,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,jazz,19480703,14,1,27,19480925
+2,2,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,40s,19480717,17,1,23,19480925
+3,3,You Call Everybody Darling,Al Trace / Bob Vincent,Al Trace / Bob Vincent,pop,unknown,19480626,13,1,21,19480925
+4,4,It's Magic,Doris Day,Doris Day,jazz,jazz,19480724,18,2,19,19480925
+5,6,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,unknown,19480626,20,3,26,19480925
+6,7,Love Somebody,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,unknown,19480619,9,6,20,19480925
+7,5,My Happiness,Pied Pipers,Pied Pipers,jazz,jazz,19480612,9,4,21,19480925
+8,9,My Happiness,Ella Fitzgerald / Song Spinners,Ella Fitzgerald / Song Spinners,pop,unknown,19480703,12,8,19,19480925
+9,10,Underneath The Arches,Primo Scala Banjo And Accordion Orchestra,Primo Scala Banjo And Accordion Orchestra,pop,unknown,19480821,20,6,13,19480925
+10,14,Bluebird Of Happiness,Art Mooney,Art Mooney,pop,40s,19480911,15,9,11,19480925
+11,11,Cool Water,Vaughn Monroe / Sons Of The Pioneers,Vaughn Monroe / Sons Of The Pioneers,pop,unknown,19480904,11,9,9,19480925
+12,8,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,unknown,19480515,13,3,24,19480925
+13,18,It's Magic,Dick Haymes,Dick Haymes,jazz,jazz,19480814,17,13,10,19480925
+14,17,You Came A Long Way,Ray Mckinley,Ray Mckinley,pop,boogie woogie,19480911,18,13,7,19480925
+15,NEW,Underneath The Arches,Andrews Sisters,Andrews Sisters,jazz,swing,19480925,15,10,7,19480925
+16,13,You Can't Be True Dear,Ken Griffin,Ken Griffin,pop,hammond organ,19480710,2,2,12,19480925
+17,15,Until,Tommy Dorsey / Harry Prime / Clark Sisters,Tommy Dorsey / Harry Prime / Clark Sisters,pop,unknown,19480918,15,6,18,19480925
+18,NEW,You Call Everybody Darlin',Anne Vincent,Anne Vincent,pop,unknown,19480925,18,18,1,19480925
+19,12,It's Magic,Tony Martin,Tony Martin,rock,heavy metal,19480828,18,12,8,19480925
+20,19,"Hair Of Gold, Eyes Of Blue",Gordon Macrae,Gordon Macrae,jazz,jazz,19480918,19,19,2,19480925
+1,1,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,jazz,19480703,14,1,27,19480918
+2,3,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,40s,19480717,17,1,23,19480918
+3,4,You Call Everybody Darling,Al Trace / Bob Vincent,Al Trace / Bob Vincent,pop,unknown,19480626,13,1,21,19480918
+4,2,It's Magic,Doris Day,Doris Day,jazz,jazz,19480724,18,2,19,19480918
+5,5,My Happiness,Pied Pipers,Pied Pipers,jazz,jazz,19480612,9,4,21,19480918
+6,8,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,unknown,19480626,20,3,26,19480918
+7,7,Love Somebody,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,unknown,19480619,9,6,20,19480918
+8,6,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,unknown,19480515,13,3,24,19480918
+9,12,My Happiness,Ella Fitzgerald / Song Spinners,Ella Fitzgerald / Song Spinners,pop,unknown,19480703,12,8,19,19480918
+10,11,Underneath The Arches,Primo Scala Banjo And Accordion Orchestra,Primo Scala Banjo And Accordion Orchestra,pop,unknown,19480821,20,6,13,19480918
+11,10,Cool Water,Vaughn Monroe / Sons Of The Pioneers,Vaughn Monroe / Sons Of The Pioneers,pop,unknown,19480904,11,9,9,19480918
+12,19,It's Magic,Tony Martin,Tony Martin,rock,heavy metal,19480828,18,12,8,19480918
+13,9,You Can't Be True Dear,Ken Griffin,Ken Griffin,pop,hammond organ,19480710,2,2,12,19480918
+14,15,Bluebird Of Happiness,Art Mooney,Art Mooney,pop,40s,19480911,15,9,11,19480918
+15,NEW,Until,Tommy Dorsey / Harry Prime / Clark Sisters,Tommy Dorsey / Harry Prime / Clark Sisters,pop,unknown,19480918,15,6,18,19480918
+16,NEW,You Call Everybody Darlin',Andrews Sisters,Andrews Sisters,jazz,swing,19480918,16,16,1,19480918
+17,18,You Came A Long Way,Ray Mckinley,Ray Mckinley,pop,boogie woogie,19480911,18,13,7,19480918
+18,14,It's Magic,Dick Haymes,Dick Haymes,jazz,jazz,19480814,17,13,10,19480918
+19,NEW,"Hair Of Gold, Eyes Of Blue",Gordon Macrae,Gordon Macrae,jazz,jazz,19480918,19,19,2,19480918
+20,NEW,You Were Only Fooling,Blue Barron / Clyde Burke,Blue Barron / Clyde Burke,pop,unknown,19480918,20,20,1,19480918
+1,1,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,jazz,19480703,14,1,27,19480911
+2,3,It's Magic,Doris Day,Doris Day,jazz,jazz,19480724,18,2,19,19480911
+3,4,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,40s,19480717,17,1,23,19480911
+4,2,You Call Everybody Darling,Al Trace / Bob Vincent,Al Trace / Bob Vincent,pop,unknown,19480626,13,1,21,19480911
+5,5,My Happiness,Pied Pipers,Pied Pipers,jazz,jazz,19480612,9,4,21,19480911
+6,7,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,unknown,19480515,13,3,24,19480911
+7,6,Love Somebody,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,unknown,19480619,9,6,20,19480911
+8,9,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,unknown,19480626,20,3,26,19480911
+9,10,You Can't Be True Dear,Ken Griffin,Ken Griffin,pop,hammond organ,19480710,2,2,12,19480911
+10,11,Cool Water,Vaughn Monroe / Sons Of The Pioneers,Vaughn Monroe / Sons Of The Pioneers,pop,unknown,19480904,11,9,9,19480911
+11,12,Underneath The Arches,Primo Scala Banjo And Accordion Orchestra,Primo Scala Banjo And Accordion Orchestra,pop,unknown,19480821,20,6,13,19480911
+12,8,My Happiness,Ella Fitzgerald / Song Spinners,Ella Fitzgerald / Song Spinners,pop,unknown,19480703,12,8,19,19480911
+13,19,You Call Everybody Darlin',Jack Smith / Clark Sisters,Jack Smith / Clark Sisters,pop,unknown,19480821,19,13,4,19480911
+14,14,It's Magic,Dick Haymes,Dick Haymes,jazz,jazz,19480814,17,13,10,19480911
+15,NEW,Bluebird Of Happiness,Art Mooney,Art Mooney,pop,40s,19480911,15,9,11,19480911
+16,13,You Call Everybody Darlin',Anne Vincent,Anne Vincent,pop,unknown,19480828,16,13,3,19480911
+17,17,Woody Woodpecker,Sportsmen / Mel Blanc,Sportsmen / Mel Blanc,pop,unknown,19480717,8,2,9,19480911
+18,NEW,You Came A Long Way,Ray Mckinley,Ray Mckinley,pop,boogie woogie,19480911,18,13,7,19480911
+19,16,It's Magic,Tony Martin,Tony Martin,rock,heavy metal,19480828,18,12,8,19480911
+20,NEW,It's Magic,Gordon Macrae,Gordon Macrae,jazz,jazz,19480911,20,20,1,19480911
+1,1,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,jazz,19480703,14,1,27,19480904
+2,2,You Call Everybody Darling,Al Trace / Bob Vincent,Al Trace / Bob Vincent,pop,unknown,19480626,13,1,21,19480904
+3,4,It's Magic,Doris Day,Doris Day,jazz,jazz,19480724,18,2,19,19480904
+4,3,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,40s,19480717,17,1,23,19480904
+5,5,My Happiness,Pied Pipers,Pied Pipers,jazz,jazz,19480612,9,4,21,19480904
+6,7,Love Somebody,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,unknown,19480619,9,6,20,19480904
+7,6,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,unknown,19480515,13,3,24,19480904
+8,10,My Happiness,Ella Fitzgerald / Song Spinners,Ella Fitzgerald / Song Spinners,pop,unknown,19480703,12,8,19,19480904
+9,9,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,unknown,19480626,20,3,26,19480904
+10,8,You Can't Be True Dear,Ken Griffin,Ken Griffin,pop,hammond organ,19480710,2,2,12,19480904
+11,NEW,Cool Water,Vaughn Monroe / Sons Of The Pioneers,Vaughn Monroe / Sons Of The Pioneers,pop,unknown,19480904,11,9,9,19480904
+12,13,Underneath The Arches,Primo Scala Banjo And Accordion Orchestra,Primo Scala Banjo And Accordion Orchestra,pop,unknown,19480821,20,6,13,19480904
+13,16,You Call Everybody Darlin',Anne Vincent,Anne Vincent,pop,unknown,19480828,16,13,3,19480904
+14,15,It's Magic,Dick Haymes,Dick Haymes,jazz,jazz,19480814,17,13,10,19480904
+15,12,Woody Woodpecker,Kay Kyser / Gloria Wood,Kay Kyser / Gloria Wood,pop,unknown,19480605,13,1,14,19480904
+16,18,It's Magic,Tony Martin,Tony Martin,rock,heavy metal,19480828,18,12,8,19480904
+17,11,Woody Woodpecker,Sportsmen / Mel Blanc,Sportsmen / Mel Blanc,pop,unknown,19480717,8,2,9,19480904
+18,NEW,Rambling Rose,Perry Como,Perry Como,jazz,jazz,19480904,18,18,1,19480904
+19,19,You Call Everybody Darlin',Jack Smith / Clark Sisters,Jack Smith / Clark Sisters,pop,unknown,19480821,19,13,4,19480904
+20,17,William Tell Overture (Feedlebaum),Spike Jones / Doodles Weave,Spike Jones / Doodles Weave,pop,unknown,19480612,10,6,13,19480904
+1,2,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,jazz,19480703,14,1,27,19480828
+2,1,You Call Everybody Darling,Al Trace / Bob Vincent,Al Trace / Bob Vincent,pop,unknown,19480626,13,1,21,19480828
+3,6,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,40s,19480717,17,1,23,19480828
+4,3,It's Magic,Doris Day,Doris Day,jazz,jazz,19480724,18,2,19,19480828
+5,4,My Happiness,Pied Pipers,Pied Pipers,jazz,jazz,19480612,9,4,21,19480828
+6,5,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,unknown,19480515,13,3,24,19480828
+7,8,Love Somebody,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,unknown,19480619,9,6,20,19480828
+8,7,You Can't Be True Dear,Ken Griffin,Ken Griffin,pop,hammond organ,19480710,2,2,12,19480828
+9,12,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,unknown,19480626,20,3,26,19480828
+10,11,My Happiness,Ella Fitzgerald / Song Spinners,Ella Fitzgerald / Song Spinners,pop,unknown,19480703,12,8,19,19480828
+11,9,Woody Woodpecker,Sportsmen / Mel Blanc,Sportsmen / Mel Blanc,pop,unknown,19480717,8,2,9,19480828
+12,10,Woody Woodpecker,Kay Kyser / Gloria Wood,Kay Kyser / Gloria Wood,pop,unknown,19480605,13,1,14,19480828
+13,20,Underneath The Arches,Primo Scala Banjo And Accordion Orchestra,Primo Scala Banjo And Accordion Orchestra,pop,unknown,19480821,20,6,13,19480828
+14,17,Bluebird Of Happiness,Art Mooney / Bud Brees / Galli Sisters,Art Mooney / Bud Brees / Galli Sisters,pop,unknown,19480710,20,14,8,19480828
+15,18,It's Magic,Dick Haymes,Dick Haymes,jazz,jazz,19480814,17,13,10,19480828
+16,NEW,You Call Everybody Darlin',Anne Vincent,Anne Vincent,pop,unknown,19480828,16,13,3,19480828
+17,13,William Tell Overture (Feedlebaum),Spike Jones / Doodles Weave,Spike Jones / Doodles Weave,pop,unknown,19480612,10,6,13,19480828
+18,NEW,It's Magic,Tony Martin,Tony Martin,rock,heavy metal,19480828,18,12,8,19480828
+19,19,You Call Everybody Darlin',Jack Smith / Clark Sisters,Jack Smith / Clark Sisters,pop,unknown,19480821,19,13,4,19480828
+20,15,Little White Lies,Dick Haymes,Dick Haymes,jazz,jazz,19480410,11,3,21,19480828
+1,1,You Call Everybody Darling,Al Trace / Bob Vincent,Al Trace / Bob Vincent,pop,unknown,19480626,13,1,21,19480821
+2,7,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,jazz,19480703,14,1,27,19480821
+3,9,It's Magic,Doris Day,Doris Day,jazz,jazz,19480724,18,2,19,19480821
+4,4,My Happiness,Pied Pipers,Pied Pipers,jazz,jazz,19480612,9,4,21,19480821
+5,3,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,unknown,19480515,13,3,24,19480821
+6,8,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,40s,19480717,17,1,23,19480821
+7,2,You Can't Be True Dear,Ken Griffin,Ken Griffin,pop,hammond organ,19480710,2,2,12,19480821
+8,10,Love Somebody,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,unknown,19480619,9,6,20,19480821
+9,5,Woody Woodpecker,Sportsmen / Mel Blanc,Sportsmen / Mel Blanc,pop,unknown,19480717,8,2,9,19480821
+10,6,Woody Woodpecker,Kay Kyser / Gloria Wood,Kay Kyser / Gloria Wood,pop,unknown,19480605,13,1,14,19480821
+11,12,My Happiness,Ella Fitzgerald / Song Spinners,Ella Fitzgerald / Song Spinners,pop,unknown,19480703,12,8,19,19480821
+12,14,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,unknown,19480626,20,3,26,19480821
+13,13,William Tell Overture (Feedlebaum),Spike Jones / Doodles Weave,Spike Jones / Doodles Weave,pop,unknown,19480612,10,6,13,19480821
+14,15,You Can't Be True Dear,Ken Griffin / Jerry Wayne,Ken Griffin / Jerry Wayne,pop,unknown,19480410,10,2,20,19480821
+15,11,Little White Lies,Dick Haymes,Dick Haymes,jazz,jazz,19480410,11,3,21,19480821
+16,NEW,Confess,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,unknown,19480821,16,16,1,19480821
+17,20,Bluebird Of Happiness,Art Mooney / Bud Brees / Galli Sisters,Art Mooney / Bud Brees / Galli Sisters,pop,unknown,19480710,20,14,8,19480821
+18,17,It's Magic,Dick Haymes,Dick Haymes,jazz,jazz,19480814,17,13,10,19480821
+19,NEW,You Call Everybody Darlin',Jack Smith / Clark Sisters,Jack Smith / Clark Sisters,pop,unknown,19480821,19,13,4,19480821
+20,NEW,Underneath The Arches,Primo Scala Banjo And Accordion Orchestra,Primo Scala Banjo And Accordion Orchestra,pop,unknown,19480821,20,6,13,19480821
+1,5,You Call Everybody Darling,Al Trace / Bob Vincent,Al Trace / Bob Vincent,pop,unknown,19480626,13,1,21,19480814
+2,3,You Can't Be True Dear,Ken Griffin,Ken Griffin,pop,hammond organ,19480710,2,2,12,19480814
+3,6,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,unknown,19480515,13,3,24,19480814
+4,4,My Happiness,Pied Pipers,Pied Pipers,jazz,jazz,19480612,9,4,21,19480814
+5,2,Woody Woodpecker,Sportsmen / Mel Blanc,Sportsmen / Mel Blanc,pop,unknown,19480717,8,2,9,19480814
+6,1,Woody Woodpecker,Kay Kyser / Gloria Wood,Kay Kyser / Gloria Wood,pop,unknown,19480605,13,1,14,19480814
+7,8,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,jazz,19480703,14,1,27,19480814
+8,11,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,40s,19480717,17,1,23,19480814
+9,12,It's Magic,Doris Day,Doris Day,jazz,jazz,19480724,18,2,19,19480814
+10,7,Love Somebody,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,unknown,19480619,9,6,20,19480814
+11,9,Little White Lies,Dick Haymes,Dick Haymes,jazz,jazz,19480410,11,3,21,19480814
+12,10,My Happiness,Ella Fitzgerald / Song Spinners,Ella Fitzgerald / Song Spinners,pop,unknown,19480703,12,8,19,19480814
+13,14,William Tell Overture (Feedlebaum),Spike Jones / Doodles Weave,Spike Jones / Doodles Weave,pop,unknown,19480612,10,6,13,19480814
+14,15,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,unknown,19480626,20,3,26,19480814
+15,13,You Can't Be True Dear,Ken Griffin / Jerry Wayne,Ken Griffin / Jerry Wayne,pop,unknown,19480410,10,2,20,19480814
+16,20,You Can't Be True Dear,Dick Haymes / Song Spinners,Dick Haymes / Song Spinners,pop,unknown,19480605,16,9,11,19480814
+17,NEW,It's Magic,Dick Haymes,Dick Haymes,jazz,jazz,19480814,17,13,10,19480814
+18,NEW,Cool Water,Vaughn Monroe / Sons Of The Pioneers,Vaughn Monroe / Sons Of The Pioneers,pop,unknown,19480814,18,18,1,19480814
+19,16,You Can't Be True Dear,Sportsmen,Sportsmen,pop,disney,19480724,17,16,4,19480814
+20,17,Bluebird Of Happiness,Art Mooney / Bud Brees / Galli Sisters,Art Mooney / Bud Brees / Galli Sisters,pop,unknown,19480710,20,14,8,19480814
+1,1,Woody Woodpecker,Kay Kyser / Gloria Wood,Kay Kyser / Gloria Wood,pop,unknown,19480605,13,1,14,19480807
+2,2,Woody Woodpecker,Sportsmen / Mel Blanc,Sportsmen / Mel Blanc,pop,unknown,19480717,8,2,9,19480807
+3,3,You Can't Be True Dear,Ken Griffin,Ken Griffin,pop,hammond organ,19480710,2,2,12,19480807
+4,5,My Happiness,Pied Pipers,Pied Pipers,jazz,jazz,19480612,9,4,21,19480807
+5,6,You Call Everybody Darling,Al Trace / Bob Vincent,Al Trace / Bob Vincent,pop,unknown,19480626,13,1,21,19480807
+6,4,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,unknown,19480515,13,3,24,19480807
+7,9,Love Somebody,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,unknown,19480619,9,6,20,19480807
+8,7,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,jazz,19480703,14,1,27,19480807
+9,10,Little White Lies,Dick Haymes,Dick Haymes,jazz,jazz,19480410,11,3,21,19480807
+10,11,My Happiness,Ella Fitzgerald / Song Spinners,Ella Fitzgerald / Song Spinners,pop,unknown,19480703,12,8,19,19480807
+11,15,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,40s,19480717,17,1,23,19480807
+12,14,It's Magic,Doris Day,Doris Day,jazz,jazz,19480724,18,2,19,19480807
+13,13,You Can't Be True Dear,Ken Griffin / Jerry Wayne,Ken Griffin / Jerry Wayne,pop,unknown,19480410,10,2,20,19480807
+14,8,William Tell Overture (Feedlebaum),Spike Jones / Doodles Weave,Spike Jones / Doodles Weave,pop,unknown,19480612,10,6,13,19480807
+15,12,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,unknown,19480626,20,3,26,19480807
+16,17,You Can't Be True Dear,Sportsmen,Sportsmen,pop,disney,19480724,17,16,4,19480807
+17,18,Bluebird Of Happiness,Art Mooney / Bud Brees / Galli Sisters,Art Mooney / Bud Brees / Galli Sisters,pop,unknown,19480710,20,14,8,19480807
+18,NEW,You Call Everybody Darlin',Anne Vincent,Anne Vincent,pop,unknown,19480807,18,18,1,19480807
+19,NEW,The Maharajah Of Magador,Vaughn Monroe / Ziggy Talent,Vaughn Monroe / Ziggy Talent,pop,unknown,19480807,19,19,1,19480807
+20,16,You Can't Be True Dear,Dick Haymes / Song Spinners,Dick Haymes / Song Spinners,pop,unknown,19480605,16,9,11,19480807
+1,1,Woody Woodpecker,Kay Kyser / Gloria Wood,Kay Kyser / Gloria Wood,pop,unknown,19480605,13,1,14,19480731
+2,3,Woody Woodpecker,Sportsmen / Mel Blanc,Sportsmen / Mel Blanc,pop,unknown,19480717,8,2,9,19480731
+3,2,You Can't Be True Dear,Ken Griffin,Ken Griffin,pop,hammond organ,19480710,2,2,12,19480731
+4,4,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,unknown,19480515,13,3,24,19480731
+5,5,My Happiness,Pied Pipers,Pied Pipers,jazz,jazz,19480612,9,4,21,19480731
+6,8,You Call Everybody Darling,Al Trace / Bob Vincent,Al Trace / Bob Vincent,pop,unknown,19480626,13,1,21,19480731
+7,10,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,jazz,19480703,14,1,27,19480731
+8,6,William Tell Overture (Feedlebaum),Spike Jones / Doodles Weave,Spike Jones / Doodles Weave,pop,unknown,19480612,10,6,13,19480731
+9,12,Love Somebody,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,unknown,19480619,9,6,20,19480731
+10,7,Little White Lies,Dick Haymes,Dick Haymes,jazz,jazz,19480410,11,3,21,19480731
+11,11,My Happiness,Ella Fitzgerald / Song Spinners,Ella Fitzgerald / Song Spinners,pop,unknown,19480703,12,8,19,19480731
+12,13,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,unknown,19480626,20,3,26,19480731
+13,9,You Can't Be True Dear,Ken Griffin / Jerry Wayne,Ken Griffin / Jerry Wayne,pop,unknown,19480410,10,2,20,19480731
+14,18,It's Magic,Doris Day,Doris Day,jazz,jazz,19480724,18,2,19,19480731
+15,19,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,40s,19480717,17,1,23,19480731
+16,15,You Can't Be True Dear,Dick Haymes / Song Spinners,Dick Haymes / Song Spinners,pop,unknown,19480605,16,9,11,19480731
+17,17,You Can't Be True Dear,Sportsmen,Sportsmen,pop,disney,19480724,17,16,4,19480731
+18,20,Bluebird Of Happiness,Art Mooney / Bud Brees / Galli Sisters,Art Mooney / Bud Brees / Galli Sisters,pop,unknown,19480710,20,14,8,19480731
+19,14,Nature Boy,Nat King Cole,Nat King Cole,jazz,jazz,19480424,15,1,15,19480731
+20,16,Toolie Oolie Doolie (The Yodel Polka),Andrews Sisters,Andrews Sisters,jazz,swing,19480424,14,4,15,19480731
+1,1,Woody Woodpecker,Kay Kyser / Gloria Wood,Kay Kyser / Gloria Wood,pop,unknown,19480605,13,1,14,19480724
+2,2,You Can't Be True Dear,Ken Griffin,Ken Griffin,pop,hammond organ,19480710,2,2,12,19480724
+3,8,Woody Woodpecker,Sportsmen / Mel Blanc,Sportsmen / Mel Blanc,pop,unknown,19480717,8,2,9,19480724
+4,3,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,unknown,19480515,13,3,24,19480724
+5,4,My Happiness,Pied Pipers,Pied Pipers,jazz,jazz,19480612,9,4,21,19480724
+6,9,William Tell Overture (Feedlebaum),Spike Jones / Doodles Weave,Spike Jones / Doodles Weave,pop,unknown,19480612,10,6,13,19480724
+7,5,Little White Lies,Dick Haymes,Dick Haymes,jazz,jazz,19480410,11,3,21,19480724
+8,11,You Call Everybody Darling,Al Trace / Bob Vincent,Al Trace / Bob Vincent,pop,unknown,19480626,13,1,21,19480724
+9,6,You Can't Be True Dear,Ken Griffin / Jerry Wayne,Ken Griffin / Jerry Wayne,pop,unknown,19480410,10,2,20,19480724
+10,15,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,jazz,19480703,14,1,27,19480724
+11,12,My Happiness,Ella Fitzgerald / Song Spinners,Ella Fitzgerald / Song Spinners,pop,unknown,19480703,12,8,19,19480724
+12,10,Love Somebody,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,unknown,19480619,9,6,20,19480724
+13,16,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,unknown,19480626,20,3,26,19480724
+14,7,Nature Boy,Nat King Cole,Nat King Cole,jazz,jazz,19480424,15,1,15,19480724
+15,13,You Can't Be True Dear,Dick Haymes / Song Spinners,Dick Haymes / Song Spinners,pop,unknown,19480605,16,9,11,19480724
+16,14,Toolie Oolie Doolie (The Yodel Polka),Andrews Sisters,Andrews Sisters,jazz,swing,19480424,14,4,15,19480724
+17,NEW,You Can't Be True Dear,Sportsmen,Sportsmen,pop,disney,19480724,17,16,4,19480724
+18,NEW,It's Magic,Doris Day,Doris Day,jazz,jazz,19480724,18,2,19,19480724
+19,17,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,40s,19480717,17,1,23,19480724
+20,20,Bluebird Of Happiness,Art Mooney / Bud Brees / Galli Sisters,Art Mooney / Bud Brees / Galli Sisters,pop,unknown,19480710,20,14,8,19480724
+1,1,Woody Woodpecker,Kay Kyser / Gloria Wood,Kay Kyser / Gloria Wood,pop,unknown,19480605,13,1,14,19480717
+2,2,You Can't Be True Dear,Ken Griffin,Ken Griffin,pop,hammond organ,19480710,2,2,12,19480717
+3,5,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,unknown,19480515,13,3,24,19480717
+4,7,My Happiness,Pied Pipers,Pied Pipers,jazz,jazz,19480612,9,4,21,19480717
+5,4,Little White Lies,Dick Haymes,Dick Haymes,jazz,jazz,19480410,11,3,21,19480717
+6,8,You Can't Be True Dear,Ken Griffin / Jerry Wayne,Ken Griffin / Jerry Wayne,pop,unknown,19480410,10,2,20,19480717
+7,3,Nature Boy,Nat King Cole,Nat King Cole,jazz,jazz,19480424,15,1,15,19480717
+8,NEW,Woody Woodpecker,Sportsmen / Mel Blanc,Sportsmen / Mel Blanc,pop,unknown,19480717,8,2,9,19480717
+9,6,William Tell Overture (Feedlebaum),Spike Jones / Doodles Weave,Spike Jones / Doodles Weave,pop,unknown,19480612,10,6,13,19480717
+10,10,Love Somebody,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,unknown,19480619,9,6,20,19480717
+11,14,You Call Everybody Darling,Al Trace / Bob Vincent,Al Trace / Bob Vincent,pop,unknown,19480626,13,1,21,19480717
+12,13,My Happiness,Ella Fitzgerald / Song Spinners,Ella Fitzgerald / Song Spinners,pop,unknown,19480703,12,8,19,19480717
+13,12,You Can't Be True Dear,Dick Haymes / Song Spinners,Dick Haymes / Song Spinners,pop,unknown,19480605,16,9,11,19480717
+14,9,Toolie Oolie Doolie (The Yodel Polka),Andrews Sisters,Andrews Sisters,jazz,swing,19480424,14,4,15,19480717
+15,11,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,jazz,19480703,14,1,27,19480717
+16,16,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,unknown,19480626,20,3,26,19480717
+17,NEW,Tree In The Meadow,Margaret Whiting,Margaret Whiting,pop,40s,19480717,17,1,23,19480717
+18,18,St. Louis Blues March,Tex Beneke,Tex Beneke,jazz,jazz,19480417,9,5,14,19480717
+19,NEW,Woody Woodpecker,Danny Kaye / Andrews Sisters,Danny Kaye / Andrews Sisters,pop,unknown,19480717,19,19,1,19480717
+20,20,Bluebird Of Happiness,Art Mooney / Bud Brees / Galli Sisters,Art Mooney / Bud Brees / Galli Sisters,pop,unknown,19480710,20,14,8,19480717
+1,1,Woody Woodpecker,Kay Kyser / Gloria Wood,Kay Kyser / Gloria Wood,pop,unknown,19480605,13,1,14,19480710
+2,NEW,You Can't Be True Dear,Ken Griffin,Ken Griffin,pop,hammond organ,19480710,2,2,12,19480710
+3,3,Nature Boy,Nat King Cole,Nat King Cole,jazz,jazz,19480424,15,1,15,19480710
+4,4,Little White Lies,Dick Haymes,Dick Haymes,jazz,jazz,19480410,11,3,21,19480710
+5,5,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,unknown,19480515,13,3,24,19480710
+6,6,William Tell Overture (Feedlebaum),Spike Jones / Doodles Weave,Spike Jones / Doodles Weave,pop,unknown,19480612,10,6,13,19480710
+7,8,My Happiness,Pied Pipers,Pied Pipers,jazz,jazz,19480612,9,4,21,19480710
+8,2,You Can't Be True Dear,Ken Griffin / Jerry Wayne,Ken Griffin / Jerry Wayne,pop,unknown,19480410,10,2,20,19480710
+9,7,Toolie Oolie Doolie (The Yodel Polka),Andrews Sisters,Andrews Sisters,jazz,swing,19480424,14,4,15,19480710
+10,9,Love Somebody,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,unknown,19480619,9,6,20,19480710
+11,14,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,jazz,19480703,14,1,27,19480710
+12,10,You Can't Be True Dear,Dick Haymes / Song Spinners,Dick Haymes / Song Spinners,pop,unknown,19480605,16,9,11,19480710
+13,12,My Happiness,Ella Fitzgerald / Song Spinners,Ella Fitzgerald / Song Spinners,pop,unknown,19480703,12,8,19,19480710
+14,18,You Call Everybody Darling,Al Trace / Bob Vincent,Al Trace / Bob Vincent,pop,unknown,19480626,13,1,21,19480710
+15,11,You Can't Be True Dear,Sportsmen,Sportsmen,pop,disney,19480605,18,11,6,19480710
+16,17,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,unknown,19480626,20,3,26,19480710
+17,13,The Dickey-Bird Song,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,unknown,19480508,12,5,10,19480710
+18,15,St. Louis Blues March,Tex Beneke,Tex Beneke,jazz,jazz,19480417,9,5,14,19480710
+19,NEW,You Can't Be True Dear,Dick James,Dick James,pop,50s,19480710,19,19,1,19480710
+20,NEW,Bluebird Of Happiness,Art Mooney / Bud Brees / Galli Sisters,Art Mooney / Bud Brees / Galli Sisters,pop,unknown,19480710,20,14,8,19480710
+1,3,Woody Woodpecker,Kay Kyser / Gloria Wood,Kay Kyser / Gloria Wood,pop,unknown,19480605,13,1,14,19480703
+2,2,You Can't Be True Dear,Ken Griffin / Jerry Wayne,Ken Griffin / Jerry Wayne,pop,unknown,19480410,10,2,20,19480703
+3,1,Nature Boy,Nat King Cole,Nat King Cole,jazz,jazz,19480424,15,1,15,19480703
+4,4,Little White Lies,Dick Haymes,Dick Haymes,jazz,jazz,19480410,11,3,21,19480703
+5,5,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,unknown,19480515,13,3,24,19480703
+6,6,William Tell Overture (Feedlebaum),Spike Jones / Doodles Weave,Spike Jones / Doodles Weave,pop,unknown,19480612,10,6,13,19480703
+7,7,Toolie Oolie Doolie (The Yodel Polka),Andrews Sisters,Andrews Sisters,jazz,swing,19480424,14,4,15,19480703
+8,8,My Happiness,Pied Pipers,Pied Pipers,jazz,jazz,19480612,9,4,21,19480703
+9,10,Love Somebody,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,unknown,19480619,9,6,20,19480703
+10,9,You Can't Be True Dear,Dick Haymes / Song Spinners,Dick Haymes / Song Spinners,pop,unknown,19480605,16,9,11,19480703
+11,11,You Can't Be True Dear,Sportsmen,Sportsmen,pop,disney,19480605,18,11,6,19480703
+12,NEW,My Happiness,Ella Fitzgerald / Song Spinners,Ella Fitzgerald / Song Spinners,pop,unknown,19480703,12,8,19,19480703
+13,12,The Dickey-Bird Song,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,unknown,19480508,12,5,10,19480703
+14,NEW,Twelfth Street Rag,Pee Wee Hunt,Pee Wee Hunt,jazz,jazz,19480703,14,1,27,19480703
+15,14,St. Louis Blues March,Tex Beneke,Tex Beneke,jazz,jazz,19480417,9,5,14,19480703
+16,15,Tell Me A Story,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19480626,15,15,2,19480703
+17,20,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,unknown,19480626,20,3,26,19480703
+18,13,You Call Everybody Darling,Al Trace / Bob Vincent,Al Trace / Bob Vincent,pop,unknown,19480626,13,1,21,19480703
+19,NEW,You Can't Be True Dear,Marlin Sisters / Eddie Fisher,Marlin Sisters / Eddie Fisher,pop,unknown,19480703,19,19,1,19480703
+20,NEW,Toolie Oolie Doolie,Sportsmen,Sportsmen,pop,disney,19480703,20,20,1,19480703
+1,1,Nature Boy,Nat King Cole,Nat King Cole,jazz,jazz,19480424,15,1,15,19480626
+2,2,You Can't Be True Dear,Ken Griffin / Jerry Wayne,Ken Griffin / Jerry Wayne,pop,unknown,19480410,10,2,20,19480626
+3,4,Woody Woodpecker,Kay Kyser / Gloria Wood,Kay Kyser / Gloria Wood,pop,unknown,19480605,13,1,14,19480626
+4,3,Little White Lies,Dick Haymes,Dick Haymes,jazz,jazz,19480410,11,3,21,19480626
+5,5,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,unknown,19480515,13,3,24,19480626
+6,7,William Tell Overture (Feedlebaum),Spike Jones / Doodles Weave,Spike Jones / Doodles Weave,pop,unknown,19480612,10,6,13,19480626
+7,6,Toolie Oolie Doolie (The Yodel Polka),Andrews Sisters,Andrews Sisters,jazz,swing,19480424,14,4,15,19480626
+8,8,My Happiness,Pied Pipers,Pied Pipers,jazz,jazz,19480612,9,4,21,19480626
+9,10,You Can't Be True Dear,Dick Haymes / Song Spinners,Dick Haymes / Song Spinners,pop,unknown,19480605,16,9,11,19480626
+10,9,Love Somebody,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,unknown,19480619,9,6,20,19480626
+11,17,You Can't Be True Dear,Sportsmen,Sportsmen,pop,disney,19480605,18,11,6,19480626
+12,11,The Dickey-Bird Song,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,unknown,19480508,12,5,10,19480626
+13,NEW,You Call Everybody Darling,Al Trace / Bob Vincent,Al Trace / Bob Vincent,pop,unknown,19480626,13,1,21,19480626
+14,13,St. Louis Blues March,Tex Beneke,Tex Beneke,jazz,jazz,19480417,9,5,14,19480626
+15,NEW,Tell Me A Story,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19480626,15,15,2,19480626
+16,16,Nature Boy,Dick Haymes / Song Spinners,Dick Haymes / Song Spinners,pop,unknown,19480612,16,16,3,19480626
+17,12,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,jazz,19480131,15,2,22,19480626
+18,15,Because,Perry Como,Perry Como,jazz,jazz,19480313,11,4,16,19480626
+19,14,Baby Face,Art Mooney / Choir,Art Mooney / Choir,pop,unknown,19480403,13,5,13,19480626
+20,NEW,Maybe You'll Be There,Gordon Jenkins / Charles Lavere,Gordon Jenkins / Charles Lavere,pop,unknown,19480626,20,3,26,19480626
+1,1,Nature Boy,Nat King Cole,Nat King Cole,jazz,jazz,19480424,15,1,15,19480619
+2,2,You Can't Be True Dear,Ken Griffin / Jerry Wayne,Ken Griffin / Jerry Wayne,pop,unknown,19480410,10,2,20,19480619
+3,3,Little White Lies,Dick Haymes,Dick Haymes,jazz,jazz,19480410,11,3,21,19480619
+4,6,Woody Woodpecker,Kay Kyser / Gloria Wood,Kay Kyser / Gloria Wood,pop,unknown,19480605,13,1,14,19480619
+5,5,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,unknown,19480515,13,3,24,19480619
+6,4,Toolie Oolie Doolie (The Yodel Polka),Andrews Sisters,Andrews Sisters,jazz,swing,19480424,14,4,15,19480619
+7,10,William Tell Overture (Feedlebaum),Spike Jones / Doodles Weave,Spike Jones / Doodles Weave,pop,unknown,19480612,10,6,13,19480619
+8,9,My Happiness,Pied Pipers,Pied Pipers,jazz,jazz,19480612,9,4,21,19480619
+9,NEW,Love Somebody,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,unknown,19480619,9,6,20,19480619
+10,12,You Can't Be True Dear,Dick Haymes / Song Spinners,Dick Haymes / Song Spinners,pop,unknown,19480605,16,9,11,19480619
+11,7,The Dickey-Bird Song,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,unknown,19480508,12,5,10,19480619
+12,14,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,jazz,19480131,15,2,22,19480619
+13,8,St. Louis Blues March,Tex Beneke,Tex Beneke,jazz,jazz,19480417,9,5,14,19480619
+14,11,Baby Face,Art Mooney / Choir,Art Mooney / Choir,pop,unknown,19480403,13,5,13,19480619
+15,13,Because,Perry Como,Perry Como,jazz,jazz,19480313,11,4,16,19480619
+16,16,Nature Boy,Dick Haymes / Song Spinners,Dick Haymes / Song Spinners,pop,unknown,19480612,16,16,3,19480619
+17,15,You Can't Be True Dear,Sportsmen,Sportsmen,pop,disney,19480605,18,11,6,19480619
+18,NEW,Nature Boy,Frank Sinatra,Frank Sinatra,jazz,jazz,19480619,18,18,1,19480619
+19,18,Manana,Peggy Lee,Peggy Lee,jazz,jazz,19480131,8,1,21,19480619
+20,NEW,Toolie Oolie Doolie (The Yodel Polka),Sportsmen,Sportsmen,pop,disney,19480619,20,20,1,19480619
+1,1,Nature Boy,Nat King Cole,Nat King Cole,jazz,jazz,19480424,15,1,15,19480612
+2,2,You Can't Be True Dear,Ken Griffin / Jerry Wayne,Ken Griffin / Jerry Wayne,pop,unknown,19480410,10,2,20,19480612
+3,3,Little White Lies,Dick Haymes,Dick Haymes,jazz,jazz,19480410,11,3,21,19480612
+4,4,Toolie Oolie Doolie (The Yodel Polka),Andrews Sisters,Andrews Sisters,jazz,swing,19480424,14,4,15,19480612
+5,5,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,unknown,19480515,13,3,24,19480612
+6,13,Woody Woodpecker,Kay Kyser / Gloria Wood,Kay Kyser / Gloria Wood,pop,unknown,19480605,13,1,14,19480612
+7,7,The Dickey-Bird Song,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,unknown,19480508,12,5,10,19480612
+8,9,St. Louis Blues March,Tex Beneke,Tex Beneke,jazz,jazz,19480417,9,5,14,19480612
+9,NEW,My Happiness,Pied Pipers,Pied Pipers,jazz,jazz,19480612,9,4,21,19480612
+10,NEW,William Tell Overture (Feedlebaum),Spike Jones / Doodles Weave,Spike Jones / Doodles Weave,pop,unknown,19480612,10,6,13,19480612
+11,8,Baby Face,Art Mooney / Choir,Art Mooney / Choir,pop,unknown,19480403,13,5,13,19480612
+12,16,You Can't Be True Dear,Dick Haymes / Song Spinners,Dick Haymes / Song Spinners,pop,unknown,19480605,16,9,11,19480612
+13,11,Because,Perry Como,Perry Como,jazz,jazz,19480313,11,4,16,19480612
+14,6,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,jazz,19480131,15,2,22,19480612
+15,18,You Can't Be True Dear,Sportsmen,Sportsmen,pop,disney,19480605,18,11,6,19480612
+16,NEW,Nature Boy,Dick Haymes / Song Spinners,Dick Haymes / Song Spinners,pop,unknown,19480612,16,16,3,19480612
+17,19,Baby Face,Sammy Kaye / Kaydets,Sammy Kaye / Kaydets,pop,unknown,19480605,19,17,2,19480612
+18,10,Manana,Peggy Lee,Peggy Lee,jazz,jazz,19480131,8,1,21,19480612
+19,NEW,Baby Face,Jack Smith / Clark Sisters,Jack Smith / Clark Sisters,pop,unknown,19480612,19,19,1,19480612
+20,NEW,You Can't Be True Dear,Marlin Sisters / Eddie Fisher,Marlin Sisters / Eddie Fisher,pop,unknown,19480612,20,20,1,19480612
+1,1,Nature Boy,Nat King Cole,Nat King Cole,jazz,jazz,19480424,15,1,15,19480605
+2,2,You Can't Be True Dear,Ken Griffin / Jerry Wayne,Ken Griffin / Jerry Wayne,pop,unknown,19480410,10,2,20,19480605
+3,3,Little White Lies,Dick Haymes,Dick Haymes,jazz,jazz,19480410,11,3,21,19480605
+4,4,Toolie Oolie Doolie (The Yodel Polka),Andrews Sisters,Andrews Sisters,jazz,swing,19480424,14,4,15,19480605
+5,6,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,unknown,19480515,13,3,24,19480605
+6,9,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,jazz,19480131,15,2,22,19480605
+7,5,The Dickey-Bird Song,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,unknown,19480508,12,5,10,19480605
+8,7,Baby Face,Art Mooney / Choir,Art Mooney / Choir,pop,unknown,19480403,13,5,13,19480605
+9,8,St. Louis Blues March,Tex Beneke,Tex Beneke,jazz,jazz,19480417,9,5,14,19480605
+10,12,Manana,Peggy Lee,Peggy Lee,jazz,jazz,19480131,8,1,21,19480605
+11,10,Because,Perry Como,Perry Como,jazz,jazz,19480313,11,4,16,19480605
+12,NEW,Love Somebody,Doris Day / Buddy Clark,Doris Day / Buddy Clark,pop,unknown,19480605,12,12,1,19480605
+13,NEW,Woody Woodpecker,Kay Kyser / Gloria Wood,Kay Kyser / Gloria Wood,pop,unknown,19480605,13,1,14,19480605
+14,15,You Can't Be True Dear,Vera Lynn,Vera Lynn,pop,oldies,19480529,15,14,2,19480605
+15,NEW,Sabre Dance,Woody Herman,Woody Herman,jazz,jazz,19480605,15,15,1,19480605
+16,NEW,You Can't Be True Dear,Dick Haymes / Song Spinners,Dick Haymes / Song Spinners,pop,unknown,19480605,16,9,11,19480605
+17,NEW,Tell Me A Story,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19480605,17,17,1,19480605
+18,NEW,You Can't Be True Dear,Sportsmen,Sportsmen,pop,disney,19480605,18,11,6,19480605
+19,NEW,Baby Face,Sammy Kaye / Kaydets,Sammy Kaye / Kaydets,pop,unknown,19480605,19,17,2,19480605
+20,NEW,Nature Boy,Frank Sinatra,Frank Sinatra,jazz,jazz,19480605,20,20,1,19480605
+1,1,Nature Boy,Nat King Cole,Nat King Cole,jazz,jazz,19480424,15,1,15,19480529
+2,2,You Can't Be True Dear,Ken Griffin / Jerry Wayne,Ken Griffin / Jerry Wayne,pop,unknown,19480410,10,2,20,19480529
+3,3,Little White Lies,Dick Haymes,Dick Haymes,jazz,jazz,19480410,11,3,21,19480529
+4,6,Toolie Oolie Doolie (The Yodel Polka),Andrews Sisters,Andrews Sisters,jazz,swing,19480424,14,4,15,19480529
+5,7,The Dickey-Bird Song,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,unknown,19480508,12,5,10,19480529
+6,10,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,unknown,19480515,13,3,24,19480529
+7,8,Baby Face,Art Mooney / Choir,Art Mooney / Choir,pop,unknown,19480403,13,5,13,19480529
+8,9,St. Louis Blues March,Tex Beneke,Tex Beneke,jazz,jazz,19480417,9,5,14,19480529
+9,4,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,jazz,19480131,15,2,22,19480529
+10,11,Because,Perry Como,Perry Como,jazz,jazz,19480313,11,4,16,19480529
+11,NEW,Toolie Oolie Doolie (The Yodel Polka),Vaughn Horton / Polka Debs,Vaughn Horton / Polka Debs,pop,unknown,19480529,11,11,1,19480529
+12,5,Manana,Peggy Lee,Peggy Lee,jazz,jazz,19480131,8,1,21,19480529
+13,13,Sabre Dance Boogie,Freddy Martin / Barclay Allen,Freddy Martin / Barclay Allen,pop,unknown,19480522,13,13,2,19480529
+14,15,Just Because,Frankie Yankovic / Johnny Pecon,Frankie Yankovic / Johnny Pecon,pop,unknown,19480522,15,14,2,19480529
+15,NEW,You Can't Be True Dear,Vera Lynn,Vera Lynn,pop,oldies,19480529,15,14,2,19480529
+1,1,Nature Boy,Nat King Cole,Nat King Cole,jazz,jazz,19480424,15,1,15,19480522
+2,2,You Can't Be True Dear,Ken Griffin / Jerry Wayne,Ken Griffin / Jerry Wayne,pop,unknown,19480410,10,2,20,19480522
+3,4,Little White Lies,Dick Haymes,Dick Haymes,jazz,jazz,19480410,11,3,21,19480522
+4,5,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,jazz,19480131,15,2,22,19480522
+5,3,Manana,Peggy Lee,Peggy Lee,jazz,jazz,19480131,8,1,21,19480522
+6,6,Toolie Oolie Doolie (The Yodel Polka),Andrews Sisters,Andrews Sisters,jazz,swing,19480424,14,4,15,19480522
+7,8,The Dickey-Bird Song,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,unknown,19480508,12,5,10,19480522
+8,7,Baby Face,Art Mooney / Choir,Art Mooney / Choir,pop,unknown,19480403,13,5,13,19480522
+9,9,St. Louis Blues March,Tex Beneke,Tex Beneke,jazz,jazz,19480417,9,5,14,19480522
+10,13,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,unknown,19480515,13,3,24,19480522
+11,10,Because,Perry Como,Perry Como,jazz,jazz,19480313,11,4,16,19480522
+12,14,Sabre Dance,Woody Herman,Woody Herman,jazz,jazz,19480403,15,7,8,19480522
+13,NEW,Sabre Dance Boogie,Freddy Martin / Barclay Allen,Freddy Martin / Barclay Allen,pop,unknown,19480522,13,13,2,19480522
+14,11,Tell Me A Story,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19480515,11,11,2,19480522
+15,NEW,Just Because,Frankie Yankovic / Johnny Pecon,Frankie Yankovic / Johnny Pecon,pop,unknown,19480522,15,14,2,19480522
+1,2,Nature Boy,Nat King Cole,Nat King Cole,jazz,jazz,19480424,15,1,15,19480515
+2,4,You Can't Be True Dear,Ken Griffin / Jerry Wayne,Ken Griffin / Jerry Wayne,pop,unknown,19480410,10,2,20,19480515
+3,1,Manana,Peggy Lee,Peggy Lee,jazz,jazz,19480131,8,1,21,19480515
+4,6,Little White Lies,Dick Haymes,Dick Haymes,jazz,jazz,19480410,11,3,21,19480515
+5,3,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,jazz,19480131,15,2,22,19480515
+6,5,Toolie Oolie Doolie (The Yodel Polka),Andrews Sisters,Andrews Sisters,jazz,swing,19480424,14,4,15,19480515
+7,7,Baby Face,Art Mooney / Choir,Art Mooney / Choir,pop,unknown,19480403,13,5,13,19480515
+8,12,The Dickey-Bird Song,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,unknown,19480508,12,5,10,19480515
+9,9,St. Louis Blues March,Tex Beneke,Tex Beneke,jazz,jazz,19480417,9,5,14,19480515
+10,11,Because,Perry Como,Perry Como,jazz,jazz,19480313,11,4,16,19480515
+11,NEW,Tell Me A Story,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19480515,11,11,2,19480515
+12,13,Toolie Oolie Doolie (The Yodel Polka),Vaughn Horton / Polka Debs,Vaughn Horton / Polka Debs,pop,unknown,19480508,13,12,2,19480515
+13,NEW,My Happiness,Jon And Sondra Steele,Jon And Sondra Steele,pop,unknown,19480515,13,3,24,19480515
+14,8,Sabre Dance,Woody Herman,Woody Herman,jazz,jazz,19480403,15,7,8,19480515
+15,15,Shine,Frankie Laine,Frankie Laine,country / folk,country,19480410,12,12,6,19480515
+1,1,Manana,Peggy Lee,Peggy Lee,jazz,jazz,19480131,8,1,21,19480508
+2,7,Nature Boy,Nat King Cole,Nat King Cole,jazz,jazz,19480424,15,1,15,19480508
+3,2,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,jazz,19480131,15,2,22,19480508
+4,3,You Can't Be True Dear,Ken Griffin / Jerry Wayne,Ken Griffin / Jerry Wayne,pop,unknown,19480410,10,2,20,19480508
+5,8,Toolie Oolie Doolie (The Yodel Polka),Andrews Sisters,Andrews Sisters,jazz,swing,19480424,14,4,15,19480508
+6,4,Little White Lies,Dick Haymes,Dick Haymes,jazz,jazz,19480410,11,3,21,19480508
+7,6,Baby Face,Art Mooney / Choir,Art Mooney / Choir,pop,unknown,19480403,13,5,13,19480508
+8,9,Sabre Dance,Woody Herman,Woody Herman,jazz,jazz,19480403,15,7,8,19480508
+9,5,St. Louis Blues March,Tex Beneke,Tex Beneke,jazz,jazz,19480417,9,5,14,19480508
+10,10,Sabre Dance Boogie,Freddy Martin / Barclay Allen,Freddy Martin / Barclay Allen,pop,unknown,19480403,14,6,6,19480508
+11,12,Because,Perry Como,Perry Como,jazz,jazz,19480313,11,4,16,19480508
+12,NEW,The Dickey-Bird Song,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,unknown,19480508,12,5,10,19480508
+13,NEW,Toolie Oolie Doolie (The Yodel Polka),Vaughn Horton / Polka Debs,Vaughn Horton / Polka Debs,pop,unknown,19480508,13,12,2,19480508
+14,11,I'm Looing Over A 4-Leaf Clover,Art Mooney / Choir,Art Mooney / Choir,pop,unknown,19480124,14,1,16,19480508
+15,13,Shine,Frankie Laine,Frankie Laine,country / folk,country,19480410,12,12,6,19480508
+1,1,Manana,Peggy Lee,Peggy Lee,jazz,jazz,19480131,8,1,21,19480501
+2,2,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,jazz,19480131,15,2,22,19480501
+3,4,You Can't Be True Dear,Ken Griffin / Jerry Wayne,Ken Griffin / Jerry Wayne,pop,unknown,19480410,10,2,20,19480501
+4,3,Little White Lies,Dick Haymes,Dick Haymes,jazz,jazz,19480410,11,3,21,19480501
+5,10,St. Louis Blues March,Tex Beneke,Tex Beneke,jazz,jazz,19480417,9,5,14,19480501
+6,7,Baby Face,Art Mooney / Choir,Art Mooney / Choir,pop,unknown,19480403,13,5,13,19480501
+7,15,Nature Boy,Nat King Cole,Nat King Cole,jazz,jazz,19480424,15,1,15,19480501
+8,14,Toolie Oolie Doolie (The Yodel Polka),Andrews Sisters,Andrews Sisters,jazz,swing,19480424,14,4,15,19480501
+9,8,Sabre Dance,Woody Herman,Woody Herman,jazz,jazz,19480403,15,7,8,19480501
+10,11,Sabre Dance Boogie,Freddy Martin / Barclay Allen,Freddy Martin / Barclay Allen,pop,unknown,19480403,14,6,6,19480501
+11,5,I'm Looing Over A 4-Leaf Clover,Art Mooney / Choir,Art Mooney / Choir,pop,unknown,19480124,14,1,16,19480501
+12,6,Because,Perry Como,Perry Como,jazz,jazz,19480313,11,4,16,19480501
+13,12,Shine,Frankie Laine,Frankie Laine,country / folk,country,19480410,12,12,6,19480501
+14,9,Now Is The Hour,Gracie Fields,Gracie Fields,pop,british,19480131,13,4,14,19480501
+15,13,Beg Your Pardon,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,unknown,19480117,14,4,16,19480501
+1,1,Manana,Peggy Lee,Peggy Lee,jazz,jazz,19480131,8,1,21,19480424
+2,2,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,jazz,19480131,15,2,22,19480424
+3,11,Little White Lies,Dick Haymes,Dick Haymes,jazz,jazz,19480410,11,3,21,19480424
+4,8,You Can't Be True Dear,Ken Griffin / Jerry Wayne,Ken Griffin / Jerry Wayne,pop,unknown,19480410,10,2,20,19480424
+5,3,I'm Looing Over A 4-Leaf Clover,Art Mooney / Choir,Art Mooney / Choir,pop,unknown,19480124,14,1,16,19480424
+6,4,Because,Perry Como,Perry Como,jazz,jazz,19480313,11,4,16,19480424
+7,5,Baby Face,Art Mooney / Choir,Art Mooney / Choir,pop,unknown,19480403,13,5,13,19480424
+8,7,Sabre Dance,Woody Herman,Woody Herman,jazz,jazz,19480403,15,7,8,19480424
+9,10,Now Is The Hour,Gracie Fields,Gracie Fields,pop,british,19480131,13,4,14,19480424
+10,9,St. Louis Blues March,Tex Beneke,Tex Beneke,jazz,jazz,19480417,9,5,14,19480424
+11,6,Sabre Dance Boogie,Freddy Martin / Barclay Allen,Freddy Martin / Barclay Allen,pop,unknown,19480403,14,6,6,19480424
+12,15,Shine,Frankie Laine,Frankie Laine,country / folk,country,19480410,12,12,6,19480424
+13,14,Beg Your Pardon,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,unknown,19480117,14,4,16,19480424
+14,NEW,Toolie Oolie Doolie (The Yodel Polka),Andrews Sisters,Andrews Sisters,jazz,swing,19480424,14,4,15,19480424
+15,NEW,Nature Boy,Nat King Cole,Nat King Cole,jazz,jazz,19480424,15,1,15,19480424
+1,1,Manana,Peggy Lee,Peggy Lee,jazz,jazz,19480131,8,1,21,19480417
+2,2,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,jazz,19480131,15,2,22,19480417
+3,3,I'm Looing Over A 4-Leaf Clover,Art Mooney / Choir,Art Mooney / Choir,pop,unknown,19480124,14,1,16,19480417
+4,7,Because,Perry Como,Perry Como,jazz,jazz,19480313,11,4,16,19480417
+5,8,Baby Face,Art Mooney / Choir,Art Mooney / Choir,pop,unknown,19480403,13,5,13,19480417
+6,15,Sabre Dance Boogie,Freddy Martin / Barclay Allen,Freddy Martin / Barclay Allen,pop,unknown,19480403,14,6,6,19480417
+7,13,Sabre Dance,Woody Herman,Woody Herman,jazz,jazz,19480403,15,7,8,19480417
+8,10,You Can't Be True Dear,Ken Griffin / Jerry Wayne,Ken Griffin / Jerry Wayne,pop,unknown,19480410,10,2,20,19480417
+9,NEW,St. Louis Blues March,Tex Beneke,Tex Beneke,jazz,jazz,19480417,9,5,14,19480417
+10,4,Now Is The Hour,Gracie Fields,Gracie Fields,pop,british,19480131,13,4,14,19480417
+11,11,Little White Lies,Dick Haymes,Dick Haymes,jazz,jazz,19480410,11,3,21,19480417
+12,NEW,Now Is The Hour,Eddy Howard,Eddy Howard,jazz,jazz,19480417,12,12,1,19480417
+13,9,I'm Looking Over A 4-Leaf Clover,Russ Morgan / Ames Brothers,Russ Morgan / Ames Brothers,pop,unknown,19480221,15,7,9,19480417
+14,5,Beg Your Pardon,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,unknown,19480117,14,4,16,19480417
+15,12,Shine,Frankie Laine,Frankie Laine,country / folk,country,19480410,12,12,6,19480417
+1,1,Manana,Peggy Lee,Peggy Lee,jazz,jazz,19480131,8,1,21,19480410
+2,2,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,jazz,19480131,15,2,22,19480410
+3,3,I'm Looing Over A 4-Leaf Clover,Art Mooney / Choir,Art Mooney / Choir,pop,unknown,19480124,14,1,16,19480410
+4,4,Now Is The Hour,Gracie Fields,Gracie Fields,pop,british,19480131,13,4,14,19480410
+5,5,Beg Your Pardon,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,unknown,19480117,14,4,16,19480410
+6,6,Beg Your Pardon,Francis Craig / Marjorie Hughes,Francis Craig / Marjorie Hughes,pop,unknown,19480221,8,6,8,19480410
+7,7,Because,Perry Como,Perry Como,jazz,jazz,19480313,11,4,16,19480410
+8,13,Baby Face,Art Mooney / Choir,Art Mooney / Choir,pop,unknown,19480403,13,5,13,19480410
+9,9,I'm Looking Over A 4-Leaf Clover,Russ Morgan / Ames Brothers,Russ Morgan / Ames Brothers,pop,unknown,19480221,15,7,9,19480410
+10,NEW,You Can't Be True Dear,Ken Griffin / Jerry Wayne,Ken Griffin / Jerry Wayne,pop,unknown,19480410,10,2,20,19480410
+11,NEW,Little White Lies,Dick Haymes,Dick Haymes,jazz,jazz,19480410,11,3,21,19480410
+12,NEW,Shine,Frankie Laine,Frankie Laine,country / folk,country,19480410,12,12,6,19480410
+13,15,Sabre Dance,Woody Herman,Woody Herman,jazz,jazz,19480403,15,7,8,19480410
+14,12,Now Is The Hour,Margaret Whiting,Margaret Whiting,pop,40s,19480228,12,8,7,19480410
+15,14,Sabre Dance Boogie,Freddy Martin / Barclay Allen,Freddy Martin / Barclay Allen,pop,unknown,19480403,14,6,6,19480410
+1,1,Manana,Peggy Lee,Peggy Lee,jazz,jazz,19480131,8,1,21,19480403
+2,2,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,jazz,19480131,15,2,22,19480403
+3,3,I'm Looing Over A 4-Leaf Clover,Art Mooney / Choir,Art Mooney / Choir,pop,unknown,19480124,14,1,16,19480403
+4,4,Now Is The Hour,Gracie Fields,Gracie Fields,pop,british,19480131,13,4,14,19480403
+5,5,Beg Your Pardon,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,unknown,19480117,14,4,16,19480403
+6,6,Beg Your Pardon,Francis Craig / Marjorie Hughes,Francis Craig / Marjorie Hughes,pop,unknown,19480221,8,6,8,19480403
+7,11,Because,Perry Como,Perry Como,jazz,jazz,19480313,11,4,16,19480403
+8,9,Beg Your Pardon,Larry Green,Larry Green,pop,60s,19480306,13,8,5,19480403
+9,7,I'm Looking Over A 4-Leaf Clover,Russ Morgan / Ames Brothers,Russ Morgan / Ames Brothers,pop,unknown,19480221,15,7,9,19480403
+10,12,"Slap 'er Down Agin, Paw",Arthur Godfrey,Arthur Godfrey,pop,pop,19480221,13,8,7,19480403
+11,13,Now Is The Hour,Eddy Howard,Eddy Howard,jazz,jazz,19480214,14,8,8,19480403
+12,8,Now Is The Hour,Margaret Whiting,Margaret Whiting,pop,40s,19480228,12,8,7,19480403
+13,NEW,Baby Face,Art Mooney / Choir,Art Mooney / Choir,pop,unknown,19480403,13,5,13,19480403
+14,NEW,Sabre Dance Boogie,Freddy Martin / Barclay Allen,Freddy Martin / Barclay Allen,pop,unknown,19480403,14,6,6,19480403
+15,NEW,Sabre Dance,Woody Herman,Woody Herman,jazz,jazz,19480403,15,7,8,19480403
+1,1,Manana,Peggy Lee,Peggy Lee,jazz,jazz,19480131,8,1,21,19480327
+2,2,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,jazz,19480131,15,2,22,19480327
+3,3,I'm Looing Over A 4-Leaf Clover,Art Mooney / Choir,Art Mooney / Choir,pop,unknown,19480124,14,1,16,19480327
+4,4,Now Is The Hour,Gracie Fields,Gracie Fields,pop,british,19480131,13,4,14,19480327
+5,5,Beg Your Pardon,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,unknown,19480117,14,4,16,19480327
+6,6,Beg Your Pardon,Francis Craig / Marjorie Hughes,Francis Craig / Marjorie Hughes,pop,unknown,19480221,8,6,8,19480327
+7,7,I'm Looking Over A 4-Leaf Clover,Russ Morgan / Ames Brothers,Russ Morgan / Ames Brothers,pop,unknown,19480221,15,7,9,19480327
+8,9,Now Is The Hour,Margaret Whiting,Margaret Whiting,pop,40s,19480228,12,8,7,19480327
+9,11,Beg Your Pardon,Larry Green,Larry Green,pop,60s,19480306,13,8,5,19480327
+10,8,Ballerina,Vaughn Monroe,Vaughn Monroe,jazz,swing,19471108,4,1,21,19480327
+11,14,Because,Perry Como,Perry Como,jazz,jazz,19480313,11,4,16,19480327
+12,10,"Slap 'er Down Agin, Paw",Arthur Godfrey,Arthur Godfrey,pop,pop,19480221,13,8,7,19480327
+13,12,Now Is The Hour,Eddy Howard,Eddy Howard,jazz,jazz,19480214,14,8,8,19480327
+14,NEW,Now Is The Hour,Charlie Spivak / Tommy Mercer,Charlie Spivak / Tommy Mercer,pop,unknown,19480327,14,14,1,19480327
+15,13,I'm Looking Over A 4-Leaf Clover,Three Suns / Artie Dunn,Three Suns / Artie Dunn,pop,unknown,19480306,14,13,4,19480327
+1,1,Manana,Peggy Lee,Peggy Lee,jazz,jazz,19480131,8,1,21,19480320
+2,3,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,jazz,19480131,15,2,22,19480320
+3,2,I'm Looing Over A 4-Leaf Clover,Art Mooney / Choir,Art Mooney / Choir,pop,unknown,19480124,14,1,16,19480320
+4,5,Now Is The Hour,Gracie Fields,Gracie Fields,pop,british,19480131,13,4,14,19480320
+5,4,Beg Your Pardon,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,unknown,19480117,14,4,16,19480320
+6,8,Beg Your Pardon,Francis Craig / Marjorie Hughes,Francis Craig / Marjorie Hughes,pop,unknown,19480221,8,6,8,19480320
+7,7,I'm Looking Over A 4-Leaf Clover,Russ Morgan / Ames Brothers,Russ Morgan / Ames Brothers,pop,unknown,19480221,15,7,9,19480320
+8,6,Ballerina,Vaughn Monroe,Vaughn Monroe,jazz,swing,19471108,4,1,21,19480320
+9,9,Now Is The Hour,Margaret Whiting,Margaret Whiting,pop,40s,19480228,12,8,7,19480320
+10,10,"Slap 'er Down Agin, Paw",Arthur Godfrey,Arthur Godfrey,pop,pop,19480221,13,8,7,19480320
+11,15,Beg Your Pardon,Larry Green,Larry Green,pop,60s,19480306,13,8,5,19480320
+12,14,Now Is The Hour,Eddy Howard,Eddy Howard,jazz,jazz,19480214,14,8,8,19480320
+13,13,I'm Looking Over A 4-Leaf Clover,Three Suns / Artie Dunn,Three Suns / Artie Dunn,pop,unknown,19480306,14,13,4,19480320
+14,11,Because,Perry Como,Perry Como,jazz,jazz,19480313,11,4,16,19480320
+15,NEW,Shine,Frankie Laine,Frankie Laine,country / folk,country,19480320,15,15,1,19480320
+1,2,Manana,Peggy Lee,Peggy Lee,jazz,jazz,19480131,8,1,21,19480313
+2,1,I'm Looing Over A 4-Leaf Clover,Art Mooney / Choir,Art Mooney / Choir,pop,unknown,19480124,14,1,16,19480313
+3,3,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,jazz,19480131,15,2,22,19480313
+4,6,Beg Your Pardon,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,unknown,19480117,14,4,16,19480313
+5,5,Now Is The Hour,Gracie Fields,Gracie Fields,pop,british,19480131,13,4,14,19480313
+6,4,Ballerina,Vaughn Monroe,Vaughn Monroe,jazz,swing,19471108,4,1,21,19480313
+7,10,I'm Looking Over A 4-Leaf Clover,Russ Morgan / Ames Brothers,Russ Morgan / Ames Brothers,pop,unknown,19480221,15,7,9,19480313
+8,7,Beg Your Pardon,Francis Craig / Marjorie Hughes,Francis Craig / Marjorie Hughes,pop,unknown,19480221,8,6,8,19480313
+9,11,Now Is The Hour,Margaret Whiting,Margaret Whiting,pop,40s,19480228,12,8,7,19480313
+10,9,"Slap 'er Down Agin, Paw",Arthur Godfrey,Arthur Godfrey,pop,pop,19480221,13,8,7,19480313
+11,NEW,Because,Perry Como,Perry Como,jazz,jazz,19480313,11,4,16,19480313
+12,12,Golden Earrings,Peggy Lee,Peggy Lee,jazz,jazz,19480103,8,2,11,19480313
+13,14,I'm Looking Over A 4-Leaf Clover,Three Suns / Artie Dunn,Three Suns / Artie Dunn,pop,unknown,19480306,14,13,4,19480313
+14,8,Now Is The Hour,Eddy Howard,Eddy Howard,jazz,jazz,19480214,14,8,8,19480313
+15,13,Beg Your Pardon,Larry Green,Larry Green,pop,60s,19480306,13,8,5,19480313
+1,1,I'm Looing Over A 4-Leaf Clover,Art Mooney / Choir,Art Mooney / Choir,pop,unknown,19480124,14,1,16,19480306
+2,2,Manana,Peggy Lee,Peggy Lee,jazz,jazz,19480131,8,1,21,19480306
+3,3,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,jazz,19480131,15,2,22,19480306
+4,4,Ballerina,Vaughn Monroe,Vaughn Monroe,jazz,swing,19471108,4,1,21,19480306
+5,6,Now Is The Hour,Gracie Fields,Gracie Fields,pop,british,19480131,13,4,14,19480306
+6,5,Beg Your Pardon,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,unknown,19480117,14,4,16,19480306
+7,7,Beg Your Pardon,Francis Craig / Marjorie Hughes,Francis Craig / Marjorie Hughes,pop,unknown,19480221,8,6,8,19480306
+8,10,Now Is The Hour,Eddy Howard,Eddy Howard,jazz,jazz,19480214,14,8,8,19480306
+9,8,"Slap 'er Down Agin, Paw",Arthur Godfrey,Arthur Godfrey,pop,pop,19480221,13,8,7,19480306
+10,9,I'm Looking Over A 4-Leaf Clover,Russ Morgan / Ames Brothers,Russ Morgan / Ames Brothers,pop,unknown,19480221,15,7,9,19480306
+11,12,Now Is The Hour,Margaret Whiting,Margaret Whiting,pop,40s,19480228,12,8,7,19480306
+12,11,Golden Earrings,Peggy Lee,Peggy Lee,jazz,jazz,19480103,8,2,11,19480306
+13,NEW,Beg Your Pardon,Larry Green,Larry Green,pop,60s,19480306,13,8,5,19480306
+14,NEW,I'm Looking Over A 4-Leaf Clover,Three Suns / Artie Dunn,Three Suns / Artie Dunn,pop,unknown,19480306,14,13,4,19480306
+15,13,Serenade Of The Bells,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19471129,12,4,15,19480306
+1,1,I'm Looing Over A 4-Leaf Clover,Art Mooney / Choir,Art Mooney / Choir,pop,unknown,19480124,14,1,16,19480228
+2,4,Manana,Peggy Lee,Peggy Lee,jazz,jazz,19480131,8,1,21,19480228
+3,3,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,jazz,19480131,15,2,22,19480228
+4,2,Ballerina,Vaughn Monroe,Vaughn Monroe,jazz,swing,19471108,4,1,21,19480228
+5,7,Beg Your Pardon,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,unknown,19480117,14,4,16,19480228
+6,6,Now Is The Hour,Gracie Fields,Gracie Fields,pop,british,19480131,13,4,14,19480228
+7,8,Beg Your Pardon,Francis Craig / Marjorie Hughes,Francis Craig / Marjorie Hughes,pop,unknown,19480221,8,6,8,19480228
+8,13,"Slap 'er Down Agin, Paw",Arthur Godfrey,Arthur Godfrey,pop,pop,19480221,13,8,7,19480228
+9,15,I'm Looking Over A 4-Leaf Clover,Russ Morgan / Ames Brothers,Russ Morgan / Ames Brothers,pop,unknown,19480221,15,7,9,19480228
+10,10,Now Is The Hour,Eddy Howard,Eddy Howard,jazz,jazz,19480214,14,8,8,19480228
+11,5,Golden Earrings,Peggy Lee,Peggy Lee,jazz,jazz,19480103,8,2,11,19480228
+12,NEW,Now Is The Hour,Margaret Whiting,Margaret Whiting,pop,40s,19480228,12,8,7,19480228
+13,9,Serenade Of The Bells,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19471129,12,4,15,19480228
+14,12,I'm Looking Over A 4-Leaf Clover,Uptown String Band,Uptown String Band,pop,unknown,19480221,12,12,2,19480228
+15,NEW,Too Fat Polka,Arthur Godfrey,Arthur Godfrey,pop,pop,19480228,15,15,1,19480228
+1,2,I'm Looing Over A 4-Leaf Clover,Art Mooney / Choir,Art Mooney / Choir,pop,unknown,19480124,14,1,16,19480221
+2,1,Ballerina,Vaughn Monroe,Vaughn Monroe,jazz,swing,19471108,4,1,21,19480221
+3,7,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,jazz,19480131,15,2,22,19480221
+4,3,Manana,Peggy Lee,Peggy Lee,jazz,jazz,19480131,8,1,21,19480221
+5,4,Golden Earrings,Peggy Lee,Peggy Lee,jazz,jazz,19480103,8,2,11,19480221
+6,9,Now Is The Hour,Gracie Fields,Gracie Fields,pop,british,19480131,13,4,14,19480221
+7,8,Beg Your Pardon,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,unknown,19480117,14,4,16,19480221
+8,NEW,Beg Your Pardon,Francis Craig / Marjorie Hughes,Francis Craig / Marjorie Hughes,pop,unknown,19480221,8,6,8,19480221
+9,6,Serenade Of The Bells,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19471129,12,4,15,19480221
+10,14,Now Is The Hour,Eddy Howard,Eddy Howard,jazz,jazz,19480214,14,8,8,19480221
+11,11,Ballerina,Bing Crosby,Bing Crosby,jazz,jazz,19480117,15,10,6,19480221
+12,NEW,I'm Looking Over A 4-Leaf Clover,Uptown String Band,Uptown String Band,pop,unknown,19480221,12,12,2,19480221
+13,NEW,"Slap 'er Down Agin, Paw",Arthur Godfrey,Arthur Godfrey,pop,pop,19480221,13,8,7,19480221
+14,NEW,Serenade Of The Bells,Jo Stafford,Jo Stafford,jazz,jazz,19480221,14,14,1,19480221
+15,NEW,I'm Looking Over A 4-Leaf Clover,Russ Morgan / Ames Brothers,Russ Morgan / Ames Brothers,pop,unknown,19480221,15,7,9,19480221
+1,1,Ballerina,Vaughn Monroe,Vaughn Monroe,jazz,swing,19471108,4,1,21,19480214
+2,2,I'm Looing Over A 4-Leaf Clover,Art Mooney / Choir,Art Mooney / Choir,pop,unknown,19480124,14,1,16,19480214
+3,6,Manana,Peggy Lee,Peggy Lee,jazz,jazz,19480131,8,1,21,19480214
+4,3,Golden Earrings,Peggy Lee,Peggy Lee,jazz,jazz,19480103,8,2,11,19480214
+5,5,Too Fat Polka,Arthur Godfrey,Arthur Godfrey,pop,pop,19471122,7,2,13,19480214
+6,7,Serenade Of The Bells,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19471129,12,4,15,19480214
+7,10,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,jazz,19480131,15,2,22,19480214
+8,8,Beg Your Pardon,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,unknown,19480117,14,4,16,19480214
+9,11,Now Is The Hour,Gracie Fields,Gracie Fields,pop,british,19480131,13,4,14,19480214
+10,12,I'm My Own Grandpaw,Guy Lombardo / Trio,Guy Lombardo / Trio,pop,unknown,19480131,10,10,3,19480214
+11,15,Ballerina,Bing Crosby,Bing Crosby,jazz,jazz,19480117,15,10,6,19480214
+12,13,How Soon,Vaughn Monroe,Vaughn Monroe,jazz,swing,19471129,14,5,12,19480214
+13,4,I'll Dance At Your Wedding,Ray Noble / Buddy Clark / Anita Gordon,Ray Noble / Buddy Clark / Anita Gordon,pop,unknown,19480103,7,3,7,19480214
+14,NEW,Now Is The Hour,Eddy Howard,Eddy Howard,jazz,jazz,19480214,14,8,8,19480214
+15,NEW,Ballerina,Buddy Clark,Buddy Clark,jazz,swing,19480214,15,15,1,19480214
+1,1,Ballerina,Vaughn Monroe,Vaughn Monroe,jazz,swing,19471108,4,1,21,19480207
+2,3,I'm Looing Over A 4-Leaf Clover,Art Mooney / Choir,Art Mooney / Choir,pop,unknown,19480124,14,1,16,19480207
+3,2,Golden Earrings,Peggy Lee,Peggy Lee,jazz,jazz,19480103,8,2,11,19480207
+4,6,I'll Dance At Your Wedding,Ray Noble / Buddy Clark / Anita Gordon,Ray Noble / Buddy Clark / Anita Gordon,pop,unknown,19480103,7,3,7,19480207
+5,4,Too Fat Polka,Arthur Godfrey,Arthur Godfrey,pop,pop,19471122,7,2,13,19480207
+6,8,Manana,Peggy Lee,Peggy Lee,jazz,jazz,19480131,8,1,21,19480207
+7,5,Serenade Of The Bells,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19471129,12,4,15,19480207
+8,11,Beg Your Pardon,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,unknown,19480117,14,4,16,19480207
+9,7,Serenade Of The Bells,Jo Stafford,Jo Stafford,jazz,jazz,19471220,12,6,8,19480207
+10,15,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,jazz,19480131,15,2,22,19480207
+11,13,Now Is The Hour,Gracie Fields,Gracie Fields,pop,british,19480131,13,4,14,19480207
+12,10,I'm My Own Grandpaw,Guy Lombardo / Trio,Guy Lombardo / Trio,pop,unknown,19480131,10,10,3,19480207
+13,14,How Soon,Vaughn Monroe,Vaughn Monroe,jazz,swing,19471129,14,5,12,19480207
+14,NEW,Beg Your Pardon,Francis Craig / Marjorie Hughes,Francis Craig / Marjorie Hughes,pop,unknown,19480207,14,14,1,19480207
+15,12,Ballerina,Bing Crosby,Bing Crosby,jazz,jazz,19480117,15,10,6,19480207
+1,1,Ballerina,Vaughn Monroe,Vaughn Monroe,jazz,swing,19471108,4,1,21,19480131
+2,3,Golden Earrings,Peggy Lee,Peggy Lee,jazz,jazz,19480103,8,2,11,19480131
+3,14,I'm Looing Over A 4-Leaf Clover,Art Mooney / Choir,Art Mooney / Choir,pop,unknown,19480124,14,1,16,19480131
+4,2,Too Fat Polka,Arthur Godfrey,Arthur Godfrey,pop,pop,19471122,7,2,13,19480131
+5,4,Serenade Of The Bells,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19471129,12,4,15,19480131
+6,5,I'll Dance At Your Wedding,Ray Noble / Buddy Clark / Anita Gordon,Ray Noble / Buddy Clark / Anita Gordon,pop,unknown,19480103,7,3,7,19480131
+7,6,Serenade Of The Bells,Jo Stafford,Jo Stafford,jazz,jazz,19471220,12,6,8,19480131
+8,NEW,Manana,Peggy Lee,Peggy Lee,jazz,jazz,19480131,8,1,21,19480131
+9,9,How Soon,Bing Crosby / Carmen Cavallaro,Bing Crosby / Carmen Cavallaro,pop,unknown,19471213,9,9,8,19480131
+10,NEW,I'm My Own Grandpaw,Guy Lombardo / Trio,Guy Lombardo / Trio,pop,unknown,19480131,10,10,3,19480131
+11,12,Beg Your Pardon,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,unknown,19480117,14,4,16,19480131
+12,10,Ballerina,Bing Crosby,Bing Crosby,jazz,jazz,19480117,15,10,6,19480131
+13,NEW,Now Is The Hour,Gracie Fields,Gracie Fields,pop,british,19480131,13,4,14,19480131
+14,7,How Soon,Vaughn Monroe,Vaughn Monroe,jazz,swing,19471129,14,5,12,19480131
+15,NEW,Now Is The Hour,Bing Crosby,Bing Crosby,jazz,jazz,19480131,15,2,22,19480131
+1,1,Ballerina,Vaughn Monroe,Vaughn Monroe,jazz,swing,19471108,4,1,21,19480124
+2,2,Too Fat Polka,Arthur Godfrey,Arthur Godfrey,pop,pop,19471122,7,2,13,19480124
+3,5,Golden Earrings,Peggy Lee,Peggy Lee,jazz,jazz,19480103,8,2,11,19480124
+4,4,Serenade Of The Bells,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19471129,12,4,15,19480124
+5,3,I'll Dance At Your Wedding,Ray Noble / Buddy Clark / Anita Gordon,Ray Noble / Buddy Clark / Anita Gordon,pop,unknown,19480103,7,3,7,19480124
+6,8,Serenade Of The Bells,Jo Stafford,Jo Stafford,jazz,jazz,19471220,12,6,8,19480124
+7,6,How Soon,Vaughn Monroe,Vaughn Monroe,jazz,swing,19471129,14,5,12,19480124
+8,7,Civilization,Danny Kaye / Andrews Sisters,Danny Kaye / Andrews Sisters,pop,unknown,19480110,3,3,3,19480124
+9,10,How Soon,Bing Crosby / Carmen Cavallaro,Bing Crosby / Carmen Cavallaro,pop,unknown,19471213,9,9,8,19480124
+10,15,Ballerina,Bing Crosby,Bing Crosby,jazz,jazz,19480117,15,10,6,19480124
+11,9,Near You,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,unknown,19470906,4,1,21,19480124
+12,14,Beg Your Pardon,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,unknown,19480117,14,4,16,19480124
+13,13,Ballerina,Buddy Clark,Buddy Clark,jazz,swing,19480110,10,10,3,19480124
+14,NEW,I'm Looing Over A 4-Leaf Clover,Art Mooney / Choir,Art Mooney / Choir,pop,unknown,19480124,14,1,16,19480124
+15,11,How Soon,Jack Owens,Jack Owens,pop,delta blues,19480103,10,6,4,19480124
+1,1,Ballerina,Vaughn Monroe,Vaughn Monroe,jazz,swing,19471108,4,1,21,19480117
+2,2,Too Fat Polka,Arthur Godfrey,Arthur Godfrey,pop,pop,19471122,7,2,13,19480117
+3,9,I'll Dance At Your Wedding,Ray Noble / Buddy Clark / Anita Gordon,Ray Noble / Buddy Clark / Anita Gordon,pop,unknown,19480103,7,3,7,19480117
+4,8,Serenade Of The Bells,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19471129,12,4,15,19480117
+5,7,Golden Earrings,Peggy Lee,Peggy Lee,jazz,jazz,19480103,8,2,11,19480117
+6,5,How Soon,Vaughn Monroe,Vaughn Monroe,jazz,swing,19471129,14,5,12,19480117
+7,3,Civilization,Danny Kaye / Andrews Sisters,Danny Kaye / Andrews Sisters,pop,unknown,19480110,3,3,3,19480117
+8,12,Serenade Of The Bells,Jo Stafford,Jo Stafford,jazz,jazz,19471220,12,6,8,19480117
+9,4,Near You,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,unknown,19470906,4,1,21,19480117
+10,11,How Soon,Bing Crosby / Carmen Cavallaro,Bing Crosby / Carmen Cavallaro,pop,unknown,19471213,9,9,8,19480117
+11,6,How Soon,Jack Owens,Jack Owens,pop,delta blues,19480103,10,6,4,19480117
+12,14,Civilization,Louis Prima,Louis Prima,jazz,swing,19480110,14,12,2,19480117
+13,10,Ballerina,Buddy Clark,Buddy Clark,jazz,swing,19480110,10,10,3,19480117
+14,NEW,Beg Your Pardon,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,unknown,19480117,14,4,16,19480117
+15,NEW,Ballerina,Bing Crosby,Bing Crosby,jazz,jazz,19480117,15,10,6,19480117
+1,1,Ballerina,Vaughn Monroe,Vaughn Monroe,jazz,swing,19471108,4,1,21,19480110
+2,2,Too Fat Polka,Arthur Godfrey,Arthur Godfrey,pop,pop,19471122,7,2,13,19480110
+3,NEW,Civilization,Danny Kaye / Andrews Sisters,Danny Kaye / Andrews Sisters,pop,unknown,19480110,3,3,3,19480110
+4,4,Near You,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,unknown,19470906,4,1,21,19480110
+5,6,How Soon,Vaughn Monroe,Vaughn Monroe,jazz,swing,19471129,14,5,12,19480110
+6,10,How Soon,Jack Owens,Jack Owens,pop,delta blues,19480103,10,6,4,19480110
+7,8,Golden Earrings,Peggy Lee,Peggy Lee,jazz,jazz,19480103,8,2,11,19480110
+8,5,Serenade Of The Bells,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19471129,12,4,15,19480110
+9,7,I'll Dance At Your Wedding,Ray Noble / Buddy Clark / Anita Gordon,Ray Noble / Buddy Clark / Anita Gordon,pop,unknown,19480103,7,3,7,19480110
+10,NEW,Ballerina,Buddy Clark,Buddy Clark,jazz,swing,19480110,10,10,3,19480110
+11,11,How Soon,Bing Crosby / Carmen Cavallaro,Bing Crosby / Carmen Cavallaro,pop,unknown,19471213,9,9,8,19480110
+12,9,Serenade Of The Bells,Jo Stafford,Jo Stafford,jazz,jazz,19471220,12,6,8,19480110
+13,NEW,You Do,Bing Crosby / Carmen Cavallaro,Bing Crosby / Carmen Cavallaro,pop,unknown,19480110,13,13,1,19480110
+14,NEW,Civilization,Louis Prima,Louis Prima,jazz,swing,19480110,14,12,2,19480110
+15,NEW,Near You,Larry Green / Trio,Larry Green / Trio,pop,unknown,19480110,15,15,1,19480110
+1,1,Ballerina,Vaughn Monroe,Vaughn Monroe,jazz,swing,19471108,4,1,21,19480103
+2,2,Too Fat Polka,Arthur Godfrey,Arthur Godfrey,pop,pop,19471122,7,2,13,19480103
+3,4,White Christmas,Bing Crosby,Bing Crosby,jazz,jazz,19471213,6,3,4,19480103
+4,3,Near You,Francis Craig / Bob Lamm,Francis Craig / Bob Lamm,pop,unknown,19470906,4,1,21,19480103
+5,7,Serenade Of The Bells,Sammy Kaye / Don Cornell / Kaydets,Sammy Kaye / Don Cornell / Kaydets,pop,unknown,19471129,12,4,15,19480103
+6,6,How Soon,Vaughn Monroe,Vaughn Monroe,jazz,swing,19471129,14,5,12,19480103
+7,NEW,I'll Dance At Your Wedding,Ray Noble / Buddy Clark / Anita Gordon,Ray Noble / Buddy Clark / Anita Gordon,pop,unknown,19480103,7,3,7,19480103
+8,NEW,Golden Earrings,Peggy Lee,Peggy Lee,jazz,jazz,19480103,8,2,11,19480103
+9,15,Serenade Of The Bells,Jo Stafford,Jo Stafford,jazz,jazz,19471220,12,6,8,19480103
+10,NEW,How Soon,Jack Owens,Jack Owens,pop,delta blues,19480103,10,6,4,19480103
+11,10,How Soon,Bing Crosby / Carmen Cavallaro,Bing Crosby / Carmen Cavallaro,pop,unknown,19471213,9,9,8,19480103
+12,9,Here Comes Santa Claus,Gene Autry,Gene Autry,country / folk,country,19471227,9,9,2,19480103
+13,NEW,Serenade Of The Bells,Kay Kyser / Harry Babbitt / Campus Kids,Kay Kyser / Harry Babbitt / Campus Kids,pop,unknown,19480103,13,13,1,19480103
+14,NEW,Civilization,Ray Mckinley,Ray Mckinley,pop,boogie woogie,19480103,14,14,1,19480103
+15,NEW,Civilization,Woody Herman,Woody Herman,jazz,jazz,19480103,15,15,1,19480103

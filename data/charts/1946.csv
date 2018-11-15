@@ -1,521 +1,521 @@
-this_week_position,last_week_position,track,artist,clean_artist,genre,entry_date,entry_position,peak_position,total_weeks,chart_date
-1,2,The Old Lamplighter,Sammy Kaye / Billy Williams,Sammy Kaye / Billy Williams,pop,19461116,5,1,14,19461226
-2,7,White Christmas,Bing Crosby,Bing Crosby,jazz,19461220,7,2,4,19461226
-3,1,Ole Buttermilk Sky,Kay Kyser / Michael Douglas / Campus Kids,Kay Kyser / Michael Douglas / Campus Kids,pop,19461102,5,1,11,19461226
-4,3,The Old Lamplighter,Kay Kyser / Michael Douglas,Kay Kyser / Michael Douglas,pop,19461130,7,3,11,19461226
-5,6,Huggin' And Chalkin',Hoagy Carmichael,Hoagy Carmichael,jazz,19461207,10,2,13,19461226
-6,8,Ole Buttermilk Sky,Hoagy Carmichael,Hoagy Carmichael,jazz,19461130,10,2,12,19461226
-7,NEW,The Christmas Song,King Cole Trio,King Cole Trio,jazz,19461226,7,7,1,19461226
-8,5,(I Love You) For Sentimental Reasons,King Cole Trio,King Cole Trio,jazz,19461214,5,1,11,19461226
-9,4,Rumours Are Flying,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,19460914,2,1,18,19461226
-10,NEW,Winter Wonderland,Perry Como,Perry Como,jazz,19461226,10,10,1,19461226
-1,1,Ole Buttermilk Sky,Kay Kyser / Michael Douglas / Campus Kids,Kay Kyser / Michael Douglas / Campus Kids,pop,19461102,5,1,11,19461220
-2,2,The Old Lamplighter,Sammy Kaye / Billy Williams,Sammy Kaye / Billy Williams,pop,19461116,5,1,14,19461220
-3,4,The Old Lamplighter,Kay Kyser / Michael Douglas,Kay Kyser / Michael Douglas,pop,19461130,7,3,11,19461220
-4,3,Rumours Are Flying,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,19460914,2,1,18,19461220
-5,5,(I Love You) For Sentimental Reasons,King Cole Trio,King Cole Trio,jazz,19461214,5,1,11,19461220
-6,7,Huggin' And Chalkin',Hoagy Carmichael,Hoagy Carmichael,jazz,19461207,10,2,13,19461220
-7,NEW,White Christmas,Bing Crosby,Bing Crosby,jazz,19461220,7,2,4,19461220
-8,8,Ole Buttermilk Sky,Hoagy Carmichael,Hoagy Carmichael,jazz,19461130,10,2,12,19461220
-9,NEW,Rumors Are Flying,Betty Rhodes,Betty Rhodes,jazz,19461220,9,9,1,19461220
-10,NEW,Rumurs Are Fying,Andrews Sisters / Les Paul,Andrews Sisters / Les Paul,pop,19461220,10,10,1,19461220
-1,3,Ole Buttermilk Sky,Kay Kyser / Michael Douglas / Campus Kids,Kay Kyser / Michael Douglas / Campus Kids,pop,19461102,5,1,11,19461214
-2,2,The Old Lamplighter,Sammy Kaye / Billy Williams,Sammy Kaye / Billy Williams,pop,19461116,5,1,14,19461214
-3,1,Rumours Are Flying,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,19460914,2,1,18,19461214
-4,4,The Old Lamplighter,Kay Kyser / Michael Douglas,Kay Kyser / Michael Douglas,pop,19461130,7,3,11,19461214
-5,NEW,(I Love You) For Sentimental Reasons,King Cole Trio,King Cole Trio,jazz,19461214,5,1,11,19461214
-6,NEW,The Old Lamplighter,Hal Derwin,Hal Derwin,pop,19461214,6,6,1,19461214
-7,10,Huggin' And Chalkin',Hoagy Carmichael,Hoagy Carmichael,jazz,19461207,10,2,13,19461214
-8,7,Ole Buttermilk Sky,Hoagy Carmichael,Hoagy Carmichael,jazz,19461130,10,2,12,19461214
-9,9,Ole Buttermilk Sky,Paul Weston / Matt Dennis,Paul Weston / Matt Dennis,pop,19461207,9,9,2,19461214
-10,NEW,Christmas Song,King Cole Trio,King Cole Trio,jazz,19461214,10,10,1,19461214
-1,1,Rumours Are Flying,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,19460914,2,1,18,19461207
-2,2,The Old Lamplighter,Sammy Kaye / Billy Williams,Sammy Kaye / Billy Williams,pop,19461116,5,1,14,19461207
-3,3,Ole Buttermilk Sky,Kay Kyser / Michael Douglas / Campus Kids,Kay Kyser / Michael Douglas / Campus Kids,pop,19461102,5,1,11,19461207
-4,7,The Old Lamplighter,Kay Kyser / Michael Douglas,Kay Kyser / Michael Douglas,pop,19461130,7,3,11,19461207
-5,4,Five Minutes More,Frank Sinatra,Frank Sinatra,jazz,19461123,4,4,3,19461207
-6,6,Rumours Are Flying,Andrews Sisters / Les Paul,Andrews Sisters / Les Paul,pop,19461026,9,6,7,19461207
-7,10,Ole Buttermilk Sky,Hoagy Carmichael,Hoagy Carmichael,jazz,19461130,10,2,12,19461207
-8,5,Rumours Are Flying,Betty Rhodes,Betty Rhodes,jazz,19461109,10,5,5,19461207
-9,NEW,Ole Buttermilk Sky,Paul Weston / Matt Dennis,Paul Weston / Matt Dennis,pop,19461207,9,9,2,19461207
-10,NEW,Huggin' And Chalkin',Hoagy Carmichael,Hoagy Carmichael,jazz,19461207,10,2,13,19461207
-1,1,Rumours Are Flying,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,19460914,2,1,18,19461130
-2,2,The Old Lamplighter,Sammy Kaye / Billy Williams,Sammy Kaye / Billy Williams,pop,19461116,5,1,14,19461130
-3,3,Ole Buttermilk Sky,Kay Kyser / Michael Douglas / Campus Kids,Kay Kyser / Michael Douglas / Campus Kids,pop,19461102,5,1,11,19461130
-4,4,Five Minutes More,Frank Sinatra,Frank Sinatra,jazz,19461123,4,4,3,19461130
-5,5,Rumours Are Flying,Betty Rhodes,Betty Rhodes,jazz,19461109,10,5,5,19461130
-6,6,Rumours Are Flying,Andrews Sisters / Les Paul,Andrews Sisters / Les Paul,pop,19461026,9,6,7,19461130
-7,NEW,The Old Lamplighter,Kay Kyser / Michael Douglas,Kay Kyser / Michael Douglas,pop,19461130,7,3,11,19461130
-8,NEW,(I Love You) For Sentimental Reasons,King Cole Trio,King Cole Trio,jazz,19461130,8,8,1,19461130
-9,7,Ole Buttermilk Sky,Helen Carroll / Satisfiers,Helen Carroll / Satisfiers,pop,19461123,7,7,2,19461130
-10,NEW,Ole Buttermilk Sky,Hoagy Carmichael,Hoagy Carmichael,jazz,19461130,10,2,12,19461130
-1,1,Rumours Are Flying,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,19460914,2,1,18,19461123
-2,5,The Old Lamplighter,Sammy Kaye / Billy Williams,Sammy Kaye / Billy Williams,pop,19461116,5,1,14,19461123
-3,2,Ole Buttermilk Sky,Kay Kyser / Michael Douglas / Campus Kids,Kay Kyser / Michael Douglas / Campus Kids,pop,19461102,5,1,11,19461123
-4,NEW,Five Minutes More,Frank Sinatra,Frank Sinatra,jazz,19461123,4,4,3,19461123
-5,8,Rumours Are Flying,Betty Rhodes,Betty Rhodes,jazz,19461109,10,5,5,19461123
-6,6,Rumours Are Flying,Andrews Sisters / Les Paul,Andrews Sisters / Les Paul,pop,19461026,9,6,7,19461123
-7,NEW,Ole Buttermilk Sky,Helen Carroll / Satisfiers,Helen Carroll / Satisfiers,pop,19461123,7,7,2,19461123
-8,10,Five Minutes More,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,19460824,9,6,14,19461123
-9,4,To Each His Own,Eddy Howard,Eddy Howard,jazz,19460713,9,1,20,19461123
-10,3,"South America, Take It Away",Bing Crosby / Andrews Sisters,Bing Crosby / Andrews Sisters,pop,19460727,9,2,18,19461123
-1,1,Rumours Are Flying,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,19460914,2,1,18,19461116
-2,3,Ole Buttermilk Sky,Kay Kyser / Michael Douglas / Campus Kids,Kay Kyser / Michael Douglas / Campus Kids,pop,19461102,5,1,11,19461116
-3,5,"South America, Take It Away",Bing Crosby / Andrews Sisters,Bing Crosby / Andrews Sisters,pop,19460727,9,2,18,19461116
-4,4,To Each His Own,Eddy Howard,Eddy Howard,jazz,19460713,9,1,20,19461116
-5,NEW,The Old Lamplighter,Sammy Kaye / Billy Williams,Sammy Kaye / Billy Williams,pop,19461116,5,1,14,19461116
-6,8,Rumours Are Flying,Andrews Sisters / Les Paul,Andrews Sisters / Les Paul,pop,19461026,9,6,7,19461116
-7,6,To Each His Own,Ink Spots,Ink Spots,jazz,19460824,6,1,13,19461116
-8,10,Rumours Are Flying,Betty Rhodes,Betty Rhodes,jazz,19461109,10,5,5,19461116
-9,9,Rumours Are Flying,Tony Martin,Tony Martin,rock,19461102,9,9,3,19461116
-10,7,Five Minutes More,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,19460824,9,6,14,19461116
-1,1,Rumours Are Flying,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,19460914,2,1,18,19461109
-2,4,Five Minutes More,Frank Sinatra,Frank Sinatra,jazz,19460803,9,1,15,19461109
-3,5,Ole Buttermilk Sky,Kay Kyser / Michael Douglas / Campus Kids,Kay Kyser / Michael Douglas / Campus Kids,pop,19461102,5,1,11,19461109
-4,3,To Each His Own,Eddy Howard,Eddy Howard,jazz,19460713,9,1,20,19461109
-5,2,"South America, Take It Away",Bing Crosby / Andrews Sisters,Bing Crosby / Andrews Sisters,pop,19460727,9,2,18,19461109
-6,7,To Each His Own,Ink Spots,Ink Spots,jazz,19460824,6,1,13,19461109
-7,6,Five Minutes More,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,19460824,9,6,14,19461109
-8,10,Rumours Are Flying,Andrews Sisters / Les Paul,Andrews Sisters / Les Paul,pop,19461026,9,6,7,19461109
-9,9,Rumours Are Flying,Tony Martin,Tony Martin,rock,19461102,9,9,3,19461109
-10,NEW,Rumours Are Flying,Betty Rhodes,Betty Rhodes,jazz,19461109,10,5,5,19461109
-1,1,Rumours Are Flying,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,19460914,2,1,18,19461102
-2,3,"South America, Take It Away",Bing Crosby / Andrews Sisters,Bing Crosby / Andrews Sisters,pop,19460727,9,2,18,19461102
-3,2,To Each His Own,Eddy Howard,Eddy Howard,jazz,19460713,9,1,20,19461102
-4,4,Five Minutes More,Frank Sinatra,Frank Sinatra,jazz,19460803,9,1,15,19461102
-5,NEW,Ole Buttermilk Sky,Kay Kyser / Michael Douglas / Campus Kids,Kay Kyser / Michael Douglas / Campus Kids,pop,19461102,5,1,11,19461102
-6,7,Five Minutes More,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,19460824,9,6,14,19461102
-7,5,To Each His Own,Ink Spots,Ink Spots,jazz,19460824,6,1,13,19461102
-8,6,To Each His Own,Freddy Martin / Stuart Wade,Freddy Martin / Stuart Wade,pop,19460810,3,1,13,19461102
-9,NEW,Rumours Are Flying,Tony Martin,Tony Martin,rock,19461102,9,9,3,19461102
-10,9,Rumours Are Flying,Andrews Sisters / Les Paul,Andrews Sisters / Les Paul,pop,19461026,9,6,7,19461102
-1,1,Rumours Are Flying,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,19460914,2,1,18,19461026
-2,2,To Each His Own,Eddy Howard,Eddy Howard,jazz,19460713,9,1,20,19461026
-3,3,"South America, Take It Away",Bing Crosby / Andrews Sisters,Bing Crosby / Andrews Sisters,pop,19460727,9,2,18,19461026
-4,4,Five Minutes More,Frank Sinatra,Frank Sinatra,jazz,19460803,9,1,15,19461026
-5,5,To Each His Own,Ink Spots,Ink Spots,jazz,19460824,6,1,13,19461026
-6,6,To Each His Own,Freddy Martin / Stuart Wade,Freddy Martin / Stuart Wade,pop,19460810,3,1,13,19461026
-7,7,Five Minutes More,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,19460824,9,6,14,19461026
-8,8,To Each His Own,Tony Martin,Tony Martin,rock,19460810,8,4,12,19461026
-9,NEW,Rumours Are Flying,Andrews Sisters / Les Paul,Andrews Sisters / Les Paul,pop,19461026,9,6,7,19461026
-10,NEW,The Coffee Song,Frank Sinatra,Frank Sinatra,jazz,19461026,10,10,1,19461026
-1,2,Rumours Are Flying,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,19460914,2,1,18,19461019
-2,1,To Each His Own,Eddy Howard,Eddy Howard,jazz,19460713,9,1,20,19461019
-3,4,"South America, Take It Away",Bing Crosby / Andrews Sisters,Bing Crosby / Andrews Sisters,pop,19460727,9,2,18,19461019
-4,3,Five Minutes More,Frank Sinatra,Frank Sinatra,jazz,19460803,9,1,15,19461019
-5,5,To Each His Own,Ink Spots,Ink Spots,jazz,19460824,6,1,13,19461019
-6,6,To Each His Own,Freddy Martin / Stuart Wade,Freddy Martin / Stuart Wade,pop,19460810,3,1,13,19461019
-7,7,Five Minutes More,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,19460824,9,6,14,19461019
-8,9,To Each His Own,Tony Martin,Tony Martin,rock,19460810,8,4,12,19461019
-9,NEW,To Each His Own,Modernaires / Paula Kelly,Modernaires / Paula Kelly,pop,19461019,9,9,1,19461019
-10,NEW,Surrender,Perry Como,Perry Como,jazz,19461019,10,10,1,19461019
-1,1,To Each His Own,Eddy Howard,Eddy Howard,jazz,19460713,9,1,20,19461012
-2,4,Rumours Are Flying,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,19460914,2,1,18,19461012
-3,2,Five Minutes More,Frank Sinatra,Frank Sinatra,jazz,19460803,9,1,15,19461012
-4,3,"South America, Take It Away",Bing Crosby / Andrews Sisters,Bing Crosby / Andrews Sisters,pop,19460727,9,2,18,19461012
-5,7,To Each His Own,Ink Spots,Ink Spots,jazz,19460824,6,1,13,19461012
-6,5,To Each His Own,Freddy Martin / Stuart Wade,Freddy Martin / Stuart Wade,pop,19460810,3,1,13,19461012
-7,6,Five Minutes More,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,19460824,9,6,14,19461012
-8,NEW,Choo Choo Ch' Boogie,Louis Jordan,Louis Jordan,jazz,19461012,8,8,1,19461012
-9,9,To Each His Own,Tony Martin,Tony Martin,rock,19460810,8,4,12,19461012
-10,NEW,Pretending,Andy Russell,Andy Russell,pop,19461012,10,10,1,19461012
-1,3,To Each His Own,Eddy Howard,Eddy Howard,jazz,19460713,9,1,20,19461005
-2,1,Five Minutes More,Frank Sinatra,Frank Sinatra,jazz,19460803,9,1,15,19461005
-3,4,"South America, Take It Away",Bing Crosby / Andrews Sisters,Bing Crosby / Andrews Sisters,pop,19460727,9,2,18,19461005
-4,7,Rumours Are Flying,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,19460914,2,1,18,19461005
-5,5,To Each His Own,Freddy Martin / Stuart Wade,Freddy Martin / Stuart Wade,pop,19460810,3,1,13,19461005
-6,9,Five Minutes More,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,19460824,9,6,14,19461005
-7,2,To Each His Own,Ink Spots,Ink Spots,jazz,19460824,6,1,13,19461005
-8,6,Surrender,Perry Como,Perry Como,jazz,19460921,10,6,3,19461005
-9,8,To Each His Own,Tony Martin,Tony Martin,rock,19460810,8,4,12,19461005
-10,NEW,"South America, Take It Away",Xavier Cugat / Buddy Clark,Xavier Cugat / Buddy Clark,pop,19461005,10,10,1,19461005
-1,4,Five Minutes More,Frank Sinatra,Frank Sinatra,jazz,19460803,9,1,15,19460928
-2,5,To Each His Own,Ink Spots,Ink Spots,jazz,19460824,6,1,13,19460928
-3,2,To Each His Own,Eddy Howard,Eddy Howard,jazz,19460713,9,1,20,19460928
-4,3,"South America, Take It Away",Bing Crosby / Andrews Sisters,Bing Crosby / Andrews Sisters,pop,19460727,9,2,18,19460928
-5,6,To Each His Own,Freddy Martin / Stuart Wade,Freddy Martin / Stuart Wade,pop,19460810,3,1,13,19460928
-6,10,Surrender,Perry Como,Perry Como,jazz,19460921,10,6,3,19460928
-7,1,Rumours Are Flying,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,19460914,2,1,18,19460928
-8,8,To Each His Own,Tony Martin,Tony Martin,rock,19460810,8,4,12,19460928
-9,7,Five Minutes More,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,19460824,9,6,14,19460928
-10,NEW,Choo Choo Ch' Boogie,Louis Jordan,Louis Jordan,jazz,19460928,10,10,1,19460928
-1,2,Rumours Are Flying,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,19460914,2,1,18,19460921
-2,1,To Each His Own,Eddy Howard,Eddy Howard,jazz,19460713,9,1,20,19460921
-3,4,"South America, Take It Away",Bing Crosby / Andrews Sisters,Bing Crosby / Andrews Sisters,pop,19460727,9,2,18,19460921
-4,3,Five Minutes More,Frank Sinatra,Frank Sinatra,jazz,19460803,9,1,15,19460921
-5,5,To Each His Own,Ink Spots,Ink Spots,jazz,19460824,6,1,13,19460921
-6,6,To Each His Own,Freddy Martin / Stuart Wade,Freddy Martin / Stuart Wade,pop,19460810,3,1,13,19460921
-7,7,Five Minutes More,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,19460824,9,6,14,19460921
-8,9,To Each His Own,Tony Martin,Tony Martin,rock,19460810,8,4,12,19460921
-9,NEW,To Each His Own,Modernaires / Paula Kelly,Modernaires / Paula Kelly,pop,19460921,9,9,1,19460921
-10,NEW,Surrender,Perry Como,Perry Como,jazz,19460921,10,6,3,19460921
-1,3,To Each His Own,Eddy Howard,Eddy Howard,jazz,19460713,9,1,20,19460914
-2,NEW,Rumours Are Flying,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,19460914,2,1,18,19460914
-3,2,Five Minutes More,Frank Sinatra,Frank Sinatra,jazz,19460803,9,1,15,19460914
-4,5,"South America, Take It Away",Bing Crosby / Andrews Sisters,Bing Crosby / Andrews Sisters,pop,19460727,9,2,18,19460914
-5,1,To Each His Own,Ink Spots,Ink Spots,jazz,19460824,6,1,13,19460914
-6,4,To Each His Own,Freddy Martin / Stuart Wade,Freddy Martin / Stuart Wade,pop,19460810,3,1,13,19460914
-7,7,Five Minutes More,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,19460824,9,6,14,19460914
-8,NEW,Choo Choo Ch'Boogie,Louis Jordan,Louis Jordan,jazz,19460914,8,8,1,19460914
-9,8,To Each His Own,Tony Martin,Tony Martin,rock,19460810,8,4,12,19460914
-10,NEW,Pretending,Andy Russell,Andy Russell,pop,19460914,10,10,1,19460914
-1,3,To Each His Own,Ink Spots,Ink Spots,jazz,19460824,6,1,13,19460907
-2,1,Five Minutes More,Frank Sinatra,Frank Sinatra,jazz,19460803,9,1,15,19460907
-3,2,To Each His Own,Eddy Howard,Eddy Howard,jazz,19460713,9,1,20,19460907
-4,4,To Each His Own,Freddy Martin / Stuart Wade,Freddy Martin / Stuart Wade,pop,19460810,3,1,13,19460907
-5,6,"South America, Take It Away",Bing Crosby / Andrews Sisters,Bing Crosby / Andrews Sisters,pop,19460727,9,2,18,19460907
-6,5,Surrender,Perry Como,Perry Como,jazz,19460629,8,1,11,19460907
-7,9,Five Minutes More,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,19460824,9,6,14,19460907
-8,7,To Each His Own,Tony Martin,Tony Martin,rock,19460810,8,4,12,19460907
-9,8,To Each His Own,Modernaires / Paula Kelly,Modernaires / Paula Kelly,pop,19460817,5,5,4,19460907
-10,NEW,"South America, Take It Away",Xavier Cugat / Buddy Clark,Xavier Cugat / Buddy Clark,pop,19460907,10,10,1,19460907
-1,3,Five Minutes More,Frank Sinatra,Frank Sinatra,jazz,19460803,9,1,15,19460831
-2,2,To Each His Own,Eddy Howard,Eddy Howard,jazz,19460713,9,1,20,19460831
-3,6,To Each His Own,Ink Spots,Ink Spots,jazz,19460824,6,1,13,19460831
-4,1,To Each His Own,Freddy Martin / Stuart Wade,Freddy Martin / Stuart Wade,pop,19460810,3,1,13,19460831
-5,5,Surrender,Perry Como,Perry Como,jazz,19460629,8,1,11,19460831
-6,4,"South America, Take It Away",Bing Crosby / Andrews Sisters,Bing Crosby / Andrews Sisters,pop,19460727,9,2,18,19460831
-7,7,To Each His Own,Tony Martin,Tony Martin,rock,19460810,8,4,12,19460831
-8,8,To Each His Own,Modernaires / Paula Kelly,Modernaires / Paula Kelly,pop,19460817,5,5,4,19460831
-9,9,Five Minutes More,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,19460824,9,6,14,19460831
-10,NEW,Choo Choo Ch' Boogie,Louis Jordan,Louis Jordan,jazz,19460831,10,10,1,19460831
-1,1,To Each His Own,Freddy Martin / Stuart Wade,Freddy Martin / Stuart Wade,pop,19460810,3,1,13,19460824
-2,2,To Each His Own,Eddy Howard,Eddy Howard,jazz,19460713,9,1,20,19460824
-3,3,Five Minutes More,Frank Sinatra,Frank Sinatra,jazz,19460803,9,1,15,19460824
-4,7,"South America, Take It Away",Bing Crosby / Andrews Sisters,Bing Crosby / Andrews Sisters,pop,19460727,9,2,18,19460824
-5,6,Surrender,Perry Como,Perry Como,jazz,19460629,8,1,11,19460824
-6,NEW,To Each His Own,Ink Spots,Ink Spots,jazz,19460824,6,1,13,19460824
-7,4,To Each His Own,Tony Martin,Tony Martin,rock,19460810,8,4,12,19460824
-8,5,To Each His Own,Modernaires / Paula Kelly,Modernaires / Paula Kelly,pop,19460817,5,5,4,19460824
-9,NEW,Five Minutes More,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,19460824,9,6,14,19460824
-10,8,The Gypsy,Ink Spots,Ink Spots,jazz,19460803,3,3,4,19460824
-1,3,To Each His Own,Freddy Martin / Stuart Wade,Freddy Martin / Stuart Wade,pop,19460810,3,1,13,19460817
-2,1,To Each His Own,Eddy Howard,Eddy Howard,jazz,19460713,9,1,20,19460817
-3,7,Five Minutes More,Frank Sinatra,Frank Sinatra,jazz,19460803,9,1,15,19460817
-4,8,To Each His Own,Tony Martin,Tony Martin,rock,19460810,8,4,12,19460817
-5,NEW,To Each His Own,Modernaires / Paula Kelly,Modernaires / Paula Kelly,pop,19460817,5,5,4,19460817
-6,2,Surrender,Perry Como,Perry Como,jazz,19460629,8,1,11,19460817
-7,5,"South America, Take It Away",Bing Crosby / Andrews Sisters,Bing Crosby / Andrews Sisters,pop,19460727,9,2,18,19460817
-8,4,The Gypsy,Ink Spots,Ink Spots,jazz,19460803,3,3,4,19460817
-9,6,Doin' What Comes Natur'lly,Dinah Shore,Dinah Shore,jazz,19460615,8,4,10,19460817
-10,NEW,Choo Choo Ch' Boogie,Louis Jordan,Louis Jordan,jazz,19460817,10,10,1,19460817
-1,1,To Each His Own,Eddy Howard,Eddy Howard,jazz,19460713,9,1,20,19460810
-2,2,Surrender,Perry Como,Perry Como,jazz,19460629,8,1,11,19460810
-3,NEW,To Each His Own,Freddy Martin / Stuart Wade,Freddy Martin / Stuart Wade,pop,19460810,3,1,13,19460810
-4,3,The Gypsy,Ink Spots,Ink Spots,jazz,19460803,3,3,4,19460810
-5,8,"South America, Take It Away",Bing Crosby / Andrews Sisters,Bing Crosby / Andrews Sisters,pop,19460727,9,2,18,19460810
-6,5,Doin' What Comes Natur'lly,Dinah Shore,Dinah Shore,jazz,19460615,8,4,10,19460810
-7,9,Five Minutes More,Frank Sinatra,Frank Sinatra,jazz,19460803,9,1,15,19460810
-8,NEW,To Each His Own,Tony Martin,Tony Martin,rock,19460810,8,4,12,19460810
-9,4,Doin' What Comes Naturally,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,19460629,7,4,7,19460810
-10,7,The Gypsy,Dinah Shore,Dinah Shore,jazz,19460511,8,2,14,19460810
-1,2,To Each His Own,Eddy Howard,Eddy Howard,jazz,19460713,9,1,20,19460803
-2,1,Surrender,Perry Como,Perry Como,jazz,19460629,8,1,11,19460803
-3,NEW,The Gypsy,Ink Spots,Ink Spots,jazz,19460803,3,3,4,19460803
-4,6,Doin' What Comes Naturally,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,19460629,7,4,7,19460803
-5,5,Doin' What Comes Natur'lly,Dinah Shore,Dinah Shore,jazz,19460615,8,4,10,19460803
-6,4,They Say It's Wonderful,Perry Como,Perry Como,jazz,19460720,8,4,3,19460803
-7,3,The Gypsy,Dinah Shore,Dinah Shore,jazz,19460511,8,2,14,19460803
-8,9,"South America, Take It Away",Bing Crosby / Andrews Sisters,Bing Crosby / Andrews Sisters,pop,19460727,9,2,18,19460803
-9,NEW,Five Minutes More,Frank Sinatra,Frank Sinatra,jazz,19460803,9,1,15,19460803
-10,NEW,They Say It's Wonderful,Frank Sinatra,Frank Sinatra,jazz,19460803,10,10,1,19460803
-1,2,Surrender,Perry Como,Perry Como,jazz,19460629,8,1,11,19460727
-2,7,To Each His Own,Eddy Howard,Eddy Howard,jazz,19460713,9,1,20,19460727
-3,4,The Gypsy,Dinah Shore,Dinah Shore,jazz,19460511,8,2,14,19460727
-4,8,They Say It's Wonderful,Perry Como,Perry Como,jazz,19460720,8,4,3,19460727
-5,6,Doin' What Comes Natur'lly,Dinah Shore,Dinah Shore,jazz,19460615,8,4,10,19460727
-6,5,Doin' What Comes Naturally,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,19460629,7,4,7,19460727
-7,3,Prisoner Of Love,Perry Como,Perry Como,jazz,19460330,9,1,18,19460727
-8,NEW,Hawaiian War Chant,Spike Jones,Spike Jones,pop,19460727,8,8,1,19460727
-9,NEW,"South America, Take It Away",Bing Crosby / Andrews Sisters,Bing Crosby / Andrews Sisters,pop,19460727,9,2,18,19460727
-10,9,Stone Cold Dead In The Market,Ella Fitzgerald / Louise Jordan,Ella Fitzgerald / Louise Jordan,pop,19460720,9,9,2,19460727
-1,1,The Gypsy,Ink Spots,Ink Spots,jazz,19460511,6,1,11,19460720
-2,3,Surrender,Perry Como,Perry Como,jazz,19460629,8,1,11,19460720
-3,2,Prisoner Of Love,Perry Como,Perry Como,jazz,19460330,9,1,18,19460720
-4,5,The Gypsy,Dinah Shore,Dinah Shore,jazz,19460511,8,2,14,19460720
-5,6,Doin' What Comes Naturally,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,19460629,7,4,7,19460720
-6,4,Doin' What Comes Natur'lly,Dinah Shore,Dinah Shore,jazz,19460615,8,4,10,19460720
-7,9,To Each His Own,Eddy Howard,Eddy Howard,jazz,19460713,9,1,20,19460720
-8,NEW,They Say It's Wonderful,Perry Como,Perry Como,jazz,19460720,8,4,3,19460720
-9,NEW,Stone Cold Dead In The Market,Ella Fitzgerald / Louise Jordan,Ella Fitzgerald / Louise Jordan,pop,19460720,9,9,2,19460720
-10,8,They Say It's Wonderful,Frank Sinatra,Frank Sinatra,jazz,19460622,9,8,5,19460720
-1,1,The Gypsy,Ink Spots,Ink Spots,jazz,19460511,6,1,11,19460713
-2,2,Prisoner Of Love,Perry Como,Perry Como,jazz,19460330,9,1,18,19460713
-3,6,Surrender,Perry Como,Perry Como,jazz,19460629,8,1,11,19460713
-4,7,Doin' What Comes Natur'lly,Dinah Shore,Dinah Shore,jazz,19460615,8,4,10,19460713
-5,3,The Gypsy,Dinah Shore,Dinah Shore,jazz,19460511,8,2,14,19460713
-6,9,Doin' What Comes Naturally,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,19460629,7,4,7,19460713
-7,4,The Gypsy,Sammy Kaye / Mary Marlow,Sammy Kaye / Mary Marlow,pop,19460518,10,4,9,19460713
-8,10,They Say It's Wonderful,Frank Sinatra,Frank Sinatra,jazz,19460622,9,8,5,19460713
-9,NEW,To Each His Own,Eddy Howard,Eddy Howard,jazz,19460713,9,1,20,19460713
-10,NEW,Hey! Ba-Ba-Re-Bop,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,19460713,10,10,1,19460713
-1,1,The Gypsy,Ink Spots,Ink Spots,jazz,19460511,6,1,11,19460706
-2,3,Prisoner Of Love,Perry Como,Perry Como,jazz,19460330,9,1,18,19460706
-3,2,The Gypsy,Dinah Shore,Dinah Shore,jazz,19460511,8,2,14,19460706
-4,4,The Gypsy,Sammy Kaye / Mary Marlow,Sammy Kaye / Mary Marlow,pop,19460518,10,4,9,19460706
-5,9,They Say It's Wonderful,Perry Como,Perry Como,jazz,19460615,9,4,4,19460706
-6,8,Surrender,Perry Como,Perry Como,jazz,19460629,8,1,11,19460706
-7,5,Doin' What Comes Natur'lly,Dinah Shore,Dinah Shore,jazz,19460615,8,4,10,19460706
-8,6,Laughing On The Outside,Andy Russell,Andy Russell,pop,19460511,7,4,9,19460706
-9,7,Doin' What Comes Naturally,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,19460629,7,4,7,19460706
-10,10,They Say It's Wonderful,Frank Sinatra,Frank Sinatra,jazz,19460622,9,8,5,19460706
-1,1,The Gypsy,Ink Spots,Ink Spots,jazz,19460511,6,1,11,19460629
-2,3,The Gypsy,Dinah Shore,Dinah Shore,jazz,19460511,8,2,14,19460629
-3,2,Prisoner Of Love,Perry Como,Perry Como,jazz,19460330,9,1,18,19460629
-4,5,The Gypsy,Sammy Kaye / Mary Marlow,Sammy Kaye / Mary Marlow,pop,19460518,10,4,9,19460629
-5,7,Doin' What Comes Natur'lly,Dinah Shore,Dinah Shore,jazz,19460615,8,4,10,19460629
-6,6,Laughing On The Outside,Andy Russell,Andy Russell,pop,19460511,7,4,9,19460629
-7,NEW,Doin' What Comes Naturally,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,19460629,7,4,7,19460629
-8,NEW,Surrender,Perry Como,Perry Como,jazz,19460629,8,1,11,19460629
-9,4,They Say It's Wonderful,Perry Como,Perry Como,jazz,19460615,9,4,4,19460629
-10,9,They Say It's Wonderful,Frank Sinatra,Frank Sinatra,jazz,19460622,9,8,5,19460629
-1,1,The Gypsy,Ink Spots,Ink Spots,jazz,19460511,6,1,11,19460622
-2,2,Prisoner Of Love,Perry Como,Perry Como,jazz,19460330,9,1,18,19460622
-3,3,The Gypsy,Dinah Shore,Dinah Shore,jazz,19460511,8,2,14,19460622
-4,9,They Say It's Wonderful,Perry Como,Perry Como,jazz,19460615,9,4,4,19460622
-5,4,The Gypsy,Sammy Kaye / Mary Marlow,Sammy Kaye / Mary Marlow,pop,19460518,10,4,9,19460622
-6,5,Laughing On The Outside,Andy Russell,Andy Russell,pop,19460511,7,4,9,19460622
-7,8,Doin' What Comes Natur'lly,Dinah Shore,Dinah Shore,jazz,19460615,8,4,10,19460622
-8,7,I'm A Big Girl Now,Sammy Kaye / Betty Barclay,Sammy Kaye / Betty Barclay,pop,19460420,4,1,10,19460622
-9,NEW,They Say It's Wonderful,Frank Sinatra,Frank Sinatra,jazz,19460622,9,8,5,19460622
-10,NEW,Prisoner Of Love,Ink Spots,Ink Spots,jazz,19460622,10,10,1,19460622
-1,1,The Gypsy,Ink Spots,Ink Spots,jazz,19460511,6,1,11,19460615
-2,3,Prisoner Of Love,Perry Como,Perry Como,jazz,19460330,9,1,18,19460615
-3,2,The Gypsy,Dinah Shore,Dinah Shore,jazz,19460511,8,2,14,19460615
-4,6,The Gypsy,Sammy Kaye / Mary Marlow,Sammy Kaye / Mary Marlow,pop,19460518,10,4,9,19460615
-5,4,Laughing On The Outside,Andy Russell,Andy Russell,pop,19460511,7,4,9,19460615
-6,5,Laughing On The Outside,Dinah Shore,Dinah Shore,jazz,19460427,8,3,8,19460615
-7,10,I'm A Big Girl Now,Sammy Kaye / Betty Barclay,Sammy Kaye / Betty Barclay,pop,19460420,4,1,10,19460615
-8,NEW,Doin' What Comes Natur'lly,Dinah Shore,Dinah Shore,jazz,19460615,8,4,10,19460615
-9,NEW,They Say It's Wonderful,Perry Como,Perry Como,jazz,19460615,9,4,4,19460615
-10,8,Laughing On The Outside,Sammy Kaye / Billy Williams,Sammy Kaye / Billy Williams,pop,19460525,9,7,4,19460615
-1,1,The Gypsy,Ink Spots,Ink Spots,jazz,19460511,6,1,11,19460608
-2,3,The Gypsy,Dinah Shore,Dinah Shore,jazz,19460511,8,2,14,19460608
-3,2,Prisoner Of Love,Perry Como,Perry Como,jazz,19460330,9,1,18,19460608
-4,4,Laughing On The Outside,Andy Russell,Andy Russell,pop,19460511,7,4,9,19460608
-5,6,Laughing On The Outside,Dinah Shore,Dinah Shore,jazz,19460427,8,3,8,19460608
-6,8,The Gypsy,Sammy Kaye / Mary Marlow,Sammy Kaye / Mary Marlow,pop,19460518,10,4,9,19460608
-7,5,Hey! Ba-Ba-Re-Bop,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,19460601,5,5,2,19460608
-8,7,Laughing On The Outside,Sammy Kaye / Billy Williams,Sammy Kaye / Billy Williams,pop,19460525,9,7,4,19460608
-9,9,Cement Mixer,Alvino Rey / Rocky Coluccio,Alvino Rey / Rocky Coluccio,pop,19460511,10,6,5,19460608
-10,10,I'm A Big Girl Now,Sammy Kaye / Betty Barclay,Sammy Kaye / Betty Barclay,pop,19460420,4,1,10,19460608
-1,1,The Gypsy,Ink Spots,Ink Spots,jazz,19460511,6,1,11,19460601
-2,2,Prisoner Of Love,Perry Como,Perry Como,jazz,19460330,9,1,18,19460601
-3,5,The Gypsy,Dinah Shore,Dinah Shore,jazz,19460511,8,2,14,19460601
-4,8,Laughing On The Outside,Andy Russell,Andy Russell,pop,19460511,7,4,9,19460601
-5,NEW,Hey! Ba-Ba-Re-Bop,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,19460601,5,5,2,19460601
-6,3,Laughing On The Outside,Dinah Shore,Dinah Shore,jazz,19460427,8,3,8,19460601
-7,9,Laughing On The Outside,Sammy Kaye / Billy Williams,Sammy Kaye / Billy Williams,pop,19460525,9,7,4,19460601
-8,7,The Gypsy,Sammy Kaye / Mary Marlow,Sammy Kaye / Mary Marlow,pop,19460518,10,4,9,19460601
-9,6,Cement Mixer,Alvino Rey / Rocky Coluccio,Alvino Rey / Rocky Coluccio,pop,19460511,10,6,5,19460601
-10,4,I'm A Big Girl Now,Sammy Kaye / Betty Barclay,Sammy Kaye / Betty Barclay,pop,19460420,4,1,10,19460601
-1,2,The Gypsy,Ink Spots,Ink Spots,jazz,19460511,6,1,11,19460525
-2,1,Prisoner Of Love,Perry Como,Perry Como,jazz,19460330,9,1,18,19460525
-3,3,Laughing On The Outside,Dinah Shore,Dinah Shore,jazz,19460427,8,3,8,19460525
-4,5,I'm A Big Girl Now,Sammy Kaye / Betty Barclay,Sammy Kaye / Betty Barclay,pop,19460420,4,1,10,19460525
-5,8,The Gypsy,Dinah Shore,Dinah Shore,jazz,19460511,8,2,14,19460525
-6,6,Cement Mixer,Alvino Rey / Rocky Coluccio,Alvino Rey / Rocky Coluccio,pop,19460511,10,6,5,19460525
-7,10,The Gypsy,Sammy Kaye / Mary Marlow,Sammy Kaye / Mary Marlow,pop,19460518,10,4,9,19460525
-8,4,Laughing On The Outside,Andy Russell,Andy Russell,pop,19460511,7,4,9,19460525
-9,NEW,Laughing On The Outside,Sammy Kaye / Billy Williams,Sammy Kaye / Billy Williams,pop,19460525,9,7,4,19460525
-10,7,Oh What It Seemed To Be,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,19460223,7,1,14,19460525
-1,1,Prisoner Of Love,Perry Como,Perry Como,jazz,19460330,9,1,18,19460518
-2,6,The Gypsy,Ink Spots,Ink Spots,jazz,19460511,6,1,11,19460518
-3,4,Laughing On The Outside,Dinah Shore,Dinah Shore,jazz,19460427,8,3,8,19460518
-4,7,Laughing On The Outside,Andy Russell,Andy Russell,pop,19460511,7,4,9,19460518
-5,2,I'm A Big Girl Now,Sammy Kaye / Betty Barclay,Sammy Kaye / Betty Barclay,pop,19460420,4,1,10,19460518
-6,10,Cement Mixer,Alvino Rey / Rocky Coluccio,Alvino Rey / Rocky Coluccio,pop,19460511,10,6,5,19460518
-7,3,Oh What It Seemed To Be,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,19460223,7,1,14,19460518
-8,8,The Gypsy,Dinah Shore,Dinah Shore,jazz,19460511,8,2,14,19460518
-9,9,Sioux City Sue,Bing Crosby / Jesters,Bing Crosby / Jesters,pop,19460427,7,6,4,19460518
-10,NEW,The Gypsy,Sammy Kaye / Mary Marlow,Sammy Kaye / Mary Marlow,pop,19460518,10,4,9,19460518
-1,1,Prisoner Of Love,Perry Como,Perry Como,jazz,19460330,9,1,18,19460511
-2,2,I'm A Big Girl Now,Sammy Kaye / Betty Barclay,Sammy Kaye / Betty Barclay,pop,19460420,4,1,10,19460511
-3,4,Oh What It Seemed To Be,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,19460223,7,1,14,19460511
-4,5,Laughing On The Outside,Dinah Shore,Dinah Shore,jazz,19460427,8,3,8,19460511
-5,3,Oh What It Seemed To Be,Frank Sinatra,Frank Sinatra,jazz,19460223,8,2,12,19460511
-6,NEW,The Gypsy,Ink Spots,Ink Spots,jazz,19460511,6,1,11,19460511
-7,NEW,Laughing On The Outside,Andy Russell,Andy Russell,pop,19460511,7,4,9,19460511
-8,NEW,The Gypsy,Dinah Shore,Dinah Shore,jazz,19460511,8,2,14,19460511
-9,6,Sioux City Sue,Bing Crosby / Jesters,Bing Crosby / Jesters,pop,19460427,7,6,4,19460511
-10,NEW,Cement Mixer,Alvino Rey / Rocky Coluccio,Alvino Rey / Rocky Coluccio,pop,19460511,10,6,5,19460511
-1,2,Prisoner Of Love,Perry Como,Perry Como,jazz,19460330,9,1,18,19460504
-2,1,I'm A Big Girl Now,Sammy Kaye / Betty Barclay,Sammy Kaye / Betty Barclay,pop,19460420,4,1,10,19460504
-3,4,Oh What It Seemed To Be,Frank Sinatra,Frank Sinatra,jazz,19460223,8,2,12,19460504
-4,3,Oh What It Seemed To Be,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,19460223,7,1,14,19460504
-5,8,Laughing On The Outside,Dinah Shore,Dinah Shore,jazz,19460427,8,3,8,19460504
-6,7,Sioux City Sue,Bing Crosby / Jesters,Bing Crosby / Jesters,pop,19460427,7,6,4,19460504
-7,NEW,Shoo Fly Pie And Apple Pan Dowdy,Dinah Shore,Dinah Shore,jazz,19460504,7,7,1,19460504
-8,NEW,Bumble Boogie,Freddy Martin / Jack Fina,Freddy Martin / Jack Fina,pop,19460504,8,8,1,19460504
-9,9,Oh What It Seemed To Be,Dick Haymes / Helen Forrest,Dick Haymes / Helen Forrest,pop,19460420,9,9,3,19460504
-10,6,One-zy Two-zy,Freddy Martin / Martin Men,Freddy Martin / Martin Men,pop,19460112,9,1,17,19460504
-1,4,I'm A Big Girl Now,Sammy Kaye / Betty Barclay,Sammy Kaye / Betty Barclay,pop,19460420,4,1,10,19460427
-2,3,Prisoner Of Love,Perry Como,Perry Como,jazz,19460330,9,1,18,19460427
-3,1,Oh What It Seemed To Be,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,19460223,7,1,14,19460427
-4,2,Oh What It Seemed To Be,Frank Sinatra,Frank Sinatra,jazz,19460223,8,2,12,19460427
-5,6,Oh What It Seemed To Be,Charlie Spivak / Jimmy Saunders,Charlie Spivak / Jimmy Saunders,pop,19460406,7,5,4,19460427
-6,8,One-zy Two-zy,Freddy Martin / Martin Men,Freddy Martin / Martin Men,pop,19460112,9,1,17,19460427
-7,NEW,Sioux City Sue,Bing Crosby / Jesters,Bing Crosby / Jesters,pop,19460427,7,6,4,19460427
-8,NEW,Laughing On The Outside,Dinah Shore,Dinah Shore,jazz,19460427,8,3,8,19460427
-9,9,Oh What It Seemed To Be,Dick Haymes / Helen Forrest,Dick Haymes / Helen Forrest,pop,19460420,9,9,3,19460427
-10,5,Personality,Johnny Mercer / Pied Pipers,Johnny Mercer / Pied Pipers,pop,19460309,1,1,8,19460427
-1,1,Oh What It Seemed To Be,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,19460223,7,1,14,19460420
-2,2,Oh What It Seemed To Be,Frank Sinatra,Frank Sinatra,jazz,19460223,8,2,12,19460420
-3,4,Prisoner Of Love,Perry Como,Perry Como,jazz,19460330,9,1,18,19460420
-4,NEW,I'm A Big Girl Now,Sammy Kaye / Betty Barclay,Sammy Kaye / Betty Barclay,pop,19460420,4,1,10,19460420
-5,3,Personality,Johnny Mercer / Pied Pipers,Johnny Mercer / Pied Pipers,pop,19460309,1,1,8,19460420
-6,5,Oh What It Seemed To Be,Charlie Spivak / Jimmy Saunders,Charlie Spivak / Jimmy Saunders,pop,19460406,7,5,4,19460420
-7,NEW,One-zy Two-zy,Phil Harris,Phil Harris,pop,19460420,7,7,1,19460420
-8,7,One-zy Two-zy,Freddy Martin / Martin Men,Freddy Martin / Martin Men,pop,19460112,9,1,17,19460420
-9,NEW,Oh What It Seemed To Be,Dick Haymes / Helen Forrest,Dick Haymes / Helen Forrest,pop,19460420,9,9,3,19460420
-10,10,Hey! Ba-Ba-Re-Bop,Lionel Hampton,Lionel Hampton,jazz,19460413,10,10,2,19460420
-1,1,Oh What It Seemed To Be,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,19460223,7,1,14,19460413
-2,2,Oh What It Seemed To Be,Frank Sinatra,Frank Sinatra,jazz,19460223,8,2,12,19460413
-3,3,Personality,Johnny Mercer / Pied Pipers,Johnny Mercer / Pied Pipers,pop,19460309,1,1,8,19460413
-4,6,Prisoner Of Love,Perry Como,Perry Como,jazz,19460330,9,1,18,19460413
-5,7,Oh What It Seemed To Be,Charlie Spivak / Jimmy Saunders,Charlie Spivak / Jimmy Saunders,pop,19460406,7,5,4,19460413
-6,10,You Won't Be Satisfied,Les Brown / Doris Day,Les Brown / Doris Day,pop,19460223,10,5,8,19460413
-7,5,Doctor Lawyer Indian Chief,Betty Hutton,Betty Hutton,jazz,19460112,9,1,17,19460413
-8,NEW,Shoo Fly Pie And Apple Pan Dowdy,Dinah Shore,Dinah Shore,jazz,19460413,8,8,1,19460413
-9,NEW,Sioux City Sue,Bing Crosby / Jesters,Bing Crosby / Jesters,pop,19460413,9,9,1,19460413
-10,NEW,Hey! Ba-Ba-Re-Bop,Lionel Hampton,Lionel Hampton,jazz,19460413,10,10,2,19460413
-1,1,Oh What It Seemed To Be,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,19460223,7,1,14,19460406
-2,2,Oh What It Seemed To Be,Frank Sinatra,Frank Sinatra,jazz,19460223,8,2,12,19460406
-3,3,Personality,Johnny Mercer / Pied Pipers,Johnny Mercer / Pied Pipers,pop,19460309,1,1,8,19460406
-4,7,Oh What It Seemed To Be,Dick Haymes / Helen Forrest,Dick Haymes / Helen Forrest,pop,19460316,7,4,4,19460406
-5,4,Doctor Lawyer Indian Chief,Betty Hutton,Betty Hutton,jazz,19460112,9,1,17,19460406
-6,9,Prisoner Of Love,Perry Como,Perry Como,jazz,19460330,9,1,18,19460406
-7,NEW,Oh What It Seemed To Be,Charlie Spivak / Jimmy Saunders,Charlie Spivak / Jimmy Saunders,pop,19460406,7,5,4,19460406
-8,8,One-Zy Two-Zy,Freddy Martin / Martin Men,Freddy Martin / Martin Men,pop,19460330,8,8,2,19460406
-9,6,Doctor Lawyer Indian Chief,Les Brown / Butch Stone,Les Brown / Butch Stone,pop,19460316,10,6,4,19460406
-10,5,You Won't Be Satisfied,Les Brown / Doris Day,Les Brown / Doris Day,pop,19460223,10,5,8,19460406
-1,1,Oh What It Seemed To Be,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,19460223,7,1,14,19460330
-2,2,Oh What It Seemed To Be,Frank Sinatra,Frank Sinatra,jazz,19460223,8,2,12,19460330
-3,3,Personality,Johnny Mercer / Pied Pipers,Johnny Mercer / Pied Pipers,pop,19460309,1,1,8,19460330
-4,4,Doctor Lawyer Indian Chief,Betty Hutton,Betty Hutton,jazz,19460112,9,1,17,19460330
-5,5,You Won't Be Satisfied,Les Brown / Doris Day,Les Brown / Doris Day,pop,19460223,10,5,8,19460330
-6,10,Doctor Lawyer Indian Chief,Les Brown / Butch Stone,Les Brown / Butch Stone,pop,19460316,10,6,4,19460330
-7,6,Oh What It Seemed To Be,Dick Haymes / Helen Forrest,Dick Haymes / Helen Forrest,pop,19460316,7,4,4,19460330
-8,NEW,One-Zy Two-Zy,Freddy Martin / Martin Men,Freddy Martin / Martin Men,pop,19460330,8,8,2,19460330
-9,NEW,Prisoner Of Love,Perry Como,Perry Como,jazz,19460330,9,1,18,19460330
-10,9,Shoo Fly Pie And Apple Pan Dowdy,Stan Kenton / June Christy,Stan Kenton / June Christy,pop,19460323,9,9,2,19460330
-1,1,Oh What It Seemed To Be,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,19460223,7,1,14,19460323
-2,3,Oh What It Seemed To Be,Frank Sinatra,Frank Sinatra,jazz,19460223,8,2,12,19460323
-3,2,Personality,Johnny Mercer / Pied Pipers,Johnny Mercer / Pied Pipers,pop,19460309,1,1,8,19460323
-4,4,Doctor Lawyer Indian Chief,Betty Hutton,Betty Hutton,jazz,19460112,9,1,17,19460323
-5,5,You Won't Be Satisfied,Les Brown / Doris Day,Les Brown / Doris Day,pop,19460223,10,5,8,19460323
-6,7,Oh What It Seemed To Be,Dick Haymes / Helen Forrest,Dick Haymes / Helen Forrest,pop,19460316,7,4,4,19460323
-7,NEW,Oh What It Seemed To Be,Charlie Spivak / Jimmy Saunders,Charlie Spivak / Jimmy Saunders,pop,19460323,7,7,1,19460323
-8,6,Let It Snow! Let It Snow! Let It Snow!,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,19451229,6,1,13,19460323
-9,NEW,Shoo Fly Pie And Apple Pan Dowdy,Stan Kenton / June Christy,Stan Kenton / June Christy,pop,19460323,9,9,2,19460323
-10,10,Doctor Lawyer Indian Chief,Les Brown / Butch Stone,Les Brown / Butch Stone,pop,19460316,10,6,4,19460323
-1,4,Oh What It Seemed To Be,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,19460223,7,1,14,19460316
-2,1,Personality,Johnny Mercer / Pied Pipers,Johnny Mercer / Pied Pipers,pop,19460309,1,1,8,19460316
-3,2,Oh What It Seemed To Be,Frank Sinatra,Frank Sinatra,jazz,19460223,8,2,12,19460316
-4,3,Doctor Lawyer Indian Chief,Betty Hutton,Betty Hutton,jazz,19460112,9,1,17,19460316
-5,6,You Won't Be Satisfied,Les Brown / Doris Day,Les Brown / Doris Day,pop,19460223,10,5,8,19460316
-6,5,Let It Snow! Let It Snow! Let It Snow!,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,19451229,6,1,13,19460316
-7,NEW,Oh What It Seemed To Be,Dick Haymes / Helen Forrest,Dick Haymes / Helen Forrest,pop,19460316,7,4,4,19460316
-8,NEW,Symphony,Bing Crosby,Bing Crosby,jazz,19460316,8,8,1,19460316
-9,8,I Can't Begin To Tell You,Bing Crosby / Carmen Cavallaro,Bing Crosby / Carmen Cavallaro,pop,19460112,2,1,10,19460316
-10,NEW,Doctor Lawyer Indian Chief,Les Brown / Butch Stone,Les Brown / Butch Stone,pop,19460316,10,6,4,19460316
-1,NEW,Personality,Johnny Mercer / Pied Pipers,Johnny Mercer / Pied Pipers,pop,19460309,1,1,8,19460309
-2,3,Oh What It Seemed To Be,Frank Sinatra,Frank Sinatra,jazz,19460223,8,2,12,19460309
-3,1,Doctor Lawyer Indian Chief,Betty Hutton,Betty Hutton,jazz,19460112,9,1,17,19460309
-4,4,Oh What It Seemed To Be,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,19460223,7,1,14,19460309
-5,2,Let It Snow! Let It Snow! Let It Snow!,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,19451229,6,1,13,19460309
-6,5,You Won't Be Satisfied,Les Brown / Doris Day,Les Brown / Doris Day,pop,19460223,10,5,8,19460309
-7,NEW,Symphony,Benny Goodman / Liza Morrow,Benny Goodman / Liza Morrow,pop,19460309,7,7,1,19460309
-8,9,I Can't Begin To Tell You,Bing Crosby / Carmen Cavallaro,Bing Crosby / Carmen Cavallaro,pop,19460112,2,1,10,19460309
-9,6,Symphony,Freddy Martin & His Orchestra / Clyde Rogers,Freddy Martin,jazz,19451208,5,1,14,19460309
-10,NEW,Day By Day,Frank Sinatra,Frank Sinatra,jazz,19460309,10,10,1,19460309
-1,3,Doctor Lawyer Indian Chief,Betty Hutton,Betty Hutton,jazz,19460112,9,1,17,19460302
-2,1,Let It Snow! Let It Snow! Let It Snow!,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,19451229,6,1,13,19460302
-3,8,Oh What It Seemed To Be,Frank Sinatra,Frank Sinatra,jazz,19460223,8,2,12,19460302
-4,7,Oh What It Seemed To Be,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,19460223,7,1,14,19460302
-5,10,You Won't Be Satisfied,Les Brown / Doris Day,Les Brown / Doris Day,pop,19460223,10,5,8,19460302
-6,6,Symphony,Freddy Martin & His Orchestra / Clyde Rogers,Freddy Martin,jazz,19451208,5,1,14,19460302
-7,NEW,Dig You Later (A-Hubba Hubba Hubba),Perry Como,Perry Como,jazz,19460302,7,7,1,19460302
-8,NEW,"Let It Snow, Let It Snow, Let It Snow",Woody Herman,Woody Herman,jazz,19460302,8,8,1,19460302
-9,4,I Can't Begin To Tell You,Bing Crosby / Carmen Cavallaro,Bing Crosby / Carmen Cavallaro,pop,19460112,2,1,10,19460302
-10,NEW,I'm Always Chasing Rainbows,Perry Como,Perry Como,jazz,19460302,10,10,1,19460302
-1,1,Let It Snow! Let It Snow! Let It Snow!,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,19451229,6,1,13,19460223
-2,3,Personality,Johnny Mercer / Pied Pipers,Johnny Mercer / Pied Pipers,pop,19460126,9,2,5,19460223
-3,5,Doctor Lawyer Indian Chief,Betty Hutton,Betty Hutton,jazz,19460112,9,1,17,19460223
-4,6,I Can't Begin To Tell You,Bing Crosby / Carmen Cavallaro,Bing Crosby / Carmen Cavallaro,pop,19460112,2,1,10,19460223
-5,4,Symphony,Bing Crosby,Bing Crosby,jazz,19460126,4,3,5,19460223
-6,2,Symphony,Freddy Martin & His Orchestra / Clyde Rogers,Freddy Martin,jazz,19451208,5,1,14,19460223
-7,NEW,Oh What It Seemed To Be,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,19460223,7,1,14,19460223
-8,NEW,Oh What It Seemed To Be,Frank Sinatra,Frank Sinatra,jazz,19460223,8,2,12,19460223
-9,NEW,I Can't Begin To Tell You,Harry James / Ruth Haag,Harry James / Ruth Haag,pop,19460223,9,9,1,19460223
-10,NEW,You Won't Be Satisfied,Les Brown / Doris Day,Les Brown / Doris Day,pop,19460223,10,5,8,19460223
-1,1,Let It Snow! Let It Snow! Let It Snow!,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,19451229,6,1,13,19460216
-2,4,Symphony,Freddy Martin & His Orchestra / Clyde Rogers,Freddy Martin,jazz,19451208,5,1,14,19460216
-3,2,Personality,Johnny Mercer / Pied Pipers,Johnny Mercer / Pied Pipers,pop,19460126,9,2,5,19460216
-4,3,Symphony,Bing Crosby,Bing Crosby,jazz,19460126,4,3,5,19460216
-5,6,Doctor Lawyer Indian Chief,Betty Hutton,Betty Hutton,jazz,19460112,9,1,17,19460216
-6,5,I Can't Begin To Tell You,Bing Crosby / Carmen Cavallaro,Bing Crosby / Carmen Cavallaro,pop,19460112,2,1,10,19460216
-7,NEW,Symphony,Benny Goodman / Liza Morrow,Benny Goodman / Liza Morrow,pop,19460216,7,7,1,19460216
-8,7,I'm Always Chasing Rainbows,Perry Como,Perry Como,jazz,19460202,8,7,3,19460216
-9,8,Symphony,Jo Stafford,Jo Stafford,jazz,19460112,10,4,6,19460216
-10,9,Dig You Later (Hubba Hubba Hubba),Perry Como,Perry Como,jazz,19460202,10,9,3,19460216
-1,1,Let It Snow! Let It Snow! Let It Snow!,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,19451229,6,1,13,19460209
-2,5,Personality,Johnny Mercer / Pied Pipers,Johnny Mercer / Pied Pipers,pop,19460126,9,2,5,19460209
-3,4,Symphony,Bing Crosby,Bing Crosby,jazz,19460126,4,3,5,19460209
-4,2,Symphony,Freddy Martin & His Orchestra / Clyde Rogers,Freddy Martin,jazz,19451208,5,1,14,19460209
-5,3,I Can't Begin To Tell You,Bing Crosby / Carmen Cavallaro,Bing Crosby / Carmen Cavallaro,pop,19460112,2,1,10,19460209
-6,6,Doctor Lawyer Indian Chief,Betty Hutton,Betty Hutton,jazz,19460112,9,1,17,19460209
-7,8,I'm Always Chasing Rainbows,Perry Como,Perry Como,jazz,19460202,8,7,3,19460209
-8,7,Symphony,Jo Stafford,Jo Stafford,jazz,19460112,10,4,6,19460209
-9,10,Dig You Later (Hubba Hubba Hubba),Perry Como,Perry Como,jazz,19460202,10,9,3,19460209
-10,NEW,I'm Always Chasing Rainbows,Dick Haymes / Helen Forrest,Dick Haymes / Helen Forrest,pop,19460209,10,10,1,19460209
-1,1,Let It Snow! Let It Snow! Let It Snow!,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,19451229,6,1,13,19460202
-2,2,Symphony,Freddy Martin & His Orchestra / Clyde Rogers,Freddy Martin,jazz,19451208,5,1,14,19460202
-3,3,I Can't Begin To Tell You,Bing Crosby / Carmen Cavallaro,Bing Crosby / Carmen Cavallaro,pop,19460112,2,1,10,19460202
-4,4,Symphony,Bing Crosby,Bing Crosby,jazz,19460126,4,3,5,19460202
-5,9,Personality,Johnny Mercer / Pied Pipers,Johnny Mercer / Pied Pipers,pop,19460126,9,2,5,19460202
-6,5,Doctor Lawyer Indian Chief,Betty Hutton,Betty Hutton,jazz,19460112,9,1,17,19460202
-7,6,Symphony,Jo Stafford,Jo Stafford,jazz,19460112,10,4,6,19460202
-8,NEW,I'm Always Chasing Rainbows,Perry Como,Perry Como,jazz,19460202,8,7,3,19460202
-9,NEW,It Might As Well Be Spring,Dick Haymes,Dick Haymes,jazz,19460202,9,9,1,19460202
-10,NEW,Dig You Later (Hubba Hubba Hubba),Perry Como,Perry Como,jazz,19460202,10,9,3,19460202
-1,3,Let It Snow! Let It Snow! Let It Snow!,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,19451229,6,1,13,19460126
-2,2,Symphony,Freddy Martin & His Orchestra / Clyde Rogers,Freddy Martin,jazz,19451208,5,1,14,19460126
-3,1,I Can't Begin To Tell You,Bing Crosby / Carmen Cavallaro,Bing Crosby / Carmen Cavallaro,pop,19460112,2,1,10,19460126
-4,NEW,Symphony,Bing Crosby,Bing Crosby,jazz,19460126,4,3,5,19460126
-5,6,Doctor Lawyer Indian Chief,Betty Hutton,Betty Hutton,jazz,19460112,9,1,17,19460126
-6,4,Symphony,Jo Stafford,Jo Stafford,jazz,19460112,10,4,6,19460126
-7,7,Symphony,Benny Goodman / Liza Morrow,Benny Goodman / Liza Morrow,pop,19460119,7,7,2,19460126
-8,5,Dig You Later (A-Hubba Hubba Hubba),Perry Como & The Satisfiers / Russ Case & His Orchestra,Perry Como,jazz,19451201,9,3,9,19460126
-9,NEW,Personality,Johnny Mercer / Pied Pipers,Johnny Mercer / Pied Pipers,pop,19460126,9,2,5,19460126
-10,NEW,I Can't Begin To Tell You,Harry James / Ruth Haag,Harry James / Ruth Haag,pop,19460126,10,10,1,19460126
-1,2,I Can't Begin To Tell You,Bing Crosby / Carmen Cavallaro,Bing Crosby / Carmen Cavallaro,pop,19460112,2,1,10,19460119
-2,1,Symphony,Freddy Martin & His Orchestra / Clyde Rogers,Freddy Martin,jazz,19451208,5,1,14,19460119
-3,6,Let It Snow! Let It Snow! Let It Snow!,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,19451229,6,1,13,19460119
-4,10,Symphony,Jo Stafford,Jo Stafford,jazz,19460112,10,4,6,19460119
-5,4,Dig You Later (A-Hubba Hubba Hubba),Perry Como & The Satisfiers / Russ Case & His Orchestra,Perry Como,jazz,19451201,9,3,9,19460119
-6,9,Doctor Lawyer Indian Chief,Betty Hutton,Betty Hutton,jazz,19460112,9,1,17,19460119
-7,NEW,Symphony,Benny Goodman / Liza Morrow,Benny Goodman / Liza Morrow,pop,19460119,7,7,2,19460119
-8,3,Chickery Chick,"Sammy Kaye & His Orchestra / Billy Williams, Nancy Norman",Sammy Kaye,jazz,19451020,10,1,14,19460119
-9,NEW,It Might As Well Be Spring,Dick Haymes,Dick Haymes,jazz,19460119,9,9,1,19460119
-10,5,"It's Been A Long, Long Time",Harry James & His Music Makers / Kitty Kallen,Harry James,jazz,19451013,10,1,15,19460119
-1,1,Symphony,Freddy Martin & His Orchestra / Clyde Rogers,Freddy Martin,jazz,19451208,5,1,14,19460112
-2,NEW,I Can't Begin To Tell You,Bing Crosby / Carmen Cavallaro,Bing Crosby / Carmen Cavallaro,pop,19460112,2,1,10,19460112
-3,2,Chickery Chick,"Sammy Kaye & His Orchestra / Billy Williams, Nancy Norman",Sammy Kaye,jazz,19451020,10,1,14,19460112
-4,3,Dig You Later (A-Hubba Hubba Hubba),Perry Como & The Satisfiers / Russ Case & His Orchestra,Perry Como,jazz,19451201,9,3,9,19460112
-5,4,"It's Been A Long, Long Time",Harry James & His Music Makers / Kitty Kallen,Harry James,jazz,19451013,10,1,15,19460112
-6,5,Let It Snow! Let It Snow! Let It Snow!,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,19451229,6,1,13,19460112
-7,NEW,It's Been A Long Long Time,Bing Crosby / Les Paul,Bing Crosby / Les Paul,pop,19460112,7,7,1,19460112
-8,NEW,Symphony,Bing Crosby,Bing Crosby,jazz,19460112,8,8,1,19460112
-9,NEW,Doctor Lawyer Indian Chief,Betty Hutton,Betty Hutton,jazz,19460112,9,1,17,19460112
-10,NEW,Symphony,Jo Stafford,Jo Stafford,jazz,19460112,10,4,6,19460112
-1,1,Symphony,Freddy Martin & His Orchestra / Clyde Rogers,Freddy Martin,jazz,19451208,5,1,14,19460105
-2,2,Chickery Chick,"Sammy Kaye & His Orchestra / Billy Williams, Nancy Norman",Sammy Kaye,jazz,19451020,10,1,14,19460105
-3,3,Dig You Later (A-Hubba Hubba Hubba),Perry Como & The Satisfiers / Russ Case & His Orchestra,Perry Como,jazz,19451201,9,3,9,19460105
-4,5,"It's Been A Long, Long Time",Harry James & His Music Makers / Kitty Kallen,Harry James,jazz,19451013,10,1,15,19460105
-5,6,Let It Snow! Let It Snow! Let It Snow!,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,19451229,6,1,13,19460105
-6,7,"It's Been A Long, Long Time",Charlie Spivak & His Orchestra / Irene Daye,Charlie Spivak,jazz,19451222,9,6,3,19460105
-7,8,It Might As Well Be Spring,Dick Haymes / Victor Young & His Orchestra,Dick Haymes / Victor Young,pop,19451215,9,6,4,19460105
-8,NEW,I Can't Begin To Tell You,Andy Russell,Andy Russell,pop,19460105,8,8,1,19460105
-9,NEW,White Christmas,Bing Crosby,Bing Crosby,jazz,19460105,9,9,1,19460105
-10,NEW,Chickery Chick,Evelyn Knight,Evelyn Knight,jazz,19460105,10,10,1,19460105
+this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genre,entry_date,entry_position,peak_position,total_weeks,chart_date
+1,2,The Old Lamplighter,Sammy Kaye / Billy Williams,Sammy Kaye / Billy Williams,pop,unknown,19461116,5,1,14,19461226
+2,7,White Christmas,Bing Crosby,Bing Crosby,jazz,jazz,19461220,7,2,4,19461226
+3,1,Ole Buttermilk Sky,Kay Kyser / Michael Douglas / Campus Kids,Kay Kyser / Michael Douglas / Campus Kids,pop,unknown,19461102,5,1,11,19461226
+4,3,The Old Lamplighter,Kay Kyser / Michael Douglas,Kay Kyser / Michael Douglas,pop,unknown,19461130,7,3,11,19461226
+5,6,Huggin' And Chalkin',Hoagy Carmichael,Hoagy Carmichael,jazz,jazz,19461207,10,2,13,19461226
+6,8,Ole Buttermilk Sky,Hoagy Carmichael,Hoagy Carmichael,jazz,jazz,19461130,10,2,12,19461226
+7,NEW,The Christmas Song,King Cole Trio,King Cole Trio,jazz,jazz,19461226,7,7,1,19461226
+8,5,(I Love You) For Sentimental Reasons,King Cole Trio,King Cole Trio,jazz,jazz,19461214,5,1,11,19461226
+9,4,Rumours Are Flying,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,unknown,19460914,2,1,18,19461226
+10,NEW,Winter Wonderland,Perry Como,Perry Como,jazz,jazz,19461226,10,10,1,19461226
+1,1,Ole Buttermilk Sky,Kay Kyser / Michael Douglas / Campus Kids,Kay Kyser / Michael Douglas / Campus Kids,pop,unknown,19461102,5,1,11,19461220
+2,2,The Old Lamplighter,Sammy Kaye / Billy Williams,Sammy Kaye / Billy Williams,pop,unknown,19461116,5,1,14,19461220
+3,4,The Old Lamplighter,Kay Kyser / Michael Douglas,Kay Kyser / Michael Douglas,pop,unknown,19461130,7,3,11,19461220
+4,3,Rumours Are Flying,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,unknown,19460914,2,1,18,19461220
+5,5,(I Love You) For Sentimental Reasons,King Cole Trio,King Cole Trio,jazz,jazz,19461214,5,1,11,19461220
+6,7,Huggin' And Chalkin',Hoagy Carmichael,Hoagy Carmichael,jazz,jazz,19461207,10,2,13,19461220
+7,NEW,White Christmas,Bing Crosby,Bing Crosby,jazz,jazz,19461220,7,2,4,19461220
+8,8,Ole Buttermilk Sky,Hoagy Carmichael,Hoagy Carmichael,jazz,jazz,19461130,10,2,12,19461220
+9,NEW,Rumors Are Flying,Betty Rhodes,Betty Rhodes,jazz,jazz,19461220,9,9,1,19461220
+10,NEW,Rumurs Are Fying,Andrews Sisters / Les Paul,Andrews Sisters / Les Paul,pop,unknown,19461220,10,10,1,19461220
+1,3,Ole Buttermilk Sky,Kay Kyser / Michael Douglas / Campus Kids,Kay Kyser / Michael Douglas / Campus Kids,pop,unknown,19461102,5,1,11,19461214
+2,2,The Old Lamplighter,Sammy Kaye / Billy Williams,Sammy Kaye / Billy Williams,pop,unknown,19461116,5,1,14,19461214
+3,1,Rumours Are Flying,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,unknown,19460914,2,1,18,19461214
+4,4,The Old Lamplighter,Kay Kyser / Michael Douglas,Kay Kyser / Michael Douglas,pop,unknown,19461130,7,3,11,19461214
+5,NEW,(I Love You) For Sentimental Reasons,King Cole Trio,King Cole Trio,jazz,jazz,19461214,5,1,11,19461214
+6,NEW,The Old Lamplighter,Hal Derwin,Hal Derwin,pop,unknown,19461214,6,6,1,19461214
+7,10,Huggin' And Chalkin',Hoagy Carmichael,Hoagy Carmichael,jazz,jazz,19461207,10,2,13,19461214
+8,7,Ole Buttermilk Sky,Hoagy Carmichael,Hoagy Carmichael,jazz,jazz,19461130,10,2,12,19461214
+9,9,Ole Buttermilk Sky,Paul Weston / Matt Dennis,Paul Weston / Matt Dennis,pop,unknown,19461207,9,9,2,19461214
+10,NEW,Christmas Song,King Cole Trio,King Cole Trio,jazz,jazz,19461214,10,10,1,19461214
+1,1,Rumours Are Flying,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,unknown,19460914,2,1,18,19461207
+2,2,The Old Lamplighter,Sammy Kaye / Billy Williams,Sammy Kaye / Billy Williams,pop,unknown,19461116,5,1,14,19461207
+3,3,Ole Buttermilk Sky,Kay Kyser / Michael Douglas / Campus Kids,Kay Kyser / Michael Douglas / Campus Kids,pop,unknown,19461102,5,1,11,19461207
+4,7,The Old Lamplighter,Kay Kyser / Michael Douglas,Kay Kyser / Michael Douglas,pop,unknown,19461130,7,3,11,19461207
+5,4,Five Minutes More,Frank Sinatra,Frank Sinatra,jazz,jazz,19461123,4,4,3,19461207
+6,6,Rumours Are Flying,Andrews Sisters / Les Paul,Andrews Sisters / Les Paul,pop,unknown,19461026,9,6,7,19461207
+7,10,Ole Buttermilk Sky,Hoagy Carmichael,Hoagy Carmichael,jazz,jazz,19461130,10,2,12,19461207
+8,5,Rumours Are Flying,Betty Rhodes,Betty Rhodes,jazz,jazz,19461109,10,5,5,19461207
+9,NEW,Ole Buttermilk Sky,Paul Weston / Matt Dennis,Paul Weston / Matt Dennis,pop,unknown,19461207,9,9,2,19461207
+10,NEW,Huggin' And Chalkin',Hoagy Carmichael,Hoagy Carmichael,jazz,jazz,19461207,10,2,13,19461207
+1,1,Rumours Are Flying,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,unknown,19460914,2,1,18,19461130
+2,2,The Old Lamplighter,Sammy Kaye / Billy Williams,Sammy Kaye / Billy Williams,pop,unknown,19461116,5,1,14,19461130
+3,3,Ole Buttermilk Sky,Kay Kyser / Michael Douglas / Campus Kids,Kay Kyser / Michael Douglas / Campus Kids,pop,unknown,19461102,5,1,11,19461130
+4,4,Five Minutes More,Frank Sinatra,Frank Sinatra,jazz,jazz,19461123,4,4,3,19461130
+5,5,Rumours Are Flying,Betty Rhodes,Betty Rhodes,jazz,jazz,19461109,10,5,5,19461130
+6,6,Rumours Are Flying,Andrews Sisters / Les Paul,Andrews Sisters / Les Paul,pop,unknown,19461026,9,6,7,19461130
+7,NEW,The Old Lamplighter,Kay Kyser / Michael Douglas,Kay Kyser / Michael Douglas,pop,unknown,19461130,7,3,11,19461130
+8,NEW,(I Love You) For Sentimental Reasons,King Cole Trio,King Cole Trio,jazz,jazz,19461130,8,8,1,19461130
+9,7,Ole Buttermilk Sky,Helen Carroll / Satisfiers,Helen Carroll / Satisfiers,pop,unknown,19461123,7,7,2,19461130
+10,NEW,Ole Buttermilk Sky,Hoagy Carmichael,Hoagy Carmichael,jazz,jazz,19461130,10,2,12,19461130
+1,1,Rumours Are Flying,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,unknown,19460914,2,1,18,19461123
+2,5,The Old Lamplighter,Sammy Kaye / Billy Williams,Sammy Kaye / Billy Williams,pop,unknown,19461116,5,1,14,19461123
+3,2,Ole Buttermilk Sky,Kay Kyser / Michael Douglas / Campus Kids,Kay Kyser / Michael Douglas / Campus Kids,pop,unknown,19461102,5,1,11,19461123
+4,NEW,Five Minutes More,Frank Sinatra,Frank Sinatra,jazz,jazz,19461123,4,4,3,19461123
+5,8,Rumours Are Flying,Betty Rhodes,Betty Rhodes,jazz,jazz,19461109,10,5,5,19461123
+6,6,Rumours Are Flying,Andrews Sisters / Les Paul,Andrews Sisters / Les Paul,pop,unknown,19461026,9,6,7,19461123
+7,NEW,Ole Buttermilk Sky,Helen Carroll / Satisfiers,Helen Carroll / Satisfiers,pop,unknown,19461123,7,7,2,19461123
+8,10,Five Minutes More,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,unknown,19460824,9,6,14,19461123
+9,4,To Each His Own,Eddy Howard,Eddy Howard,jazz,jazz,19460713,9,1,20,19461123
+10,3,"South America, Take It Away",Bing Crosby / Andrews Sisters,Bing Crosby / Andrews Sisters,pop,unknown,19460727,9,2,18,19461123
+1,1,Rumours Are Flying,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,unknown,19460914,2,1,18,19461116
+2,3,Ole Buttermilk Sky,Kay Kyser / Michael Douglas / Campus Kids,Kay Kyser / Michael Douglas / Campus Kids,pop,unknown,19461102,5,1,11,19461116
+3,5,"South America, Take It Away",Bing Crosby / Andrews Sisters,Bing Crosby / Andrews Sisters,pop,unknown,19460727,9,2,18,19461116
+4,4,To Each His Own,Eddy Howard,Eddy Howard,jazz,jazz,19460713,9,1,20,19461116
+5,NEW,The Old Lamplighter,Sammy Kaye / Billy Williams,Sammy Kaye / Billy Williams,pop,unknown,19461116,5,1,14,19461116
+6,8,Rumours Are Flying,Andrews Sisters / Les Paul,Andrews Sisters / Les Paul,pop,unknown,19461026,9,6,7,19461116
+7,6,To Each His Own,Ink Spots,Ink Spots,jazz,jazz,19460824,6,1,13,19461116
+8,10,Rumours Are Flying,Betty Rhodes,Betty Rhodes,jazz,jazz,19461109,10,5,5,19461116
+9,9,Rumours Are Flying,Tony Martin,Tony Martin,rock,heavy metal,19461102,9,9,3,19461116
+10,7,Five Minutes More,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,unknown,19460824,9,6,14,19461116
+1,1,Rumours Are Flying,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,unknown,19460914,2,1,18,19461109
+2,4,Five Minutes More,Frank Sinatra,Frank Sinatra,jazz,jazz,19460803,9,1,15,19461109
+3,5,Ole Buttermilk Sky,Kay Kyser / Michael Douglas / Campus Kids,Kay Kyser / Michael Douglas / Campus Kids,pop,unknown,19461102,5,1,11,19461109
+4,3,To Each His Own,Eddy Howard,Eddy Howard,jazz,jazz,19460713,9,1,20,19461109
+5,2,"South America, Take It Away",Bing Crosby / Andrews Sisters,Bing Crosby / Andrews Sisters,pop,unknown,19460727,9,2,18,19461109
+6,7,To Each His Own,Ink Spots,Ink Spots,jazz,jazz,19460824,6,1,13,19461109
+7,6,Five Minutes More,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,unknown,19460824,9,6,14,19461109
+8,10,Rumours Are Flying,Andrews Sisters / Les Paul,Andrews Sisters / Les Paul,pop,unknown,19461026,9,6,7,19461109
+9,9,Rumours Are Flying,Tony Martin,Tony Martin,rock,heavy metal,19461102,9,9,3,19461109
+10,NEW,Rumours Are Flying,Betty Rhodes,Betty Rhodes,jazz,jazz,19461109,10,5,5,19461109
+1,1,Rumours Are Flying,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,unknown,19460914,2,1,18,19461102
+2,3,"South America, Take It Away",Bing Crosby / Andrews Sisters,Bing Crosby / Andrews Sisters,pop,unknown,19460727,9,2,18,19461102
+3,2,To Each His Own,Eddy Howard,Eddy Howard,jazz,jazz,19460713,9,1,20,19461102
+4,4,Five Minutes More,Frank Sinatra,Frank Sinatra,jazz,jazz,19460803,9,1,15,19461102
+5,NEW,Ole Buttermilk Sky,Kay Kyser / Michael Douglas / Campus Kids,Kay Kyser / Michael Douglas / Campus Kids,pop,unknown,19461102,5,1,11,19461102
+6,7,Five Minutes More,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,unknown,19460824,9,6,14,19461102
+7,5,To Each His Own,Ink Spots,Ink Spots,jazz,jazz,19460824,6,1,13,19461102
+8,6,To Each His Own,Freddy Martin / Stuart Wade,Freddy Martin / Stuart Wade,pop,unknown,19460810,3,1,13,19461102
+9,NEW,Rumours Are Flying,Tony Martin,Tony Martin,rock,heavy metal,19461102,9,9,3,19461102
+10,9,Rumours Are Flying,Andrews Sisters / Les Paul,Andrews Sisters / Les Paul,pop,unknown,19461026,9,6,7,19461102
+1,1,Rumours Are Flying,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,unknown,19460914,2,1,18,19461026
+2,2,To Each His Own,Eddy Howard,Eddy Howard,jazz,jazz,19460713,9,1,20,19461026
+3,3,"South America, Take It Away",Bing Crosby / Andrews Sisters,Bing Crosby / Andrews Sisters,pop,unknown,19460727,9,2,18,19461026
+4,4,Five Minutes More,Frank Sinatra,Frank Sinatra,jazz,jazz,19460803,9,1,15,19461026
+5,5,To Each His Own,Ink Spots,Ink Spots,jazz,jazz,19460824,6,1,13,19461026
+6,6,To Each His Own,Freddy Martin / Stuart Wade,Freddy Martin / Stuart Wade,pop,unknown,19460810,3,1,13,19461026
+7,7,Five Minutes More,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,unknown,19460824,9,6,14,19461026
+8,8,To Each His Own,Tony Martin,Tony Martin,rock,heavy metal,19460810,8,4,12,19461026
+9,NEW,Rumours Are Flying,Andrews Sisters / Les Paul,Andrews Sisters / Les Paul,pop,unknown,19461026,9,6,7,19461026
+10,NEW,The Coffee Song,Frank Sinatra,Frank Sinatra,jazz,jazz,19461026,10,10,1,19461026
+1,2,Rumours Are Flying,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,unknown,19460914,2,1,18,19461019
+2,1,To Each His Own,Eddy Howard,Eddy Howard,jazz,jazz,19460713,9,1,20,19461019
+3,4,"South America, Take It Away",Bing Crosby / Andrews Sisters,Bing Crosby / Andrews Sisters,pop,unknown,19460727,9,2,18,19461019
+4,3,Five Minutes More,Frank Sinatra,Frank Sinatra,jazz,jazz,19460803,9,1,15,19461019
+5,5,To Each His Own,Ink Spots,Ink Spots,jazz,jazz,19460824,6,1,13,19461019
+6,6,To Each His Own,Freddy Martin / Stuart Wade,Freddy Martin / Stuart Wade,pop,unknown,19460810,3,1,13,19461019
+7,7,Five Minutes More,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,unknown,19460824,9,6,14,19461019
+8,9,To Each His Own,Tony Martin,Tony Martin,rock,heavy metal,19460810,8,4,12,19461019
+9,NEW,To Each His Own,Modernaires / Paula Kelly,Modernaires / Paula Kelly,pop,unknown,19461019,9,9,1,19461019
+10,NEW,Surrender,Perry Como,Perry Como,jazz,jazz,19461019,10,10,1,19461019
+1,1,To Each His Own,Eddy Howard,Eddy Howard,jazz,jazz,19460713,9,1,20,19461012
+2,4,Rumours Are Flying,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,unknown,19460914,2,1,18,19461012
+3,2,Five Minutes More,Frank Sinatra,Frank Sinatra,jazz,jazz,19460803,9,1,15,19461012
+4,3,"South America, Take It Away",Bing Crosby / Andrews Sisters,Bing Crosby / Andrews Sisters,pop,unknown,19460727,9,2,18,19461012
+5,7,To Each His Own,Ink Spots,Ink Spots,jazz,jazz,19460824,6,1,13,19461012
+6,5,To Each His Own,Freddy Martin / Stuart Wade,Freddy Martin / Stuart Wade,pop,unknown,19460810,3,1,13,19461012
+7,6,Five Minutes More,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,unknown,19460824,9,6,14,19461012
+8,NEW,Choo Choo Ch' Boogie,Louis Jordan,Louis Jordan,jazz,jazz,19461012,8,8,1,19461012
+9,9,To Each His Own,Tony Martin,Tony Martin,rock,heavy metal,19460810,8,4,12,19461012
+10,NEW,Pretending,Andy Russell,Andy Russell,pop,spanish,19461012,10,10,1,19461012
+1,3,To Each His Own,Eddy Howard,Eddy Howard,jazz,jazz,19460713,9,1,20,19461005
+2,1,Five Minutes More,Frank Sinatra,Frank Sinatra,jazz,jazz,19460803,9,1,15,19461005
+3,4,"South America, Take It Away",Bing Crosby / Andrews Sisters,Bing Crosby / Andrews Sisters,pop,unknown,19460727,9,2,18,19461005
+4,7,Rumours Are Flying,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,unknown,19460914,2,1,18,19461005
+5,5,To Each His Own,Freddy Martin / Stuart Wade,Freddy Martin / Stuart Wade,pop,unknown,19460810,3,1,13,19461005
+6,9,Five Minutes More,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,unknown,19460824,9,6,14,19461005
+7,2,To Each His Own,Ink Spots,Ink Spots,jazz,jazz,19460824,6,1,13,19461005
+8,6,Surrender,Perry Como,Perry Como,jazz,jazz,19460921,10,6,3,19461005
+9,8,To Each His Own,Tony Martin,Tony Martin,rock,heavy metal,19460810,8,4,12,19461005
+10,NEW,"South America, Take It Away",Xavier Cugat / Buddy Clark,Xavier Cugat / Buddy Clark,pop,unknown,19461005,10,10,1,19461005
+1,4,Five Minutes More,Frank Sinatra,Frank Sinatra,jazz,jazz,19460803,9,1,15,19460928
+2,5,To Each His Own,Ink Spots,Ink Spots,jazz,jazz,19460824,6,1,13,19460928
+3,2,To Each His Own,Eddy Howard,Eddy Howard,jazz,jazz,19460713,9,1,20,19460928
+4,3,"South America, Take It Away",Bing Crosby / Andrews Sisters,Bing Crosby / Andrews Sisters,pop,unknown,19460727,9,2,18,19460928
+5,6,To Each His Own,Freddy Martin / Stuart Wade,Freddy Martin / Stuart Wade,pop,unknown,19460810,3,1,13,19460928
+6,10,Surrender,Perry Como,Perry Como,jazz,jazz,19460921,10,6,3,19460928
+7,1,Rumours Are Flying,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,unknown,19460914,2,1,18,19460928
+8,8,To Each His Own,Tony Martin,Tony Martin,rock,heavy metal,19460810,8,4,12,19460928
+9,7,Five Minutes More,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,unknown,19460824,9,6,14,19460928
+10,NEW,Choo Choo Ch' Boogie,Louis Jordan,Louis Jordan,jazz,jazz,19460928,10,10,1,19460928
+1,2,Rumours Are Flying,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,unknown,19460914,2,1,18,19460921
+2,1,To Each His Own,Eddy Howard,Eddy Howard,jazz,jazz,19460713,9,1,20,19460921
+3,4,"South America, Take It Away",Bing Crosby / Andrews Sisters,Bing Crosby / Andrews Sisters,pop,unknown,19460727,9,2,18,19460921
+4,3,Five Minutes More,Frank Sinatra,Frank Sinatra,jazz,jazz,19460803,9,1,15,19460921
+5,5,To Each His Own,Ink Spots,Ink Spots,jazz,jazz,19460824,6,1,13,19460921
+6,6,To Each His Own,Freddy Martin / Stuart Wade,Freddy Martin / Stuart Wade,pop,unknown,19460810,3,1,13,19460921
+7,7,Five Minutes More,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,unknown,19460824,9,6,14,19460921
+8,9,To Each His Own,Tony Martin,Tony Martin,rock,heavy metal,19460810,8,4,12,19460921
+9,NEW,To Each His Own,Modernaires / Paula Kelly,Modernaires / Paula Kelly,pop,unknown,19460921,9,9,1,19460921
+10,NEW,Surrender,Perry Como,Perry Como,jazz,jazz,19460921,10,6,3,19460921
+1,3,To Each His Own,Eddy Howard,Eddy Howard,jazz,jazz,19460713,9,1,20,19460914
+2,NEW,Rumours Are Flying,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,unknown,19460914,2,1,18,19460914
+3,2,Five Minutes More,Frank Sinatra,Frank Sinatra,jazz,jazz,19460803,9,1,15,19460914
+4,5,"South America, Take It Away",Bing Crosby / Andrews Sisters,Bing Crosby / Andrews Sisters,pop,unknown,19460727,9,2,18,19460914
+5,1,To Each His Own,Ink Spots,Ink Spots,jazz,jazz,19460824,6,1,13,19460914
+6,4,To Each His Own,Freddy Martin / Stuart Wade,Freddy Martin / Stuart Wade,pop,unknown,19460810,3,1,13,19460914
+7,7,Five Minutes More,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,unknown,19460824,9,6,14,19460914
+8,NEW,Choo Choo Ch'Boogie,Louis Jordan,Louis Jordan,jazz,jazz,19460914,8,8,1,19460914
+9,8,To Each His Own,Tony Martin,Tony Martin,rock,heavy metal,19460810,8,4,12,19460914
+10,NEW,Pretending,Andy Russell,Andy Russell,pop,spanish,19460914,10,10,1,19460914
+1,3,To Each His Own,Ink Spots,Ink Spots,jazz,jazz,19460824,6,1,13,19460907
+2,1,Five Minutes More,Frank Sinatra,Frank Sinatra,jazz,jazz,19460803,9,1,15,19460907
+3,2,To Each His Own,Eddy Howard,Eddy Howard,jazz,jazz,19460713,9,1,20,19460907
+4,4,To Each His Own,Freddy Martin / Stuart Wade,Freddy Martin / Stuart Wade,pop,unknown,19460810,3,1,13,19460907
+5,6,"South America, Take It Away",Bing Crosby / Andrews Sisters,Bing Crosby / Andrews Sisters,pop,unknown,19460727,9,2,18,19460907
+6,5,Surrender,Perry Como,Perry Como,jazz,jazz,19460629,8,1,11,19460907
+7,9,Five Minutes More,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,unknown,19460824,9,6,14,19460907
+8,7,To Each His Own,Tony Martin,Tony Martin,rock,heavy metal,19460810,8,4,12,19460907
+9,8,To Each His Own,Modernaires / Paula Kelly,Modernaires / Paula Kelly,pop,unknown,19460817,5,5,4,19460907
+10,NEW,"South America, Take It Away",Xavier Cugat / Buddy Clark,Xavier Cugat / Buddy Clark,pop,unknown,19460907,10,10,1,19460907
+1,3,Five Minutes More,Frank Sinatra,Frank Sinatra,jazz,jazz,19460803,9,1,15,19460831
+2,2,To Each His Own,Eddy Howard,Eddy Howard,jazz,jazz,19460713,9,1,20,19460831
+3,6,To Each His Own,Ink Spots,Ink Spots,jazz,jazz,19460824,6,1,13,19460831
+4,1,To Each His Own,Freddy Martin / Stuart Wade,Freddy Martin / Stuart Wade,pop,unknown,19460810,3,1,13,19460831
+5,5,Surrender,Perry Como,Perry Como,jazz,jazz,19460629,8,1,11,19460831
+6,4,"South America, Take It Away",Bing Crosby / Andrews Sisters,Bing Crosby / Andrews Sisters,pop,unknown,19460727,9,2,18,19460831
+7,7,To Each His Own,Tony Martin,Tony Martin,rock,heavy metal,19460810,8,4,12,19460831
+8,8,To Each His Own,Modernaires / Paula Kelly,Modernaires / Paula Kelly,pop,unknown,19460817,5,5,4,19460831
+9,9,Five Minutes More,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,unknown,19460824,9,6,14,19460831
+10,NEW,Choo Choo Ch' Boogie,Louis Jordan,Louis Jordan,jazz,jazz,19460831,10,10,1,19460831
+1,1,To Each His Own,Freddy Martin / Stuart Wade,Freddy Martin / Stuart Wade,pop,unknown,19460810,3,1,13,19460824
+2,2,To Each His Own,Eddy Howard,Eddy Howard,jazz,jazz,19460713,9,1,20,19460824
+3,3,Five Minutes More,Frank Sinatra,Frank Sinatra,jazz,jazz,19460803,9,1,15,19460824
+4,7,"South America, Take It Away",Bing Crosby / Andrews Sisters,Bing Crosby / Andrews Sisters,pop,unknown,19460727,9,2,18,19460824
+5,6,Surrender,Perry Como,Perry Como,jazz,jazz,19460629,8,1,11,19460824
+6,NEW,To Each His Own,Ink Spots,Ink Spots,jazz,jazz,19460824,6,1,13,19460824
+7,4,To Each His Own,Tony Martin,Tony Martin,rock,heavy metal,19460810,8,4,12,19460824
+8,5,To Each His Own,Modernaires / Paula Kelly,Modernaires / Paula Kelly,pop,unknown,19460817,5,5,4,19460824
+9,NEW,Five Minutes More,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,unknown,19460824,9,6,14,19460824
+10,8,The Gypsy,Ink Spots,Ink Spots,jazz,jazz,19460803,3,3,4,19460824
+1,3,To Each His Own,Freddy Martin / Stuart Wade,Freddy Martin / Stuart Wade,pop,unknown,19460810,3,1,13,19460817
+2,1,To Each His Own,Eddy Howard,Eddy Howard,jazz,jazz,19460713,9,1,20,19460817
+3,7,Five Minutes More,Frank Sinatra,Frank Sinatra,jazz,jazz,19460803,9,1,15,19460817
+4,8,To Each His Own,Tony Martin,Tony Martin,rock,heavy metal,19460810,8,4,12,19460817
+5,NEW,To Each His Own,Modernaires / Paula Kelly,Modernaires / Paula Kelly,pop,unknown,19460817,5,5,4,19460817
+6,2,Surrender,Perry Como,Perry Como,jazz,jazz,19460629,8,1,11,19460817
+7,5,"South America, Take It Away",Bing Crosby / Andrews Sisters,Bing Crosby / Andrews Sisters,pop,unknown,19460727,9,2,18,19460817
+8,4,The Gypsy,Ink Spots,Ink Spots,jazz,jazz,19460803,3,3,4,19460817
+9,6,Doin' What Comes Natur'lly,Dinah Shore,Dinah Shore,jazz,jazz,19460615,8,4,10,19460817
+10,NEW,Choo Choo Ch' Boogie,Louis Jordan,Louis Jordan,jazz,jazz,19460817,10,10,1,19460817
+1,1,To Each His Own,Eddy Howard,Eddy Howard,jazz,jazz,19460713,9,1,20,19460810
+2,2,Surrender,Perry Como,Perry Como,jazz,jazz,19460629,8,1,11,19460810
+3,NEW,To Each His Own,Freddy Martin / Stuart Wade,Freddy Martin / Stuart Wade,pop,unknown,19460810,3,1,13,19460810
+4,3,The Gypsy,Ink Spots,Ink Spots,jazz,jazz,19460803,3,3,4,19460810
+5,8,"South America, Take It Away",Bing Crosby / Andrews Sisters,Bing Crosby / Andrews Sisters,pop,unknown,19460727,9,2,18,19460810
+6,5,Doin' What Comes Natur'lly,Dinah Shore,Dinah Shore,jazz,jazz,19460615,8,4,10,19460810
+7,9,Five Minutes More,Frank Sinatra,Frank Sinatra,jazz,jazz,19460803,9,1,15,19460810
+8,NEW,To Each His Own,Tony Martin,Tony Martin,rock,heavy metal,19460810,8,4,12,19460810
+9,4,Doin' What Comes Naturally,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,unknown,19460629,7,4,7,19460810
+10,7,The Gypsy,Dinah Shore,Dinah Shore,jazz,jazz,19460511,8,2,14,19460810
+1,2,To Each His Own,Eddy Howard,Eddy Howard,jazz,jazz,19460713,9,1,20,19460803
+2,1,Surrender,Perry Como,Perry Como,jazz,jazz,19460629,8,1,11,19460803
+3,NEW,The Gypsy,Ink Spots,Ink Spots,jazz,jazz,19460803,3,3,4,19460803
+4,6,Doin' What Comes Naturally,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,unknown,19460629,7,4,7,19460803
+5,5,Doin' What Comes Natur'lly,Dinah Shore,Dinah Shore,jazz,jazz,19460615,8,4,10,19460803
+6,4,They Say It's Wonderful,Perry Como,Perry Como,jazz,jazz,19460720,8,4,3,19460803
+7,3,The Gypsy,Dinah Shore,Dinah Shore,jazz,jazz,19460511,8,2,14,19460803
+8,9,"South America, Take It Away",Bing Crosby / Andrews Sisters,Bing Crosby / Andrews Sisters,pop,unknown,19460727,9,2,18,19460803
+9,NEW,Five Minutes More,Frank Sinatra,Frank Sinatra,jazz,jazz,19460803,9,1,15,19460803
+10,NEW,They Say It's Wonderful,Frank Sinatra,Frank Sinatra,jazz,jazz,19460803,10,10,1,19460803
+1,2,Surrender,Perry Como,Perry Como,jazz,jazz,19460629,8,1,11,19460727
+2,7,To Each His Own,Eddy Howard,Eddy Howard,jazz,jazz,19460713,9,1,20,19460727
+3,4,The Gypsy,Dinah Shore,Dinah Shore,jazz,jazz,19460511,8,2,14,19460727
+4,8,They Say It's Wonderful,Perry Como,Perry Como,jazz,jazz,19460720,8,4,3,19460727
+5,6,Doin' What Comes Natur'lly,Dinah Shore,Dinah Shore,jazz,jazz,19460615,8,4,10,19460727
+6,5,Doin' What Comes Naturally,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,unknown,19460629,7,4,7,19460727
+7,3,Prisoner Of Love,Perry Como,Perry Como,jazz,jazz,19460330,9,1,18,19460727
+8,NEW,Hawaiian War Chant,Spike Jones,Spike Jones,pop,comedy,19460727,8,8,1,19460727
+9,NEW,"South America, Take It Away",Bing Crosby / Andrews Sisters,Bing Crosby / Andrews Sisters,pop,unknown,19460727,9,2,18,19460727
+10,9,Stone Cold Dead In The Market,Ella Fitzgerald / Louise Jordan,Ella Fitzgerald / Louise Jordan,pop,unknown,19460720,9,9,2,19460727
+1,1,The Gypsy,Ink Spots,Ink Spots,jazz,jazz,19460511,6,1,11,19460720
+2,3,Surrender,Perry Como,Perry Como,jazz,jazz,19460629,8,1,11,19460720
+3,2,Prisoner Of Love,Perry Como,Perry Como,jazz,jazz,19460330,9,1,18,19460720
+4,5,The Gypsy,Dinah Shore,Dinah Shore,jazz,jazz,19460511,8,2,14,19460720
+5,6,Doin' What Comes Naturally,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,unknown,19460629,7,4,7,19460720
+6,4,Doin' What Comes Natur'lly,Dinah Shore,Dinah Shore,jazz,jazz,19460615,8,4,10,19460720
+7,9,To Each His Own,Eddy Howard,Eddy Howard,jazz,jazz,19460713,9,1,20,19460720
+8,NEW,They Say It's Wonderful,Perry Como,Perry Como,jazz,jazz,19460720,8,4,3,19460720
+9,NEW,Stone Cold Dead In The Market,Ella Fitzgerald / Louise Jordan,Ella Fitzgerald / Louise Jordan,pop,unknown,19460720,9,9,2,19460720
+10,8,They Say It's Wonderful,Frank Sinatra,Frank Sinatra,jazz,jazz,19460622,9,8,5,19460720
+1,1,The Gypsy,Ink Spots,Ink Spots,jazz,jazz,19460511,6,1,11,19460713
+2,2,Prisoner Of Love,Perry Como,Perry Como,jazz,jazz,19460330,9,1,18,19460713
+3,6,Surrender,Perry Como,Perry Como,jazz,jazz,19460629,8,1,11,19460713
+4,7,Doin' What Comes Natur'lly,Dinah Shore,Dinah Shore,jazz,jazz,19460615,8,4,10,19460713
+5,3,The Gypsy,Dinah Shore,Dinah Shore,jazz,jazz,19460511,8,2,14,19460713
+6,9,Doin' What Comes Naturally,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,unknown,19460629,7,4,7,19460713
+7,4,The Gypsy,Sammy Kaye / Mary Marlow,Sammy Kaye / Mary Marlow,pop,unknown,19460518,10,4,9,19460713
+8,10,They Say It's Wonderful,Frank Sinatra,Frank Sinatra,jazz,jazz,19460622,9,8,5,19460713
+9,NEW,To Each His Own,Eddy Howard,Eddy Howard,jazz,jazz,19460713,9,1,20,19460713
+10,NEW,Hey! Ba-Ba-Re-Bop,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,unknown,19460713,10,10,1,19460713
+1,1,The Gypsy,Ink Spots,Ink Spots,jazz,jazz,19460511,6,1,11,19460706
+2,3,Prisoner Of Love,Perry Como,Perry Como,jazz,jazz,19460330,9,1,18,19460706
+3,2,The Gypsy,Dinah Shore,Dinah Shore,jazz,jazz,19460511,8,2,14,19460706
+4,4,The Gypsy,Sammy Kaye / Mary Marlow,Sammy Kaye / Mary Marlow,pop,unknown,19460518,10,4,9,19460706
+5,9,They Say It's Wonderful,Perry Como,Perry Como,jazz,jazz,19460615,9,4,4,19460706
+6,8,Surrender,Perry Como,Perry Como,jazz,jazz,19460629,8,1,11,19460706
+7,5,Doin' What Comes Natur'lly,Dinah Shore,Dinah Shore,jazz,jazz,19460615,8,4,10,19460706
+8,6,Laughing On The Outside,Andy Russell,Andy Russell,pop,spanish,19460511,7,4,9,19460706
+9,7,Doin' What Comes Naturally,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,unknown,19460629,7,4,7,19460706
+10,10,They Say It's Wonderful,Frank Sinatra,Frank Sinatra,jazz,jazz,19460622,9,8,5,19460706
+1,1,The Gypsy,Ink Spots,Ink Spots,jazz,jazz,19460511,6,1,11,19460629
+2,3,The Gypsy,Dinah Shore,Dinah Shore,jazz,jazz,19460511,8,2,14,19460629
+3,2,Prisoner Of Love,Perry Como,Perry Como,jazz,jazz,19460330,9,1,18,19460629
+4,5,The Gypsy,Sammy Kaye / Mary Marlow,Sammy Kaye / Mary Marlow,pop,unknown,19460518,10,4,9,19460629
+5,7,Doin' What Comes Natur'lly,Dinah Shore,Dinah Shore,jazz,jazz,19460615,8,4,10,19460629
+6,6,Laughing On The Outside,Andy Russell,Andy Russell,pop,spanish,19460511,7,4,9,19460629
+7,NEW,Doin' What Comes Naturally,Freddy Martin / Glenn Hughes,Freddy Martin / Glenn Hughes,pop,unknown,19460629,7,4,7,19460629
+8,NEW,Surrender,Perry Como,Perry Como,jazz,jazz,19460629,8,1,11,19460629
+9,4,They Say It's Wonderful,Perry Como,Perry Como,jazz,jazz,19460615,9,4,4,19460629
+10,9,They Say It's Wonderful,Frank Sinatra,Frank Sinatra,jazz,jazz,19460622,9,8,5,19460629
+1,1,The Gypsy,Ink Spots,Ink Spots,jazz,jazz,19460511,6,1,11,19460622
+2,2,Prisoner Of Love,Perry Como,Perry Como,jazz,jazz,19460330,9,1,18,19460622
+3,3,The Gypsy,Dinah Shore,Dinah Shore,jazz,jazz,19460511,8,2,14,19460622
+4,9,They Say It's Wonderful,Perry Como,Perry Como,jazz,jazz,19460615,9,4,4,19460622
+5,4,The Gypsy,Sammy Kaye / Mary Marlow,Sammy Kaye / Mary Marlow,pop,unknown,19460518,10,4,9,19460622
+6,5,Laughing On The Outside,Andy Russell,Andy Russell,pop,spanish,19460511,7,4,9,19460622
+7,8,Doin' What Comes Natur'lly,Dinah Shore,Dinah Shore,jazz,jazz,19460615,8,4,10,19460622
+8,7,I'm A Big Girl Now,Sammy Kaye / Betty Barclay,Sammy Kaye / Betty Barclay,pop,unknown,19460420,4,1,10,19460622
+9,NEW,They Say It's Wonderful,Frank Sinatra,Frank Sinatra,jazz,jazz,19460622,9,8,5,19460622
+10,NEW,Prisoner Of Love,Ink Spots,Ink Spots,jazz,jazz,19460622,10,10,1,19460622
+1,1,The Gypsy,Ink Spots,Ink Spots,jazz,jazz,19460511,6,1,11,19460615
+2,3,Prisoner Of Love,Perry Como,Perry Como,jazz,jazz,19460330,9,1,18,19460615
+3,2,The Gypsy,Dinah Shore,Dinah Shore,jazz,jazz,19460511,8,2,14,19460615
+4,6,The Gypsy,Sammy Kaye / Mary Marlow,Sammy Kaye / Mary Marlow,pop,unknown,19460518,10,4,9,19460615
+5,4,Laughing On The Outside,Andy Russell,Andy Russell,pop,spanish,19460511,7,4,9,19460615
+6,5,Laughing On The Outside,Dinah Shore,Dinah Shore,jazz,jazz,19460427,8,3,8,19460615
+7,10,I'm A Big Girl Now,Sammy Kaye / Betty Barclay,Sammy Kaye / Betty Barclay,pop,unknown,19460420,4,1,10,19460615
+8,NEW,Doin' What Comes Natur'lly,Dinah Shore,Dinah Shore,jazz,jazz,19460615,8,4,10,19460615
+9,NEW,They Say It's Wonderful,Perry Como,Perry Como,jazz,jazz,19460615,9,4,4,19460615
+10,8,Laughing On The Outside,Sammy Kaye / Billy Williams,Sammy Kaye / Billy Williams,pop,unknown,19460525,9,7,4,19460615
+1,1,The Gypsy,Ink Spots,Ink Spots,jazz,jazz,19460511,6,1,11,19460608
+2,3,The Gypsy,Dinah Shore,Dinah Shore,jazz,jazz,19460511,8,2,14,19460608
+3,2,Prisoner Of Love,Perry Como,Perry Como,jazz,jazz,19460330,9,1,18,19460608
+4,4,Laughing On The Outside,Andy Russell,Andy Russell,pop,spanish,19460511,7,4,9,19460608
+5,6,Laughing On The Outside,Dinah Shore,Dinah Shore,jazz,jazz,19460427,8,3,8,19460608
+6,8,The Gypsy,Sammy Kaye / Mary Marlow,Sammy Kaye / Mary Marlow,pop,unknown,19460518,10,4,9,19460608
+7,5,Hey! Ba-Ba-Re-Bop,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,unknown,19460601,5,5,2,19460608
+8,7,Laughing On The Outside,Sammy Kaye / Billy Williams,Sammy Kaye / Billy Williams,pop,unknown,19460525,9,7,4,19460608
+9,9,Cement Mixer,Alvino Rey / Rocky Coluccio,Alvino Rey / Rocky Coluccio,pop,unknown,19460511,10,6,5,19460608
+10,10,I'm A Big Girl Now,Sammy Kaye / Betty Barclay,Sammy Kaye / Betty Barclay,pop,unknown,19460420,4,1,10,19460608
+1,1,The Gypsy,Ink Spots,Ink Spots,jazz,jazz,19460511,6,1,11,19460601
+2,2,Prisoner Of Love,Perry Como,Perry Como,jazz,jazz,19460330,9,1,18,19460601
+3,5,The Gypsy,Dinah Shore,Dinah Shore,jazz,jazz,19460511,8,2,14,19460601
+4,8,Laughing On The Outside,Andy Russell,Andy Russell,pop,spanish,19460511,7,4,9,19460601
+5,NEW,Hey! Ba-Ba-Re-Bop,Tex Beneke / Glenn Miller Orchestra,Tex Beneke / Glenn Miller Orchestra,pop,unknown,19460601,5,5,2,19460601
+6,3,Laughing On The Outside,Dinah Shore,Dinah Shore,jazz,jazz,19460427,8,3,8,19460601
+7,9,Laughing On The Outside,Sammy Kaye / Billy Williams,Sammy Kaye / Billy Williams,pop,unknown,19460525,9,7,4,19460601
+8,7,The Gypsy,Sammy Kaye / Mary Marlow,Sammy Kaye / Mary Marlow,pop,unknown,19460518,10,4,9,19460601
+9,6,Cement Mixer,Alvino Rey / Rocky Coluccio,Alvino Rey / Rocky Coluccio,pop,unknown,19460511,10,6,5,19460601
+10,4,I'm A Big Girl Now,Sammy Kaye / Betty Barclay,Sammy Kaye / Betty Barclay,pop,unknown,19460420,4,1,10,19460601
+1,2,The Gypsy,Ink Spots,Ink Spots,jazz,jazz,19460511,6,1,11,19460525
+2,1,Prisoner Of Love,Perry Como,Perry Como,jazz,jazz,19460330,9,1,18,19460525
+3,3,Laughing On The Outside,Dinah Shore,Dinah Shore,jazz,jazz,19460427,8,3,8,19460525
+4,5,I'm A Big Girl Now,Sammy Kaye / Betty Barclay,Sammy Kaye / Betty Barclay,pop,unknown,19460420,4,1,10,19460525
+5,8,The Gypsy,Dinah Shore,Dinah Shore,jazz,jazz,19460511,8,2,14,19460525
+6,6,Cement Mixer,Alvino Rey / Rocky Coluccio,Alvino Rey / Rocky Coluccio,pop,unknown,19460511,10,6,5,19460525
+7,10,The Gypsy,Sammy Kaye / Mary Marlow,Sammy Kaye / Mary Marlow,pop,unknown,19460518,10,4,9,19460525
+8,4,Laughing On The Outside,Andy Russell,Andy Russell,pop,spanish,19460511,7,4,9,19460525
+9,NEW,Laughing On The Outside,Sammy Kaye / Billy Williams,Sammy Kaye / Billy Williams,pop,unknown,19460525,9,7,4,19460525
+10,7,Oh What It Seemed To Be,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,unknown,19460223,7,1,14,19460525
+1,1,Prisoner Of Love,Perry Como,Perry Como,jazz,jazz,19460330,9,1,18,19460518
+2,6,The Gypsy,Ink Spots,Ink Spots,jazz,jazz,19460511,6,1,11,19460518
+3,4,Laughing On The Outside,Dinah Shore,Dinah Shore,jazz,jazz,19460427,8,3,8,19460518
+4,7,Laughing On The Outside,Andy Russell,Andy Russell,pop,spanish,19460511,7,4,9,19460518
+5,2,I'm A Big Girl Now,Sammy Kaye / Betty Barclay,Sammy Kaye / Betty Barclay,pop,unknown,19460420,4,1,10,19460518
+6,10,Cement Mixer,Alvino Rey / Rocky Coluccio,Alvino Rey / Rocky Coluccio,pop,unknown,19460511,10,6,5,19460518
+7,3,Oh What It Seemed To Be,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,unknown,19460223,7,1,14,19460518
+8,8,The Gypsy,Dinah Shore,Dinah Shore,jazz,jazz,19460511,8,2,14,19460518
+9,9,Sioux City Sue,Bing Crosby / Jesters,Bing Crosby / Jesters,pop,unknown,19460427,7,6,4,19460518
+10,NEW,The Gypsy,Sammy Kaye / Mary Marlow,Sammy Kaye / Mary Marlow,pop,unknown,19460518,10,4,9,19460518
+1,1,Prisoner Of Love,Perry Como,Perry Como,jazz,jazz,19460330,9,1,18,19460511
+2,2,I'm A Big Girl Now,Sammy Kaye / Betty Barclay,Sammy Kaye / Betty Barclay,pop,unknown,19460420,4,1,10,19460511
+3,4,Oh What It Seemed To Be,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,unknown,19460223,7,1,14,19460511
+4,5,Laughing On The Outside,Dinah Shore,Dinah Shore,jazz,jazz,19460427,8,3,8,19460511
+5,3,Oh What It Seemed To Be,Frank Sinatra,Frank Sinatra,jazz,jazz,19460223,8,2,12,19460511
+6,NEW,The Gypsy,Ink Spots,Ink Spots,jazz,jazz,19460511,6,1,11,19460511
+7,NEW,Laughing On The Outside,Andy Russell,Andy Russell,pop,spanish,19460511,7,4,9,19460511
+8,NEW,The Gypsy,Dinah Shore,Dinah Shore,jazz,jazz,19460511,8,2,14,19460511
+9,6,Sioux City Sue,Bing Crosby / Jesters,Bing Crosby / Jesters,pop,unknown,19460427,7,6,4,19460511
+10,NEW,Cement Mixer,Alvino Rey / Rocky Coluccio,Alvino Rey / Rocky Coluccio,pop,unknown,19460511,10,6,5,19460511
+1,2,Prisoner Of Love,Perry Como,Perry Como,jazz,jazz,19460330,9,1,18,19460504
+2,1,I'm A Big Girl Now,Sammy Kaye / Betty Barclay,Sammy Kaye / Betty Barclay,pop,unknown,19460420,4,1,10,19460504
+3,4,Oh What It Seemed To Be,Frank Sinatra,Frank Sinatra,jazz,jazz,19460223,8,2,12,19460504
+4,3,Oh What It Seemed To Be,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,unknown,19460223,7,1,14,19460504
+5,8,Laughing On The Outside,Dinah Shore,Dinah Shore,jazz,jazz,19460427,8,3,8,19460504
+6,7,Sioux City Sue,Bing Crosby / Jesters,Bing Crosby / Jesters,pop,unknown,19460427,7,6,4,19460504
+7,NEW,Shoo Fly Pie And Apple Pan Dowdy,Dinah Shore,Dinah Shore,jazz,jazz,19460504,7,7,1,19460504
+8,NEW,Bumble Boogie,Freddy Martin / Jack Fina,Freddy Martin / Jack Fina,pop,unknown,19460504,8,8,1,19460504
+9,9,Oh What It Seemed To Be,Dick Haymes / Helen Forrest,Dick Haymes / Helen Forrest,pop,unknown,19460420,9,9,3,19460504
+10,6,One-zy Two-zy,Freddy Martin / Martin Men,Freddy Martin / Martin Men,pop,unknown,19460112,9,1,17,19460504
+1,4,I'm A Big Girl Now,Sammy Kaye / Betty Barclay,Sammy Kaye / Betty Barclay,pop,unknown,19460420,4,1,10,19460427
+2,3,Prisoner Of Love,Perry Como,Perry Como,jazz,jazz,19460330,9,1,18,19460427
+3,1,Oh What It Seemed To Be,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,unknown,19460223,7,1,14,19460427
+4,2,Oh What It Seemed To Be,Frank Sinatra,Frank Sinatra,jazz,jazz,19460223,8,2,12,19460427
+5,6,Oh What It Seemed To Be,Charlie Spivak / Jimmy Saunders,Charlie Spivak / Jimmy Saunders,pop,unknown,19460406,7,5,4,19460427
+6,8,One-zy Two-zy,Freddy Martin / Martin Men,Freddy Martin / Martin Men,pop,unknown,19460112,9,1,17,19460427
+7,NEW,Sioux City Sue,Bing Crosby / Jesters,Bing Crosby / Jesters,pop,unknown,19460427,7,6,4,19460427
+8,NEW,Laughing On The Outside,Dinah Shore,Dinah Shore,jazz,jazz,19460427,8,3,8,19460427
+9,9,Oh What It Seemed To Be,Dick Haymes / Helen Forrest,Dick Haymes / Helen Forrest,pop,unknown,19460420,9,9,3,19460427
+10,5,Personality,Johnny Mercer / Pied Pipers,Johnny Mercer / Pied Pipers,pop,unknown,19460309,1,1,8,19460427
+1,1,Oh What It Seemed To Be,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,unknown,19460223,7,1,14,19460420
+2,2,Oh What It Seemed To Be,Frank Sinatra,Frank Sinatra,jazz,jazz,19460223,8,2,12,19460420
+3,4,Prisoner Of Love,Perry Como,Perry Como,jazz,jazz,19460330,9,1,18,19460420
+4,NEW,I'm A Big Girl Now,Sammy Kaye / Betty Barclay,Sammy Kaye / Betty Barclay,pop,unknown,19460420,4,1,10,19460420
+5,3,Personality,Johnny Mercer / Pied Pipers,Johnny Mercer / Pied Pipers,pop,unknown,19460309,1,1,8,19460420
+6,5,Oh What It Seemed To Be,Charlie Spivak / Jimmy Saunders,Charlie Spivak / Jimmy Saunders,pop,unknown,19460406,7,5,4,19460420
+7,NEW,One-zy Two-zy,Phil Harris,Phil Harris,pop,disney,19460420,7,7,1,19460420
+8,7,One-zy Two-zy,Freddy Martin / Martin Men,Freddy Martin / Martin Men,pop,unknown,19460112,9,1,17,19460420
+9,NEW,Oh What It Seemed To Be,Dick Haymes / Helen Forrest,Dick Haymes / Helen Forrest,pop,unknown,19460420,9,9,3,19460420
+10,10,Hey! Ba-Ba-Re-Bop,Lionel Hampton,Lionel Hampton,jazz,jazz,19460413,10,10,2,19460420
+1,1,Oh What It Seemed To Be,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,unknown,19460223,7,1,14,19460413
+2,2,Oh What It Seemed To Be,Frank Sinatra,Frank Sinatra,jazz,jazz,19460223,8,2,12,19460413
+3,3,Personality,Johnny Mercer / Pied Pipers,Johnny Mercer / Pied Pipers,pop,unknown,19460309,1,1,8,19460413
+4,6,Prisoner Of Love,Perry Como,Perry Como,jazz,jazz,19460330,9,1,18,19460413
+5,7,Oh What It Seemed To Be,Charlie Spivak / Jimmy Saunders,Charlie Spivak / Jimmy Saunders,pop,unknown,19460406,7,5,4,19460413
+6,10,You Won't Be Satisfied,Les Brown / Doris Day,Les Brown / Doris Day,pop,unknown,19460223,10,5,8,19460413
+7,5,Doctor Lawyer Indian Chief,Betty Hutton,Betty Hutton,jazz,jazz,19460112,9,1,17,19460413
+8,NEW,Shoo Fly Pie And Apple Pan Dowdy,Dinah Shore,Dinah Shore,jazz,jazz,19460413,8,8,1,19460413
+9,NEW,Sioux City Sue,Bing Crosby / Jesters,Bing Crosby / Jesters,pop,unknown,19460413,9,9,1,19460413
+10,NEW,Hey! Ba-Ba-Re-Bop,Lionel Hampton,Lionel Hampton,jazz,jazz,19460413,10,10,2,19460413
+1,1,Oh What It Seemed To Be,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,unknown,19460223,7,1,14,19460406
+2,2,Oh What It Seemed To Be,Frank Sinatra,Frank Sinatra,jazz,jazz,19460223,8,2,12,19460406
+3,3,Personality,Johnny Mercer / Pied Pipers,Johnny Mercer / Pied Pipers,pop,unknown,19460309,1,1,8,19460406
+4,7,Oh What It Seemed To Be,Dick Haymes / Helen Forrest,Dick Haymes / Helen Forrest,pop,unknown,19460316,7,4,4,19460406
+5,4,Doctor Lawyer Indian Chief,Betty Hutton,Betty Hutton,jazz,jazz,19460112,9,1,17,19460406
+6,9,Prisoner Of Love,Perry Como,Perry Como,jazz,jazz,19460330,9,1,18,19460406
+7,NEW,Oh What It Seemed To Be,Charlie Spivak / Jimmy Saunders,Charlie Spivak / Jimmy Saunders,pop,unknown,19460406,7,5,4,19460406
+8,8,One-Zy Two-Zy,Freddy Martin / Martin Men,Freddy Martin / Martin Men,pop,unknown,19460330,8,8,2,19460406
+9,6,Doctor Lawyer Indian Chief,Les Brown / Butch Stone,Les Brown / Butch Stone,pop,unknown,19460316,10,6,4,19460406
+10,5,You Won't Be Satisfied,Les Brown / Doris Day,Les Brown / Doris Day,pop,unknown,19460223,10,5,8,19460406
+1,1,Oh What It Seemed To Be,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,unknown,19460223,7,1,14,19460330
+2,2,Oh What It Seemed To Be,Frank Sinatra,Frank Sinatra,jazz,jazz,19460223,8,2,12,19460330
+3,3,Personality,Johnny Mercer / Pied Pipers,Johnny Mercer / Pied Pipers,pop,unknown,19460309,1,1,8,19460330
+4,4,Doctor Lawyer Indian Chief,Betty Hutton,Betty Hutton,jazz,jazz,19460112,9,1,17,19460330
+5,5,You Won't Be Satisfied,Les Brown / Doris Day,Les Brown / Doris Day,pop,unknown,19460223,10,5,8,19460330
+6,10,Doctor Lawyer Indian Chief,Les Brown / Butch Stone,Les Brown / Butch Stone,pop,unknown,19460316,10,6,4,19460330
+7,6,Oh What It Seemed To Be,Dick Haymes / Helen Forrest,Dick Haymes / Helen Forrest,pop,unknown,19460316,7,4,4,19460330
+8,NEW,One-Zy Two-Zy,Freddy Martin / Martin Men,Freddy Martin / Martin Men,pop,unknown,19460330,8,8,2,19460330
+9,NEW,Prisoner Of Love,Perry Como,Perry Como,jazz,jazz,19460330,9,1,18,19460330
+10,9,Shoo Fly Pie And Apple Pan Dowdy,Stan Kenton / June Christy,Stan Kenton / June Christy,pop,unknown,19460323,9,9,2,19460330
+1,1,Oh What It Seemed To Be,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,unknown,19460223,7,1,14,19460323
+2,3,Oh What It Seemed To Be,Frank Sinatra,Frank Sinatra,jazz,jazz,19460223,8,2,12,19460323
+3,2,Personality,Johnny Mercer / Pied Pipers,Johnny Mercer / Pied Pipers,pop,unknown,19460309,1,1,8,19460323
+4,4,Doctor Lawyer Indian Chief,Betty Hutton,Betty Hutton,jazz,jazz,19460112,9,1,17,19460323
+5,5,You Won't Be Satisfied,Les Brown / Doris Day,Les Brown / Doris Day,pop,unknown,19460223,10,5,8,19460323
+6,7,Oh What It Seemed To Be,Dick Haymes / Helen Forrest,Dick Haymes / Helen Forrest,pop,unknown,19460316,7,4,4,19460323
+7,NEW,Oh What It Seemed To Be,Charlie Spivak / Jimmy Saunders,Charlie Spivak / Jimmy Saunders,pop,unknown,19460323,7,7,1,19460323
+8,6,Let It Snow! Let It Snow! Let It Snow!,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,swing,19451229,6,1,13,19460323
+9,NEW,Shoo Fly Pie And Apple Pan Dowdy,Stan Kenton / June Christy,Stan Kenton / June Christy,pop,unknown,19460323,9,9,2,19460323
+10,10,Doctor Lawyer Indian Chief,Les Brown / Butch Stone,Les Brown / Butch Stone,pop,unknown,19460316,10,6,4,19460323
+1,4,Oh What It Seemed To Be,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,unknown,19460223,7,1,14,19460316
+2,1,Personality,Johnny Mercer / Pied Pipers,Johnny Mercer / Pied Pipers,pop,unknown,19460309,1,1,8,19460316
+3,2,Oh What It Seemed To Be,Frank Sinatra,Frank Sinatra,jazz,jazz,19460223,8,2,12,19460316
+4,3,Doctor Lawyer Indian Chief,Betty Hutton,Betty Hutton,jazz,jazz,19460112,9,1,17,19460316
+5,6,You Won't Be Satisfied,Les Brown / Doris Day,Les Brown / Doris Day,pop,unknown,19460223,10,5,8,19460316
+6,5,Let It Snow! Let It Snow! Let It Snow!,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,swing,19451229,6,1,13,19460316
+7,NEW,Oh What It Seemed To Be,Dick Haymes / Helen Forrest,Dick Haymes / Helen Forrest,pop,unknown,19460316,7,4,4,19460316
+8,NEW,Symphony,Bing Crosby,Bing Crosby,jazz,jazz,19460316,8,8,1,19460316
+9,8,I Can't Begin To Tell You,Bing Crosby / Carmen Cavallaro,Bing Crosby / Carmen Cavallaro,pop,unknown,19460112,2,1,10,19460316
+10,NEW,Doctor Lawyer Indian Chief,Les Brown / Butch Stone,Les Brown / Butch Stone,pop,unknown,19460316,10,6,4,19460316
+1,NEW,Personality,Johnny Mercer / Pied Pipers,Johnny Mercer / Pied Pipers,pop,unknown,19460309,1,1,8,19460309
+2,3,Oh What It Seemed To Be,Frank Sinatra,Frank Sinatra,jazz,jazz,19460223,8,2,12,19460309
+3,1,Doctor Lawyer Indian Chief,Betty Hutton,Betty Hutton,jazz,jazz,19460112,9,1,17,19460309
+4,4,Oh What It Seemed To Be,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,unknown,19460223,7,1,14,19460309
+5,2,Let It Snow! Let It Snow! Let It Snow!,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,swing,19451229,6,1,13,19460309
+6,5,You Won't Be Satisfied,Les Brown / Doris Day,Les Brown / Doris Day,pop,unknown,19460223,10,5,8,19460309
+7,NEW,Symphony,Benny Goodman / Liza Morrow,Benny Goodman / Liza Morrow,pop,unknown,19460309,7,7,1,19460309
+8,9,I Can't Begin To Tell You,Bing Crosby / Carmen Cavallaro,Bing Crosby / Carmen Cavallaro,pop,unknown,19460112,2,1,10,19460309
+9,6,Symphony,Freddy Martin & His Orchestra / Clyde Rogers,Freddy Martin,jazz,jazz,19451208,5,1,14,19460309
+10,NEW,Day By Day,Frank Sinatra,Frank Sinatra,jazz,jazz,19460309,10,10,1,19460309
+1,3,Doctor Lawyer Indian Chief,Betty Hutton,Betty Hutton,jazz,jazz,19460112,9,1,17,19460302
+2,1,Let It Snow! Let It Snow! Let It Snow!,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,swing,19451229,6,1,13,19460302
+3,8,Oh What It Seemed To Be,Frank Sinatra,Frank Sinatra,jazz,jazz,19460223,8,2,12,19460302
+4,7,Oh What It Seemed To Be,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,unknown,19460223,7,1,14,19460302
+5,10,You Won't Be Satisfied,Les Brown / Doris Day,Les Brown / Doris Day,pop,unknown,19460223,10,5,8,19460302
+6,6,Symphony,Freddy Martin & His Orchestra / Clyde Rogers,Freddy Martin,jazz,jazz,19451208,5,1,14,19460302
+7,NEW,Dig You Later (A-Hubba Hubba Hubba),Perry Como,Perry Como,jazz,jazz,19460302,7,7,1,19460302
+8,NEW,"Let It Snow, Let It Snow, Let It Snow",Woody Herman,Woody Herman,jazz,jazz,19460302,8,8,1,19460302
+9,4,I Can't Begin To Tell You,Bing Crosby / Carmen Cavallaro,Bing Crosby / Carmen Cavallaro,pop,unknown,19460112,2,1,10,19460302
+10,NEW,I'm Always Chasing Rainbows,Perry Como,Perry Como,jazz,jazz,19460302,10,10,1,19460302
+1,1,Let It Snow! Let It Snow! Let It Snow!,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,swing,19451229,6,1,13,19460223
+2,3,Personality,Johnny Mercer / Pied Pipers,Johnny Mercer / Pied Pipers,pop,unknown,19460126,9,2,5,19460223
+3,5,Doctor Lawyer Indian Chief,Betty Hutton,Betty Hutton,jazz,jazz,19460112,9,1,17,19460223
+4,6,I Can't Begin To Tell You,Bing Crosby / Carmen Cavallaro,Bing Crosby / Carmen Cavallaro,pop,unknown,19460112,2,1,10,19460223
+5,4,Symphony,Bing Crosby,Bing Crosby,jazz,jazz,19460126,4,3,5,19460223
+6,2,Symphony,Freddy Martin & His Orchestra / Clyde Rogers,Freddy Martin,jazz,jazz,19451208,5,1,14,19460223
+7,NEW,Oh What It Seemed To Be,Frankie Carle / Marjorie Hughes,Frankie Carle / Marjorie Hughes,pop,unknown,19460223,7,1,14,19460223
+8,NEW,Oh What It Seemed To Be,Frank Sinatra,Frank Sinatra,jazz,jazz,19460223,8,2,12,19460223
+9,NEW,I Can't Begin To Tell You,Harry James / Ruth Haag,Harry James / Ruth Haag,pop,unknown,19460223,9,9,1,19460223
+10,NEW,You Won't Be Satisfied,Les Brown / Doris Day,Les Brown / Doris Day,pop,unknown,19460223,10,5,8,19460223
+1,1,Let It Snow! Let It Snow! Let It Snow!,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,swing,19451229,6,1,13,19460216
+2,4,Symphony,Freddy Martin & His Orchestra / Clyde Rogers,Freddy Martin,jazz,jazz,19451208,5,1,14,19460216
+3,2,Personality,Johnny Mercer / Pied Pipers,Johnny Mercer / Pied Pipers,pop,unknown,19460126,9,2,5,19460216
+4,3,Symphony,Bing Crosby,Bing Crosby,jazz,jazz,19460126,4,3,5,19460216
+5,6,Doctor Lawyer Indian Chief,Betty Hutton,Betty Hutton,jazz,jazz,19460112,9,1,17,19460216
+6,5,I Can't Begin To Tell You,Bing Crosby / Carmen Cavallaro,Bing Crosby / Carmen Cavallaro,pop,unknown,19460112,2,1,10,19460216
+7,NEW,Symphony,Benny Goodman / Liza Morrow,Benny Goodman / Liza Morrow,pop,unknown,19460216,7,7,1,19460216
+8,7,I'm Always Chasing Rainbows,Perry Como,Perry Como,jazz,jazz,19460202,8,7,3,19460216
+9,8,Symphony,Jo Stafford,Jo Stafford,jazz,jazz,19460112,10,4,6,19460216
+10,9,Dig You Later (Hubba Hubba Hubba),Perry Como,Perry Como,jazz,jazz,19460202,10,9,3,19460216
+1,1,Let It Snow! Let It Snow! Let It Snow!,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,swing,19451229,6,1,13,19460209
+2,5,Personality,Johnny Mercer / Pied Pipers,Johnny Mercer / Pied Pipers,pop,unknown,19460126,9,2,5,19460209
+3,4,Symphony,Bing Crosby,Bing Crosby,jazz,jazz,19460126,4,3,5,19460209
+4,2,Symphony,Freddy Martin & His Orchestra / Clyde Rogers,Freddy Martin,jazz,jazz,19451208,5,1,14,19460209
+5,3,I Can't Begin To Tell You,Bing Crosby / Carmen Cavallaro,Bing Crosby / Carmen Cavallaro,pop,unknown,19460112,2,1,10,19460209
+6,6,Doctor Lawyer Indian Chief,Betty Hutton,Betty Hutton,jazz,jazz,19460112,9,1,17,19460209
+7,8,I'm Always Chasing Rainbows,Perry Como,Perry Como,jazz,jazz,19460202,8,7,3,19460209
+8,7,Symphony,Jo Stafford,Jo Stafford,jazz,jazz,19460112,10,4,6,19460209
+9,10,Dig You Later (Hubba Hubba Hubba),Perry Como,Perry Como,jazz,jazz,19460202,10,9,3,19460209
+10,NEW,I'm Always Chasing Rainbows,Dick Haymes / Helen Forrest,Dick Haymes / Helen Forrest,pop,unknown,19460209,10,10,1,19460209
+1,1,Let It Snow! Let It Snow! Let It Snow!,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,swing,19451229,6,1,13,19460202
+2,2,Symphony,Freddy Martin & His Orchestra / Clyde Rogers,Freddy Martin,jazz,jazz,19451208,5,1,14,19460202
+3,3,I Can't Begin To Tell You,Bing Crosby / Carmen Cavallaro,Bing Crosby / Carmen Cavallaro,pop,unknown,19460112,2,1,10,19460202
+4,4,Symphony,Bing Crosby,Bing Crosby,jazz,jazz,19460126,4,3,5,19460202
+5,9,Personality,Johnny Mercer / Pied Pipers,Johnny Mercer / Pied Pipers,pop,unknown,19460126,9,2,5,19460202
+6,5,Doctor Lawyer Indian Chief,Betty Hutton,Betty Hutton,jazz,jazz,19460112,9,1,17,19460202
+7,6,Symphony,Jo Stafford,Jo Stafford,jazz,jazz,19460112,10,4,6,19460202
+8,NEW,I'm Always Chasing Rainbows,Perry Como,Perry Como,jazz,jazz,19460202,8,7,3,19460202
+9,NEW,It Might As Well Be Spring,Dick Haymes,Dick Haymes,jazz,jazz,19460202,9,9,1,19460202
+10,NEW,Dig You Later (Hubba Hubba Hubba),Perry Como,Perry Como,jazz,jazz,19460202,10,9,3,19460202
+1,3,Let It Snow! Let It Snow! Let It Snow!,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,swing,19451229,6,1,13,19460126
+2,2,Symphony,Freddy Martin & His Orchestra / Clyde Rogers,Freddy Martin,jazz,jazz,19451208,5,1,14,19460126
+3,1,I Can't Begin To Tell You,Bing Crosby / Carmen Cavallaro,Bing Crosby / Carmen Cavallaro,pop,unknown,19460112,2,1,10,19460126
+4,NEW,Symphony,Bing Crosby,Bing Crosby,jazz,jazz,19460126,4,3,5,19460126
+5,6,Doctor Lawyer Indian Chief,Betty Hutton,Betty Hutton,jazz,jazz,19460112,9,1,17,19460126
+6,4,Symphony,Jo Stafford,Jo Stafford,jazz,jazz,19460112,10,4,6,19460126
+7,7,Symphony,Benny Goodman / Liza Morrow,Benny Goodman / Liza Morrow,pop,unknown,19460119,7,7,2,19460126
+8,5,Dig You Later (A-Hubba Hubba Hubba),Perry Como & The Satisfiers / Russ Case & His Orchestra,Perry Como,jazz,jazz,19451201,9,3,9,19460126
+9,NEW,Personality,Johnny Mercer / Pied Pipers,Johnny Mercer / Pied Pipers,pop,unknown,19460126,9,2,5,19460126
+10,NEW,I Can't Begin To Tell You,Harry James / Ruth Haag,Harry James / Ruth Haag,pop,unknown,19460126,10,10,1,19460126
+1,2,I Can't Begin To Tell You,Bing Crosby / Carmen Cavallaro,Bing Crosby / Carmen Cavallaro,pop,unknown,19460112,2,1,10,19460119
+2,1,Symphony,Freddy Martin & His Orchestra / Clyde Rogers,Freddy Martin,jazz,jazz,19451208,5,1,14,19460119
+3,6,Let It Snow! Let It Snow! Let It Snow!,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,swing,19451229,6,1,13,19460119
+4,10,Symphony,Jo Stafford,Jo Stafford,jazz,jazz,19460112,10,4,6,19460119
+5,4,Dig You Later (A-Hubba Hubba Hubba),Perry Como & The Satisfiers / Russ Case & His Orchestra,Perry Como,jazz,jazz,19451201,9,3,9,19460119
+6,9,Doctor Lawyer Indian Chief,Betty Hutton,Betty Hutton,jazz,jazz,19460112,9,1,17,19460119
+7,NEW,Symphony,Benny Goodman / Liza Morrow,Benny Goodman / Liza Morrow,pop,unknown,19460119,7,7,2,19460119
+8,3,Chickery Chick,"Sammy Kaye & His Orchestra / Billy Williams, Nancy Norman",Sammy Kaye,jazz,swing,19451020,10,1,14,19460119
+9,NEW,It Might As Well Be Spring,Dick Haymes,Dick Haymes,jazz,jazz,19460119,9,9,1,19460119
+10,5,"It's Been A Long, Long Time",Harry James & His Music Makers / Kitty Kallen,Harry James,jazz,jazz,19451013,10,1,15,19460119
+1,1,Symphony,Freddy Martin & His Orchestra / Clyde Rogers,Freddy Martin,jazz,jazz,19451208,5,1,14,19460112
+2,NEW,I Can't Begin To Tell You,Bing Crosby / Carmen Cavallaro,Bing Crosby / Carmen Cavallaro,pop,unknown,19460112,2,1,10,19460112
+3,2,Chickery Chick,"Sammy Kaye & His Orchestra / Billy Williams, Nancy Norman",Sammy Kaye,jazz,swing,19451020,10,1,14,19460112
+4,3,Dig You Later (A-Hubba Hubba Hubba),Perry Como & The Satisfiers / Russ Case & His Orchestra,Perry Como,jazz,jazz,19451201,9,3,9,19460112
+5,4,"It's Been A Long, Long Time",Harry James & His Music Makers / Kitty Kallen,Harry James,jazz,jazz,19451013,10,1,15,19460112
+6,5,Let It Snow! Let It Snow! Let It Snow!,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,swing,19451229,6,1,13,19460112
+7,NEW,It's Been A Long Long Time,Bing Crosby / Les Paul,Bing Crosby / Les Paul,pop,unknown,19460112,7,7,1,19460112
+8,NEW,Symphony,Bing Crosby,Bing Crosby,jazz,jazz,19460112,8,8,1,19460112
+9,NEW,Doctor Lawyer Indian Chief,Betty Hutton,Betty Hutton,jazz,jazz,19460112,9,1,17,19460112
+10,NEW,Symphony,Jo Stafford,Jo Stafford,jazz,jazz,19460112,10,4,6,19460112
+1,1,Symphony,Freddy Martin & His Orchestra / Clyde Rogers,Freddy Martin,jazz,jazz,19451208,5,1,14,19460105
+2,2,Chickery Chick,"Sammy Kaye & His Orchestra / Billy Williams, Nancy Norman",Sammy Kaye,jazz,swing,19451020,10,1,14,19460105
+3,3,Dig You Later (A-Hubba Hubba Hubba),Perry Como & The Satisfiers / Russ Case & His Orchestra,Perry Como,jazz,jazz,19451201,9,3,9,19460105
+4,5,"It's Been A Long, Long Time",Harry James & His Music Makers / Kitty Kallen,Harry James,jazz,jazz,19451013,10,1,15,19460105
+5,6,Let It Snow! Let It Snow! Let It Snow!,Vaughn Monroe & His Orchestra / The Norton Sisters,Vaughn Monroe,jazz,swing,19451229,6,1,13,19460105
+6,7,"It's Been A Long, Long Time",Charlie Spivak & His Orchestra / Irene Daye,Charlie Spivak,jazz,jazz,19451222,9,6,3,19460105
+7,8,It Might As Well Be Spring,Dick Haymes / Victor Young & His Orchestra,Dick Haymes / Victor Young,pop,unknown,19451215,9,6,4,19460105
+8,NEW,I Can't Begin To Tell You,Andy Russell,Andy Russell,pop,spanish,19460105,8,8,1,19460105
+9,NEW,White Christmas,Bing Crosby,Bing Crosby,jazz,jazz,19460105,9,9,1,19460105
+10,NEW,Chickery Chick,Evelyn Knight,Evelyn Knight,jazz,jazz,19460105,10,10,1,19460105

@@ -1,543 +1,543 @@
-this_week_position,last_week_position,track,artist,clean_artist,genre,entry_date,entry_position,peak_position,total_weeks,chart_date
-1,1,Don't Fence Me In,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,19441118,9,1,19,19441230
-2,2,I'm Making Believe,The Ink Spots & Ella Fitzgerald,The Ink Spots & Ella Fitzgerald,jazz,19441118,4,1,10,19441230
-3,3,The Trolley Song,The Pied Pipers & Jo Stafford / Paul Weston & His Orchestra,The Pied Pipers,pop,19441104,3,2,11,19441230
-4,NEW,The Trolley Song,Vaughn Monroe & His Orchestra / Marilyn Duke,Vaughn Monroe,jazz,19441230,4,4,4,19441230
-5,NEW,There Goes That Song Again,Russ Morgan & His Orchestra,Russ Morgan & His Orchestra,pop,19441230,5,5,2,19441230
-6,NEW,I Dream Of You (More Than You Dream I Do),Tommy Dorsey & His Orchestra / Freddie Stewart,Tommy Dorsey,jazz,19441230,6,6,4,19441230
-7,6,White Christmas,Bing Crosby & The Ken Darby Singers / John Scott Trotter,Bing Crosby,jazz,19441223,6,6,3,19441230
-8,4,The Trolley Song,Judy Garland,Judy Garland,jazz,19441223,4,4,4,19441230
-9,7,White Christmas,Frank Sinatra & The Bobby Tucker Singers / Axel Stordahl,Frank Sinatra,jazz,19441223,7,7,3,19441230
-10,NEW,Together,Dick Haymes & Helen Forrest / Victor Young & His Orchestra,Dick Haymes,jazz,19441230,10,10,2,19441230
-1,1,Don't Fence Me In,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,19441118,9,1,19,19441223
-2,2,I'm Making Believe,The Ink Spots & Ella Fitzgerald,The Ink Spots & Ella Fitzgerald,jazz,19441118,4,1,10,19441223
-3,3,The Trolley Song,The Pied Pipers & Jo Stafford / Paul Weston & His Orchestra,The Pied Pipers,pop,19441104,3,2,11,19441223
-4,NEW,The Trolley Song,Judy Garland,Judy Garland,jazz,19441223,4,4,4,19441223
-5,NEW,I Dream Of You (More Than You Dream I Do),Andy Russell,Andy Russell,pop,19441223,5,5,1,19441223
-6,NEW,White Christmas,Bing Crosby & The Ken Darby Singers / John Scott Trotter,Bing Crosby,jazz,19441223,6,6,3,19441223
-7,NEW,White Christmas,Frank Sinatra & The Bobby Tucker Singers / Axel Stordahl,Frank Sinatra,jazz,19441223,7,7,3,19441223
-8,10,Too-Ra-Loo-Ra-Loo-Ral,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19441216,10,8,2,19441223
-9,9,I'll Walk Alone,Martha Tilton,Martha Tilton,pop,19441014,5,5,11,19441223
-10,4,And Her Tears Flowes Like Wine,Stan Kenton & His Orchestra / Anita O'Day & Band Ensemble,Stan Kenton,jazz,19441028,8,4,9,19441223
-1,3,Don't Fence Me In,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,19441118,9,1,19,19441216
-2,1,I'm Making Believe,The Ink Spots & Ella Fitzgerald,The Ink Spots & Ella Fitzgerald,jazz,19441118,4,1,10,19441216
-3,2,The Trolley Song,The Pied Pipers & Jo Stafford / Paul Weston & His Orchestra,The Pied Pipers,pop,19441104,3,2,11,19441216
-4,6,And Her Tears Flowes Like Wine,Stan Kenton & His Orchestra / Anita O'Day & Band Ensemble,Stan Kenton,jazz,19441028,8,4,9,19441216
-5,9,You Always Hurt The One You Love,Mills Brothers,Mills Brothers,jazz,19440812,10,1,19,19441216
-6,5,Into Each Life Some Rain Must Fall,The Ink Spots & Ella Fitzgerald,The Ink Spots & Ella Fitzgerald,jazz,19441209,5,5,2,19441216
-7,4,Dance With A Dolly (With A Hole In Her Stocking),Russ Morgan & His Orchestra / Al Jennings,Russ Morgan,pop,19441104,10,3,7,19441216
-8,NEW,The Trolley Song,Vaughn Monroe & His Orchestra / Marilyn Duke,Vaughn Monroe,jazz,19441216,8,8,1,19441216
-9,10,I'll Walk Alone,Martha Tilton,Martha Tilton,pop,19441014,5,5,11,19441216
-10,NEW,Too-Ra-Loo-Ra-Loo-Ral,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19441216,10,8,2,19441216
-1,1,I'm Making Believe,The Ink Spots & Ella Fitzgerald,The Ink Spots & Ella Fitzgerald,jazz,19441118,4,1,10,19441209
-2,4,The Trolley Song,The Pied Pipers & Jo Stafford / Paul Weston & His Orchestra,The Pied Pipers,pop,19441104,3,2,11,19441209
-3,7,Don't Fence Me In,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,19441118,9,1,19,19441209
-4,3,Dance With A Dolly (With A Hole In Her Stocking),Russ Morgan & His Orchestra / Al Jennings,Russ Morgan,pop,19441104,10,3,7,19441209
-5,NEW,Into Each Life Some Rain Must Fall,The Ink Spots & Ella Fitzgerald,The Ink Spots & Ella Fitzgerald,jazz,19441209,5,5,2,19441209
-6,8,And Her Tears Flowes Like Wine,Stan Kenton & His Orchestra / Anita O'Day & Band Ensemble,Stan Kenton,jazz,19441028,8,4,9,19441209
-7,NEW,Together,Dick Haymes & Helen Forrest / Victor Young & His Orchestra,Dick Haymes,jazz,19441209,7,7,1,19441209
-8,5,I'll Walk Alone,Dinah Shore,Dinah Shore,jazz,19440805,7,1,19,19441209
-9,2,You Always Hurt The One You Love,Mills Brothers,Mills Brothers,jazz,19440812,10,1,19,19441209
-10,9,I'll Walk Alone,Martha Tilton,Martha Tilton,pop,19441014,5,5,11,19441209
-1,4,I'm Making Believe,The Ink Spots & Ella Fitzgerald,The Ink Spots & Ella Fitzgerald,jazz,19441118,4,1,10,19441202
-2,3,You Always Hurt The One You Love,Mills Brothers,Mills Brothers,jazz,19440812,10,1,19,19441202
-3,6,Dance With A Dolly (With A Hole In Her Stocking),Russ Morgan & His Orchestra / Al Jennings,Russ Morgan,pop,19441104,10,3,7,19441202
-4,2,The Trolley Song,The Pied Pipers & Jo Stafford / Paul Weston & His Orchestra,The Pied Pipers,pop,19441104,3,2,11,19441202
-5,1,I'll Walk Alone,Dinah Shore,Dinah Shore,jazz,19440805,7,1,19,19441202
-6,8,Too-Ra-Loo-Ra-Loo-Ral,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19441021,4,4,7,19441202
-7,9,Don't Fence Me In,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,19441118,9,1,19,19441202
-8,7,And Her Tears Flowes Like Wine,Stan Kenton & His Orchestra / Anita O'Day & Band Ensemble,Stan Kenton,jazz,19441028,8,4,9,19441202
-9,5,I'll Walk Alone,Martha Tilton,Martha Tilton,pop,19441014,5,5,11,19441202
-10,NEW,The Trolley Song,Judy Garland,Judy Garland,jazz,19441202,10,10,1,19441202
-1,1,I'll Walk Alone,Dinah Shore,Dinah Shore,jazz,19440805,7,1,19,19441125
-2,3,The Trolley Song,The Pied Pipers & Jo Stafford / Paul Weston & His Orchestra,The Pied Pipers,pop,19441104,3,2,11,19441125
-3,2,You Always Hurt The One You Love,Mills Brothers,Mills Brothers,jazz,19440812,10,1,19,19441125
-4,4,I'm Making Believe,The Ink Spots & Ella Fitzgerald,The Ink Spots & Ella Fitzgerald,jazz,19441118,4,1,10,19441125
-5,8,I'll Walk Alone,Martha Tilton,Martha Tilton,pop,19441014,5,5,11,19441125
-6,6,Dance With A Dolly (With A Hole In Her Stocking),Russ Morgan & His Orchestra / Al Jennings,Russ Morgan,pop,19441104,10,3,7,19441125
-7,10,And Her Tears Flowes Like Wine,Stan Kenton & His Orchestra / Anita O'Day & Band Ensemble,Stan Kenton,jazz,19441028,8,4,9,19441125
-8,7,Too-Ra-Loo-Ra-Loo-Ral,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19441021,4,4,7,19441125
-9,9,Don't Fence Me In,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,19441118,9,1,19,19441125
-10,5,Together,Dick Haymes & Helen Forrest / Victor Young & His Orchestra,Dick Haymes,jazz,19441007,9,3,8,19441125
-1,2,I'll Walk Alone,Dinah Shore,Dinah Shore,jazz,19440805,7,1,19,19441118
-2,1,You Always Hurt The One You Love,Mills Brothers,Mills Brothers,jazz,19440812,10,1,19,19441118
-3,4,The Trolley Song,The Pied Pipers & Jo Stafford / Paul Weston & His Orchestra,The Pied Pipers,pop,19441104,3,2,11,19441118
-4,NEW,I'm Making Believe,The Ink Spots & Ella Fitzgerald,The Ink Spots & Ella Fitzgerald,jazz,19441118,4,1,10,19441118
-5,3,Together,Dick Haymes & Helen Forrest / Victor Young & His Orchestra,Dick Haymes,jazz,19441007,9,3,8,19441118
-6,8,Dance With A Dolly (With A Hole In Her Stocking),Russ Morgan & His Orchestra / Al Jennings,Russ Morgan,pop,19441104,10,3,7,19441118
-7,5,Too-Ra-Loo-Ra-Loo-Ral,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19441021,4,4,7,19441118
-8,7,I'll Walk Alone,Martha Tilton,Martha Tilton,pop,19441014,5,5,11,19441118
-9,NEW,Don't Fence Me In,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,19441118,9,1,19,19441118
-10,6,And Her Tears Flowes Like Wine,Stan Kenton & His Orchestra / Anita O'Day & Band Ensemble,Stan Kenton,jazz,19441028,8,4,9,19441118
-1,1,You Always Hurt The One You Love,Mills Brothers,Mills Brothers,jazz,19440812,10,1,19,19441111
-2,2,I'll Walk Alone,Dinah Shore,Dinah Shore,jazz,19440805,7,1,19,19441111
-3,5,Together,Dick Haymes & Helen Forrest / Victor Young & His Orchestra,Dick Haymes,jazz,19441007,9,3,8,19441111
-4,3,The Trolley Song,The Pied Pipers & Jo Stafford / Paul Weston & His Orchestra,The Pied Pipers,pop,19441104,3,2,11,19441111
-5,9,Too-Ra-Loo-Ra-Loo-Ral,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19441021,4,4,7,19441111
-6,6,And Her Tears Flowes Like Wine,Stan Kenton & His Orchestra / Anita O'Day & Band Ensemble,Stan Kenton,jazz,19441028,8,4,9,19441111
-7,8,I'll Walk Alone,Martha Tilton,Martha Tilton,pop,19441014,5,5,11,19441111
-8,10,Dance With A Dolly (With A Hole In Her Stocking),Russ Morgan & His Orchestra / Al Jennings,Russ Morgan,pop,19441104,10,3,7,19441111
-9,4,Is You Is Or Is You Ain't (Ma' Baby)?,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,19440909,6,2,10,19441111
-10,7,I'll Walk Alone,Mary Martin / Camarata & His Orchestra,Mary Martin / Camarata,pop,19440930,6,6,7,19441111
-1,2,You Always Hurt The One You Love,Mills Brothers,Mills Brothers,jazz,19440812,10,1,19,19441104
-2,1,I'll Walk Alone,Dinah Shore,Dinah Shore,jazz,19440805,7,1,19,19441104
-3,NEW,The Trolley Song,The Pied Pipers & Jo Stafford / Paul Weston & His Orchestra,The Pied Pipers,pop,19441104,3,2,11,19441104
-4,6,Is You Is Or Is You Ain't (Ma' Baby)?,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,19440909,6,2,10,19441104
-5,3,Together,Dick Haymes & Helen Forrest / Victor Young & His Orchestra,Dick Haymes,jazz,19441007,9,3,8,19441104
-6,8,And Her Tears Flowes Like Wine,Stan Kenton & His Orchestra / Anita O'Day & Band Ensemble,Stan Kenton,jazz,19441028,8,4,9,19441104
-7,7,I'll Walk Alone,Mary Martin / Camarata & His Orchestra,Mary Martin / Camarata,pop,19440930,6,6,7,19441104
-8,5,I'll Walk Alone,Martha Tilton,Martha Tilton,pop,19441014,5,5,11,19441104
-9,4,Too-Ra-Loo-Ra-Loo-Ral,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19441021,4,4,7,19441104
-10,NEW,Dance With A Dolly (With A Hole In Her Stocking),Russ Morgan & His Orchestra / Al Jennings,Russ Morgan,pop,19441104,10,3,7,19441104
-1,2,I'll Walk Alone,Dinah Shore,Dinah Shore,jazz,19440805,7,1,19,19441028
-2,1,You Always Hurt The One You Love,Mills Brothers,Mills Brothers,jazz,19440812,10,1,19,19441028
-3,6,Together,Dick Haymes & Helen Forrest / Victor Young & His Orchestra,Dick Haymes,jazz,19441007,9,3,8,19441028
-4,4,Too-Ra-Loo-Ra-Loo-Ral,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19441021,4,4,7,19441028
-5,9,I'll Walk Alone,Martha Tilton,Martha Tilton,pop,19441014,5,5,11,19441028
-6,5,Is You Is Or Is You Ain't (Ma' Baby)?,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,19440909,6,2,10,19441028
-7,7,I'll Walk Alone,Mary Martin / Camarata & His Orchestra,Mary Martin / Camarata,pop,19440930,6,6,7,19441028
-8,NEW,And Her Tears Flowes Like Wine,Stan Kenton & His Orchestra / Anita O'Day & Band Ensemble,Stan Kenton,jazz,19441028,8,4,9,19441028
-9,NEW,How Many Hearts Have You Broken?,Stan Kenton & His Orchestra / Gene Howard,Stan Kenton,jazz,19441028,9,9,1,19441028
-10,NEW,It Had To Be You,Artie Shaw,Artie Shaw,jazz,19441028,10,10,1,19441028
-1,1,You Always Hurt The One You Love,Mills Brothers,Mills Brothers,jazz,19440812,10,1,19,19441021
-2,3,I'll Walk Alone,Dinah Shore,Dinah Shore,jazz,19440805,7,1,19,19441021
-3,4,Swinging On A Star,Bing Crosby & The Williams Brothers / John Scott Trotter,Bing Crosby,jazz,19440617,3,1,19,19441021
-4,NEW,Too-Ra-Loo-Ra-Loo-Ral,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19441021,4,4,7,19441021
-5,2,Is You Is Or Is You Ain't (Ma' Baby)?,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,19440909,6,2,10,19441021
-6,7,Together,Dick Haymes & Helen Forrest / Victor Young & His Orchestra,Dick Haymes,jazz,19441007,9,3,8,19441021
-7,6,I'll Walk Alone,Mary Martin / Camarata & His Orchestra,Mary Martin / Camarata,pop,19440930,6,6,7,19441021
-8,NEW,Till Then,The Mills Brothers,The Mills Brothers,jazz,19441021,8,8,1,19441021
-9,5,I'll Walk Alone,Martha Tilton,Martha Tilton,pop,19441014,5,5,11,19441021
-10,10,The Trolley Song,The Pied Pipers / Paul Weston & His Orchestra,The Pied Pipers / Paul Weston,pop,19441014,10,10,2,19441021
-1,3,You Always Hurt The One You Love,Mills Brothers,Mills Brothers,jazz,19440812,10,1,19,19441014
-2,4,Is You Is Or Is You Ain't (Ma' Baby)?,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,19440909,6,2,10,19441014
-3,1,I'll Walk Alone,Dinah Shore,Dinah Shore,jazz,19440805,7,1,19,19441014
-4,2,Swinging On A Star,Bing Crosby & The Williams Brothers / John Scott Trotter,Bing Crosby,jazz,19440617,3,1,19,19441014
-5,NEW,I'll Walk Alone,Martha Tilton,Martha Tilton,pop,19441014,5,5,11,19441014
-6,7,I'll Walk Alone,Mary Martin / Camarata & His Orchestra,Mary Martin / Camarata,pop,19440930,6,6,7,19441014
-7,9,Together,Dick Haymes & Helen Forrest / Victor Young & His Orchestra,Dick Haymes,jazz,19441007,9,3,8,19441014
-8,NEW,And Her Tears Flowed Like Wine,Stan Kenton & His Orchestra  / Anita O'Day & Band Ensemble,Stan Kenton,jazz,19441014,8,8,1,19441014
-9,NEW,It Had To Be You,Dick Haymes & Helen Forrest / Victor Young & His Orchestra,Dick Haymes,jazz,19441014,9,9,1,19441014
-10,NEW,The Trolley Song,The Pied Pipers / Paul Weston & His Orchestra,The Pied Pipers / Paul Weston,pop,19441014,10,10,2,19441014
-1,3,I'll Walk Alone,Dinah Shore,Dinah Shore,jazz,19440805,7,1,19,19441007
-2,2,Swinging On A Star,Bing Crosby & The Williams Brothers / John Scott Trotter,Bing Crosby,jazz,19440617,3,1,19,19441007
-3,1,You Always Hurt The One You Love,Mills Brothers,Mills Brothers,jazz,19440812,10,1,19,19441007
-4,4,Is You Is Or Is You Ain't (Ma' Baby)?,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,19440909,6,2,10,19441007
-5,NEW,Is You Is Or Is You Ain't (Ma' Baby)?,Louis Jordan & The Tympany Five,Louis Jordan,jazz,19441007,5,5,1,19441007
-6,7,Time Waits For No One,Helen Forrest / Camarata & His Orchestra,Helen Forrest / Camarata,pop,19440930,7,6,2,19441007
-7,6,I'll Walk Alone,Mary Martin / Camarata & His Orchestra,Mary Martin / Camarata,pop,19440930,6,6,7,19441007
-8,NEW,Till Then,The Mills Brothers,The Mills Brothers,jazz,19441007,8,8,1,19441007
-9,NEW,Together,Dick Haymes & Helen Forrest / Victor Young & His Orchestra,Dick Haymes,jazz,19441007,9,3,8,19441007
-10,NEW,Dance With A Dolly (With A Hole In Her Stockin'),Evelyn Knight / Camarata & His Orchestra,Evelyn Knight / Camarata,pop,19441007,10,10,1,19441007
-1,3,You Always Hurt The One You Love,Mills Brothers,Mills Brothers,jazz,19440812,10,1,19,19440930
-2,1,Swinging On A Star,Bing Crosby & The Williams Brothers / John Scott Trotter,Bing Crosby,jazz,19440617,3,1,19,19440930
-3,2,I'll Walk Alone,Dinah Shore,Dinah Shore,jazz,19440805,7,1,19,19440930
-4,7,Is You Is Or Is You Ain't (Ma' Baby)?,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,19440909,6,2,10,19440930
-5,4,It Had To Be You,Dick Haymes & Helen Forrest / Victor Young & His Orchestra,Dick Haymes,jazz,19440909,9,4,4,19440930
-6,NEW,I'll Walk Alone,Mary Martin / Camarata & His Orchestra,Mary Martin / Camarata,pop,19440930,6,6,7,19440930
-7,NEW,Time Waits For No One,Helen Forrest / Camarata & His Orchestra,Helen Forrest / Camarata,pop,19440930,7,6,2,19440930
-8,6,I'll Walk Alone,Martha Tilton,Martha Tilton,pop,19440902,7,6,5,19440930
-9,NEW,And Her Tears Flowed Like Wine,Stan Kenton & His Orchestra / Anita O'Day & Band Ensemble,Stan Kenton,jazz,19440930,9,9,1,19440930
-10,NEW,I'll Be Seeing You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19440930,10,10,1,19440930
-1,1,Swinging On A Star,Bing Crosby & The Williams Brothers / John Scott Trotter,Bing Crosby,jazz,19440617,3,1,19,19440923
-2,3,I'll Walk Alone,Dinah Shore,Dinah Shore,jazz,19440805,7,1,19,19440923
-3,2,You Always Hurt The One You Love,Mills Brothers,Mills Brothers,jazz,19440812,10,1,19,19440923
-4,9,It Had To Be You,Dick Haymes & Helen Forrest / Victor Young & His Orchestra,Dick Haymes,jazz,19440909,9,4,4,19440923
-5,10,It Had To Be You,Betty Hutton / Paul Weston & His Orchestra,Betty Hutton / Paul Weston,pop,19440916,10,5,2,19440923
-6,6,I'll Walk Alone,Martha Tilton,Martha Tilton,pop,19440902,7,6,5,19440923
-7,4,Is You Is Or Is You Ain't (Ma' Baby)?,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,19440909,6,2,10,19440923
-8,NEW,Till Then,The Mills Brothers,The Mills Brothers,jazz,19440923,8,8,1,19440923
-9,NEW,Is You Is Or Is You Ain't (Ma' Baby)?,Louis Jordan & His Tympany Five,Louis Jordan & His Tympany Five,rock,19440923,9,9,1,19440923
-10,NEW,It Could Happen To You,Jo Stafford / Paul Weston & His Orchestra,Jo Stafford / Paul Weston,pop,19440923,10,10,1,19440923
-1,1,Swinging On A Star,Bing Crosby & The Williams Brothers / John Scott Trotter,Bing Crosby,jazz,19440617,3,1,19,19440916
-2,3,You Always Hurt The One You Love,Mills Brothers,Mills Brothers,jazz,19440812,10,1,19,19440916
-3,2,I'll Walk Alone,Dinah Shore,Dinah Shore,jazz,19440805,7,1,19,19440916
-4,6,Is You Is Or Is You Ain't (Ma' Baby)?,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,19440909,6,2,10,19440916
-5,5,Time Waits For No One,Helen Forrest,Helen Forrest,jazz,19440729,7,2,8,19440916
-6,7,I'll Walk Alone,Martha Tilton,Martha Tilton,pop,19440902,7,6,5,19440916
-7,4,I'll Be Seeing You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19440520,8,1,18,19440916
-8,8,His Rocking Horse Ran Away,Betty Hutton / Paul Weston & His Orchestra,Betty Hutton / Paul Weston,pop,19440819,9,8,5,19440916
-9,9,It Had To Be You,Dick Haymes & Helen Forrest / Victor Young & His Orchestra,Dick Haymes,jazz,19440909,9,4,4,19440916
-10,NEW,It Had To Be You,Betty Hutton / Paul Weston & His Orchestra,Betty Hutton / Paul Weston,pop,19440916,10,5,2,19440916
-1,1,Swinging On A Star,Bing Crosby & The Williams Brothers / John Scott Trotter,Bing Crosby,jazz,19440617,3,1,19,19440909
-2,3,I'll Walk Alone,Dinah Shore,Dinah Shore,jazz,19440805,7,1,19,19440909
-3,4,You Always Hurt The One You Love,Mills Brothers,Mills Brothers,jazz,19440812,10,1,19,19440909
-4,5,I'll Be Seeing You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19440520,8,1,18,19440909
-5,2,Time Waits For No One,Helen Forrest,Helen Forrest,jazz,19440729,7,2,8,19440909
-6,NEW,Is You Is Or Is You Ain't (Ma' Baby)?,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,19440909,6,2,10,19440909
-7,7,I'll Walk Alone,Martha Tilton,Martha Tilton,pop,19440902,7,6,5,19440909
-8,10,His Rocking Horse Ran Away,Betty Hutton / Paul Weston & His Orchestra,Betty Hutton / Paul Weston,pop,19440819,9,8,5,19440909
-9,NEW,It Had To Be You,Dick Haymes & Helen Forrest / Victor Young & His Orchestra,Dick Haymes,jazz,19440909,9,4,4,19440909
-10,6,G.I. Jive,Louis Jordan & His Tympani Five,Louis Jordan,jazz,19440603,9,3,15,19440909
-1,1,Swinging On A Star,Bing Crosby & The Williams Brothers / John Scott Trotter,Bing Crosby,jazz,19440617,3,1,19,19440902
-2,5,Time Waits For No One,Helen Forrest,Helen Forrest,jazz,19440729,7,2,8,19440902
-3,4,I'll Walk Alone,Dinah Shore,Dinah Shore,jazz,19440805,7,1,19,19440902
-4,3,You Always Hurt The One You Love,Mills Brothers,Mills Brothers,jazz,19440812,10,1,19,19440902
-5,2,I'll Be Seeing You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19440520,8,1,18,19440902
-6,6,G.I. Jive,Louis Jordan & His Tympani Five,Louis Jordan,jazz,19440603,9,3,15,19440902
-7,NEW,I'll Walk Alone,Martha Tilton,Martha Tilton,pop,19440902,7,6,5,19440902
-8,9,I'll Be Seeing You,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19440722,4,4,7,19440902
-9,8,I'll Get By,Harry James & His Music Makers / Dick Haymes,Harry James,jazz,19440415,5,1,21,19440902
-10,10,His Rocking Horse Ran Away,Betty Hutton / Paul Weston & His Orchestra,Betty Hutton / Paul Weston,pop,19440819,9,8,5,19440902
-1,1,Swinging On A Star,Bing Crosby & The Williams Brothers / John Scott Trotter,Bing Crosby,jazz,19440617,3,1,19,19440826
-2,2,I'll Be Seeing You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19440520,8,1,18,19440826
-3,4,You Always Hurt The One You Love,Mills Brothers,Mills Brothers,jazz,19440812,10,1,19,19440826
-4,8,I'll Walk Alone,Dinah Shore,Dinah Shore,jazz,19440805,7,1,19,19440826
-5,3,Time Waits For No One,Helen Forrest,Helen Forrest,jazz,19440729,7,2,8,19440826
-6,6,G.I. Jive,Louis Jordan & His Tympani Five,Louis Jordan,jazz,19440603,9,3,15,19440826
-7,NEW,Is You Is Or Is You Ain't (Ma' Baby),Louis Jordan & His Tympani Five,Louis Jordan,jazz,19440826,7,7,1,19440826
-8,7,I'll Get By,Harry James & His Music Makers / Dick Haymes,Harry James,jazz,19440415,5,1,21,19440826
-9,5,I'll Be Seeing You,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19440722,4,4,7,19440826
-10,9,His Rocking Horse Ran Away,Betty Hutton / Paul Weston & His Orchestra,Betty Hutton / Paul Weston,pop,19440819,9,8,5,19440826
-1,1,Swinging On A Star,Bing Crosby & The Williams Brothers / John Scott Trotter,Bing Crosby,jazz,19440617,3,1,19,19440819
-2,2,I'll Be Seeing You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19440520,8,1,18,19440819
-3,4,Time Waits For No One,Helen Forrest,Helen Forrest,jazz,19440729,7,2,8,19440819
-4,10,You Always Hurt The One You Love,Mills Brothers,Mills Brothers,jazz,19440812,10,1,19,19440819
-5,8,I'll Be Seeing You,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19440722,4,4,7,19440819
-6,9,G.I. Jive,Louis Jordan & His Tympani Five,Louis Jordan,jazz,19440603,9,3,15,19440819
-7,3,I'll Get By,Harry James & His Music Makers / Dick Haymes,Harry James,jazz,19440415,5,1,21,19440819
-8,5,I'll Walk Alone,Dinah Shore,Dinah Shore,jazz,19440805,7,1,19,19440819
-9,NEW,His Rocking Horse Ran Away,Betty Hutton / Paul Weston & His Orchestra,Betty Hutton / Paul Weston,pop,19440819,9,8,5,19440819
-10,7,I'll Walk Alone,Martha Tilton,Martha Tilton,pop,19440812,7,7,2,19440819
-1,1,Swinging On A Star,Bing Crosby & The Williams Brothers / John Scott Trotter,Bing Crosby,jazz,19440617,3,1,19,19440812
-2,2,I'll Be Seeing You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19440520,8,1,18,19440812
-3,4,I'll Get By,Harry James & His Music Makers / Dick Haymes,Harry James,jazz,19440415,5,1,21,19440812
-4,10,Time Waits For No One,Helen Forrest,Helen Forrest,jazz,19440729,7,2,8,19440812
-5,7,I'll Walk Alone,Dinah Shore,Dinah Shore,jazz,19440805,7,1,19,19440812
-6,5,Amor,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19440701,7,4,7,19440812
-7,NEW,I'll Walk Alone,Martha Tilton,Martha Tilton,pop,19440812,7,7,2,19440812
-8,8,I'll Be Seeing You,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19440722,4,4,7,19440812
-9,3,G.I. Jive,Louis Jordan & His Tympani Five,Louis Jordan,jazz,19440603,9,3,15,19440812
-10,NEW,You Always Hurt The One You Love,Mills Brothers,Mills Brothers,jazz,19440812,10,1,19,19440812
-1,1,Swinging On A Star,Bing Crosby & The Williams Brothers / John Scott Trotter,Bing Crosby,jazz,19440617,3,1,19,19440805
-2,2,I'll Be Seeing You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19440520,8,1,18,19440805
-3,5,G.I. Jive,Louis Jordan & His Tympani Five,Louis Jordan,jazz,19440603,9,3,15,19440805
-4,3,I'll Get By,Harry James & His Music Makers / Dick Haymes,Harry James,jazz,19440415,5,1,21,19440805
-5,4,Amor,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19440701,7,4,7,19440805
-6,8,Long Ago (And Far Away),Bing Crosby,Bing Crosby,jazz,19440729,8,6,2,19440805
-7,NEW,I'll Walk Alone,Dinah Shore,Dinah Shore,jazz,19440805,7,1,19,19440805
-8,6,I'll Be Seeing You,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19440722,4,4,7,19440805
-9,NEW,His Rocking Horse Ran Away,Betty Hutton / Paul Weston & His Orchestra,Betty Hutton / Paul Weston,pop,19440805,9,9,1,19440805
-10,7,Time Waits For No One,Helen Forrest,Helen Forrest,jazz,19440729,7,2,8,19440805
-1,2,Swinging On A Star,Bing Crosby & The Williams Brothers / John Scott Trotter,Bing Crosby,jazz,19440617,3,1,19,19440729
-2,1,I'll Be Seeing You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19440520,8,1,18,19440729
-3,3,I'll Get By,Harry James & His Music Makers / Dick Haymes,Harry James,jazz,19440415,5,1,21,19440729
-4,6,Amor,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19440701,7,4,7,19440729
-5,5,G.I. Jive,Louis Jordan & His Tympani Five,Louis Jordan,jazz,19440603,9,3,15,19440729
-6,4,I'll Be Seeing You,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19440722,4,4,7,19440729
-7,NEW,Time Waits For No One,Helen Forrest,Helen Forrest,jazz,19440729,7,2,8,19440729
-8,NEW,Long Ago (And Far Away),Bing Crosby,Bing Crosby,jazz,19440729,8,6,2,19440729
-9,NEW,I'll Walk Alone,Martha Tilton,Martha Tilton,pop,19440729,9,9,1,19440729
-10,9,Long Ago (And Far Away),Jo Stafford / Paul Weston & His Orchestra,Jo Stafford / Paul Weston,pop,19440610,7,6,8,19440729
-1,1,I'll Be Seeing You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19440520,8,1,18,19440722
-2,2,Swinging On A Star,Bing Crosby & The Williams Brothers / John Scott Trotter,Bing Crosby,jazz,19440617,3,1,19,19440722
-3,3,I'll Get By,Harry James & His Music Makers / Dick Haymes,Harry James,jazz,19440415,5,1,21,19440722
-4,NEW,I'll Be Seeing You,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19440722,4,4,7,19440722
-5,10,G.I. Jive,Louis Jordan & His Tympani Five,Louis Jordan,jazz,19440603,9,3,15,19440722
-6,4,Amor,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19440701,7,4,7,19440722
-7,NEW,His Rocking Horse Ran Away,Betty Hutton,Betty Hutton,jazz,19440722,7,7,1,19440722
-8,NEW,"Good Night, Wherever You Are",Russ Morgan & His Orchestra,Russ Morgan & His Orchestra,pop,19440722,8,8,1,19440722
-9,9,Long Ago (And Far Away),Jo Stafford / Paul Weston & His Orchestra,Jo Stafford / Paul Weston,pop,19440610,7,6,8,19440722
-10,7,Amor,Andy Russell,Andy Russell,pop,19440610,8,5,7,19440722
-1,1,I'll Be Seeing You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19440520,8,1,18,19440715
-2,2,Swinging On A Star,Bing Crosby & The Williams Brothers / John Scott Trotter,Bing Crosby,jazz,19440617,3,1,19,19440715
-3,3,I'll Get By,Harry James & His Music Makers / Dick Haymes,Harry James,jazz,19440415,5,1,21,19440715
-4,7,Amor,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19440701,7,4,7,19440715
-5,NEW,Long Ago (And Far Away),Bing Crosby,Bing Crosby,jazz,19440715,5,5,1,19440715
-6,8,I Love You,Bing Crosby,Bing Crosby,jazz,19440415,3,1,14,19440715
-7,10,Amor,Andy Russell,Andy Russell,pop,19440610,8,5,7,19440715
-8,NEW,You Always Hurt The One You Love,The Mills Brothers,The Mills Brothers,jazz,19440715,8,8,1,19440715
-9,9,Long Ago (And Far Away),Jo Stafford / Paul Weston & His Orchestra,Jo Stafford / Paul Weston,pop,19440610,7,6,8,19440715
-10,5,G.I. Jive,Louis Jordan & His Tympani Five,Louis Jordan,jazz,19440603,9,3,15,19440715
-1,2,I'll Be Seeing You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19440520,8,1,18,19440708
-2,3,Swinging On A Star,Bing Crosby & The Williams Brothers / John Scott Trotter,Bing Crosby,jazz,19440617,3,1,19,19440708
-3,1,I'll Get By,Harry James & His Music Makers / Dick Haymes,Harry James,jazz,19440415,5,1,21,19440708
-4,5,Long Ago (And Far Away),Dick Haymes & Helen Forrest / Camarata & His Orchestra,Dick Haymes,jazz,19440429,9,2,11,19440708
-5,8,G.I. Jive,Louis Jordan & His Tympani Five,Louis Jordan,jazz,19440603,9,3,15,19440708
-6,NEW,"Good Night, Wherever You Are",Russ Morgan & His Orchestra,Russ Morgan & His Orchestra,pop,19440708,6,6,1,19440708
-7,7,Amor,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19440701,7,4,7,19440708
-8,4,I Love You,Bing Crosby,Bing Crosby,jazz,19440415,3,1,14,19440708
-9,10,Long Ago (And Far Away),Jo Stafford / Paul Weston & His Orchestra,Jo Stafford / Paul Weston,pop,19440610,7,6,8,19440708
-10,6,Amor,Andy Russell,Andy Russell,pop,19440610,8,5,7,19440708
-1,2,I'll Get By,Harry James & His Music Makers / Dick Haymes,Harry James,jazz,19440415,5,1,21,19440701
-2,1,I'll Be Seeing You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19440520,8,1,18,19440701
-3,3,Swinging On A Star,Bing Crosby & The Williams Brothers / John Scott Trotter,Bing Crosby,jazz,19440617,3,1,19,19440701
-4,4,I Love You,Bing Crosby,Bing Crosby,jazz,19440415,3,1,14,19440701
-5,5,Long Ago (And Far Away),Dick Haymes & Helen Forrest / Camarata & His Orchestra,Dick Haymes,jazz,19440429,9,2,11,19440701
-6,7,Amor,Andy Russell,Andy Russell,pop,19440610,8,5,7,19440701
-7,NEW,Amor,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19440701,7,4,7,19440701
-8,8,G.I. Jive,Louis Jordan & His Tympani Five,Louis Jordan,jazz,19440603,9,3,15,19440701
-9,NEW,Long Ago (And Far Away),Bing Crosby,Bing Crosby,jazz,19440701,9,9,1,19440701
-10,6,Long Ago (And Far Away),Jo Stafford / Paul Weston & His Orchestra,Jo Stafford / Paul Weston,pop,19440610,7,6,8,19440701
-1,2,I'll Be Seeing You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19440520,8,1,18,19440624
-2,1,I'll Get By,Harry James & His Music Makers / Dick Haymes,Harry James,jazz,19440415,5,1,21,19440624
-3,3,Swinging On A Star,Bing Crosby & The Williams Brothers / John Scott Trotter,Bing Crosby,jazz,19440617,3,1,19,19440624
-4,4,I Love You,Bing Crosby,Bing Crosby,jazz,19440415,3,1,14,19440624
-5,6,Long Ago (And Far Away),Dick Haymes & Helen Forrest / Camarata & His Orchestra,Dick Haymes,jazz,19440429,9,2,11,19440624
-6,7,Long Ago (And Far Away),Jo Stafford / Paul Weston & His Orchestra,Jo Stafford / Paul Weston,pop,19440610,7,6,8,19440624
-7,5,Amor,Andy Russell,Andy Russell,pop,19440610,8,5,7,19440624
-8,9,G.I. Jive,Louis Jordan & His Tympani Five,Louis Jordan,jazz,19440603,9,3,15,19440624
-9,NEW,Straighten Up And Fly Right,King Cole Trio,King Cole Trio,jazz,19440624,9,9,1,19440624
-10,NEW,Holiday For Strings,David Rose & His Orchestra,David Rose & His Orchestra,pop,19440624,10,10,1,19440624
-11,8,San Fernando Valley,Bing Crosby,Bing Crosby,jazz,19440408,6,2,12,19440624
-12,10,I'll Be Seeing You,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19440617,10,10,2,19440624
-13,NEW,"Good Night, Wherever You Are",Russ Morgan,Russ Morgan,pop,19440624,13,13,1,19440624
-14,NEW,I'll Get By,Ink Spots,Ink Spots,jazz,19440624,14,14,1,19440624
-15,NEW,I Love You,Jo Stafford,Jo Stafford,jazz,19440624,15,15,1,19440624
-16,NEW,You Always Hurt The One You Love,Mills Brothers,Mills Brothers,jazz,19440624,16,16,1,19440624
-17,NEW,Long Ago (And Far Away),Perry Como,Perry Como,jazz,19440624,17,17,1,19440624
-1,1,I'll Get By,Harry James & His Music Makers / Dick Haymes,Harry James,jazz,19440415,5,1,21,19440617
-2,3,I'll Be Seeing You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19440520,8,1,18,19440617
-3,NEW,Swinging On A Star,Bing Crosby & The Williams Brothers / John Scott Trotter,Bing Crosby,jazz,19440617,3,1,19,19440617
-4,2,I Love You,Bing Crosby,Bing Crosby,jazz,19440415,3,1,14,19440617
-5,8,Amor,Andy Russell,Andy Russell,pop,19440610,8,5,7,19440617
-6,5,Long Ago (And Far Away),Dick Haymes & Helen Forrest / Camarata & His Orchestra,Dick Haymes,jazz,19440429,9,2,11,19440617
-7,7,Long Ago (And Far Away),Jo Stafford / Paul Weston & His Orchestra,Jo Stafford / Paul Weston,pop,19440610,7,6,8,19440617
-8,4,San Fernando Valley,Bing Crosby,Bing Crosby,jazz,19440408,6,2,12,19440617
-9,6,G.I. Jive,Louis Jordan & His Tympani Five,Louis Jordan,jazz,19440603,9,3,15,19440617
-10,NEW,I'll Be Seeing You,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19440617,10,10,2,19440617
-1,1,I'll Get By,Harry James & His Music Makers / Dick Haymes,Harry James,jazz,19440415,5,1,21,19440610
-2,4,I Love You,Bing Crosby,Bing Crosby,jazz,19440415,3,1,14,19440610
-3,3,I'll Be Seeing You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19440520,8,1,18,19440610
-4,6,San Fernando Valley,Bing Crosby,Bing Crosby,jazz,19440408,6,2,12,19440610
-5,2,Long Ago (And Far Away),Dick Haymes & Helen Forrest / Camarata & His Orchestra,Dick Haymes,jazz,19440429,9,2,11,19440610
-6,9,G.I. Jive,Louis Jordan & His Tympani Five,Louis Jordan,jazz,19440603,9,3,15,19440610
-7,NEW,Long Ago (And Far Away),Jo Stafford / Paul Weston & His Orchestra,Jo Stafford / Paul Weston,pop,19440610,7,6,8,19440610
-8,NEW,Amor,Andy Russell,Andy Russell,pop,19440610,8,5,7,19440610
-9,5,Holiday For Strings,David Rose & His Orchestra,David Rose & His Orchestra,pop,19440212,7,2,18,19440610
-10,NEW,"Milkman, Keep Those Bottles Quiet",Ella Mae Morse,Ella Mae Morse,jazz,19440610,10,10,1,19440610
-11,NEW,Swinging On A Star,Bing Crosby,Bing Crosby,jazz,19440610,11,11,1,19440610
-12,NEW,I'll Get By,Ink Spots,Ink Spots,jazz,19440610,12,12,1,19440610
-13,NEW,G.I. Jive,Johnny Mercer,Johnny Mercer,jazz,19440610,13,13,1,19440610
-14,10,"It's Love, Love, Love",Guy Lombardo & His Royal Canadians / Skip Nelson,Guy Lombardo,jazz,19440408,3,1,10,19440610
-15,NEW,Straighten Up And Fly Right,King Cole Trio,King Cole Trio,jazz,19440610,15,15,1,19440610
-1,2,I'll Get By,Harry James & His Music Makers / Dick Haymes,Harry James,jazz,19440415,5,1,21,19440603
-2,4,Long Ago (And Far Away),Dick Haymes & Helen Forrest / Camarata & His Orchestra,Dick Haymes,jazz,19440429,9,2,11,19440603
-3,3,I'll Be Seeing You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19440520,8,1,18,19440603
-4,1,I Love You,Bing Crosby,Bing Crosby,jazz,19440415,3,1,14,19440603
-5,6,Holiday For Strings,David Rose & His Orchestra,David Rose & His Orchestra,pop,19440212,7,2,18,19440603
-6,5,San Fernando Valley,Bing Crosby,Bing Crosby,jazz,19440408,6,2,12,19440603
-7,9,I'll Be Seeing You,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19440527,9,7,2,19440603
-8,NEW,Long Ago (And Far Away),Perry Como,Perry Como,jazz,19440603,8,8,1,19440603
-9,NEW,G.I. Jive,Louis Jordan & His Tympani Five,Louis Jordan,jazz,19440603,9,3,15,19440603
-10,8,"It's Love, Love, Love",Guy Lombardo & His Royal Canadians / Skip Nelson,Guy Lombardo,jazz,19440408,3,1,10,19440603
-1,1,I Love You,Bing Crosby,Bing Crosby,jazz,19440415,3,1,14,19440527
-2,2,I'll Get By,Harry James & His Music Makers / Dick Haymes,Harry James,jazz,19440415,5,1,21,19440527
-3,8,I'll Be Seeing You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19440520,8,1,18,19440527
-4,5,Long Ago (And Far Away),Dick Haymes & Helen Forrest / Camarata & His Orchestra,Dick Haymes,jazz,19440429,9,2,11,19440527
-5,3,San Fernando Valley,Bing Crosby,Bing Crosby,jazz,19440408,6,2,12,19440527
-6,4,Holiday For Strings,David Rose & His Orchestra,David Rose & His Orchestra,pop,19440212,7,2,18,19440527
-7,6,Long Ago (And Far Away),Jo Stafford / Paul Weston & His Orchestra,Jo Stafford / Paul Weston,pop,19440506,7,6,4,19440527
-8,9,"It's Love, Love, Love",Guy Lombardo & His Royal Canadians / Skip Nelson,Guy Lombardo,jazz,19440408,3,1,10,19440527
-9,NEW,I'll Be Seeing You,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19440527,9,7,2,19440527
-10,NEW,Amor,Andy Russell,Andy Russell,pop,19440527,10,10,1,19440527
-1,1,I Love You,Bing Crosby,Bing Crosby,jazz,19440415,3,1,14,19440520
-2,3,I'll Get By,Harry James & His Music Makers / Dick Haymes,Harry James,jazz,19440415,5,1,21,19440520
-3,2,San Fernando Valley,Bing Crosby,Bing Crosby,jazz,19440408,6,2,12,19440520
-4,9,Holiday For Strings,David Rose & His Orchestra,David Rose & His Orchestra,pop,19440212,7,2,18,19440520
-5,4,Long Ago (And Far Away),Dick Haymes & Helen Forrest / Camarata & His Orchestra,Dick Haymes,jazz,19440429,9,2,11,19440520
-6,6,Long Ago (And Far Away),Jo Stafford / Paul Weston & His Orchestra,Jo Stafford / Paul Weston,pop,19440506,7,6,4,19440520
-7,NEW,I'll Get By,The Ink Spots,The Ink Spots,jazz,19440520,7,7,1,19440520
-8,NEW,I'll Be Seeing You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19440520,8,1,18,19440520
-9,5,"It's Love, Love, Love",Guy Lombardo & His Royal Canadians / Skip Nelson,Guy Lombardo,jazz,19440408,3,1,10,19440520
-10,NEW,I Love You,Jo Stafford / Paul Weston & His Orchestra,Jo Stafford / Paul Weston,pop,19440520,10,10,1,19440520
-1,1,I Love You,Bing Crosby,Bing Crosby,jazz,19440415,3,1,14,19440513
-2,5,San Fernando Valley,Bing Crosby,Bing Crosby,jazz,19440408,6,2,12,19440513
-3,2,I'll Get By,Harry James & His Music Makers / Dick Haymes,Harry James,jazz,19440415,5,1,21,19440513
-4,3,Long Ago (And Far Away),Dick Haymes & Helen Forrest / Camarata & His Orchestra,Dick Haymes,jazz,19440429,9,2,11,19440513
-5,6,"It's Love, Love, Love",Guy Lombardo & His Royal Canadians / Skip Nelson,Guy Lombardo,jazz,19440408,3,1,10,19440513
-6,7,Long Ago (And Far Away),Jo Stafford / Paul Weston & His Orchestra,Jo Stafford / Paul Weston,pop,19440506,7,6,4,19440513
-7,NEW,When They Ask About You,Jimmy Dorsey & His Orchestra / Kitty Kallen,Jimmy Dorsey,jazz,19440513,7,7,1,19440513
-8,9,"It's Love, Love, Love",The King Sisters With Vocal Chorus,The King Sisters With Vocal Chorus,pop,19440422,9,4,4,19440513
-9,4,Holiday For Strings,David Rose & His Orchestra,David Rose & His Orchestra,pop,19440212,7,2,18,19440513
-10,NEW,Long Ago (And Far Away),Perry Como,Perry Como,jazz,19440513,10,10,1,19440513
-1,1,I Love You,Bing Crosby,Bing Crosby,jazz,19440415,3,1,14,19440506
-2,3,I'll Get By,Harry James & His Music Makers / Dick Haymes,Harry James,jazz,19440415,5,1,21,19440506
-3,9,Long Ago (And Far Away),Dick Haymes & Helen Forrest / Camarata & His Orchestra,Dick Haymes,jazz,19440429,9,2,11,19440506
-4,5,Holiday For Strings,David Rose & His Orchestra,David Rose & His Orchestra,pop,19440212,7,2,18,19440506
-5,2,San Fernando Valley,Bing Crosby,Bing Crosby,jazz,19440408,6,2,12,19440506
-6,6,"It's Love, Love, Love",Guy Lombardo & His Royal Canadians / Skip Nelson,Guy Lombardo,jazz,19440408,3,1,10,19440506
-7,NEW,Long Ago (And Far Away),Jo Stafford / Paul Weston & His Orchestra,Jo Stafford / Paul Weston,pop,19440506,7,6,4,19440506
-8,8,Don't Sweetheart Me,Lawrence Welk & His Royal Canadians / Wayne March,Lawrence Welk,pop,19440429,8,8,2,19440506
-9,4,"It's Love, Love, Love",The King Sisters With Vocal Chorus,The King Sisters With Vocal Chorus,pop,19440422,9,4,4,19440506
-10,NEW,Milkman Keep Those Bottles Quiet,Ella Mae Morse,Ella Mae Morse,jazz,19440506,10,10,1,19440506
-1,2,I Love You,Bing Crosby,Bing Crosby,jazz,19440415,3,1,14,19440429
-2,6,San Fernando Valley,Bing Crosby,Bing Crosby,jazz,19440408,6,2,12,19440429
-3,7,I'll Get By,Harry James & His Music Makers / Dick Haymes,Harry James,jazz,19440415,5,1,21,19440429
-4,9,"It's Love, Love, Love",The King Sisters With Vocal Chorus,The King Sisters With Vocal Chorus,pop,19440422,9,4,4,19440429
-5,3,Holiday For Strings,David Rose & His Orchestra,David Rose & His Orchestra,pop,19440212,7,2,18,19440429
-6,1,"It's Love, Love, Love",Guy Lombardo & His Royal Canadians / Skip Nelson,Guy Lombardo,jazz,19440408,3,1,10,19440429
-7,5,Besame Mucho (Kiss Me Much),Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,19440122,5,1,15,19440429
-8,NEW,Don't Sweetheart Me,Lawrence Welk & His Royal Canadians / Wayne March,Lawrence Welk,pop,19440429,8,8,2,19440429
-9,NEW,Long Ago (And Far Away),Dick Haymes & Helen Forrest / Camarata & His Orchestra,Dick Haymes,jazz,19440429,9,2,11,19440429
-10,8,I Love You,Jo Stafford / Paul Weston & His Orchestra,Jo Stafford / Paul Weston,pop,19440422,8,8,2,19440429
-1,1,"It's Love, Love, Love",Guy Lombardo & His Royal Canadians / Skip Nelson,Guy Lombardo,jazz,19440408,3,1,10,19440422
-2,3,I Love You,Bing Crosby,Bing Crosby,jazz,19440415,3,1,14,19440422
-3,2,Holiday For Strings,David Rose & His Orchestra,David Rose & His Orchestra,pop,19440212,7,2,18,19440422
-4,6,When They Ask About You,Jimmy Dorsey & His Orchestra / Kitty Kallen,Jimmy Dorsey,jazz,19440408,4,4,3,19440422
-5,4,Besame Mucho (Kiss Me Much),Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,19440122,5,1,15,19440422
-6,7,San Fernando Valley,Bing Crosby,Bing Crosby,jazz,19440408,6,2,12,19440422
-7,5,I'll Get By,Harry James & His Music Makers / Dick Haymes,Harry James,jazz,19440415,5,1,21,19440422
-8,NEW,I Love You,Jo Stafford / Paul Weston & His Orchestra,Jo Stafford / Paul Weston,pop,19440422,8,8,2,19440422
-9,NEW,"It's Love, Love, Love",The King Sisters With Vocal Chorus,The King Sisters With Vocal Chorus,pop,19440422,9,4,4,19440422
-10,10,Besame Mucho,Andy Russell,Andy Russell,pop,19440415,10,10,2,19440422
-1,3,"It's Love, Love, Love",Guy Lombardo & His Royal Canadians / Skip Nelson,Guy Lombardo,jazz,19440408,3,1,10,19440415
-2,2,Holiday For Strings,David Rose & His Orchestra,David Rose & His Orchestra,pop,19440212,7,2,18,19440415
-3,NEW,I Love You,Bing Crosby,Bing Crosby,jazz,19440415,3,1,14,19440415
-4,1,Besame Mucho (Kiss Me Much),Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,19440122,5,1,15,19440415
-5,NEW,I'll Get By,Harry James & His Music Makers / Dick Haymes,Harry James,jazz,19440415,5,1,21,19440415
-6,4,When They Ask About You,Jimmy Dorsey & His Orchestra / Kitty Kallen,Jimmy Dorsey,jazz,19440408,4,4,3,19440415
-7,6,San Fernando Valley,Bing Crosby,Bing Crosby,jazz,19440408,6,2,12,19440415
-8,8,Poinciana (Song Of The Tree),Bing Crosby,Bing Crosby,jazz,19440401,6,6,3,19440415
-9,5,Mairzy Doats,The Merry Macs,The Merry Macs,pop,19440219,7,2,9,19440415
-10,NEW,Besame Mucho,Andy Russell,Andy Russell,pop,19440415,10,10,2,19440415
-1,1,Besame Mucho (Kiss Me Much),Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,19440122,5,1,15,19440408
-2,2,Holiday For Strings,David Rose & His Orchestra,David Rose & His Orchestra,pop,19440212,7,2,18,19440408
-3,NEW,"It's Love, Love, Love",Guy Lombardo & His Royal Canadians / Skip Nelson,Guy Lombardo,jazz,19440408,3,1,10,19440408
-4,NEW,When They Ask About You,Jimmy Dorsey & His Orchestra / Kitty Kallen,Jimmy Dorsey,jazz,19440408,4,4,3,19440408
-5,3,Mairzy Doats,The Merry Macs,The Merry Macs,pop,19440219,7,2,9,19440408
-6,NEW,San Fernando Valley,Bing Crosby,Bing Crosby,jazz,19440408,6,2,12,19440408
-7,5,I Couldn't Sleep A Wink Last Night,Frank Sinatra & The Bobby Tucker Singers / Axel Stardahl,Frank Sinatra,jazz,19440311,6,5,5,19440408
-8,6,Poinciana (Song Of The Tree),Bing Crosby,Bing Crosby,jazz,19440401,6,6,3,19440408
-9,4,Shoo-Shoo-Shoo Baby,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,19440122,2,2,12,19440408
-10,NEW,Do Nothin' Till You Hear From Me,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,19440408,10,10,1,19440408
-1,1,Besame Mucho (Kiss Me Much),Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,19440122,5,1,15,19440401
-2,4,Holiday For Strings,David Rose & His Orchestra,David Rose & His Orchestra,pop,19440212,7,2,18,19440401
-3,2,Mairzy Doats,The Merry Macs,The Merry Macs,pop,19440219,7,2,9,19440401
-4,3,Shoo-Shoo-Shoo Baby,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,19440122,2,2,12,19440401
-5,5,I Couldn't Sleep A Wink Last Night,Frank Sinatra & The Bobby Tucker Singers / Axel Stardahl,Frank Sinatra,jazz,19440311,6,5,5,19440401
-6,NEW,Poinciana (Song Of The Tree),Bing Crosby,Bing Crosby,jazz,19440401,6,6,3,19440401
-7,NEW,I Love You,Enric Madriguera & His Orchestra / Bob Lido,Enric Madriguera,pop,19440401,7,7,1,19440401
-8,NEW,Mairzy Doats,The Pied Pipers / Paul Weston & His Orchestra,The Pied Pipers / Paul Weston,pop,19440401,8,8,1,19440401
-9,9,My Heart Tells Me (Should I Believe My Heart?),Glen Gray & His Orchestra / Eugenie Baird,Glen Gray,pop,19431120,8,1,20,19440401
-10,NEW,"Shoo-Shoo-Shoo, Baby",Ella Mae Morse,Ella Mae Morse,jazz,19440401,10,10,1,19440401
-1,1,Besame Mucho (Kiss Me Much),Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,19440122,5,1,15,19440325
-2,2,Mairzy Doats,The Merry Macs,The Merry Macs,pop,19440219,7,2,9,19440325
-3,4,Shoo-Shoo-Shoo Baby,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,19440122,2,2,12,19440325
-4,3,Holiday For Strings,David Rose & His Orchestra,David Rose & His Orchestra,pop,19440212,7,2,18,19440325
-5,7,I Couldn't Sleep A Wink Last Night,Frank Sinatra & The Bobby Tucker Singers / Axel Stardahl,Frank Sinatra,jazz,19440311,6,5,5,19440325
-6,6,Speak Low,Guy Lombardo & His Royal Canadians / Billy Leach,Guy Lombardo,jazz,19440226,10,6,5,19440325
-7,10,Star Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,19440101,4,3,13,19440325
-8,NEW,When They Ask About You,Jimmy Dorsey & His Orchestra / Kitty Kallen,Jimmy Dorsey,jazz,19440325,8,8,1,19440325
-9,8,My Heart Tells Me (Should I Believe My Heart?),Glen Gray & His Orchestra / Eugenie Baird,Glen Gray,pop,19431120,8,1,20,19440325
-10,NEW,Do Nothin' Till You Hear From Me,Stan Kenton / Red Dorris,Stan Kenton / Red Dorris,pop,19440325,10,10,1,19440325
-1,1,Besame Mucho (Kiss Me Much),Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,19440122,5,1,15,19440318
-2,2,Mairzy Doats,The Merry Macs,The Merry Macs,pop,19440219,7,2,9,19440318
-3,4,Holiday For Strings,David Rose & His Orchestra,David Rose & His Orchestra,pop,19440212,7,2,18,19440318
-4,5,Shoo-Shoo-Shoo Baby,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,19440122,2,2,12,19440318
-5,NEW,Poinciana (Song Of The Tree),Bing Crosby,Bing Crosby,jazz,19440318,5,5,1,19440318
-6,8,Speak Low,Guy Lombardo & His Royal Canadians / Billy Leach,Guy Lombardo,jazz,19440226,10,6,5,19440318
-7,6,I Couldn't Sleep A Wink Last Night,Frank Sinatra & The Bobby Tucker Singers / Axel Stardahl,Frank Sinatra,jazz,19440311,6,5,5,19440318
-8,3,My Heart Tells Me (Should I Believe My Heart?),Glen Gray & His Orchestra / Eugenie Baird,Glen Gray,pop,19431120,8,1,20,19440318
-9,10,Shoo-Shoo-Shoo Baby,Ella Mae Morse,Ella Mae Morse,jazz,19431218,6,4,14,19440318
-10,9,Star Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,19440101,4,3,13,19440318
-1,1,Besame Mucho (Kiss Me Much),Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,19440122,5,1,15,19440311
-2,2,Mairzy Doats,The Merry Macs,The Merry Macs,pop,19440219,7,2,9,19440311
-3,4,My Heart Tells Me (Should I Believe My Heart?),Glen Gray & His Orchestra / Eugenie Baird,Glen Gray,pop,19431120,8,1,20,19440311
-4,5,Holiday For Strings,David Rose & His Orchestra,David Rose & His Orchestra,pop,19440212,7,2,18,19440311
-5,3,Shoo-Shoo-Shoo Baby,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,19440122,2,2,12,19440311
-6,NEW,I Couldn't Sleep A Wink Last Night,Frank Sinatra & The Bobby Tucker Singers / Axel Stardahl,Frank Sinatra,jazz,19440311,6,5,5,19440311
-7,NEW,Mairzy Doats,Al Trace & His Orchestra / Red Maddox,Al Trace,jazz,19440311,7,7,1,19440311
-8,8,Speak Low,Guy Lombardo & His Royal Canadians / Billy Leach,Guy Lombardo,jazz,19440226,10,6,5,19440311
-9,7,Star Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,19440101,4,3,13,19440311
-10,6,Shoo-Shoo-Shoo Baby,Ella Mae Morse,Ella Mae Morse,jazz,19431218,6,4,14,19440311
-1,1,Besame Mucho (Kiss Me Much),Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,19440122,5,1,15,19440304
-2,3,Mairzy Doats,The Merry Macs,The Merry Macs,pop,19440219,7,2,9,19440304
-3,5,Shoo-Shoo-Shoo Baby,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,19440122,2,2,12,19440304
-4,2,My Heart Tells Me (Should I Believe My Heart?),Glen Gray & His Orchestra / Eugenie Baird,Glen Gray,pop,19431120,8,1,20,19440304
-5,7,Holiday For Strings,David Rose & His Orchestra,David Rose & His Orchestra,pop,19440212,7,2,18,19440304
-6,4,Shoo-Shoo-Shoo Baby,Ella Mae Morse,Ella Mae Morse,jazz,19431218,6,4,14,19440304
-7,6,Star Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,19440101,4,3,13,19440304
-8,10,Speak Low,Guy Lombardo & His Royal Canadians / Billy Leach,Guy Lombardo,jazz,19440226,10,6,5,19440304
-9,NEW,Do Nothin' Til You Hear From Me,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,19440304,9,9,1,19440304
-10,NEW,Poinciana (Song Of The Tree),Bing Crosby,Bing Crosby,jazz,19440304,10,10,1,19440304
-1,2,Besame Mucho (Kiss Me Much),Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,19440122,5,1,15,19440226
-2,1,My Heart Tells Me (Should I Believe My Heart?),Glen Gray & His Orchestra / Eugenie Baird,Glen Gray,pop,19431120,8,1,20,19440226
-3,7,Mairzy Doats,The Merry Macs,The Merry Macs,pop,19440219,7,2,9,19440226
-4,5,Shoo-Shoo-Shoo Baby,Ella Mae Morse,Ella Mae Morse,jazz,19431218,6,4,14,19440226
-5,3,Shoo-Shoo-Shoo Baby,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,19440122,2,2,12,19440226
-6,4,Star Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,19440101,4,3,13,19440226
-7,9,Holiday For Strings,David Rose & His Orchestra,David Rose & His Orchestra,pop,19440212,7,2,18,19440226
-8,6,I Couldn't Sleep A Wink Last Night,Frank Sinatra & The Bobby Tucker Singers / Axel Stardahl,Frank Sinatra,jazz,19440219,6,6,2,19440226
-9,NEW,Mairzy Doats,Al Trace & His Orchestra / Red Maddox,Al Trace,jazz,19440226,9,9,1,19440226
-10,NEW,Speak Low,Guy Lombardo & His Royal Canadians / Billy Leach,Guy Lombardo,jazz,19440226,10,6,5,19440226
-1,1,My Heart Tells Me (Should I Believe My Heart?),Glen Gray & His Orchestra / Eugenie Baird,Glen Gray,pop,19431120,8,1,20,19440219
-2,2,Besame Mucho (Kiss Me Much),Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,19440122,5,1,15,19440219
-3,3,Shoo-Shoo-Shoo Baby,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,19440122,2,2,12,19440219
-4,6,Star Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,19440101,4,3,13,19440219
-5,4,Shoo-Shoo-Shoo Baby,Ella Mae Morse,Ella Mae Morse,jazz,19431218,6,4,14,19440219
-6,NEW,I Couldn't Sleep A Wink Last Night,Frank Sinatra & The Bobby Tucker Singers / Axel Stardahl,Frank Sinatra,jazz,19440219,6,6,2,19440219
-7,NEW,Mairzy Doats,The Merry Macs,The Merry Macs,pop,19440219,7,2,9,19440219
-8,5,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,19430731,10,1,30,19440219
-9,7,Holiday For Strings,David Rose & His Orchestra,David Rose & His Orchestra,pop,19440212,7,2,18,19440219
-10,8,My Ideal,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19440212,8,8,2,19440219
-1,1,My Heart Tells Me (Should I Believe My Heart?),Glen Gray & His Orchestra / Eugenie Baird,Glen Gray,pop,19431120,8,1,20,19440212
-2,3,Besame Mucho (Kiss Me Much),Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,19440122,5,1,15,19440212
-3,2,Shoo-Shoo-Shoo Baby,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,19440122,2,2,12,19440212
-4,6,Shoo-Shoo-Shoo Baby,Ella Mae Morse,Ella Mae Morse,jazz,19431218,6,4,14,19440212
-5,4,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,19430731,10,1,30,19440212
-6,5,Star Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,19440101,4,3,13,19440212
-7,NEW,Holiday For Strings,David Rose & His Orchestra,David Rose & His Orchestra,pop,19440212,7,2,18,19440212
-8,NEW,My Ideal,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19440212,8,8,2,19440212
-9,NEW,Mairzy Doats,Al Trace & His Orchestra / Al Trace & Red Maddox,Al Trace,jazz,19440212,9,9,1,19440212
-10,10,Speak Low,Guy Lombardo & His Royal Canadians / Billy Leach,Guy Lombardo,jazz,19440205,10,10,2,19440212
-1,1,My Heart Tells Me (Should I Believe My Heart?),Glen Gray & His Orchestra / Eugenie Baird,Glen Gray,pop,19431120,8,1,20,19440205
-2,4,Shoo-Shoo-Shoo Baby,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,19440122,2,2,12,19440205
-3,2,Besame Mucho (Kiss Me Much),Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,19440122,5,1,15,19440205
-4,3,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,19430731,10,1,30,19440205
-5,5,Star Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,19440101,4,3,13,19440205
-6,6,Shoo-Shoo-Shoo Baby,Ella Mae Morse,Ella Mae Morse,jazz,19431218,6,4,14,19440205
-7,8,"No Love, No Nothin'",Ella Mae Morse,Ella Mae Morse,jazz,19440129,8,7,2,19440205
-8,7,My Shining Hour,Glen Gray & The Casa Loma Orchestra / Eugenie Baird,Glen Gray,pop,19440115,4,4,4,19440205
-9,NEW,I Couldn't Sleep A Wink Last Night,Frank Sinatra & The Bobby Tucker Singers / Axel Stardahl,Frank Sinatra,jazz,19440205,9,9,1,19440205
-10,NEW,Speak Low,Guy Lombardo & His Royal Canadians / Billy Leach,Guy Lombardo,jazz,19440205,10,10,2,19440205
-1,1,My Heart Tells Me (Should I Believe My Heart?),Glen Gray & His Orchestra / Eugenie Baird,Glen Gray,pop,19431120,8,1,20,19440129
-2,5,Besame Mucho (Kiss Me Much),Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,19440122,5,1,15,19440129
-3,3,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,19430731,10,1,30,19440129
-4,2,Shoo-Shoo-Shoo Baby,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,19440122,2,2,12,19440129
-5,4,Star Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,19440101,4,3,13,19440129
-6,6,Shoo-Shoo-Shoo Baby,Ella Mae Morse,Ella Mae Morse,jazz,19431218,6,4,14,19440129
-7,9,My Shining Hour,Glen Gray & The Casa Loma Orchestra / Eugenie Baird,Glen Gray,pop,19440115,4,4,4,19440129
-8,NEW,"No Love, No Nothin'",Ella Mae Morse,Ella Mae Morse,jazz,19440129,8,7,2,19440129
-9,NEW,My Ideal,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19440129,9,9,1,19440129
-10,NEW,Do Nothin' Till You Hear From Me,Duke Ellington & His Orchestra,Duke Ellington & His Orchestra,jazz,19440129,10,10,1,19440129
-1,2,My Heart Tells Me (Should I Believe My Heart?),Glen Gray & His Orchestra / Eugenie Baird,Glen Gray,pop,19431120,8,1,20,19440122
-2,NEW,Shoo-Shoo-Shoo Baby,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,19440122,2,2,12,19440122
-3,1,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,19430731,10,1,30,19440122
-4,3,Star Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,19440101,4,3,13,19440122
-5,NEW,Besame Mucho (Kiss Me Much),Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,19440122,5,1,15,19440122
-6,6,Shoo-Shoo-Shoo Baby,Ella Mae Morse,Ella Mae Morse,jazz,19431218,6,4,14,19440122
-7,7,They're Either Too Young Or Too Old,Jimmy Dorsey & His Orchestra / Kitty Kallen,Jimmy Dorsey,jazz,19431127,10,3,9,19440122
-8,NEW,Speak Low,Guy Lombardo & His Royal Canadians / Billy Leach,Guy Lombardo,jazz,19440122,8,8,1,19440122
-9,4,My Shining Hour,Glen Gray & The Casa Loma Orchestra / Eugenie Baird,Glen Gray,pop,19440115,4,4,4,19440122
-10,NEW,Cherry,Harry James & His Music Makers,Harry James,jazz,19440122,10,10,1,19440122
-1,1,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,19430731,10,1,30,19440115
-2,2,My Heart Tells Me (Should I Believe My Heart?),Glen Gray & His Orchestra / Eugenie Baird,Glen Gray,pop,19431120,8,1,20,19440115
-3,6,Star Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,19440101,4,3,13,19440115
-4,NEW,My Shining Hour,Glen Gray & The Casa Loma Orchestra / Eugenie Baird,Glen Gray,pop,19440115,4,4,4,19440115
-5,8,Boogie Woogie,Tommy Dorsey & His Orchestra,Tommy Dorsey & His Orchestra,pop,19440108,8,5,2,19440115
-6,4,Shoo-Shoo-Shoo Baby,Ella Mae Morse,Ella Mae Morse,jazz,19431218,6,4,14,19440115
-7,5,They're Either Too Young Or Too Old,Jimmy Dorsey & His Orchestra / Kitty Kallen,Jimmy Dorsey,jazz,19431127,10,3,9,19440115
-8,7,People Will Say We're In Love,"Bing Crosby, Trudy Erwin & The Sportsmen Glee Club",Bing Crosby,jazz,19440108,7,7,2,19440115
-9,NEW,Blue Rain,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,19440115,9,9,1,19440115
-10,NEW,How Sweet You Are,Kay Armen,Kay Armen,pop,19440115,10,10,1,19440115
-1,1,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,19430731,10,1,30,19440108
-2,2,My Heart Tells Me (Should I Believe My Heart?),Glen Gray & His Orchestra / Eugenie Baird,Glen Gray,pop,19431120,8,1,20,19440108
-3,9,Shoo-Shoo-Shoo Baby,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,19431225,7,3,3,19440108
-4,5,Shoo-Shoo-Shoo Baby,Ella Mae Morse,Ella Mae Morse,jazz,19431218,6,4,14,19440108
-5,3,They're Either Too Young Or Too Old,Jimmy Dorsey & His Orchestra / Kitty Kallen,Jimmy Dorsey,jazz,19431127,10,3,9,19440108
-6,4,Star Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,19440101,4,3,13,19440108
-7,NEW,People Will Say We're In Love,"Bing Crosby, Trudy Erwin & The Sportsmen Glee Club",Bing Crosby,jazz,19440108,7,7,2,19440108
-8,NEW,Boogie Woogie,Tommy Dorsey & His Orchestra,Tommy Dorsey & His Orchestra,pop,19440108,8,5,2,19440108
-9,NEW,My Ideal,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,19440108,9,9,1,19440108
-10,NEW,Besame Mucho (Kiss Me Much),Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,19440108,10,10,1,19440108
-1,1,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,19430731,10,1,30,19440101
-2,2,My Heart Tells Me (Should I Believe My Heart?),Glen Gray & His Orchestra / Eugenie Baird,Glen Gray,pop,19431120,8,1,20,19440101
-3,5,They're Either Too Young Or Too Old,Jimmy Dorsey & His Orchestra / Kitty Kallen,Jimmy Dorsey,jazz,19431127,10,3,9,19440101
-4,NEW,Star Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,19440101,4,3,13,19440101
-5,8,Shoo-Shoo-Shoo Baby,Ella Mae Morse,Ella Mae Morse,jazz,19431218,6,4,14,19440101
-6,6,"Oh, What A Beautiful Mornin'","Bing Crosby, Trudy Erwin And The Sportsmen Glee Club",Bing Crosby,jazz,19431106,7,5,9,19440101
-7,NEW,Pistol Packin' Mama,Al Dexter & His Troopers,Al Dexter,country / folk,19440101,7,7,1,19440101
-8,3,I'll Be Home For Christmas (If Only In My Dreams),Bing Crosby,Bing Crosby,jazz,19431204,10,3,5,19440101
-9,7,Shoo-Shoo-Shoo Baby,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,19431225,7,3,3,19440101
-10,NEW,Oklahoma Cast Album,Various Artists,Various Artists,pop,19440101,10,10,1,19440101
+this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genre,entry_date,entry_position,peak_position,total_weeks,chart_date
+1,1,Don't Fence Me In,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,jazz,19441118,9,1,19,19441230
+2,2,I'm Making Believe,The Ink Spots & Ella Fitzgerald,The Ink Spots & Ella Fitzgerald,jazz,jazz,19441118,4,1,10,19441230
+3,3,The Trolley Song,The Pied Pipers & Jo Stafford / Paul Weston & His Orchestra,The Pied Pipers,pop,40s,19441104,3,2,11,19441230
+4,NEW,The Trolley Song,Vaughn Monroe & His Orchestra / Marilyn Duke,Vaughn Monroe,jazz,swing,19441230,4,4,4,19441230
+5,NEW,There Goes That Song Again,Russ Morgan & His Orchestra,Russ Morgan & His Orchestra,pop,big band,19441230,5,5,2,19441230
+6,NEW,I Dream Of You (More Than You Dream I Do),Tommy Dorsey & His Orchestra / Freddie Stewart,Tommy Dorsey,jazz,jazz,19441230,6,6,4,19441230
+7,6,White Christmas,Bing Crosby & The Ken Darby Singers / John Scott Trotter,Bing Crosby,jazz,jazz,19441223,6,6,3,19441230
+8,4,The Trolley Song,Judy Garland,Judy Garland,jazz,jazz,19441223,4,4,4,19441230
+9,7,White Christmas,Frank Sinatra & The Bobby Tucker Singers / Axel Stordahl,Frank Sinatra,jazz,jazz,19441223,7,7,3,19441230
+10,NEW,Together,Dick Haymes & Helen Forrest / Victor Young & His Orchestra,Dick Haymes,jazz,jazz,19441230,10,10,2,19441230
+1,1,Don't Fence Me In,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,jazz,19441118,9,1,19,19441223
+2,2,I'm Making Believe,The Ink Spots & Ella Fitzgerald,The Ink Spots & Ella Fitzgerald,jazz,jazz,19441118,4,1,10,19441223
+3,3,The Trolley Song,The Pied Pipers & Jo Stafford / Paul Weston & His Orchestra,The Pied Pipers,pop,40s,19441104,3,2,11,19441223
+4,NEW,The Trolley Song,Judy Garland,Judy Garland,jazz,jazz,19441223,4,4,4,19441223
+5,NEW,I Dream Of You (More Than You Dream I Do),Andy Russell,Andy Russell,pop,spanish,19441223,5,5,1,19441223
+6,NEW,White Christmas,Bing Crosby & The Ken Darby Singers / John Scott Trotter,Bing Crosby,jazz,jazz,19441223,6,6,3,19441223
+7,NEW,White Christmas,Frank Sinatra & The Bobby Tucker Singers / Axel Stordahl,Frank Sinatra,jazz,jazz,19441223,7,7,3,19441223
+8,10,Too-Ra-Loo-Ra-Loo-Ral,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19441216,10,8,2,19441223
+9,9,I'll Walk Alone,Martha Tilton,Martha Tilton,pop,female vocalists,19441014,5,5,11,19441223
+10,4,And Her Tears Flowes Like Wine,Stan Kenton & His Orchestra / Anita O'Day & Band Ensemble,Stan Kenton,jazz,jazz,19441028,8,4,9,19441223
+1,3,Don't Fence Me In,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,jazz,19441118,9,1,19,19441216
+2,1,I'm Making Believe,The Ink Spots & Ella Fitzgerald,The Ink Spots & Ella Fitzgerald,jazz,jazz,19441118,4,1,10,19441216
+3,2,The Trolley Song,The Pied Pipers & Jo Stafford / Paul Weston & His Orchestra,The Pied Pipers,pop,40s,19441104,3,2,11,19441216
+4,6,And Her Tears Flowes Like Wine,Stan Kenton & His Orchestra / Anita O'Day & Band Ensemble,Stan Kenton,jazz,jazz,19441028,8,4,9,19441216
+5,9,You Always Hurt The One You Love,Mills Brothers,Mills Brothers,jazz,jazz,19440812,10,1,19,19441216
+6,5,Into Each Life Some Rain Must Fall,The Ink Spots & Ella Fitzgerald,The Ink Spots & Ella Fitzgerald,jazz,jazz,19441209,5,5,2,19441216
+7,4,Dance With A Dolly (With A Hole In Her Stocking),Russ Morgan & His Orchestra / Al Jennings,Russ Morgan,pop,russ morgan,19441104,10,3,7,19441216
+8,NEW,The Trolley Song,Vaughn Monroe & His Orchestra / Marilyn Duke,Vaughn Monroe,jazz,swing,19441216,8,8,1,19441216
+9,10,I'll Walk Alone,Martha Tilton,Martha Tilton,pop,female vocalists,19441014,5,5,11,19441216
+10,NEW,Too-Ra-Loo-Ra-Loo-Ral,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19441216,10,8,2,19441216
+1,1,I'm Making Believe,The Ink Spots & Ella Fitzgerald,The Ink Spots & Ella Fitzgerald,jazz,jazz,19441118,4,1,10,19441209
+2,4,The Trolley Song,The Pied Pipers & Jo Stafford / Paul Weston & His Orchestra,The Pied Pipers,pop,40s,19441104,3,2,11,19441209
+3,7,Don't Fence Me In,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,jazz,19441118,9,1,19,19441209
+4,3,Dance With A Dolly (With A Hole In Her Stocking),Russ Morgan & His Orchestra / Al Jennings,Russ Morgan,pop,russ morgan,19441104,10,3,7,19441209
+5,NEW,Into Each Life Some Rain Must Fall,The Ink Spots & Ella Fitzgerald,The Ink Spots & Ella Fitzgerald,jazz,jazz,19441209,5,5,2,19441209
+6,8,And Her Tears Flowes Like Wine,Stan Kenton & His Orchestra / Anita O'Day & Band Ensemble,Stan Kenton,jazz,jazz,19441028,8,4,9,19441209
+7,NEW,Together,Dick Haymes & Helen Forrest / Victor Young & His Orchestra,Dick Haymes,jazz,jazz,19441209,7,7,1,19441209
+8,5,I'll Walk Alone,Dinah Shore,Dinah Shore,jazz,jazz,19440805,7,1,19,19441209
+9,2,You Always Hurt The One You Love,Mills Brothers,Mills Brothers,jazz,jazz,19440812,10,1,19,19441209
+10,9,I'll Walk Alone,Martha Tilton,Martha Tilton,pop,female vocalists,19441014,5,5,11,19441209
+1,4,I'm Making Believe,The Ink Spots & Ella Fitzgerald,The Ink Spots & Ella Fitzgerald,jazz,jazz,19441118,4,1,10,19441202
+2,3,You Always Hurt The One You Love,Mills Brothers,Mills Brothers,jazz,jazz,19440812,10,1,19,19441202
+3,6,Dance With A Dolly (With A Hole In Her Stocking),Russ Morgan & His Orchestra / Al Jennings,Russ Morgan,pop,russ morgan,19441104,10,3,7,19441202
+4,2,The Trolley Song,The Pied Pipers & Jo Stafford / Paul Weston & His Orchestra,The Pied Pipers,pop,40s,19441104,3,2,11,19441202
+5,1,I'll Walk Alone,Dinah Shore,Dinah Shore,jazz,jazz,19440805,7,1,19,19441202
+6,8,Too-Ra-Loo-Ra-Loo-Ral,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19441021,4,4,7,19441202
+7,9,Don't Fence Me In,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,jazz,19441118,9,1,19,19441202
+8,7,And Her Tears Flowes Like Wine,Stan Kenton & His Orchestra / Anita O'Day & Band Ensemble,Stan Kenton,jazz,jazz,19441028,8,4,9,19441202
+9,5,I'll Walk Alone,Martha Tilton,Martha Tilton,pop,female vocalists,19441014,5,5,11,19441202
+10,NEW,The Trolley Song,Judy Garland,Judy Garland,jazz,jazz,19441202,10,10,1,19441202
+1,1,I'll Walk Alone,Dinah Shore,Dinah Shore,jazz,jazz,19440805,7,1,19,19441125
+2,3,The Trolley Song,The Pied Pipers & Jo Stafford / Paul Weston & His Orchestra,The Pied Pipers,pop,40s,19441104,3,2,11,19441125
+3,2,You Always Hurt The One You Love,Mills Brothers,Mills Brothers,jazz,jazz,19440812,10,1,19,19441125
+4,4,I'm Making Believe,The Ink Spots & Ella Fitzgerald,The Ink Spots & Ella Fitzgerald,jazz,jazz,19441118,4,1,10,19441125
+5,8,I'll Walk Alone,Martha Tilton,Martha Tilton,pop,female vocalists,19441014,5,5,11,19441125
+6,6,Dance With A Dolly (With A Hole In Her Stocking),Russ Morgan & His Orchestra / Al Jennings,Russ Morgan,pop,russ morgan,19441104,10,3,7,19441125
+7,10,And Her Tears Flowes Like Wine,Stan Kenton & His Orchestra / Anita O'Day & Band Ensemble,Stan Kenton,jazz,jazz,19441028,8,4,9,19441125
+8,7,Too-Ra-Loo-Ra-Loo-Ral,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19441021,4,4,7,19441125
+9,9,Don't Fence Me In,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,jazz,19441118,9,1,19,19441125
+10,5,Together,Dick Haymes & Helen Forrest / Victor Young & His Orchestra,Dick Haymes,jazz,jazz,19441007,9,3,8,19441125
+1,2,I'll Walk Alone,Dinah Shore,Dinah Shore,jazz,jazz,19440805,7,1,19,19441118
+2,1,You Always Hurt The One You Love,Mills Brothers,Mills Brothers,jazz,jazz,19440812,10,1,19,19441118
+3,4,The Trolley Song,The Pied Pipers & Jo Stafford / Paul Weston & His Orchestra,The Pied Pipers,pop,40s,19441104,3,2,11,19441118
+4,NEW,I'm Making Believe,The Ink Spots & Ella Fitzgerald,The Ink Spots & Ella Fitzgerald,jazz,jazz,19441118,4,1,10,19441118
+5,3,Together,Dick Haymes & Helen Forrest / Victor Young & His Orchestra,Dick Haymes,jazz,jazz,19441007,9,3,8,19441118
+6,8,Dance With A Dolly (With A Hole In Her Stocking),Russ Morgan & His Orchestra / Al Jennings,Russ Morgan,pop,russ morgan,19441104,10,3,7,19441118
+7,5,Too-Ra-Loo-Ra-Loo-Ral,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19441021,4,4,7,19441118
+8,7,I'll Walk Alone,Martha Tilton,Martha Tilton,pop,female vocalists,19441014,5,5,11,19441118
+9,NEW,Don't Fence Me In,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,jazz,19441118,9,1,19,19441118
+10,6,And Her Tears Flowes Like Wine,Stan Kenton & His Orchestra / Anita O'Day & Band Ensemble,Stan Kenton,jazz,jazz,19441028,8,4,9,19441118
+1,1,You Always Hurt The One You Love,Mills Brothers,Mills Brothers,jazz,jazz,19440812,10,1,19,19441111
+2,2,I'll Walk Alone,Dinah Shore,Dinah Shore,jazz,jazz,19440805,7,1,19,19441111
+3,5,Together,Dick Haymes & Helen Forrest / Victor Young & His Orchestra,Dick Haymes,jazz,jazz,19441007,9,3,8,19441111
+4,3,The Trolley Song,The Pied Pipers & Jo Stafford / Paul Weston & His Orchestra,The Pied Pipers,pop,40s,19441104,3,2,11,19441111
+5,9,Too-Ra-Loo-Ra-Loo-Ral,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19441021,4,4,7,19441111
+6,6,And Her Tears Flowes Like Wine,Stan Kenton & His Orchestra / Anita O'Day & Band Ensemble,Stan Kenton,jazz,jazz,19441028,8,4,9,19441111
+7,8,I'll Walk Alone,Martha Tilton,Martha Tilton,pop,female vocalists,19441014,5,5,11,19441111
+8,10,Dance With A Dolly (With A Hole In Her Stocking),Russ Morgan & His Orchestra / Al Jennings,Russ Morgan,pop,russ morgan,19441104,10,3,7,19441111
+9,4,Is You Is Or Is You Ain't (Ma' Baby)?,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,jazz,19440909,6,2,10,19441111
+10,7,I'll Walk Alone,Mary Martin / Camarata & His Orchestra,Mary Martin / Camarata,pop,unknown,19440930,6,6,7,19441111
+1,2,You Always Hurt The One You Love,Mills Brothers,Mills Brothers,jazz,jazz,19440812,10,1,19,19441104
+2,1,I'll Walk Alone,Dinah Shore,Dinah Shore,jazz,jazz,19440805,7,1,19,19441104
+3,NEW,The Trolley Song,The Pied Pipers & Jo Stafford / Paul Weston & His Orchestra,The Pied Pipers,pop,40s,19441104,3,2,11,19441104
+4,6,Is You Is Or Is You Ain't (Ma' Baby)?,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,jazz,19440909,6,2,10,19441104
+5,3,Together,Dick Haymes & Helen Forrest / Victor Young & His Orchestra,Dick Haymes,jazz,jazz,19441007,9,3,8,19441104
+6,8,And Her Tears Flowes Like Wine,Stan Kenton & His Orchestra / Anita O'Day & Band Ensemble,Stan Kenton,jazz,jazz,19441028,8,4,9,19441104
+7,7,I'll Walk Alone,Mary Martin / Camarata & His Orchestra,Mary Martin / Camarata,pop,unknown,19440930,6,6,7,19441104
+8,5,I'll Walk Alone,Martha Tilton,Martha Tilton,pop,female vocalists,19441014,5,5,11,19441104
+9,4,Too-Ra-Loo-Ra-Loo-Ral,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19441021,4,4,7,19441104
+10,NEW,Dance With A Dolly (With A Hole In Her Stocking),Russ Morgan & His Orchestra / Al Jennings,Russ Morgan,pop,russ morgan,19441104,10,3,7,19441104
+1,2,I'll Walk Alone,Dinah Shore,Dinah Shore,jazz,jazz,19440805,7,1,19,19441028
+2,1,You Always Hurt The One You Love,Mills Brothers,Mills Brothers,jazz,jazz,19440812,10,1,19,19441028
+3,6,Together,Dick Haymes & Helen Forrest / Victor Young & His Orchestra,Dick Haymes,jazz,jazz,19441007,9,3,8,19441028
+4,4,Too-Ra-Loo-Ra-Loo-Ral,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19441021,4,4,7,19441028
+5,9,I'll Walk Alone,Martha Tilton,Martha Tilton,pop,female vocalists,19441014,5,5,11,19441028
+6,5,Is You Is Or Is You Ain't (Ma' Baby)?,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,jazz,19440909,6,2,10,19441028
+7,7,I'll Walk Alone,Mary Martin / Camarata & His Orchestra,Mary Martin / Camarata,pop,unknown,19440930,6,6,7,19441028
+8,NEW,And Her Tears Flowes Like Wine,Stan Kenton & His Orchestra / Anita O'Day & Band Ensemble,Stan Kenton,jazz,jazz,19441028,8,4,9,19441028
+9,NEW,How Many Hearts Have You Broken?,Stan Kenton & His Orchestra / Gene Howard,Stan Kenton,jazz,jazz,19441028,9,9,1,19441028
+10,NEW,It Had To Be You,Artie Shaw,Artie Shaw,jazz,jazz,19441028,10,10,1,19441028
+1,1,You Always Hurt The One You Love,Mills Brothers,Mills Brothers,jazz,jazz,19440812,10,1,19,19441021
+2,3,I'll Walk Alone,Dinah Shore,Dinah Shore,jazz,jazz,19440805,7,1,19,19441021
+3,4,Swinging On A Star,Bing Crosby & The Williams Brothers / John Scott Trotter,Bing Crosby,jazz,jazz,19440617,3,1,19,19441021
+4,NEW,Too-Ra-Loo-Ra-Loo-Ral,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19441021,4,4,7,19441021
+5,2,Is You Is Or Is You Ain't (Ma' Baby)?,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,jazz,19440909,6,2,10,19441021
+6,7,Together,Dick Haymes & Helen Forrest / Victor Young & His Orchestra,Dick Haymes,jazz,jazz,19441007,9,3,8,19441021
+7,6,I'll Walk Alone,Mary Martin / Camarata & His Orchestra,Mary Martin / Camarata,pop,unknown,19440930,6,6,7,19441021
+8,NEW,Till Then,The Mills Brothers,The Mills Brothers,jazz,jazz,19441021,8,8,1,19441021
+9,5,I'll Walk Alone,Martha Tilton,Martha Tilton,pop,female vocalists,19441014,5,5,11,19441021
+10,10,The Trolley Song,The Pied Pipers / Paul Weston & His Orchestra,The Pied Pipers / Paul Weston,pop,unknown,19441014,10,10,2,19441021
+1,3,You Always Hurt The One You Love,Mills Brothers,Mills Brothers,jazz,jazz,19440812,10,1,19,19441014
+2,4,Is You Is Or Is You Ain't (Ma' Baby)?,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,jazz,19440909,6,2,10,19441014
+3,1,I'll Walk Alone,Dinah Shore,Dinah Shore,jazz,jazz,19440805,7,1,19,19441014
+4,2,Swinging On A Star,Bing Crosby & The Williams Brothers / John Scott Trotter,Bing Crosby,jazz,jazz,19440617,3,1,19,19441014
+5,NEW,I'll Walk Alone,Martha Tilton,Martha Tilton,pop,female vocalists,19441014,5,5,11,19441014
+6,7,I'll Walk Alone,Mary Martin / Camarata & His Orchestra,Mary Martin / Camarata,pop,unknown,19440930,6,6,7,19441014
+7,9,Together,Dick Haymes & Helen Forrest / Victor Young & His Orchestra,Dick Haymes,jazz,jazz,19441007,9,3,8,19441014
+8,NEW,And Her Tears Flowed Like Wine,Stan Kenton & His Orchestra  / Anita O'Day & Band Ensemble,Stan Kenton,jazz,jazz,19441014,8,8,1,19441014
+9,NEW,It Had To Be You,Dick Haymes & Helen Forrest / Victor Young & His Orchestra,Dick Haymes,jazz,jazz,19441014,9,9,1,19441014
+10,NEW,The Trolley Song,The Pied Pipers / Paul Weston & His Orchestra,The Pied Pipers / Paul Weston,pop,unknown,19441014,10,10,2,19441014
+1,3,I'll Walk Alone,Dinah Shore,Dinah Shore,jazz,jazz,19440805,7,1,19,19441007
+2,2,Swinging On A Star,Bing Crosby & The Williams Brothers / John Scott Trotter,Bing Crosby,jazz,jazz,19440617,3,1,19,19441007
+3,1,You Always Hurt The One You Love,Mills Brothers,Mills Brothers,jazz,jazz,19440812,10,1,19,19441007
+4,4,Is You Is Or Is You Ain't (Ma' Baby)?,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,jazz,19440909,6,2,10,19441007
+5,NEW,Is You Is Or Is You Ain't (Ma' Baby)?,Louis Jordan & The Tympany Five,Louis Jordan,jazz,jazz,19441007,5,5,1,19441007
+6,7,Time Waits For No One,Helen Forrest / Camarata & His Orchestra,Helen Forrest / Camarata,pop,unknown,19440930,7,6,2,19441007
+7,6,I'll Walk Alone,Mary Martin / Camarata & His Orchestra,Mary Martin / Camarata,pop,unknown,19440930,6,6,7,19441007
+8,NEW,Till Then,The Mills Brothers,The Mills Brothers,jazz,jazz,19441007,8,8,1,19441007
+9,NEW,Together,Dick Haymes & Helen Forrest / Victor Young & His Orchestra,Dick Haymes,jazz,jazz,19441007,9,3,8,19441007
+10,NEW,Dance With A Dolly (With A Hole In Her Stockin'),Evelyn Knight / Camarata & His Orchestra,Evelyn Knight / Camarata,pop,unknown,19441007,10,10,1,19441007
+1,3,You Always Hurt The One You Love,Mills Brothers,Mills Brothers,jazz,jazz,19440812,10,1,19,19440930
+2,1,Swinging On A Star,Bing Crosby & The Williams Brothers / John Scott Trotter,Bing Crosby,jazz,jazz,19440617,3,1,19,19440930
+3,2,I'll Walk Alone,Dinah Shore,Dinah Shore,jazz,jazz,19440805,7,1,19,19440930
+4,7,Is You Is Or Is You Ain't (Ma' Baby)?,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,jazz,19440909,6,2,10,19440930
+5,4,It Had To Be You,Dick Haymes & Helen Forrest / Victor Young & His Orchestra,Dick Haymes,jazz,jazz,19440909,9,4,4,19440930
+6,NEW,I'll Walk Alone,Mary Martin / Camarata & His Orchestra,Mary Martin / Camarata,pop,unknown,19440930,6,6,7,19440930
+7,NEW,Time Waits For No One,Helen Forrest / Camarata & His Orchestra,Helen Forrest / Camarata,pop,unknown,19440930,7,6,2,19440930
+8,6,I'll Walk Alone,Martha Tilton,Martha Tilton,pop,female vocalists,19440902,7,6,5,19440930
+9,NEW,And Her Tears Flowed Like Wine,Stan Kenton & His Orchestra / Anita O'Day & Band Ensemble,Stan Kenton,jazz,jazz,19440930,9,9,1,19440930
+10,NEW,I'll Be Seeing You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19440930,10,10,1,19440930
+1,1,Swinging On A Star,Bing Crosby & The Williams Brothers / John Scott Trotter,Bing Crosby,jazz,jazz,19440617,3,1,19,19440923
+2,3,I'll Walk Alone,Dinah Shore,Dinah Shore,jazz,jazz,19440805,7,1,19,19440923
+3,2,You Always Hurt The One You Love,Mills Brothers,Mills Brothers,jazz,jazz,19440812,10,1,19,19440923
+4,9,It Had To Be You,Dick Haymes & Helen Forrest / Victor Young & His Orchestra,Dick Haymes,jazz,jazz,19440909,9,4,4,19440923
+5,10,It Had To Be You,Betty Hutton / Paul Weston & His Orchestra,Betty Hutton / Paul Weston,pop,unknown,19440916,10,5,2,19440923
+6,6,I'll Walk Alone,Martha Tilton,Martha Tilton,pop,female vocalists,19440902,7,6,5,19440923
+7,4,Is You Is Or Is You Ain't (Ma' Baby)?,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,jazz,19440909,6,2,10,19440923
+8,NEW,Till Then,The Mills Brothers,The Mills Brothers,jazz,jazz,19440923,8,8,1,19440923
+9,NEW,Is You Is Or Is You Ain't (Ma' Baby)?,Louis Jordan & His Tympany Five,Louis Jordan & His Tympany Five,rock,blues,19440923,9,9,1,19440923
+10,NEW,It Could Happen To You,Jo Stafford / Paul Weston & His Orchestra,Jo Stafford / Paul Weston,pop,unknown,19440923,10,10,1,19440923
+1,1,Swinging On A Star,Bing Crosby & The Williams Brothers / John Scott Trotter,Bing Crosby,jazz,jazz,19440617,3,1,19,19440916
+2,3,You Always Hurt The One You Love,Mills Brothers,Mills Brothers,jazz,jazz,19440812,10,1,19,19440916
+3,2,I'll Walk Alone,Dinah Shore,Dinah Shore,jazz,jazz,19440805,7,1,19,19440916
+4,6,Is You Is Or Is You Ain't (Ma' Baby)?,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,jazz,19440909,6,2,10,19440916
+5,5,Time Waits For No One,Helen Forrest,Helen Forrest,jazz,jazz,19440729,7,2,8,19440916
+6,7,I'll Walk Alone,Martha Tilton,Martha Tilton,pop,female vocalists,19440902,7,6,5,19440916
+7,4,I'll Be Seeing You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19440520,8,1,18,19440916
+8,8,His Rocking Horse Ran Away,Betty Hutton / Paul Weston & His Orchestra,Betty Hutton / Paul Weston,pop,unknown,19440819,9,8,5,19440916
+9,9,It Had To Be You,Dick Haymes & Helen Forrest / Victor Young & His Orchestra,Dick Haymes,jazz,jazz,19440909,9,4,4,19440916
+10,NEW,It Had To Be You,Betty Hutton / Paul Weston & His Orchestra,Betty Hutton / Paul Weston,pop,unknown,19440916,10,5,2,19440916
+1,1,Swinging On A Star,Bing Crosby & The Williams Brothers / John Scott Trotter,Bing Crosby,jazz,jazz,19440617,3,1,19,19440909
+2,3,I'll Walk Alone,Dinah Shore,Dinah Shore,jazz,jazz,19440805,7,1,19,19440909
+3,4,You Always Hurt The One You Love,Mills Brothers,Mills Brothers,jazz,jazz,19440812,10,1,19,19440909
+4,5,I'll Be Seeing You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19440520,8,1,18,19440909
+5,2,Time Waits For No One,Helen Forrest,Helen Forrest,jazz,jazz,19440729,7,2,8,19440909
+6,NEW,Is You Is Or Is You Ain't (Ma' Baby)?,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,jazz,19440909,6,2,10,19440909
+7,7,I'll Walk Alone,Martha Tilton,Martha Tilton,pop,female vocalists,19440902,7,6,5,19440909
+8,10,His Rocking Horse Ran Away,Betty Hutton / Paul Weston & His Orchestra,Betty Hutton / Paul Weston,pop,unknown,19440819,9,8,5,19440909
+9,NEW,It Had To Be You,Dick Haymes & Helen Forrest / Victor Young & His Orchestra,Dick Haymes,jazz,jazz,19440909,9,4,4,19440909
+10,6,G.I. Jive,Louis Jordan & His Tympani Five,Louis Jordan,jazz,jazz,19440603,9,3,15,19440909
+1,1,Swinging On A Star,Bing Crosby & The Williams Brothers / John Scott Trotter,Bing Crosby,jazz,jazz,19440617,3,1,19,19440902
+2,5,Time Waits For No One,Helen Forrest,Helen Forrest,jazz,jazz,19440729,7,2,8,19440902
+3,4,I'll Walk Alone,Dinah Shore,Dinah Shore,jazz,jazz,19440805,7,1,19,19440902
+4,3,You Always Hurt The One You Love,Mills Brothers,Mills Brothers,jazz,jazz,19440812,10,1,19,19440902
+5,2,I'll Be Seeing You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19440520,8,1,18,19440902
+6,6,G.I. Jive,Louis Jordan & His Tympani Five,Louis Jordan,jazz,jazz,19440603,9,3,15,19440902
+7,NEW,I'll Walk Alone,Martha Tilton,Martha Tilton,pop,female vocalists,19440902,7,6,5,19440902
+8,9,I'll Be Seeing You,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,jazz,19440722,4,4,7,19440902
+9,8,I'll Get By,Harry James & His Music Makers / Dick Haymes,Harry James,jazz,jazz,19440415,5,1,21,19440902
+10,10,His Rocking Horse Ran Away,Betty Hutton / Paul Weston & His Orchestra,Betty Hutton / Paul Weston,pop,unknown,19440819,9,8,5,19440902
+1,1,Swinging On A Star,Bing Crosby & The Williams Brothers / John Scott Trotter,Bing Crosby,jazz,jazz,19440617,3,1,19,19440826
+2,2,I'll Be Seeing You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19440520,8,1,18,19440826
+3,4,You Always Hurt The One You Love,Mills Brothers,Mills Brothers,jazz,jazz,19440812,10,1,19,19440826
+4,8,I'll Walk Alone,Dinah Shore,Dinah Shore,jazz,jazz,19440805,7,1,19,19440826
+5,3,Time Waits For No One,Helen Forrest,Helen Forrest,jazz,jazz,19440729,7,2,8,19440826
+6,6,G.I. Jive,Louis Jordan & His Tympani Five,Louis Jordan,jazz,jazz,19440603,9,3,15,19440826
+7,NEW,Is You Is Or Is You Ain't (Ma' Baby),Louis Jordan & His Tympani Five,Louis Jordan,jazz,jazz,19440826,7,7,1,19440826
+8,7,I'll Get By,Harry James & His Music Makers / Dick Haymes,Harry James,jazz,jazz,19440415,5,1,21,19440826
+9,5,I'll Be Seeing You,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,jazz,19440722,4,4,7,19440826
+10,9,His Rocking Horse Ran Away,Betty Hutton / Paul Weston & His Orchestra,Betty Hutton / Paul Weston,pop,unknown,19440819,9,8,5,19440826
+1,1,Swinging On A Star,Bing Crosby & The Williams Brothers / John Scott Trotter,Bing Crosby,jazz,jazz,19440617,3,1,19,19440819
+2,2,I'll Be Seeing You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19440520,8,1,18,19440819
+3,4,Time Waits For No One,Helen Forrest,Helen Forrest,jazz,jazz,19440729,7,2,8,19440819
+4,10,You Always Hurt The One You Love,Mills Brothers,Mills Brothers,jazz,jazz,19440812,10,1,19,19440819
+5,8,I'll Be Seeing You,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,jazz,19440722,4,4,7,19440819
+6,9,G.I. Jive,Louis Jordan & His Tympani Five,Louis Jordan,jazz,jazz,19440603,9,3,15,19440819
+7,3,I'll Get By,Harry James & His Music Makers / Dick Haymes,Harry James,jazz,jazz,19440415,5,1,21,19440819
+8,5,I'll Walk Alone,Dinah Shore,Dinah Shore,jazz,jazz,19440805,7,1,19,19440819
+9,NEW,His Rocking Horse Ran Away,Betty Hutton / Paul Weston & His Orchestra,Betty Hutton / Paul Weston,pop,unknown,19440819,9,8,5,19440819
+10,7,I'll Walk Alone,Martha Tilton,Martha Tilton,pop,female vocalists,19440812,7,7,2,19440819
+1,1,Swinging On A Star,Bing Crosby & The Williams Brothers / John Scott Trotter,Bing Crosby,jazz,jazz,19440617,3,1,19,19440812
+2,2,I'll Be Seeing You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19440520,8,1,18,19440812
+3,4,I'll Get By,Harry James & His Music Makers / Dick Haymes,Harry James,jazz,jazz,19440415,5,1,21,19440812
+4,10,Time Waits For No One,Helen Forrest,Helen Forrest,jazz,jazz,19440729,7,2,8,19440812
+5,7,I'll Walk Alone,Dinah Shore,Dinah Shore,jazz,jazz,19440805,7,1,19,19440812
+6,5,Amor,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19440701,7,4,7,19440812
+7,NEW,I'll Walk Alone,Martha Tilton,Martha Tilton,pop,female vocalists,19440812,7,7,2,19440812
+8,8,I'll Be Seeing You,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,jazz,19440722,4,4,7,19440812
+9,3,G.I. Jive,Louis Jordan & His Tympani Five,Louis Jordan,jazz,jazz,19440603,9,3,15,19440812
+10,NEW,You Always Hurt The One You Love,Mills Brothers,Mills Brothers,jazz,jazz,19440812,10,1,19,19440812
+1,1,Swinging On A Star,Bing Crosby & The Williams Brothers / John Scott Trotter,Bing Crosby,jazz,jazz,19440617,3,1,19,19440805
+2,2,I'll Be Seeing You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19440520,8,1,18,19440805
+3,5,G.I. Jive,Louis Jordan & His Tympani Five,Louis Jordan,jazz,jazz,19440603,9,3,15,19440805
+4,3,I'll Get By,Harry James & His Music Makers / Dick Haymes,Harry James,jazz,jazz,19440415,5,1,21,19440805
+5,4,Amor,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19440701,7,4,7,19440805
+6,8,Long Ago (And Far Away),Bing Crosby,Bing Crosby,jazz,jazz,19440729,8,6,2,19440805
+7,NEW,I'll Walk Alone,Dinah Shore,Dinah Shore,jazz,jazz,19440805,7,1,19,19440805
+8,6,I'll Be Seeing You,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,jazz,19440722,4,4,7,19440805
+9,NEW,His Rocking Horse Ran Away,Betty Hutton / Paul Weston & His Orchestra,Betty Hutton / Paul Weston,pop,unknown,19440805,9,9,1,19440805
+10,7,Time Waits For No One,Helen Forrest,Helen Forrest,jazz,jazz,19440729,7,2,8,19440805
+1,2,Swinging On A Star,Bing Crosby & The Williams Brothers / John Scott Trotter,Bing Crosby,jazz,jazz,19440617,3,1,19,19440729
+2,1,I'll Be Seeing You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19440520,8,1,18,19440729
+3,3,I'll Get By,Harry James & His Music Makers / Dick Haymes,Harry James,jazz,jazz,19440415,5,1,21,19440729
+4,6,Amor,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19440701,7,4,7,19440729
+5,5,G.I. Jive,Louis Jordan & His Tympani Five,Louis Jordan,jazz,jazz,19440603,9,3,15,19440729
+6,4,I'll Be Seeing You,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,jazz,19440722,4,4,7,19440729
+7,NEW,Time Waits For No One,Helen Forrest,Helen Forrest,jazz,jazz,19440729,7,2,8,19440729
+8,NEW,Long Ago (And Far Away),Bing Crosby,Bing Crosby,jazz,jazz,19440729,8,6,2,19440729
+9,NEW,I'll Walk Alone,Martha Tilton,Martha Tilton,pop,female vocalists,19440729,9,9,1,19440729
+10,9,Long Ago (And Far Away),Jo Stafford / Paul Weston & His Orchestra,Jo Stafford / Paul Weston,pop,unknown,19440610,7,6,8,19440729
+1,1,I'll Be Seeing You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19440520,8,1,18,19440722
+2,2,Swinging On A Star,Bing Crosby & The Williams Brothers / John Scott Trotter,Bing Crosby,jazz,jazz,19440617,3,1,19,19440722
+3,3,I'll Get By,Harry James & His Music Makers / Dick Haymes,Harry James,jazz,jazz,19440415,5,1,21,19440722
+4,NEW,I'll Be Seeing You,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,jazz,19440722,4,4,7,19440722
+5,10,G.I. Jive,Louis Jordan & His Tympani Five,Louis Jordan,jazz,jazz,19440603,9,3,15,19440722
+6,4,Amor,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19440701,7,4,7,19440722
+7,NEW,His Rocking Horse Ran Away,Betty Hutton,Betty Hutton,jazz,jazz,19440722,7,7,1,19440722
+8,NEW,"Good Night, Wherever You Are",Russ Morgan & His Orchestra,Russ Morgan & His Orchestra,pop,big band,19440722,8,8,1,19440722
+9,9,Long Ago (And Far Away),Jo Stafford / Paul Weston & His Orchestra,Jo Stafford / Paul Weston,pop,unknown,19440610,7,6,8,19440722
+10,7,Amor,Andy Russell,Andy Russell,pop,spanish,19440610,8,5,7,19440722
+1,1,I'll Be Seeing You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19440520,8,1,18,19440715
+2,2,Swinging On A Star,Bing Crosby & The Williams Brothers / John Scott Trotter,Bing Crosby,jazz,jazz,19440617,3,1,19,19440715
+3,3,I'll Get By,Harry James & His Music Makers / Dick Haymes,Harry James,jazz,jazz,19440415,5,1,21,19440715
+4,7,Amor,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19440701,7,4,7,19440715
+5,NEW,Long Ago (And Far Away),Bing Crosby,Bing Crosby,jazz,jazz,19440715,5,5,1,19440715
+6,8,I Love You,Bing Crosby,Bing Crosby,jazz,jazz,19440415,3,1,14,19440715
+7,10,Amor,Andy Russell,Andy Russell,pop,spanish,19440610,8,5,7,19440715
+8,NEW,You Always Hurt The One You Love,The Mills Brothers,The Mills Brothers,jazz,jazz,19440715,8,8,1,19440715
+9,9,Long Ago (And Far Away),Jo Stafford / Paul Weston & His Orchestra,Jo Stafford / Paul Weston,pop,unknown,19440610,7,6,8,19440715
+10,5,G.I. Jive,Louis Jordan & His Tympani Five,Louis Jordan,jazz,jazz,19440603,9,3,15,19440715
+1,2,I'll Be Seeing You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19440520,8,1,18,19440708
+2,3,Swinging On A Star,Bing Crosby & The Williams Brothers / John Scott Trotter,Bing Crosby,jazz,jazz,19440617,3,1,19,19440708
+3,1,I'll Get By,Harry James & His Music Makers / Dick Haymes,Harry James,jazz,jazz,19440415,5,1,21,19440708
+4,5,Long Ago (And Far Away),Dick Haymes & Helen Forrest / Camarata & His Orchestra,Dick Haymes,jazz,jazz,19440429,9,2,11,19440708
+5,8,G.I. Jive,Louis Jordan & His Tympani Five,Louis Jordan,jazz,jazz,19440603,9,3,15,19440708
+6,NEW,"Good Night, Wherever You Are",Russ Morgan & His Orchestra,Russ Morgan & His Orchestra,pop,big band,19440708,6,6,1,19440708
+7,7,Amor,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19440701,7,4,7,19440708
+8,4,I Love You,Bing Crosby,Bing Crosby,jazz,jazz,19440415,3,1,14,19440708
+9,10,Long Ago (And Far Away),Jo Stafford / Paul Weston & His Orchestra,Jo Stafford / Paul Weston,pop,unknown,19440610,7,6,8,19440708
+10,6,Amor,Andy Russell,Andy Russell,pop,spanish,19440610,8,5,7,19440708
+1,2,I'll Get By,Harry James & His Music Makers / Dick Haymes,Harry James,jazz,jazz,19440415,5,1,21,19440701
+2,1,I'll Be Seeing You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19440520,8,1,18,19440701
+3,3,Swinging On A Star,Bing Crosby & The Williams Brothers / John Scott Trotter,Bing Crosby,jazz,jazz,19440617,3,1,19,19440701
+4,4,I Love You,Bing Crosby,Bing Crosby,jazz,jazz,19440415,3,1,14,19440701
+5,5,Long Ago (And Far Away),Dick Haymes & Helen Forrest / Camarata & His Orchestra,Dick Haymes,jazz,jazz,19440429,9,2,11,19440701
+6,7,Amor,Andy Russell,Andy Russell,pop,spanish,19440610,8,5,7,19440701
+7,NEW,Amor,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19440701,7,4,7,19440701
+8,8,G.I. Jive,Louis Jordan & His Tympani Five,Louis Jordan,jazz,jazz,19440603,9,3,15,19440701
+9,NEW,Long Ago (And Far Away),Bing Crosby,Bing Crosby,jazz,jazz,19440701,9,9,1,19440701
+10,6,Long Ago (And Far Away),Jo Stafford / Paul Weston & His Orchestra,Jo Stafford / Paul Weston,pop,unknown,19440610,7,6,8,19440701
+1,2,I'll Be Seeing You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19440520,8,1,18,19440624
+2,1,I'll Get By,Harry James & His Music Makers / Dick Haymes,Harry James,jazz,jazz,19440415,5,1,21,19440624
+3,3,Swinging On A Star,Bing Crosby & The Williams Brothers / John Scott Trotter,Bing Crosby,jazz,jazz,19440617,3,1,19,19440624
+4,4,I Love You,Bing Crosby,Bing Crosby,jazz,jazz,19440415,3,1,14,19440624
+5,6,Long Ago (And Far Away),Dick Haymes & Helen Forrest / Camarata & His Orchestra,Dick Haymes,jazz,jazz,19440429,9,2,11,19440624
+6,7,Long Ago (And Far Away),Jo Stafford / Paul Weston & His Orchestra,Jo Stafford / Paul Weston,pop,unknown,19440610,7,6,8,19440624
+7,5,Amor,Andy Russell,Andy Russell,pop,spanish,19440610,8,5,7,19440624
+8,9,G.I. Jive,Louis Jordan & His Tympani Five,Louis Jordan,jazz,jazz,19440603,9,3,15,19440624
+9,NEW,Straighten Up And Fly Right,King Cole Trio,King Cole Trio,jazz,jazz,19440624,9,9,1,19440624
+10,NEW,Holiday For Strings,David Rose & His Orchestra,David Rose & His Orchestra,pop,easy listening,19440624,10,10,1,19440624
+11,8,San Fernando Valley,Bing Crosby,Bing Crosby,jazz,jazz,19440408,6,2,12,19440624
+12,10,I'll Be Seeing You,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,jazz,19440617,10,10,2,19440624
+13,NEW,"Good Night, Wherever You Are",Russ Morgan,Russ Morgan,pop,russ morgan,19440624,13,13,1,19440624
+14,NEW,I'll Get By,Ink Spots,Ink Spots,jazz,jazz,19440624,14,14,1,19440624
+15,NEW,I Love You,Jo Stafford,Jo Stafford,jazz,jazz,19440624,15,15,1,19440624
+16,NEW,You Always Hurt The One You Love,Mills Brothers,Mills Brothers,jazz,jazz,19440624,16,16,1,19440624
+17,NEW,Long Ago (And Far Away),Perry Como,Perry Como,jazz,jazz,19440624,17,17,1,19440624
+1,1,I'll Get By,Harry James & His Music Makers / Dick Haymes,Harry James,jazz,jazz,19440415,5,1,21,19440617
+2,3,I'll Be Seeing You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19440520,8,1,18,19440617
+3,NEW,Swinging On A Star,Bing Crosby & The Williams Brothers / John Scott Trotter,Bing Crosby,jazz,jazz,19440617,3,1,19,19440617
+4,2,I Love You,Bing Crosby,Bing Crosby,jazz,jazz,19440415,3,1,14,19440617
+5,8,Amor,Andy Russell,Andy Russell,pop,spanish,19440610,8,5,7,19440617
+6,5,Long Ago (And Far Away),Dick Haymes & Helen Forrest / Camarata & His Orchestra,Dick Haymes,jazz,jazz,19440429,9,2,11,19440617
+7,7,Long Ago (And Far Away),Jo Stafford / Paul Weston & His Orchestra,Jo Stafford / Paul Weston,pop,unknown,19440610,7,6,8,19440617
+8,4,San Fernando Valley,Bing Crosby,Bing Crosby,jazz,jazz,19440408,6,2,12,19440617
+9,6,G.I. Jive,Louis Jordan & His Tympani Five,Louis Jordan,jazz,jazz,19440603,9,3,15,19440617
+10,NEW,I'll Be Seeing You,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,jazz,19440617,10,10,2,19440617
+1,1,I'll Get By,Harry James & His Music Makers / Dick Haymes,Harry James,jazz,jazz,19440415,5,1,21,19440610
+2,4,I Love You,Bing Crosby,Bing Crosby,jazz,jazz,19440415,3,1,14,19440610
+3,3,I'll Be Seeing You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19440520,8,1,18,19440610
+4,6,San Fernando Valley,Bing Crosby,Bing Crosby,jazz,jazz,19440408,6,2,12,19440610
+5,2,Long Ago (And Far Away),Dick Haymes & Helen Forrest / Camarata & His Orchestra,Dick Haymes,jazz,jazz,19440429,9,2,11,19440610
+6,9,G.I. Jive,Louis Jordan & His Tympani Five,Louis Jordan,jazz,jazz,19440603,9,3,15,19440610
+7,NEW,Long Ago (And Far Away),Jo Stafford / Paul Weston & His Orchestra,Jo Stafford / Paul Weston,pop,unknown,19440610,7,6,8,19440610
+8,NEW,Amor,Andy Russell,Andy Russell,pop,spanish,19440610,8,5,7,19440610
+9,5,Holiday For Strings,David Rose & His Orchestra,David Rose & His Orchestra,pop,easy listening,19440212,7,2,18,19440610
+10,NEW,"Milkman, Keep Those Bottles Quiet",Ella Mae Morse,Ella Mae Morse,jazz,jazz,19440610,10,10,1,19440610
+11,NEW,Swinging On A Star,Bing Crosby,Bing Crosby,jazz,jazz,19440610,11,11,1,19440610
+12,NEW,I'll Get By,Ink Spots,Ink Spots,jazz,jazz,19440610,12,12,1,19440610
+13,NEW,G.I. Jive,Johnny Mercer,Johnny Mercer,jazz,jazz,19440610,13,13,1,19440610
+14,10,"It's Love, Love, Love",Guy Lombardo & His Royal Canadians / Skip Nelson,Guy Lombardo,jazz,jazz,19440408,3,1,10,19440610
+15,NEW,Straighten Up And Fly Right,King Cole Trio,King Cole Trio,jazz,jazz,19440610,15,15,1,19440610
+1,2,I'll Get By,Harry James & His Music Makers / Dick Haymes,Harry James,jazz,jazz,19440415,5,1,21,19440603
+2,4,Long Ago (And Far Away),Dick Haymes & Helen Forrest / Camarata & His Orchestra,Dick Haymes,jazz,jazz,19440429,9,2,11,19440603
+3,3,I'll Be Seeing You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19440520,8,1,18,19440603
+4,1,I Love You,Bing Crosby,Bing Crosby,jazz,jazz,19440415,3,1,14,19440603
+5,6,Holiday For Strings,David Rose & His Orchestra,David Rose & His Orchestra,pop,easy listening,19440212,7,2,18,19440603
+6,5,San Fernando Valley,Bing Crosby,Bing Crosby,jazz,jazz,19440408,6,2,12,19440603
+7,9,I'll Be Seeing You,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,jazz,19440527,9,7,2,19440603
+8,NEW,Long Ago (And Far Away),Perry Como,Perry Como,jazz,jazz,19440603,8,8,1,19440603
+9,NEW,G.I. Jive,Louis Jordan & His Tympani Five,Louis Jordan,jazz,jazz,19440603,9,3,15,19440603
+10,8,"It's Love, Love, Love",Guy Lombardo & His Royal Canadians / Skip Nelson,Guy Lombardo,jazz,jazz,19440408,3,1,10,19440603
+1,1,I Love You,Bing Crosby,Bing Crosby,jazz,jazz,19440415,3,1,14,19440527
+2,2,I'll Get By,Harry James & His Music Makers / Dick Haymes,Harry James,jazz,jazz,19440415,5,1,21,19440527
+3,8,I'll Be Seeing You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19440520,8,1,18,19440527
+4,5,Long Ago (And Far Away),Dick Haymes & Helen Forrest / Camarata & His Orchestra,Dick Haymes,jazz,jazz,19440429,9,2,11,19440527
+5,3,San Fernando Valley,Bing Crosby,Bing Crosby,jazz,jazz,19440408,6,2,12,19440527
+6,4,Holiday For Strings,David Rose & His Orchestra,David Rose & His Orchestra,pop,easy listening,19440212,7,2,18,19440527
+7,6,Long Ago (And Far Away),Jo Stafford / Paul Weston & His Orchestra,Jo Stafford / Paul Weston,pop,unknown,19440506,7,6,4,19440527
+8,9,"It's Love, Love, Love",Guy Lombardo & His Royal Canadians / Skip Nelson,Guy Lombardo,jazz,jazz,19440408,3,1,10,19440527
+9,NEW,I'll Be Seeing You,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,jazz,19440527,9,7,2,19440527
+10,NEW,Amor,Andy Russell,Andy Russell,pop,spanish,19440527,10,10,1,19440527
+1,1,I Love You,Bing Crosby,Bing Crosby,jazz,jazz,19440415,3,1,14,19440520
+2,3,I'll Get By,Harry James & His Music Makers / Dick Haymes,Harry James,jazz,jazz,19440415,5,1,21,19440520
+3,2,San Fernando Valley,Bing Crosby,Bing Crosby,jazz,jazz,19440408,6,2,12,19440520
+4,9,Holiday For Strings,David Rose & His Orchestra,David Rose & His Orchestra,pop,easy listening,19440212,7,2,18,19440520
+5,4,Long Ago (And Far Away),Dick Haymes & Helen Forrest / Camarata & His Orchestra,Dick Haymes,jazz,jazz,19440429,9,2,11,19440520
+6,6,Long Ago (And Far Away),Jo Stafford / Paul Weston & His Orchestra,Jo Stafford / Paul Weston,pop,unknown,19440506,7,6,4,19440520
+7,NEW,I'll Get By,The Ink Spots,The Ink Spots,jazz,jazz,19440520,7,7,1,19440520
+8,NEW,I'll Be Seeing You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19440520,8,1,18,19440520
+9,5,"It's Love, Love, Love",Guy Lombardo & His Royal Canadians / Skip Nelson,Guy Lombardo,jazz,jazz,19440408,3,1,10,19440520
+10,NEW,I Love You,Jo Stafford / Paul Weston & His Orchestra,Jo Stafford / Paul Weston,pop,unknown,19440520,10,10,1,19440520
+1,1,I Love You,Bing Crosby,Bing Crosby,jazz,jazz,19440415,3,1,14,19440513
+2,5,San Fernando Valley,Bing Crosby,Bing Crosby,jazz,jazz,19440408,6,2,12,19440513
+3,2,I'll Get By,Harry James & His Music Makers / Dick Haymes,Harry James,jazz,jazz,19440415,5,1,21,19440513
+4,3,Long Ago (And Far Away),Dick Haymes & Helen Forrest / Camarata & His Orchestra,Dick Haymes,jazz,jazz,19440429,9,2,11,19440513
+5,6,"It's Love, Love, Love",Guy Lombardo & His Royal Canadians / Skip Nelson,Guy Lombardo,jazz,jazz,19440408,3,1,10,19440513
+6,7,Long Ago (And Far Away),Jo Stafford / Paul Weston & His Orchestra,Jo Stafford / Paul Weston,pop,unknown,19440506,7,6,4,19440513
+7,NEW,When They Ask About You,Jimmy Dorsey & His Orchestra / Kitty Kallen,Jimmy Dorsey,jazz,jazz,19440513,7,7,1,19440513
+8,9,"It's Love, Love, Love",The King Sisters With Vocal Chorus,The King Sisters With Vocal Chorus,pop,unknown,19440422,9,4,4,19440513
+9,4,Holiday For Strings,David Rose & His Orchestra,David Rose & His Orchestra,pop,easy listening,19440212,7,2,18,19440513
+10,NEW,Long Ago (And Far Away),Perry Como,Perry Como,jazz,jazz,19440513,10,10,1,19440513
+1,1,I Love You,Bing Crosby,Bing Crosby,jazz,jazz,19440415,3,1,14,19440506
+2,3,I'll Get By,Harry James & His Music Makers / Dick Haymes,Harry James,jazz,jazz,19440415,5,1,21,19440506
+3,9,Long Ago (And Far Away),Dick Haymes & Helen Forrest / Camarata & His Orchestra,Dick Haymes,jazz,jazz,19440429,9,2,11,19440506
+4,5,Holiday For Strings,David Rose & His Orchestra,David Rose & His Orchestra,pop,easy listening,19440212,7,2,18,19440506
+5,2,San Fernando Valley,Bing Crosby,Bing Crosby,jazz,jazz,19440408,6,2,12,19440506
+6,6,"It's Love, Love, Love",Guy Lombardo & His Royal Canadians / Skip Nelson,Guy Lombardo,jazz,jazz,19440408,3,1,10,19440506
+7,NEW,Long Ago (And Far Away),Jo Stafford / Paul Weston & His Orchestra,Jo Stafford / Paul Weston,pop,unknown,19440506,7,6,4,19440506
+8,8,Don't Sweetheart Me,Lawrence Welk & His Royal Canadians / Wayne March,Lawrence Welk,pop,instrumental,19440429,8,8,2,19440506
+9,4,"It's Love, Love, Love",The King Sisters With Vocal Chorus,The King Sisters With Vocal Chorus,pop,unknown,19440422,9,4,4,19440506
+10,NEW,Milkman Keep Those Bottles Quiet,Ella Mae Morse,Ella Mae Morse,jazz,jazz,19440506,10,10,1,19440506
+1,2,I Love You,Bing Crosby,Bing Crosby,jazz,jazz,19440415,3,1,14,19440429
+2,6,San Fernando Valley,Bing Crosby,Bing Crosby,jazz,jazz,19440408,6,2,12,19440429
+3,7,I'll Get By,Harry James & His Music Makers / Dick Haymes,Harry James,jazz,jazz,19440415,5,1,21,19440429
+4,9,"It's Love, Love, Love",The King Sisters With Vocal Chorus,The King Sisters With Vocal Chorus,pop,unknown,19440422,9,4,4,19440429
+5,3,Holiday For Strings,David Rose & His Orchestra,David Rose & His Orchestra,pop,easy listening,19440212,7,2,18,19440429
+6,1,"It's Love, Love, Love",Guy Lombardo & His Royal Canadians / Skip Nelson,Guy Lombardo,jazz,jazz,19440408,3,1,10,19440429
+7,5,Besame Mucho (Kiss Me Much),Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,jazz,19440122,5,1,15,19440429
+8,NEW,Don't Sweetheart Me,Lawrence Welk & His Royal Canadians / Wayne March,Lawrence Welk,pop,instrumental,19440429,8,8,2,19440429
+9,NEW,Long Ago (And Far Away),Dick Haymes & Helen Forrest / Camarata & His Orchestra,Dick Haymes,jazz,jazz,19440429,9,2,11,19440429
+10,8,I Love You,Jo Stafford / Paul Weston & His Orchestra,Jo Stafford / Paul Weston,pop,unknown,19440422,8,8,2,19440429
+1,1,"It's Love, Love, Love",Guy Lombardo & His Royal Canadians / Skip Nelson,Guy Lombardo,jazz,jazz,19440408,3,1,10,19440422
+2,3,I Love You,Bing Crosby,Bing Crosby,jazz,jazz,19440415,3,1,14,19440422
+3,2,Holiday For Strings,David Rose & His Orchestra,David Rose & His Orchestra,pop,easy listening,19440212,7,2,18,19440422
+4,6,When They Ask About You,Jimmy Dorsey & His Orchestra / Kitty Kallen,Jimmy Dorsey,jazz,jazz,19440408,4,4,3,19440422
+5,4,Besame Mucho (Kiss Me Much),Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,jazz,19440122,5,1,15,19440422
+6,7,San Fernando Valley,Bing Crosby,Bing Crosby,jazz,jazz,19440408,6,2,12,19440422
+7,5,I'll Get By,Harry James & His Music Makers / Dick Haymes,Harry James,jazz,jazz,19440415,5,1,21,19440422
+8,NEW,I Love You,Jo Stafford / Paul Weston & His Orchestra,Jo Stafford / Paul Weston,pop,unknown,19440422,8,8,2,19440422
+9,NEW,"It's Love, Love, Love",The King Sisters With Vocal Chorus,The King Sisters With Vocal Chorus,pop,unknown,19440422,9,4,4,19440422
+10,10,Besame Mucho,Andy Russell,Andy Russell,pop,spanish,19440415,10,10,2,19440422
+1,3,"It's Love, Love, Love",Guy Lombardo & His Royal Canadians / Skip Nelson,Guy Lombardo,jazz,jazz,19440408,3,1,10,19440415
+2,2,Holiday For Strings,David Rose & His Orchestra,David Rose & His Orchestra,pop,easy listening,19440212,7,2,18,19440415
+3,NEW,I Love You,Bing Crosby,Bing Crosby,jazz,jazz,19440415,3,1,14,19440415
+4,1,Besame Mucho (Kiss Me Much),Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,jazz,19440122,5,1,15,19440415
+5,NEW,I'll Get By,Harry James & His Music Makers / Dick Haymes,Harry James,jazz,jazz,19440415,5,1,21,19440415
+6,4,When They Ask About You,Jimmy Dorsey & His Orchestra / Kitty Kallen,Jimmy Dorsey,jazz,jazz,19440408,4,4,3,19440415
+7,6,San Fernando Valley,Bing Crosby,Bing Crosby,jazz,jazz,19440408,6,2,12,19440415
+8,8,Poinciana (Song Of The Tree),Bing Crosby,Bing Crosby,jazz,jazz,19440401,6,6,3,19440415
+9,5,Mairzy Doats,The Merry Macs,The Merry Macs,pop,big band,19440219,7,2,9,19440415
+10,NEW,Besame Mucho,Andy Russell,Andy Russell,pop,spanish,19440415,10,10,2,19440415
+1,1,Besame Mucho (Kiss Me Much),Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,jazz,19440122,5,1,15,19440408
+2,2,Holiday For Strings,David Rose & His Orchestra,David Rose & His Orchestra,pop,easy listening,19440212,7,2,18,19440408
+3,NEW,"It's Love, Love, Love",Guy Lombardo & His Royal Canadians / Skip Nelson,Guy Lombardo,jazz,jazz,19440408,3,1,10,19440408
+4,NEW,When They Ask About You,Jimmy Dorsey & His Orchestra / Kitty Kallen,Jimmy Dorsey,jazz,jazz,19440408,4,4,3,19440408
+5,3,Mairzy Doats,The Merry Macs,The Merry Macs,pop,big band,19440219,7,2,9,19440408
+6,NEW,San Fernando Valley,Bing Crosby,Bing Crosby,jazz,jazz,19440408,6,2,12,19440408
+7,5,I Couldn't Sleep A Wink Last Night,Frank Sinatra & The Bobby Tucker Singers / Axel Stardahl,Frank Sinatra,jazz,jazz,19440311,6,5,5,19440408
+8,6,Poinciana (Song Of The Tree),Bing Crosby,Bing Crosby,jazz,jazz,19440401,6,6,3,19440408
+9,4,Shoo-Shoo-Shoo Baby,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,swing,19440122,2,2,12,19440408
+10,NEW,Do Nothin' Till You Hear From Me,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,jazz,19440408,10,10,1,19440408
+1,1,Besame Mucho (Kiss Me Much),Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,jazz,19440122,5,1,15,19440401
+2,4,Holiday For Strings,David Rose & His Orchestra,David Rose & His Orchestra,pop,easy listening,19440212,7,2,18,19440401
+3,2,Mairzy Doats,The Merry Macs,The Merry Macs,pop,big band,19440219,7,2,9,19440401
+4,3,Shoo-Shoo-Shoo Baby,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,swing,19440122,2,2,12,19440401
+5,5,I Couldn't Sleep A Wink Last Night,Frank Sinatra & The Bobby Tucker Singers / Axel Stardahl,Frank Sinatra,jazz,jazz,19440311,6,5,5,19440401
+6,NEW,Poinciana (Song Of The Tree),Bing Crosby,Bing Crosby,jazz,jazz,19440401,6,6,3,19440401
+7,NEW,I Love You,Enric Madriguera & His Orchestra / Bob Lido,Enric Madriguera,pop,latin,19440401,7,7,1,19440401
+8,NEW,Mairzy Doats,The Pied Pipers / Paul Weston & His Orchestra,The Pied Pipers / Paul Weston,pop,unknown,19440401,8,8,1,19440401
+9,9,My Heart Tells Me (Should I Believe My Heart?),Glen Gray & His Orchestra / Eugenie Baird,Glen Gray,pop,big band,19431120,8,1,20,19440401
+10,NEW,"Shoo-Shoo-Shoo, Baby",Ella Mae Morse,Ella Mae Morse,jazz,jazz,19440401,10,10,1,19440401
+1,1,Besame Mucho (Kiss Me Much),Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,jazz,19440122,5,1,15,19440325
+2,2,Mairzy Doats,The Merry Macs,The Merry Macs,pop,big band,19440219,7,2,9,19440325
+3,4,Shoo-Shoo-Shoo Baby,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,swing,19440122,2,2,12,19440325
+4,3,Holiday For Strings,David Rose & His Orchestra,David Rose & His Orchestra,pop,easy listening,19440212,7,2,18,19440325
+5,7,I Couldn't Sleep A Wink Last Night,Frank Sinatra & The Bobby Tucker Singers / Axel Stardahl,Frank Sinatra,jazz,jazz,19440311,6,5,5,19440325
+6,6,Speak Low,Guy Lombardo & His Royal Canadians / Billy Leach,Guy Lombardo,jazz,jazz,19440226,10,6,5,19440325
+7,10,Star Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,jazz,19440101,4,3,13,19440325
+8,NEW,When They Ask About You,Jimmy Dorsey & His Orchestra / Kitty Kallen,Jimmy Dorsey,jazz,jazz,19440325,8,8,1,19440325
+9,8,My Heart Tells Me (Should I Believe My Heart?),Glen Gray & His Orchestra / Eugenie Baird,Glen Gray,pop,big band,19431120,8,1,20,19440325
+10,NEW,Do Nothin' Till You Hear From Me,Stan Kenton / Red Dorris,Stan Kenton / Red Dorris,pop,unknown,19440325,10,10,1,19440325
+1,1,Besame Mucho (Kiss Me Much),Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,jazz,19440122,5,1,15,19440318
+2,2,Mairzy Doats,The Merry Macs,The Merry Macs,pop,big band,19440219,7,2,9,19440318
+3,4,Holiday For Strings,David Rose & His Orchestra,David Rose & His Orchestra,pop,easy listening,19440212,7,2,18,19440318
+4,5,Shoo-Shoo-Shoo Baby,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,swing,19440122,2,2,12,19440318
+5,NEW,Poinciana (Song Of The Tree),Bing Crosby,Bing Crosby,jazz,jazz,19440318,5,5,1,19440318
+6,8,Speak Low,Guy Lombardo & His Royal Canadians / Billy Leach,Guy Lombardo,jazz,jazz,19440226,10,6,5,19440318
+7,6,I Couldn't Sleep A Wink Last Night,Frank Sinatra & The Bobby Tucker Singers / Axel Stardahl,Frank Sinatra,jazz,jazz,19440311,6,5,5,19440318
+8,3,My Heart Tells Me (Should I Believe My Heart?),Glen Gray & His Orchestra / Eugenie Baird,Glen Gray,pop,big band,19431120,8,1,20,19440318
+9,10,Shoo-Shoo-Shoo Baby,Ella Mae Morse,Ella Mae Morse,jazz,jazz,19431218,6,4,14,19440318
+10,9,Star Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,jazz,19440101,4,3,13,19440318
+1,1,Besame Mucho (Kiss Me Much),Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,jazz,19440122,5,1,15,19440311
+2,2,Mairzy Doats,The Merry Macs,The Merry Macs,pop,big band,19440219,7,2,9,19440311
+3,4,My Heart Tells Me (Should I Believe My Heart?),Glen Gray & His Orchestra / Eugenie Baird,Glen Gray,pop,big band,19431120,8,1,20,19440311
+4,5,Holiday For Strings,David Rose & His Orchestra,David Rose & His Orchestra,pop,easy listening,19440212,7,2,18,19440311
+5,3,Shoo-Shoo-Shoo Baby,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,swing,19440122,2,2,12,19440311
+6,NEW,I Couldn't Sleep A Wink Last Night,Frank Sinatra & The Bobby Tucker Singers / Axel Stardahl,Frank Sinatra,jazz,jazz,19440311,6,5,5,19440311
+7,NEW,Mairzy Doats,Al Trace & His Orchestra / Red Maddox,Al Trace,jazz,jazz,19440311,7,7,1,19440311
+8,8,Speak Low,Guy Lombardo & His Royal Canadians / Billy Leach,Guy Lombardo,jazz,jazz,19440226,10,6,5,19440311
+9,7,Star Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,jazz,19440101,4,3,13,19440311
+10,6,Shoo-Shoo-Shoo Baby,Ella Mae Morse,Ella Mae Morse,jazz,jazz,19431218,6,4,14,19440311
+1,1,Besame Mucho (Kiss Me Much),Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,jazz,19440122,5,1,15,19440304
+2,3,Mairzy Doats,The Merry Macs,The Merry Macs,pop,big band,19440219,7,2,9,19440304
+3,5,Shoo-Shoo-Shoo Baby,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,swing,19440122,2,2,12,19440304
+4,2,My Heart Tells Me (Should I Believe My Heart?),Glen Gray & His Orchestra / Eugenie Baird,Glen Gray,pop,big band,19431120,8,1,20,19440304
+5,7,Holiday For Strings,David Rose & His Orchestra,David Rose & His Orchestra,pop,easy listening,19440212,7,2,18,19440304
+6,4,Shoo-Shoo-Shoo Baby,Ella Mae Morse,Ella Mae Morse,jazz,jazz,19431218,6,4,14,19440304
+7,6,Star Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,jazz,19440101,4,3,13,19440304
+8,10,Speak Low,Guy Lombardo & His Royal Canadians / Billy Leach,Guy Lombardo,jazz,jazz,19440226,10,6,5,19440304
+9,NEW,Do Nothin' Til You Hear From Me,Woody Herman & His Orchestra,Woody Herman & His Orchestra,jazz,jazz,19440304,9,9,1,19440304
+10,NEW,Poinciana (Song Of The Tree),Bing Crosby,Bing Crosby,jazz,jazz,19440304,10,10,1,19440304
+1,2,Besame Mucho (Kiss Me Much),Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,jazz,19440122,5,1,15,19440226
+2,1,My Heart Tells Me (Should I Believe My Heart?),Glen Gray & His Orchestra / Eugenie Baird,Glen Gray,pop,big band,19431120,8,1,20,19440226
+3,7,Mairzy Doats,The Merry Macs,The Merry Macs,pop,big band,19440219,7,2,9,19440226
+4,5,Shoo-Shoo-Shoo Baby,Ella Mae Morse,Ella Mae Morse,jazz,jazz,19431218,6,4,14,19440226
+5,3,Shoo-Shoo-Shoo Baby,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,swing,19440122,2,2,12,19440226
+6,4,Star Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,jazz,19440101,4,3,13,19440226
+7,9,Holiday For Strings,David Rose & His Orchestra,David Rose & His Orchestra,pop,easy listening,19440212,7,2,18,19440226
+8,6,I Couldn't Sleep A Wink Last Night,Frank Sinatra & The Bobby Tucker Singers / Axel Stardahl,Frank Sinatra,jazz,jazz,19440219,6,6,2,19440226
+9,NEW,Mairzy Doats,Al Trace & His Orchestra / Red Maddox,Al Trace,jazz,jazz,19440226,9,9,1,19440226
+10,NEW,Speak Low,Guy Lombardo & His Royal Canadians / Billy Leach,Guy Lombardo,jazz,jazz,19440226,10,6,5,19440226
+1,1,My Heart Tells Me (Should I Believe My Heart?),Glen Gray & His Orchestra / Eugenie Baird,Glen Gray,pop,big band,19431120,8,1,20,19440219
+2,2,Besame Mucho (Kiss Me Much),Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,jazz,19440122,5,1,15,19440219
+3,3,Shoo-Shoo-Shoo Baby,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,swing,19440122,2,2,12,19440219
+4,6,Star Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,jazz,19440101,4,3,13,19440219
+5,4,Shoo-Shoo-Shoo Baby,Ella Mae Morse,Ella Mae Morse,jazz,jazz,19431218,6,4,14,19440219
+6,NEW,I Couldn't Sleep A Wink Last Night,Frank Sinatra & The Bobby Tucker Singers / Axel Stardahl,Frank Sinatra,jazz,jazz,19440219,6,6,2,19440219
+7,NEW,Mairzy Doats,The Merry Macs,The Merry Macs,pop,big band,19440219,7,2,9,19440219
+8,5,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,jazz,19430731,10,1,30,19440219
+9,7,Holiday For Strings,David Rose & His Orchestra,David Rose & His Orchestra,pop,easy listening,19440212,7,2,18,19440219
+10,8,My Ideal,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,jazz,19440212,8,8,2,19440219
+1,1,My Heart Tells Me (Should I Believe My Heart?),Glen Gray & His Orchestra / Eugenie Baird,Glen Gray,pop,big band,19431120,8,1,20,19440212
+2,3,Besame Mucho (Kiss Me Much),Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,jazz,19440122,5,1,15,19440212
+3,2,Shoo-Shoo-Shoo Baby,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,swing,19440122,2,2,12,19440212
+4,6,Shoo-Shoo-Shoo Baby,Ella Mae Morse,Ella Mae Morse,jazz,jazz,19431218,6,4,14,19440212
+5,4,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,jazz,19430731,10,1,30,19440212
+6,5,Star Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,jazz,19440101,4,3,13,19440212
+7,NEW,Holiday For Strings,David Rose & His Orchestra,David Rose & His Orchestra,pop,easy listening,19440212,7,2,18,19440212
+8,NEW,My Ideal,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,jazz,19440212,8,8,2,19440212
+9,NEW,Mairzy Doats,Al Trace & His Orchestra / Al Trace & Red Maddox,Al Trace,jazz,jazz,19440212,9,9,1,19440212
+10,10,Speak Low,Guy Lombardo & His Royal Canadians / Billy Leach,Guy Lombardo,jazz,jazz,19440205,10,10,2,19440212
+1,1,My Heart Tells Me (Should I Believe My Heart?),Glen Gray & His Orchestra / Eugenie Baird,Glen Gray,pop,big band,19431120,8,1,20,19440205
+2,4,Shoo-Shoo-Shoo Baby,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,swing,19440122,2,2,12,19440205
+3,2,Besame Mucho (Kiss Me Much),Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,jazz,19440122,5,1,15,19440205
+4,3,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,jazz,19430731,10,1,30,19440205
+5,5,Star Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,jazz,19440101,4,3,13,19440205
+6,6,Shoo-Shoo-Shoo Baby,Ella Mae Morse,Ella Mae Morse,jazz,jazz,19431218,6,4,14,19440205
+7,8,"No Love, No Nothin'",Ella Mae Morse,Ella Mae Morse,jazz,jazz,19440129,8,7,2,19440205
+8,7,My Shining Hour,Glen Gray & The Casa Loma Orchestra / Eugenie Baird,Glen Gray,pop,big band,19440115,4,4,4,19440205
+9,NEW,I Couldn't Sleep A Wink Last Night,Frank Sinatra & The Bobby Tucker Singers / Axel Stardahl,Frank Sinatra,jazz,jazz,19440205,9,9,1,19440205
+10,NEW,Speak Low,Guy Lombardo & His Royal Canadians / Billy Leach,Guy Lombardo,jazz,jazz,19440205,10,10,2,19440205
+1,1,My Heart Tells Me (Should I Believe My Heart?),Glen Gray & His Orchestra / Eugenie Baird,Glen Gray,pop,big band,19431120,8,1,20,19440129
+2,5,Besame Mucho (Kiss Me Much),Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,jazz,19440122,5,1,15,19440129
+3,3,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,jazz,19430731,10,1,30,19440129
+4,2,Shoo-Shoo-Shoo Baby,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,swing,19440122,2,2,12,19440129
+5,4,Star Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,jazz,19440101,4,3,13,19440129
+6,6,Shoo-Shoo-Shoo Baby,Ella Mae Morse,Ella Mae Morse,jazz,jazz,19431218,6,4,14,19440129
+7,9,My Shining Hour,Glen Gray & The Casa Loma Orchestra / Eugenie Baird,Glen Gray,pop,big band,19440115,4,4,4,19440129
+8,NEW,"No Love, No Nothin'",Ella Mae Morse,Ella Mae Morse,jazz,jazz,19440129,8,7,2,19440129
+9,NEW,My Ideal,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,jazz,19440129,9,9,1,19440129
+10,NEW,Do Nothin' Till You Hear From Me,Duke Ellington & His Orchestra,Duke Ellington & His Orchestra,jazz,jazz,19440129,10,10,1,19440129
+1,2,My Heart Tells Me (Should I Believe My Heart?),Glen Gray & His Orchestra / Eugenie Baird,Glen Gray,pop,big band,19431120,8,1,20,19440122
+2,NEW,Shoo-Shoo-Shoo Baby,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,swing,19440122,2,2,12,19440122
+3,1,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,jazz,19430731,10,1,30,19440122
+4,3,Star Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,jazz,19440101,4,3,13,19440122
+5,NEW,Besame Mucho (Kiss Me Much),Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,jazz,19440122,5,1,15,19440122
+6,6,Shoo-Shoo-Shoo Baby,Ella Mae Morse,Ella Mae Morse,jazz,jazz,19431218,6,4,14,19440122
+7,7,They're Either Too Young Or Too Old,Jimmy Dorsey & His Orchestra / Kitty Kallen,Jimmy Dorsey,jazz,jazz,19431127,10,3,9,19440122
+8,NEW,Speak Low,Guy Lombardo & His Royal Canadians / Billy Leach,Guy Lombardo,jazz,jazz,19440122,8,8,1,19440122
+9,4,My Shining Hour,Glen Gray & The Casa Loma Orchestra / Eugenie Baird,Glen Gray,pop,big band,19440115,4,4,4,19440122
+10,NEW,Cherry,Harry James & His Music Makers,Harry James,jazz,jazz,19440122,10,10,1,19440122
+1,1,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,jazz,19430731,10,1,30,19440115
+2,2,My Heart Tells Me (Should I Believe My Heart?),Glen Gray & His Orchestra / Eugenie Baird,Glen Gray,pop,big band,19431120,8,1,20,19440115
+3,6,Star Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,jazz,19440101,4,3,13,19440115
+4,NEW,My Shining Hour,Glen Gray & The Casa Loma Orchestra / Eugenie Baird,Glen Gray,pop,big band,19440115,4,4,4,19440115
+5,8,Boogie Woogie,Tommy Dorsey & His Orchestra,Tommy Dorsey & His Orchestra,pop,big band,19440108,8,5,2,19440115
+6,4,Shoo-Shoo-Shoo Baby,Ella Mae Morse,Ella Mae Morse,jazz,jazz,19431218,6,4,14,19440115
+7,5,They're Either Too Young Or Too Old,Jimmy Dorsey & His Orchestra / Kitty Kallen,Jimmy Dorsey,jazz,jazz,19431127,10,3,9,19440115
+8,7,People Will Say We're In Love,"Bing Crosby, Trudy Erwin & The Sportsmen Glee Club",Bing Crosby,jazz,jazz,19440108,7,7,2,19440115
+9,NEW,Blue Rain,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,jazz,19440115,9,9,1,19440115
+10,NEW,How Sweet You Are,Kay Armen,Kay Armen,pop,unknown,19440115,10,10,1,19440115
+1,1,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,jazz,19430731,10,1,30,19440108
+2,2,My Heart Tells Me (Should I Believe My Heart?),Glen Gray & His Orchestra / Eugenie Baird,Glen Gray,pop,big band,19431120,8,1,20,19440108
+3,9,Shoo-Shoo-Shoo Baby,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,swing,19431225,7,3,3,19440108
+4,5,Shoo-Shoo-Shoo Baby,Ella Mae Morse,Ella Mae Morse,jazz,jazz,19431218,6,4,14,19440108
+5,3,They're Either Too Young Or Too Old,Jimmy Dorsey & His Orchestra / Kitty Kallen,Jimmy Dorsey,jazz,jazz,19431127,10,3,9,19440108
+6,4,Star Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,jazz,19440101,4,3,13,19440108
+7,NEW,People Will Say We're In Love,"Bing Crosby, Trudy Erwin & The Sportsmen Glee Club",Bing Crosby,jazz,jazz,19440108,7,7,2,19440108
+8,NEW,Boogie Woogie,Tommy Dorsey & His Orchestra,Tommy Dorsey & His Orchestra,pop,big band,19440108,8,5,2,19440108
+9,NEW,My Ideal,Jimmy Dorsey & His Orchestra / Bob Eberly,Jimmy Dorsey,jazz,jazz,19440108,9,9,1,19440108
+10,NEW,Besame Mucho (Kiss Me Much),Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,jazz,19440108,10,10,1,19440108
+1,1,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,jazz,19430731,10,1,30,19440101
+2,2,My Heart Tells Me (Should I Believe My Heart?),Glen Gray & His Orchestra / Eugenie Baird,Glen Gray,pop,big band,19431120,8,1,20,19440101
+3,5,They're Either Too Young Or Too Old,Jimmy Dorsey & His Orchestra / Kitty Kallen,Jimmy Dorsey,jazz,jazz,19431127,10,3,9,19440101
+4,NEW,Star Eyes,Jimmy Dorsey & His Orchestra / Bob Eberly & Kitty Kallen,Jimmy Dorsey,jazz,jazz,19440101,4,3,13,19440101
+5,8,Shoo-Shoo-Shoo Baby,Ella Mae Morse,Ella Mae Morse,jazz,jazz,19431218,6,4,14,19440101
+6,6,"Oh, What A Beautiful Mornin'","Bing Crosby, Trudy Erwin And The Sportsmen Glee Club",Bing Crosby,jazz,jazz,19431106,7,5,9,19440101
+7,NEW,Pistol Packin' Mama,Al Dexter & His Troopers,Al Dexter,country / folk,country,19440101,7,7,1,19440101
+8,3,I'll Be Home For Christmas (If Only In My Dreams),Bing Crosby,Bing Crosby,jazz,jazz,19431204,10,3,5,19440101
+9,7,Shoo-Shoo-Shoo Baby,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,swing,19431225,7,3,3,19440101
+10,NEW,Oklahoma Cast Album,Various Artists,Various Artists,pop,electronic,19440101,10,10,1,19440101

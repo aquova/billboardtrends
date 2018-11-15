@@ -1,521 +1,521 @@
-this_week_position,last_week_position,track,artist,clean_artist,genre,entry_date,entry_position,peak_position,total_weeks,chart_date
-1,1,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,19430731,10,1,30,19431225
-2,7,My Heart Tells Me (Should I Believe My Heart?),Glen Gray & His Orchestra / Eugenie Baird,Glen Gray,pop,19431120,8,1,20,19431225
-3,3,I'll Be Home For Christmas (If Only In My Dreams),Bing Crosby,Bing Crosby,jazz,19431204,10,3,5,19431225
-4,4,People Will Say We're In Love,"Bing Crosby, Trudy Erwin & The Sportsmen",Bing Crosby,jazz,19431009,10,2,12,19431225
-5,8,They're Either Too Young Or Too Old,Jimmy Dorsey & His Orchestra / Kitty Kallen,Jimmy Dorsey,jazz,19431127,10,3,9,19431225
-6,5,"Oh, What A Beautiful Mornin'","Bing Crosby, Trudy Erwin And The Sportsmen Glee Club",Bing Crosby,jazz,19431106,7,5,9,19431225
-7,NEW,Shoo-Shoo-Shoo Baby,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,19431225,7,3,3,19431225
-8,6,Shoo-Shoo-Shoo Baby,Ella Mae Morse,Ella Mae Morse,jazz,19431218,6,4,14,19431225
-9,NEW,White Christmas,Bing Crosby & The Ken Darby Singers / John Scott Trotter,Bing Crosby,jazz,19431225,9,9,1,19431225
-10,2,Pistol Packin' Mama,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,19431030,8,2,9,19431225
-1,1,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,19430731,10,1,30,19431218
-2,2,Pistol Packin' Mama,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,19431030,8,2,9,19431218
-3,4,I'll Be Home For Christmas (If Only In My Dreams),Bing Crosby,Bing Crosby,jazz,19431204,10,3,5,19431218
-4,3,People Will Say We're In Love,"Bing Crosby, Trudy Erwin & The Sportsmen",Bing Crosby,jazz,19431009,10,2,12,19431218
-5,6,"Oh, What A Beautiful Mornin'","Bing Crosby, Trudy Erwin And The Sportsmen Glee Club",Bing Crosby,jazz,19431106,7,5,9,19431218
-6,NEW,Shoo-Shoo-Shoo Baby,Ella Mae Morse,Ella Mae Morse,jazz,19431218,6,4,14,19431218
-7,5,My Heart Tells Me (Should I Believe My Heart?),Glen Gray & His Orchestra / Eugenie Baird,Glen Gray,pop,19431120,8,1,20,19431218
-8,10,They're Either Too Young Or Too Old,Jimmy Dorsey & His Orchestra / Kitty Kallen,Jimmy Dorsey,jazz,19431127,10,3,9,19431218
-9,NEW,Pistol Packin' Mama,Al Dexter & His Troopers,Al Dexter,country / folk,19431218,9,9,1,19431218
-10,8,"Sunday, Monday Or Always",Bing Crosby & The Ken Darby Singers,Bing Crosby,jazz,19430821,7,1,18,19431218
-1,1,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,19430731,10,1,30,19431211
-2,2,Pistol Packin' Mama,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,19431030,8,2,9,19431211
-3,3,People Will Say We're In Love,"Bing Crosby, Trudy Erwin & The Sportsmen",Bing Crosby,jazz,19431009,10,2,12,19431211
-4,10,I'll Be Home For Christmas (If Only In My Dreams),Bing Crosby,Bing Crosby,jazz,19431204,10,3,5,19431211
-5,4,My Heart Tells Me (Should I Believe My Heart?),Glen Gray & His Orchestra / Eugenie Baird,Glen Gray,pop,19431120,8,1,20,19431211
-6,6,"Oh, What A Beautiful Mornin'","Bing Crosby, Trudy Erwin And The Sportsmen Glee Club",Bing Crosby,jazz,19431106,7,5,9,19431211
-7,9,Boogie Woogie,Tommy Dorsey & His Orchestra,Tommy Dorsey & His Orchestra,pop,19431127,8,7,3,19431211
-8,5,"Sunday, Monday Or Always",Bing Crosby & The Ken Darby Singers,Bing Crosby,jazz,19430821,7,1,18,19431211
-9,NEW,Oklahoma Cast Album,Various Artists,Various Artists,pop,19431211,9,9,1,19431211
-10,7,They're Either Too Young Or Too Old,Jimmy Dorsey & His Orchestra / Kitty Kallen,Jimmy Dorsey,jazz,19431127,10,3,9,19431211
-1,1,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,19430731,10,1,30,19431204
-2,2,Pistol Packin' Mama,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,19431030,8,2,9,19431204
-3,3,People Will Say We're In Love,"Bing Crosby, Trudy Erwin & The Sportsmen",Bing Crosby,jazz,19431009,10,2,12,19431204
-4,7,My Heart Tells Me (Should I Believe My Heart?),Glen Gray & His Orchestra / Eugenie Baird,Glen Gray,pop,19431120,8,1,20,19431204
-5,4,"Sunday, Monday Or Always",Bing Crosby & The Ken Darby Singers,Bing Crosby,jazz,19430821,7,1,18,19431204
-6,6,"Oh, What A Beautiful Mornin'","Bing Crosby, Trudy Erwin And The Sportsmen Glee Club",Bing Crosby,jazz,19431106,7,5,9,19431204
-7,10,They're Either Too Young Or Too Old,Jimmy Dorsey & His Orchestra / Kitty Kallen,Jimmy Dorsey,jazz,19431127,10,3,9,19431204
-8,NEW,People Will Say We're In Love,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,19431204,8,8,1,19431204
-9,8,Boogie Woogie,Tommy Dorsey & His Orchestra,Tommy Dorsey & His Orchestra,pop,19431127,8,7,3,19431204
-10,NEW,I'll Be Home For Christmas (If Only In My Dreams),Bing Crosby,Bing Crosby,jazz,19431204,10,3,5,19431204
-1,1,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,19430731,10,1,30,19431127
-2,3,Pistol Packin' Mama,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,19431030,8,2,9,19431127
-3,2,People Will Say We're In Love,"Bing Crosby, Trudy Erwin & The Sportsmen",Bing Crosby,jazz,19431009,10,2,12,19431127
-4,4,"Sunday, Monday Or Always",Bing Crosby & The Ken Darby Singers,Bing Crosby,jazz,19430821,7,1,18,19431127
-5,6,Pistol Packin' Mama,Al Dexter & His Troopers,Al Dexter,country / folk,19430821,10,1,15,19431127
-6,9,"Oh, What A Beautiful Mornin'","Bing Crosby, Trudy Erwin And The Sportsmen Glee Club",Bing Crosby,jazz,19431106,7,5,9,19431127
-7,8,My Heart Tells Me (Should I Believe My Heart?),Glen Gray & His Orchestra / Eugenie Baird,Glen Gray,pop,19431120,8,1,20,19431127
-8,NEW,Boogie Woogie,Tommy Dorsey & His Orchestra,Tommy Dorsey & His Orchestra,pop,19431127,8,7,3,19431127
-9,5,"Put Your Arms Around Me, Honey",Dick Haymes & The Song Spinners,Dick Haymes,jazz,19431023,8,5,6,19431127
-10,NEW,They're Either Too Young Or Too Old,Jimmy Dorsey & His Orchestra / Kitty Kallen,Jimmy Dorsey,jazz,19431127,10,3,9,19431127
-1,1,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,19430731,10,1,30,19431120
-2,5,People Will Say We're In Love,"Bing Crosby, Trudy Erwin & The Sportsmen",Bing Crosby,jazz,19431009,10,2,12,19431120
-3,4,Pistol Packin' Mama,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,19431030,8,2,9,19431120
-4,2,"Sunday, Monday Or Always",Bing Crosby & The Ken Darby Singers,Bing Crosby,jazz,19430821,7,1,18,19431120
-5,6,"Put Your Arms Around Me, Honey",Dick Haymes & The Song Spinners,Dick Haymes,jazz,19431023,8,5,6,19431120
-6,3,Pistol Packin' Mama,Al Dexter & His Troopers,Al Dexter,country / folk,19430821,10,1,15,19431120
-7,7,I Heard You Cried Last Night,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19430724,6,4,18,19431120
-8,NEW,My Heart Tells Me (Should I Believe My Heart?),Glen Gray & His Orchestra / Eugenie Baird,Glen Gray,pop,19431120,8,1,20,19431120
-9,8,"Oh, What A Beautiful Mornin'","Bing Crosby, Trudy Erwin And The Sportsmen Glee Club",Bing Crosby,jazz,19431106,7,5,9,19431120
-10,9,People Will Say We're In Love,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,19431002,9,6,8,19431120
-1,1,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,19430731,10,1,30,19431113
-2,3,"Sunday, Monday Or Always",Bing Crosby & The Ken Darby Singers,Bing Crosby,jazz,19430821,7,1,18,19431113
-3,2,Pistol Packin' Mama,Al Dexter & His Troopers,Al Dexter,country / folk,19430821,10,1,15,19431113
-4,5,Pistol Packin' Mama,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,19431030,8,2,9,19431113
-5,4,People Will Say We're In Love,"Bing Crosby, Trudy Erwin & The Sportsmen",Bing Crosby,jazz,19431009,10,2,12,19431113
-6,6,"Put Your Arms Around Me, Honey",Dick Haymes & The Song Spinners,Dick Haymes,jazz,19431023,8,5,6,19431113
-7,9,I Heard You Cried Last Night,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19430724,6,4,18,19431113
-8,7,"Oh, What A Beautiful Mornin'","Bing Crosby, Trudy Erwin And The Sportsmen Glee Club",Bing Crosby,jazz,19431106,7,5,9,19431113
-9,8,People Will Say We're In Love,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,19431002,9,6,8,19431113
-10,NEW,Blue Rain,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,19431113,10,10,1,19431113
-1,1,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,19430731,10,1,30,19431106
-2,2,Pistol Packin' Mama,Al Dexter & His Troopers,Al Dexter,country / folk,19430821,10,1,15,19431106
-3,3,"Sunday, Monday Or Always",Bing Crosby & The Ken Darby Singers,Bing Crosby,jazz,19430821,7,1,18,19431106
-4,4,People Will Say We're In Love,"Bing Crosby, Trudy Erwin & The Sportsmen",Bing Crosby,jazz,19431009,10,2,12,19431106
-5,8,Pistol Packin' Mama,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,19431030,8,2,9,19431106
-6,7,"Put Your Arms Around Me, Honey",Dick Haymes & The Song Spinners,Dick Haymes,jazz,19431023,8,5,6,19431106
-7,NEW,"Oh, What A Beautiful Mornin'","Bing Crosby, Trudy Erwin And The Sportsmen Glee Club",Bing Crosby,jazz,19431106,7,5,9,19431106
-8,6,People Will Say We're In Love,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,19431002,9,6,8,19431106
-9,5,I Heard You Cried Last Night,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19430724,6,4,18,19431106
-10,NEW,"Sunday, Monday Or Always",Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,19431106,10,10,1,19431106
-1,2,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,19430731,10,1,30,19431030
-2,1,Pistol Packin' Mama,Al Dexter & His Troopers,Al Dexter,country / folk,19430821,10,1,15,19431030
-3,3,"Sunday, Monday Or Always",Bing Crosby & The Ken Darby Singers,Bing Crosby,jazz,19430821,7,1,18,19431030
-4,4,People Will Say We're In Love,"Bing Crosby, Trudy Erwin & The Sportsmen",Bing Crosby,jazz,19431009,10,2,12,19431030
-5,5,I Heard You Cried Last Night,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19430724,6,4,18,19431030
-6,6,People Will Say We're In Love,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,19431002,9,6,8,19431030
-7,8,"Put Your Arms Around Me, Honey",Dick Haymes & The Song Spinners,Dick Haymes,jazz,19431023,8,5,6,19431030
-8,NEW,Pistol Packin' Mama,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,19431030,8,2,9,19431030
-9,10,Put Your Arms Around Me Honey,Dick Kuhn & His Orchestra,Dick Kuhn,pop,19431016,8,8,3,19431030
-10,NEW,Blue Rain,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,19431030,10,10,1,19431030
-1,2,Pistol Packin' Mama,Al Dexter & His Troopers,Al Dexter,country / folk,19430821,10,1,15,19431023
-2,3,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,19430731,10,1,30,19431023
-3,1,"Sunday, Monday Or Always",Bing Crosby & The Ken Darby Singers,Bing Crosby,jazz,19430821,7,1,18,19431023
-4,4,People Will Say We're In Love,"Bing Crosby, Trudy Erwin & The Sportsmen",Bing Crosby,jazz,19431009,10,2,12,19431023
-5,5,I Heard You Cried Last Night,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19430724,6,4,18,19431023
-6,7,People Will Say We're In Love,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,19431002,9,6,8,19431023
-7,NEW,You'll Never Know,Dick Haymes & The Song Spinners,Dick Haymes,jazz,19431023,7,7,1,19431023
-8,NEW,"Put Your Arms Around Me, Honey",Dick Haymes & The Song Spinners,Dick Haymes,jazz,19431023,8,5,6,19431023
-9,9,In The Blue Of Evening,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19430703,6,1,17,19431023
-10,8,Put Your Arms Around Me Honey,Dick Kuhn & His Orchestra,Dick Kuhn,pop,19431016,8,8,3,19431023
-1,1,"Sunday, Monday Or Always",Bing Crosby & The Ken Darby Singers,Bing Crosby,jazz,19430821,7,1,18,19431016
-2,3,Pistol Packin' Mama,Al Dexter & His Troopers,Al Dexter,country / folk,19430821,10,1,15,19431016
-3,2,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,19430731,10,1,30,19431016
-4,10,People Will Say We're In Love,"Bing Crosby, Trudy Erwin & The Sportsmen",Bing Crosby,jazz,19431009,10,2,12,19431016
-5,4,I Heard You Cried Last Night,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19430724,6,4,18,19431016
-6,6,You'll Never Know,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,19430724,7,2,13,19431016
-7,7,People Will Say We're In Love,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,19431002,9,6,8,19431016
-8,NEW,Put Your Arms Around Me Honey,Dick Kuhn & His Orchestra,Dick Kuhn,pop,19431016,8,8,3,19431016
-9,9,In The Blue Of Evening,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19430703,6,1,17,19431016
-10,NEW,Boogie Woogie,Tommy Dorsey & His Orchestra,Tommy Dorsey & His Orchestra,pop,19431016,10,10,1,19431016
-1,1,"Sunday, Monday Or Always",Bing Crosby & The Ken Darby Singers,Bing Crosby,jazz,19430821,7,1,18,19431009
-2,2,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,19430731,10,1,30,19431009
-3,3,Pistol Packin' Mama,Al Dexter & His Troopers,Al Dexter,country / folk,19430821,10,1,15,19431009
-4,4,I Heard You Cried Last Night,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19430724,6,4,18,19431009
-5,5,You'll Never Know,Dick Haymes & The Song Spinners,Dick Haymes,jazz,19430703,4,1,15,19431009
-6,8,You'll Never Know,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,19430724,7,2,13,19431009
-7,9,People Will Say We're In Love,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,19431002,9,6,8,19431009
-8,7,All Or Nothing At All,Harry James & His Music Makers / Frank Sinatra,Harry James,jazz,19430612,9,2,18,19431009
-9,6,In The Blue Of Evening,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19430703,6,1,17,19431009
-10,NEW,People Will Say We're In Love,"Bing Crosby, Trudy Erwin & The Sportsmen",Bing Crosby,jazz,19431009,10,2,12,19431009
-1,1,"Sunday, Monday Or Always",Bing Crosby & The Ken Darby Singers,Bing Crosby,jazz,19430821,7,1,18,19431002
-2,2,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,19430731,10,1,30,19431002
-3,3,Pistol Packin' Mama,Al Dexter & His Troopers,Al Dexter,country / folk,19430821,10,1,15,19431002
-4,4,I Heard You Cried Last Night,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19430724,6,4,18,19431002
-5,5,You'll Never Know,Dick Haymes & The Song Spinners,Dick Haymes,jazz,19430703,4,1,15,19431002
-6,6,In The Blue Of Evening,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19430703,6,1,17,19431002
-7,8,All Or Nothing At All,Harry James & His Music Makers / Frank Sinatra,Harry James,jazz,19430612,9,2,18,19431002
-8,7,You'll Never Know,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,19430724,7,2,13,19431002
-9,NEW,People Will Say We're In Love,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,19431002,9,6,8,19431002
-10,NEW,"Sunday, Monday Or Always",Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,19431002,10,10,1,19431002
-1,1,"Sunday, Monday Or Always",Bing Crosby & The Ken Darby Singers,Bing Crosby,jazz,19430821,7,1,18,19430925
-2,2,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,19430731,10,1,30,19430925
-3,4,Pistol Packin' Mama,Al Dexter & His Troopers,Al Dexter,country / folk,19430821,10,1,15,19430925
-4,6,I Heard You Cried Last Night,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19430724,6,4,18,19430925
-5,8,You'll Never Know,Dick Haymes & The Song Spinners,Dick Haymes,jazz,19430703,4,1,15,19430925
-6,5,In The Blue Of Evening,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19430703,6,1,17,19430925
-7,3,You'll Never Know,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,19430724,7,2,13,19430925
-8,7,All Or Nothing At All,Harry James & His Music Makers / Frank Sinatra,Harry James,jazz,19430612,9,2,18,19430925
-9,10,In My Arms,Dick Haymes & The Song Spinners,Dick Haymes,jazz,19430904,9,9,4,19430925
-10,NEW,Close To You,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,19430925,10,10,1,19430925
-1,1,"Sunday, Monday Or Always",Bing Crosby & The Ken Darby Singers,Bing Crosby,jazz,19430821,7,1,18,19430918
-2,7,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,19430731,10,1,30,19430918
-3,2,You'll Never Know,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,19430724,7,2,13,19430918
-4,6,Pistol Packin' Mama,Al Dexter & His Troopers,Al Dexter,country / folk,19430821,10,1,15,19430918
-5,3,In The Blue Of Evening,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19430703,6,1,17,19430918
-6,5,I Heard You Cried Last Night,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19430724,6,4,18,19430918
-7,8,All Or Nothing At All,Harry James & His Music Makers / Frank Sinatra,Harry James,jazz,19430612,9,2,18,19430918
-8,4,You'll Never Know,Dick Haymes & The Song Spinners,Dick Haymes,jazz,19430703,4,1,15,19430918
-9,9,"Sunday, Monday Or Always",Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,19430911,9,9,2,19430918
-10,10,In My Arms,Dick Haymes & The Song Spinners,Dick Haymes,jazz,19430904,9,9,4,19430918
-1,1,"Sunday, Monday Or Always",Bing Crosby & The Ken Darby Singers,Bing Crosby,jazz,19430821,7,1,18,19430911
-2,6,You'll Never Know,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,19430724,7,2,13,19430911
-3,3,In The Blue Of Evening,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19430703,6,1,17,19430911
-4,2,You'll Never Know,Dick Haymes & The Song Spinners,Dick Haymes,jazz,19430703,4,1,15,19430911
-5,7,I Heard You Cried Last Night,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19430724,6,4,18,19430911
-6,8,Pistol Packin' Mama,Al Dexter & His Troopers,Al Dexter,country / folk,19430821,10,1,15,19430911
-7,4,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,19430731,10,1,30,19430911
-8,5,All Or Nothing At All,Harry James & His Music Makers / Frank Sinatra,Harry James,jazz,19430612,9,2,18,19430911
-9,NEW,"Sunday, Monday Or Always",Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,19430911,9,9,2,19430911
-10,9,In My Arms,Dick Haymes & The Song Spinners,Dick Haymes,jazz,19430904,9,9,4,19430911
-1,3,"Sunday, Monday Or Always",Bing Crosby & The Ken Darby Singers,Bing Crosby,jazz,19430821,7,1,18,19430904
-2,5,You'll Never Know,Dick Haymes & The Song Spinners,Dick Haymes,jazz,19430703,4,1,15,19430904
-3,1,In The Blue Of Evening,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19430703,6,1,17,19430904
-4,6,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,19430731,10,1,30,19430904
-5,2,All Or Nothing At All,Harry James & His Music Makers / Frank Sinatra,Harry James,jazz,19430612,9,2,18,19430904
-6,4,You'll Never Know,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,19430724,7,2,13,19430904
-7,7,I Heard You Cried Last Night,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19430724,6,4,18,19430904
-8,9,Pistol Packin' Mama,Al Dexter & His Troopers,Al Dexter,country / folk,19430821,10,1,15,19430904
-9,NEW,In My Arms,Dick Haymes & The Song Spinners,Dick Haymes,jazz,19430904,9,9,4,19430904
-10,8,It Can't Be Wrong,Dick Haymes & The Song Spinners,Dick Haymes,jazz,19430626,10,2,11,19430904
-1,1,In The Blue Of Evening,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19430703,6,1,17,19430828
-2,3,All Or Nothing At All,Harry James & His Music Makers / Frank Sinatra,Harry James,jazz,19430612,9,2,18,19430828
-3,7,"Sunday, Monday Or Always",Bing Crosby & The Ken Darby Singers,Bing Crosby,jazz,19430821,7,1,18,19430828
-4,2,You'll Never Know,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,19430724,7,2,13,19430828
-5,4,You'll Never Know,Dick Haymes & The Song Spinners,Dick Haymes,jazz,19430703,4,1,15,19430828
-6,8,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,19430731,10,1,30,19430828
-7,5,I Heard You Cried Last Night,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19430724,6,4,18,19430828
-8,6,It Can't Be Wrong,Dick Haymes & The Song Spinners,Dick Haymes,jazz,19430626,10,2,11,19430828
-9,10,Pistol Packin' Mama,Al Dexter & His Troopers,Al Dexter,country / folk,19430821,10,1,15,19430828
-10,NEW,It's Always You,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19430828,10,10,1,19430828
-1,1,In The Blue Of Evening,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19430703,6,1,17,19430821
-2,5,You'll Never Know,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,19430724,7,2,13,19430821
-3,4,All Or Nothing At All,Harry James & His Music Makers / Frank Sinatra,Harry James,jazz,19430612,9,2,18,19430821
-4,2,You'll Never Know,Dick Haymes & The Song Spinners,Dick Haymes,jazz,19430703,4,1,15,19430821
-5,8,I Heard You Cried Last Night,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19430724,6,4,18,19430821
-6,3,It Can't Be Wrong,Dick Haymes & The Song Spinners,Dick Haymes,jazz,19430626,10,2,11,19430821
-7,NEW,"Sunday, Monday Or Always",Bing Crosby & The Ken Darby Singers,Bing Crosby,jazz,19430821,7,1,18,19430821
-8,10,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,19430731,10,1,30,19430821
-9,6,Comin' In On A Wing And A Prayer,The Song Spinners,The Song Spinners,pop,19430612,10,1,11,19430821
-10,NEW,Pistol Packin' Mama,Al Dexter & His Troopers,Al Dexter,country / folk,19430821,10,1,15,19430821
-1,3,In The Blue Of Evening,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19430703,6,1,17,19430814
-2,1,You'll Never Know,Dick Haymes & The Song Spinners,Dick Haymes,jazz,19430703,4,1,15,19430814
-3,2,It Can't Be Wrong,Dick Haymes & The Song Spinners,Dick Haymes,jazz,19430626,10,2,11,19430814
-4,4,All Or Nothing At All,Harry James & His Music Makers / Frank Sinatra,Harry James,jazz,19430612,9,2,18,19430814
-5,7,You'll Never Know,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,19430724,7,2,13,19430814
-6,5,Comin' In On A Wing And A Prayer,The Song Spinners,The Song Spinners,pop,19430612,10,1,11,19430814
-7,8,In My Arms,Dick Haymes & The Song Spinners,Dick Haymes,jazz,19430807,8,7,2,19430814
-8,6,I Heard You Cried Last Night,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19430724,6,4,18,19430814
-9,9,It's Always You,Tommy Dorsey / Frank Sinatra,Tommy Dorsey / Frank Sinatra,jazz,19430710,7,6,6,19430814
-10,10,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,19430731,10,1,30,19430814
-1,1,You'll Never Know,Dick Haymes & The Song Spinners,Dick Haymes,jazz,19430703,4,1,15,19430807
-2,2,It Can't Be Wrong,Dick Haymes & The Song Spinners,Dick Haymes,jazz,19430626,10,2,11,19430807
-3,3,In The Blue Of Evening,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19430703,6,1,17,19430807
-4,4,All Or Nothing At All,Harry James & His Music Makers / Frank Sinatra,Harry James,jazz,19430612,9,2,18,19430807
-5,5,Comin' In On A Wing And A Prayer,The Song Spinners,The Song Spinners,pop,19430612,10,1,11,19430807
-6,8,I Heard You Cried Last Night,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19430724,6,4,18,19430807
-7,6,You'll Never Know,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,19430724,7,2,13,19430807
-8,NEW,In My Arms,Dick Haymes & The Song Spinners,Dick Haymes,jazz,19430807,8,7,2,19430807
-9,7,It's Always You,Tommy Dorsey / Frank Sinatra,Tommy Dorsey / Frank Sinatra,jazz,19430710,7,6,6,19430807
-10,10,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,19430731,10,1,30,19430807
-1,1,You'll Never Know,Dick Haymes & The Song Spinners,Dick Haymes,jazz,19430703,4,1,15,19430731
-2,2,It Can't Be Wrong,Dick Haymes & The Song Spinners,Dick Haymes,jazz,19430626,10,2,11,19430731
-3,5,In The Blue Of Evening,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19430703,6,1,17,19430731
-4,4,All Or Nothing At All,Harry James & His Music Makers / Frank Sinatra,Harry James,jazz,19430612,9,2,18,19430731
-5,3,Comin' In On A Wing And A Prayer,The Song Spinners,The Song Spinners,pop,19430612,10,1,11,19430731
-6,7,You'll Never Know,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,19430724,7,2,13,19430731
-7,8,It's Always You,Tommy Dorsey / Frank Sinatra,Tommy Dorsey / Frank Sinatra,jazz,19430710,7,6,6,19430731
-8,6,I Heard You Cried Last Night,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19430724,6,4,18,19430731
-9,9,Johnny Zero,The Song Spinners,The Song Spinners,pop,19430717,8,8,3,19430731
-10,NEW,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,19430731,10,1,30,19430731
-1,1,You'll Never Know,Dick Haymes & The Song Spinners,Dick Haymes,jazz,19430703,4,1,15,19430724
-2,3,It Can't Be Wrong,Dick Haymes & The Song Spinners,Dick Haymes,jazz,19430626,10,2,11,19430724
-3,2,Comin' In On A Wing And A Prayer,The Song Spinners,The Song Spinners,pop,19430612,10,1,11,19430724
-4,5,All Or Nothing At All,Harry James & His Music Makers / Frank Sinatra,Harry James,jazz,19430612,9,2,18,19430724
-5,4,In The Blue Of Evening,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19430703,6,1,17,19430724
-6,NEW,I Heard You Cried Last Night,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19430724,6,4,18,19430724
-7,NEW,You'll Never Know,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,19430724,7,2,13,19430724
-8,6,It's Always You,Tommy Dorsey / Frank Sinatra,Tommy Dorsey / Frank Sinatra,jazz,19430710,7,6,6,19430724
-9,8,Johnny Zero,The Song Spinners,The Song Spinners,pop,19430717,8,8,3,19430724
-10,NEW,In My Arms,Dick Haymes & The Song Spinners,Dick Haymes,jazz,19430724,10,10,1,19430724
-1,2,You'll Never Know,Dick Haymes & The Song Spinners,Dick Haymes,jazz,19430703,4,1,15,19430717
-2,1,Comin' In On A Wing And A Prayer,The Song Spinners,The Song Spinners,pop,19430612,10,1,11,19430717
-3,3,It Can't Be Wrong,Dick Haymes & The Song Spinners,Dick Haymes,jazz,19430626,10,2,11,19430717
-4,5,In The Blue Of Evening,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19430703,6,1,17,19430717
-5,4,All Or Nothing At All,Harry James & His Music Makers / Frank Sinatra,Harry James,jazz,19430612,9,2,18,19430717
-6,7,It's Always You,Tommy Dorsey / Frank Sinatra,Tommy Dorsey / Frank Sinatra,jazz,19430710,7,6,6,19430717
-7,6,Let's Get Lost,Kay Kyser & His Orchestra / Harry Babbitt,Kay Kyser,jazz,19430619,5,4,5,19430717
-8,NEW,Johnny Zero,The Song Spinners,The Song Spinners,pop,19430717,8,8,3,19430717
-9,9,Don't Get Around Much Anymore,Glen Gray & The Casa Loma Orchestra / Kenny Sargent,Glen Gray,pop,19430710,9,9,2,19430717
-10,NEW,As Time Goes By,Jacque Renard & Orchestra / Frank Munn,Jacque Renard,pop,19430717,10,10,1,19430717
-1,1,Comin' In On A Wing And A Prayer,The Song Spinners,The Song Spinners,pop,19430612,10,1,11,19430710
-2,4,You'll Never Know,Dick Haymes & The Song Spinners,Dick Haymes,jazz,19430703,4,1,15,19430710
-3,2,It Can't Be Wrong,Dick Haymes & The Song Spinners,Dick Haymes,jazz,19430626,10,2,11,19430710
-4,3,All Or Nothing At All,Harry James & His Music Makers / Frank Sinatra,Harry James,jazz,19430612,9,2,18,19430710
-5,6,In The Blue Of Evening,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19430703,6,1,17,19430710
-6,10,Let's Get Lost,Kay Kyser & His Orchestra / Harry Babbitt,Kay Kyser,jazz,19430619,5,4,5,19430710
-7,NEW,It's Always You,Tommy Dorsey / Frank Sinatra,Tommy Dorsey / Frank Sinatra,jazz,19430710,7,6,6,19430710
-8,5,Taking A Chance On Love,Benny Goodman & His Orchestra / Helen Forrest,Benny Goodman,jazz,19430501,10,1,11,19430710
-9,NEW,Don't Get Around Much Anymore,Glen Gray & The Casa Loma Orchestra / Kenny Sargent,Glen Gray,pop,19430710,9,9,2,19430710
-10,NEW,Don't Get Around Much Anymore,The Ink Spots,The Ink Spots,jazz,19430710,10,10,1,19430710
-1,1,Comin' In On A Wing And A Prayer,The Song Spinners,The Song Spinners,pop,19430612,10,1,11,19430703
-2,10,It Can't Be Wrong,Dick Haymes & The Song Spinners,Dick Haymes,jazz,19430626,10,2,11,19430703
-3,3,All Or Nothing At All,Harry James & His Music Makers / Frank Sinatra,Harry James,jazz,19430612,9,2,18,19430703
-4,NEW,You'll Never Know,Dick Haymes & The Song Spinners,Dick Haymes,jazz,19430703,4,1,15,19430703
-5,2,Taking A Chance On Love,Benny Goodman & His Orchestra / Helen Forrest,Benny Goodman,jazz,19430501,10,1,11,19430703
-6,NEW,In The Blue Of Evening,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,19430703,6,1,17,19430703
-7,NEW,Johnny Zero,The Song Spinners,The Song Spinners,pop,19430703,7,7,1,19430703
-8,8,Don't Get Around Much Anymore,Duke Ellington & His Orchestra,Duke Ellington & His Orchestra,jazz,19430626,8,8,2,19430703
-9,5,Velvet Moon,Harry James & His Music Makers,Harry James,jazz,19430410,8,2,13,19430703
-10,4,Let's Get Lost,Kay Kyser & His Orchestra / Harry Babbitt,Kay Kyser,jazz,19430619,5,4,5,19430703
-1,2,Comin' In On A Wing And A Prayer,The Song Spinners,The Song Spinners,pop,19430612,10,1,11,19430626
-2,1,Taking A Chance On Love,Benny Goodman & His Orchestra / Helen Forrest,Benny Goodman,jazz,19430501,10,1,11,19430626
-3,3,All Or Nothing At All,Harry James & His Music Makers / Frank Sinatra,Harry James,jazz,19430612,9,2,18,19430626
-4,5,Let's Get Lost,Kay Kyser & His Orchestra / Harry Babbitt,Kay Kyser,jazz,19430619,5,4,5,19430626
-5,4,Velvet Moon,Harry James & His Music Makers,Harry James,jazz,19430410,8,2,13,19430626
-6,7,You'll Never Know,Willie Kelly,Willie Kelly,pop,19430605,10,6,4,19430626
-7,6,Don't Get Around Much Anymore,The Ink Spots,The Ink Spots,jazz,19430403,8,2,13,19430626
-8,NEW,Don't Get Around Much Anymore,Duke Ellington & His Orchestra,Duke Ellington & His Orchestra,jazz,19430626,8,8,2,19430626
-9,8,As Time Goes By,Jacques Renard & Orchestra / Frank Munn,Jacques Renard,pop,19430320,10,3,15,19430626
-10,NEW,It Can't Be Wrong,Dick Haymes & The Song Spinners,Dick Haymes,jazz,19430626,10,2,11,19430626
-1,1,Taking A Chance On Love,Benny Goodman & His Orchestra / Helen Forrest,Benny Goodman,jazz,19430501,10,1,11,19430619
-2,10,Comin' In On A Wing And A Prayer,The Song Spinners,The Song Spinners,pop,19430612,10,1,11,19430619
-3,9,All Or Nothing At All,Harry James & His Music Makers / Frank Sinatra,Harry James,jazz,19430612,9,2,18,19430619
-4,3,Velvet Moon,Harry James & His Music Makers,Harry James,jazz,19430410,8,2,13,19430619
-5,NEW,Let's Get Lost,Kay Kyser & His Orchestra / Harry Babbitt,Kay Kyser,jazz,19430619,5,4,5,19430619
-6,5,Don't Get Around Much Anymore,The Ink Spots,The Ink Spots,jazz,19430403,8,2,13,19430619
-7,6,You'll Never Know,Willie Kelly,Willie Kelly,pop,19430605,10,6,4,19430619
-8,4,As Time Goes By,Jacques Renard & Orchestra / Frank Munn,Jacques Renard,pop,19430320,10,3,15,19430619
-9,2,As Time Goes By,Rudy Vallee,Rudy Vallee,pop,19430417,8,2,10,19430619
-10,7,Don't Get Around Much Anymore,Glen Gray & The Casa Loma Orchestra / Kenny Sargent,Glen Gray,pop,19430522,9,7,5,19430619
-1,1,Taking A Chance On Love,Benny Goodman & His Orchestra / Helen Forrest,Benny Goodman,jazz,19430501,10,1,11,19430612
-2,4,As Time Goes By,Rudy Vallee,Rudy Vallee,pop,19430417,8,2,10,19430612
-3,2,Velvet Moon,Harry James & His Music Makers,Harry James,jazz,19430410,8,2,13,19430612
-4,6,As Time Goes By,Jacques Renard & Orchestra / Frank Munn,Jacques Renard,pop,19430320,10,3,15,19430612
-5,3,Don't Get Around Much Anymore,The Ink Spots,The Ink Spots,jazz,19430403,8,2,13,19430612
-6,10,You'll Never Know,Willie Kelly,Willie Kelly,pop,19430605,10,6,4,19430612
-7,9,Don't Get Around Much Anymore,Glen Gray & The Casa Loma Orchestra / Kenny Sargent,Glen Gray,pop,19430522,9,7,5,19430612
-8,8,Let's Get Lost,Vaughn Monroe & His Orchestra / The Four Lee Sisters,Vaughn Monroe,jazz,19430605,8,8,2,19430612
-9,NEW,All Or Nothing At All,Harry James & His Music Makers / Frank Sinatra,Harry James,jazz,19430612,9,2,18,19430612
-10,NEW,Comin' In On A Wing And A Prayer,The Song Spinners,The Song Spinners,pop,19430612,10,1,11,19430612
-1,2,Taking A Chance On Love,Benny Goodman & His Orchestra / Helen Forrest,Benny Goodman,jazz,19430501,10,1,11,19430605
-2,7,Velvet Moon,Harry James & His Music Makers,Harry James,jazz,19430410,8,2,13,19430605
-3,3,Don't Get Around Much Anymore,The Ink Spots,The Ink Spots,jazz,19430403,8,2,13,19430605
-4,8,As Time Goes By,Rudy Vallee,Rudy Vallee,pop,19430417,8,2,10,19430605
-5,1,I've Heard That Song Before,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19430123,7,1,20,19430605
-6,6,As Time Goes By,Jacques Renard & Orchestra / Frank Munn,Jacques Renard,pop,19430320,10,3,15,19430605
-7,5,That Old Black Magic,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,19430306,7,1,14,19430605
-8,NEW,Let's Get Lost,Vaughn Monroe & His Orchestra / The Four Lee Sisters,Vaughn Monroe,jazz,19430605,8,8,2,19430605
-9,9,Don't Get Around Much Anymore,Glen Gray & The Casa Loma Orchestra / Kenny Sargent,Glen Gray,pop,19430522,9,7,5,19430605
-10,NEW,You'll Never Know,Willie Kelly,Willie Kelly,pop,19430605,10,6,4,19430605
-1,4,I've Heard That Song Before,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19430123,7,1,20,19430529
-2,8,Taking A Chance On Love,Benny Goodman & His Orchestra / Helen Forrest,Benny Goodman,jazz,19430501,10,1,11,19430529
-3,2,Don't Get Around Much Anymore,The Ink Spots,The Ink Spots,jazz,19430403,8,2,13,19430529
-4,3,Brazil (Aquarela Do Brasil),Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,19430123,10,2,19,19430529
-5,1,That Old Black Magic,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,19430306,7,1,14,19430529
-6,7,As Time Goes By,Jacques Renard & Orchestra / Frank Munn,Jacques Renard,pop,19430320,10,3,15,19430529
-7,6,Velvet Moon,Harry James & His Music Makers,Harry James,jazz,19430410,8,2,13,19430529
-8,5,As Time Goes By,Rudy Vallee,Rudy Vallee,pop,19430417,8,2,10,19430529
-9,9,Don't Get Around Much Anymore,Glen Gray & The Casa Loma Orchestra / Kenny Sargent,Glen Gray,pop,19430522,9,7,5,19430529
-10,10,For Me And My Gal,Judy Garland & Gene Kelly / David Rose & His Orchestra,Judy Garland,jazz,19430522,10,10,2,19430529
-1,3,That Old Black Magic,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,19430306,7,1,14,19430522
-2,7,Don't Get Around Much Anymore,The Ink Spots,The Ink Spots,jazz,19430403,8,2,13,19430522
-3,5,Brazil (Aquarela Do Brasil),Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,19430123,10,2,19,19430522
-4,1,I've Heard That Song Before,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19430123,7,1,20,19430522
-5,9,As Time Goes By,Rudy Vallee,Rudy Vallee,pop,19430417,8,2,10,19430522
-6,2,Velvet Moon,Harry James & His Music Makers,Harry James,jazz,19430410,8,2,13,19430522
-7,8,As Time Goes By,Jacques Renard & Orchestra / Frank Munn,Jacques Renard,pop,19430320,10,3,15,19430522
-8,4,Taking A Chance On Love,Benny Goodman & His Orchestra / Helen Forrest,Benny Goodman,jazz,19430501,10,1,11,19430522
-9,NEW,Don't Get Around Much Anymore,Glen Gray & The Casa Loma Orchestra / Kenny Sargent,Glen Gray,pop,19430522,9,7,5,19430522
-10,NEW,For Me And My Gal,Judy Garland & Gene Kelly / David Rose & His Orchestra,Judy Garland,jazz,19430522,10,10,2,19430522
-1,1,I've Heard That Song Before,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19430123,7,1,20,19430515
-2,7,Velvet Moon,Harry James & His Music Makers,Harry James,jazz,19430410,8,2,13,19430515
-3,2,That Old Black Magic,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,19430306,7,1,14,19430515
-4,5,Taking A Chance On Love,Benny Goodman & His Orchestra / Helen Forrest,Benny Goodman,jazz,19430501,10,1,11,19430515
-5,3,Brazil (Aquarela Do Brasil),Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,19430123,10,2,19,19430515
-6,4,It Started All Over Again,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19430508,4,4,2,19430515
-7,6,Don't Get Around Much Anymore,The Ink Spots,The Ink Spots,jazz,19430403,8,2,13,19430515
-8,8,As Time Goes By,Jacques Renard & Orchestra / Frank Munn,Jacques Renard,pop,19430320,10,3,15,19430515
-9,9,As Time Goes By,Rudy Vallee,Rudy Vallee,pop,19430417,8,2,10,19430515
-10,NEW,"Murder, He Says",Dinah Shore / Gordon Jenkins & His Orchestra,Dinah Shore / Gordon Jenkins,pop,19430515,10,10,1,19430515
-1,1,I've Heard That Song Before,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19430123,7,1,20,19430508
-2,2,That Old Black Magic,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,19430306,7,1,14,19430508
-3,3,Brazil (Aquarela Do Brasil),Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,19430123,10,2,19,19430508
-4,NEW,It Started All Over Again,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19430508,4,4,2,19430508
-5,10,Taking A Chance On Love,Benny Goodman & His Orchestra / Helen Forrest,Benny Goodman,jazz,19430501,10,1,11,19430508
-6,6,Don't Get Around Much Anymore,The Ink Spots,The Ink Spots,jazz,19430403,8,2,13,19430508
-7,4,Velvet Moon,Harry James & His Music Makers,Harry James,jazz,19430410,8,2,13,19430508
-8,8,As Time Goes By,Jacques Renard & Orchestra / Frank Munn,Jacques Renard,pop,19430320,10,3,15,19430508
-9,7,As Time Goes By,Rudy Vallee,Rudy Vallee,pop,19430417,8,2,10,19430508
-10,NEW,For Me And My Gal,Judy Garland & Gene Kelly / David Rose & His Orchestra,Judy Garland,jazz,19430508,10,10,1,19430508
-1,1,I've Heard That Song Before,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19430123,7,1,20,19430501
-2,3,That Old Black Magic,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,19430306,7,1,14,19430501
-3,2,Brazil (Aquarela Do Brasil),Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,19430123,10,2,19,19430501
-4,6,Velvet Moon,Harry James & His Music Makers,Harry James,jazz,19430410,8,2,13,19430501
-5,NEW,"Murder, He Says",Dinah Shore,Dinah Shore,jazz,19430501,5,5,1,19430501
-6,4,Don't Get Around Much Anymore,The Ink Spots,The Ink Spots,jazz,19430403,8,2,13,19430501
-7,9,As Time Goes By,Rudy Vallee,Rudy Vallee,pop,19430417,8,2,10,19430501
-8,5,As Time Goes By,Jacques Renard & Orchestra / Frank Munn,Jacques Renard,pop,19430320,10,3,15,19430501
-9,NEW,Don't Get Around Much Anymore,Glen Gray & The Casa Loma Orchestra / Kenny Sargent,Glen Gray,pop,19430501,9,9,1,19430501
-10,NEW,Taking A Chance On Love,Benny Goodman & His Orchestra / Helen Forrest,Benny Goodman,jazz,19430501,10,1,11,19430501
-1,1,I've Heard That Song Before,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19430123,7,1,20,19430424
-2,2,Brazil (Aquarela Do Brasil),Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,19430123,10,2,19,19430424
-3,4,That Old Black Magic,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,19430306,7,1,14,19430424
-4,7,Don't Get Around Much Anymore,The Ink Spots,The Ink Spots,jazz,19430403,8,2,13,19430424
-5,3,As Time Goes By,Jacques Renard & Orchestra / Frank Munn,Jacques Renard,pop,19430320,10,3,15,19430424
-6,10,Velvet Moon,Harry James & His Music Makers,Harry James,jazz,19430410,8,2,13,19430424
-7,9,It Started All Over Again,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19430220,7,4,10,19430424
-8,5,You'd Be So Nice To Come Home To,Dinah Shore,Dinah Shore,jazz,19430206,7,4,12,19430424
-9,8,As Time Goes By,Rudy Vallee,Rudy Vallee,pop,19430417,8,2,10,19430424
-10,NEW,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19430424,10,10,1,19430424
-1,1,I've Heard That Song Before,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19430123,7,1,20,19430417
-2,2,Brazil (Aquarela Do Brasil),Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,19430123,10,2,19,19430417
-3,7,As Time Goes By,Jacques Renard & Orchestra / Frank Munn,Jacques Renard,pop,19430320,10,3,15,19430417
-4,3,That Old Black Magic,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,19430306,7,1,14,19430417
-5,4,You'd Be So Nice To Come Home To,Dinah Shore,Dinah Shore,jazz,19430206,7,4,12,19430417
-6,6,For Me And My Gal,Judy Garland & Gene Kelly / David Rose & His Orchestra,Judy Garland,jazz,19430327,3,3,4,19430417
-7,5,Don't Get Around Much Anymore,The Ink Spots,The Ink Spots,jazz,19430403,8,2,13,19430417
-8,NEW,As Time Goes By,Rudy Vallee,Rudy Vallee,pop,19430417,8,2,10,19430417
-9,9,It Started All Over Again,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19430220,7,4,10,19430417
-10,8,Velvet Moon,Harry James & His Music Makers,Harry James,jazz,19430410,8,2,13,19430417
-1,1,I've Heard That Song Before,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19430123,7,1,20,19430410
-2,2,Brazil (Aquarela Do Brasil),Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,19430123,10,2,19,19430410
-3,5,That Old Black Magic,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,19430306,7,1,14,19430410
-4,4,You'd Be So Nice To Come Home To,Dinah Shore,Dinah Shore,jazz,19430206,7,4,12,19430410
-5,8,Don't Get Around Much Anymore,The Ink Spots,The Ink Spots,jazz,19430403,8,2,13,19430410
-6,10,For Me And My Gal,Judy Garland & Gene Kelly / David Rose & His Orchestra,Judy Garland,jazz,19430327,3,3,4,19430410
-7,3,As Time Goes By,Jacques Renard & Orchestra / Frank Munn,Jacques Renard,pop,19430320,10,3,15,19430410
-8,NEW,Velvet Moon,Harry James & His Music Makers,Harry James,jazz,19430410,8,2,13,19430410
-9,6,It Started All Over Again,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19430220,7,4,10,19430410
-10,9,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19421107,9,1,23,19430410
-1,1,I've Heard That Song Before,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19430123,7,1,20,19430403
-2,2,Brazil (Aquarela Do Brasil),Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,19430123,10,2,19,19430403
-3,9,As Time Goes By,Jacques Renard & Orchestra / Frank Munn,Jacques Renard,pop,19430320,10,3,15,19430403
-4,5,You'd Be So Nice To Come Home To,Dinah Shore,Dinah Shore,jazz,19430206,7,4,12,19430403
-5,4,That Old Black Magic,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,19430306,7,1,14,19430403
-6,7,It Started All Over Again,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19430220,7,4,10,19430403
-7,NEW,Why Don't You Do Right?,Benny Goodman & His Orchestra / Peggy Lee,Benny Goodman & His Orchestra / Peggy Lee,jazz,19430403,7,7,1,19430403
-8,NEW,Don't Get Around Much Anymore,The Ink Spots,The Ink Spots,jazz,19430403,8,2,13,19430403
-9,6,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19421107,9,1,23,19430403
-10,3,For Me And My Gal,Judy Garland & Gene Kelly / David Rose & His Orchestra,Judy Garland,jazz,19430327,3,3,4,19430403
-1,1,I've Heard That Song Before,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19430123,7,1,20,19430327
-2,2,Brazil (Aquarela Do Brasil),Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,19430123,10,2,19,19430327
-3,NEW,For Me And My Gal,Judy Garland & Gene Kelly / David Rose & His Orchestra,Judy Garland,jazz,19430327,3,3,4,19430327
-4,3,That Old Black Magic,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,19430306,7,1,14,19430327
-5,6,You'd Be So Nice To Come Home To,Dinah Shore,Dinah Shore,jazz,19430206,7,4,12,19430327
-6,5,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19421107,9,1,23,19430327
-7,4,It Started All Over Again,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19430220,7,4,10,19430327
-8,8,Moonlight Becomes You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19430306,8,8,4,19430327
-9,10,As Time Goes By,Jacques Renard & Orchestra / Frank Munn,Jacques Renard,pop,19430320,10,3,15,19430327
-10,9,I Had The Craziest Dream,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19421128,9,1,18,19430327
-1,1,I've Heard That Song Before,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19430123,7,1,20,19430320
-2,2,Brazil (Aquarela Do Brasil),Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,19430123,10,2,19,19430320
-3,5,That Old Black Magic,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,19430306,7,1,14,19430320
-4,8,It Started All Over Again,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19430220,7,4,10,19430320
-5,3,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19421107,9,1,23,19430320
-6,4,You'd Be So Nice To Come Home To,Dinah Shore,Dinah Shore,jazz,19430206,7,4,12,19430320
-7,NEW,Don't Get Around Much Anymore,The Ink Spots,The Ink Spots,jazz,19430320,7,7,1,19430320
-8,9,Moonlight Becomes You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19430306,8,8,4,19430320
-9,7,I Had The Craziest Dream,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19421128,9,1,18,19430320
-10,NEW,As Time Goes By,Jacques Renard & Orchestra / Frank Munn,Jacques Renard,pop,19430320,10,3,15,19430320
-1,1,I've Heard That Song Before,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19430123,7,1,20,19430313
-2,3,Brazil (Aquarela Do Brasil),Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,19430123,10,2,19,19430313
-3,2,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19421107,9,1,23,19430313
-4,6,You'd Be So Nice To Come Home To,Dinah Shore,Dinah Shore,jazz,19430206,7,4,12,19430313
-5,7,That Old Black Magic,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,19430306,7,1,14,19430313
-6,5,Why Don't You Do Right?,Benny Goodman & His Orchestra / Peggy Lee,Benny Goodman & His Orchestra / Peggy Lee,jazz,19430102,10,4,11,19430313
-7,4,I Had The Craziest Dream,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19421128,9,1,18,19430313
-8,10,It Started All Over Again,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19430220,7,4,10,19430313
-9,8,Moonlight Becomes You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19430306,8,8,4,19430313
-10,NEW,That Old Black Magic,Margaret Whiting / Freddie Slack & His Orchestra,Margaret Whiting / Freddie Slack,pop,19430313,10,10,1,19430313
-1,1,I've Heard That Song Before,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19430123,7,1,20,19430306
-2,3,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19421107,9,1,23,19430306
-3,4,Brazil (Aquarela Do Brasil),Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,19430123,10,2,19,19430306
-4,2,I Had The Craziest Dream,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19421128,9,1,18,19430306
-5,6,Why Don't You Do Right?,Benny Goodman & His Orchestra / Peggy Lee,Benny Goodman & His Orchestra / Peggy Lee,jazz,19430102,10,4,11,19430306
-6,5,You'd Be So Nice To Come Home To,Dinah Shore,Dinah Shore,jazz,19430206,7,4,12,19430306
-7,NEW,That Old Black Magic,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,19430306,7,1,14,19430306
-8,NEW,Moonlight Becomes You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19430306,8,8,4,19430306
-9,9,For Me And My Gal,Judy Garland & Gene Kelly / David Rose & His Orchestra,Judy Garland,jazz,19430227,9,9,2,19430306
-10,8,It Started All Over Again,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19430220,7,4,10,19430306
-1,2,I've Heard That Song Before,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19430123,7,1,20,19430227
-2,3,I Had The Craziest Dream,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19421128,9,1,18,19430227
-3,1,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19421107,9,1,23,19430227
-4,6,Brazil (Aquarela Do Brasil),Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,19430123,10,2,19,19430227
-5,5,You'd Be So Nice To Come Home To,Dinah Shore,Dinah Shore,jazz,19430206,7,4,12,19430227
-6,8,Why Don't You Do Right?,Benny Goodman & His Orchestra / Peggy Lee,Benny Goodman & His Orchestra / Peggy Lee,jazz,19430102,10,4,11,19430227
-7,10,(As Long As You're Not In Love With Anyone Else) Why Don't,Dinah Shore,Dinah Shore,jazz,19430109,6,3,8,19430227
-8,7,It Started All Over Again,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19430220,7,4,10,19430227
-9,NEW,For Me And My Gal,Judy Garland & Gene Kelly / David Rose & His Orchestra,Judy Garland,jazz,19430227,9,9,2,19430227
-10,9,Moonlight Becomes You,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,19430213,9,9,3,19430227
-1,2,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19421107,9,1,23,19430220
-2,3,I've Heard That Song Before,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19430123,7,1,20,19430220
-3,1,I Had The Craziest Dream,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19421128,9,1,18,19430220
-4,7,Moonlight Becomes You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19430109,7,3,7,19430220
-5,6,You'd Be So Nice To Come Home To,Dinah Shore,Dinah Shore,jazz,19430206,7,4,12,19430220
-6,4,Brazil (Aquarela Do Brasil),Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,19430123,10,2,19,19430220
-7,NEW,It Started All Over Again,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19430220,7,4,10,19430220
-8,8,Why Don't You Do Right?,Benny Goodman & His Orchestra / Peggy Lee,Benny Goodman & His Orchestra / Peggy Lee,jazz,19430102,10,4,11,19430220
-9,9,Moonlight Becomes You,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,19430213,9,9,3,19430220
-10,5,(As Long As You're Not In Love With Anyone Else) Why Don't,Dinah Shore,Dinah Shore,jazz,19430109,6,3,8,19430220
-1,1,I Had The Craziest Dream,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19421128,9,1,18,19430213
-2,2,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19421107,9,1,23,19430213
-3,3,I've Heard That Song Before,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19430123,7,1,20,19430213
-4,6,Brazil (Aquarela Do Brasil),Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,19430123,10,2,19,19430213
-5,5,(As Long As You're Not In Love With Anyone Else) Why Don't,Dinah Shore,Dinah Shore,jazz,19430109,6,3,8,19430213
-6,7,You'd Be So Nice To Come Home To,Dinah Shore,Dinah Shore,jazz,19430206,7,4,12,19430213
-7,4,Moonlight Becomes You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19430109,7,3,7,19430213
-8,8,Why Don't You Do Right?,Benny Goodman & His Orchestra / Peggy Lee,Benny Goodman & His Orchestra / Peggy Lee,jazz,19430102,10,4,11,19430213
-9,NEW,Moonlight Becomes You,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,19430213,9,9,3,19430213
-10,NEW,Don't Get Around Much Anymore,The Ink Spots,The Ink Spots,jazz,19430213,10,10,1,19430213
-1,2,I Had The Craziest Dream,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19421128,9,1,18,19430206
-2,1,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19421107,9,1,23,19430206
-3,8,I've Heard That Song Before,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19430123,7,1,20,19430206
-4,3,Moonlight Becomes You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19430109,7,3,7,19430206
-5,6,(As Long As You're Not In Love With Anyone Else) Why Don't,Dinah Shore,Dinah Shore,jazz,19430109,6,3,8,19430206
-6,4,Brazil (Aquarela Do Brasil),Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,19430123,10,2,19,19430206
-7,NEW,You'd Be So Nice To Come Home To,Dinah Shore,Dinah Shore,jazz,19430206,7,4,12,19430206
-8,5,Why Don't You Do Right?,Benny Goodman & His Orchestra / Peggy Lee,Benny Goodman & His Orchestra / Peggy Lee,jazz,19430102,10,4,11,19430206
-9,9,When The Lights Go On Again (All Over The World),Vaughn Monroe & His Orchestra,Vaughn Monroe,jazz,19421114,5,2,13,19430206
-10,NEW,It Started All Over Again,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19430206,10,10,1,19430206
-1,1,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19421107,9,1,23,19430130
-2,2,I Had The Craziest Dream,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19421128,9,1,18,19430130
-3,4,Moonlight Becomes You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19430109,7,3,7,19430130
-4,10,Brazil (Aquarela Do Brasil),Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,19430123,10,2,19,19430130
-5,6,Why Don't You Do Right?,Benny Goodman & His Orchestra / Peggy Lee,Benny Goodman & His Orchestra / Peggy Lee,jazz,19430102,10,4,11,19430130
-6,3,(As Long As You're Not In Love With Anyone Else) Why Don't,Dinah Shore,Dinah Shore,jazz,19430109,6,3,8,19430130
-7,5,Moonlight Becomes You,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,19430116,7,5,3,19430130
-8,7,I've Heard That Song Before,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19430123,7,1,20,19430130
-9,8,When The Lights Go On Again (All Over The World),Vaughn Monroe & His Orchestra,Vaughn Monroe,jazz,19421114,5,2,13,19430130
-10,NEW,Juke Box Saturday Night,Glenn Miller & His Orchestra / Tex Beneke & Marion Hutton,Glenn Miller,jazz,19430130,10,10,1,19430130
-1,1,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19421107,9,1,23,19430123
-2,2,I Had The Craziest Dream,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19421128,9,1,18,19430123
-3,3,(As Long As You're Not In Love With Anyone Else) Why Don't,Dinah Shore,Dinah Shore,jazz,19430109,6,3,8,19430123
-4,8,Moonlight Becomes You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19430109,7,3,7,19430123
-5,7,Moonlight Becomes You,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,19430116,7,5,3,19430123
-6,4,Why Don't You Do Right?,Benny Goodman & His Orchestra / Peggy Lee,Benny Goodman & His Orchestra / Peggy Lee,jazz,19430102,10,4,11,19430123
-7,NEW,I've Heard That Song Before,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19430123,7,1,20,19430123
-8,5,When The Lights Go On Again (All Over The World),Vaughn Monroe & His Orchestra,Vaughn Monroe,jazz,19421114,5,2,13,19430123
-9,NEW,For Me And My Gal,Judy Garland & Gene Kelly,Judy Garland & Gene Kelly,pop,19430123,9,9,1,19430123
-10,NEW,Brazil (Aquarela Do Brasil),Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,19430123,10,2,19,19430123
-1,1,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19421107,9,1,23,19430116
-2,2,I Had The Craziest Dream,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19421128,9,1,18,19430116
-3,6,(As Long As You're Not In Love With Anyone Else) Why Don't,Dinah Shore,Dinah Shore,jazz,19430109,6,3,8,19430116
-4,5,Why Don't You Do Right?,Benny Goodman & His Orchestra / Peggy Lee,Benny Goodman & His Orchestra / Peggy Lee,jazz,19430102,10,4,11,19430116
-5,3,When The Lights Go On Again (All Over The World),Vaughn Monroe & His Orchestra,Vaughn Monroe,jazz,19421114,5,2,13,19430116
-6,9,Mister Five By Five,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19421121,6,2,9,19430116
-7,NEW,Moonlight Becomes You,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,19430116,7,5,3,19430116
-8,7,Moonlight Becomes You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19430109,7,3,7,19430116
-9,10,Juke Box Saturday Night,Glenn Miller & His Orchestra / Tex Beneke & Marion Hutton,Glenn Miller,jazz,19421205,9,7,7,19430116
-10,NEW,(As Long As You're Not In Love With Anyone Else) Why Don't,Johnny Long & His Orchestra / Bob Houston & Helen Young,Johnny Long,jazz,19430116,10,10,1,19430116
-1,2,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19421107,9,1,23,19430109
-2,3,I Had The Craziest Dream,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19421128,9,1,18,19430109
-3,5,When The Lights Go On Again (All Over The World),Vaughn Monroe & His Orchestra,Vaughn Monroe,jazz,19421114,5,2,13,19430109
-4,1,White Christmas,Bing Crosby & Ken Darby Singers / John Scott Trotter,Bing Crosby,jazz,19421003,9,1,15,19430109
-5,10,Why Don't You Do Right?,Benny Goodman & His Orchestra / Peggy Lee,Benny Goodman & His Orchestra / Peggy Lee,jazz,19430102,10,4,11,19430109
-6,NEW,(As Long As You're Not In Love With Anyone Else) Why Don't,Dinah Shore,Dinah Shore,jazz,19430109,6,3,8,19430109
-7,NEW,Moonlight Becomes You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,19430109,7,3,7,19430109
-8,7,Dearly Beloved,Glenn Miller & His Orchestra / Skip Nelson,Glenn Miller,jazz,19421226,5,5,3,19430109
-9,6,Mister Five By Five,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19421121,6,2,9,19430109
-10,8,Juke Box Saturday Night,Glenn Miller & His Orchestra / Tex Beneke & Marion Hutton,Glenn Miller,jazz,19421205,9,7,7,19430109
-1,1,White Christmas,Bing Crosby & Ken Darby Singers / John Scott Trotter,Bing Crosby,jazz,19421003,9,1,15,19430102
-2,2,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,19421107,9,1,23,19430102
-3,4,I Had The Craziest Dream,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19421128,9,1,18,19430102
-4,3,Praise The Lord And Pass The Ammunition,Kay Kyser & His Orchestra / The Glee Club,Kay Kyser,jazz,19421010,4,2,13,19430102
-5,8,When The Lights Go On Again (All Over The World),Vaughn Monroe & His Orchestra,Vaughn Monroe,jazz,19421114,5,2,13,19430102
-6,6,Mister Five By Five,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,19421121,6,2,9,19430102
-7,5,Dearly Beloved,Glenn Miller & His Orchestra / Skip Nelson,Glenn Miller,jazz,19421226,5,5,3,19430102
-8,7,Juke Box Saturday Night,Glenn Miller & His Orchestra / Tex Beneke & Marion Hutton,Glenn Miller,jazz,19421205,9,7,7,19430102
-9,NEW,Der Fuehrer's Face,Spike Jones & His City Slickers / Carl Grayson,Spike Jones,pop,19430102,9,9,1,19430102
-10,NEW,Why Don't You Do Right?,Benny Goodman & His Orchestra / Peggy Lee,Benny Goodman & His Orchestra / Peggy Lee,jazz,19430102,10,4,11,19430102
+this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genre,entry_date,entry_position,peak_position,total_weeks,chart_date
+1,1,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,jazz,19430731,10,1,30,19431225
+2,7,My Heart Tells Me (Should I Believe My Heart?),Glen Gray & His Orchestra / Eugenie Baird,Glen Gray,pop,big band,19431120,8,1,20,19431225
+3,3,I'll Be Home For Christmas (If Only In My Dreams),Bing Crosby,Bing Crosby,jazz,jazz,19431204,10,3,5,19431225
+4,4,People Will Say We're In Love,"Bing Crosby, Trudy Erwin & The Sportsmen",Bing Crosby,jazz,jazz,19431009,10,2,12,19431225
+5,8,They're Either Too Young Or Too Old,Jimmy Dorsey & His Orchestra / Kitty Kallen,Jimmy Dorsey,jazz,jazz,19431127,10,3,9,19431225
+6,5,"Oh, What A Beautiful Mornin'","Bing Crosby, Trudy Erwin And The Sportsmen Glee Club",Bing Crosby,jazz,jazz,19431106,7,5,9,19431225
+7,NEW,Shoo-Shoo-Shoo Baby,The Andrews Sisters / Vic Schoen & His Orchestra,The Andrews Sisters / Vic Schoen,jazz,swing,19431225,7,3,3,19431225
+8,6,Shoo-Shoo-Shoo Baby,Ella Mae Morse,Ella Mae Morse,jazz,jazz,19431218,6,4,14,19431225
+9,NEW,White Christmas,Bing Crosby & The Ken Darby Singers / John Scott Trotter,Bing Crosby,jazz,jazz,19431225,9,9,1,19431225
+10,2,Pistol Packin' Mama,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,jazz,19431030,8,2,9,19431225
+1,1,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,jazz,19430731,10,1,30,19431218
+2,2,Pistol Packin' Mama,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,jazz,19431030,8,2,9,19431218
+3,4,I'll Be Home For Christmas (If Only In My Dreams),Bing Crosby,Bing Crosby,jazz,jazz,19431204,10,3,5,19431218
+4,3,People Will Say We're In Love,"Bing Crosby, Trudy Erwin & The Sportsmen",Bing Crosby,jazz,jazz,19431009,10,2,12,19431218
+5,6,"Oh, What A Beautiful Mornin'","Bing Crosby, Trudy Erwin And The Sportsmen Glee Club",Bing Crosby,jazz,jazz,19431106,7,5,9,19431218
+6,NEW,Shoo-Shoo-Shoo Baby,Ella Mae Morse,Ella Mae Morse,jazz,jazz,19431218,6,4,14,19431218
+7,5,My Heart Tells Me (Should I Believe My Heart?),Glen Gray & His Orchestra / Eugenie Baird,Glen Gray,pop,big band,19431120,8,1,20,19431218
+8,10,They're Either Too Young Or Too Old,Jimmy Dorsey & His Orchestra / Kitty Kallen,Jimmy Dorsey,jazz,jazz,19431127,10,3,9,19431218
+9,NEW,Pistol Packin' Mama,Al Dexter & His Troopers,Al Dexter,country / folk,country,19431218,9,9,1,19431218
+10,8,"Sunday, Monday Or Always",Bing Crosby & The Ken Darby Singers,Bing Crosby,jazz,jazz,19430821,7,1,18,19431218
+1,1,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,jazz,19430731,10,1,30,19431211
+2,2,Pistol Packin' Mama,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,jazz,19431030,8,2,9,19431211
+3,3,People Will Say We're In Love,"Bing Crosby, Trudy Erwin & The Sportsmen",Bing Crosby,jazz,jazz,19431009,10,2,12,19431211
+4,10,I'll Be Home For Christmas (If Only In My Dreams),Bing Crosby,Bing Crosby,jazz,jazz,19431204,10,3,5,19431211
+5,4,My Heart Tells Me (Should I Believe My Heart?),Glen Gray & His Orchestra / Eugenie Baird,Glen Gray,pop,big band,19431120,8,1,20,19431211
+6,6,"Oh, What A Beautiful Mornin'","Bing Crosby, Trudy Erwin And The Sportsmen Glee Club",Bing Crosby,jazz,jazz,19431106,7,5,9,19431211
+7,9,Boogie Woogie,Tommy Dorsey & His Orchestra,Tommy Dorsey & His Orchestra,pop,big band,19431127,8,7,3,19431211
+8,5,"Sunday, Monday Or Always",Bing Crosby & The Ken Darby Singers,Bing Crosby,jazz,jazz,19430821,7,1,18,19431211
+9,NEW,Oklahoma Cast Album,Various Artists,Various Artists,pop,electronic,19431211,9,9,1,19431211
+10,7,They're Either Too Young Or Too Old,Jimmy Dorsey & His Orchestra / Kitty Kallen,Jimmy Dorsey,jazz,jazz,19431127,10,3,9,19431211
+1,1,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,jazz,19430731,10,1,30,19431204
+2,2,Pistol Packin' Mama,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,jazz,19431030,8,2,9,19431204
+3,3,People Will Say We're In Love,"Bing Crosby, Trudy Erwin & The Sportsmen",Bing Crosby,jazz,jazz,19431009,10,2,12,19431204
+4,7,My Heart Tells Me (Should I Believe My Heart?),Glen Gray & His Orchestra / Eugenie Baird,Glen Gray,pop,big band,19431120,8,1,20,19431204
+5,4,"Sunday, Monday Or Always",Bing Crosby & The Ken Darby Singers,Bing Crosby,jazz,jazz,19430821,7,1,18,19431204
+6,6,"Oh, What A Beautiful Mornin'","Bing Crosby, Trudy Erwin And The Sportsmen Glee Club",Bing Crosby,jazz,jazz,19431106,7,5,9,19431204
+7,10,They're Either Too Young Or Too Old,Jimmy Dorsey & His Orchestra / Kitty Kallen,Jimmy Dorsey,jazz,jazz,19431127,10,3,9,19431204
+8,NEW,People Will Say We're In Love,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,jazz,19431204,8,8,1,19431204
+9,8,Boogie Woogie,Tommy Dorsey & His Orchestra,Tommy Dorsey & His Orchestra,pop,big band,19431127,8,7,3,19431204
+10,NEW,I'll Be Home For Christmas (If Only In My Dreams),Bing Crosby,Bing Crosby,jazz,jazz,19431204,10,3,5,19431204
+1,1,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,jazz,19430731,10,1,30,19431127
+2,3,Pistol Packin' Mama,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,jazz,19431030,8,2,9,19431127
+3,2,People Will Say We're In Love,"Bing Crosby, Trudy Erwin & The Sportsmen",Bing Crosby,jazz,jazz,19431009,10,2,12,19431127
+4,4,"Sunday, Monday Or Always",Bing Crosby & The Ken Darby Singers,Bing Crosby,jazz,jazz,19430821,7,1,18,19431127
+5,6,Pistol Packin' Mama,Al Dexter & His Troopers,Al Dexter,country / folk,country,19430821,10,1,15,19431127
+6,9,"Oh, What A Beautiful Mornin'","Bing Crosby, Trudy Erwin And The Sportsmen Glee Club",Bing Crosby,jazz,jazz,19431106,7,5,9,19431127
+7,8,My Heart Tells Me (Should I Believe My Heart?),Glen Gray & His Orchestra / Eugenie Baird,Glen Gray,pop,big band,19431120,8,1,20,19431127
+8,NEW,Boogie Woogie,Tommy Dorsey & His Orchestra,Tommy Dorsey & His Orchestra,pop,big band,19431127,8,7,3,19431127
+9,5,"Put Your Arms Around Me, Honey",Dick Haymes & The Song Spinners,Dick Haymes,jazz,jazz,19431023,8,5,6,19431127
+10,NEW,They're Either Too Young Or Too Old,Jimmy Dorsey & His Orchestra / Kitty Kallen,Jimmy Dorsey,jazz,jazz,19431127,10,3,9,19431127
+1,1,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,jazz,19430731,10,1,30,19431120
+2,5,People Will Say We're In Love,"Bing Crosby, Trudy Erwin & The Sportsmen",Bing Crosby,jazz,jazz,19431009,10,2,12,19431120
+3,4,Pistol Packin' Mama,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,jazz,19431030,8,2,9,19431120
+4,2,"Sunday, Monday Or Always",Bing Crosby & The Ken Darby Singers,Bing Crosby,jazz,jazz,19430821,7,1,18,19431120
+5,6,"Put Your Arms Around Me, Honey",Dick Haymes & The Song Spinners,Dick Haymes,jazz,jazz,19431023,8,5,6,19431120
+6,3,Pistol Packin' Mama,Al Dexter & His Troopers,Al Dexter,country / folk,country,19430821,10,1,15,19431120
+7,7,I Heard You Cried Last Night,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19430724,6,4,18,19431120
+8,NEW,My Heart Tells Me (Should I Believe My Heart?),Glen Gray & His Orchestra / Eugenie Baird,Glen Gray,pop,big band,19431120,8,1,20,19431120
+9,8,"Oh, What A Beautiful Mornin'","Bing Crosby, Trudy Erwin And The Sportsmen Glee Club",Bing Crosby,jazz,jazz,19431106,7,5,9,19431120
+10,9,People Will Say We're In Love,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,jazz,19431002,9,6,8,19431120
+1,1,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,jazz,19430731,10,1,30,19431113
+2,3,"Sunday, Monday Or Always",Bing Crosby & The Ken Darby Singers,Bing Crosby,jazz,jazz,19430821,7,1,18,19431113
+3,2,Pistol Packin' Mama,Al Dexter & His Troopers,Al Dexter,country / folk,country,19430821,10,1,15,19431113
+4,5,Pistol Packin' Mama,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,jazz,19431030,8,2,9,19431113
+5,4,People Will Say We're In Love,"Bing Crosby, Trudy Erwin & The Sportsmen",Bing Crosby,jazz,jazz,19431009,10,2,12,19431113
+6,6,"Put Your Arms Around Me, Honey",Dick Haymes & The Song Spinners,Dick Haymes,jazz,jazz,19431023,8,5,6,19431113
+7,9,I Heard You Cried Last Night,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19430724,6,4,18,19431113
+8,7,"Oh, What A Beautiful Mornin'","Bing Crosby, Trudy Erwin And The Sportsmen Glee Club",Bing Crosby,jazz,jazz,19431106,7,5,9,19431113
+9,8,People Will Say We're In Love,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,jazz,19431002,9,6,8,19431113
+10,NEW,Blue Rain,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,jazz,19431113,10,10,1,19431113
+1,1,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,jazz,19430731,10,1,30,19431106
+2,2,Pistol Packin' Mama,Al Dexter & His Troopers,Al Dexter,country / folk,country,19430821,10,1,15,19431106
+3,3,"Sunday, Monday Or Always",Bing Crosby & The Ken Darby Singers,Bing Crosby,jazz,jazz,19430821,7,1,18,19431106
+4,4,People Will Say We're In Love,"Bing Crosby, Trudy Erwin & The Sportsmen",Bing Crosby,jazz,jazz,19431009,10,2,12,19431106
+5,8,Pistol Packin' Mama,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,jazz,19431030,8,2,9,19431106
+6,7,"Put Your Arms Around Me, Honey",Dick Haymes & The Song Spinners,Dick Haymes,jazz,jazz,19431023,8,5,6,19431106
+7,NEW,"Oh, What A Beautiful Mornin'","Bing Crosby, Trudy Erwin And The Sportsmen Glee Club",Bing Crosby,jazz,jazz,19431106,7,5,9,19431106
+8,6,People Will Say We're In Love,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,jazz,19431002,9,6,8,19431106
+9,5,I Heard You Cried Last Night,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19430724,6,4,18,19431106
+10,NEW,"Sunday, Monday Or Always",Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,jazz,19431106,10,10,1,19431106
+1,2,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,jazz,19430731,10,1,30,19431030
+2,1,Pistol Packin' Mama,Al Dexter & His Troopers,Al Dexter,country / folk,country,19430821,10,1,15,19431030
+3,3,"Sunday, Monday Or Always",Bing Crosby & The Ken Darby Singers,Bing Crosby,jazz,jazz,19430821,7,1,18,19431030
+4,4,People Will Say We're In Love,"Bing Crosby, Trudy Erwin & The Sportsmen",Bing Crosby,jazz,jazz,19431009,10,2,12,19431030
+5,5,I Heard You Cried Last Night,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19430724,6,4,18,19431030
+6,6,People Will Say We're In Love,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,jazz,19431002,9,6,8,19431030
+7,8,"Put Your Arms Around Me, Honey",Dick Haymes & The Song Spinners,Dick Haymes,jazz,jazz,19431023,8,5,6,19431030
+8,NEW,Pistol Packin' Mama,Bing Crosby & The Andrews Sisters / Vic Schoen & His Orchest,Bing Crosby,jazz,jazz,19431030,8,2,9,19431030
+9,10,Put Your Arms Around Me Honey,Dick Kuhn & His Orchestra,Dick Kuhn,pop,unknown,19431016,8,8,3,19431030
+10,NEW,Blue Rain,Glenn Miller & His Orchestra / Ray Eberle,Glenn Miller,jazz,jazz,19431030,10,10,1,19431030
+1,2,Pistol Packin' Mama,Al Dexter & His Troopers,Al Dexter,country / folk,country,19430821,10,1,15,19431023
+2,3,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,jazz,19430731,10,1,30,19431023
+3,1,"Sunday, Monday Or Always",Bing Crosby & The Ken Darby Singers,Bing Crosby,jazz,jazz,19430821,7,1,18,19431023
+4,4,People Will Say We're In Love,"Bing Crosby, Trudy Erwin & The Sportsmen",Bing Crosby,jazz,jazz,19431009,10,2,12,19431023
+5,5,I Heard You Cried Last Night,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19430724,6,4,18,19431023
+6,7,People Will Say We're In Love,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,jazz,19431002,9,6,8,19431023
+7,NEW,You'll Never Know,Dick Haymes & The Song Spinners,Dick Haymes,jazz,jazz,19431023,7,7,1,19431023
+8,NEW,"Put Your Arms Around Me, Honey",Dick Haymes & The Song Spinners,Dick Haymes,jazz,jazz,19431023,8,5,6,19431023
+9,9,In The Blue Of Evening,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,jazz,19430703,6,1,17,19431023
+10,8,Put Your Arms Around Me Honey,Dick Kuhn & His Orchestra,Dick Kuhn,pop,unknown,19431016,8,8,3,19431023
+1,1,"Sunday, Monday Or Always",Bing Crosby & The Ken Darby Singers,Bing Crosby,jazz,jazz,19430821,7,1,18,19431016
+2,3,Pistol Packin' Mama,Al Dexter & His Troopers,Al Dexter,country / folk,country,19430821,10,1,15,19431016
+3,2,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,jazz,19430731,10,1,30,19431016
+4,10,People Will Say We're In Love,"Bing Crosby, Trudy Erwin & The Sportsmen",Bing Crosby,jazz,jazz,19431009,10,2,12,19431016
+5,4,I Heard You Cried Last Night,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19430724,6,4,18,19431016
+6,6,You'll Never Know,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,jazz,19430724,7,2,13,19431016
+7,7,People Will Say We're In Love,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,jazz,19431002,9,6,8,19431016
+8,NEW,Put Your Arms Around Me Honey,Dick Kuhn & His Orchestra,Dick Kuhn,pop,unknown,19431016,8,8,3,19431016
+9,9,In The Blue Of Evening,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,jazz,19430703,6,1,17,19431016
+10,NEW,Boogie Woogie,Tommy Dorsey & His Orchestra,Tommy Dorsey & His Orchestra,pop,big band,19431016,10,10,1,19431016
+1,1,"Sunday, Monday Or Always",Bing Crosby & The Ken Darby Singers,Bing Crosby,jazz,jazz,19430821,7,1,18,19431009
+2,2,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,jazz,19430731,10,1,30,19431009
+3,3,Pistol Packin' Mama,Al Dexter & His Troopers,Al Dexter,country / folk,country,19430821,10,1,15,19431009
+4,4,I Heard You Cried Last Night,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19430724,6,4,18,19431009
+5,5,You'll Never Know,Dick Haymes & The Song Spinners,Dick Haymes,jazz,jazz,19430703,4,1,15,19431009
+6,8,You'll Never Know,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,jazz,19430724,7,2,13,19431009
+7,9,People Will Say We're In Love,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,jazz,19431002,9,6,8,19431009
+8,7,All Or Nothing At All,Harry James & His Music Makers / Frank Sinatra,Harry James,jazz,jazz,19430612,9,2,18,19431009
+9,6,In The Blue Of Evening,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,jazz,19430703,6,1,17,19431009
+10,NEW,People Will Say We're In Love,"Bing Crosby, Trudy Erwin & The Sportsmen",Bing Crosby,jazz,jazz,19431009,10,2,12,19431009
+1,1,"Sunday, Monday Or Always",Bing Crosby & The Ken Darby Singers,Bing Crosby,jazz,jazz,19430821,7,1,18,19431002
+2,2,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,jazz,19430731,10,1,30,19431002
+3,3,Pistol Packin' Mama,Al Dexter & His Troopers,Al Dexter,country / folk,country,19430821,10,1,15,19431002
+4,4,I Heard You Cried Last Night,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19430724,6,4,18,19431002
+5,5,You'll Never Know,Dick Haymes & The Song Spinners,Dick Haymes,jazz,jazz,19430703,4,1,15,19431002
+6,6,In The Blue Of Evening,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,jazz,19430703,6,1,17,19431002
+7,8,All Or Nothing At All,Harry James & His Music Makers / Frank Sinatra,Harry James,jazz,jazz,19430612,9,2,18,19431002
+8,7,You'll Never Know,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,jazz,19430724,7,2,13,19431002
+9,NEW,People Will Say We're In Love,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,jazz,19431002,9,6,8,19431002
+10,NEW,"Sunday, Monday Or Always",Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,jazz,19431002,10,10,1,19431002
+1,1,"Sunday, Monday Or Always",Bing Crosby & The Ken Darby Singers,Bing Crosby,jazz,jazz,19430821,7,1,18,19430925
+2,2,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,jazz,19430731,10,1,30,19430925
+3,4,Pistol Packin' Mama,Al Dexter & His Troopers,Al Dexter,country / folk,country,19430821,10,1,15,19430925
+4,6,I Heard You Cried Last Night,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19430724,6,4,18,19430925
+5,8,You'll Never Know,Dick Haymes & The Song Spinners,Dick Haymes,jazz,jazz,19430703,4,1,15,19430925
+6,5,In The Blue Of Evening,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,jazz,19430703,6,1,17,19430925
+7,3,You'll Never Know,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,jazz,19430724,7,2,13,19430925
+8,7,All Or Nothing At All,Harry James & His Music Makers / Frank Sinatra,Harry James,jazz,jazz,19430612,9,2,18,19430925
+9,10,In My Arms,Dick Haymes & The Song Spinners,Dick Haymes,jazz,jazz,19430904,9,9,4,19430925
+10,NEW,Close To You,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,jazz,19430925,10,10,1,19430925
+1,1,"Sunday, Monday Or Always",Bing Crosby & The Ken Darby Singers,Bing Crosby,jazz,jazz,19430821,7,1,18,19430918
+2,7,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,jazz,19430731,10,1,30,19430918
+3,2,You'll Never Know,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,jazz,19430724,7,2,13,19430918
+4,6,Pistol Packin' Mama,Al Dexter & His Troopers,Al Dexter,country / folk,country,19430821,10,1,15,19430918
+5,3,In The Blue Of Evening,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,jazz,19430703,6,1,17,19430918
+6,5,I Heard You Cried Last Night,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19430724,6,4,18,19430918
+7,8,All Or Nothing At All,Harry James & His Music Makers / Frank Sinatra,Harry James,jazz,jazz,19430612,9,2,18,19430918
+8,4,You'll Never Know,Dick Haymes & The Song Spinners,Dick Haymes,jazz,jazz,19430703,4,1,15,19430918
+9,9,"Sunday, Monday Or Always",Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,jazz,19430911,9,9,2,19430918
+10,10,In My Arms,Dick Haymes & The Song Spinners,Dick Haymes,jazz,jazz,19430904,9,9,4,19430918
+1,1,"Sunday, Monday Or Always",Bing Crosby & The Ken Darby Singers,Bing Crosby,jazz,jazz,19430821,7,1,18,19430911
+2,6,You'll Never Know,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,jazz,19430724,7,2,13,19430911
+3,3,In The Blue Of Evening,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,jazz,19430703,6,1,17,19430911
+4,2,You'll Never Know,Dick Haymes & The Song Spinners,Dick Haymes,jazz,jazz,19430703,4,1,15,19430911
+5,7,I Heard You Cried Last Night,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19430724,6,4,18,19430911
+6,8,Pistol Packin' Mama,Al Dexter & His Troopers,Al Dexter,country / folk,country,19430821,10,1,15,19430911
+7,4,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,jazz,19430731,10,1,30,19430911
+8,5,All Or Nothing At All,Harry James & His Music Makers / Frank Sinatra,Harry James,jazz,jazz,19430612,9,2,18,19430911
+9,NEW,"Sunday, Monday Or Always",Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,jazz,19430911,9,9,2,19430911
+10,9,In My Arms,Dick Haymes & The Song Spinners,Dick Haymes,jazz,jazz,19430904,9,9,4,19430911
+1,3,"Sunday, Monday Or Always",Bing Crosby & The Ken Darby Singers,Bing Crosby,jazz,jazz,19430821,7,1,18,19430904
+2,5,You'll Never Know,Dick Haymes & The Song Spinners,Dick Haymes,jazz,jazz,19430703,4,1,15,19430904
+3,1,In The Blue Of Evening,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,jazz,19430703,6,1,17,19430904
+4,6,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,jazz,19430731,10,1,30,19430904
+5,2,All Or Nothing At All,Harry James & His Music Makers / Frank Sinatra,Harry James,jazz,jazz,19430612,9,2,18,19430904
+6,4,You'll Never Know,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,jazz,19430724,7,2,13,19430904
+7,7,I Heard You Cried Last Night,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19430724,6,4,18,19430904
+8,9,Pistol Packin' Mama,Al Dexter & His Troopers,Al Dexter,country / folk,country,19430821,10,1,15,19430904
+9,NEW,In My Arms,Dick Haymes & The Song Spinners,Dick Haymes,jazz,jazz,19430904,9,9,4,19430904
+10,8,It Can't Be Wrong,Dick Haymes & The Song Spinners,Dick Haymes,jazz,jazz,19430626,10,2,11,19430904
+1,1,In The Blue Of Evening,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,jazz,19430703,6,1,17,19430828
+2,3,All Or Nothing At All,Harry James & His Music Makers / Frank Sinatra,Harry James,jazz,jazz,19430612,9,2,18,19430828
+3,7,"Sunday, Monday Or Always",Bing Crosby & The Ken Darby Singers,Bing Crosby,jazz,jazz,19430821,7,1,18,19430828
+4,2,You'll Never Know,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,jazz,19430724,7,2,13,19430828
+5,4,You'll Never Know,Dick Haymes & The Song Spinners,Dick Haymes,jazz,jazz,19430703,4,1,15,19430828
+6,8,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,jazz,19430731,10,1,30,19430828
+7,5,I Heard You Cried Last Night,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19430724,6,4,18,19430828
+8,6,It Can't Be Wrong,Dick Haymes & The Song Spinners,Dick Haymes,jazz,jazz,19430626,10,2,11,19430828
+9,10,Pistol Packin' Mama,Al Dexter & His Troopers,Al Dexter,country / folk,country,19430821,10,1,15,19430828
+10,NEW,It's Always You,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,jazz,19430828,10,10,1,19430828
+1,1,In The Blue Of Evening,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,jazz,19430703,6,1,17,19430821
+2,5,You'll Never Know,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,jazz,19430724,7,2,13,19430821
+3,4,All Or Nothing At All,Harry James & His Music Makers / Frank Sinatra,Harry James,jazz,jazz,19430612,9,2,18,19430821
+4,2,You'll Never Know,Dick Haymes & The Song Spinners,Dick Haymes,jazz,jazz,19430703,4,1,15,19430821
+5,8,I Heard You Cried Last Night,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19430724,6,4,18,19430821
+6,3,It Can't Be Wrong,Dick Haymes & The Song Spinners,Dick Haymes,jazz,jazz,19430626,10,2,11,19430821
+7,NEW,"Sunday, Monday Or Always",Bing Crosby & The Ken Darby Singers,Bing Crosby,jazz,jazz,19430821,7,1,18,19430821
+8,10,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,jazz,19430731,10,1,30,19430821
+9,6,Comin' In On A Wing And A Prayer,The Song Spinners,The Song Spinners,pop,pop,19430612,10,1,11,19430821
+10,NEW,Pistol Packin' Mama,Al Dexter & His Troopers,Al Dexter,country / folk,country,19430821,10,1,15,19430821
+1,3,In The Blue Of Evening,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,jazz,19430703,6,1,17,19430814
+2,1,You'll Never Know,Dick Haymes & The Song Spinners,Dick Haymes,jazz,jazz,19430703,4,1,15,19430814
+3,2,It Can't Be Wrong,Dick Haymes & The Song Spinners,Dick Haymes,jazz,jazz,19430626,10,2,11,19430814
+4,4,All Or Nothing At All,Harry James & His Music Makers / Frank Sinatra,Harry James,jazz,jazz,19430612,9,2,18,19430814
+5,7,You'll Never Know,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,jazz,19430724,7,2,13,19430814
+6,5,Comin' In On A Wing And A Prayer,The Song Spinners,The Song Spinners,pop,pop,19430612,10,1,11,19430814
+7,8,In My Arms,Dick Haymes & The Song Spinners,Dick Haymes,jazz,jazz,19430807,8,7,2,19430814
+8,6,I Heard You Cried Last Night,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19430724,6,4,18,19430814
+9,9,It's Always You,Tommy Dorsey / Frank Sinatra,Tommy Dorsey / Frank Sinatra,jazz,jazz,19430710,7,6,6,19430814
+10,10,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,jazz,19430731,10,1,30,19430814
+1,1,You'll Never Know,Dick Haymes & The Song Spinners,Dick Haymes,jazz,jazz,19430703,4,1,15,19430807
+2,2,It Can't Be Wrong,Dick Haymes & The Song Spinners,Dick Haymes,jazz,jazz,19430626,10,2,11,19430807
+3,3,In The Blue Of Evening,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,jazz,19430703,6,1,17,19430807
+4,4,All Or Nothing At All,Harry James & His Music Makers / Frank Sinatra,Harry James,jazz,jazz,19430612,9,2,18,19430807
+5,5,Comin' In On A Wing And A Prayer,The Song Spinners,The Song Spinners,pop,pop,19430612,10,1,11,19430807
+6,8,I Heard You Cried Last Night,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19430724,6,4,18,19430807
+7,6,You'll Never Know,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,jazz,19430724,7,2,13,19430807
+8,NEW,In My Arms,Dick Haymes & The Song Spinners,Dick Haymes,jazz,jazz,19430807,8,7,2,19430807
+9,7,It's Always You,Tommy Dorsey / Frank Sinatra,Tommy Dorsey / Frank Sinatra,jazz,jazz,19430710,7,6,6,19430807
+10,10,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,jazz,19430731,10,1,30,19430807
+1,1,You'll Never Know,Dick Haymes & The Song Spinners,Dick Haymes,jazz,jazz,19430703,4,1,15,19430731
+2,2,It Can't Be Wrong,Dick Haymes & The Song Spinners,Dick Haymes,jazz,jazz,19430626,10,2,11,19430731
+3,5,In The Blue Of Evening,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,jazz,19430703,6,1,17,19430731
+4,4,All Or Nothing At All,Harry James & His Music Makers / Frank Sinatra,Harry James,jazz,jazz,19430612,9,2,18,19430731
+5,3,Comin' In On A Wing And A Prayer,The Song Spinners,The Song Spinners,pop,pop,19430612,10,1,11,19430731
+6,7,You'll Never Know,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,jazz,19430724,7,2,13,19430731
+7,8,It's Always You,Tommy Dorsey / Frank Sinatra,Tommy Dorsey / Frank Sinatra,jazz,jazz,19430710,7,6,6,19430731
+8,6,I Heard You Cried Last Night,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19430724,6,4,18,19430731
+9,9,Johnny Zero,The Song Spinners,The Song Spinners,pop,pop,19430717,8,8,3,19430731
+10,NEW,Paper Doll,The Mills Brothers,The Mills Brothers,jazz,jazz,19430731,10,1,30,19430731
+1,1,You'll Never Know,Dick Haymes & The Song Spinners,Dick Haymes,jazz,jazz,19430703,4,1,15,19430724
+2,3,It Can't Be Wrong,Dick Haymes & The Song Spinners,Dick Haymes,jazz,jazz,19430626,10,2,11,19430724
+3,2,Comin' In On A Wing And A Prayer,The Song Spinners,The Song Spinners,pop,pop,19430612,10,1,11,19430724
+4,5,All Or Nothing At All,Harry James & His Music Makers / Frank Sinatra,Harry James,jazz,jazz,19430612,9,2,18,19430724
+5,4,In The Blue Of Evening,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,jazz,19430703,6,1,17,19430724
+6,NEW,I Heard You Cried Last Night,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19430724,6,4,18,19430724
+7,NEW,You'll Never Know,Frank Sinatra & The Bobby Tucker Singers,Frank Sinatra,jazz,jazz,19430724,7,2,13,19430724
+8,6,It's Always You,Tommy Dorsey / Frank Sinatra,Tommy Dorsey / Frank Sinatra,jazz,jazz,19430710,7,6,6,19430724
+9,8,Johnny Zero,The Song Spinners,The Song Spinners,pop,pop,19430717,8,8,3,19430724
+10,NEW,In My Arms,Dick Haymes & The Song Spinners,Dick Haymes,jazz,jazz,19430724,10,10,1,19430724
+1,2,You'll Never Know,Dick Haymes & The Song Spinners,Dick Haymes,jazz,jazz,19430703,4,1,15,19430717
+2,1,Comin' In On A Wing And A Prayer,The Song Spinners,The Song Spinners,pop,pop,19430612,10,1,11,19430717
+3,3,It Can't Be Wrong,Dick Haymes & The Song Spinners,Dick Haymes,jazz,jazz,19430626,10,2,11,19430717
+4,5,In The Blue Of Evening,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,jazz,19430703,6,1,17,19430717
+5,4,All Or Nothing At All,Harry James & His Music Makers / Frank Sinatra,Harry James,jazz,jazz,19430612,9,2,18,19430717
+6,7,It's Always You,Tommy Dorsey / Frank Sinatra,Tommy Dorsey / Frank Sinatra,jazz,jazz,19430710,7,6,6,19430717
+7,6,Let's Get Lost,Kay Kyser & His Orchestra / Harry Babbitt,Kay Kyser,jazz,jazz,19430619,5,4,5,19430717
+8,NEW,Johnny Zero,The Song Spinners,The Song Spinners,pop,pop,19430717,8,8,3,19430717
+9,9,Don't Get Around Much Anymore,Glen Gray & The Casa Loma Orchestra / Kenny Sargent,Glen Gray,pop,big band,19430710,9,9,2,19430717
+10,NEW,As Time Goes By,Jacque Renard & Orchestra / Frank Munn,Jacque Renard,pop,unknown,19430717,10,10,1,19430717
+1,1,Comin' In On A Wing And A Prayer,The Song Spinners,The Song Spinners,pop,pop,19430612,10,1,11,19430710
+2,4,You'll Never Know,Dick Haymes & The Song Spinners,Dick Haymes,jazz,jazz,19430703,4,1,15,19430710
+3,2,It Can't Be Wrong,Dick Haymes & The Song Spinners,Dick Haymes,jazz,jazz,19430626,10,2,11,19430710
+4,3,All Or Nothing At All,Harry James & His Music Makers / Frank Sinatra,Harry James,jazz,jazz,19430612,9,2,18,19430710
+5,6,In The Blue Of Evening,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,jazz,19430703,6,1,17,19430710
+6,10,Let's Get Lost,Kay Kyser & His Orchestra / Harry Babbitt,Kay Kyser,jazz,jazz,19430619,5,4,5,19430710
+7,NEW,It's Always You,Tommy Dorsey / Frank Sinatra,Tommy Dorsey / Frank Sinatra,jazz,jazz,19430710,7,6,6,19430710
+8,5,Taking A Chance On Love,Benny Goodman & His Orchestra / Helen Forrest,Benny Goodman,jazz,jazz,19430501,10,1,11,19430710
+9,NEW,Don't Get Around Much Anymore,Glen Gray & The Casa Loma Orchestra / Kenny Sargent,Glen Gray,pop,big band,19430710,9,9,2,19430710
+10,NEW,Don't Get Around Much Anymore,The Ink Spots,The Ink Spots,jazz,jazz,19430710,10,10,1,19430710
+1,1,Comin' In On A Wing And A Prayer,The Song Spinners,The Song Spinners,pop,pop,19430612,10,1,11,19430703
+2,10,It Can't Be Wrong,Dick Haymes & The Song Spinners,Dick Haymes,jazz,jazz,19430626,10,2,11,19430703
+3,3,All Or Nothing At All,Harry James & His Music Makers / Frank Sinatra,Harry James,jazz,jazz,19430612,9,2,18,19430703
+4,NEW,You'll Never Know,Dick Haymes & The Song Spinners,Dick Haymes,jazz,jazz,19430703,4,1,15,19430703
+5,2,Taking A Chance On Love,Benny Goodman & His Orchestra / Helen Forrest,Benny Goodman,jazz,jazz,19430501,10,1,11,19430703
+6,NEW,In The Blue Of Evening,Tommy Dorsey & His Orchestra / Frank Sinatra,Tommy Dorsey,jazz,jazz,19430703,6,1,17,19430703
+7,NEW,Johnny Zero,The Song Spinners,The Song Spinners,pop,pop,19430703,7,7,1,19430703
+8,8,Don't Get Around Much Anymore,Duke Ellington & His Orchestra,Duke Ellington & His Orchestra,jazz,jazz,19430626,8,8,2,19430703
+9,5,Velvet Moon,Harry James & His Music Makers,Harry James,jazz,jazz,19430410,8,2,13,19430703
+10,4,Let's Get Lost,Kay Kyser & His Orchestra / Harry Babbitt,Kay Kyser,jazz,jazz,19430619,5,4,5,19430703
+1,2,Comin' In On A Wing And A Prayer,The Song Spinners,The Song Spinners,pop,pop,19430612,10,1,11,19430626
+2,1,Taking A Chance On Love,Benny Goodman & His Orchestra / Helen Forrest,Benny Goodman,jazz,jazz,19430501,10,1,11,19430626
+3,3,All Or Nothing At All,Harry James & His Music Makers / Frank Sinatra,Harry James,jazz,jazz,19430612,9,2,18,19430626
+4,5,Let's Get Lost,Kay Kyser & His Orchestra / Harry Babbitt,Kay Kyser,jazz,jazz,19430619,5,4,5,19430626
+5,4,Velvet Moon,Harry James & His Music Makers,Harry James,jazz,jazz,19430410,8,2,13,19430626
+6,7,You'll Never Know,Willie Kelly,Willie Kelly,pop,unknown,19430605,10,6,4,19430626
+7,6,Don't Get Around Much Anymore,The Ink Spots,The Ink Spots,jazz,jazz,19430403,8,2,13,19430626
+8,NEW,Don't Get Around Much Anymore,Duke Ellington & His Orchestra,Duke Ellington & His Orchestra,jazz,jazz,19430626,8,8,2,19430626
+9,8,As Time Goes By,Jacques Renard & Orchestra / Frank Munn,Jacques Renard,pop,all,19430320,10,3,15,19430626
+10,NEW,It Can't Be Wrong,Dick Haymes & The Song Spinners,Dick Haymes,jazz,jazz,19430626,10,2,11,19430626
+1,1,Taking A Chance On Love,Benny Goodman & His Orchestra / Helen Forrest,Benny Goodman,jazz,jazz,19430501,10,1,11,19430619
+2,10,Comin' In On A Wing And A Prayer,The Song Spinners,The Song Spinners,pop,pop,19430612,10,1,11,19430619
+3,9,All Or Nothing At All,Harry James & His Music Makers / Frank Sinatra,Harry James,jazz,jazz,19430612,9,2,18,19430619
+4,3,Velvet Moon,Harry James & His Music Makers,Harry James,jazz,jazz,19430410,8,2,13,19430619
+5,NEW,Let's Get Lost,Kay Kyser & His Orchestra / Harry Babbitt,Kay Kyser,jazz,jazz,19430619,5,4,5,19430619
+6,5,Don't Get Around Much Anymore,The Ink Spots,The Ink Spots,jazz,jazz,19430403,8,2,13,19430619
+7,6,You'll Never Know,Willie Kelly,Willie Kelly,pop,unknown,19430605,10,6,4,19430619
+8,4,As Time Goes By,Jacques Renard & Orchestra / Frank Munn,Jacques Renard,pop,all,19430320,10,3,15,19430619
+9,2,As Time Goes By,Rudy Vallee,Rudy Vallee,pop,20s,19430417,8,2,10,19430619
+10,7,Don't Get Around Much Anymore,Glen Gray & The Casa Loma Orchestra / Kenny Sargent,Glen Gray,pop,big band,19430522,9,7,5,19430619
+1,1,Taking A Chance On Love,Benny Goodman & His Orchestra / Helen Forrest,Benny Goodman,jazz,jazz,19430501,10,1,11,19430612
+2,4,As Time Goes By,Rudy Vallee,Rudy Vallee,pop,20s,19430417,8,2,10,19430612
+3,2,Velvet Moon,Harry James & His Music Makers,Harry James,jazz,jazz,19430410,8,2,13,19430612
+4,6,As Time Goes By,Jacques Renard & Orchestra / Frank Munn,Jacques Renard,pop,all,19430320,10,3,15,19430612
+5,3,Don't Get Around Much Anymore,The Ink Spots,The Ink Spots,jazz,jazz,19430403,8,2,13,19430612
+6,10,You'll Never Know,Willie Kelly,Willie Kelly,pop,unknown,19430605,10,6,4,19430612
+7,9,Don't Get Around Much Anymore,Glen Gray & The Casa Loma Orchestra / Kenny Sargent,Glen Gray,pop,big band,19430522,9,7,5,19430612
+8,8,Let's Get Lost,Vaughn Monroe & His Orchestra / The Four Lee Sisters,Vaughn Monroe,jazz,swing,19430605,8,8,2,19430612
+9,NEW,All Or Nothing At All,Harry James & His Music Makers / Frank Sinatra,Harry James,jazz,jazz,19430612,9,2,18,19430612
+10,NEW,Comin' In On A Wing And A Prayer,The Song Spinners,The Song Spinners,pop,pop,19430612,10,1,11,19430612
+1,2,Taking A Chance On Love,Benny Goodman & His Orchestra / Helen Forrest,Benny Goodman,jazz,jazz,19430501,10,1,11,19430605
+2,7,Velvet Moon,Harry James & His Music Makers,Harry James,jazz,jazz,19430410,8,2,13,19430605
+3,3,Don't Get Around Much Anymore,The Ink Spots,The Ink Spots,jazz,jazz,19430403,8,2,13,19430605
+4,8,As Time Goes By,Rudy Vallee,Rudy Vallee,pop,20s,19430417,8,2,10,19430605
+5,1,I've Heard That Song Before,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19430123,7,1,20,19430605
+6,6,As Time Goes By,Jacques Renard & Orchestra / Frank Munn,Jacques Renard,pop,all,19430320,10,3,15,19430605
+7,5,That Old Black Magic,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,jazz,19430306,7,1,14,19430605
+8,NEW,Let's Get Lost,Vaughn Monroe & His Orchestra / The Four Lee Sisters,Vaughn Monroe,jazz,swing,19430605,8,8,2,19430605
+9,9,Don't Get Around Much Anymore,Glen Gray & The Casa Loma Orchestra / Kenny Sargent,Glen Gray,pop,big band,19430522,9,7,5,19430605
+10,NEW,You'll Never Know,Willie Kelly,Willie Kelly,pop,unknown,19430605,10,6,4,19430605
+1,4,I've Heard That Song Before,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19430123,7,1,20,19430529
+2,8,Taking A Chance On Love,Benny Goodman & His Orchestra / Helen Forrest,Benny Goodman,jazz,jazz,19430501,10,1,11,19430529
+3,2,Don't Get Around Much Anymore,The Ink Spots,The Ink Spots,jazz,jazz,19430403,8,2,13,19430529
+4,3,Brazil (Aquarela Do Brasil),Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,latin,19430123,10,2,19,19430529
+5,1,That Old Black Magic,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,jazz,19430306,7,1,14,19430529
+6,7,As Time Goes By,Jacques Renard & Orchestra / Frank Munn,Jacques Renard,pop,all,19430320,10,3,15,19430529
+7,6,Velvet Moon,Harry James & His Music Makers,Harry James,jazz,jazz,19430410,8,2,13,19430529
+8,5,As Time Goes By,Rudy Vallee,Rudy Vallee,pop,20s,19430417,8,2,10,19430529
+9,9,Don't Get Around Much Anymore,Glen Gray & The Casa Loma Orchestra / Kenny Sargent,Glen Gray,pop,big band,19430522,9,7,5,19430529
+10,10,For Me And My Gal,Judy Garland & Gene Kelly / David Rose & His Orchestra,Judy Garland,jazz,jazz,19430522,10,10,2,19430529
+1,3,That Old Black Magic,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,jazz,19430306,7,1,14,19430522
+2,7,Don't Get Around Much Anymore,The Ink Spots,The Ink Spots,jazz,jazz,19430403,8,2,13,19430522
+3,5,Brazil (Aquarela Do Brasil),Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,latin,19430123,10,2,19,19430522
+4,1,I've Heard That Song Before,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19430123,7,1,20,19430522
+5,9,As Time Goes By,Rudy Vallee,Rudy Vallee,pop,20s,19430417,8,2,10,19430522
+6,2,Velvet Moon,Harry James & His Music Makers,Harry James,jazz,jazz,19430410,8,2,13,19430522
+7,8,As Time Goes By,Jacques Renard & Orchestra / Frank Munn,Jacques Renard,pop,all,19430320,10,3,15,19430522
+8,4,Taking A Chance On Love,Benny Goodman & His Orchestra / Helen Forrest,Benny Goodman,jazz,jazz,19430501,10,1,11,19430522
+9,NEW,Don't Get Around Much Anymore,Glen Gray & The Casa Loma Orchestra / Kenny Sargent,Glen Gray,pop,big band,19430522,9,7,5,19430522
+10,NEW,For Me And My Gal,Judy Garland & Gene Kelly / David Rose & His Orchestra,Judy Garland,jazz,jazz,19430522,10,10,2,19430522
+1,1,I've Heard That Song Before,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19430123,7,1,20,19430515
+2,7,Velvet Moon,Harry James & His Music Makers,Harry James,jazz,jazz,19430410,8,2,13,19430515
+3,2,That Old Black Magic,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,jazz,19430306,7,1,14,19430515
+4,5,Taking A Chance On Love,Benny Goodman & His Orchestra / Helen Forrest,Benny Goodman,jazz,jazz,19430501,10,1,11,19430515
+5,3,Brazil (Aquarela Do Brasil),Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,latin,19430123,10,2,19,19430515
+6,4,It Started All Over Again,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19430508,4,4,2,19430515
+7,6,Don't Get Around Much Anymore,The Ink Spots,The Ink Spots,jazz,jazz,19430403,8,2,13,19430515
+8,8,As Time Goes By,Jacques Renard & Orchestra / Frank Munn,Jacques Renard,pop,all,19430320,10,3,15,19430515
+9,9,As Time Goes By,Rudy Vallee,Rudy Vallee,pop,20s,19430417,8,2,10,19430515
+10,NEW,"Murder, He Says",Dinah Shore / Gordon Jenkins & His Orchestra,Dinah Shore / Gordon Jenkins,pop,unknown,19430515,10,10,1,19430515
+1,1,I've Heard That Song Before,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19430123,7,1,20,19430508
+2,2,That Old Black Magic,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,jazz,19430306,7,1,14,19430508
+3,3,Brazil (Aquarela Do Brasil),Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,latin,19430123,10,2,19,19430508
+4,NEW,It Started All Over Again,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19430508,4,4,2,19430508
+5,10,Taking A Chance On Love,Benny Goodman & His Orchestra / Helen Forrest,Benny Goodman,jazz,jazz,19430501,10,1,11,19430508
+6,6,Don't Get Around Much Anymore,The Ink Spots,The Ink Spots,jazz,jazz,19430403,8,2,13,19430508
+7,4,Velvet Moon,Harry James & His Music Makers,Harry James,jazz,jazz,19430410,8,2,13,19430508
+8,8,As Time Goes By,Jacques Renard & Orchestra / Frank Munn,Jacques Renard,pop,all,19430320,10,3,15,19430508
+9,7,As Time Goes By,Rudy Vallee,Rudy Vallee,pop,20s,19430417,8,2,10,19430508
+10,NEW,For Me And My Gal,Judy Garland & Gene Kelly / David Rose & His Orchestra,Judy Garland,jazz,jazz,19430508,10,10,1,19430508
+1,1,I've Heard That Song Before,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19430123,7,1,20,19430501
+2,3,That Old Black Magic,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,jazz,19430306,7,1,14,19430501
+3,2,Brazil (Aquarela Do Brasil),Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,latin,19430123,10,2,19,19430501
+4,6,Velvet Moon,Harry James & His Music Makers,Harry James,jazz,jazz,19430410,8,2,13,19430501
+5,NEW,"Murder, He Says",Dinah Shore,Dinah Shore,jazz,jazz,19430501,5,5,1,19430501
+6,4,Don't Get Around Much Anymore,The Ink Spots,The Ink Spots,jazz,jazz,19430403,8,2,13,19430501
+7,9,As Time Goes By,Rudy Vallee,Rudy Vallee,pop,20s,19430417,8,2,10,19430501
+8,5,As Time Goes By,Jacques Renard & Orchestra / Frank Munn,Jacques Renard,pop,all,19430320,10,3,15,19430501
+9,NEW,Don't Get Around Much Anymore,Glen Gray & The Casa Loma Orchestra / Kenny Sargent,Glen Gray,pop,big band,19430501,9,9,1,19430501
+10,NEW,Taking A Chance On Love,Benny Goodman & His Orchestra / Helen Forrest,Benny Goodman,jazz,jazz,19430501,10,1,11,19430501
+1,1,I've Heard That Song Before,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19430123,7,1,20,19430424
+2,2,Brazil (Aquarela Do Brasil),Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,latin,19430123,10,2,19,19430424
+3,4,That Old Black Magic,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,jazz,19430306,7,1,14,19430424
+4,7,Don't Get Around Much Anymore,The Ink Spots,The Ink Spots,jazz,jazz,19430403,8,2,13,19430424
+5,3,As Time Goes By,Jacques Renard & Orchestra / Frank Munn,Jacques Renard,pop,all,19430320,10,3,15,19430424
+6,10,Velvet Moon,Harry James & His Music Makers,Harry James,jazz,jazz,19430410,8,2,13,19430424
+7,9,It Started All Over Again,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19430220,7,4,10,19430424
+8,5,You'd Be So Nice To Come Home To,Dinah Shore,Dinah Shore,jazz,jazz,19430206,7,4,12,19430424
+9,8,As Time Goes By,Rudy Vallee,Rudy Vallee,pop,20s,19430417,8,2,10,19430424
+10,NEW,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19430424,10,10,1,19430424
+1,1,I've Heard That Song Before,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19430123,7,1,20,19430417
+2,2,Brazil (Aquarela Do Brasil),Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,latin,19430123,10,2,19,19430417
+3,7,As Time Goes By,Jacques Renard & Orchestra / Frank Munn,Jacques Renard,pop,all,19430320,10,3,15,19430417
+4,3,That Old Black Magic,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,jazz,19430306,7,1,14,19430417
+5,4,You'd Be So Nice To Come Home To,Dinah Shore,Dinah Shore,jazz,jazz,19430206,7,4,12,19430417
+6,6,For Me And My Gal,Judy Garland & Gene Kelly / David Rose & His Orchestra,Judy Garland,jazz,jazz,19430327,3,3,4,19430417
+7,5,Don't Get Around Much Anymore,The Ink Spots,The Ink Spots,jazz,jazz,19430403,8,2,13,19430417
+8,NEW,As Time Goes By,Rudy Vallee,Rudy Vallee,pop,20s,19430417,8,2,10,19430417
+9,9,It Started All Over Again,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19430220,7,4,10,19430417
+10,8,Velvet Moon,Harry James & His Music Makers,Harry James,jazz,jazz,19430410,8,2,13,19430417
+1,1,I've Heard That Song Before,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19430123,7,1,20,19430410
+2,2,Brazil (Aquarela Do Brasil),Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,latin,19430123,10,2,19,19430410
+3,5,That Old Black Magic,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,jazz,19430306,7,1,14,19430410
+4,4,You'd Be So Nice To Come Home To,Dinah Shore,Dinah Shore,jazz,jazz,19430206,7,4,12,19430410
+5,8,Don't Get Around Much Anymore,The Ink Spots,The Ink Spots,jazz,jazz,19430403,8,2,13,19430410
+6,10,For Me And My Gal,Judy Garland & Gene Kelly / David Rose & His Orchestra,Judy Garland,jazz,jazz,19430327,3,3,4,19430410
+7,3,As Time Goes By,Jacques Renard & Orchestra / Frank Munn,Jacques Renard,pop,all,19430320,10,3,15,19430410
+8,NEW,Velvet Moon,Harry James & His Music Makers,Harry James,jazz,jazz,19430410,8,2,13,19430410
+9,6,It Started All Over Again,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19430220,7,4,10,19430410
+10,9,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19421107,9,1,23,19430410
+1,1,I've Heard That Song Before,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19430123,7,1,20,19430403
+2,2,Brazil (Aquarela Do Brasil),Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,latin,19430123,10,2,19,19430403
+3,9,As Time Goes By,Jacques Renard & Orchestra / Frank Munn,Jacques Renard,pop,all,19430320,10,3,15,19430403
+4,5,You'd Be So Nice To Come Home To,Dinah Shore,Dinah Shore,jazz,jazz,19430206,7,4,12,19430403
+5,4,That Old Black Magic,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,jazz,19430306,7,1,14,19430403
+6,7,It Started All Over Again,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19430220,7,4,10,19430403
+7,NEW,Why Don't You Do Right?,Benny Goodman & His Orchestra / Peggy Lee,Benny Goodman & His Orchestra / Peggy Lee,jazz,jazz,19430403,7,7,1,19430403
+8,NEW,Don't Get Around Much Anymore,The Ink Spots,The Ink Spots,jazz,jazz,19430403,8,2,13,19430403
+9,6,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19421107,9,1,23,19430403
+10,3,For Me And My Gal,Judy Garland & Gene Kelly / David Rose & His Orchestra,Judy Garland,jazz,jazz,19430327,3,3,4,19430403
+1,1,I've Heard That Song Before,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19430123,7,1,20,19430327
+2,2,Brazil (Aquarela Do Brasil),Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,latin,19430123,10,2,19,19430327
+3,NEW,For Me And My Gal,Judy Garland & Gene Kelly / David Rose & His Orchestra,Judy Garland,jazz,jazz,19430327,3,3,4,19430327
+4,3,That Old Black Magic,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,jazz,19430306,7,1,14,19430327
+5,6,You'd Be So Nice To Come Home To,Dinah Shore,Dinah Shore,jazz,jazz,19430206,7,4,12,19430327
+6,5,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19421107,9,1,23,19430327
+7,4,It Started All Over Again,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19430220,7,4,10,19430327
+8,8,Moonlight Becomes You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19430306,8,8,4,19430327
+9,10,As Time Goes By,Jacques Renard & Orchestra / Frank Munn,Jacques Renard,pop,all,19430320,10,3,15,19430327
+10,9,I Had The Craziest Dream,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19421128,9,1,18,19430327
+1,1,I've Heard That Song Before,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19430123,7,1,20,19430320
+2,2,Brazil (Aquarela Do Brasil),Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,latin,19430123,10,2,19,19430320
+3,5,That Old Black Magic,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,jazz,19430306,7,1,14,19430320
+4,8,It Started All Over Again,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19430220,7,4,10,19430320
+5,3,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19421107,9,1,23,19430320
+6,4,You'd Be So Nice To Come Home To,Dinah Shore,Dinah Shore,jazz,jazz,19430206,7,4,12,19430320
+7,NEW,Don't Get Around Much Anymore,The Ink Spots,The Ink Spots,jazz,jazz,19430320,7,7,1,19430320
+8,9,Moonlight Becomes You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19430306,8,8,4,19430320
+9,7,I Had The Craziest Dream,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19421128,9,1,18,19430320
+10,NEW,As Time Goes By,Jacques Renard & Orchestra / Frank Munn,Jacques Renard,pop,all,19430320,10,3,15,19430320
+1,1,I've Heard That Song Before,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19430123,7,1,20,19430313
+2,3,Brazil (Aquarela Do Brasil),Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,latin,19430123,10,2,19,19430313
+3,2,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19421107,9,1,23,19430313
+4,6,You'd Be So Nice To Come Home To,Dinah Shore,Dinah Shore,jazz,jazz,19430206,7,4,12,19430313
+5,7,That Old Black Magic,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,jazz,19430306,7,1,14,19430313
+6,5,Why Don't You Do Right?,Benny Goodman & His Orchestra / Peggy Lee,Benny Goodman & His Orchestra / Peggy Lee,jazz,jazz,19430102,10,4,11,19430313
+7,4,I Had The Craziest Dream,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19421128,9,1,18,19430313
+8,10,It Started All Over Again,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19430220,7,4,10,19430313
+9,8,Moonlight Becomes You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19430306,8,8,4,19430313
+10,NEW,That Old Black Magic,Margaret Whiting / Freddie Slack & His Orchestra,Margaret Whiting / Freddie Slack,pop,unknown,19430313,10,10,1,19430313
+1,1,I've Heard That Song Before,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19430123,7,1,20,19430306
+2,3,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19421107,9,1,23,19430306
+3,4,Brazil (Aquarela Do Brasil),Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,latin,19430123,10,2,19,19430306
+4,2,I Had The Craziest Dream,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19421128,9,1,18,19430306
+5,6,Why Don't You Do Right?,Benny Goodman & His Orchestra / Peggy Lee,Benny Goodman & His Orchestra / Peggy Lee,jazz,jazz,19430102,10,4,11,19430306
+6,5,You'd Be So Nice To Come Home To,Dinah Shore,Dinah Shore,jazz,jazz,19430206,7,4,12,19430306
+7,NEW,That Old Black Magic,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,jazz,19430306,7,1,14,19430306
+8,NEW,Moonlight Becomes You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19430306,8,8,4,19430306
+9,9,For Me And My Gal,Judy Garland & Gene Kelly / David Rose & His Orchestra,Judy Garland,jazz,jazz,19430227,9,9,2,19430306
+10,8,It Started All Over Again,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19430220,7,4,10,19430306
+1,2,I've Heard That Song Before,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19430123,7,1,20,19430227
+2,3,I Had The Craziest Dream,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19421128,9,1,18,19430227
+3,1,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19421107,9,1,23,19430227
+4,6,Brazil (Aquarela Do Brasil),Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,latin,19430123,10,2,19,19430227
+5,5,You'd Be So Nice To Come Home To,Dinah Shore,Dinah Shore,jazz,jazz,19430206,7,4,12,19430227
+6,8,Why Don't You Do Right?,Benny Goodman & His Orchestra / Peggy Lee,Benny Goodman & His Orchestra / Peggy Lee,jazz,jazz,19430102,10,4,11,19430227
+7,10,(As Long As You're Not In Love With Anyone Else) Why Don't,Dinah Shore,Dinah Shore,jazz,jazz,19430109,6,3,8,19430227
+8,7,It Started All Over Again,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19430220,7,4,10,19430227
+9,NEW,For Me And My Gal,Judy Garland & Gene Kelly / David Rose & His Orchestra,Judy Garland,jazz,jazz,19430227,9,9,2,19430227
+10,9,Moonlight Becomes You,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,jazz,19430213,9,9,3,19430227
+1,2,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19421107,9,1,23,19430220
+2,3,I've Heard That Song Before,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19430123,7,1,20,19430220
+3,1,I Had The Craziest Dream,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19421128,9,1,18,19430220
+4,7,Moonlight Becomes You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19430109,7,3,7,19430220
+5,6,You'd Be So Nice To Come Home To,Dinah Shore,Dinah Shore,jazz,jazz,19430206,7,4,12,19430220
+6,4,Brazil (Aquarela Do Brasil),Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,latin,19430123,10,2,19,19430220
+7,NEW,It Started All Over Again,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19430220,7,4,10,19430220
+8,8,Why Don't You Do Right?,Benny Goodman & His Orchestra / Peggy Lee,Benny Goodman & His Orchestra / Peggy Lee,jazz,jazz,19430102,10,4,11,19430220
+9,9,Moonlight Becomes You,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,jazz,19430213,9,9,3,19430220
+10,5,(As Long As You're Not In Love With Anyone Else) Why Don't,Dinah Shore,Dinah Shore,jazz,jazz,19430109,6,3,8,19430220
+1,1,I Had The Craziest Dream,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19421128,9,1,18,19430213
+2,2,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19421107,9,1,23,19430213
+3,3,I've Heard That Song Before,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19430123,7,1,20,19430213
+4,6,Brazil (Aquarela Do Brasil),Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,latin,19430123,10,2,19,19430213
+5,5,(As Long As You're Not In Love With Anyone Else) Why Don't,Dinah Shore,Dinah Shore,jazz,jazz,19430109,6,3,8,19430213
+6,7,You'd Be So Nice To Come Home To,Dinah Shore,Dinah Shore,jazz,jazz,19430206,7,4,12,19430213
+7,4,Moonlight Becomes You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19430109,7,3,7,19430213
+8,8,Why Don't You Do Right?,Benny Goodman & His Orchestra / Peggy Lee,Benny Goodman & His Orchestra / Peggy Lee,jazz,jazz,19430102,10,4,11,19430213
+9,NEW,Moonlight Becomes You,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,jazz,19430213,9,9,3,19430213
+10,NEW,Don't Get Around Much Anymore,The Ink Spots,The Ink Spots,jazz,jazz,19430213,10,10,1,19430213
+1,2,I Had The Craziest Dream,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19421128,9,1,18,19430206
+2,1,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19421107,9,1,23,19430206
+3,8,I've Heard That Song Before,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19430123,7,1,20,19430206
+4,3,Moonlight Becomes You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19430109,7,3,7,19430206
+5,6,(As Long As You're Not In Love With Anyone Else) Why Don't,Dinah Shore,Dinah Shore,jazz,jazz,19430109,6,3,8,19430206
+6,4,Brazil (Aquarela Do Brasil),Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,latin,19430123,10,2,19,19430206
+7,NEW,You'd Be So Nice To Come Home To,Dinah Shore,Dinah Shore,jazz,jazz,19430206,7,4,12,19430206
+8,5,Why Don't You Do Right?,Benny Goodman & His Orchestra / Peggy Lee,Benny Goodman & His Orchestra / Peggy Lee,jazz,jazz,19430102,10,4,11,19430206
+9,9,When The Lights Go On Again (All Over The World),Vaughn Monroe & His Orchestra,Vaughn Monroe,jazz,swing,19421114,5,2,13,19430206
+10,NEW,It Started All Over Again,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19430206,10,10,1,19430206
+1,1,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19421107,9,1,23,19430130
+2,2,I Had The Craziest Dream,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19421128,9,1,18,19430130
+3,4,Moonlight Becomes You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19430109,7,3,7,19430130
+4,10,Brazil (Aquarela Do Brasil),Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,latin,19430123,10,2,19,19430130
+5,6,Why Don't You Do Right?,Benny Goodman & His Orchestra / Peggy Lee,Benny Goodman & His Orchestra / Peggy Lee,jazz,jazz,19430102,10,4,11,19430130
+6,3,(As Long As You're Not In Love With Anyone Else) Why Don't,Dinah Shore,Dinah Shore,jazz,jazz,19430109,6,3,8,19430130
+7,5,Moonlight Becomes You,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,jazz,19430116,7,5,3,19430130
+8,7,I've Heard That Song Before,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19430123,7,1,20,19430130
+9,8,When The Lights Go On Again (All Over The World),Vaughn Monroe & His Orchestra,Vaughn Monroe,jazz,swing,19421114,5,2,13,19430130
+10,NEW,Juke Box Saturday Night,Glenn Miller & His Orchestra / Tex Beneke & Marion Hutton,Glenn Miller,jazz,jazz,19430130,10,10,1,19430130
+1,1,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19421107,9,1,23,19430123
+2,2,I Had The Craziest Dream,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19421128,9,1,18,19430123
+3,3,(As Long As You're Not In Love With Anyone Else) Why Don't,Dinah Shore,Dinah Shore,jazz,jazz,19430109,6,3,8,19430123
+4,8,Moonlight Becomes You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19430109,7,3,7,19430123
+5,7,Moonlight Becomes You,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,jazz,19430116,7,5,3,19430123
+6,4,Why Don't You Do Right?,Benny Goodman & His Orchestra / Peggy Lee,Benny Goodman & His Orchestra / Peggy Lee,jazz,jazz,19430102,10,4,11,19430123
+7,NEW,I've Heard That Song Before,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19430123,7,1,20,19430123
+8,5,When The Lights Go On Again (All Over The World),Vaughn Monroe & His Orchestra,Vaughn Monroe,jazz,swing,19421114,5,2,13,19430123
+9,NEW,For Me And My Gal,Judy Garland & Gene Kelly,Judy Garland & Gene Kelly,pop,soundtracks,19430123,9,9,1,19430123
+10,NEW,Brazil (Aquarela Do Brasil),Xavier Cugat & His Orchestra,Xavier Cugat & His Orchestra,pop,latin,19430123,10,2,19,19430123
+1,1,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19421107,9,1,23,19430116
+2,2,I Had The Craziest Dream,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19421128,9,1,18,19430116
+3,6,(As Long As You're Not In Love With Anyone Else) Why Don't,Dinah Shore,Dinah Shore,jazz,jazz,19430109,6,3,8,19430116
+4,5,Why Don't You Do Right?,Benny Goodman & His Orchestra / Peggy Lee,Benny Goodman & His Orchestra / Peggy Lee,jazz,jazz,19430102,10,4,11,19430116
+5,3,When The Lights Go On Again (All Over The World),Vaughn Monroe & His Orchestra,Vaughn Monroe,jazz,swing,19421114,5,2,13,19430116
+6,9,Mister Five By Five,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19421121,6,2,9,19430116
+7,NEW,Moonlight Becomes You,Glenn Miller & His Orchestra / Skip Nelson & The Modernaires,Glenn Miller,jazz,jazz,19430116,7,5,3,19430116
+8,7,Moonlight Becomes You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19430109,7,3,7,19430116
+9,10,Juke Box Saturday Night,Glenn Miller & His Orchestra / Tex Beneke & Marion Hutton,Glenn Miller,jazz,jazz,19421205,9,7,7,19430116
+10,NEW,(As Long As You're Not In Love With Anyone Else) Why Don't,Johnny Long & His Orchestra / Bob Houston & Helen Young,Johnny Long,jazz,jazz,19430116,10,10,1,19430116
+1,2,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19421107,9,1,23,19430109
+2,3,I Had The Craziest Dream,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19421128,9,1,18,19430109
+3,5,When The Lights Go On Again (All Over The World),Vaughn Monroe & His Orchestra,Vaughn Monroe,jazz,swing,19421114,5,2,13,19430109
+4,1,White Christmas,Bing Crosby & Ken Darby Singers / John Scott Trotter,Bing Crosby,jazz,jazz,19421003,9,1,15,19430109
+5,10,Why Don't You Do Right?,Benny Goodman & His Orchestra / Peggy Lee,Benny Goodman & His Orchestra / Peggy Lee,jazz,jazz,19430102,10,4,11,19430109
+6,NEW,(As Long As You're Not In Love With Anyone Else) Why Don't,Dinah Shore,Dinah Shore,jazz,jazz,19430109,6,3,8,19430109
+7,NEW,Moonlight Becomes You,Bing Crosby / John Scott Trotter & His Orchestra,Bing Crosby / John Scott Trotter,pop,unknown,19430109,7,3,7,19430109
+8,7,Dearly Beloved,Glenn Miller & His Orchestra / Skip Nelson,Glenn Miller,jazz,jazz,19421226,5,5,3,19430109
+9,6,Mister Five By Five,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19421121,6,2,9,19430109
+10,8,Juke Box Saturday Night,Glenn Miller & His Orchestra / Tex Beneke & Marion Hutton,Glenn Miller,jazz,jazz,19421205,9,7,7,19430109
+1,1,White Christmas,Bing Crosby & Ken Darby Singers / John Scott Trotter,Bing Crosby,jazz,jazz,19421003,9,1,15,19430102
+2,2,There Are Such Things,Tommy Dorsey & His Orchestra / Frank Sinatra & Pied Pipers,Tommy Dorsey,jazz,jazz,19421107,9,1,23,19430102
+3,4,I Had The Craziest Dream,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19421128,9,1,18,19430102
+4,3,Praise The Lord And Pass The Ammunition,Kay Kyser & His Orchestra / The Glee Club,Kay Kyser,jazz,jazz,19421010,4,2,13,19430102
+5,8,When The Lights Go On Again (All Over The World),Vaughn Monroe & His Orchestra,Vaughn Monroe,jazz,swing,19421114,5,2,13,19430102
+6,6,Mister Five By Five,Harry James & His Music Makers / Helen Forrest,Harry James,jazz,jazz,19421121,6,2,9,19430102
+7,5,Dearly Beloved,Glenn Miller & His Orchestra / Skip Nelson,Glenn Miller,jazz,jazz,19421226,5,5,3,19430102
+8,7,Juke Box Saturday Night,Glenn Miller & His Orchestra / Tex Beneke & Marion Hutton,Glenn Miller,jazz,jazz,19421205,9,7,7,19430102
+9,NEW,Der Fuehrer's Face,Spike Jones & His City Slickers / Carl Grayson,Spike Jones,pop,comedy,19430102,9,9,1,19430102
+10,NEW,Why Don't You Do Right?,Benny Goodman & His Orchestra / Peggy Lee,Benny Goodman & His Orchestra / Peggy Lee,jazz,jazz,19430102,10,4,11,19430102
