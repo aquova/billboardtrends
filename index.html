@@ -14,9 +14,24 @@
         <h3>Ethan Jaynes - 443837</h3>
         <a href="processbook.html">Process Book</a>
 
-        <div id="streamgraph"></div>
-        <div id="tilegraph"></div>
-        <div id="alluvialgraph"></div>
+        <!-- Tab content inspired from here: https://www.w3schools.com/howto/howto_js_tabs.asp -->
+        <div class="tab">
+            <button class="tablinks" onclick="showGraph('stream')">Year</button>
+            <button id="defaultOpen" class="tablinks" onclick="showGraph('tile')">Genre</button>
+            <button class="tablinks" onclick="showGraph('alluvial')">Artist</button>
+        </div>
+
+        <div id="stream" class="tabcontent">
+            <div id="streamgraph"></div>
+        </div>
+
+        <div id="tile" class="tabcontent">
+            <div id="tilegraph"></div>
+        </div>
+
+        <div id="alluvial" class="tabcontent">
+            <div id="alluvialgraph"></div>
+        </div>
 
         <script src="https://unpkg.com/d3-array@1"></script>
         <script src="https://unpkg.com/d3-collection@1"></script>
