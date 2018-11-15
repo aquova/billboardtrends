@@ -12,8 +12,9 @@ d3.request("https://raw.githubusercontent.com/washuvis/billboardtrends/master/da
     mainTile(data);
 })
 
+<<<<<<< HEAD
 mainStream();
-
+=======
 function showGraph(graphName) {
     // Declare all variables
     var i, tabcontent, tablinks;
@@ -36,3 +37,4 @@ function showGraph(graphName) {
 }
 
 document.getElementById("defaultOpen").click()
+>>>>>>> f1ad038dc24c645113c6ec440c0c90858b378ade

@@ -9,10 +9,8 @@ d3.request("https://raw.githubusercontent.com/washuvis/billboardtrends/master/da
 })
 .get(function(data) {
     // Pass data along to other files
-    mainTile(data);
+    mainTile(data)
 })
-
-mainStream();
 
 function showGraph(graphName) {
     // Declare all variables
