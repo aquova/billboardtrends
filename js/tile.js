@@ -7,16 +7,18 @@ var margin = {
     bottom: 10,
     left: 10
 }
-const tileWidth = 960
-const tileHeight = 500
+// These are percentages
+const tileWidth = 100
+const tileHeight = 100
 const tileScale = d3.scaleOrdinal().range(d3.schemeCategory20c)
 
-var div = d3.select("#tilegraph").append("div")
-    .attr("width", tileWidth)
-    .attr("height", tileHeight)
+var tileXscale = d3.scaleLinear().domain([0, tileWidth]).range([0, tileWidth])
+var tileYscale = d3.scaleLinear().domain([0, tileHeight]).range([0, tileHeight])
+
+var div = d3.select("#tilegraph")
 
 function readData(year) {
-    var filepath = "../data/charts/" + year + ".csv"
+    var filepath = "data/charts/" + year + ".csv"
     d3.csv(filepath, function(data) {
         mainTile(data)
     })
@@ -30,8 +32,8 @@ function parseData(d) {
     var artists = []
     for (var i = 0; i < d.length; i++) {
         var artist = d[i].artist
-        var subgenre = d[i].clean_genre
-        var genre = d[i].genre
+        var genre = d[i].clean_genre
+        var subgenre = d[i].genre
 
         // If genre not already in list
         if (!(genres.includes(genre))) {
@@ -91,21 +93,89 @@ function parseData(d) {
 function mainTile(raw_data) {
     var data = parseData(raw_data)
 
+    // console.log(data)
     var treemap = d3.treemap().size([tileWidth, tileHeight])
     var root = d3.hierarchy(data).sum((d) => d.value)
     var tree = treemap(root)
 
-    var node = div.datum(root).selectAll(".node")
-        .data(tree.leaves())
-        .enter().append("div")
-        .attr("class", "node")
-        .style("left", (d) => d.x0 + "px")
-        .style("top", (d) => d.y0 + "px")
-        .style("width", (d) => Math.max(0, d.x1 - d.x0 - 1) + "px")
-        .style("height", (d) => Math.max(0, d.y1 - d.y0 - 1) + "px")
-        .style("background", (d) => tileScale(d.parent.data.name))
-        // .text((d) => d.parent.data.name + " - " + d.data.name)
-        .text((d) => d.parent.data.name)
+    var cells = div.selectAll(".node")
+        .data(root.descendants())
+        .enter()
+        .append("div")
+        .attr("class", function(d) {
+            return "node level-" + d.depth
+        })
+        .attr("title", function(d) {
+            return d.data.name
+        })
+
+    cells.style("left", function(d) {
+        return tileXscale(d.x0) + "%"
+    })
+    .style("top", function(d) {
+        return tileYscale(d.y0) + "%"
+    })
+    .style("width", function(d) {
+        return tileXscale(d.x1) - tileXscale(d.x0) + "%"
+    })
+    .style("height", function(d) {
+        return tileYscale(d.y1) - tileYscale(d.y0) + "%"
+    })
+    .style("background-color", function(d) {
+        while (d.depth > 1) {
+            d = d.parent
+        }
+        return tileScale(d.data.name)
+    })
+    .on("click", zoom)
+    .append("p")
+    .attr("class", "label")
+    .text(function(d) {
+        return d.data.name ? d.data.name : "---"
+    })
+
+    var parent = d3.select(".up")
+    .datum(root)
+    .on("click", zoom)
+
+    // The zooming behavior was based off of here: https://codepen.io/znak/pen/qapRkQ?editors=0010
+    function zoom(d) {
+        console.log(d)
+        var currentDepth = d.depth
+        parent.datum(d.parent || root)
+        tileXscale.domain([d.x0, d.x1])
+        tileYscale.domain([d.y0, d.y1])
+
+        var t = d3.transition()
+        .duration(300)
+        .ease(d3.easeCubicOut)
+
+        cells.transition(t)
+        .style("left", function(d) {
+            return tileXscale(d.x0) + "%"
+        })
+        .style("top", function(d) {
+            return tileYscale(d.y0) + "%"
+        })
+        .style("width", function(d) {
+            return tileXscale(d.x1) - tileXscale(d.x0) + "%"
+        })
+        .style("height", function(d) {
+            return tileYscale(d.y1) - tileYscale(d.y0) + "%"
+        })
+
+        cells.filter(function(d) {
+            return d.ancestors()
+        })
+        .classed("hide", function(d) {
+            return d.children ? true : false
+        })
+
+        cells.filter(function(d) {
+            return d.depth > currentDepth
+        })
+        .classed("hide", false)
+    }
 }
 
 readData("2012")
