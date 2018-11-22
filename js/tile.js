@@ -9,23 +9,28 @@ var margin = {
 }
 const tileWidth = 960
 const tileHeight = 500
-const colorScale = d3.scaleOrdinal().range(d3.schemeCategory20c)
+const tileScale = d3.scaleOrdinal().range(d3.schemeCategory20c)
 
 var div = d3.select("#tilegraph").append("div")
     .attr("width", tileWidth)
     .attr("height", tileHeight)
 
+function readData(year) {
+    var filepath = "../data/charts/" + year + ".csv"
+    d3.csv(filepath, function(data) {
+        mainTile(data)
+    })
+}
+
 function parseData(d) {
     var output = []
-
-    // Temp arrays to keep track of what has already been found
+    // Arrays to keep track of what has already been found
     var genres = []
     var subgenres = []
     var artists = []
-    // Just analyze 20 right now
-    for (var i = 0; i < 20; i++) {
+    for (var i = 0; i < d.length; i++) {
         var artist = d[i].artist
-        var subgenre = d[i].subgenre
+        var subgenre = d[i].clean_genre
         var genre = d[i].genre
 
         // If genre not already in list
@@ -55,12 +60,19 @@ function parseData(d) {
                 }
             } else {
                 // If genre and subgenre are in list, but the artist is not. Even if artist appears more than once on Billboard, include them so they're weighted more
-                if (!(artists.includes(artist))) {
-                    // Once again, search for map where artist should belong
-                    for (var a = 0; a < output.length; a++) {
-                        if (output[a]["name"] == genre) {
-                            for (var b = 0; b < output[a]["children"].length; b++) {
-                                if (output[a]["children"][b]["name"] == subgenre) {
+                // Once again, search for map where artist should belong
+                for (var a = 0; a < output.length; a++) {
+                    if (output[a]["name"] == genre) {
+                        for (var b = 0; b < output[a]["children"].length; b++) {
+                            if (output[a]["children"][b]["name"] == subgenre) {
+                                if (artists.includes(artist)) {
+                                    for (var c = 0; c < output[a]["children"][b]["children"].length; c++) {
+                                        if (output[a]["children"][b]["children"][c]["name"] == artist) {
+                                            output[a]["children"][b]["children"][c]["value"] += 1
+                                            break
+                                        }
+                                    }
+                                } else {
                                     var artistMap = {name: artist, value: 1}
                                     artists.push(artist)
                                     output[a]["children"][b]["children"].push(artistMap)
@@ -91,6 +103,9 @@ function mainTile(raw_data) {
         .style("top", (d) => d.y0 + "px")
         .style("width", (d) => Math.max(0, d.x1 - d.x0 - 1) + "px")
         .style("height", (d) => Math.max(0, d.y1 - d.y0 - 1) + "px")
-        .style("background", (d) => colorScale(d.parent.data.name))
+        .style("background", (d) => tileScale(d.parent.data.name))
+        // .text((d) => d.parent.data.name + " - " + d.data.name)
         .text((d) => d.parent.data.name)
 }
+
+readData("2012")

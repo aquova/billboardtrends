@@ -1,5 +1,5 @@
 // Code for the Alluvial chart, the NFL-esque visualization of Top 100 songs
-// This is V1 of code without node and link format. 
+// This is V1 of code without node and link format.
 var margin = {top: 40, right: 10, bottom: 60, left: 60};
 
 var width = 4000 - margin.left - margin.right,
@@ -40,7 +40,7 @@ function getData(filePath) {
 }
 
 function draw(data) {
-	console.log(data)
+	// console.log(data)
 
 	text = svg.selectAll("text")
 		.data(data);
