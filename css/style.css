@@ -98,6 +98,14 @@ a {
     font-size: 2.5vmin;
 }
 
+.feature {
+    position: relative;
+    width: calc(100% - 0 * 2 * 1px);
+    height: calc(100% - 0 * 2 * 1px);
+    margin: 0px;
+    overflow: hidden;
+}
+
 #tilegraph {
     position: relative;
     margin: auto;

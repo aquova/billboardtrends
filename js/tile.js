@@ -1,12 +1,12 @@
 // Code for the Tile graph, which will weekly popularity in genres.
 // Used this source as an initial template: https://bl.ocks.org/ganezasan/52fced34d2182483995f0ca3960fe228
 
-var margin = {
-    top: 40,
-    right: 10,
-    bottom: 10,
-    left: 10
-}
+// var margin = {
+//     top: 40,
+//     right: 10,
+//     bottom: 10,
+//     left: 10
+// }
 // These are percentages
 const tileWidth = 100
 const tileHeight = 100
@@ -94,7 +94,11 @@ function mainTile(raw_data) {
     var data = parseData(raw_data)
 
     // console.log(data)
-    var treemap = d3.treemap().size([tileWidth, tileHeight])
+    var treemap = d3.treemap()
+        .size([tileWidth, tileHeight])
+        .paddingInner(0)
+        .round(false)
+
     var root = d3.hierarchy(data).sum((d) => d.value)
     var tree = treemap(root)
 
@@ -122,7 +126,7 @@ function mainTile(raw_data) {
         return tileYscale(d.y1) - tileYscale(d.y0) + "%"
     })
     .style("background-color", function(d) {
-        while (d.depth > 1) {
+        while (d.depth > 2) {
             d = d.parent
         }
         return tileScale(d.data.name)
@@ -140,14 +144,13 @@ function mainTile(raw_data) {
 
     // The zooming behavior was based off of here: https://codepen.io/znak/pen/qapRkQ?editors=0010
     function zoom(d) {
-        console.log(d)
         var currentDepth = d.depth
         parent.datum(d.parent || root)
         tileXscale.domain([d.x0, d.x1])
         tileYscale.domain([d.y0, d.y1])
 
         var t = d3.transition()
-        .duration(300)
+        .duration(800)
         .ease(d3.easeCubicOut)
 
         cells.transition(t)
@@ -164,7 +167,9 @@ function mainTile(raw_data) {
             return tileYscale(d.y1) - tileYscale(d.y0) + "%"
         })
 
+        // Hide this depth and above
         cells.filter(function(d) {
+            console.log(d.ancestors())
             return d.ancestors()
         })
         .classed("hide", function(d) {
