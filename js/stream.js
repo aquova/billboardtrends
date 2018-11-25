@@ -9,13 +9,16 @@ var margin = {
 
 var colorScale = d3.scaleOrdinal().range(d3.schemeCategory20c);
 
-var width = document.body.clientWidth - margin.left - margin.right;
-var height = 400 - margin.top - margin.bottom;
-var dataset = {};
+var widthy = $(window).width() - margin.left - margin.right;
+var heighty = 500 - margin.top - margin.bottom;
+var dataset = [];
+var genreset = [];
 
-var div = d3.select("#streamgraph").append("div")
-    .attr("width", width)
-    .attr("height", height);
+var stream = d3.select("#streamgraph").append("div")
+    .attr("width", widthy)
+    .attr("height", heighty);
+
+mainStream();
 
 function getAndParseData() {
 
@@ -30,16 +33,35 @@ function getAndParseData() {
 
         for (const [i, year] of years.entries()) {
             var yearNum = i + 1941 + '';
-            dataset[yearNum] = {};
+
+            thisYear = {};
             for (var song of year) {
 
                 var genre = song['clean_genre'];
-                if (genre in dataset[yearNum]) {
-                    dataset[yearNum][genre] += 1;
+
+                // Keep count of genre
+                if (genre in thisYear) {
+                    thisYear[genre] += 1;
                 } else {
-                    dataset[yearNum][genre] = 1;
+                    thisYear[genre] = 1;
                 }
 
+                // Keep track of seen genres
+                if (genreset.indexOf(genre) === -1) {
+                    genreset.push(genre);
+                }
+
+            }
+
+            thisYear['year'] = yearNum
+            dataset.push(thisYear);
+        }
+
+        for (var year of dataset){
+            for (var genre of genreset) {
+                if (!(genre in year)) {
+                    year[genre] = 0;
+                }
             }
         }
 
@@ -56,8 +78,54 @@ function mainStream() {
 }
 
 function afterDataLoads() {
-    
     constructStream();
+}
+
+function constructStream() {
+    console.log(dataset);
+
+    var format = d3.timeParse("%Y%m%d");
+    var xScale = d3.scaleLinear()
+        .domain(d3.extent(dataset, function(d) { return +d['year']; }))
+        .range([0, widthy - 2*margin.left - 2*margin.right]);
+
+
+    var yScale = d3.scaleLinear()
+        .range([0, heighty]);
+
+    var xAxis = d3.axisBottom(xScale);
+    var yAxis = d3.axisLeft(yScale);
+
+    var stack = d3.stack()
+        .offset(d3.stackOffsetSilhouette)
+        .keys(genreset);
+
+    var area = d3.area()
+        .curve(d3.curveBasis)
+        .x(function(d) { return xScale(d.data['year']); })
+        .y0(function(d) { return yScale(d[0]); })
+        .y1(function(d) { return yScale(d[1]); });
+
+    var svg = stream.append("svg")
+        .attr("width", widthy)
+        .attr("height", heighty)
+      .append("g")
+        .attr("transform", "translate(" + margin.left + "," + heighty/2 + ")");
+
+    var layers = stack(dataset);
+
+    // layers = layers.map(x => x.slice(0,-2));
+    console.log(layers);
+
+    yScale.domain([0, 8000]);
+
+    svg.selectAll(".layer")
+      .data(layers)
+    .enter().append("path")
+      .attr("class", "layer")
+      .attr("d", function(d) { return area(d); })
+      .style("fill", function(d, i) { return colorScale(i); })
+      .on("mouseover", (d) => { console.log(d.key) });
 
 }
 
