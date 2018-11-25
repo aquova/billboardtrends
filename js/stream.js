@@ -35,9 +35,11 @@ function getAndParseData() {
             var yearNum = i + 1941 + '';
 
             thisYear = {};
+            thisYear['total'] = 0;
             for (var song of year) {
 
                 var genre = song['clean_genre'];
+                thisYear['total']++;
 
                 // Keep count of genre
                 if (genre in thisYear) {
@@ -81,8 +83,26 @@ function afterDataLoads() {
     constructStream();
 }
 
+function createPercDataset(dataset) {
+
+    for (var year of dataset) {
+        for (var genre of genreset) {
+            if (genre in year) {
+                year[genre] = (year[genre] / year['total']) * 100;
+            }
+        }
+    }
+
+    return dataset;
+}
+
 function constructStream() {
     console.log(dataset);
+
+    percDataset = createPercDataset(dataset);
+    console.log(percDataset);
+
+    dataset = percDataset;
 
     var format = d3.timeParse("%Y%m%d");
     var xScale = d3.scaleLinear()
@@ -117,7 +137,7 @@ function constructStream() {
     // layers = layers.map(x => x.slice(0,-2));
     console.log(layers);
 
-    yScale.domain([0, 8000]);
+    yScale.domain([0, 100]);
 
     svg.selectAll(".layer")
       .data(layers)
