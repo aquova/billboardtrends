@@ -1,12 +1,6 @@
 // Code for the Tile graph, which will weekly popularity in genres.
 // Used this source as an initial template: https://bl.ocks.org/ganezasan/52fced34d2182483995f0ca3960fe228
 
-// var margin = {
-//     top: 40,
-//     right: 10,
-//     bottom: 10,
-//     left: 10
-// }
 // These are percentages
 const tileWidth = 100
 const tileHeight = 100
@@ -93,13 +87,17 @@ function parseData(d) {
 function mainTile(raw_data) {
     var data = parseData(raw_data)
 
-    // console.log(data)
     var treemap = d3.treemap()
         .size([tileWidth, tileHeight])
         .paddingInner(0)
         .round(false)
 
-    var root = d3.hierarchy(data).sum((d) => d.value)
+    var root = d3.hierarchy(data)
+        // For equal representation
+        // .sum(function(d) {
+        //     return d.value ? 1 : 0
+        // })
+        .sum((d) => d.value)
     var tree = treemap(root)
 
     var cells = div.selectAll(".node")
@@ -169,7 +167,6 @@ function mainTile(raw_data) {
 
         // Hide this depth and above
         cells.filter(function(d) {
-            console.log(d.ancestors())
             return d.ancestors()
         })
         .classed("hide", function(d) {
