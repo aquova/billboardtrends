@@ -12,7 +12,7 @@ albumDF.last_pos = albumDF.last_pos.replace({"NEW": 0})
 # df.loc[(df['First Season'] > 1990)] = 1
 albumDF.last_pos = pd.to_numeric(albumDF['last_pos'])
 albumDF.entry_date = pd.to_datetime(albumDF['entry_date'])
-albumDF.last_pos = albumDF.index+1-albumDF.pos-100+albumDF.last_pos
+albumDF.last_pos = abs(albumDF.index+1-albumDF.pos-200+albumDF.last_pos)
 albumDF['in'] = albumDF.index
 # albumDF.week = pd.to_datetime(albumDF['week'])
 
