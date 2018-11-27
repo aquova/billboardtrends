@@ -151,7 +151,7 @@ function mainTile(raw_data) {
         .duration(800)
         .ease(d3.easeCubicOut)
 
-        cells.transition(t)
+        cells//.transition(t)
         .style("left", function(d) {
             return tileXscale(d.x0) + "%"
         })
