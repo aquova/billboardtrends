@@ -8,7 +8,7 @@ d3.csv("data/us_albums_short_cleaned.csv", function(data) {
   })
 
 
-var margin = {top: 60, right: 10, bottom: 60, left: 200};
+var margin = {top: 60, right: 10, bottom: 60, left: 60};
 
 var width = 2000 - margin.left - margin.right,
     height = 4000 - margin.top - margin.bottom;
