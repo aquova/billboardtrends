@@ -89,8 +89,6 @@ function mainTile(raw_data) {
 
     var treemap = d3.treemap()
         .size([tileWidth, tileHeight])
-        .paddingInner(0)
-        .round(false)
 
     var root = d3.hierarchy(data)
         // For equal representation
@@ -140,6 +138,15 @@ function mainTile(raw_data) {
     .datum(root)
     .on("click", zoom)
 
+    // Create brush
+    // var brush = d3.brushX()
+    // .extent([0,tileWidth], [0,50])
+    // .on("brush", function() {
+    //     console.log("Brushing")
+    // })
+
+    // div.append("g").attr("class", "x brush").call(brush)
+
     // The zooming behavior was based off of here: https://codepen.io/znak/pen/qapRkQ?editors=0010
     function zoom(d) {
         var currentDepth = d.depth
@@ -151,7 +158,7 @@ function mainTile(raw_data) {
         .duration(800)
         .ease(d3.easeCubicOut)
 
-        cells//.transition(t)
+        cells.transition(t)
         .style("left", function(d) {
             return tileXscale(d.x0) + "%"
         })
