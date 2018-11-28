@@ -15,7 +15,7 @@ var brushSection = d3.select("#tilebrush").append("svg").attr("height", 50).attr
 function readData(year) {
     var filepath = "data/charts/" + year + ".csv"
     d3.csv(filepath, function(data) {
-        mainTile(data)
+        mainTile(year, data)
     })
 }
 
@@ -85,8 +85,14 @@ function parseData(d) {
     return {"name": "data", "children": output}
 }
 
-function mainTile(raw_data) {
+function mainTile(year, raw_data) {
+    // Removing any elements from the last dataset
+    div.selectAll(".node").remove()
+    brushSection.selectAll("g").remove()
+
     var data = parseData(raw_data)
+
+    d3.select("#tileTitle").text(year)
 
     var treemap = d3.treemap()
         .size([tileWidth, tileHeight])
@@ -140,16 +146,17 @@ function mainTile(raw_data) {
     .on("click", zoom)
 
     // Create brush
+    var brushMax = brushSection.node().getBoundingClientRect().width
+    var brushScale = d3.scaleLinear().domain([0, brushMax]).range([1941, 2018])
+
     var brush = d3.brushX()
-    // .extent([0,0], [tileWidth,50])
-    .on("brush", function() {
-        console.log("Brushing")
-        var selection = d3.event.selection
-        console.log(selection)
+    .on("end", function() {
+        var selection = d3.event.selection[0]
+        var new_year = Math.floor(brushScale(selection)).toString()
+        readData(new_year)
     })
 
-    brushSection.append("g").attr("class", "x brush").call(brush)
-
+    brushSection.append("g").attr("class", "brush tileBrush").call(brush)
     // The zooming behavior was based off of here: https://codepen.io/znak/pen/qapRkQ?editors=0010
     function zoom(d) {
         var currentDepth = d.depth
