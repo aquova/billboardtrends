@@ -10,6 +10,7 @@ var tileXscale = d3.scaleLinear().domain([0, tileWidth]).range([0, tileWidth])
 var tileYscale = d3.scaleLinear().domain([0, tileHeight]).range([0, tileHeight])
 
 var div = d3.select("#tilegraph")
+var brushSection = d3.select("#tilebrush").append("svg").attr("height", 50).attr("width", "100%")
 
 function readData(year) {
     var filepath = "data/charts/" + year + ".csv"
@@ -139,13 +140,15 @@ function mainTile(raw_data) {
     .on("click", zoom)
 
     // Create brush
-    // var brush = d3.brushX()
-    // .extent([0,tileWidth], [0,50])
-    // .on("brush", function() {
-    //     console.log("Brushing")
-    // })
+    var brush = d3.brushX()
+    // .extent([0,0], [tileWidth,50])
+    .on("brush", function() {
+        console.log("Brushing")
+        var selection = d3.event.selection
+        console.log(selection)
+    })
 
-    // div.append("g").attr("class", "x brush").call(brush)
+    brushSection.append("g").attr("class", "x brush").call(brush)
 
     // The zooming behavior was based off of here: https://codepen.io/znak/pen/qapRkQ?editors=0010
     function zoom(d) {
