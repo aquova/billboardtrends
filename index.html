@@ -17,15 +17,11 @@
 
         <!-- Tab content inspired from here: https://www.w3schools.com/howto/howto_js_tabs.asp -->
         <div class="tab">
+            <button id="defaultOpen" class="tablinks" onclick="showGraph('tile')">Genre</button>   
             <button class="tablinks" onclick="showGraph('stream')">Year</button>
-            <button id="defaultOpen" class="tablinks" onclick="showGraph('tile')">Genre</button>
             <button class="tablinks" onclick="showGraph('bump')">Artist</button>
         </div>
-
-        <div id="stream" class="tabcontent">
-            <div id="streamgraph"></div>
-        </div>
-
+        
         <div id="tile" class="tabcontent">
             <h2 id="tileTitle" class="center"></h2>
             <nav>
@@ -33,6 +29,11 @@
             </nav>
             <div class="feature" id="tilegraph"></div>
             <div id="tilebrush"></div>
+        </div>
+        
+
+        <div id="stream" class="tabcontent">
+            <div id="streamgraph"></div>
         </div>
 
         <div id="bump" class="tabcontent">
@@ -42,6 +43,7 @@
             <div id="brush-area"></div>
             <div id="chart-area"></div>
         </div>
+
 
         <script src="js/unpkg/d3-array.min.js"></script>
         <script src="js/unpkg/d3-collection.min.js"></script>
