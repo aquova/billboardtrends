@@ -94,7 +94,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 93,92,Eagles Fly,Sammy Hagar,Sammy Hagar,rock,hard rock,19871024,90,82,13,19871226
 94,93,It's A Sin,Pet Shop Boys,Pet Shop Boys,pop,synthpop,19870905,70,9,19,19871226
 95,95,Who Will You Run To,Heart,Heart,rock,classic rock,19870815,64,7,22,19871226
-96,NEW,Never Let Me Down Again,Depeche Mode,Depeche Mode,pop,electronic,19871226,96,63,10,19871226
+96,NEW,Never Let Me Down Again,Depeche Mode,Depeche Mode,electronic,electronic,19871226,96,63,10,19871226
 97,73,Causing A Commotion,Madonna,Madonna,pop,pop,19870912,41,2,18,19871226
 98,77,Here I Go Again,Whitesnake,Whitesnake,rock,hard rock,19870704,80,1,28,19871226
 99,81,Don't Tell Me The Time,Martha Davis,Martha Davis,pop,female vocalists,19871121,93,80,8,19871226
@@ -1095,7 +1095,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 94,81,Don't Lose Any Sleep,John Waite,John Waite,pop,80s,19870926,85,81,4,19871017
 95,NEW,Crazy,Icehouse,Icehouse,rock,new wave,19871017,95,14,21,19871017
 96,87,Heart And Soul,Monkees,Monkees,pop,60s,19870926,89,87,4,19871017
-97,86,Oh Yeah,Yello,Yello,pop,electronic,19870808,88,51,11,19871017
+97,86,Oh Yeah,Yello,Yello,electronic,electronic,19870808,88,51,11,19871017
 98,90,Back In The High Life Again,Steve Winwood,Steve Winwood,rock,classic rock,19870530,85,13,21,19871017
 99,82,I Want Your Sex,George Michael,George Michael,pop,pop,19870606,51,2,20,19871017
 100,83,Mary's Prayer,Danny Wilson,Danny Wilson,pop,80s,19870606,92,23,20,19871017
@@ -1184,7 +1184,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 83,65,Mary's Prayer,Danny Wilson,Danny Wilson,pop,80s,19870606,92,23,20,19871010
 84,NEW,Animal,Def Leppard,Def Leppard,rock,hard rock,19871010,84,19,19,19871010
 85,NEW,(You're Puttin') A Rush On Me,Stephanie Mills,Stephanie Mills,rnb / soul,soul,19871010,85,85,2,19871010
-86,67,Oh Yeah,Yello,Yello,pop,electronic,19870808,88,51,11,19871010
+86,67,Oh Yeah,Yello,Yello,electronic,electronic,19870808,88,51,11,19871010
 87,89,Heart And Soul,Monkees,Monkees,pop,60s,19870926,89,87,4,19871010
 88,NEW,Learning To Fly,Pink Floyd,Pink Floyd,rock,progressive rock,19871010,88,70,8,19871010
 89,NEW,I Don't Mind At All,Bourgeois Tagg,Bourgeois Tagg,pop,american,19871010,89,38,17,19871010
@@ -1265,7 +1265,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 64,67,Sugar Free,Wa Wa Nee,Wa Wa Nee,rock,new wave,19870912,91,35,13,19871003
 65,44,Mary's Prayer,Danny Wilson,Danny Wilson,pop,80s,19870606,92,23,20,19871003
 66,68,That's What Love Is All About,Michael Bolton,Michael Bolton,pop,pop,19870905,91,19,25,19871003
-67,51,Oh Yeah,Yello,Yello,pop,electronic,19870808,88,51,11,19871003
+67,51,Oh Yeah,Yello,Yello,electronic,electronic,19870808,88,51,11,19871003
 68,58,One Lover At A Time,Atlantic Starr,Atlantic Starr,rnb / soul,soul,19870815,85,58,13,19871003
 69,83,Beat Patrol,Starship,Starship,pop,80s,19870926,83,46,10,19871003
 70,41,Love Power,Dionne Warwick & Jeffrey Osborne,Dionne Warwick & Jeffrey Osborne,pop,female vocalists,19870711,66,12,14,19871003
@@ -1349,7 +1349,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 48,32,I Want Your Sex,George Michael,George Michael,pop,pop,19870606,51,2,20,19870926
 49,38,Heart And Soul,T'Pau,T'Pau,pop,80s,19870502,91,4,27,19870926
 50,55,Dinner With Gershwin,Donna Summer,Donna Summer,disco,disco,19870822,85,48,11,19870926
-51,52,Oh Yeah,Yello,Yello,pop,electronic,19870808,88,51,11,19870926
+51,52,Oh Yeah,Yello,Yello,electronic,electronic,19870808,88,51,11,19870926
 52,34,Luka,Suzanne Vega,Suzanne Vega,pop,female vocalists,19870606,93,3,19,19870926
 53,66,I Won't Forget You,Poison,Poison,rock,hard rock,19870905,87,13,21,19870926
 54,63,Betcha Say That,Gloria Estefan & Miami Sound Machine,Gloria Estefan & Miami Sound Machine,pop,pop,19870905,92,36,11,19870926
@@ -1450,7 +1450,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 49,33,I Still Haven't Found What I'm Looking For,U2,U2,rock,rock,19870613,51,1,17,19870919
 50,32,Lies,Jonathan Butler,Jonathan Butler,pop,smooth jazz,19870627,75,27,14,19870919
 51,57,Notorious,Loverboy,Loverboy,pop,80s,19870822,91,38,14,19870919
-52,54,Oh Yeah,Yello,Yello,pop,electronic,19870808,88,51,11,19870919
+52,54,Oh Yeah,Yello,Yello,electronic,electronic,19870808,88,51,11,19870919
 53,56,Holiday,The Other Ones,The Other Ones,rock,new wave,19870801,90,29,17,19870919
 54,62,I've Been In Love Before,Cutting Crew,Cutting Crew,pop,80s,19870905,75,9,21,19870919
 55,58,Dinner With Gershwin,Donna Summer,Donna Summer,disco,disco,19870822,85,48,11,19870919
@@ -1552,7 +1552,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 51,72,Mony Mony,Billy Idol,Billy Idol,rock,rock,19870905,72,1,22,19870912
 52,70,It's A Sin,Pet Shop Boys,Pet Shop Boys,pop,synthpop,19870905,70,9,19,19870912
 53,60,Don't Make Me Wait For Love,Kenny G,Kenny G,jazz,jazz,19870829,79,15,19,19870912
-54,54,Oh Yeah,Yello,Yello,pop,electronic,19870808,88,51,11,19870912
+54,54,Oh Yeah,Yello,Yello,electronic,electronic,19870808,88,51,11,19870912
 55,37,Back In The High Life Again,Steve Winwood,Steve Winwood,rock,classic rock,19870530,85,13,21,19870912
 56,59,Holiday,The Other Ones,The Other Ones,rock,new wave,19870801,90,29,17,19870912
 57,64,Notorious,Loverboy,Loverboy,pop,80s,19870822,91,38,14,19870912
@@ -1652,7 +1652,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 51,59,Misfit,Curiosity Killed The Cat,Curiosity Killed The Cat,pop,80s,19870801,93,42,13,19870905
 52,58,Don't Look Down - The Sequel,Go West,Go West,pop,80s,19870801,94,39,13,19870905
 53,40,Alone,Heart,Heart,rock,classic rock,19870516,53,1,21,19870905
-54,60,Oh Yeah,Yello,Yello,pop,electronic,19870808,88,51,11,19870905
+54,60,Oh Yeah,Yello,Yello,electronic,electronic,19870808,88,51,11,19870905
 55,73,Breakout,Swing Out Sister,Swing Out Sister,pop,pop,19870815,92,6,23,19870905
 56,42,The Pleasure Principle,Janet Jackson,Janet Jackson,pop,pop,19870523,78,14,18,19870905
 57,56,Dreamin',Will To Power,Will To Power,pop,80s,19870627,89,50,16,19870905
@@ -1758,7 +1758,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 57,73,Something Real (Inside Me / Inside You),Mr. Mister,Mr. Mister,pop,80s,19870822,73,29,11,19870829
 58,66,Don't Look Down - The Sequel,Go West,Go West,pop,80s,19870801,94,39,13,19870829
 59,65,Misfit,Curiosity Killed The Cat,Curiosity Killed The Cat,pop,80s,19870801,93,42,13,19870829
-60,72,Oh Yeah,Yello,Yello,pop,electronic,19870808,88,51,11,19870829
+60,72,Oh Yeah,Yello,Yello,electronic,electronic,19870808,88,51,11,19870829
 61,64,Johnny B,Hooters,Hooters,rock,rock,19870718,87,61,11,19870829
 62,51,Good Times,Inxs,Inxs,rock,rock,19870620,95,47,13,19870829
 63,49,Kiss Him Goodbye,The Nylons,The Nylons,pop,a cappella,19870516,87,12,17,19870829
@@ -1793,7 +1793,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 92,NEW,Happy Together,Nylons,Nylons,pop,a cappella,19870829,92,75,7,19870829
 93,95,No One In The World,Anita Baker,Anita Baker,rnb / soul,soul,19870822,95,44,17,19870829
 94,70,Songbird,Kenny G,Kenny G,jazz,jazz,19870404,95,4,22,19870829
-95,76,Strangelove,Depeche Mode,Depeche Mode,pop,electronic,19870725,88,76,6,19870829
+95,76,Strangelove,Depeche Mode,Depeche Mode,electronic,electronic,19870725,88,76,6,19870829
 96,NEW,Tina Cherry,Georgio,Georgio,hip-hop,hip-hop,19870829,96,96,2,19870829
 97,NEW,Love Is A House,Force M.D.'S,Force M.D.'S,rnb / soul,rnb,19870829,97,78,9,19870829
 98,NEW,He's My Girl,David Hallyday,David Hallyday,rock,rock,19870829,98,79,6,19870829
@@ -1870,11 +1870,11 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 69,51,Don't Disturb This Groove,The System,The System,pop,anarcho-punk,19870411,97,4,21,19870822
 70,59,Songbird,Kenny G,Kenny G,jazz,jazz,19870404,95,4,22,19870822
 71,56,Happy,Surface,Surface,pop,japanese,19870523,82,20,14,19870822
-72,82,Oh Yeah,Yello,Yello,pop,electronic,19870808,88,51,11,19870822
+72,82,Oh Yeah,Yello,Yello,electronic,electronic,19870808,88,51,11,19870822
 73,NEW,Something Real (Inside Me / Inside You),Mr. Mister,Mr. Mister,pop,80s,19870822,73,29,11,19870822
 74,76,Holiday,The Other Ones,The Other Ones,rock,new wave,19870801,90,29,17,19870822
 75,NEW,Victim Of Love,Bryan Adams,Bryan Adams,rock,rock,19870822,75,32,12,19870822
-76,78,Strangelove,Depeche Mode,Depeche Mode,pop,electronic,19870725,88,76,6,19870822
+76,78,Strangelove,Depeche Mode,Depeche Mode,electronic,electronic,19870725,88,76,6,19870822
 77,85,One Lover At A Time,Atlantic Starr,Atlantic Starr,rnb / soul,soul,19870815,85,58,13,19870822
 78,86,World Where You Live,Crowded House,Crowded House,rock,rock,19870808,96,65,8,19870822
 79,75,These Times Are Hard For Lovers,John Waite,John Waite,pop,80s,19870620,90,53,16,19870822
@@ -1976,11 +1976,11 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 75,64,These Times Are Hard For Lovers,John Waite,John Waite,pop,80s,19870620,90,53,16,19870815
 76,79,Holiday,The Other Ones,The Other Ones,rock,new wave,19870801,90,29,17,19870815
 77,NEW,Let Me Be The One,Expose,Expose,pop,80s,19870815,77,7,22,19870815
-78,78,Strangelove,Depeche Mode,Depeche Mode,pop,electronic,19870725,88,76,6,19870815
+78,78,Strangelove,Depeche Mode,Depeche Mode,electronic,electronic,19870725,88,76,6,19870815
 79,65,Always,Atlantic Starr,Atlantic Starr,rnb / soul,soul,19870328,79,1,22,19870815
 80,83,Watching Over You,Glenn Medeiros,Glenn Medeiros,pop,pop,19870801,88,80,8,19870815
 81,77,Jane's Getting Serious,Jon Astley,Jon Astley,pop,80s,19870627,91,77,10,19870815
-82,88,Oh Yeah,Yello,Yello,pop,electronic,19870808,88,51,11,19870815
+82,88,Oh Yeah,Yello,Yello,electronic,electronic,19870808,88,51,11,19870815
 83,69,Every Little Kiss,Bruce Hornsby,Bruce Hornsby,country / folk,singer-songwriter,19870516,61,14,15,19870815
 84,72,Meet Me Half Way,Kenny Loggins,Kenny Loggins,pop,80s,19870307,95,11,25,19870815
 85,NEW,One Lover At A Time,Atlantic Starr,Atlantic Starr,rnb / soul,soul,19870815,85,58,13,19870815
@@ -2076,7 +2076,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 75,NEW,Never Let Me Down,David Bowie,David Bowie,rock,rock,19870808,75,27,11,19870808
 76,93,Misfit,Curiosity Killed The Cat,Curiosity Killed The Cat,pop,80s,19870801,93,42,13,19870808
 77,83,Jane's Getting Serious,Jon Astley,Jon Astley,pop,80s,19870627,91,77,10,19870808
-78,84,Strangelove,Depeche Mode,Depeche Mode,pop,electronic,19870725,88,76,6,19870808
+78,84,Strangelove,Depeche Mode,Depeche Mode,electronic,electronic,19870725,88,76,6,19870808
 79,90,Holiday,The Other Ones,The Other Ones,rock,new wave,19870801,90,29,17,19870808
 80,94,Don't Look Down - The Sequel,Go West,Go West,pop,80s,19870801,94,39,13,19870808
 81,NEW,Be There,Pointer Sisters,Pointer Sisters,disco,disco,19870808,81,42,9,19870808
@@ -2086,7 +2086,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 85,80,You Keep Me Hangin' On,Kim Wilde,Kim Wilde,pop,80s,19870328,96,1,21,19870808
 86,62,Just To See Her,Smokey Robinson,Smokey Robinson,rnb / soul,soul,19870328,89,8,21,19870808
 87,NEW,Running In The Family,Level 42,Level 42,pop,80s,19870808,87,83,4,19870808
-88,NEW,Oh Yeah,Yello,Yello,pop,electronic,19870808,88,51,11,19870808
+88,NEW,Oh Yeah,Yello,Yello,electronic,electronic,19870808,88,51,11,19870808
 89,57,I Want Action,Poison,Poison,rock,hard rock,19870613,90,50,10,19870808
 90,96,Montego Bay,Amazulu,Amazulu,pop,80s,19870725,94,90,4,19870808
 91,79,Diamonds,Herb Alpert Featuring Janet Jackson,Herb Alpert,jazz,jazz,19870411,84,5,19,19870808
@@ -2182,7 +2182,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 81,47,Flames Of Paradise,Jennifer Rush & Elton John,Jennifer Rush & Elton John,pop,pop,19870516,86,36,13,19870801
 82,80,Twistin' The Night Away,Rod Stewart,Rod Stewart,rock,classic rock,19870718,85,80,4,19870801
 83,83,Jane's Getting Serious,Jon Astley,Jon Astley,pop,80s,19870627,91,77,10,19870801
-84,88,Strangelove,Depeche Mode,Depeche Mode,pop,electronic,19870725,88,76,6,19870801
+84,88,Strangelove,Depeche Mode,Depeche Mode,electronic,electronic,19870725,88,76,6,19870801
 85,60,The Lady In Red,Chris De Burgh,Chris De Burgh,pop,pop,19870214,88,3,26,19870801
 86,84,I'll Still Be Loving You,Restless Heart,Restless Heart,country / folk,country,19870411,96,33,18,19870801
 87,67,Still A Thrill,Jody Watley,Jody Watley,rnb / soul,soul,19870620,88,56,7,19870801
@@ -2286,7 +2286,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 85,NEW,Fake,Alexander O'Neal,Alexander O'Neal,rnb / soul,soul,19870725,85,25,15,19870725
 86,81,Give Me All Night,Carly Simon,Carly Simon,pop,female vocalists,19870523,83,61,12,19870725
 87,NEW,Jump Start,Natalie Cole,Natalie Cole,jazz,jazz,19870725,87,13,18,19870725
-88,NEW,Strangelove,Depeche Mode,Depeche Mode,pop,electronic,19870725,88,76,6,19870725
+88,NEW,Strangelove,Depeche Mode,Depeche Mode,electronic,electronic,19870725,88,76,6,19870725
 89,84,I'm Bad,Ll Cool J,Ll Cool J,hip-hop,hip-hop,19870711,89,84,4,19870725
 90,79,Still Of The Night,Whitesnake,Whitesnake,rock,hard rock,19870613,92,79,7,19870725
 91,70,Soul City,Partland Brothers,Partland Brothers,rock,hard rock,19870502,77,27,13,19870725

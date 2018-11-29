@@ -50,7 +50,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 49,49,The Shoop Shoop Song (It's In His Kiss),Cher,Cher,pop,pop,19901124,84,33,16,19901229
 50,50,Hard To Handle,Black Crowes,Black Crowes,rock,rock,19901027,99,45,15,19901229
 51,51,Where Does My Heart Beat Now,Celine Dion,Celine Dion,pop,pop,19901208,80,4,24,19901229
-52,52,World In My Eyes,Depeche Mode,Depeche Mode,pop,electronic,19901124,71,52,10,19901229
+52,52,World In My Eyes,Depeche Mode,Depeche Mode,electronic,electronic,19901124,71,52,10,19901229
 53,53,All The Man That I Need,Whitney Houston,Whitney Houston,pop,pop,19901222,53,1,23,19901229
 54,54,Hippychick,Soho,Soho,electronic,dance,19900908,95,14,19,19901229
 55,55,Love Makes Things Happen,Pebbles,Pebbles,pop,80s,19901201,91,13,19,19901229
@@ -150,7 +150,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 49,55,The Shoop Shoop Song (It's In His Kiss),Cher,Cher,pop,pop,19901124,84,33,16,19901222
 50,45,Hard To Handle,Black Crowes,Black Crowes,rock,rock,19901027,99,45,15,19901222
 51,65,Where Does My Heart Beat Now,Celine Dion,Celine Dion,pop,pop,19901208,80,4,24,19901222
-52,53,World In My Eyes,Depeche Mode,Depeche Mode,pop,electronic,19901124,71,52,10,19901222
+52,53,World In My Eyes,Depeche Mode,Depeche Mode,electronic,electronic,19901124,71,52,10,19901222
 53,NEW,All The Man That I Need,Whitney Houston,Whitney Houston,pop,pop,19901222,53,1,23,19901222
 54,38,Hippychick,Soho,Soho,electronic,dance,19900908,95,14,19,19901222
 55,66,Love Makes Things Happen,Pebbles,Pebbles,pop,80s,19901201,91,13,19,19901222
@@ -251,7 +251,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 50,57,The Ghetto,Too Short,Too Short,hip-hop,rap,19901117,94,42,14,19901215
 51,60,You Gotta Love Someone,Elton John,Elton John,pop,pop,19901124,85,43,13,19901215
 52,62,Around The Way Girl,Ll Cool J,Ll Cool J,hip-hop,hip-hop,19901201,83,9,23,19901215
-53,59,World In My Eyes,Depeche Mode,Depeche Mode,pop,electronic,19901124,71,52,10,19901215
+53,59,World In My Eyes,Depeche Mode,Depeche Mode,electronic,electronic,19901124,71,52,10,19901215
 54,33,Think,Information Society,Information Society,pop,synthpop,19901006,82,28,16,19901215
 55,63,The Shoop Shoop Song (It's In His Kiss),Cher,Cher,pop,pop,19901124,84,33,16,19901215
 56,65,If You Needed Somebody,Bad Company,Bad Company,rock,classic rock,19901110,88,16,24,19901215
@@ -357,7 +357,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 56,62,Does She Love That Man,Breathe,Breathe,pop,80s,19901117,80,34,13,19901208
 57,59,The Ghetto,Too Short,Too Short,hip-hop,rap,19901117,94,42,14,19901208
 58,40,Black Cat,Janet Jackson,Janet Jackson,pop,pop,19900915,37,1,16,19901208
-59,65,World In My Eyes,Depeche Mode,Depeche Mode,pop,electronic,19901124,71,52,10,19901208
+59,65,World In My Eyes,Depeche Mode,Depeche Mode,electronic,electronic,19901124,71,52,10,19901208
 60,66,You Gotta Love Someone,Elton John,Elton John,pop,pop,19901124,85,43,13,19901208
 61,50,Wherever Would I Be,Cheap Trick,Cheap Trick,rock,classic rock,19901027,94,50,10,19901208
 62,83,Around The Way Girl,Ll Cool J,Ll Cool J,hip-hop,hip-hop,19901201,83,9,23,19901208
@@ -463,7 +463,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 62,72,Does She Love That Man,Breathe,Breathe,pop,80s,19901117,80,34,13,19901201
 63,89,Disappear,Inxs,Inxs,rock,rock,19901124,89,8,20,19901201
 64,84,The Shoop Shoop Song (It's In His Kiss),Cher,Cher,pop,pop,19901124,84,33,16,19901201
-65,71,World In My Eyes,Depeche Mode,Depeche Mode,pop,electronic,19901124,71,52,10,19901201
+65,71,World In My Eyes,Depeche Mode,Depeche Mode,electronic,electronic,19901124,71,52,10,19901201
 66,85,You Gotta Love Someone,Elton John,Elton John,pop,pop,19901124,85,43,13,19901201
 67,76,If You Needed Somebody,Bad Company,Bad Company,rock,classic rock,19901110,88,16,24,19901201
 68,68,Tic-Tac-Toe,Kyper,Kyper,hip-hop,rap,19900630,91,14,25,19901201
@@ -569,7 +569,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 68,63,Tic-Tac-Toe,Kyper,Kyper,hip-hop,rap,19900630,91,14,25,19901124
 69,54,Livin' In The Light,Caron Wheeler,Caron Wheeler,rnb / soul,soul,19900929,98,53,10,19901124
 70,51,Praying For Time,George Michael,George Michael,pop,pop,19900901,41,1,14,19901124
-71,NEW,World In My Eyes,Depeche Mode,Depeche Mode,pop,electronic,19901124,71,52,10,19901124
+71,NEW,World In My Eyes,Depeche Mode,Depeche Mode,electronic,electronic,19901124,71,52,10,19901124
 72,80,Does She Love That Man,Breathe,Breathe,pop,80s,19901117,80,34,13,19901124
 73,69,The Boomin' System,Ll Cool J,Ll Cool J,hip-hop,hip-hop,19900929,54,48,11,19901124
 74,60,Oh Girl,Paul Young,Paul Young,pop,80s,19900714,88,8,23,19901124
@@ -591,7 +591,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 90,NEW,Candy,Iggy Pop,Iggy Pop,pop,punk,19901124,90,28,15,19901124
 91,72,Never Enough,Cure,Cure,pop,post-punk,19901103,79,72,4,19901124
 92,NEW,Heat Of The Moment,After 7,After 7,rnb / soul,rnb,19901124,92,19,18,19901124
-93,85,Policy Of Truth,Depeche Mode,Depeche Mode,pop,electronic,19900811,77,15,16,19901124
+93,85,Policy Of Truth,Depeche Mode,Depeche Mode,electronic,electronic,19900811,77,15,16,19901124
 94,86,Dirty Cash,Adventures Of Stevie V,Adventures Of Stevie V,electronic,dance,19900721,92,25,19,19901124
 95,95,Rockin' Over The Beat,Technotronic,Technotronic,electronic,dance,19901117,95,95,3,19901124
 96,91,Doin' The Do,Betty Boo,Betty Boo,pop,pop,19901103,93,90,4,19901124
@@ -683,7 +683,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 82,NEW,You're Amazing,Robert Palmer,Robert Palmer,pop,80s,19901117,82,28,13,19901117
 83,85,I Found Love,Party,Party,rock,rock,19901103,94,79,11,19901117
 84,84,Love Is A Killer,Vixen,Vixen,rock,hard rock,19901110,84,71,6,19901117
-85,62,Policy Of Truth,Depeche Mode,Depeche Mode,pop,electronic,19900811,77,15,16,19901117
+85,62,Policy Of Truth,Depeche Mode,Depeche Mode,electronic,electronic,19900811,77,15,16,19901117
 86,74,Dirty Cash,Adventures Of Stevie V,Adventures Of Stevie V,electronic,dance,19900721,92,25,19,19901117
 87,88,If You Needed Somebody,Bad Company,Bad Company,rock,classic rock,19901110,88,16,24,19901117
 88,80,Love Is The Ritual,Styx,Styx,rock,classic rock,19901020,96,80,6,19901117
@@ -760,7 +760,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 59,62,Each And Every Time,Sweet Sensation,Sweet Sensation,pop,freestyle,19901020,79,59,7,19901110
 60,71,Just Another Dream,Cathy Dennis,Cathy Dennis,pop,pop,19901027,88,9,22,19901110
 61,69,Wherever Would I Be,Cheap Trick,Cheap Trick,rock,classic rock,19901027,94,50,10,19901110
-62,47,Policy Of Truth,Depeche Mode,Depeche Mode,pop,electronic,19900811,77,15,16,19901110
+62,47,Policy Of Truth,Depeche Mode,Depeche Mode,electronic,electronic,19900811,77,15,16,19901110
 63,82,The First Time,Surface,Surface,pop,japanese,19901103,82,1,25,19901110
 64,54,The Boomin' System,Ll Cool J,Ll Cool J,hip-hop,hip-hop,19900929,54,48,11,19901110
 65,52,Release Me,Wilson Phillips,Wilson Phillips,pop,pop,19900630,76,1,22,19901110
@@ -845,7 +845,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 44,33,Blaze Of Glory,Jon Bon Jovi,Jon Bon Jovi,rock,rock,19900721,58,1,21,19901103
 45,34,Oh Girl,Paul Young,Paul Young,pop,80s,19900714,88,8,23,19901103
 46,55,Wiggle It,Two In A Room,Two In A Room,electronic,house,19901006,95,15,22,19901103
-47,28,Policy Of Truth,Depeche Mode,Depeche Mode,pop,electronic,19900811,77,15,16,19901103
+47,28,Policy Of Truth,Depeche Mode,Depeche Mode,electronic,electronic,19900811,77,15,16,19901103
 48,45,Tic-Tac-Toe,Kyper,Kyper,hip-hop,rap,19900630,91,14,25,19901103
 49,61,Miles Away,Winger,Winger,rock,hard rock,19901013,84,12,22,19901103
 50,58,Misunderstanding,Al B Sure !,Al B Sure !,rnb / soul,rnb,19901013,77,42,14,19901103
@@ -926,7 +926,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 25,29,Joey,Concrete Blonde,Concrete Blonde,rock,alternative,19900818,98,19,21,19901027
 26,23,Do Me,Bell Biv Devoe,Bell Biv Devoe,rnb / soul,new jack swing,19900630,92,3,22,19901027
 27,34,So Close,Daryl Hall & John Oates,Daryl Hall & John Oates,pop,80s,19900929,69,11,19,19901027
-28,15,Policy Of Truth,Depeche Mode,Depeche Mode,pop,electronic,19900811,77,15,16,19901027
+28,15,Policy Of Truth,Depeche Mode,Depeche Mode,electronic,electronic,19900811,77,15,16,19901027
 29,42,I'm Your Baby Tonight,Whitney Houston,Whitney Houston,pop,pop,19901020,42,1,19,19901027
 30,36,Hippychick,Soho,Soho,electronic,dance,19900908,95,14,19,19901027
 31,37,Stranded,Heart,Heart,rock,classic rock,19900922,83,13,22,19901027
@@ -1013,7 +1013,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 12,19,Love Takes Time,Mariah Carey,Mariah Carey,pop,pop,19900915,73,1,26,19901020
 13,15,Unchained Melody,Righteous Brothers,Righteous Brothers,pop,oldies,19900825,78,13,19,19901020
 14,8,Something Happened On The Way To Heaven,Phil Collins,Phil Collins,pop,pop,19900804,62,4,22,19901020
-15,18,Policy Of Truth,Depeche Mode,Depeche Mode,pop,electronic,19900811,77,15,16,19901020
+15,18,Policy Of Truth,Depeche Mode,Depeche Mode,electronic,electronic,19900811,77,15,16,19901020
 16,28,Pray,M.C. Hammer,M.C. Hammer,hip-hop,hip-hop,19900929,44,2,18,19901020
 17,22,Cherry Pie,Warrant,Warrant,rock,hard rock,19900908,97,10,19,19901020
 18,26,More Than Words Can Say,Alias,Alias,pop,anticon,19900908,84,2,23,19901020
@@ -1116,7 +1116,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 15,19,Unchained Melody,Righteous Brothers,Righteous Brothers,pop,oldies,19900825,78,13,19,19901013
 16,6,Blaze Of Glory,Jon Bon Jovi,Jon Bon Jovi,rock,rock,19900721,58,1,21,19901013
 17,9,Do Me,Bell Biv Devoe,Bell Biv Devoe,rnb / soul,new jack swing,19900630,92,3,22,19901013
-18,20,Policy Of Truth,Depeche Mode,Depeche Mode,pop,electronic,19900811,77,15,16,19901013
+18,20,Policy Of Truth,Depeche Mode,Depeche Mode,electronic,electronic,19900811,77,15,16,19901013
 19,24,Love Takes Time,Mariah Carey,Mariah Carey,pop,pop,19900915,73,1,26,19901013
 20,10,Release Me,Wilson Phillips,Wilson Phillips,pop,pop,19900630,76,1,22,19901013
 21,21,This Is The Right Time,Lisa Stansfield,Lisa Stansfield,pop,pop,19900818,69,21,13,19901013
@@ -1218,7 +1218,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 17,22,Giving You The Benefit,Pebbles,Pebbles,pop,80s,19900818,76,4,22,19901006
 18,23,Suicide Blonde,Inxs,Inxs,rock,rock,19900908,62,9,13,19901006
 19,19,Unchained Melody,Righteous Brothers,Righteous Brothers,pop,oldies,19900825,78,13,19,19901006
-20,20,Policy Of Truth,Depeche Mode,Depeche Mode,pop,electronic,19900811,77,15,16,19901006
+20,20,Policy Of Truth,Depeche Mode,Depeche Mode,electronic,electronic,19900811,77,15,16,19901006
 21,26,This Is The Right Time,Lisa Stansfield,Lisa Stansfield,pop,pop,19900818,69,21,13,19901006
 22,8,Thieves In The Temple,Prince,Prince,rnb / soul,funk,19900804,55,6,13,19901006
 23,28,Fly To The Angels,Slaughter,Slaughter,rock,thrash metal,19900818,97,19,18,19901006
@@ -1318,7 +1318,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 17,10,Unskinny Bop,Poison,Poison,rock,hard rock,19900707,70,3,19,19900929
 18,9,Have You Seen Her,Mc Hammer,Mc Hammer,hip-hop,hip-hop,19900630,63,4,20,19900929
 19,24,Unchained Melody,Righteous Brothers,Righteous Brothers,pop,oldies,19900825,78,13,19,19900929
-20,21,Policy Of Truth,Depeche Mode,Depeche Mode,pop,electronic,19900811,77,15,16,19900929
+20,21,Policy Of Truth,Depeche Mode,Depeche Mode,electronic,electronic,19900811,77,15,16,19900929
 21,12,Can't Stop Falling Into Love,Cheap Trick,Cheap Trick,rock,classic rock,19900721,69,12,14,19900929
 22,29,Giving You The Benefit,Pebbles,Pebbles,pop,80s,19900818,76,4,22,19900929
 23,33,Suicide Blonde,Inxs,Inxs,rock,rock,19900908,62,9,13,19900929
@@ -1419,7 +1419,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 18,25,Everybody Everybody,Black Box,Black Box,electronic,dance,19900804,77,8,19,19900922
 19,27,I Don't Have The Heart,James Ingram,James Ingram,rnb / soul,soul,19900804,86,1,26,19900922
 20,12,Vision Of Love,Mariah Carey,Mariah Carey,pop,pop,19900602,73,1,22,19900922
-21,26,Policy Of Truth,Depeche Mode,Depeche Mode,pop,electronic,19900811,77,15,16,19900922
+21,26,Policy Of Truth,Depeche Mode,Depeche Mode,electronic,electronic,19900811,77,15,16,19900922
 22,9,Tonight,New Kids On The Block,New Kids On The Block,pop,pop,19900804,37,7,12,19900922
 23,57,Ice Ice Baby,Vanilla Ice,Vanilla Ice,hip-hop,rap,19900908,72,1,21,19900922
 24,30,Unchained Melody,Righteous Brothers,Righteous Brothers,pop,oldies,19900825,78,13,19,19900922
@@ -1494,7 +1494,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 93,NEW,Heart Like A Wheel,Human League,Human League,rock,new wave,19900922,93,32,11,19900922
 94,71,How Bad Do You Want It,Don Henley,Don Henley,rock,classic rock,19900707,92,48,12,19900922
 95,NEW,Soul Inspiration,Anita Baker,Anita Baker,rnb / soul,soul,19900922,95,72,7,19900922
-96,89,Enjoy The Silence,Depeche Mode,Depeche Mode,pop,electronic,19900414,96,8,24,19900922
+96,89,Enjoy The Silence,Depeche Mode,Depeche Mode,electronic,electronic,19900414,96,8,24,19900922
 97,85,Only Women Bleed,Favorite Angel,Favorite Angel,pop,unknown,19900811,99,69,7,19900922
 98,82,I Didn't Want To Need You,Heart,Heart,rock,classic rock,19900623,67,23,14,19900922
 99,93,It Must Have Been Love,Roxette,Roxette,pop,pop,19900407,67,1,25,19900922
@@ -1524,7 +1524,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 23,14,Jerk Out,Time,Time,rock,psychedelic rock,19900630,65,9,15,19900915
 24,26,Romeo,Dino,Dino,pop,pop,19900811,69,6,18,19900915
 25,29,Everybody Everybody,Black Box,Black Box,electronic,dance,19900804,77,8,19,19900915
-26,30,Policy Of Truth,Depeche Mode,Depeche Mode,pop,electronic,19900811,77,15,16,19900915
+26,30,Policy Of Truth,Depeche Mode,Depeche Mode,electronic,electronic,19900811,77,15,16,19900915
 27,36,I Don't Have The Heart,James Ingram,James Ingram,rnb / soul,soul,19900804,86,1,26,19900915
 28,33,Dirty Cash,Adventures Of Stevie V,Adventures Of Stevie V,electronic,dance,19900721,92,25,19,19900915
 29,35,This Is The Right Time,Lisa Stansfield,Lisa Stansfield,pop,pop,19900818,69,21,13,19900915
@@ -1587,7 +1587,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 86,74,When I'm Back On My Feet Again,Michael Bolton,Michael Bolton,pop,pop,19900526,74,7,19,19900915
 87,90,Same Ol' Situation (SOS),Motley Crue,Motley Crue,rock,hard rock,19900908,90,78,9,19900915
 88,95,Hippychick,Soho,Soho,electronic,dance,19900908,95,14,19,19900915
-89,77,Enjoy The Silence,Depeche Mode,Depeche Mode,pop,electronic,19900414,96,8,24,19900915
+89,77,Enjoy The Silence,Depeche Mode,Depeche Mode,electronic,electronic,19900414,96,8,24,19900915
 90,99,Ooops Up,Snap,Snap,electronic,eurodance,19900908,99,35,11,19900915
 91,81,Summer Vacation,Party,Party,rock,rock,19900721,90,72,9,19900915
 92,89,First True Love,Tiana,Tiana,pop,freestyle,19900714,96,81,12,19900915
@@ -1628,7 +1628,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 27,23,King Of Wishful Thinking,Go West,Go West,pop,80s,19900519,96,8,24,19900908
 28,16,The Power,Snap,Snap,electronic,eurodance,19900512,81,2,22,19900908
 29,34,Everybody Everybody,Black Box,Black Box,electronic,dance,19900804,77,8,19,19900908
-30,32,Policy Of Truth,Depeche Mode,Depeche Mode,pop,electronic,19900811,77,15,16,19900908
+30,32,Policy Of Truth,Depeche Mode,Depeche Mode,electronic,electronic,19900811,77,15,16,19900908
 31,24,Banned In The USA,Luke Feat 2 Live Crew,Luke Feat 2 Live Crew,pop,unknown,19900721,81,20,16,19900908
 32,20,Could This Be Love,Seduction,Seduction,pop,freestyle,19900609,88,11,18,19900908
 33,36,Dirty Cash,Adventures Of Stevie V,Adventures Of Stevie V,electronic,dance,19900721,92,25,19,19900908
@@ -1675,7 +1675,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 74,64,When I'm Back On My Feet Again,Michael Bolton,Michael Bolton,pop,pop,19900526,74,7,19,19900908
 75,47,She Ain't Worth It,Glenn Medeiros Featuring Bobby Brown,Glenn Medeiros,pop,pop,19900519,50,1,18,19900908
 76,91,Knockin' Boots,Candyman,Candyman,hip-hop,hip-hop,19900901,91,9,23,19900908
-77,66,Enjoy The Silence,Depeche Mode,Depeche Mode,pop,electronic,19900414,96,8,24,19900908
+77,66,Enjoy The Silence,Depeche Mode,Depeche Mode,electronic,electronic,19900414,96,8,24,19900908
 78,80,Jealous,Gene Loves Jezebel,Gene Loves Jezebel,rock,gothic rock,19900818,95,68,10,19900908
 79,58,Girls Nite Out,Tyler Collins,Tyler Collins,rnb / soul,soul,19900428,89,6,21,19900908
 80,87,Empty Beach,Tricia Leigh Fisher,Tricia Leigh Fisher,pop,pop,19900825,93,72,8,19900908
@@ -1730,7 +1730,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 29,24,Rub You The Right Way,Johnny Gill,Johnny Gill,rnb / soul,rnb,19900512,49,3,23,19900901
 30,38,Can't Stop,After 7,After 7,rnb / soul,rnb,19900728,78,6,25,19900901
 31,22,Across The River,Bruce Hornsby And The Range,Bruce Hornsby And The Range,pop,80s,19900623,63,18,16,19900901
-32,41,Policy Of Truth,Depeche Mode,Depeche Mode,pop,electronic,19900811,77,15,16,19900901
+32,41,Policy Of Truth,Depeche Mode,Depeche Mode,electronic,electronic,19900811,77,15,16,19900901
 33,42,Romeo,Dino,Dino,pop,pop,19900811,69,6,18,19900901
 34,46,Everybody Everybody,Black Box,Black Box,electronic,dance,19900804,77,8,19,19900901
 35,23,The Other Side,Aerosmith,Aerosmith,rock,rock,19900623,74,22,15,19900901
@@ -1764,7 +1764,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 63,72,Georgia On My Mind,Michael Bolton,Michael Bolton,pop,pop,19900825,72,36,10,19900901
 64,44,When I'm Back On My Feet Again,Michael Bolton,Michael Bolton,pop,pop,19900526,74,7,19,19900901
 65,52,Stranger To Love,St. Paul,St. Paul,pop,seen live,19900707,91,52,11,19900901
-66,51,Enjoy The Silence,Depeche Mode,Depeche Mode,pop,electronic,19900414,96,8,24,19900901
+66,51,Enjoy The Silence,Depeche Mode,Depeche Mode,electronic,electronic,19900414,96,8,24,19900901
 67,59,Vogue,Madonna,Madonna,pop,pop,19900414,39,1,24,19900901
 68,NEW,Feels Good,Tony Toni Tone,Tony Toni Tone,rnb / soul,soul,19900901,68,9,25,19900901
 69,47,My Kinda Girl,Babyface,Babyface,rnb / soul,rnb,19900616,71,30,13,19900901
@@ -1839,7 +1839,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 38,45,Can't Stop,After 7,After 7,rnb / soul,rnb,19900728,78,6,25,19900825
 39,29,Girls Nite Out,Tyler Collins,Tyler Collins,rnb / soul,soul,19900428,89,6,21,19900825
 40,50,Dirty Cash,Adventures Of Stevie V,Adventures Of Stevie V,electronic,dance,19900721,92,25,19,19900825
-41,59,Policy Of Truth,Depeche Mode,Depeche Mode,pop,electronic,19900811,77,15,16,19900825
+41,59,Policy Of Truth,Depeche Mode,Depeche Mode,electronic,electronic,19900811,77,15,16,19900825
 42,53,Romeo,Dino,Dino,pop,pop,19900811,69,6,18,19900825
 43,51,Tell Me Something,Indecent Obsession,Indecent Obsession,pop,90s,19900728,85,31,12,19900825
 44,33,When I'm Back On My Feet Again,Michael Bolton,Michael Bolton,pop,pop,19900526,74,7,19,19900825
@@ -1849,7 +1849,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 48,54,How Bad Do You Want It,Don Henley,Don Henley,rock,classic rock,19900707,92,48,12,19900825
 49,47,All I Do Is Think Of You,Troop,Troop,rnb / soul,rnb,19900707,67,47,13,19900825
 50,69,This Is The Right Time,Lisa Stansfield,Lisa Stansfield,pop,pop,19900818,69,21,13,19900825
-51,41,Enjoy The Silence,Depeche Mode,Depeche Mode,pop,electronic,19900414,96,8,24,19900825
+51,41,Enjoy The Silence,Depeche Mode,Depeche Mode,electronic,electronic,19900414,96,8,24,19900825
 52,52,Stranger To Love,St. Paul,St. Paul,pop,seen live,19900707,91,52,11,19900825
 53,44,Cuts Both Ways,Gloria Estefan,Gloria Estefan,pop,latin,19900630,83,44,14,19900825
 54,70,I Don't Have The Heart,James Ingram,James Ingram,rnb / soul,soul,19900804,86,1,26,19900825
@@ -1939,7 +1939,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 38,49,My My My,Johnny Gill,Johnny Gill,rnb / soul,rnb,19900804,56,10,16,19900818
 39,47,Oh Girl,Paul Young,Paul Young,pop,80s,19900714,88,8,23,19900818
 40,54,Heart Of Stone,Taylor Dayne,Taylor Dayne,pop,80s,19900804,64,12,16,19900818
-41,34,Enjoy The Silence,Depeche Mode,Depeche Mode,pop,electronic,19900414,96,8,24,19900818
+41,34,Enjoy The Silence,Depeche Mode,Depeche Mode,electronic,electronic,19900414,96,8,24,19900818
 42,33,It Must Have Been Love,Roxette,Roxette,pop,pop,19900407,67,1,25,19900818
 43,24,Hanky Panky,Madonna,Madonna,pop,pop,19900630,40,10,11,19900818
 44,50,Cuts Both Ways,Gloria Estefan,Gloria Estefan,pop,latin,19900630,83,44,14,19900818
@@ -1957,7 +1957,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 56,44,Talk To Me,Anita Baker,Anita Baker,rnb / soul,soul,19900623,86,44,13,19900818
 57,65,Everybody Everybody,Black Box,Black Box,electronic,dance,19900804,77,8,19,19900818
 58,56,Vogue,Madonna,Madonna,pop,pop,19900414,39,1,24,19900818
-59,77,Policy Of Truth,Depeche Mode,Depeche Mode,pop,electronic,19900811,77,15,16,19900818
+59,77,Policy Of Truth,Depeche Mode,Depeche Mode,electronic,electronic,19900811,77,15,16,19900818
 60,48,I'll Be Your Shelter,Taylor Dayne,Taylor Dayne,pop,80s,19900505,56,4,18,19900818
 61,66,Slow Love,Doc Box & B Fresh,Doc Box,pop,unknown,19900721,97,51,15,19900818
 62,55,Bad Of The Heart,George Lamond,George Lamond,pop,freestyle,19900512,84,25,17,19900818
@@ -2032,7 +2032,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 31,38,My Kinda Girl,Babyface,Babyface,rnb / soul,rnb,19900616,71,30,13,19900811
 32,43,(Can't Live Without Your) Love And Affection,Nelson,Nelson,rock,hard rock,19900707,93,1,26,19900811
 33,26,It Must Have Been Love,Roxette,Roxette,pop,pop,19900407,67,1,25,19900811
-34,20,Enjoy The Silence,Depeche Mode,Depeche Mode,pop,electronic,19900414,96,8,24,19900811
+34,20,Enjoy The Silence,Depeche Mode,Depeche Mode,electronic,electronic,19900414,96,8,24,19900811
 35,31,Pure,Lightning Seeds,Lightning Seeds,pop,britpop,19900519,87,31,15,19900811
 36,42,The Girl I Used To Know,Brother Beyond,Brother Beyond,pop,pop,19900623,69,27,15,19900811
 37,41,We're All In The Same Gang,West Coast Rap All-Stars,West Coast Rap All-Stars,hip-hop,hip-hop,19900623,80,35,16,19900811
@@ -2075,7 +2075,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 74,60,Ready Or Not,After 7,After 7,rnb / soul,rnb,19900331,96,7,21,19900811
 75,86,I Don't Have The Heart,James Ingram,James Ingram,rnb / soul,soul,19900804,86,1,26,19900811
 76,79,Hearts In Trouble,Chicago,Chicago,rock,classic rock,19900728,90,75,5,19900811
-77,NEW,Policy Of Truth,Depeche Mode,Depeche Mode,pop,electronic,19900811,77,15,16,19900811
+77,NEW,Policy Of Truth,Depeche Mode,Depeche Mode,electronic,electronic,19900811,77,15,16,19900811
 78,91,Innocent,Whispers,Whispers,rnb / soul,funk,19900804,91,55,11,19900811
 79,93,That's Not Her Style,Billy Joel,Billy Joel,rock,classic rock,19900804,93,77,6,19900811
 80,71,Don't You Come Cryin',Linear,Linear,pop,freestyle,19900714,90,70,7,19900811
@@ -2118,7 +2118,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 17,25,Epic,Faith No More,Faith No More,rock,alternative rock,19900623,71,9,21,19900804
 18,24,Could This Be Love,Seduction,Seduction,pop,freestyle,19900609,88,11,18,19900804
 19,27,Have You Seen Her,Mc Hammer,Mc Hammer,hip-hop,hip-hop,19900630,63,4,20,19900804
-20,9,Enjoy The Silence,Depeche Mode,Depeche Mode,pop,electronic,19900414,96,8,24,19900804
+20,9,Enjoy The Silence,Depeche Mode,Depeche Mode,electronic,electronic,19900414,96,8,24,19900804
 21,19,Don't Go Away Mad (Just Go Away),Motley Crue,Motley Crue,rock,hard rock,19900602,72,19,16,19900804
 22,36,Blaze Of Glory,Jon Bon Jovi,Jon Bon Jovi,rock,rock,19900721,58,1,21,19900804
 23,32,Release Me,Wilson Phillips,Wilson Phillips,pop,pop,19900630,76,1,22,19900804
@@ -2207,7 +2207,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 6,7,The Power,Snap,Snap,electronic,eurodance,19900512,81,2,22,19900728
 7,8,Girls Nite Out,Tyler Collins,Tyler Collins,rnb / soul,soul,19900428,89,6,21,19900728
 8,10,When I'm Back On My Feet Again,Michael Bolton,Michael Bolton,pop,pop,19900526,74,7,19,19900728
-9,9,Enjoy The Silence,Depeche Mode,Depeche Mode,pop,electronic,19900414,96,8,24,19900728
+9,9,Enjoy The Silence,Depeche Mode,Depeche Mode,electronic,electronic,19900414,96,8,24,19900728
 10,17,Hanky Panky,Madonna,Madonna,pop,pop,19900630,40,10,11,19900728
 11,18,If Wishes Came True,Sweet Sensation,Sweet Sensation,pop,freestyle,19900616,58,1,20,19900728
 12,16,King Of Wishful Thinking,Go West,Go West,pop,80s,19900519,96,8,24,19900728
@@ -2307,7 +2307,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 6,1,Step By Step,New Kids On The Block,New Kids On The Block,pop,pop,19900526,27,1,15,19900721
 7,9,The Power,Snap,Snap,electronic,eurodance,19900512,81,2,22,19900721
 8,11,Girls Nite Out,Tyler Collins,Tyler Collins,rnb / soul,soul,19900428,89,6,21,19900721
-9,8,Enjoy The Silence,Depeche Mode,Depeche Mode,pop,electronic,19900414,96,8,24,19900721
+9,8,Enjoy The Silence,Depeche Mode,Depeche Mode,electronic,electronic,19900414,96,8,24,19900721
 10,13,When I'm Back On My Feet Again,Michael Bolton,Michael Bolton,pop,pop,19900526,74,7,19,19900721
 11,6,It Must Have Been Love,Roxette,Roxette,pop,pop,19900407,67,1,25,19900721
 12,4,I'll Be Your Shelter,Taylor Dayne,Taylor Dayne,pop,80s,19900505,56,4,18,19900721
@@ -2406,7 +2406,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 5,8,Cradle Of Love,Billy Idol,Billy Idol,rock,rock,19900505,83,2,24,19900714
 6,2,It Must Have Been Love,Roxette,Roxette,pop,pop,19900407,67,1,25,19900714
 7,10,Rub You The Right Way,Johnny Gill,Johnny Gill,rnb / soul,rnb,19900512,49,3,23,19900714
-8,11,Enjoy The Silence,Depeche Mode,Depeche Mode,pop,electronic,19900414,96,8,24,19900714
+8,11,Enjoy The Silence,Depeche Mode,Depeche Mode,electronic,electronic,19900414,96,8,24,19900714
 9,13,The Power,Snap,Snap,electronic,eurodance,19900512,81,2,22,19900714
 10,4,Poison,Bell Biv Devoe,Bell Biv Devoe,rnb / soul,new jack swing,19900407,52,3,22,19900714
 11,14,Girls Nite Out,Tyler Collins,Tyler Collins,rnb / soul,soul,19900428,89,6,21,19900714
@@ -2509,7 +2509,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 8,10,Cradle Of Love,Billy Idol,Billy Idol,rock,rock,19900505,83,2,24,19900707
 9,5,Hold On,Wilson Phillips,Wilson Phillips,pop,pop,19900317,74,1,25,19900707
 10,11,Rub You The Right Way,Johnny Gill,Johnny Gill,rnb / soul,rnb,19900512,49,3,23,19900707
-11,13,Enjoy The Silence,Depeche Mode,Depeche Mode,pop,electronic,19900414,96,8,24,19900707
+11,13,Enjoy The Silence,Depeche Mode,Depeche Mode,electronic,electronic,19900414,96,8,24,19900707
 12,7,Ready Or Not,After 7,After 7,rnb / soul,rnb,19900331,96,7,21,19900707
 13,16,The Power,Snap,Snap,electronic,eurodance,19900512,81,2,22,19900707
 14,17,Girls Nite Out,Tyler Collins,Tyler Collins,rnb / soul,soul,19900428,89,6,21,19900707
@@ -2611,7 +2611,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 10,17,Cradle Of Love,Billy Idol,Billy Idol,rock,rock,19900505,83,2,24,19900630
 11,15,Rub You The Right Way,Johnny Gill,Johnny Gill,rnb / soul,rnb,19900512,49,3,23,19900630
 12,9,U Can't Touch This,M.C. Hammer,M.C. Hammer,hip-hop,hip-hop,19900428,27,8,17,19900630
-13,19,Enjoy The Silence,Depeche Mode,Depeche Mode,pop,electronic,19900414,96,8,24,19900630
+13,19,Enjoy The Silence,Depeche Mode,Depeche Mode,electronic,electronic,19900414,96,8,24,19900630
 14,6,Vogue,Madonna,Madonna,pop,pop,19900414,39,1,24,19900630
 15,13,Children Of The Night,Richard Marx,Richard Marx,pop,80s,19900428,55,13,15,19900630
 16,21,The Power,Snap,Snap,electronic,eurodance,19900512,81,2,22,19900630
@@ -2717,7 +2717,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 16,16,Baby It's Tonight,Jude Cole,Jude Cole,country / folk,singer-songwriter,19900414,74,16,19,19900623
 17,21,Cradle Of Love,Billy Idol,Billy Idol,rock,rock,19900505,83,2,24,19900623
 18,13,Sending All My Love,Linear,Linear,pop,freestyle,19900217,92,5,27,19900623
-19,22,Enjoy The Silence,Depeche Mode,Depeche Mode,pop,electronic,19900414,96,8,24,19900623
+19,22,Enjoy The Silence,Depeche Mode,Depeche Mode,electronic,electronic,19900414,96,8,24,19900623
 20,7,Alright,Janet Jackson,Janet Jackson,pop,pop,19900407,45,4,16,19900623
 21,25,The Power,Snap,Snap,electronic,eurodance,19900512,81,2,22,19900623
 22,27,Girls Nite Out,Tyler Collins,Tyler Collins,rnb / soul,soul,19900428,89,6,21,19900623
@@ -2820,7 +2820,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 19,21,Rub You The Right Way,Johnny Gill,Johnny Gill,rnb / soul,rnb,19900512,49,3,23,19900616
 20,16,Turtle Power,Partners In Kryme,Partners In Kryme,hip-hop,hip-hop,19900421,89,13,16,19900616
 21,24,Cradle Of Love,Billy Idol,Billy Idol,rock,rock,19900505,83,2,24,19900616
-22,23,Enjoy The Silence,Depeche Mode,Depeche Mode,pop,electronic,19900414,96,8,24,19900616
+22,23,Enjoy The Silence,Depeche Mode,Depeche Mode,electronic,electronic,19900414,96,8,24,19900616
 23,13,Ooh La La (I Can't Get Over You),Perfect Gentlemen,Perfect Gentlemen,pop,seen live,19900414,84,10,16,19900616
 24,20,I'll See You In My Dreams,Giant,Giant,rock,hard rock,19900324,93,20,20,19900616
 25,28,The Power,Snap,Snap,electronic,eurodance,19900512,81,2,22,19900616
@@ -2894,7 +2894,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 93,NEW,Chain Of Fools,Little Caesar,Little Caesar,rock,hard rock,19900616,93,88,4,19900616
 94,81,Just A Friend,Biz Markie,Biz Markie,hip-hop,hip-hop,19900120,71,9,22,19900616
 95,86,Save Me,Fleetwood Mac,Fleetwood Mac,rock,classic rock,19900407,70,33,11,19900616
-96,66,Getting Away With It,Electronic,Electronic,pop,electronic,19900331,88,38,12,19900616
+96,66,Getting Away With It,Electronic,Electronic,electronic,electronic,19900331,88,38,12,19900616
 97,89,When Something Is Wrong With My Baby,Linda Ronstadt & Aaron Neville,Linda Ronstadt & Aaron Neville,pop,pop,19900512,96,78,6,19900616
 98,90,Shake,Andrew Ridgeley,Andrew Ridgeley,pop,pop,19900512,86,77,6,19900616
 99,98,Take It To Heart,Michael Mcdonald,Michael Mcdonald,rnb / soul,soul,19900609,98,98,2,19900616
@@ -2921,7 +2921,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 20,23,I'll See You In My Dreams,Giant,Giant,rock,hard rock,19900324,93,20,20,19900609
 21,24,Rub You The Right Way,Johnny Gill,Johnny Gill,rnb / soul,rnb,19900512,49,3,23,19900609
 22,26,She Ain't Worth It,Glenn Medeiros Featuring Bobby Brown,Glenn Medeiros,pop,pop,19900519,50,1,18,19900609
-23,27,Enjoy The Silence,Depeche Mode,Depeche Mode,pop,electronic,19900414,96,8,24,19900609
+23,27,Enjoy The Silence,Depeche Mode,Depeche Mode,electronic,electronic,19900414,96,8,24,19900609
 24,31,Cradle Of Love,Billy Idol,Billy Idol,rock,rock,19900505,83,2,24,19900609
 25,19,I Wanna Be Rich,Calloway,Calloway,pop,90s,19900210,93,2,23,19900609
 26,17,Your Baby Never Looked Good In Blue,Expose,Expose,pop,80s,19900331,61,17,16,19900609
@@ -2964,7 +2964,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 63,47,Whip Appeal,Babyface,Babyface,rnb / soul,rnb,19900224,90,6,18,19900609
 64,81,Show Me,Howard Hewett,Howard Hewett,rnb / soul,soul,19900526,84,62,7,19900609
 65,67,If U Were Mine,U-Crew,U-Crew,pop,unknown,19900127,87,24,22,19900609
-66,48,Getting Away With It,Electronic,Electronic,pop,electronic,19900331,88,38,12,19900609
+66,48,Getting Away With It,Electronic,Electronic,electronic,electronic,19900331,88,38,12,19900609
 67,89,The Blues,Tony Toni Tone,Tony Toni Tone,rnb / soul,soul,19900602,89,46,10,19900609
 68,56,I'll Be Your Everything,Tommy Page,Tommy Page,pop,pop,19900217,51,1,18,19900609
 69,65,The Heart Of The Matter,Don Henley,Don Henley,rock,classic rock,19900217,80,21,21,19900609
@@ -3025,7 +3025,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 24,35,Rub You The Right Way,Johnny Gill,Johnny Gill,rnb / soul,rnb,19900512,49,3,23,19900602
 25,14,Love Child,Sweet Sensation,Sweet Sensation,pop,freestyle,19900317,69,13,15,19900602
 26,38,She Ain't Worth It,Glenn Medeiros Featuring Bobby Brown,Glenn Medeiros,pop,pop,19900519,50,1,18,19900602
-27,34,Enjoy The Silence,Depeche Mode,Depeche Mode,pop,electronic,19900414,96,8,24,19900602
+27,34,Enjoy The Silence,Depeche Mode,Depeche Mode,electronic,electronic,19900414,96,8,24,19900602
 28,37,Sittin' In The Lap Of Luxury,Louie Louie,Louie Louie,pop,lounge,19900428,97,19,16,19900602
 29,31,Cruising For Bruising,Basia,Basia,jazz,jazz,19900407,76,29,12,19900602
 30,36,Deadbeat Club,B-52'S,B-52'S,rock,new wave,19900421,84,30,11,19900602
@@ -3046,7 +3046,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 45,55,Club At The End Of The Street,Elton John,Elton John,pop,pop,19900428,86,28,16,19900602
 46,28,Room At The Top,Adam Ant,Adam Ant,rock,new wave,19900310,84,17,16,19900602
 47,32,Whip Appeal,Babyface,Babyface,rnb / soul,rnb,19900224,90,6,18,19900602
-48,39,Getting Away With It,Electronic,Electronic,pop,electronic,19900331,88,38,12,19900602
+48,39,Getting Away With It,Electronic,Electronic,electronic,electronic,19900331,88,38,12,19900602
 49,61,Mentirosa,Mellow Man Ace,Mellow Man Ace,hip-hop,rap,19900512,88,14,24,19900602
 50,74,When I'm Back On My Feet Again,Michael Bolton,Michael Bolton,pop,pop,19900526,74,7,19,19900602
 51,56,Love Is,Alannah Myles,Alannah Myles,rock,rock,19900505,88,36,13,19900602
@@ -3132,12 +3132,12 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 31,35,Cruising For Bruising,Basia,Basia,jazz,jazz,19900407,76,29,12,19900526
 32,21,Whip Appeal,Babyface,Babyface,rnb / soul,rnb,19900224,90,6,18,19900526
 33,28,House Of Pain,Faster Pussycat,Faster Pussycat,rock,hard rock,19900224,89,28,21,19900526
-34,42,Enjoy The Silence,Depeche Mode,Depeche Mode,pop,electronic,19900414,96,8,24,19900526
+34,42,Enjoy The Silence,Depeche Mode,Depeche Mode,electronic,electronic,19900414,96,8,24,19900526
 35,44,Rub You The Right Way,Johnny Gill,Johnny Gill,rnb / soul,rnb,19900512,49,3,23,19900526
 36,40,Deadbeat Club,B-52'S,B-52'S,rock,new wave,19900421,84,30,11,19900526
 37,45,Sittin' In The Lap Of Luxury,Louie Louie,Louie Louie,pop,lounge,19900428,97,19,16,19900526
 38,50,She Ain't Worth It,Glenn Medeiros Featuring Bobby Brown,Glenn Medeiros,pop,pop,19900519,50,1,18,19900526
-39,38,Getting Away With It,Electronic,Electronic,pop,electronic,19900331,88,38,12,19900526
+39,38,Getting Away With It,Electronic,Electronic,electronic,electronic,19900331,88,38,12,19900526
 40,43,Nicety,Michel'Le,Michel'Le,rnb / soul,rnb,19900414,98,29,16,19900526
 41,39,Always & Forever,Whistle,Whistle,hip-hop,hip-hop,19900407,87,35,15,19900526
 42,49,Up All Night,Slaughter,Slaughter,rock,thrash metal,19900428,98,27,14,19900526
@@ -3236,11 +3236,11 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 35,40,Cruising For Bruising,Basia,Basia,jazz,jazz,19900407,76,29,12,19900519
 36,26,Here & Now,Luther Vandross,Luther Vandross,rnb / soul,soul,19891223,78,6,27,19900519
 37,22,Heartbeat,Seduction,Seduction,pop,freestyle,19900224,69,13,16,19900519
-38,41,Getting Away With It,Electronic,Electronic,pop,electronic,19900331,88,38,12,19900519
+38,41,Getting Away With It,Electronic,Electronic,electronic,electronic,19900331,88,38,12,19900519
 39,46,Always & Forever,Whistle,Whistle,hip-hop,hip-hop,19900407,87,35,15,19900519
 40,48,Deadbeat Club,B-52'S,B-52'S,rock,new wave,19900421,84,30,11,19900519
 41,29,Black Velvet,Alannah Myles,Alannah Myles,rock,rock,19891230,86,1,25,19900519
-42,47,Enjoy The Silence,Depeche Mode,Depeche Mode,pop,electronic,19900414,96,8,24,19900519
+42,47,Enjoy The Silence,Depeche Mode,Depeche Mode,electronic,electronic,19900414,96,8,24,19900519
 43,51,Nicety,Michel'Le,Michel'Le,rnb / soul,rnb,19900414,98,29,16,19900519
 44,49,Rub You The Right Way,Johnny Gill,Johnny Gill,rnb / soul,rnb,19900512,49,3,23,19900519
 45,54,Sittin' In The Lap Of Luxury,Louie Louie,Louie Louie,pop,lounge,19900428,97,19,16,19900519
@@ -3339,13 +3339,13 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 38,43,Children Of The Night,Richard Marx,Richard Marx,pop,80s,19900428,55,13,15,19900512
 39,19,Whole Wide World,A'Me Lorain,A'Me Lorain,pop,pop,19900120,79,9,20,19900512
 40,41,Cruising For Bruising,Basia,Basia,jazz,jazz,19900407,76,29,12,19900512
-41,45,Getting Away With It,Electronic,Electronic,pop,electronic,19900331,88,38,12,19900512
+41,45,Getting Away With It,Electronic,Electronic,electronic,electronic,19900331,88,38,12,19900512
 42,52,Just A Friend,Biz Markie,Biz Markie,hip-hop,hip-hop,19900120,71,9,22,19900512
 43,56,I'll Be Your Shelter,Taylor Dayne,Taylor Dayne,pop,80s,19900505,56,4,18,19900512
 44,34,If U Were Mine,U-Krew,U-Krew,hip-hop,hip-hop,19900127,87,24,22,19900512
 45,38,Get Up,Technotronic,Technotronic,electronic,dance,19900127,86,7,20,19900512
 46,47,Always & Forever,Whistle,Whistle,hip-hop,hip-hop,19900407,87,35,15,19900512
-47,50,Enjoy The Silence,Depeche Mode,Depeche Mode,pop,electronic,19900414,96,8,24,19900512
+47,50,Enjoy The Silence,Depeche Mode,Depeche Mode,electronic,electronic,19900414,96,8,24,19900512
 48,51,Deadbeat Club,B-52'S,B-52'S,rock,new wave,19900421,84,30,11,19900512
 49,NEW,Rub You The Right Way,Johnny Gill,Johnny Gill,rnb / soul,rnb,19900512,49,3,23,19900512
 50,49,All That Glitters Isn't Gold,Cover Girls,Cover Girls,pop,freestyle,19900407,89,49,12,19900512
@@ -3443,12 +3443,12 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 42,31,I Wish It Would Rain Down,Phil Collins,Phil Collins,pop,pop,19900203,71,3,17,19900505
 43,55,Children Of The Night,Richard Marx,Richard Marx,pop,80s,19900428,55,13,15,19900505
 44,57,Turtle Power,Partners In Kryme,Partners In Kryme,hip-hop,hip-hop,19900421,89,13,16,19900505
-45,47,Getting Away With It,Electronic,Electronic,pop,electronic,19900331,88,38,12,19900505
+45,47,Getting Away With It,Electronic,Electronic,electronic,electronic,19900331,88,38,12,19900505
 46,37,A Little Love,Corey Hart,Corey Hart,pop,80s,19900317,86,37,11,19900505
 47,52,Always & Forever,Whistle,Whistle,hip-hop,hip-hop,19900407,87,35,15,19900505
 48,49,Oye Mi Canto,Gloria Estefan,Gloria Estefan,pop,latin,19900407,78,48,7,19900505
 49,53,All That Glitters Isn't Gold,Cover Girls,Cover Girls,pop,freestyle,19900407,89,49,12,19900505
-50,58,Enjoy The Silence,Depeche Mode,Depeche Mode,pop,electronic,19900414,96,8,24,19900505
+50,58,Enjoy The Silence,Depeche Mode,Depeche Mode,electronic,electronic,19900414,96,8,24,19900505
 51,60,Deadbeat Club,B-52'S,B-52'S,rock,new wave,19900421,84,30,11,19900505
 52,45,Just A Friend,Biz Markie,Biz Markie,hip-hop,hip-hop,19900120,71,9,22,19900505
 53,62,Nicety,Michel'Le,Michel'Le,rnb / soul,rnb,19900414,98,29,16,19900505
@@ -3545,7 +3545,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 44,52,Cruising For Bruising,Basia,Basia,jazz,jazz,19900407,76,29,12,19900428
 45,38,Just A Friend,Biz Markie,Biz Markie,hip-hop,hip-hop,19900120,71,9,22,19900428
 46,33,All My Life,Linda Ronstadt,Linda Ronstadt,pop,female vocalists,19900210,47,11,15,19900428
-47,48,Getting Away With It,Electronic,Electronic,pop,electronic,19900331,88,38,12,19900428
+47,48,Getting Away With It,Electronic,Electronic,electronic,electronic,19900331,88,38,12,19900428
 48,37,No More Lies,Michel'Le,Michel'Le,rnb / soul,rnb,19891118,92,7,29,19900428
 49,54,Oye Mi Canto,Gloria Estefan,Gloria Estefan,pop,latin,19900407,78,48,7,19900428
 50,46,Hurting Kind (I've Got My Eyes On You),Robert Plant,Robert Plant,rock,classic rock,19900324,88,46,10,19900428
@@ -3556,7 +3556,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 55,NEW,Children Of The Night,Richard Marx,Richard Marx,pop,80s,19900428,55,13,15,19900428
 56,60,Cuts You Up,Peter Murphy,Peter Murphy,pop,post-punk,19900324,95,55,9,19900428
 57,89,Turtle Power,Partners In Kryme,Partners In Kryme,hip-hop,hip-hop,19900421,89,13,16,19900428
-58,73,Enjoy The Silence,Depeche Mode,Depeche Mode,pop,electronic,19900414,96,8,24,19900428
+58,73,Enjoy The Silence,Depeche Mode,Depeche Mode,electronic,electronic,19900414,96,8,24,19900428
 59,67,Moonlight On Water,Laura Branigan,Laura Branigan,pop,80s,19900331,94,59,9,19900428
 60,84,Deadbeat Club,B-52'S,B-52'S,rock,new wave,19900421,84,30,11,19900428
 61,72,Get A Life,Soul Ii Soul,Soul Ii Soul,rnb / soul,soul,19900414,94,54,11,19900428
@@ -3646,7 +3646,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 45,60,I'll See You In My Dreams,Giant,Giant,rock,hard rock,19900324,93,20,20,19900421
 46,56,Hurting Kind (I've Got My Eyes On You),Robert Plant,Robert Plant,rock,classic rock,19900324,88,46,10,19900421
 47,84,Ooh La La (I Can't Get Over You),Perfect Gentlemen,Perfect Gentlemen,pop,seen live,19900414,84,10,16,19900421
-48,65,Getting Away With It,Electronic,Electronic,pop,electronic,19900331,88,38,12,19900421
+48,65,Getting Away With It,Electronic,Electronic,electronic,electronic,19900331,88,38,12,19900421
 49,29,Keep It Together,Madonna,Madonna,pop,pop,19900203,56,8,13,19900421
 50,42,Opposites Attract,Paula Abdul,Paula Abdul,pop,pop,19891216,72,1,23,19900421
 51,74,Baby It's Tonight,Jude Cole,Jude Cole,country / folk,singer-songwriter,19900414,74,16,19,19900421
@@ -3671,7 +3671,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 70,83,How 'Bout Us,Grayson Hugh & Betty Wright,Grayson Hugh,pop,blue eyed soul,19900331,89,67,7,19900421
 71,55,I Go To Extremes,Billy Joel,Billy Joel,rock,classic rock,19900113,67,6,16,19900421
 72,94,Get A Life,Soul Ii Soul,Soul Ii Soul,rnb / soul,soul,19900414,94,54,11,19900421
-73,96,Enjoy The Silence,Depeche Mode,Depeche Mode,pop,electronic,19900414,96,8,24,19900421
+73,96,Enjoy The Silence,Depeche Mode,Depeche Mode,electronic,electronic,19900414,96,8,24,19900421
 74,98,Nicety,Michel'Le,Michel'Le,rnb / soul,rnb,19900414,98,29,16,19900421
 75,57,Price Of Love,Bad English,Bad English,rock,hard rock,19891223,68,5,19,19900421
 76,62,Here We Are,Gloria Estefan,Gloria Estefan,pop,latin,19891216,68,6,21,19900421
@@ -3686,7 +3686,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 85,NEW,Coming Of Age,Damn Yankees,Damn Yankees,rock,hard rock,19900421,85,60,12,19900421
 86,95,Dub Be Good To Me,Beats International,Beats International,electronic,dance,19900414,95,76,5,19900421
 87,90,You Make Me Feel (Mighty Real),Jimmy Somerville,Jimmy Somerville,pop,80s,19900407,97,87,4,19900421
-88,85,Personal Jesus,Depeche Mode,Depeche Mode,pop,electronic,19891209,97,28,20,19900421
+88,85,Personal Jesus,Depeche Mode,Depeche Mode,electronic,electronic,19891209,97,28,20,19900421
 89,NEW,Turtle Power,Partners In Kryme,Partners In Kryme,hip-hop,hip-hop,19900421,89,13,16,19900421
 90,78,Bust A Move,Young M.C.,Young M.C.,hip-hop,hip-hop,19890729,81,7,39,19900421
 91,82,Fly High Michelle,Enuff Z'Nuff,Enuff Z'Nuff,rock,hard rock,19900127,91,47,13,19900421
@@ -3763,7 +3763,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 62,55,Here We Are,Gloria Estefan,Gloria Estefan,pop,latin,19891216,68,6,21,19900414
 63,76,Cruising For Bruising,Basia,Basia,jazz,jazz,19900407,76,29,12,19900414
 64,81,Ready Or Not,After 7,After 7,rnb / soul,rnb,19900331,96,7,21,19900414
-65,72,Getting Away With It,Electronic,Electronic,pop,electronic,19900331,88,38,12,19900414
+65,72,Getting Away With It,Electronic,Electronic,electronic,electronic,19900331,88,38,12,19900414
 66,78,Oye Mi Canto,Gloria Estefan,Gloria Estefan,pop,latin,19900407,78,48,7,19900414
 67,75,Cuts You Up,Peter Murphy,Peter Murphy,pop,post-punk,19900324,95,55,9,19900414
 68,89,All That Glitters Isn't Gold,Cover Girls,Cover Girls,pop,freestyle,19900407,89,49,12,19900414
@@ -3783,7 +3783,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 82,65,Fly High Michelle,Enuff Z'Nuff,Enuff Z'Nuff,rock,hard rock,19900127,91,47,13,19900414
 83,86,How 'Bout Us,Grayson Hugh & Betty Wright,Grayson Hugh,pop,blue eyed soul,19900331,89,67,7,19900414
 84,NEW,Ooh La La (I Can't Get Over You),Perfect Gentlemen,Perfect Gentlemen,pop,seen live,19900414,84,10,16,19900414
-85,59,Personal Jesus,Depeche Mode,Depeche Mode,pop,electronic,19891209,97,28,20,19900414
+85,59,Personal Jesus,Depeche Mode,Depeche Mode,electronic,electronic,19891209,97,28,20,19900414
 86,82,You Can't Get Away,Shana,Shana,pop,freestyle,19900324,92,82,5,19900414
 87,77,A Girl Like You,Smithereens,Smithereens,rock,rock,19891209,93,38,20,19900414
 88,58,Too Late To Say Goodbye,Richard Marx,Richard Marx,pop,80s,19900120,49,12,13,19900414
@@ -3794,7 +3794,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 93,71,We Can't Go Wrong,Cover Girls,Cover Girls,pop,freestyle,19891209,73,8,19,19900414
 94,NEW,Get A Life,Soul Ii Soul,Soul Ii Soul,rnb / soul,soul,19900414,94,54,11,19900414
 95,NEW,Dub Be Good To Me,Beats International,Beats International,electronic,dance,19900414,95,76,5,19900414
-96,NEW,Enjoy The Silence,Depeche Mode,Depeche Mode,pop,electronic,19900414,96,8,24,19900414
+96,NEW,Enjoy The Silence,Depeche Mode,Depeche Mode,electronic,electronic,19900414,96,8,24,19900414
 97,83,Summer Rain,Belinda Carlisle,Belinda Carlisle,pop,pop,19900120,86,30,13,19900414
 98,NEW,Nicety,Michel'Le,Michel'Le,rnb / soul,rnb,19900414,98,29,16,19900414
 99,88,House Of Broken Love,Great White,Great White,rock,hard rock,19900317,97,83,5,19900414
@@ -3857,7 +3857,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 56,49,Blue Sky Mine,Midnight Oil,Midnight Oil,rock,rock,19900217,77,47,10,19900407
 57,62,Time After Time,Timmy T,Timmy T,pop,90s,19900310,80,40,17,19900407
 58,42,Too Late To Say Goodbye,Richard Marx,Richard Marx,pop,80s,19900120,49,12,13,19900407
-59,52,Personal Jesus,Depeche Mode,Depeche Mode,pop,electronic,19891209,97,28,20,19900407
+59,52,Personal Jesus,Depeche Mode,Depeche Mode,electronic,electronic,19891209,97,28,20,19900407
 60,64,House Of Pain,Faster Pussycat,Faster Pussycat,rock,hard rock,19900224,89,28,21,19900407
 61,48,Got To Get,Rob'N'Raz & Leila K,Robnraz,electronic,eurodance,19900217,89,48,11,19900407
 62,66,The Way It Is,Tesla,Tesla,rock,hard rock,19900310,86,55,12,19900407
@@ -3870,7 +3870,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 69,51,A Face In The Crowd,Tom Petty,Tom Petty,rock,classic rock,19900303,73,46,8,19900407
 70,NEW,Save Me,Fleetwood Mac,Fleetwood Mac,rock,classic rock,19900407,70,33,11,19900407
 71,58,We Can't Go Wrong,Cover Girls,Cover Girls,pop,freestyle,19891209,73,8,19,19900407
-72,88,Getting Away With It,Electronic,Electronic,pop,electronic,19900331,88,38,12,19900407
+72,88,Getting Away With It,Electronic,Electronic,electronic,electronic,19900331,88,38,12,19900407
 73,73,Hide And Seek,Pajama Party,Pajama Party,pop,freestyle,19900310,93,73,10,19900407
 74,70,Bust A Move,Young M.C.,Young M.C.,hip-hop,hip-hop,19890729,81,7,39,19900407
 75,86,Cuts You Up,Peter Murphy,Peter Murphy,pop,post-punk,19900324,95,55,9,19900407
@@ -3950,7 +3950,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 49,47,Blue Sky Mine,Midnight Oil,Midnight Oil,rock,rock,19900217,77,47,10,19900331
 50,53,Lambada,Kaoma,Kaoma,pop,latin,19900303,71,46,12,19900331
 51,46,A Face In The Crowd,Tom Petty,Tom Petty,rock,classic rock,19900303,73,46,8,19900331
-52,41,Personal Jesus,Depeche Mode,Depeche Mode,pop,electronic,19891209,97,28,20,19900331
+52,41,Personal Jesus,Depeche Mode,Depeche Mode,electronic,electronic,19891209,97,28,20,19900331
 53,63,The Humpty Dance,Digital Underground,Digital Underground,hip-hop,hip-hop,19900317,81,11,23,19900331
 54,59,Have A Heart,Bonnie Raitt,Bonnie Raitt,rock,blues,19900310,92,49,9,19900331
 55,58,Make It Like It Was,Regina Belle,Regina Belle,rnb / soul,soul,19900224,96,43,11,19900331
@@ -3986,7 +3986,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 85,68,What Kind Of Man Would I Be,Chicago,Chicago,rock,classic rock,19891202,95,5,18,19900331
 86,95,Cuts You Up,Peter Murphy,Peter Murphy,pop,post-punk,19900324,95,55,9,19900331
 87,94,Precious Love,Jody Watley,Jody Watley,rnb / soul,soul,19900324,94,87,3,19900331
-88,NEW,Getting Away With It,Electronic,Electronic,pop,electronic,19900331,88,38,12,19900331
+88,NEW,Getting Away With It,Electronic,Electronic,electronic,electronic,19900331,88,38,12,19900331
 89,NEW,How 'Bout Us,Grayson Hugh & Betty Wright,Grayson Hugh,pop,blue eyed soul,19900331,89,67,7,19900331
 90,74,I Remember You,Skid Row,Skid Row,rock,hard rock,19891118,63,6,20,19900331
 91,77,Dirty Deeds,Joan Jett,Joan Jett,rock,rock,19900127,80,36,10,19900331
@@ -4039,7 +4039,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 38,29,Anything I Want,Kevin Paige,Kevin Paige,pop,pop,19900120,82,29,12,19900324
 39,44,If U Were Mine,U-Krew,U-Krew,hip-hop,hip-hop,19900127,87,24,22,19900324
 40,43,The Heart Of The Matter,Don Henley,Don Henley,rock,classic rock,19900217,80,21,21,19900324
-41,34,Personal Jesus,Depeche Mode,Depeche Mode,pop,electronic,19891209,97,28,20,19900324
+41,34,Personal Jesus,Depeche Mode,Depeche Mode,electronic,electronic,19891209,97,28,20,19900324
 42,46,Sending All My Love,Linear,Linear,pop,freestyle,19900217,92,5,27,19900324
 43,58,Wild Women Do,Natalie Cole,Natalie Cole,jazz,jazz,19900224,84,34,10,19900324
 44,45,True Blue Love,Lou Gramm,Lou Gramm,rock,rock,19900217,96,40,11,19900324
@@ -4132,7 +4132,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 31,37,I Wanna Be Rich,Calloway,Calloway,pop,90s,19900210,93,2,23,19900317
 32,35,Love Me For Life,Stevie B,Stevie B,pop,freestyle,19900203,69,29,14,19900317
 33,42,Without You,Motley Crue,Motley Crue,rock,hard rock,19900224,66,8,17,19900317
-34,31,Personal Jesus,Depeche Mode,Depeche Mode,pop,electronic,19891209,97,28,20,19900317
+34,31,Personal Jesus,Depeche Mode,Depeche Mode,electronic,electronic,19891209,97,28,20,19900317
 35,30,Summer Rain,Belinda Carlisle,Belinda Carlisle,pop,pop,19900120,86,30,13,19900317
 36,45,How Can We Be Lovers,Michael Bolton,Michael Bolton,pop,pop,19900303,68,3,18,19900317
 37,46,Heartbeat,Seduction,Seduction,pop,freestyle,19900224,69,13,16,19900317
@@ -4229,7 +4229,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 28,31,The Deeper The Love,Whitesnake,Whitesnake,rock,hard rock,19900120,77,28,14,19900310
 29,16,Two To Make It Right,Seduction,Seduction,pop,freestyle,19891111,78,2,23,19900310
 30,30,Summer Rain,Belinda Carlisle,Belinda Carlisle,pop,pop,19900120,86,30,13,19900310
-31,28,Personal Jesus,Depeche Mode,Depeche Mode,pop,electronic,19891209,97,28,20,19900310
+31,28,Personal Jesus,Depeche Mode,Depeche Mode,electronic,electronic,19891209,97,28,20,19900310
 32,34,Anything I Want,Kevin Paige,Kevin Paige,pop,pop,19900120,82,29,12,19900310
 33,36,Whole Wide World,A'Me Lorain,A'Me Lorain,pop,pop,19900120,79,9,20,19900310
 34,17,What Kind Of Man Would I Be,Chicago,Chicago,rock,classic rock,19891202,95,5,18,19900310
@@ -4326,7 +4326,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 25,31,All Around The World,Lisa Stansfield,Lisa Stansfield,pop,pop,19900203,78,3,22,19900303
 26,14,Janie's Got A Gun,Aerosmith,Aerosmith,rock,rock,19891125,85,4,18,19900303
 27,38,I'll Be Your Everything,Tommy Page,Tommy Page,pop,pop,19900217,51,1,18,19900303
-28,29,Personal Jesus,Depeche Mode,Depeche Mode,pop,electronic,19891209,97,28,20,19900303
+28,29,Personal Jesus,Depeche Mode,Depeche Mode,electronic,electronic,19891209,97,28,20,19900303
 29,34,All My Life,Linda Ronstadt,Linda Ronstadt,pop,female vocalists,19900210,47,11,15,19900303
 30,32,Summer Rain,Belinda Carlisle,Belinda Carlisle,pop,pop,19900120,86,30,13,19900303
 31,33,The Deeper The Love,Whitesnake,Whitesnake,rock,hard rock,19900120,77,28,14,19900303
@@ -4427,7 +4427,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 26,30,Get Up,Technotronic,Technotronic,electronic,dance,19900127,86,7,20,19900224
 27,29,Here & Now,Luther Vandross,Luther Vandross,rnb / soul,soul,19891223,78,6,27,19900224
 28,34,Keep It Together,Madonna,Madonna,pop,pop,19900203,56,8,13,19900224
-29,33,Personal Jesus,Depeche Mode,Depeche Mode,pop,electronic,19891209,97,28,20,19900224
+29,33,Personal Jesus,Depeche Mode,Depeche Mode,electronic,electronic,19891209,97,28,20,19900224
 30,16,I Remember You,Skid Row,Skid Row,rock,hard rock,19891118,63,6,20,19900224
 31,42,All Around The World,Lisa Stansfield,Lisa Stansfield,pop,pop,19900203,78,3,22,19900224
 32,40,Summer Rain,Belinda Carlisle,Belinda Carlisle,pop,pop,19900120,86,30,13,19900224
@@ -4531,7 +4531,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 30,45,Get Up,Technotronic,Technotronic,electronic,dance,19900127,86,7,20,19900217
 31,46,I Wish It Would Rain Down,Phil Collins,Phil Collins,pop,pop,19900203,71,3,17,19900217
 32,15,Free Fallin',Tom Petty,Tom Petty,rock,classic rock,19891104,72,7,21,19900217
-33,38,Personal Jesus,Depeche Mode,Depeche Mode,pop,electronic,19891209,97,28,20,19900217
+33,38,Personal Jesus,Depeche Mode,Depeche Mode,electronic,electronic,19891209,97,28,20,19900217
 34,41,Keep It Together,Madonna,Madonna,pop,pop,19900203,56,8,13,19900217
 35,27,Love Song,Tesla,Tesla,rock,hard rock,19890930,90,10,27,19900217
 36,22,Just Between You And Me,Lou Gramm,Lou Gramm,rock,rock,19891028,83,6,21,19900217
@@ -4636,7 +4636,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 35,45,Sacrifice,Elton John,Elton John,pop,pop,19900113,87,18,17,19900210
 36,42,Here & Now,Luther Vandross,Luther Vandross,rnb / soul,soul,19891223,78,6,27,19900210
 37,27,Kickstart My Heart,Motley Crue,Motley Crue,rock,hard rock,19891125,90,27,16,19900210
-38,46,Personal Jesus,Depeche Mode,Depeche Mode,pop,electronic,19891209,97,28,20,19900210
+38,46,Personal Jesus,Depeche Mode,Depeche Mode,electronic,electronic,19891209,97,28,20,19900210
 39,34,Back 2 Life,Soul Ii Soul,Soul Ii Soul,rnb / soul,soul,19890923,70,4,28,19900210
 40,25,When The Night Comes,Joe Cocker,Joe Cocker,rock,classic rock,19891028,85,11,20,19900210
 41,56,Keep It Together,Madonna,Madonna,pop,pop,19900203,56,8,13,19900210
@@ -4744,7 +4744,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 43,31,With Every Beat Of My Heart,Taylor Dayne,Taylor Dayne,pop,80s,19891021,61,5,18,19900203
 44,47,If You Leave Me Now,Jaya,Jaya,pop,freestyle,19891014,94,44,26,19900203
 45,66,Sacrifice,Elton John,Elton John,pop,pop,19900113,87,18,17,19900203
-46,51,Personal Jesus,Depeche Mode,Depeche Mode,pop,electronic,19891209,97,28,20,19900203
+46,51,Personal Jesus,Depeche Mode,Depeche Mode,electronic,electronic,19891209,97,28,20,19900203
 47,33,Just Like Jesse James,Cher,Cher,pop,pop,19891021,90,8,18,19900203
 48,60,The Deeper The Love,Whitesnake,Whitesnake,rock,hard rock,19900120,77,28,14,19900203
 49,41,Principle's Office,Young Mc,Young Mc,hip-hop,hip-hop,19891125,88,33,14,19900203
@@ -4849,7 +4849,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 48,53,Here & Now,Luther Vandross,Luther Vandross,rnb / soul,soul,19891223,78,6,27,19900127
 49,40,Love Shack,B-52'S,B-52'S,rock,new wave,19890902,84,3,27,19900127
 50,66,No Myth,Michael Penn,Michael Penn,country / folk,singer-songwriter,19891230,85,13,17,19900127
-51,59,Personal Jesus,Depeche Mode,Depeche Mode,pop,electronic,19891209,97,28,20,19900127
+51,59,Personal Jesus,Depeche Mode,Depeche Mode,electronic,electronic,19891209,97,28,20,19900127
 52,51,Electric Boogie,Marcia Griffiths,Marcia Griffiths,reggae,reggae,19891209,90,51,11,19900127
 53,56,I Will Survive,Sa-Fire,Sa-Fire,pop,freestyle,19891216,80,53,11,19900127
 54,69,Black Velvet,Alannah Myles,Alannah Myles,rock,rock,19891230,86,1,25,19900127
@@ -4957,7 +4957,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 56,61,I Will Survive,Sa-Fire,Sa-Fire,pop,freestyle,19891216,80,53,11,19900120
 57,48,Don't Make Me Over,Sybil,Sybil,pop,80s,19890923,79,20,23,19900120
 58,52,Everything You Go,Fiona,Fiona,pop,aor,19891125,95,52,12,19900120
-59,60,Personal Jesus,Depeche Mode,Depeche Mode,pop,electronic,19891209,97,28,20,19900120
+59,60,Personal Jesus,Depeche Mode,Depeche Mode,electronic,electronic,19891209,97,28,20,19900120
 60,27,Rock And A Hard Place,Rolling Stones,Rolling Stones,rock,classic rock,19891104,79,23,14,19900120
 61,68,Going Home,Kenny G,Kenny G,jazz,jazz,19891230,71,56,8,19900120
 62,55,Wait For You,Bonham,Bonham,rock,hard rock,19891125,91,55,15,19900120
@@ -5058,7 +5058,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 57,70,Roam,B-52'S,B-52'S,rock,new wave,19891223,88,3,20,19900113
 58,49,Angelia,Richard Marx,Richard Marx,pop,80s,19891007,52,4,17,19900113
 59,59,Electric Boogie,Marcia Griffiths,Marcia Griffiths,reggae,reggae,19891209,90,51,11,19900113
-60,67,Personal Jesus,Depeche Mode,Depeche Mode,pop,electronic,19891209,97,28,20,19900113
+60,67,Personal Jesus,Depeche Mode,Depeche Mode,electronic,electronic,19891209,97,28,20,19900113
 61,62,I Will Survive,Sa-Fire,Sa-Fire,pop,freestyle,19891216,80,53,11,19900113
 62,57,Poison,Alice Cooper,Alice Cooper,rock,hard rock,19890923,66,7,19,19900113
 63,69,Here & Now,Luther Vandross,Luther Vandross,rnb / soul,soul,19891223,78,6,27,19900113
@@ -5165,7 +5165,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 64,64,Don't Take It Personal,Jermaine Jackson,Jermaine Jackson,rnb / soul,soul,19891202,88,64,11,19900106
 65,65,Don't Shut Me Out,Kevin Paige,Kevin Paige,pop,pop,19890819,99,18,24,19900106
 66,66,The Angel Song,Great White,Great White,rock,hard rock,19890930,88,30,21,19900106
-67,67,Personal Jesus,Depeche Mode,Depeche Mode,pop,electronic,19891209,97,28,20,19900106
+67,67,Personal Jesus,Depeche Mode,Depeche Mode,electronic,electronic,19891209,97,28,20,19900106
 68,68,Over & Over,Pajama Party,Pajama Party,pop,freestyle,19891111,88,59,14,19900106
 69,69,Here & Now,Luther Vandross,Luther Vandross,rnb / soul,soul,19891223,78,6,27,19900106
 70,70,Roam,B-52'S,B-52'S,rock,new wave,19891223,88,3,20,19900106

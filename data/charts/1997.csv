@@ -79,7 +79,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 78,84,Say You'll Stay,Kai,Kai,pop,cybercore,19971220,84,59,19,19971227
 79,67,I Wonder If Heaven Got A Ghetto,2 Pac,2 Pac,hip-hop,rap,19971213,73,67,11,19971227
 80,NEW,Deja Vu (Uptown Baby),Lord Tariq & Peter Gunz,Lord Tariq & Peter Gunz,hip-hop,hip-hop,19971227,80,9,26,19971227
-81,79,Around The World,Daft Punk,Daft Punk,pop,electronic,19970830,68,61,20,19971227
+81,79,Around The World,Daft Punk,Daft Punk,electronic,electronic,19970830,68,61,20,19971227
 82,74,"Too Gone, Too Long",En Vogue,En Vogue,rnb / soul,rnb,19971011,44,33,17,19971227
 83,83,In Harm's Way,Bebe Winans,Bebe Winans,pop,gospel,19971122,89,80,17,19971227
 84,80,The Rest Of Mine,Trace Adkins,Trace Adkins,country / folk,country,19971018,93,70,16,19971227
@@ -88,7 +88,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 87,78,All Of My Days,Changing Faces Featuring Jay-Z,Changing Faces,rnb / soul,rnb,19971108,88,65,12,19971227
 88,87,You Know My Steez,Gang Starr,Gang Starr,hip-hop,hip-hop,19971206,81,76,13,19971227
 89,98,Man Behind The Music,Queen Pen Featuring Teddy Riley,Queen Pen,hip-hop,rap,19971213,92,84,9,19971227
-90,90,Smack My Bitch Up,Prodigy,Prodigy,pop,electronic,19971220,90,89,7,19971227
+90,90,Smack My Bitch Up,Prodigy,Prodigy,electronic,electronic,19971220,90,89,7,19971227
 91,91,Did I Shave My Legs For This?,Deana Carter,Deana Carter,country / folk,country,19971213,91,85,6,19971227
 92,NEW,Love Of My Life,Sammy Kershaw,Sammy Kershaw,country / folk,country,19971227,92,87,3,19971227
 93,85,Phenomenon,Ll Cool J,Ll Cool J,hip-hop,hip-hop,19971101,56,55,9,19971227
@@ -177,7 +177,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 76,NEW,Something That We Do,Clint Black,Clint Black,country / folk,country,19971220,76,76,7,19971220
 77,75,Have A Little Mercy,4.0,4.0,hip-hop,rap,19970823,76,46,20,19971220
 78,65,All Of My Days,Changing Faces Featuring Jay-Z,Changing Faces,rnb / soul,rnb,19971108,88,65,12,19971220
-79,78,Around The World,Daft Punk,Daft Punk,pop,electronic,19970830,68,61,20,19971220
+79,78,Around The World,Daft Punk,Daft Punk,electronic,electronic,19970830,68,61,20,19971220
 80,77,The Rest Of Mine,Trace Adkins,Trace Adkins,country / folk,country,19971018,93,70,16,19971220
 81,83,Don't Stop The Music,Playa,Playa,rnb / soul,rnb,19971115,93,73,15,19971220
 82,79,Don't Go,Le Click Featuring Kayo,Le Click,electronic,dance,19970927,79,62,15,19971220
@@ -188,11 +188,11 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 87,81,You Know My Steez,Gang Starr,Gang Starr,hip-hop,hip-hop,19971206,81,76,13,19971220
 88,99,Free,Ultra Nate,Ultra Nate,electronic,house,19970823,92,75,19,19971220
 89,98,DJ Keep Playin' (Get Your Music On),Yvette Michele,Yvette Michele,rnb / soul,rnb,19971115,84,84,7,19971220
-90,NEW,Smack My Bitch Up,Prodigy,Prodigy,pop,electronic,19971220,90,89,7,19971220
+90,NEW,Smack My Bitch Up,Prodigy,Prodigy,electronic,electronic,19971220,90,89,7,19971220
 91,91,Did I Shave My Legs For This?,Deana Carter,Deana Carter,country / folk,country,19971213,91,85,6,19971220
 92,93,Up & Down,Billy Lawrence,Billy Lawrence,pop,chillout,19971213,93,92,4,19971220
 93,90,Baby You Know,O'Jays,O'Jays,rnb / soul,soul,19971108,92,76,7,19971220
-94,96,Home,Depeche Mode,Depeche Mode,pop,electronic,19971206,88,88,3,19971220
+94,96,Home,Depeche Mode,Depeche Mode,electronic,electronic,19971206,88,88,3,19971220
 95,84,I'm So Happy I Can't Stop Crying,Toby Keith & Sting,Toby Keith & Sting,country / folk,country,19971206,93,84,5,19971220
 96,NEW,Doin' Time,Sublime,Sublime,pop,ska,19971220,96,87,7,19971220
 97,85,Please,The Kinleys,The Kinleys,country / folk,country,19971004,91,67,12,19971220
@@ -276,7 +276,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 75,68,Have A Little Mercy,4.0,4.0,hip-hop,rap,19970823,76,46,20,19971213
 76,NEW,Tuck Me In,Kimberly Scott,Kimberly Scott,pop,90s,19971213,76,58,14,19971213
 77,77,The Rest Of Mine,Trace Adkins,Trace Adkins,country / folk,country,19971018,93,70,16,19971213
-78,75,Around The World,Daft Punk,Daft Punk,pop,electronic,19970830,68,61,20,19971213
+78,75,Around The World,Daft Punk,Daft Punk,electronic,electronic,19970830,68,61,20,19971213
 79,64,Don't Go,Le Click Featuring Kayo,Le Click,electronic,dance,19970927,79,62,15,19971213
 80,74,Never Make A Promise,Dru Hill,Dru Hill,rnb / soul,rnb,19970809,10,7,20,19971213
 81,81,You Know My Steez,Gang Starr,Gang Starr,hip-hop,hip-hop,19971206,81,76,13,19971213
@@ -294,7 +294,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 93,NEW,Up & Down,Billy Lawrence,Billy Lawrence,pop,chillout,19971213,93,92,4,19971213
 94,83,In Harm's Way,Bebe Winans,Bebe Winans,pop,gospel,19971122,89,80,17,19971213
 95,96,You Walked In,Lonestar,Lonestar,country / folk,country,19971122,93,93,4,19971213
-96,88,Home,Depeche Mode,Depeche Mode,pop,electronic,19971206,88,88,3,19971213
+96,88,Home,Depeche Mode,Depeche Mode,electronic,electronic,19971206,88,88,3,19971213
 97,89,On My Own,Peach Union,Peach Union,pop,pop,19970920,50,39,13,19971213
 98,87,DJ Keep Playin' (Get Your Music On),Yvette Michele,Yvette Michele,rnb / soul,rnb,19971115,84,84,7,19971213
 99,79,Free,Ultra Nate,Ultra Nate,electronic,house,19970823,92,75,19,19971213
@@ -373,7 +373,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 72,77,L-L-Lies,Diana King,Diana King,reggae,reggae,19971122,96,71,15,19971206
 73,74,I'm Afraid Of Americans,David Bowie,David Bowie,rock,rock,19971122,81,66,16,19971206
 74,67,Never Make A Promise,Dru Hill,Dru Hill,rnb / soul,rnb,19970809,10,7,20,19971206
-75,70,Around The World,Daft Punk,Daft Punk,pop,electronic,19970830,68,61,20,19971206
+75,70,Around The World,Daft Punk,Daft Punk,electronic,electronic,19970830,68,61,20,19971206
 76,78,Baby You Know,O'Jays,O'Jays,rnb / soul,soul,19971108,92,76,7,19971206
 77,76,The Rest Of Mine,Trace Adkins,Trace Adkins,country / folk,country,19971018,93,70,16,19971206
 78,75,Avenues,Refugee Camp All Stars Featuring Pras With Ky-Mani,Refugee Camp All Stars,hip-hop,hip-hop,19970920,68,35,14,19971206
@@ -386,7 +386,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 85,88,Don't Stop The Music,Playa,Playa,rnb / soul,rnb,19971115,93,73,15,19971206
 86,90,You're The Inspiration,Peter Cetera Featuring Az Yet,Peter Cetera,pop,80s,19971018,92,77,10,19971206
 87,94,DJ Keep Playin' (Get Your Music On),Yvette Michele,Yvette Michele,rnb / soul,rnb,19971115,84,84,7,19971206
-88,NEW,Home,Depeche Mode,Depeche Mode,pop,electronic,19971206,88,88,3,19971206
+88,NEW,Home,Depeche Mode,Depeche Mode,electronic,electronic,19971206,88,88,3,19971206
 89,73,On My Own,Peach Union,Peach Union,pop,pop,19970920,50,39,13,19971206
 90,68,Love Is Alive,3Rd Party,3Rd Party,electronic,dance,19970927,90,61,11,19971206
 91,85,To The Moon And Back,Savage Garden,Savage Garden,pop,pop,19970726,57,37,20,19971206
@@ -468,7 +468,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 67,60,Never Make A Promise,Dru Hill,Dru Hill,rnb / soul,rnb,19970809,10,7,20,19971129
 68,65,Love Is Alive,3Rd Party,3Rd Party,electronic,dance,19970927,90,61,11,19971129
 69,88,All Of My Days,Changing Faces Featuring Jay-Z,Changing Faces,rnb / soul,rnb,19971108,88,65,12,19971129
-70,71,Around The World,Daft Punk,Daft Punk,pop,electronic,19970830,68,61,20,19971129
+70,71,Around The World,Daft Punk,Daft Punk,electronic,electronic,19970830,68,61,20,19971129
 71,76,Kiss The Rain,Billie Myers,Billie Myers,pop,pop,19971108,95,15,31,19971129
 72,67,Please,The Kinleys,The Kinleys,country / folk,country,19971004,91,67,12,19971129
 73,70,On My Own,Peach Union,Peach Union,pop,pop,19970920,50,39,13,19971129
@@ -569,7 +569,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 68,58,Avenues,Refugee Camp All Stars Featuring Pras With Ky-Mani,Refugee Camp All Stars,hip-hop,hip-hop,19970920,68,35,14,19971122
 69,75,Someone,Swv Featuring Puff Daddy,Swv,rnb / soul,rnb,19970726,31,19,20,19971122
 70,64,On My Own,Peach Union,Peach Union,pop,pop,19970920,50,39,13,19971122
-71,72,Around The World,Daft Punk,Daft Punk,pop,electronic,19970830,68,61,20,19971122
+71,72,Around The World,Daft Punk,Daft Punk,electronic,electronic,19970830,68,61,20,19971122
 72,59,Electric Barbarella,Duran Duran,Duran Duran,rock,new wave,19971011,65,52,9,19971122
 73,73,Gotham City,R. Kelly,R. Kelly,rnb / soul,rnb,19970719,17,9,20,19971122
 74,76,The Rest Of Mine,Trace Adkins,Trace Adkins,country / folk,country,19971018,93,70,16,19971122
@@ -670,7 +670,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 69,77,You're Not Alone,Olive,Olive,pop,trip-hop,19971025,81,56,20,19971115
 70,62,Do You Like This,Rome,Rome,pop,neofolk,19970802,72,31,20,19971115
 71,71,Please,The Kinleys,The Kinleys,country / folk,country,19971004,91,67,12,19971115
-72,64,Around The World,Daft Punk,Daft Punk,pop,electronic,19970830,68,61,20,19971115
+72,64,Around The World,Daft Punk,Daft Punk,electronic,electronic,19970830,68,61,20,19971115
 73,63,Gotham City,R. Kelly,R. Kelly,rnb / soul,rnb,19970719,17,9,20,19971115
 74,69,"After 12, Before 6",Sam Salter,Sam Salter,rnb / soul,rnb,19970823,67,51,16,19971115
 75,74,Someone,Swv Featuring Puff Daddy,Swv,rnb / soul,rnb,19970726,31,19,20,19971115
@@ -762,7 +762,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 61,63,Love Is Alive,3Rd Party,3Rd Party,electronic,dance,19970927,90,61,11,19971108
 62,57,Do You Like This,Rome,Rome,pop,neofolk,19970802,72,31,20,19971108
 63,58,Gotham City,R. Kelly,R. Kelly,rnb / soul,rnb,19970719,17,9,20,19971108
-64,64,Around The World,Daft Punk,Daft Punk,pop,electronic,19970830,68,61,20,19971108
+64,64,Around The World,Daft Punk,Daft Punk,electronic,electronic,19970830,68,61,20,19971108
 65,62,Don't Go,Le Click Featuring Kayo,Le Click,electronic,dance,19970927,79,62,15,19971108
 66,69,So Good,Davina,Davina,rnb / soul,soul,19971101,69,60,19,19971108
 67,59,Barbie Girl,Aqua,Aqua,pop,pop,19970906,7,7,14,19971108
@@ -862,7 +862,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 61,63,So Help Me Girl,Gary Barlow,Gary Barlow,pop,pop,19971018,76,44,20,19971101
 62,62,Don't Go,Le Click Featuring Kayo,Le Click,electronic,dance,19970927,79,62,15,19971101
 63,67,Love Is Alive,3Rd Party,3Rd Party,electronic,dance,19970927,90,61,11,19971101
-64,64,Around The World,Daft Punk,Daft Punk,pop,electronic,19970830,68,61,20,19971101
+64,64,Around The World,Daft Punk,Daft Punk,electronic,electronic,19970830,68,61,20,19971101
 65,58,C U When U Get There,Coolio Featuring 40 Thevz,Coolio,hip-hop,rap,19970705,50,12,20,19971101
 66,NEW,I Do,Lisa Loeb,Lisa Loeb,pop,female vocalists,19971101,66,17,22,19971101
 67,60,"After 12, Before 6",Sam Salter,Sam Salter,rnb / soul,rnb,19970823,67,51,16,19971101
@@ -943,7 +943,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 42,38,Return Of The Mack,Mark Morrison,Mark Morrison,rnb / soul,rnb,19970301,42,2,40,19971025
 43,34,Coco Jamboo,Mr. President,Mr. President,electronic,eurodance,19970802,45,21,20,19971025
 44,40,You Light Up My Life,Leann Rimes,Leann Rimes,country / folk,country,19970913,55,34,20,19971025
-45,44,ESPN Presents The Jock Jam,Various Artists,Various Artists,pop,electronic,19970510,83,31,25,19971025
+45,44,ESPN Presents The Jock Jam,Various Artists,Various Artists,electronic,electronic,19970510,83,31,25,19971025
 46,46,Have A Little Mercy,4.0,4.0,hip-hop,rap,19970823,76,46,20,19971025
 47,60,They Like It Slow,H-Town,H-Town,rnb / soul,rnb,19971011,70,35,20,19971025
 48,54,Heaven,Nu Flavor,Nu Flavor,rnb / soul,rnb,19971011,58,27,24,19971025
@@ -962,7 +962,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 61,67,A Broken Wing / Valentine,Martina Mcbride,Martina Mcbride,country / folk,country,19971004,87,50,20,19971025
 62,62,Don't Go,Le Click Featuring Kayo,Le Click,electronic,dance,19970927,79,62,15,19971025
 63,76,So Help Me Girl,Gary Barlow,Gary Barlow,pop,pop,19971018,76,44,20,19971025
-64,66,Around The World,Daft Punk,Daft Punk,pop,electronic,19970830,68,61,20,19971025
+64,66,Around The World,Daft Punk,Daft Punk,electronic,electronic,19970830,68,61,20,19971025
 65,65,The Way That You Talk,Jagged Edge Featuring Da Brat & Jd,Jagged Edge,rnb / soul,rnb,19970920,90,65,9,19971025
 66,63,I Can Love You,Mary J. Blige,Mary J. Blige,rnb / soul,rnb,19970726,32,28,19,19971025
 67,71,Love Is Alive,3Rd Party,3Rd Party,electronic,dance,19970927,90,61,11,19971025
@@ -1042,7 +1042,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 41,44,"Too Gone, Too Long",En Vogue,En Vogue,rnb / soul,rnb,19971011,44,33,17,19971018
 42,NEW,If I Could Teach The World,Bone Thugs-N-Harmony,Bone Thugs-N-Harmony,hip-hop,hip-hop,19971018,42,27,20,19971018
 43,29,Barbie Girl,Aqua,Aqua,pop,pop,19970906,7,7,14,19971018
-44,41,ESPN Presents The Jock Jam,Various Artists,Various Artists,pop,electronic,19970510,83,31,25,19971018
+44,41,ESPN Presents The Jock Jam,Various Artists,Various Artists,electronic,electronic,19970510,83,31,25,19971018
 45,47,Legend Of A Cowgirl,Imani Coppola,Imani Coppola,pop,pop,19970913,86,36,20,19971018
 46,54,Have A Little Mercy,4.0,4.0,hip-hop,rap,19970823,76,46,20,19971018
 47,43,Do You Like This,Rome,Rome,pop,neofolk,19970802,72,31,20,19971018
@@ -1064,7 +1064,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 63,60,I Can Love You,Mary J. Blige,Mary J. Blige,rnb / soul,rnb,19970726,32,28,19,19971018
 64,62,Big Bad Mamma,Foxy Brown Featuring Dru Hill,Foxy Brown,hip-hop,hip-hop,19970816,55,53,15,19971018
 65,78,The Way That You Talk,Jagged Edge Featuring Da Brat & Jd,Jagged Edge,rnb / soul,rnb,19970920,90,65,9,19971018
-66,61,Around The World,Daft Punk,Daft Punk,pop,electronic,19970830,68,61,20,19971018
+66,61,Around The World,Daft Punk,Daft Punk,electronic,electronic,19970830,68,61,20,19971018
 67,77,A Broken Wing / Valentine,Martina Mcbride,Martina Mcbride,country / folk,country,19971004,87,50,20,19971018
 68,68,Don't Say,Jon B,Jon B,rnb / soul,rnb,19970830,72,68,15,19971018
 69,69,As We Lay,Dana,Dana,pop,pop,19970830,73,59,11,19971018
@@ -1139,7 +1139,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 38,33,Coco Jamboo,Mr. President,Mr. President,electronic,eurodance,19970802,45,21,20,19971011
 39,45,On My Own,Peach Union,Peach Union,pop,pop,19970920,50,39,13,19971011
 40,46,Backyard Boogie,Mack 10,Mack 10,hip-hop,hip-hop,19970830,46,37,20,19971011
-41,41,ESPN Presents The Jock Jam,Various Artists,Various Artists,pop,electronic,19970510,83,31,25,19971011
+41,41,ESPN Presents The Jock Jam,Various Artists,Various Artists,electronic,electronic,19970510,83,31,25,19971011
 42,40,"For You I Will (From ""Space Jam"")",Monica,Monica,rnb / soul,rnb,19970315,9,4,32,19971011
 43,38,Do You Like This,Rome,Rome,pop,neofolk,19970802,72,31,20,19971011
 44,NEW,"Too Gone, Too Long",En Vogue,En Vogue,rnb / soul,rnb,19971011,44,33,17,19971011
@@ -1159,7 +1159,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 58,NEW,Heaven,Nu Flavor,Nu Flavor,rnb / soul,rnb,19971011,58,27,24,19971011
 59,54,"After 12, Before 6",Sam Salter,Sam Salter,rnb / soul,rnb,19970823,67,51,16,19971011
 60,55,I Can Love You,Mary J. Blige,Mary J. Blige,rnb / soul,rnb,19970726,32,28,19,19971011
-61,61,Around The World,Daft Punk,Daft Punk,pop,electronic,19970830,68,61,20,19971011
+61,61,Around The World,Daft Punk,Daft Punk,electronic,electronic,19970830,68,61,20,19971011
 62,58,Big Bad Mamma,Foxy Brown Featuring Dru Hill,Foxy Brown,hip-hop,hip-hop,19970816,55,53,15,19971011
 63,NEW,Love Gets Me Every Time,Shania Twain,Shania Twain,country / folk,country,19971011,63,25,20,19971011
 64,66,Don't Go,Le Click Featuring Kayo,Le Click,electronic,dance,19970927,79,62,15,19971011
@@ -1239,7 +1239,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 38,36,Do You Like This,Rome,Rome,pop,neofolk,19970802,72,31,20,19971004
 39,32,G.H.E.T.T.O.U.T.,Changing Faces,Changing Faces,rnb / soul,rnb,19970510,28,8,25,19971004
 40,33,"For You I Will (From ""Space Jam"")",Monica,Monica,rnb / soul,rnb,19970315,9,4,32,19971004
-41,44,ESPN Presents The Jock Jam,Various Artists,Various Artists,pop,electronic,19970510,83,31,25,19971004
+41,44,ESPN Presents The Jock Jam,Various Artists,Various Artists,electronic,electronic,19970510,83,31,25,19971004
 42,31,Someone,Swv Featuring Puff Daddy,Swv,rnb / soul,rnb,19970726,31,19,20,19971004
 43,38,Hard To Say I'm Sorry,Az Yet Featuring Peter Cetera,Az Yet,rnb / soul,rnb,19970222,37,8,34,19971004
 44,41,Say You'll Be There,Spice Girls,Spice Girls,pop,pop,19970524,5,3,21,19971004
@@ -1259,7 +1259,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 58,64,Big Bad Mamma,Foxy Brown Featuring Dru Hill,Foxy Brown,hip-hop,hip-hop,19970816,55,53,15,19971004
 59,57,To The Moon And Back,Savage Garden,Savage Garden,pop,pop,19970726,57,37,20,19971004
 60,63,When I Die,No Mercy,No Mercy,electronic,dance,19970607,85,41,20,19971004
-61,66,Around The World,Daft Punk,Daft Punk,pop,electronic,19970830,68,61,20,19971004
+61,66,Around The World,Daft Punk,Daft Punk,electronic,electronic,19970830,68,61,20,19971004
 62,68,Go The Distance,Michael Bolton,Michael Bolton,pop,pop,19970607,56,24,20,19971004
 63,56,More Than This,"10,000 Maniacs","10,000 Maniacs",pop,female vocalists,19970712,57,25,18,19971004
 64,65,As We Lay,Dana,Dana,pop,pop,19970830,73,59,11,19971004
@@ -1342,7 +1342,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 41,35,Say You'll Be There,Spice Girls,Spice Girls,pop,pop,19970524,5,3,21,19970927
 42,38,I Say A Little Prayer,Diana King,Diana King,reggae,reggae,19970719,91,38,20,19970927
 43,36,Gotham City,R. Kelly,R. Kelly,rnb / soul,rnb,19970719,17,9,20,19970927
-44,41,ESPN Presents The Jock Jam,Various Artists,Various Artists,pop,electronic,19970510,83,31,25,19970927
+44,41,ESPN Presents The Jock Jam,Various Artists,Various Artists,electronic,electronic,19970510,83,31,25,19970927
 45,50,On My Own,Peach Union,Peach Union,pop,pop,19970920,50,39,13,19970927
 46,68,Avenues,Refugee Camp All Stars Featuring Pras With Ky-Mani,Refugee Camp All Stars,hip-hop,hip-hop,19970920,68,35,14,19970927
 47,63,Tubthumping,Chumbawamba,Chumbawamba,rock,alternative,19970913,79,6,31,19970927
@@ -1364,7 +1364,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 63,55,When I Die,No Mercy,No Mercy,electronic,dance,19970607,85,41,20,19970927
 64,53,Big Bad Mamma,Foxy Brown Featuring Dru Hill,Foxy Brown,hip-hop,hip-hop,19970816,55,53,15,19970927
 65,59,As We Lay,Dana,Dana,pop,pop,19970830,73,59,11,19970927
-66,66,Around The World,Daft Punk,Daft Punk,pop,electronic,19970830,68,61,20,19970927
+66,66,Around The World,Daft Punk,Daft Punk,electronic,electronic,19970830,68,61,20,19970927
 67,57,Look Into My Eyes,Bone Thugs-N-Harmony,Bone Thugs-N-Harmony,hip-hop,hip-hop,19970621,4,4,20,19970927
 68,61,Go The Distance,Michael Bolton,Michael Bolton,pop,pop,19970607,56,24,20,19970927
 69,77,I'm Not A Fool,Immature,Immature,rnb / soul,rnb,19970913,92,69,8,19970927
@@ -1391,7 +1391,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 90,NEW,Love Is Alive,3Rd Party,3Rd Party,electronic,dance,19970927,90,61,11,19970927
 91,84,"Never, Never Gonna Give You Up",Lisa Stansfield,Lisa Stansfield,pop,pop,19970809,90,74,9,19970927
 92,89,Supernatural,Wild Orchid,Wild Orchid,pop,pop,19970823,77,70,6,19970927
-93,92,It's No Good,Depeche Mode,Depeche Mode,pop,electronic,19970517,47,38,20,19970927
+93,92,It's No Good,Depeche Mode,Depeche Mode,electronic,electronic,19970517,47,38,20,19970927
 94,88,Four Leaf Clover,Abra Moore,Abra Moore,pop,female vocalists,19970719,70,63,13,19970927
 95,86,Happy With You,Samantha Cole,Samantha Cole,pop,pop,19970830,78,78,5,19970927
 96,91,When You Talk About Love,Patti Labelle,Patti Labelle,rnb / soul,soul,19970719,79,56,12,19970927
@@ -1439,7 +1439,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 38,42,I Say A Little Prayer,Diana King,Diana King,reggae,reggae,19970719,91,38,20,19970920
 39,45,I Care 'Bout You,Milestone,Milestone,pop,punk,19970830,88,23,20,19970920
 40,41,Backyard Boogie,Mack 10,Mack 10,hip-hop,hip-hop,19970830,46,37,20,19970920
-41,37,ESPN Presents The Jock Jam,Various Artists,Various Artists,pop,electronic,19970510,83,31,25,19970920
+41,37,ESPN Presents The Jock Jam,Various Artists,Various Artists,electronic,electronic,19970510,83,31,25,19970920
 42,35,All I Want,702,702,rnb / soul,rnb,19970816,51,35,12,19970920
 43,40,Mmmbop,Hanson,Hanson,pop,pop,19970503,16,1,22,19970920
 44,43,I Want You,Savage Garden,Savage Garden,pop,pop,19970301,31,4,33,19970920
@@ -1464,7 +1464,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 63,79,Tubthumping,Chumbawamba,Chumbawamba,rock,alternative,19970913,79,6,31,19970920
 64,64,Have A Little Mercy,4.0,4.0,hip-hop,rap,19970823,76,46,20,19970920
 65,58,To Make You Feel My Love,Billy Joel,Billy Joel,rock,classic rock,19970816,54,50,9,19970920
-66,66,Around The World,Daft Punk,Daft Punk,pop,electronic,19970830,68,61,20,19970920
+66,66,Around The World,Daft Punk,Daft Punk,electronic,electronic,19970830,68,61,20,19970920
 67,59,Hole In My Soul,Aerosmith,Aerosmith,rock,rock,19970823,58,51,11,19970920
 68,NEW,Avenues,Refugee Camp All Stars Featuring Pras With Ky-Mani,Refugee Camp All Stars,hip-hop,hip-hop,19970920,68,35,14,19970920
 69,86,Legend Of A Cowgirl,Imani Coppola,Imani Coppola,pop,pop,19970913,86,36,20,19970920
@@ -1490,7 +1490,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 89,81,Supernatural,Wild Orchid,Wild Orchid,pop,pop,19970823,77,70,6,19970920
 90,NEW,The Way That You Talk,Jagged Edge Featuring Da Brat & Jd,Jagged Edge,rnb / soul,rnb,19970920,90,65,9,19970920
 91,80,When You Talk About Love,Patti Labelle,Patti Labelle,rnb / soul,soul,19970719,79,56,12,19970920
-92,90,It's No Good,Depeche Mode,Depeche Mode,pop,electronic,19970517,47,38,20,19970920
+92,90,It's No Good,Depeche Mode,Depeche Mode,electronic,electronic,19970517,47,38,20,19970920
 93,89,Can We,Swv,Swv,rnb / soul,rnb,19970802,75,75,15,19970920
 94,93,Can't Get You Out Of My Mind,Lil Suzy,Lil Suzy,pop,freestyle,19970802,90,79,10,19970920
 95,85,Butterfly Kisses,Raybon Bros,Raybon Bros,country / folk,country,19970614,62,22,17,19970920
@@ -1535,7 +1535,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 34,31,Do You Like This,Rome,Rome,pop,neofolk,19970802,72,31,20,19970913
 35,35,All I Want,702,702,rnb / soul,rnb,19970816,51,35,12,19970913
 36,34,Hard To Say I'm Sorry,Az Yet Featuring Peter Cetera,Az Yet,rnb / soul,rnb,19970222,37,8,34,19970913
-37,33,ESPN Presents The Jock Jam,Various Artists,Various Artists,pop,electronic,19970510,83,31,25,19970913
+37,33,ESPN Presents The Jock Jam,Various Artists,Various Artists,electronic,electronic,19970510,83,31,25,19970913
 38,30,More Than This,"10,000 Maniacs","10,000 Maniacs",pop,female vocalists,19970712,57,25,18,19970913
 39,59,My Love Is The Shhh!,Somethin' For The People Featuring Trina & Tamara,Somethin' For The People,rnb / soul,rnb,19970830,69,4,26,19970913
 40,39,Mmmbop,Hanson,Hanson,pop,pop,19970503,16,1,22,19970913
@@ -1564,7 +1564,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 63,58,Smile,Scarface Featuring 2Pac & Johnny P,Scarface,hip-hop,hip-hop,19970621,22,12,19,19970913
 64,75,Have A Little Mercy,4.0,4.0,hip-hop,rap,19970823,76,46,20,19970913
 65,57,Whatever,En Vogue,En Vogue,rnb / soul,rnb,19970719,19,16,15,19970913
-66,66,Around The World,Daft Punk,Daft Punk,pop,electronic,19970830,68,61,20,19970913
+66,66,Around The World,Daft Punk,Daft Punk,electronic,electronic,19970830,68,61,20,19970913
 67,60,Alone,Bee Gees,Bee Gees,disco,disco,19970607,34,28,20,19970913
 68,63,Fix,"Blackstreet, Dirty Ol' Bastard & Slash",Blackstreet,rnb / soul,rnb,19970802,81,58,10,19970913
 69,69,Down For Yours,Nastyboy Klick Featuring Roger Troutman,Nastyboy Klick,pop,chicano rap,19970809,87,69,17,19970913
@@ -1588,7 +1588,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 87,81,Smokin' Me Out,Warren G Featuring Ronald Isley,Warren G,hip-hop,hip-hop,19970621,47,35,14,19970913
 88,88,We Can Get Down,Myron,Myron,pop,pop,19970906,88,75,8,19970913
 89,86,Can We,Swv,Swv,rnb / soul,rnb,19970802,75,75,15,19970913
-90,84,It's No Good,Depeche Mode,Depeche Mode,pop,electronic,19970517,47,38,20,19970913
+90,84,It's No Good,Depeche Mode,Depeche Mode,electronic,electronic,19970517,47,38,20,19970913
 91,NEW,Men Of Steel,"Shaquille O'Neal, Ice Cube, B Real, Peter Gunz & Krs-One",Shaquille Oneal,hip-hop,hip-hop,19970913,91,82,7,19970913
 92,NEW,I'm Not A Fool,Immature,Immature,rnb / soul,rnb,19970913,92,69,8,19970913
 93,85,Can't Get You Out Of My Mind,Lil Suzy,Lil Suzy,pop,freestyle,19970802,90,79,10,19970913
@@ -1631,7 +1631,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 30,25,More Than This,"10,000 Maniacs","10,000 Maniacs",pop,female vocalists,19970712,57,25,18,19970906
 31,31,Do You Like This,Rome,Rome,pop,neofolk,19970802,72,31,20,19970906
 32,24,Say You'll Be There,Spice Girls,Spice Girls,pop,pop,19970524,5,3,21,19970906
-33,33,ESPN Presents The Jock Jam,Various Artists,Various Artists,pop,electronic,19970510,83,31,25,19970906
+33,33,ESPN Presents The Jock Jam,Various Artists,Various Artists,electronic,electronic,19970510,83,31,25,19970906
 34,30,Hard To Say I'm Sorry,Az Yet Featuring Peter Cetera,Az Yet,rnb / soul,rnb,19970222,37,8,34,19970906
 35,36,All I Want,702,702,rnb / soul,rnb,19970816,51,35,12,19970906
 36,34,Take It To The Streets,Rampage Featuring Billy Lawrence,Rampage,rock,thrash metal,19970719,47,34,17,19970906
@@ -1664,7 +1664,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 63,59,Fix,"Blackstreet, Dirty Ol' Bastard & Slash",Blackstreet,rnb / soul,rnb,19970802,81,58,10,19970906
 64,88,I Care 'Bout You,Milestone,Milestone,pop,punk,19970830,88,23,20,19970906
 65,58,You Bring Me Up,K-Ci & Jojo,K-Ci & Jojo,rnb / soul,rnb,19970614,29,26,20,19970906
-66,68,Around The World,Daft Punk,Daft Punk,pop,electronic,19970830,68,61,20,19970906
+66,68,Around The World,Daft Punk,Daft Punk,electronic,electronic,19970830,68,61,20,19970906
 67,55,Can't Let Go,Laurnea,Laurnea,pop,neo-soul,19970628,83,55,15,19970906
 68,80,No Tengo Dinero,Los Umbrellas,Los Umbrellas,pop,pop,19970830,80,42,27,19970906
 69,70,Down For Yours,Nastyboy Klick Featuring Roger Troutman,Nastyboy Klick,pop,chicano rap,19970809,87,69,17,19970906
@@ -1682,7 +1682,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 81,65,Smokin' Me Out,Warren G Featuring Ronald Isley,Warren G,hip-hop,hip-hop,19970621,47,35,14,19970906
 82,74,"Never, Never Gonna Give You Up",Lisa Stansfield,Lisa Stansfield,pop,pop,19970809,90,74,9,19970906
 83,78,Happy With You,Samantha Cole,Samantha Cole,pop,pop,19970830,78,78,5,19970906
-84,76,It's No Good,Depeche Mode,Depeche Mode,pop,electronic,19970517,47,38,20,19970906
+84,76,It's No Good,Depeche Mode,Depeche Mode,electronic,electronic,19970517,47,38,20,19970906
 85,87,Can't Get You Out Of My Mind,Lil Suzy,Lil Suzy,pop,freestyle,19970802,90,79,10,19970906
 86,79,Can We,Swv,Swv,rnb / soul,rnb,19970802,75,75,15,19970906
 87,81,Don't Wanna Be A Player,Joe,Joe,rnb / soul,rnb,19970503,45,21,20,19970906
@@ -1731,7 +1731,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 30,30,Hard To Say I'm Sorry,Az Yet Featuring Peter Cetera,Az Yet,rnb / soul,rnb,19970222,37,8,34,19970830
 31,36,Do You Like This,Rome,Rome,pop,neofolk,19970802,72,31,20,19970830
 32,31,Mmmbop,Hanson,Hanson,pop,pop,19970503,16,1,22,19970830
-33,32,ESPN Presents The Jock Jam,Various Artists,Various Artists,pop,electronic,19970510,83,31,25,19970830
+33,32,ESPN Presents The Jock Jam,Various Artists,Various Artists,electronic,electronic,19970510,83,31,25,19970830
 34,34,Take It To The Streets,Rampage Featuring Billy Lawrence,Rampage,rock,thrash metal,19970719,47,34,17,19970830
 35,33,I Can Love You,Mary J. Blige,Mary J. Blige,rnb / soul,rnb,19970726,32,28,19,19970830
 36,40,All I Want,702,702,rnb / soul,rnb,19970816,51,35,12,19970830
@@ -1766,7 +1766,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 65,59,Smokin' Me Out,Warren G Featuring Ronald Isley,Warren G,hip-hop,hip-hop,19970621,47,35,14,19970830
 66,56,When You Talk About Love,Patti Labelle,Patti Labelle,rnb / soul,soul,19970719,79,56,12,19970830
 67,61,Rhythm Of Love,Dj Company,Dj Company,electronic,eurodance,19970614,95,53,17,19970830
-68,NEW,Around The World,Daft Punk,Daft Punk,pop,electronic,19970830,68,61,20,19970830
+68,NEW,Around The World,Daft Punk,Daft Punk,electronic,electronic,19970830,68,61,20,19970830
 69,NEW,My Love Is The Shhh!,Somethin' For The People Featuring Trina & Tamara,Somethin' For The People,rnb / soul,rnb,19970830,69,4,26,19970830
 70,71,Down For Yours,Nastyboy Klick Featuring Roger Troutman,Nastyboy Klick,pop,chicano rap,19970809,87,69,17,19970830
 71,77,Supernatural,Wild Orchid,Wild Orchid,pop,pop,19970823,77,70,6,19970830
@@ -1774,7 +1774,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 73,NEW,As We Lay,Dana,Dana,pop,pop,19970830,73,59,11,19970830
 74,74,"Never, Never Gonna Give You Up",Lisa Stansfield,Lisa Stansfield,pop,pop,19970809,90,74,9,19970830
 75,76,Have A Little Mercy,4.0,4.0,hip-hop,rap,19970823,76,46,20,19970830
-76,68,It's No Good,Depeche Mode,Depeche Mode,pop,electronic,19970517,47,38,20,19970830
+76,68,It's No Good,Depeche Mode,Depeche Mode,electronic,electronic,19970517,47,38,20,19970830
 77,69,Sweet Sexy Thing,Nu Flavor Featuring Roger,Nu Flavor,rnb / soul,rnb,19970419,87,62,20,19970830
 78,NEW,Happy With You,Samantha Cole,Samantha Cole,pop,pop,19970830,78,78,5,19970830
 79,85,Can We,Swv,Swv,rnb / soul,rnb,19970802,75,75,15,19970830
@@ -1830,7 +1830,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 29,35,Coco Jamboo,Mr. President,Mr. President,electronic,eurodance,19970802,45,21,20,19970823
 30,27,Hard To Say I'm Sorry,Az Yet Featuring Peter Cetera,Az Yet,rnb / soul,rnb,19970222,37,8,34,19970823
 31,25,Mmmbop,Hanson,Hanson,pop,pop,19970503,16,1,22,19970823
-32,33,ESPN Presents The Jock Jam,Various Artists,Various Artists,pop,electronic,19970510,83,31,25,19970823
+32,33,ESPN Presents The Jock Jam,Various Artists,Various Artists,electronic,electronic,19970510,83,31,25,19970823
 33,28,I Can Love You,Mary J. Blige,Mary J. Blige,rnb / soul,rnb,19970726,32,28,19,19970823
 34,34,Take It To The Streets,Rampage Featuring Billy Lawrence,Rampage,rock,thrash metal,19970719,47,34,17,19970823
 35,37,Go The Distance,Michael Bolton,Michael Bolton,pop,pop,19970607,56,24,20,19970823
@@ -1866,7 +1866,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 65,66,Don't Wanna Be A Player,Joe,Joe,rnb / soul,rnb,19970503,45,21,20,19970823
 66,64,Can U Feel It,3Rd Party,3Rd Party,electronic,dance,19970503,96,43,20,19970823
 67,NEW,"After 12, Before 6",Sam Salter,Sam Salter,rnb / soul,rnb,19970823,67,51,16,19970823
-68,68,It's No Good,Depeche Mode,Depeche Mode,pop,electronic,19970517,47,38,20,19970823
+68,68,It's No Good,Depeche Mode,Depeche Mode,electronic,electronic,19970517,47,38,20,19970823
 69,71,Sweet Sexy Thing,Nu Flavor Featuring Roger,Nu Flavor,rnb / soul,rnb,19970419,87,62,20,19970823
 70,67,5 Miles To Empty,Brownstone,Brownstone,rnb / soul,rnb,19970517,61,39,16,19970823
 71,75,Down For Yours,Nastyboy Klick Featuring Roger Troutman,Nastyboy Klick,pop,chicano rap,19970809,87,69,17,19970823
@@ -1931,7 +1931,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 30,23,Whatever,En Vogue,En Vogue,rnb / soul,rnb,19970719,19,16,15,19970816
 31,35,More Than This,"10,000 Maniacs","10,000 Maniacs",pop,female vocalists,19970712,57,25,18,19970816
 32,26,Smile,Scarface Featuring 2Pac & Johnny P,Scarface,hip-hop,hip-hop,19970621,22,12,19,19970816
-33,31,ESPN Presents The Jock Jam,Various Artists,Various Artists,pop,electronic,19970510,83,31,25,19970816
+33,31,ESPN Presents The Jock Jam,Various Artists,Various Artists,electronic,electronic,19970510,83,31,25,19970816
 34,38,Take It To The Streets,Rampage Featuring Billy Lawrence,Rampage,rock,thrash metal,19970719,47,34,17,19970816
 35,40,Coco Jamboo,Mr. President,Mr. President,electronic,eurodance,19970802,45,21,20,19970816
 36,27,I Belong To You (Every Time I See Your Face),Rome,Rome,pop,neofolk,19970315,79,6,26,19970816
@@ -1966,7 +1966,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 65,70,That's Right,Dj Taz Featuring Raheem The Dream,Dj Taz,hip-hop,rap,19970405,98,51,20,19970816
 66,67,Don't Wanna Be A Player,Joe,Joe,rnb / soul,rnb,19970503,45,21,20,19970816
 67,71,5 Miles To Empty,Brownstone,Brownstone,rnb / soul,rnb,19970517,61,39,16,19970816
-68,69,It's No Good,Depeche Mode,Depeche Mode,pop,electronic,19970517,47,38,20,19970816
+68,69,It's No Good,Depeche Mode,Depeche Mode,electronic,electronic,19970517,47,38,20,19970816
 69,64,Last Night On Earth,U2,U2,rock,rock,19970719,57,57,8,19970816
 70,73,(Freak) And U Know It,Adina Howard,Adina Howard,rnb / soul,rnb,19970726,85,70,7,19970816
 71,72,Sweet Sexy Thing,Nu Flavor Featuring Roger,Nu Flavor,rnb / soul,rnb,19970419,87,62,20,19970816
@@ -2029,7 +2029,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 28,30,I Can Love You,Mary J. Blige,Mary J. Blige,rnb / soul,rnb,19970726,32,28,19,19970809
 29,29,Barely Breathing,Duncan Sheik,Duncan Sheik,country / folk,singer-songwriter,19961130,85,16,55,19970809
 30,40,Invisible Man,98 Degrees,98 Degrees,pop,pop,19970712,77,12,28,19970809
-31,33,ESPN Presents The Jock Jam,Various Artists,Various Artists,pop,electronic,19970510,83,31,25,19970809
+31,33,ESPN Presents The Jock Jam,Various Artists,Various Artists,electronic,electronic,19970510,83,31,25,19970809
 32,43,Up Jumps Da Boogie,Magoo & Timbaland,Magoo & Timbaland,hip-hop,hip-hop,19970719,83,12,20,19970809
 33,26,Go The Distance,Michael Bolton,Michael Bolton,pop,pop,19970607,56,24,20,19970809
 34,32,Cupid,112,112,rnb / soul,rnb,19970301,76,13,28,19970809
@@ -2054,7 +2054,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 53,53,Rhythm Of Love,Dj Company,Dj Company,electronic,eurodance,19970614,95,53,17,19970809
 54,59,I Say A Little Prayer,Diana King,Diana King,reggae,reggae,19970719,91,38,20,19970809
 55,55,6 Underground,Sneaker Pimps,Sneaker Pimps,pop,trip-hop,19970503,94,45,22,19970809
-56,52,Your Woman,White Town,White Town,pop,electronic,19970329,42,23,20,19970809
+56,52,Your Woman,White Town,White Town,electronic,electronic,19970329,42,23,20,19970809
 57,51,Hypnotize,The Notorious B.I.G.,The Notorious B.I.G.,hip-hop,hip-hop,19970426,2,1,20,19970809
 58,81,Fix,"Blackstreet, Dirty Ol' Bastard & Slash",Blackstreet,rnb / soul,rnb,19970802,81,58,10,19970809
 59,61,When You Talk About Love,Patti Labelle,Patti Labelle,rnb / soul,soul,19970719,79,56,12,19970809
@@ -2067,7 +2067,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 66,70,Four Leaf Clover,Abra Moore,Abra Moore,pop,female vocalists,19970719,70,63,13,19970809
 67,57,Don't Wanna Be A Player,Joe,Joe,rnb / soul,rnb,19970503,45,21,20,19970809
 68,60,Thinking Of You,Tony Toni Tone,Tony Toni Tone,rnb / soul,soul,19970510,44,22,20,19970809
-69,67,It's No Good,Depeche Mode,Depeche Mode,pop,electronic,19970517,47,38,20,19970809
+69,67,It's No Good,Depeche Mode,Depeche Mode,electronic,electronic,19970517,47,38,20,19970809
 70,73,That's Right,Dj Taz Featuring Raheem The Dream,Dj Taz,hip-hop,rap,19970405,98,51,20,19970809
 71,64,5 Miles To Empty,Brownstone,Brownstone,rnb / soul,rnb,19970517,61,39,16,19970809
 72,74,Sweet Sexy Thing,Nu Flavor Featuring Roger,Nu Flavor,rnb / soul,rnb,19970419,87,62,20,19970809
@@ -2131,7 +2131,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 30,32,I Can Love You,Mary J. Blige,Mary J. Blige,rnb / soul,rnb,19970726,32,28,19,19970802
 31,27,I Want You,Savage Garden,Savage Garden,pop,pop,19970301,31,4,33,19970802
 32,29,Cupid,112,112,rnb / soul,rnb,19970301,76,13,28,19970802
-33,34,ESPN Presents The Jock Jam,Various Artists,Various Artists,pop,electronic,19970510,83,31,25,19970802
+33,34,ESPN Presents The Jock Jam,Various Artists,Various Artists,electronic,electronic,19970510,83,31,25,19970802
 34,30,Where Have All The Cowboys Gone?,Paula Cole,Paula Cole,pop,female vocalists,19970412,17,8,21,19970802
 35,35,Alone,Bee Gees,Bee Gees,disco,disco,19970607,34,28,20,19970802
 36,33,Da' Dip,Freak Nasty,Freak Nasty,hip-hop,rap,19970104,84,15,33,19970802
@@ -2150,7 +2150,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 49,41,Un-Break My Heart,Toni Braxton,Toni Braxton,rnb / soul,rnb,19961026,22,1,42,19970802
 50,49,I Don't Want To / I Love Me Some Him,Toni Braxton,Toni Braxton,rnb / soul,rnb,19970329,56,19,20,19970802
 51,38,Hypnotize,The Notorious B.I.G.,The Notorious B.I.G.,hip-hop,hip-hop,19970426,2,1,20,19970802
-52,46,Your Woman,White Town,White Town,pop,electronic,19970329,42,23,20,19970802
+52,46,Your Woman,White Town,White Town,electronic,electronic,19970329,42,23,20,19970802
 53,54,Rhythm Of Love,Dj Company,Dj Company,electronic,eurodance,19970614,95,53,17,19970802
 54,50,I Wanna Be There,Blessid Union Of Souls,Blessid Union Of Souls,pop,pop,19970510,76,39,20,19970802
 55,55,6 Underground,Sneaker Pimps,Sneaker Pimps,pop,trip-hop,19970503,94,45,22,19970802
@@ -2165,7 +2165,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 64,53,5 Miles To Empty,Brownstone,Brownstone,rnb / soul,rnb,19970517,61,39,16,19970802
 65,68,One More Time,Real Mccoy,Real Mccoy,electronic,dance,19970329,33,27,20,19970802
 66,66,Things Just Ain't The Same,Deborah Cox,Deborah Cox,rnb / soul,rnb,19970705,79,56,17,19970802
-67,65,It's No Good,Depeche Mode,Depeche Mode,pop,electronic,19970517,47,38,20,19970802
+67,65,It's No Good,Depeche Mode,Depeche Mode,electronic,electronic,19970517,47,38,20,19970802
 68,61,Last Night On Earth,U2,U2,rock,rock,19970719,57,57,8,19970802
 69,58,We Trying To Stay Alive,Wyclef Jean Featuring Refugee Allstars,Wyclef Jean,hip-hop,hip-hop,19970614,48,45,12,19970802
 70,70,Four Leaf Clover,Abra Moore,Abra Moore,pop,female vocalists,19970719,70,63,13,19970802
@@ -2198,7 +2198,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 97,88,One More Day,New Edition,New Edition,rnb / soul,rnb,19970607,74,61,10,19970802
 98,89,For You,Kenny Lattimore,Kenny Lattimore,rnb / soul,soul,19970329,80,33,20,19970802
 99,99,Serenade,Shades,Shades,pop,chillwave,19970705,95,88,7,19970802
-100,98,Insomnia,Faithless,Faithless,pop,electronic,19970329,94,62,19,19970802
+100,98,Insomnia,Faithless,Faithless,electronic,electronic,19970329,94,62,19,19970802
 1,1,I'll Be Missing You,Puff Daddy & Faith Evans Featuring 112,Puff Daddy & Faith Evans,hip-hop,hip-hop,19970614,1,1,33,19970726
 2,2,Bitch,Meredith Brooks,Meredith Brooks,pop,female vocalists,19970426,57,2,30,19970726
 3,6,Quit Playing Games (With My Heart),Backstreet Boys,Backstreet Boys,pop,pop,19970628,24,2,43,19970726
@@ -2232,7 +2232,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 31,NEW,Someone,Swv Featuring Puff Daddy,Swv,rnb / soul,rnb,19970726,31,19,20,19970726
 32,NEW,I Can Love You,Mary J. Blige,Mary J. Blige,rnb / soul,rnb,19970726,32,28,19,19970726
 33,27,Da' Dip,Freak Nasty,Freak Nasty,hip-hop,rap,19970104,84,15,33,19970726
-34,37,ESPN Presents The Jock Jam,Various Artists,Various Artists,pop,electronic,19970510,83,31,25,19970726
+34,37,ESPN Presents The Jock Jam,Various Artists,Various Artists,electronic,electronic,19970510,83,31,25,19970726
 35,32,Alone,Bee Gees,Bee Gees,disco,disco,19970607,34,28,20,19970726
 36,34,You Bring Me Up,K-Ci & Jojo,K-Ci & Jojo,rnb / soul,rnb,19970614,29,26,20,19970726
 37,29,Butterfly Kisses,Raybon Bros,Raybon Bros,country / folk,country,19970614,62,22,17,19970726
@@ -2244,7 +2244,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 43,43,I Believe I Can Fly,R. Kelly,R. Kelly,rnb / soul,rnb,19961214,26,2,34,19970726
 44,52,More Than This,"10,000 Maniacs","10,000 Maniacs",pop,female vocalists,19970712,57,25,18,19970726
 45,47,Take It To The Streets,Rampage Featuring Billy Lawrence,Rampage,rock,thrash metal,19970719,47,34,17,19970726
-46,41,Your Woman,White Town,White Town,pop,electronic,19970329,42,23,20,19970726
+46,41,Your Woman,White Town,White Town,electronic,electronic,19970329,42,23,20,19970726
 47,60,Invisible Man,98 Degrees,98 Degrees,pop,pop,19970712,77,12,28,19970726
 48,48,Every Time I Close My Eyes,Babyface,Babyface,rnb / soul,rnb,19970201,19,6,26,19970726
 49,38,I Don't Want To / I Love Me Some Him,Toni Braxton,Toni Braxton,rnb / soul,rnb,19970329,56,19,20,19970726
@@ -2263,7 +2263,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 62,61,Full Of Smoke,Christion,Christion,rnb / soul,rnb,19970426,88,53,18,19970726
 63,79,When You Talk About Love,Patti Labelle,Patti Labelle,rnb / soul,soul,19970719,79,56,12,19970726
 64,83,Up Jumps Da Boogie,Magoo & Timbaland,Magoo & Timbaland,hip-hop,hip-hop,19970719,83,12,20,19970726
-65,58,It's No Good,Depeche Mode,Depeche Mode,pop,electronic,19970517,47,38,20,19970726
+65,58,It's No Good,Depeche Mode,Depeche Mode,electronic,electronic,19970517,47,38,20,19970726
 66,66,Things Just Ain't The Same,Deborah Cox,Deborah Cox,rnb / soul,rnb,19970705,79,56,17,19970726
 67,63,Everyday Is A Winding Road,Sheryl Crow,Sheryl Crow,pop,female vocalists,19970329,13,11,20,19970726
 68,65,One More Time,Real Mccoy,Real Mccoy,electronic,dance,19970329,33,27,20,19970726
@@ -2296,7 +2296,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 95,95,Love II Love,Damage,Damage,pop,psytrance,19970705,83,82,4,19970726
 96,93,The Perfect Drug,Nine Inch Nails,Nine Inch Nails,pop,industrial,19970531,48,46,9,19970726
 97,77,My Heart Is Calling,Whitney Houston,Whitney Houston,pop,pop,19970705,81,77,4,19970726
-98,97,Insomnia,Faithless,Faithless,pop,electronic,19970329,94,62,19,19970726
+98,97,Insomnia,Faithless,Faithless,electronic,electronic,19970329,94,62,19,19970726
 99,99,Serenade,Shades,Shades,pop,chillwave,19970705,95,88,7,19970726
 100,86,I Shot The Sheriff,Warren G,Warren G,hip-hop,hip-hop,19970322,34,20,19,19970726
 1,1,I'll Be Missing You,Puff Daddy & Faith Evans Featuring 112,Puff Daddy & Faith Evans,hip-hop,hip-hop,19970614,1,1,33,19970719
@@ -2335,11 +2335,11 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 34,30,You Bring Me Up,K-Ci & Jojo,K-Ci & Jojo,rnb / soul,rnb,19970614,29,26,20,19970719
 35,37,Smokin' Me Out,Warren G Featuring Ronald Isley,Warren G,hip-hop,hip-hop,19970621,47,35,14,19970719
 36,28,Hypnotize,The Notorious B.I.G.,The Notorious B.I.G.,hip-hop,hip-hop,19970426,2,1,20,19970719
-37,41,ESPN Presents The Jock Jam,Various Artists,Various Artists,pop,electronic,19970510,83,31,25,19970719
+37,41,ESPN Presents The Jock Jam,Various Artists,Various Artists,electronic,electronic,19970510,83,31,25,19970719
 38,36,I Don't Want To / I Love Me Some Him,Toni Braxton,Toni Braxton,rnb / soul,rnb,19970329,56,19,20,19970719
 39,33,Not Tonight,"Lil Kim Feat Da Brat, Left Eye, Missy Elliott & Angie Mar",Lil Kim Feat Da Brat,hip-hop,hip-hop,19970712,33,6,21,19970719
 40,38,Don't Wanna Be A Player,Joe,Joe,rnb / soul,rnb,19970503,45,21,20,19970719
-41,34,Your Woman,White Town,White Town,pop,electronic,19970329,42,23,20,19970719
+41,34,Your Woman,White Town,White Town,electronic,electronic,19970329,42,23,20,19970719
 42,47,Un-Break My Heart,Toni Braxton,Toni Braxton,rnb / soul,rnb,19961026,22,1,42,19970719
 43,35,I Believe I Can Fly,R. Kelly,R. Kelly,rnb / soul,rnb,19961214,26,2,34,19970719
 44,43,Call Me,Le Click,Le Click,electronic,dance,19970308,83,35,25,19970719
@@ -2356,7 +2356,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 55,55,6 Underground,Sneaker Pimps,Sneaker Pimps,pop,trip-hop,19970503,94,45,22,19970719
 56,58,That's Right,Dj Taz Featuring Raheem The Dream,Dj Taz,hip-hop,rap,19970405,98,51,20,19970719
 57,NEW,Last Night On Earth,U2,U2,rock,rock,19970719,57,57,8,19970719
-58,50,It's No Good,Depeche Mode,Depeche Mode,pop,electronic,19970517,47,38,20,19970719
+58,50,It's No Good,Depeche Mode,Depeche Mode,electronic,electronic,19970517,47,38,20,19970719
 59,59,When I Die,No Mercy,No Mercy,electronic,dance,19970607,85,41,20,19970719
 60,77,Invisible Man,98 Degrees,98 Degrees,pop,pop,19970712,77,12,28,19970719
 61,53,Full Of Smoke,Christion,Christion,rnb / soul,rnb,19970426,88,53,18,19970719
@@ -2395,7 +2395,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 94,86,Summertime Summertime,Corina,Corina,pop,freestyle,19970705,94,86,8,19970719
 95,82,Love II Love,Damage,Damage,pop,psytrance,19970705,83,82,4,19970719
 96,93,Blood On The Dance Floor,Michael Jackson,Michael Jackson,pop,pop,19970510,42,42,11,19970719
-97,90,Insomnia,Faithless,Faithless,pop,electronic,19970329,94,62,19,19970719
+97,90,Insomnia,Faithless,Faithless,electronic,electronic,19970329,94,62,19,19970719
 98,89,Gangstas Make The World Go Round,Westside Connection,Westside Connection,hip-hop,hip-hop,19970308,72,40,20,19970719
 99,88,Serenade,Shades,Shades,pop,chillwave,19970705,95,88,7,19970719
 100,91,Get Your Groove On,Gyrl,Gyrl,pop,90s,19970621,92,91,5,19970719
@@ -2432,14 +2432,14 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 31,50,C U When U Get There,Coolio Featuring 40 Thevz,Coolio,hip-hop,rap,19970705,50,12,20,19970712
 32,30,Alone,Bee Gees,Bee Gees,disco,disco,19970607,34,28,20,19970712
 33,NEW,Not Tonight,"Lil Kim Feat Da Brat, Left Eye, Missy Elliott & Angie Mar",Lil Kim Feat Da Brat,hip-hop,hip-hop,19970712,33,6,21,19970712
-34,33,Your Woman,White Town,White Town,pop,electronic,19970329,42,23,20,19970712
+34,33,Your Woman,White Town,White Town,electronic,electronic,19970329,42,23,20,19970712
 35,36,I Believe I Can Fly,R. Kelly,R. Kelly,rnb / soul,rnb,19961214,26,2,34,19970712
 36,31,I Don't Want To / I Love Me Some Him,Toni Braxton,Toni Braxton,rnb / soul,rnb,19970329,56,19,20,19970712
 37,37,Smokin' Me Out,Warren G Featuring Ronald Isley,Warren G,hip-hop,hip-hop,19970621,47,35,14,19970712
 38,29,Don't Wanna Be A Player,Joe,Joe,rnb / soul,rnb,19970503,45,21,20,19970712
 39,40,I Wanna Be There,Blessid Union Of Souls,Blessid Union Of Souls,pop,pop,19970510,76,39,20,19970712
 40,43,How Do I Live,Trisha Yearwood,Trisha Yearwood,country / folk,country,19970621,91,23,12,19970712
-41,32,ESPN Presents The Jock Jam,Various Artists,Various Artists,pop,electronic,19970510,83,31,25,19970712
+41,32,ESPN Presents The Jock Jam,Various Artists,Various Artists,electronic,electronic,19970510,83,31,25,19970712
 42,34,Thinking Of You,Tony Toni Tone,Tony Toni Tone,rnb / soul,soul,19970510,44,22,20,19970712
 43,35,Call Me,Le Click,Le Click,electronic,dance,19970308,83,35,25,19970712
 44,45,Can U Feel It,3Rd Party,3Rd Party,electronic,dance,19970503,96,43,20,19970712
@@ -2448,7 +2448,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 47,38,Un-Break My Heart,Toni Braxton,Toni Braxton,rnb / soul,rnb,19961026,22,1,42,19970712
 48,39,Every Time I Close My Eyes,Babyface,Babyface,rnb / soul,rnb,19970201,19,6,26,19970712
 49,41,5 Miles To Empty,Brownstone,Brownstone,rnb / soul,rnb,19970517,61,39,16,19970712
-50,49,It's No Good,Depeche Mode,Depeche Mode,pop,electronic,19970517,47,38,20,19970712
+50,49,It's No Good,Depeche Mode,Depeche Mode,electronic,electronic,19970517,47,38,20,19970712
 51,52,Everyday Is A Winding Road,Sheryl Crow,Sheryl Crow,pop,female vocalists,19970329,13,11,20,19970712
 52,53,One More Time,Real Mccoy,Real Mccoy,electronic,dance,19970329,33,27,20,19970712
 53,54,Full Of Smoke,Christion,Christion,rnb / soul,rnb,19970426,88,53,18,19970712
@@ -2488,7 +2488,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 87,NEW,Everything You Want,Ray J,Ray J,rnb / soul,rnb,19970712,87,83,6,19970712
 88,95,Serenade,Shades,Shades,pop,chillwave,19970705,95,88,7,19970712
 89,87,Gangstas Make The World Go Round,Westside Connection,Westside Connection,hip-hop,hip-hop,19970308,72,40,20,19970712
-90,88,Insomnia,Faithless,Faithless,pop,electronic,19970329,94,62,19,19970712
+90,88,Insomnia,Faithless,Faithless,electronic,electronic,19970329,94,62,19,19970712
 91,92,Get Your Groove On,Gyrl,Gyrl,pop,90s,19970621,92,91,5,19970712
 92,89,"Too Late, Too Soon",Jon Secada,Jon Secada,pop,pop,19970315,76,41,18,19970712
 93,91,Blood On The Dance Floor,Michael Jackson,Michael Jackson,pop,pop,19970510,42,42,11,19970712
@@ -2530,8 +2530,8 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 29,25,Don't Wanna Be A Player,Joe,Joe,rnb / soul,rnb,19970503,45,21,20,19970705
 30,28,Alone,Bee Gees,Bee Gees,disco,disco,19970607,34,28,20,19970705
 31,27,I Don't Want To / I Love Me Some Him,Toni Braxton,Toni Braxton,rnb / soul,rnb,19970329,56,19,20,19970705
-32,32,ESPN Presents The Jock Jam,Various Artists,Various Artists,pop,electronic,19970510,83,31,25,19970705
-33,29,Your Woman,White Town,White Town,pop,electronic,19970329,42,23,20,19970705
+32,32,ESPN Presents The Jock Jam,Various Artists,Various Artists,electronic,electronic,19970510,83,31,25,19970705
+33,29,Your Woman,White Town,White Town,electronic,electronic,19970329,42,23,20,19970705
 34,30,Thinking Of You,Tony Toni Tone,Tony Toni Tone,rnb / soul,soul,19970510,44,22,20,19970705
 35,35,Call Me,Le Click,Le Click,electronic,dance,19970308,83,35,25,19970705
 36,31,I Believe I Can Fly,R. Kelly,R. Kelly,rnb / soul,rnb,19961214,26,2,34,19970705
@@ -2547,7 +2547,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 46,47,We Trying To Stay Alive,Wyclef Jean Featuring Refugee Allstars,Wyclef Jean,hip-hop,hip-hop,19970614,48,45,12,19970705
 47,50,Gimme Some Love,Gina G,Gina G,electronic,dance,19970614,61,46,11,19970705
 48,34,My Baby Daddy,B-Rock & The Bizz,B-Rock & The Bizz,hip-hop,rap,19970419,24,10,19,19970705
-49,43,It's No Good,Depeche Mode,Depeche Mode,pop,electronic,19970517,47,38,20,19970705
+49,43,It's No Good,Depeche Mode,Depeche Mode,electronic,electronic,19970517,47,38,20,19970705
 50,NEW,C U When U Get There,Coolio Featuring 40 Thevz,Coolio,hip-hop,rap,19970705,50,12,20,19970705
 51,51,That's Right,Dj Taz Featuring Raheem The Dream,Dj Taz,hip-hop,rap,19970405,98,51,20,19970705
 52,48,Everyday Is A Winding Road,Sheryl Crow,Sheryl Crow,pop,female vocalists,19970329,13,11,20,19970705
@@ -2586,7 +2586,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 85,81,Just Another Day,John Mellencamp,John Mellencamp,rock,rock,19970222,53,46,20,19970705
 86,NEW,What's Stopping You,O'Jays,O'Jays,rnb / soul,soul,19970705,86,73,11,19970705
 87,84,Gangstas Make The World Go Round,Westside Connection,Westside Connection,hip-hop,hip-hop,19970308,72,40,20,19970705
-88,88,Insomnia,Faithless,Faithless,pop,electronic,19970329,94,62,19,19970705
+88,88,Insomnia,Faithless,Faithless,electronic,electronic,19970329,94,62,19,19970705
 89,78,"Too Late, Too Soon",Jon Secada,Jon Secada,pop,pop,19970315,76,41,18,19970705
 90,89,Jazzy Belle,Outkast,Outkast,hip-hop,hip-hop,19970412,59,52,14,19970705
 91,86,Blood On The Dance Floor,Michael Jackson,Michael Jackson,pop,pop,19970510,42,42,11,19970705
@@ -2627,10 +2627,10 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 26,26,You Bring Me Up,K-Ci & Jojo,K-Ci & Jojo,rnb / soul,rnb,19970614,29,26,20,19970628
 27,23,I Don't Want To / I Love Me Some Him,Toni Braxton,Toni Braxton,rnb / soul,rnb,19970329,56,19,20,19970628
 28,28,Alone,Bee Gees,Bee Gees,disco,disco,19970607,34,28,20,19970628
-29,27,Your Woman,White Town,White Town,pop,electronic,19970329,42,23,20,19970628
+29,27,Your Woman,White Town,White Town,electronic,electronic,19970329,42,23,20,19970628
 30,25,Thinking Of You,Tony Toni Tone,Tony Toni Tone,rnb / soul,soul,19970510,44,22,20,19970628
 31,31,I Believe I Can Fly,R. Kelly,R. Kelly,rnb / soul,rnb,19961214,26,2,34,19970628
-32,32,ESPN Presents The Jock Jam,Various Artists,Various Artists,pop,electronic,19970510,83,31,25,19970628
+32,32,ESPN Presents The Jock Jam,Various Artists,Various Artists,electronic,electronic,19970510,83,31,25,19970628
 33,36,Go The Distance,Michael Bolton,Michael Bolton,pop,pop,19970607,56,24,20,19970628
 34,29,My Baby Daddy,B-Rock & The Bizz,B-Rock & The Bizz,hip-hop,rap,19970419,24,10,19,19970628
 35,35,Call Me,Le Click,Le Click,electronic,dance,19970308,83,35,25,19970628
@@ -2641,7 +2641,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 40,33,Secret Garden,Bruce Springsteen,Bruce Springsteen,rock,rock,19970322,50,19,16,19970628
 41,34,Don't let Go (Love),En Vogue,En Vogue,rnb / soul,rnb,19961109,25,2,35,19970628
 42,45,I Wanna Be There,Blessid Union Of Souls,Blessid Union Of Souls,pop,pop,19970510,76,39,20,19970628
-43,43,It's No Good,Depeche Mode,Depeche Mode,pop,electronic,19970517,47,38,20,19970628
+43,43,It's No Good,Depeche Mode,Depeche Mode,electronic,electronic,19970517,47,38,20,19970628
 44,41,In My bed,Dru Hill,Dru Hill,rnb / soul,rnb,19970111,65,4,25,19970628
 45,38,Wannabe,Spice Girls,Spice Girls,pop,pop,19970125,11,1,23,19970628
 46,51,Can U Feel It,3Rd Party,3Rd Party,electronic,dance,19970503,96,43,20,19970628
@@ -2686,7 +2686,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 85,98,If U Stay Ready,Suga Free,Suga Free,rnb / soul,g-funk,19970524,94,79,13,19970628
 86,72,Blood On The Dance Floor,Michael Jackson,Michael Jackson,pop,pop,19970510,42,42,11,19970628
 87,80,Havana,Kenny G,Kenny G,jazz,jazz,19970308,95,66,19,19970628
-88,86,Insomnia,Faithless,Faithless,pop,electronic,19970329,94,62,19,19970628
+88,86,Insomnia,Faithless,Faithless,electronic,electronic,19970329,94,62,19,19970628
 89,81,Jazzy Belle,Outkast,Outkast,hip-hop,hip-hop,19970412,59,52,14,19970628
 90,76,Big Daddy,Heavy D,Heavy D,hip-hop,hip-hop,19970308,21,18,19,19970628
 91,78,In My Arms,Erasure,Erasure,pop,80s,19970524,55,55,8,19970628
@@ -2725,12 +2725,12 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 24,21,Don't Wanna Be A Player,Joe,Joe,rnb / soul,rnb,19970503,45,21,20,19970621
 25,22,Thinking Of You,Tony Toni Tone,Tony Toni Tone,rnb / soul,soul,19970510,44,22,20,19970621
 26,29,You Bring Me Up,K-Ci & Jojo,K-Ci & Jojo,rnb / soul,rnb,19970614,29,26,20,19970621
-27,25,Your Woman,White Town,White Town,pop,electronic,19970329,42,23,20,19970621
+27,25,Your Woman,White Town,White Town,electronic,electronic,19970329,42,23,20,19970621
 28,28,Alone,Bee Gees,Bee Gees,disco,disco,19970607,34,28,20,19970621
 29,24,My Baby Daddy,B-Rock & The Bizz,B-Rock & The Bizz,hip-hop,rap,19970419,24,10,19,19970621
 30,26,Un-Break My Heart,Toni Braxton,Toni Braxton,rnb / soul,rnb,19961026,22,1,42,19970621
 31,27,I Believe I Can Fly,R. Kelly,R. Kelly,rnb / soul,rnb,19961214,26,2,34,19970621
-32,34,ESPN Presents The Jock Jam,Various Artists,Various Artists,pop,electronic,19970510,83,31,25,19970621
+32,34,ESPN Presents The Jock Jam,Various Artists,Various Artists,electronic,electronic,19970510,83,31,25,19970621
 33,33,Secret Garden,Bruce Springsteen,Bruce Springsteen,rock,rock,19970322,50,19,16,19970621
 34,30,Don't let Go (Love),En Vogue,En Vogue,rnb / soul,rnb,19961109,25,2,35,19970621
 35,39,Call Me,Le Click,Le Click,electronic,dance,19970308,83,35,25,19970621
@@ -2741,7 +2741,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 40,32,Every Time I Close My Eyes,Babyface,Babyface,rnb / soul,rnb,19970201,19,6,26,19970621
 41,37,In My bed,Dru Hill,Dru Hill,rnb / soul,rnb,19970111,65,4,25,19970621
 42,35,Everyday Is A Winding Road,Sheryl Crow,Sheryl Crow,pop,female vocalists,19970329,13,11,20,19970621
-43,38,It's No Good,Depeche Mode,Depeche Mode,pop,electronic,19970517,47,38,20,19970621
+43,38,It's No Good,Depeche Mode,Depeche Mode,electronic,electronic,19970517,47,38,20,19970621
 44,44,Come On,Billy Lawrence Featuring Mc Lyte,Billy Lawrence,pop,chillout,19970412,75,44,19,19970621
 45,47,I Wanna Be There,Blessid Union Of Souls,Blessid Union Of Souls,pop,pop,19970510,76,39,20,19970621
 46,36,Staring At The Sun,U2,U2,rock,rock,19970426,30,26,18,19970621
@@ -2784,7 +2784,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 83,95,Rhythm Of Love,Dj Company,Dj Company,electronic,eurodance,19970614,95,53,17,19970621
 84,75,If Tomorrow Never Comes,Joose,Joose,pop,90s,19970322,84,51,17,19970621
 85,85,When I Die,No Mercy,No Mercy,electronic,dance,19970607,85,41,20,19970621
-86,79,Insomnia,Faithless,Faithless,pop,electronic,19970329,94,62,19,19970621
+86,79,Insomnia,Faithless,Faithless,electronic,electronic,19970329,94,62,19,19970621
 87,87,Da' Dip,Mc Luscious Featuring Kinsui,Mc Luscious,pop,miami bass,19970614,87,82,4,19970621
 88,86,"Step By Step (From ""The Preacher's Wife"")",Whitney Houston,Whitney Houston,pop,pop,19970315,22,15,17,19970621
 89,NEW,How Do I Live,Leann Rimes,Leann Rimes,country / folk,country,19970621,89,2,69,19970621
@@ -2823,7 +2823,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 22,22,Thinking Of You,Tony Toni Tone,Tony Toni Tone,rnb / soul,soul,19970510,44,22,20,19970614
 23,25,Do You Know (What It Takes),Robyn,Robyn,pop,pop,19970531,36,7,28,19970614
 24,20,My Baby Daddy,B-Rock & The Bizz,B-Rock & The Bizz,hip-hop,rap,19970419,24,10,19,19970614
-25,23,Your Woman,White Town,White Town,pop,electronic,19970329,42,23,20,19970614
+25,23,Your Woman,White Town,White Town,electronic,electronic,19970329,42,23,20,19970614
 26,24,Un-Break My Heart,Toni Braxton,Toni Braxton,rnb / soul,rnb,19961026,22,1,42,19970614
 27,27,I Believe I Can Fly,R. Kelly,R. Kelly,rnb / soul,rnb,19961214,26,2,34,19970614
 28,34,Alone,Bee Gees,Bee Gees,disco,disco,19970607,34,28,20,19970614
@@ -2832,11 +2832,11 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 31,28,Wannabe,Spice Girls,Spice Girls,pop,pop,19970125,11,1,23,19970614
 32,29,Every Time I Close My Eyes,Babyface,Babyface,rnb / soul,rnb,19970201,19,6,26,19970614
 33,26,Secret Garden,Bruce Springsteen,Bruce Springsteen,rock,rock,19970322,50,19,16,19970614
-34,40,ESPN Presents The Jock Jam,Various Artists,Various Artists,pop,electronic,19970510,83,31,25,19970614
+34,40,ESPN Presents The Jock Jam,Various Artists,Various Artists,electronic,electronic,19970510,83,31,25,19970614
 35,33,Everyday Is A Winding Road,Sheryl Crow,Sheryl Crow,pop,female vocalists,19970329,13,11,20,19970614
 36,31,Staring At The Sun,U2,U2,rock,rock,19970426,30,26,18,19970614
 37,32,In My bed,Dru Hill,Dru Hill,rnb / soul,rnb,19970111,65,4,25,19970614
-38,38,It's No Good,Depeche Mode,Depeche Mode,pop,electronic,19970517,47,38,20,19970614
+38,38,It's No Good,Depeche Mode,Depeche Mode,electronic,electronic,19970517,47,38,20,19970614
 39,48,Call Me,Le Click,Le Click,electronic,dance,19970308,83,35,25,19970614
 40,56,Go The Distance,Michael Bolton,Michael Bolton,pop,pop,19970607,56,24,20,19970614
 41,43,5 Miles To Empty,Brownstone,Brownstone,rnb / soul,rnb,19970517,61,39,16,19970614
@@ -2877,7 +2877,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 76,69,You Don't Have To Hurt No More,Mint Condition,Mint Condition,rnb / soul,rnb,19970329,52,32,16,19970614
 77,63,"Too Late, Too Soon",Jon Secada,Jon Secada,pop,pop,19970315,76,41,18,19970614
 78,71,Gangstas Make The World Go Round,Westside Connection,Westside Connection,hip-hop,hip-hop,19970308,72,40,20,19970614
-79,73,Insomnia,Faithless,Faithless,pop,electronic,19970329,94,62,19,19970614
+79,73,Insomnia,Faithless,Faithless,electronic,electronic,19970329,94,62,19,19970614
 80,76,Jazzy Belle,Outkast,Outkast,hip-hop,hip-hop,19970412,59,52,14,19970614
 81,81,Havana,Kenny G,Kenny G,jazz,jazz,19970308,95,66,19,19970614
 82,82,No One But You,Veronica Featuring Craig Mack,Veronica,pop,pop,19970531,85,66,13,19970614
@@ -2921,7 +2921,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 20,18,My Baby Daddy,B-Rock & The Bizz,B-Rock & The Bizz,hip-hop,rap,19970419,24,10,19,19970607
 21,21,Don't Wanna Be A Player,Joe,Joe,rnb / soul,rnb,19970503,45,21,20,19970607
 22,28,Thinking Of You,Tony Toni Tone,Tony Toni Tone,rnb / soul,soul,19970510,44,22,20,19970607
-23,24,Your Woman,White Town,White Town,pop,electronic,19970329,42,23,20,19970607
+23,24,Your Woman,White Town,White Town,electronic,electronic,19970329,42,23,20,19970607
 24,23,Un-Break My Heart,Toni Braxton,Toni Braxton,rnb / soul,rnb,19961026,22,1,42,19970607
 25,36,Do You Know (What It Takes),Robyn,Robyn,pop,pop,19970531,36,7,28,19970607
 26,22,Secret Garden,Bruce Springsteen,Bruce Springsteen,rock,rock,19970322,50,19,16,19970607
@@ -2936,9 +2936,9 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 35,33,For You,Kenny Lattimore,Kenny Lattimore,rnb / soul,soul,19970329,80,33,20,19970607
 36,35,Get It Together,702,702,rnb / soul,rnb,19970215,37,10,20,19970607
 37,37,All By Myself,Celine Dion,Celine Dion,pop,pop,19970329,7,4,20,19970607
-38,40,It's No Good,Depeche Mode,Depeche Mode,pop,electronic,19970517,47,38,20,19970607
+38,40,It's No Good,Depeche Mode,Depeche Mode,electronic,electronic,19970517,47,38,20,19970607
 39,39,Ooh Aah... Just A Little Bit,Gina G,Gina G,electronic,dance,19961130,77,12,30,19970607
-40,50,ESPN Presents The Jock Jam,Various Artists,Various Artists,pop,electronic,19970510,83,31,25,19970607
+40,50,ESPN Presents The Jock Jam,Various Artists,Various Artists,electronic,electronic,19970510,83,31,25,19970607
 41,38,Naked Eye,Luscious Jackson,Luscious Jackson,pop,female vocalists,19961221,96,36,26,19970607
 42,34,I'll Be,Foxy Brown Featuring Jay-Z,Foxy Brown,hip-hop,hip-hop,19970215,78,7,20,19970607
 43,52,5 Miles To Empty,Brownstone,Brownstone,rnb / soul,rnb,19970517,61,39,16,19970607
@@ -2971,7 +2971,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 70,71,Step Into A World (Rapture's Delight),Krs-One,Krs-One,hip-hop,hip-hop,19970405,95,70,13,19970607
 71,69,Gangstas Make The World Go Round,Westside Connection,Westside Connection,hip-hop,hip-hop,19970308,72,40,20,19970607
 72,79,6 Underground,Sneaker Pimps,Sneaker Pimps,pop,trip-hop,19970503,94,45,22,19970607
-73,72,Insomnia,Faithless,Faithless,pop,electronic,19970329,94,62,19,19970607
+73,72,Insomnia,Faithless,Faithless,electronic,electronic,19970329,94,62,19,19970607
 74,NEW,One More Day,New Edition,New Edition,rnb / soul,rnb,19970607,74,61,10,19970607
 75,70,Just Another Day,John Mellencamp,John Mellencamp,rock,rock,19970222,53,46,20,19970607
 76,76,Jazzy Belle,Outkast,Outkast,hip-hop,hip-hop,19970412,59,52,14,19970607
@@ -3022,7 +3022,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 21,22,Don't Wanna Be A Player,Joe,Joe,rnb / soul,rnb,19970503,45,21,20,19970531
 22,19,Secret Garden,Bruce Springsteen,Bruce Springsteen,rock,rock,19970322,50,19,16,19970531
 23,27,Un-Break My Heart,Toni Braxton,Toni Braxton,rnb / soul,rnb,19961026,22,1,42,19970531
-24,23,Your Woman,White Town,White Town,pop,electronic,19970329,42,23,20,19970531
+24,23,Your Woman,White Town,White Town,electronic,electronic,19970329,42,23,20,19970531
 25,20,Wannabe,Spice Girls,Spice Girls,pop,pop,19970125,11,1,23,19970531
 26,28,I Believe I Can Fly,R. Kelly,R. Kelly,rnb / soul,rnb,19961214,26,2,34,19970531
 27,25,Every Time I Close My Eyes,Babyface,Babyface,rnb / soul,rnb,19970201,19,6,26,19970531
@@ -3038,7 +3038,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 37,34,All By Myself,Celine Dion,Celine Dion,pop,pop,19970329,7,4,20,19970531
 38,38,Naked Eye,Luscious Jackson,Luscious Jackson,pop,female vocalists,19961221,96,36,26,19970531
 39,37,Ooh Aah... Just A Little Bit,Gina G,Gina G,electronic,dance,19961130,77,12,30,19970531
-40,47,It's No Good,Depeche Mode,Depeche Mode,pop,electronic,19970517,47,38,20,19970531
+40,47,It's No Good,Depeche Mode,Depeche Mode,electronic,electronic,19970517,47,38,20,19970531
 41,39,I Shot The Sheriff,Warren G,Warren G,hip-hop,hip-hop,19970322,34,20,19,19970531
 42,45,Until I Find You Again,Richard Marx,Richard Marx,pop,80s,19970419,73,42,20,19970531
 43,42,What's On Tonight,Montell Jordan,Montell Jordan,rnb / soul,rnb,19970215,56,21,20,19970531
@@ -3048,7 +3048,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 47,51,Come On,Billy Lawrence Featuring Mc Lyte,Billy Lawrence,pop,chillout,19970412,75,44,19,19970531
 48,NEW,The Perfect Drug,Nine Inch Nails,Nine Inch Nails,pop,industrial,19970531,48,46,9,19970531
 49,44,Nobody,Keith Sweat Featuring Athena Cage,Keith Sweat,rnb / soul,rnb,19961005,37,3,35,19970531
-50,53,ESPN Presents The Jock Jam,Various Artists,Various Artists,pop,electronic,19970510,83,31,25,19970531
+50,53,ESPN Presents The Jock Jam,Various Artists,Various Artists,electronic,electronic,19970510,83,31,25,19970531
 51,57,I Wanna Be There,Blessid Union Of Souls,Blessid Union Of Souls,pop,pop,19970510,76,39,20,19970531
 52,58,5 Miles To Empty,Brownstone,Brownstone,rnb / soul,rnb,19970517,61,39,16,19970531
 53,50,"Too Late, Too Soon",Jon Secada,Jon Secada,pop,pop,19970315,76,41,18,19970531
@@ -3070,9 +3070,9 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 69,59,Gangstas Make The World Go Round,Westside Connection,Westside Connection,hip-hop,hip-hop,19970308,72,40,20,19970531
 70,70,Just Another Day,John Mellencamp,John Mellencamp,rock,rock,19970222,53,46,20,19970531
 71,73,Step Into A World (Rapture's Delight),Krs-One,Krs-One,hip-hop,hip-hop,19970405,95,70,13,19970531
-72,75,Insomnia,Faithless,Faithless,pop,electronic,19970329,94,62,19,19970531
+72,75,Insomnia,Faithless,Faithless,electronic,electronic,19970329,94,62,19,19970531
 73,63,Head Over Heels,Allure Featuring Nas,Allure,electronic,trance,19970315,35,35,15,19970531
-74,74,Firestarter,Prodigy,Prodigy,pop,electronic,19970118,84,30,20,19970531
+74,74,Firestarter,Prodigy,Prodigy,electronic,electronic,19970118,84,30,20,19970531
 75,62,Ghetto Love,Da Brat Featuring T-Boz,Da Brat,hip-hop,hip-hop,19970322,22,16,15,19970531
 76,69,Jazzy Belle,Outkast,Outkast,hip-hop,hip-hop,19970412,59,52,14,19970531
 77,68,One Night At A Time,George Strait,George Strait,country / folk,country,19970405,94,59,12,19970531
@@ -3121,7 +3121,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 20,13,Wannabe,Spice Girls,Spice Girls,pop,pop,19970125,11,1,23,19970524
 21,22,I Don't Want To / I Love Me Some Him,Toni Braxton,Toni Braxton,rnb / soul,rnb,19970329,56,19,20,19970524
 22,29,Don't Wanna Be A Player,Joe,Joe,rnb / soul,rnb,19970503,45,21,20,19970524
-23,28,Your Woman,White Town,White Town,pop,electronic,19970329,42,23,20,19970524
+23,28,Your Woman,White Town,White Town,electronic,electronic,19970329,42,23,20,19970524
 24,32,Bitch,Meredith Brooks,Meredith Brooks,pop,female vocalists,19970426,57,2,30,19970524
 25,18,Every Time I Close My Eyes,Babyface,Babyface,rnb / soul,rnb,19970201,19,6,26,19970524
 26,26,Staring At The Sun,U2,U2,rock,rock,19970426,30,26,18,19970524
@@ -3145,13 +3145,13 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 44,45,Nobody,Keith Sweat Featuring Athena Cage,Keith Sweat,rnb / soul,rnb,19961005,37,3,35,19970524
 45,50,Until I Find You Again,Richard Marx,Richard Marx,pop,80s,19970419,73,42,20,19970524
 46,42,You Don't Have To Hurt No More,Mint Condition,Mint Condition,rnb / soul,rnb,19970329,52,32,16,19970524
-47,47,It's No Good,Depeche Mode,Depeche Mode,pop,electronic,19970517,47,38,20,19970524
+47,47,It's No Good,Depeche Mode,Depeche Mode,electronic,electronic,19970517,47,38,20,19970524
 48,44,Blood On The Dance Floor,Michael Jackson,Michael Jackson,pop,pop,19970510,42,42,11,19970524
 49,49,Let It Go,Ray J,Ray J,rnb / soul,rnb,19970308,55,25,20,19970524
 50,46,"Too Late, Too Soon",Jon Secada,Jon Secada,pop,pop,19970315,76,41,18,19970524
 51,52,Come On,Billy Lawrence Featuring Mc Lyte,Billy Lawrence,pop,chillout,19970412,75,44,19,19970524
 52,48,Here's Your Sign (Get The Picture),Bill Engvall & Travis Tritt,Bill Engvall,pop,comedy,19970222,94,43,20,19970524
-53,54,ESPN Presents The Jock Jam,Various Artists,Various Artists,pop,electronic,19970510,83,31,25,19970524
+53,54,ESPN Presents The Jock Jam,Various Artists,Various Artists,electronic,electronic,19970510,83,31,25,19970524
 54,56,Call Me,Le Click,Le Click,electronic,dance,19970308,83,35,25,19970524
 55,NEW,In My Arms,Erasure,Erasure,pop,80s,19970524,55,55,8,19970524
 56,53,If Tomorrow Never Comes,Joose,Joose,pop,90s,19970322,84,51,17,19970524
@@ -3172,8 +3172,8 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 71,72,That's Right,Dj Taz Featuring Raheem The Dream,Dj Taz,hip-hop,rap,19970405,98,51,20,19970524
 72,65,Silent All These Years,Tori Amos,Tori Amos,pop,female vocalists,19970322,71,65,20,19970524
 73,73,Step Into A World (Rapture's Delight),Krs-One,Krs-One,hip-hop,hip-hop,19970405,95,70,13,19970524
-74,69,Firestarter,Prodigy,Prodigy,pop,electronic,19970118,84,30,20,19970524
-75,62,Insomnia,Faithless,Faithless,pop,electronic,19970329,94,62,19,19970524
+74,69,Firestarter,Prodigy,Prodigy,electronic,electronic,19970118,84,30,20,19970524
+75,62,Insomnia,Faithless,Faithless,electronic,electronic,19970329,94,62,19,19970524
 76,68,Havana,Kenny G,Kenny G,jazz,jazz,19970308,95,66,19,19970524
 77,86,Full Of Smoke,Christion,Christion,rnb / soul,rnb,19970426,88,53,18,19970524
 78,71,The Theme (It's Party Time),Tracey Lee,Tracey Lee,pop,underground hip-hop,19970215,88,55,18,19970524
@@ -3226,7 +3226,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 25,24,I Believe I Can Fly,R. Kelly,R. Kelly,rnb / soul,rnb,19961214,26,2,34,19970517
 26,26,Staring At The Sun,U2,U2,rock,rock,19970426,30,26,18,19970517
 27,23,Everyday Is A Winding Road,Sheryl Crow,Sheryl Crow,pop,female vocalists,19970329,13,11,20,19970517
-28,27,Your Woman,White Town,White Town,pop,electronic,19970329,42,23,20,19970517
+28,27,Your Woman,White Town,White Town,electronic,electronic,19970329,42,23,20,19970517
 29,34,Don't Wanna Be A Player,Joe,Joe,rnb / soul,rnb,19970503,45,21,20,19970517
 30,32,Get It Together,702,702,rnb / soul,rnb,19970215,37,10,20,19970517
 31,31,Don't let Go (Love),En Vogue,En Vogue,rnb / soul,rnb,19961109,25,2,35,19970517
@@ -3245,14 +3245,14 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 44,42,Blood On The Dance Floor,Michael Jackson,Michael Jackson,pop,pop,19970510,42,42,11,19970517
 45,45,Nobody,Keith Sweat Featuring Athena Cage,Keith Sweat,rnb / soul,rnb,19961005,37,3,35,19970517
 46,41,"Too Late, Too Soon",Jon Secada,Jon Secada,pop,pop,19970315,76,41,18,19970517
-47,NEW,It's No Good,Depeche Mode,Depeche Mode,pop,electronic,19970517,47,38,20,19970517
+47,NEW,It's No Good,Depeche Mode,Depeche Mode,electronic,electronic,19970517,47,38,20,19970517
 48,48,Here's Your Sign (Get The Picture),Bill Engvall & Travis Tritt,Bill Engvall,pop,comedy,19970222,94,43,20,19970517
 49,46,Let It Go,Ray J,Ray J,rnb / soul,rnb,19970308,55,25,20,19970517
 50,53,Until I Find You Again,Richard Marx,Richard Marx,pop,80s,19970419,73,42,20,19970517
 51,49,Gangstas Make The World Go Round,Westside Connection,Westside Connection,hip-hop,hip-hop,19970308,72,40,20,19970517
 52,57,Come On,Billy Lawrence Featuring Mc Lyte,Billy Lawrence,pop,chillout,19970412,75,44,19,19970517
 53,51,If Tomorrow Never Comes,Joose,Joose,pop,90s,19970322,84,51,17,19970517
-54,83,ESPN Presents The Jock Jam,Various Artists,Various Artists,pop,electronic,19970510,83,31,25,19970517
+54,83,ESPN Presents The Jock Jam,Various Artists,Various Artists,electronic,electronic,19970510,83,31,25,19970517
 55,54,Ghetto Love,Da Brat Featuring T-Boz,Da Brat,hip-hop,hip-hop,19970322,22,16,15,19970517
 56,58,Call Me,Le Click,Le Click,electronic,dance,19970308,83,35,25,19970517
 57,55,Head Over Heels,Allure Featuring Nas,Allure,electronic,trance,19970315,35,35,15,19970517
@@ -3260,14 +3260,14 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 59,66,One Night At A Time,George Strait,George Strait,country / folk,country,19970405,94,59,12,19970517
 60,56,"Step By Step (From ""The Preacher's Wife"")",Whitney Houston,Whitney Houston,pop,pop,19970315,22,15,17,19970517
 61,NEW,5 Miles To Empty,Brownstone,Brownstone,rnb / soul,rnb,19970517,61,39,16,19970517
-62,63,Insomnia,Faithless,Faithless,pop,electronic,19970329,94,62,19,19970517
+62,63,Insomnia,Faithless,Faithless,electronic,electronic,19970329,94,62,19,19970517
 63,76,I Wanna Be There,Blessid Union Of Souls,Blessid Union Of Souls,pop,pop,19970510,76,39,20,19970517
 64,NEW,If I Could Change,"Master P Featuring Steady Mobb'N, Mia X, Mo B. Dick & O'Dell",Master P,hip-hop,rap,19970517,64,60,15,19970517
 65,75,Silent All These Years,Tori Amos,Tori Amos,pop,female vocalists,19970322,71,65,20,19970517
 66,61,Talk To Me,Wild Orchid,Wild Orchid,pop,pop,19970301,81,48,15,19970517
 67,65,Just Another Day,John Mellencamp,John Mellencamp,rock,rock,19970222,53,46,20,19970517
 68,69,Havana,Kenny G,Kenny G,jazz,jazz,19970308,95,66,19,19970517
-69,64,Firestarter,Prodigy,Prodigy,pop,electronic,19970118,84,30,20,19970517
+69,64,Firestarter,Prodigy,Prodigy,electronic,electronic,19970118,84,30,20,19970517
 70,82,A Little Bit Of Ecstasy,Jocelyn Enriquez,Jocelyn Enriquez,pop,freestyle,19970405,81,55,20,19970517
 71,67,The Theme (It's Party Time),Tracey Lee,Tracey Lee,pop,underground hip-hop,19970215,88,55,18,19970517
 72,79,That's Right,Dj Taz Featuring Raheem The Dream,Dj Taz,hip-hop,rap,19970405,98,51,20,19970517
@@ -3325,7 +3325,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 24,21,I Believe I Can Fly,R. Kelly,R. Kelly,rnb / soul,rnb,19961214,26,2,34,19970510
 25,28,I Don't Want To / I Love Me Some Him,Toni Braxton,Toni Braxton,rnb / soul,rnb,19970329,56,19,20,19970510
 26,30,Staring At The Sun,U2,U2,rock,rock,19970426,30,26,18,19970510
-27,23,Your Woman,White Town,White Town,pop,electronic,19970329,42,23,20,19970510
+27,23,Your Woman,White Town,White Town,electronic,electronic,19970329,42,23,20,19970510
 28,NEW,G.H.E.T.T.O.U.T.,Changing Faces,Changing Faces,rnb / soul,rnb,19970510,28,8,25,19970510
 29,26,Big Daddy,Heavy D,Heavy D,hip-hop,hip-hop,19970308,21,18,19,19970510
 30,24,I Shot The Sheriff,Warren G,Warren G,hip-hop,hip-hop,19970322,34,20,19,19970510
@@ -3361,8 +3361,8 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 60,54,Falling In Love (Is Hard On The Knees),Aerosmith,Aerosmith,rock,rock,19970301,62,35,15,19970510
 61,57,Talk To Me,Wild Orchid,Wild Orchid,pop,pop,19970301,81,48,15,19970510
 62,55,I'm Not Feeling You,Yvette Michele,Yvette Michele,rnb / soul,rnb,19970222,73,44,14,19970510
-63,65,Insomnia,Faithless,Faithless,pop,electronic,19970329,94,62,19,19970510
-64,60,Firestarter,Prodigy,Prodigy,pop,electronic,19970118,84,30,20,19970510
+63,65,Insomnia,Faithless,Faithless,electronic,electronic,19970329,94,62,19,19970510
+64,60,Firestarter,Prodigy,Prodigy,electronic,electronic,19970118,84,30,20,19970510
 65,61,Just Another Day,John Mellencamp,John Mellencamp,rock,rock,19970222,53,46,20,19970510
 66,87,One Night At A Time,George Strait,George Strait,country / folk,country,19970405,94,59,12,19970510
 67,64,The Theme (It's Party Time),Tracey Lee,Tracey Lee,pop,underground hip-hop,19970215,88,55,18,19970510
@@ -3381,7 +3381,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 80,85,Feelin' It,Jay-Z,Jay-Z,hip-hop,hip-hop,19970503,85,79,9,19970510
 81,71,"It's Alright, It's OK",Leah Andreone,Leah Andreone,pop,female vocalists,19970125,79,57,20,19970510
 82,74,A Little Bit Of Ecstasy,Jocelyn Enriquez,Jocelyn Enriquez,pop,freestyle,19970405,81,55,20,19970510
-83,NEW,ESPN Presents The Jock Jam,Various Artists,Various Artists,pop,electronic,19970510,83,31,25,19970510
+83,NEW,ESPN Presents The Jock Jam,Various Artists,Various Artists,electronic,electronic,19970510,83,31,25,19970510
 84,69,On & On,Erykah Badu,Erykah Badu,rnb / soul,soul,19970125,33,12,19,19970510
 85,73,Don't Cry For Me Argentina,Madonna,Madonna,pop,pop,19970222,17,8,16,19970510
 86,70,Sho Nuff,Tela Featuring Eightball & Mjg,Tela,hip-hop,rap,19970329,65,58,8,19970510
@@ -3421,7 +3421,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 20,21,Cupid,112,112,rnb / soul,rnb,19970301,76,13,28,19970503
 21,17,I Believe I Can Fly,R. Kelly,R. Kelly,rnb / soul,rnb,19961214,26,2,34,19970503
 22,23,Secret Garden,Bruce Springsteen,Bruce Springsteen,rock,rock,19970322,50,19,16,19970503
-23,25,Your Woman,White Town,White Town,pop,electronic,19970329,42,23,20,19970503
+23,25,Your Woman,White Town,White Town,electronic,electronic,19970329,42,23,20,19970503
 24,29,I Shot The Sheriff,Warren G,Warren G,hip-hop,hip-hop,19970322,34,20,19,19970503
 25,26,Da' Dip,Freak Nasty,Freak Nasty,hip-hop,rap,19970104,84,15,33,19970503
 26,22,Big Daddy,Heavy D,Heavy D,hip-hop,hip-hop,19970308,21,18,19,19970503
@@ -3458,12 +3458,12 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 57,51,Talk To Me,Wild Orchid,Wild Orchid,pop,pop,19970301,81,48,15,19970503
 58,64,Call Me,Le Click,Le Click,electronic,dance,19970308,83,35,25,19970503
 59,54,I Believe In You And Me,Whitney Houston,Whitney Houston,pop,pop,19961228,7,4,20,19970503
-60,60,Firestarter,Prodigy,Prodigy,pop,electronic,19970118,84,30,20,19970503
+60,60,Firestarter,Prodigy,Prodigy,electronic,electronic,19970118,84,30,20,19970503
 61,62,Just Another Day,John Mellencamp,John Mellencamp,rock,rock,19970222,53,46,20,19970503
 62,56,Say... If You Feel Alright,Crystal Waters,Crystal Waters,electronic,dance,19970222,57,40,15,19970503
 63,52,Please Don't Go,No Mercy,No Mercy,electronic,dance,19970208,66,21,18,19970503
 64,61,The Theme (It's Party Time),Tracey Lee,Tracey Lee,pop,underground hip-hop,19970215,88,55,18,19970503
-65,70,Insomnia,Faithless,Faithless,pop,electronic,19970329,94,62,19,19970503
+65,70,Insomnia,Faithless,Faithless,electronic,electronic,19970329,94,62,19,19970503
 66,66,Havana,Kenny G,Kenny G,jazz,jazz,19970308,95,66,19,19970503
 67,67,Come On,Billy Lawrence Featuring Mc Lyte,Billy Lawrence,pop,chillout,19970412,75,44,19,19970503
 68,73,Until I Find You Again,Richard Marx,Richard Marx,pop,80s,19970419,73,42,20,19970503
@@ -3523,7 +3523,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 22,18,Big Daddy,Heavy D,Heavy D,hip-hop,hip-hop,19970308,21,18,19,19970426
 23,28,Secret Garden,Bruce Springsteen,Bruce Springsteen,rock,rock,19970322,50,19,16,19970426
 24,17,Don't let Go (Love),En Vogue,En Vogue,rnb / soul,rnb,19961109,25,2,35,19970426
-25,26,Your Woman,White Town,White Town,pop,electronic,19970329,42,23,20,19970426
+25,26,Your Woman,White Town,White Town,electronic,electronic,19970329,42,23,20,19970426
 26,23,Da' Dip,Freak Nasty,Freak Nasty,hip-hop,rap,19970104,84,15,33,19970426
 27,27,One More Time,Real Mccoy,Real Mccoy,electronic,dance,19970329,33,27,20,19970426
 28,30,I Don't Want To / I Love Me Some Him,Toni Braxton,Toni Braxton,rnb / soul,rnb,19970329,56,19,20,19970426
@@ -3558,7 +3558,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 57,NEW,Bitch,Meredith Brooks,Meredith Brooks,pop,female vocalists,19970426,57,2,30,19970426
 58,58,Sho Nuff,Tela Featuring Eightball & Mjg,Tela,hip-hop,rap,19970329,65,58,8,19970426
 59,60,If Tomorrow Never Comes,Joose,Joose,pop,90s,19970322,84,51,17,19970426
-60,57,Firestarter,Prodigy,Prodigy,pop,electronic,19970118,84,30,20,19970426
+60,57,Firestarter,Prodigy,Prodigy,electronic,electronic,19970118,84,30,20,19970426
 61,59,The Theme (It's Party Time),Tracey Lee,Tracey Lee,pop,underground hip-hop,19970215,88,55,18,19970426
 62,61,Just Another Day,John Mellencamp,John Mellencamp,rock,rock,19970222,53,46,20,19970426
 63,54,On & On,Erykah Badu,Erykah Badu,rnb / soul,soul,19970125,33,12,19,19970426
@@ -3568,7 +3568,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 67,67,Come On,Billy Lawrence Featuring Mc Lyte,Billy Lawrence,pop,chillout,19970412,75,44,19,19970426
 68,53,Don't Cry For Me Argentina,Madonna,Madonna,pop,pop,19970222,17,8,16,19970426
 69,62,"It's Alright, It's OK",Leah Andreone,Leah Andreone,pop,female vocalists,19970125,79,57,20,19970426
-70,71,Insomnia,Faithless,Faithless,pop,electronic,19970329,94,62,19,19970426
+70,71,Insomnia,Faithless,Faithless,electronic,electronic,19970329,94,62,19,19970426
 71,74,Don't Stop Movin',Livin' Joy,Livin' Joy,electronic,dance,19970125,92,67,20,19970426
 72,63,Do G's Get To Go To Heaven,Richie Rich,Richie Rich,rnb / soul,g-funk,19970301,79,57,15,19970426
 73,73,Until I Find You Again,Richard Marx,Richard Marx,pop,80s,19970419,73,42,20,19970426
@@ -3624,7 +3624,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 23,23,Da' Dip,Freak Nasty,Freak Nasty,hip-hop,rap,19970104,84,15,33,19970419
 24,NEW,My Baby Daddy,B-Rock & The Bizz,B-Rock & The Bizz,hip-hop,rap,19970419,24,10,19,19970419
 25,25,Let It Go,Ray J,Ray J,rnb / soul,rnb,19970308,55,25,20,19970419
-26,31,Your Woman,White Town,White Town,pop,electronic,19970329,42,23,20,19970419
+26,31,Your Woman,White Town,White Town,electronic,electronic,19970329,42,23,20,19970419
 27,27,One More Time,Real Mccoy,Real Mccoy,electronic,dance,19970329,33,27,20,19970419
 28,33,Secret Garden,Bruce Springsteen,Bruce Springsteen,rock,rock,19970322,50,19,16,19970419
 29,34,I Belong To You (Every Time I See Your Face),Rome,Rome,pop,neofolk,19970315,79,6,26,19970419
@@ -3655,7 +3655,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 54,45,On & On,Erykah Badu,Erykah Badu,rnb / soul,soul,19970125,33,12,19,19970419
 55,59,Jazzy Belle,Outkast,Outkast,hip-hop,hip-hop,19970412,59,52,14,19970419
 56,51,Say... If You Feel Alright,Crystal Waters,Crystal Waters,electronic,dance,19970222,57,40,15,19970419
-57,54,Firestarter,Prodigy,Prodigy,pop,electronic,19970118,84,30,20,19970419
+57,54,Firestarter,Prodigy,Prodigy,electronic,electronic,19970118,84,30,20,19970419
 58,61,Sho Nuff,Tela Featuring Eightball & Mjg,Tela,hip-hop,rap,19970329,65,58,8,19970419
 59,60,The Theme (It's Party Time),Tracey Lee,Tracey Lee,pop,underground hip-hop,19970215,88,55,18,19970419
 60,62,If Tomorrow Never Comes,Joose,Joose,pop,90s,19970322,84,51,17,19970419
@@ -3669,7 +3669,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 68,67,Whateva Man,Redman,Redman,hip-hop,hip-hop,19970201,96,42,15,19970419
 69,69,Havana,Kenny G,Kenny G,jazz,jazz,19970308,95,66,19,19970419
 70,70,Silent All These Years,Tori Amos,Tori Amos,pop,female vocalists,19970322,71,65,20,19970419
-71,73,Insomnia,Faithless,Faithless,pop,electronic,19970329,94,62,19,19970419
+71,73,Insomnia,Faithless,Faithless,electronic,electronic,19970329,94,62,19,19970419
 72,68,Desperately Wanting,Better Than Ezra,Better Than Ezra,rock,alternative rock,19961221,70,48,20,19970419
 73,NEW,Until I Find You Again,Richard Marx,Richard Marx,pop,80s,19970419,73,42,20,19970419
 74,71,Don't Stop Movin',Livin' Joy,Livin' Joy,electronic,dance,19970125,92,67,20,19970419
@@ -3729,7 +3729,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 28,26,Ooh Aah... Just A Little Bit,Gina G,Gina G,electronic,dance,19961130,77,12,30,19970412
 29,24,Nobody,Keith Sweat Featuring Athena Cage,Keith Sweat,rnb / soul,rnb,19961005,37,3,35,19970412
 30,30,Let Me Clear My Throat,Dj Kool,Dj Kool,hip-hop,hip-hop,19970201,77,30,20,19970412
-31,32,Your Woman,White Town,White Town,pop,electronic,19970329,42,23,20,19970412
+31,32,Your Woman,White Town,White Town,electronic,electronic,19970329,42,23,20,19970412
 32,43,I Don't Want To / I Love Me Some Him,Toni Braxton,Toni Braxton,rnb / soul,rnb,19970329,56,19,20,19970412
 33,34,Secret Garden,Bruce Springsteen,Bruce Springsteen,rock,rock,19970322,50,19,16,19970412
 34,38,I Belong To You (Every Time I See Your Face),Rome,Rome,pop,neofolk,19970315,79,6,26,19970412
@@ -3752,7 +3752,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 51,40,Say... If You Feel Alright,Crystal Waters,Crystal Waters,electronic,dance,19970222,57,40,15,19970412
 52,54,"Too Late, Too Soon",Jon Secada,Jon Secada,pop,pop,19970315,76,41,18,19970412
 53,53,The Freshmen,The Verve Pipe,The Verve Pipe,rock,alternative,19970222,80,5,42,19970412
-54,48,Firestarter,Prodigy,Prodigy,pop,electronic,19970118,84,30,20,19970412
+54,48,Firestarter,Prodigy,Prodigy,electronic,electronic,19970118,84,30,20,19970412
 55,44,I'm Not Feeling You,Yvette Michele,Yvette Michele,rnb / soul,rnb,19970222,73,44,14,19970412
 56,59,For You,Kenny Lattimore,Kenny Lattimore,rnb / soul,soul,19970329,80,33,20,19970412
 57,57,"It's Alright, It's OK",Leah Andreone,Leah Andreone,pop,female vocalists,19970125,79,57,20,19970412
@@ -3771,7 +3771,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 70,99,Silent All These Years,Tori Amos,Tori Amos,pop,female vocalists,19970322,71,65,20,19970412
 71,72,Don't Stop Movin',Livin' Joy,Livin' Joy,electronic,dance,19970125,92,67,20,19970412
 72,65,Things'll Never Change / Rapper's Ball,E-40 Featuring Bo-Rock,E-40,hip-hop,rap,19970201,52,29,14,19970412
-73,79,Insomnia,Faithless,Faithless,pop,electronic,19970329,94,62,19,19970412
+73,79,Insomnia,Faithless,Faithless,electronic,electronic,19970329,94,62,19,19970412
 74,75,Fly Like An Eagle,Seal,Seal,rnb / soul,soul,19961221,17,10,20,19970412
 75,NEW,Come On,Billy Lawrence Featuring Mc Lyte,Billy Lawrence,pop,chillout,19970412,75,44,19,19970412
 76,73,Watch Me Do My Thing,Immature Featuring Smooth & Ed From Good Burger,Immature,rnb / soul,rnb,19970201,76,32,14,19970412
@@ -3830,7 +3830,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 29,33,One More Time,Real Mccoy,Real Mccoy,electronic,dance,19970329,33,27,20,19970405
 30,30,Let Me Clear My Throat,Dj Kool,Dj Kool,hip-hop,hip-hop,19970201,77,30,20,19970405
 31,26,Don't Cry For Me Argentina,Madonna,Madonna,pop,pop,19970222,17,8,16,19970405
-32,42,Your Woman,White Town,White Town,pop,electronic,19970329,42,23,20,19970405
+32,42,Your Woman,White Town,White Town,electronic,electronic,19970329,42,23,20,19970405
 33,31,No Diggity,Blackstreet,Blackstreet,rnb / soul,rnb,19961012,48,1,31,19970405
 34,47,Secret Garden,Bruce Springsteen,Bruce Springsteen,rock,rock,19970322,50,19,16,19970405
 35,35,Head Over Heels,Allure Featuring Nas,Allure,electronic,trance,19970315,35,35,15,19970405
@@ -3846,7 +3846,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 45,37,I Believe In You And Me,Whitney Houston,Whitney Houston,pop,pop,19961228,7,4,20,19970405
 46,48,I Like It,Blackout Allstars,Blackout Allstars,pop,pop,19961207,83,25,22,19970405
 47,43,Change The World,Eric Clapton,Eric Clapton,rock,classic rock,19960720,9,5,43,19970405
-48,40,Firestarter,Prodigy,Prodigy,pop,electronic,19970118,84,30,20,19970405
+48,40,Firestarter,Prodigy,Prodigy,electronic,electronic,19970118,84,30,20,19970405
 49,39,Request Line,Zhane,Zhane,rnb / soul,rnb,19970315,51,39,12,19970405
 50,53,Talk To Me,Wild Orchid,Wild Orchid,pop,pop,19970301,81,48,15,19970405
 51,61,Here's Your Sign (Get The Picture),Bill Engvall & Travis Tritt,Bill Engvall,pop,comedy,19970222,94,43,20,19970405
@@ -3877,7 +3877,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 76,73,Nothin' But The Cavi Hit,Mack 10 & Tha Dogg Pound,Mack 10,hip-hop,hip-hop,19961214,65,38,20,19970405
 77,67,Discotheque,U2,U2,rock,rock,19970222,10,10,11,19970405
 78,93,It's In Your Eyes,Phil Collins,Phil Collins,pop,pop,19970215,79,77,14,19970405
-79,94,Insomnia,Faithless,Faithless,pop,electronic,19970329,94,62,19,19970405
+79,94,Insomnia,Faithless,Faithless,electronic,electronic,19970329,94,62,19,19970405
 80,83,Fired Up!,Funky Green Dogs,Funky Green Dogs,electronic,house,19970208,95,80,14,19970405
 81,NEW,A Little Bit Of Ecstasy,Jocelyn Enriquez,Jocelyn Enriquez,pop,freestyle,19970405,81,55,20,19970405
 82,89,Without Your Love,Angelina,Angelina,electronic,trance,19970215,92,82,15,19970405
@@ -3938,9 +3938,9 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 37,26,I Believe In You And Me,Whitney Houston,Whitney Houston,pop,pop,19961228,7,4,20,19970329
 38,43,Falling In Love (Is Hard On The Knees),Aerosmith,Aerosmith,rock,rock,19970301,62,35,15,19970329
 39,39,Request Line,Zhane,Zhane,rnb / soul,rnb,19970315,51,39,12,19970329
-40,30,Firestarter,Prodigy,Prodigy,pop,electronic,19970118,84,30,20,19970329
+40,30,Firestarter,Prodigy,Prodigy,electronic,electronic,19970118,84,30,20,19970329
 41,41,Say... If You Feel Alright,Crystal Waters,Crystal Waters,electronic,dance,19970222,57,40,15,19970329
-42,NEW,Your Woman,White Town,White Town,pop,electronic,19970329,42,23,20,19970329
+42,NEW,Your Woman,White Town,White Town,electronic,electronic,19970329,42,23,20,19970329
 43,37,Change The World,Eric Clapton,Eric Clapton,rock,classic rock,19960720,9,5,43,19970329
 44,44,I'm Not Feeling You,Yvette Michele,Yvette Michele,rnb / soul,rnb,19970222,73,44,14,19970329
 45,42,I Love You Always Forever,Donna Lewis,Donna Lewis,pop,pop,19960622,95,2,41,19970329
@@ -3992,7 +3992,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 91,91,Weekend Thang,Alfonzo Hunter,Alfonzo Hunter,rnb / soul,soul,19970315,91,90,5,19970329
 92,NEW,Bill,Peggy Scott-Adams,Peggy Scott-Adams,rnb / soul,soul,19970329,92,87,4,19970329
 93,94,It's In Your Eyes,Phil Collins,Phil Collins,pop,pop,19970215,79,77,14,19970329
-94,NEW,Insomnia,Faithless,Faithless,pop,electronic,19970329,94,62,19,19970329
+94,NEW,Insomnia,Faithless,Faithless,electronic,electronic,19970329,94,62,19,19970329
 95,100,Colour Of Love,Amber,Amber,electronic,dance,19970118,90,74,17,19970329
 96,97,Under The Water,Merril Bainbridge,Merril Bainbridge,pop,pop,19970322,97,91,6,19970329
 97,86,It's All About U,Swv,Swv,rnb / soul,rnb,19970118,62,61,15,19970329
@@ -4028,7 +4028,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 27,24,On & On,Erykah Badu,Erykah Badu,rnb / soul,soul,19970125,33,12,19,19970322
 28,17,Cold Rock A Party,Mc Lyte,Mc Lyte,hip-hop,hip-hop,19961130,67,11,20,19970322
 29,23,No Diggity,Blackstreet,Blackstreet,rnb / soul,rnb,19961012,48,1,31,19970322
-30,32,Firestarter,Prodigy,Prodigy,pop,electronic,19970118,84,30,20,19970322
+30,32,Firestarter,Prodigy,Prodigy,electronic,electronic,19970118,84,30,20,19970322
 31,28,I Like It,Blackout Allstars,Blackout Allstars,pop,pop,19961207,83,25,22,19970322
 32,43,Cupid,112,112,rnb / soul,rnb,19970301,76,13,28,19970322
 33,38,Let Me Clear My Throat,Dj Kool,Dj Kool,hip-hop,hip-hop,19970201,77,30,20,19970322
@@ -4088,7 +4088,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 87,78,Tears,Isley Brothers,Isley Brothers,rnb / soul,soul,19970111,96,55,11,19970322
 88,87,Atliens,Outkast,Outkast,hip-hop,hip-hop,19961130,62,35,17,19970322
 89,99,Without Your Love,Angelina,Angelina,electronic,trance,19970215,92,82,15,19970322
-90,80,Barrel Of A Gun,Depeche Mode,Depeche Mode,pop,electronic,19970222,47,47,5,19970322
+90,80,Barrel Of A Gun,Depeche Mode,Depeche Mode,electronic,electronic,19970222,47,47,5,19970322
 91,91,Weekend Thang,Alfonzo Hunter,Alfonzo Hunter,rnb / soul,soul,19970315,91,90,5,19970322
 92,81,Hip-Hopera,Bounty Killer Featuring The Fugees,Bounty Killer,electronic,dancehall,19970315,81,81,5,19970322
 93,85,We Danced Anyway,Deana Carter,Deana Carter,country / folk,country,19970208,78,72,9,19970322
@@ -4130,7 +4130,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 29,28,Where Do You Go,No Mercy,No Mercy,electronic,dance,19960706,68,5,39,19970315
 30,39,Change The World,Eric Clapton,Eric Clapton,rock,classic rock,19960720,9,5,43,19970315
 31,27,Free To Decide / When You're Gone,Cranberries,Cranberries,rock,rock,19961123,66,22,20,19970315
-32,32,Firestarter,Prodigy,Prodigy,pop,electronic,19970118,84,30,20,19970315
+32,32,Firestarter,Prodigy,Prodigy,electronic,electronic,19970118,84,30,20,19970315
 33,20,Discotheque,U2,U2,rock,rock,19970222,10,10,11,19970315
 34,55,Let It Go,Ray J,Ray J,rnb / soul,rnb,19970308,55,25,20,19970315
 35,NEW,Head Over Heels,Allure Featuring Nas,Allure,electronic,trance,19970315,35,35,15,19970315
@@ -4178,7 +4178,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 77,99,I'll Be,Foxy Brown Featuring Jay-Z,Foxy Brown,hip-hop,hip-hop,19970215,78,7,20,19970315
 78,70,Tears,Isley Brothers,Isley Brothers,rnb / soul,soul,19970111,96,55,11,19970315
 79,NEW,I Belong To You (Every Time I See Your Face),Rome,Rome,pop,neofolk,19970315,79,6,26,19970315
-80,69,Barrel Of A Gun,Depeche Mode,Depeche Mode,pop,electronic,19970222,47,47,5,19970315
+80,69,Barrel Of A Gun,Depeche Mode,Depeche Mode,electronic,electronic,19970222,47,47,5,19970315
 81,NEW,Hip-Hopera,Bounty Killer Featuring The Fugees,Bounty Killer,electronic,dancehall,19970315,81,81,5,19970315
 82,82,Here's Your Sign (Get The Picture),Bill Engvall & Travis Tritt,Bill Engvall,pop,comedy,19970222,94,43,20,19970315
 83,83,Call Me,Le Click,Le Click,electronic,dance,19970308,83,35,25,19970315
@@ -4230,7 +4230,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 29,29,Things'll Never Change / Rapper's Ball,E-40 Featuring Bo-Rock,E-40,hip-hop,rap,19970201,52,29,14,19970308
 30,42,Return Of The Mack,Mark Morrison,Mark Morrison,rnb / soul,rnb,19970301,42,2,40,19970308
 31,20,Mouth,Merril Bainbridge,Merril Bainbridge,pop,pop,19960907,67,4,30,19970308
-32,32,Firestarter,Prodigy,Prodigy,pop,electronic,19970118,84,30,20,19970308
+32,32,Firestarter,Prodigy,Prodigy,electronic,electronic,19970118,84,30,20,19970308
 33,26,When You Love A Woman,Journey,Journey,rock,classic rock,19961026,17,12,22,19970308
 34,34,What They Do,The Roots,The Roots,hip-hop,hip-hop,19970111,85,34,15,19970308
 35,27,If It Makes You Happy,Sheryl Crow,Sheryl Crow,pop,female vocalists,19960921,44,10,27,19970308
@@ -4267,7 +4267,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 66,61,Space Jam,Quad City Dj'S,Quad City Dj'S,hip-hop,hip-hop,19961221,67,37,20,19970308
 67,59,Fly Like An Eagle,Seal,Seal,rnb / soul,soul,19961221,17,10,20,19970308
 68,60,I'm Not Giving You Up,Gloria Estefan,Gloria Estefan,pop,latin,19961207,79,40,19,19970308
-69,56,Barrel Of A Gun,Depeche Mode,Depeche Mode,pop,electronic,19970222,47,47,5,19970308
+69,56,Barrel Of A Gun,Depeche Mode,Depeche Mode,electronic,electronic,19970222,47,47,5,19970308
 70,65,Tears,Isley Brothers,Isley Brothers,rnb / soul,soul,19970111,96,55,11,19970308
 71,71,I Always Feel Like (Somebody's Watching Me),Tru Featuring Ice Cream Man (Master P),Tru,hip-hop,rap,19970208,75,71,15,19970308
 72,NEW,Gangstas Make The World Go Round,Westside Connection,Westside Connection,hip-hop,hip-hop,19970308,72,40,20,19970308
@@ -4330,7 +4330,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 29,30,Things'll Never Change / Rapper's Ball,E-40 Featuring Bo-Rock,E-40,hip-hop,rap,19970201,52,29,14,19970301
 30,28,I Love You Always Forever,Donna Lewis,Donna Lewis,pop,pop,19960622,95,2,41,19970301
 31,NEW,I Want You,Savage Garden,Savage Garden,pop,pop,19970301,31,4,33,19970301
-32,41,Firestarter,Prodigy,Prodigy,pop,electronic,19970118,84,30,20,19970301
+32,41,Firestarter,Prodigy,Prodigy,electronic,electronic,19970118,84,30,20,19970301
 33,48,What's On Tonight,Montell Jordan,Montell Jordan,rnb / soul,rnb,19970215,56,21,20,19970301
 34,36,What They Do,The Roots,The Roots,hip-hop,hip-hop,19970111,85,34,15,19970301
 35,26,It's All Coming Back To Me Now,Celine Dion,Celine Dion,pop,pop,19960817,27,2,30,19970301
@@ -4354,7 +4354,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 53,53,Just Another Day,John Mellencamp,John Mellencamp,rock,rock,19970222,53,46,20,19970301
 54,57,Say... If You Feel Alright,Crystal Waters,Crystal Waters,electronic,dance,19970222,57,40,15,19970301
 55,52,33,Smashing Pumpkins,Smashing Pumpkins,rock,alternative rock,19961130,71,39,20,19970301
-56,47,Barrel Of A Gun,Depeche Mode,Depeche Mode,pop,electronic,19970222,47,47,5,19970301
+56,47,Barrel Of A Gun,Depeche Mode,Depeche Mode,electronic,electronic,19970222,47,47,5,19970301
 57,55,Nothin' But The Cavi Hit,Mack 10 & Tha Dogg Pound,Mack 10,hip-hop,hip-hop,19961214,65,38,20,19970301
 58,56,Desperately Wanting,Better Than Ezra,Better Than Ezra,rock,alternative rock,19961221,70,48,20,19970301
 59,51,Fly Like An Eagle,Seal,Seal,rnb / soul,soul,19961221,17,10,20,19970301
@@ -4439,13 +4439,13 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 38,28,I Finally Found Someone,Barbra Streisand & Bryan Adams,Barbra Streisand & Bryan Adams,pop,pop,19961123,28,8,20,19970222
 39,29,This Is Your Night,Amber,Amber,electronic,dance,19960615,98,24,40,19970222
 40,30,You're Makin' Me High / Let It Flow,Toni Braxton,Toni Braxton,rnb / soul,rnb,19960608,7,1,41,19970222
-41,46,Firestarter,Prodigy,Prodigy,pop,electronic,19970118,84,30,20,19970222
+41,46,Firestarter,Prodigy,Prodigy,electronic,electronic,19970118,84,30,20,19970222
 42,33,Twisted,Keith Sweat,Keith Sweat,rnb / soul,rnb,19960622,24,2,38,19970222
 43,43,It's Your Body,Johnny Gill Featuring Roger Troutman,Johnny Gill,rnb / soul,rnb,19961214,83,43,19,19970222
 44,51,Whateva Man,Redman,Redman,hip-hop,hip-hop,19970201,96,42,15,19970222
 45,40,You Must Love Me,Madonna,Madonna,pop,pop,19961116,22,18,20,19970222
 46,35,Counting Blue Cars,Dishwalla,Dishwalla,rock,alternative rock,19960406,98,15,48,19970222
-47,NEW,Barrel Of A Gun,Depeche Mode,Depeche Mode,pop,electronic,19970222,47,47,5,19970222
+47,NEW,Barrel Of A Gun,Depeche Mode,Depeche Mode,electronic,electronic,19970222,47,47,5,19970222
 48,56,What's On Tonight,Montell Jordan,Montell Jordan,rnb / soul,rnb,19970215,56,21,20,19970222
 49,49,Naked Eye,Luscious Jackson,Luscious Jackson,pop,female vocalists,19961221,96,36,26,19970222
 50,50,Luchini Aka (This Is It),Camp Lo,Camp Lo,hip-hop,hip-hop,19970104,90,50,17,19970222
@@ -4493,11 +4493,11 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 92,92,Without Your Love,Angelina,Angelina,electronic,trance,19970215,92,82,15,19970222
 93,93,Drop Dead Gorgeous,Republica,Republica,rock,alternative,19970215,93,93,3,19970222
 94,NEW,Here's Your Sign (Get The Picture),Bill Engvall & Travis Tritt,Bill Engvall,pop,comedy,19970222,94,43,20,19970222
-95,80,Setting Sun,Chemical Brothers,Chemical Brothers,pop,electronic,19970125,87,80,5,19970222
+95,80,Setting Sun,Chemical Brothers,Chemical Brothers,electronic,electronic,19970125,87,80,5,19970222
 96,NEW,Electrolite,R.E.M.,R.E.M.,rock,rock,19970222,96,96,2,19970222
 97,89,Stand Up,Love Tribe,Love Tribe,electronic,house,19970125,89,89,5,19970222
 98,95,Fired Up!,Funky Green Dogs,Funky Green Dogs,electronic,house,19970208,95,80,14,19970222
-99,98,Passion,K5,K5,pop,electronic,19970208,98,98,3,19970222
+99,98,Passion,K5,K5,electronic,electronic,19970208,98,98,3,19970222
 100,94,My Baby Mama,Qt,Qt,pop,bubblegum bass,19970201,94,94,4,19970222
 1,1,Un-Break My Heart,Toni Braxton,Toni Braxton,rnb / soul,rnb,19961026,22,1,42,19970215
 2,4,Wannabe,Spice Girls,Spice Girls,pop,pop,19970125,11,1,23,19970215
@@ -4544,7 +4544,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 43,45,It's Your Body,Johnny Gill Featuring Roger Troutman,Johnny Gill,rnb / soul,rnb,19961214,83,43,19,19970215
 44,66,Please Don't Go,No Mercy,No Mercy,electronic,dance,19970208,66,21,18,19970215
 45,40,33,Smashing Pumpkins,Smashing Pumpkins,rock,alternative rock,19961130,71,39,20,19970215
-46,59,Firestarter,Prodigy,Prodigy,pop,electronic,19970118,84,30,20,19970215
+46,59,Firestarter,Prodigy,Prodigy,electronic,electronic,19970118,84,30,20,19970215
 47,38,Nothin' But The Cavi Hit,Mack 10 & Tha Dogg Pound,Mack 10,hip-hop,hip-hop,19961214,65,38,20,19970215
 48,48,Desperately Wanting,Better Than Ezra,Better Than Ezra,rock,alternative rock,19961221,70,48,20,19970215
 49,53,Naked Eye,Luscious Jackson,Luscious Jackson,pop,female vocalists,19961221,96,36,26,19970215
@@ -4578,7 +4578,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 77,72,I Fell In Love,Rockell,Rockell,pop,freestyle,19961109,100,61,18,19970215
 78,NEW,I'll Be,Foxy Brown Featuring Jay-Z,Foxy Brown,hip-hop,hip-hop,19970215,78,7,20,19970215
 79,NEW,It's In Your Eyes,Phil Collins,Phil Collins,pop,pop,19970215,79,77,14,19970215
-80,80,Setting Sun,Chemical Brothers,Chemical Brothers,pop,electronic,19970125,87,80,5,19970215
+80,80,Setting Sun,Chemical Brothers,Chemical Brothers,electronic,electronic,19970125,87,80,5,19970215
 81,81,Let's Ride,Richie Rich,Richie Rich,rnb / soul,g-funk,19961130,91,67,13,19970215
 82,82,You Don't Have To Love Me,Monifah,Monifah,rnb / soul,rnb,19970104,96,82,9,19970215
 83,83,I Can Make It Better,Luther Vandross,Luther Vandross,rnb / soul,soul,19961221,90,80,10,19970215
@@ -4596,7 +4596,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 95,95,Fired Up!,Funky Green Dogs,Funky Green Dogs,electronic,house,19970208,95,80,14,19970215
 96,90,You Can Make History (Young Again),Elton John,Elton John,pop,pop,19961026,72,70,17,19970215
 97,88,All I Want,Susanna Hoffs,Susanna Hoffs,pop,pop,19961130,95,77,12,19970215
-98,98,Passion,K5,K5,pop,electronic,19970208,98,98,3,19970215
+98,98,Passion,K5,K5,electronic,electronic,19970208,98,98,3,19970215
 99,91,"Another You, Another Me",Brady Seals,Brady Seals,country / folk,country,19970125,91,91,4,19970215
 100,85,Do You Think About Us? / When Boy Meets Girl,Total,Total,rock,russian rock,19961026,82,50,17,19970215
 1,1,Un-Break My Heart,Toni Braxton,Toni Braxton,rnb / soul,rnb,19961026,22,1,42,19970208
@@ -4657,7 +4657,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 56,65,Luchini Aka (This Is It),Camp Lo,Camp Lo,hip-hop,hip-hop,19970104,90,50,17,19970208
 57,60,Falling,Montell Jordan,Montell Jordan,rnb / soul,rnb,19961005,76,18,20,19970208
 58,62,If We Fall In Love Tonight,Rod Stewart,Rod Stewart,rock,classic rock,19961116,78,54,20,19970208
-59,66,Firestarter,Prodigy,Prodigy,pop,electronic,19970118,84,30,20,19970208
+59,66,Firestarter,Prodigy,Prodigy,electronic,electronic,19970118,84,30,20,19970208
 60,50,Just Between You And Me,Dc Talk,Dc Talk,pop,christian,19961116,39,29,19,19970208
 61,61,It's All About U,Swv,Swv,rnb / soul,rnb,19970118,62,61,15,19970208
 62,67,Get Up,Lost Boyz,Lost Boyz,hip-hop,hip-hop,19970104,92,60,17,19970208
@@ -4678,7 +4678,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 77,81,Colour Of Love,Amber,Amber,electronic,dance,19970118,90,74,17,19970208
 78,NEW,We Danced Anyway,Deana Carter,Deana Carter,country / folk,country,19970208,78,72,9,19970208
 79,78,How Could You,K-Ci & Jojo Of Jodeci,K-Ci & Jojo Of Jodeci,rnb / soul,rnb,19961116,58,53,15,19970208
-80,80,Setting Sun,Chemical Brothers,Chemical Brothers,pop,electronic,19970125,87,80,5,19970208
+80,80,Setting Sun,Chemical Brothers,Chemical Brothers,electronic,electronic,19970125,87,80,5,19970208
 81,75,Let's Ride,Richie Rich,Richie Rich,rnb / soul,g-funk,19961130,91,67,13,19970208
 82,82,You Don't Have To Love Me,Monifah,Monifah,rnb / soul,rnb,19970104,96,82,9,19970208
 83,83,I Can Make It Better,Luther Vandross,Luther Vandross,rnb / soul,soul,19961221,90,80,10,19970208
@@ -4696,7 +4696,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 95,NEW,Fired Up!,Funky Green Dogs,Funky Green Dogs,electronic,house,19970208,95,80,14,19970208
 96,96,Whateva Man,Redman,Redman,hip-hop,hip-hop,19970201,96,42,15,19970208
 97,95,At Night I Pray,Wild Orchid,Wild Orchid,pop,pop,19960928,91,63,20,19970208
-98,NEW,Passion,K5,K5,pop,electronic,19970208,98,98,3,19970208
+98,NEW,Passion,K5,K5,electronic,electronic,19970208,98,98,3,19970208
 99,98,Dance Into The Light,Phil Collins,Phil Collins,pop,pop,19961026,47,45,16,19970208
 100,99,One And One,Robert Miles Featuring Maria Nayler,Robert Miles,electronic,trance,19961005,90,54,19,19970208
 1,1,Un-Break My Heart,Toni Braxton,Toni Braxton,rnb / soul,rnb,19961026,22,1,42,19970201
@@ -4764,7 +4764,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 63,60,Atliens,Outkast,Outkast,hip-hop,hip-hop,19961130,62,35,17,19970201
 64,53,Street Dreams,Nas,Nas,hip-hop,hip-hop,19961109,39,22,17,19970201
 65,70,Luchini Aka (This Is It),Camp Lo,Camp Lo,hip-hop,hip-hop,19970104,90,50,17,19970201
-66,67,Firestarter,Prodigy,Prodigy,pop,electronic,19970118,84,30,20,19970201
+66,67,Firestarter,Prodigy,Prodigy,electronic,electronic,19970118,84,30,20,19970201
 67,68,Get Up,Lost Boyz,Lost Boyz,hip-hop,hip-hop,19970104,92,60,17,19970201
 68,72,Tears,Isley Brothers,Isley Brothers,rnb / soul,soul,19970111,96,55,11,19970201
 69,62,Knocks Me Off My Feet,Donell Jones,Donell Jones,rnb / soul,rnb,19961102,89,49,20,19970201
@@ -4778,7 +4778,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 77,NEW,Let Me Clear My Throat,Dj Kool,Dj Kool,hip-hop,hip-hop,19970201,77,30,20,19970201
 78,73,How Could You,K-Ci & Jojo Of Jodeci,K-Ci & Jojo Of Jodeci,rnb / soul,rnb,19961116,58,53,15,19970201
 79,92,Don't Stop Movin',Livin' Joy,Livin' Joy,electronic,dance,19970125,92,67,20,19970201
-80,87,Setting Sun,Chemical Brothers,Chemical Brothers,pop,electronic,19970125,87,80,5,19970201
+80,87,Setting Sun,Chemical Brothers,Chemical Brothers,electronic,electronic,19970125,87,80,5,19970201
 81,84,Colour Of Love,Amber,Amber,electronic,dance,19970118,90,74,17,19970201
 82,82,You Don't Have To Love Me,Monifah,Monifah,rnb / soul,rnb,19970104,96,82,9,19970201
 83,90,I Can Make It Better,Luther Vandross,Luther Vandross,rnb / soul,soul,19961221,90,80,10,19970201
@@ -4865,7 +4865,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 64,64,Sugar Honey Ice Tea,Goodfellaz,Goodfellaz,pop,grime,19961214,88,64,10,19970125
 65,71,What They Do,The Roots,The Roots,hip-hop,hip-hop,19970111,85,34,15,19970125
 66,61,I Fell In Love,Rockell,Rockell,pop,freestyle,19961109,100,61,18,19970125
-67,84,Firestarter,Prodigy,Prodigy,pop,electronic,19970118,84,30,20,19970125
+67,84,Firestarter,Prodigy,Prodigy,electronic,electronic,19970118,84,30,20,19970125
 68,72,Get Up,Lost Boyz,Lost Boyz,hip-hop,hip-hop,19970104,92,60,17,19970125
 69,59,Do You Think About Us? / When Boy Meets Girl,Total,Total,rock,russian rock,19961026,82,50,17,19970125
 70,87,Luchini Aka (This Is It),Camp Lo,Camp Lo,hip-hop,hip-hop,19970104,90,50,17,19970125
@@ -4885,7 +4885,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 84,90,Colour Of Love,Amber,Amber,electronic,dance,19970118,90,74,17,19970125
 85,89,Birmingham,Amanda Marshall,Amanda Marshall,pop,female vocalists,19960928,74,43,20,19970125
 86,77,At Night I Pray,Wild Orchid,Wild Orchid,pop,pop,19960928,91,63,20,19970125
-87,NEW,Setting Sun,Chemical Brothers,Chemical Brothers,pop,electronic,19970125,87,80,5,19970125
+87,NEW,Setting Sun,Chemical Brothers,Chemical Brothers,electronic,electronic,19970125,87,80,5,19970125
 88,80,Dance Into The Light,Phil Collins,Phil Collins,pop,pop,19961026,47,45,16,19970125
 89,NEW,Stand Up,Love Tribe,Love Tribe,electronic,house,19970125,89,89,5,19970125
 90,88,I Can Make It Better,Luther Vandross,Luther Vandross,rnb / soul,soul,19961221,90,80,10,19970125
@@ -4982,7 +4982,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 81,73,What's Love Got To Do With It,Warren G Featuring Adina Howard,Warren G,hip-hop,hip-hop,19960921,79,32,19,19970118
 82,86,Floatin' On Your Love,Isley Brothers Featuring Angela Winbush,Isley Brothers,rnb / soul,soul,19960928,73,47,18,19970118
 83,83,You Don't Have To Love Me,Monifah,Monifah,rnb / soul,rnb,19970104,96,82,9,19970118
-84,NEW,Firestarter,Prodigy,Prodigy,pop,electronic,19970118,84,30,20,19970118
+84,NEW,Firestarter,Prodigy,Prodigy,electronic,electronic,19970118,84,30,20,19970118
 85,98,You Can Make History (Young Again),Elton John,Elton John,pop,pop,19961026,72,70,17,19970118
 86,82,One And One,Robert Miles Featuring Maria Nayler,Robert Miles,electronic,trance,19961005,90,54,19,19970118
 87,87,Luchini Aka (This Is It),Camp Lo,Camp Lo,hip-hop,hip-hop,19970104,90,50,17,19970118

@@ -123,7 +123,7 @@ def get_genre(artist):
         clean_genre = 'hip-hop'
     elif (genre in ['female vocalists', 'male vocalists','adult contemporary','oldies'] or 'pop' in genre or any(char.isdigit() for char in genre)):
         clean_genre = 'pop'
-    elif (genre in ['trance','house','drum and bass','breakcore','dubstep'] or 'dance' in genre):
+    elif (genre in ['trance','house','drum and bass','breakcore','dubstep','electronic'] or 'dance' in genre):
         clean_genre = 'electronic'
     elif (genre in ['country', 'folk', 'singer-songwriter']):
         clean_genre = 'country / folk'

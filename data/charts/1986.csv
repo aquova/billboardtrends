@@ -886,7 +886,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 85,90,This Love,Bad Company,Bad Company,rock,classic rock,19861018,94,85,5,19861101
 86,69,Higher Love,Steve Winwood,Steve Winwood,rock,classic rock,19860614,77,1,22,19861101
 87,94,When The Rain Comes Down,Andy Taylor,Andy Taylor,rock,rock,19861025,94,73,6,19861101
-88,61,Paranoimia,Art Of Noise With Max Headroom,Art Of Noise With Max Headroom,pop,electronic,19860816,93,34,12,19861101
+88,61,Paranoimia,Art Of Noise With Max Headroom,Art Of Noise With Max Headroom,electronic,electronic,19860816,93,34,12,19861101
 89,79,Who Says,Device,Device,rock,industrial metal,19860927,95,79,6,19861101
 90,NEW,Daydream Believer,Monkees,Monkees,pop,60s,19861101,90,79,4,19861101
 91,82,Give Me The Reason,Luther Vandross,Luther Vandross,rnb / soul,soul,19860823,84,57,11,19861101
@@ -959,7 +959,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 58,68,C'est La Vie,Robbie Nevil,Robbie Nevil,pop,80s,19861011,93,2,23,19861025
 59,67,Where Did Your Heart Go?,Wham!,Wham!,pop,80s,19861011,75,50,8,19861025
 60,74,Lady Soul,Temptations,Temptations,rnb / soul,soul,19861011,80,47,11,19861025
-61,43,Paranoimia,Art Of Noise With Max Headroom,Art Of Noise With Max Headroom,pop,electronic,19860816,93,34,12,19861025
+61,43,Paranoimia,Art Of Noise With Max Headroom,Art Of Noise With Max Headroom,electronic,electronic,19860816,93,34,12,19861025
 62,75,Foolish Pride,Daryl Hall,Daryl Hall,pop,pop,19861018,75,33,13,19861025
 63,76,Shake You Down,Gregory Abbott,Gregory Abbott,rnb / soul,soul,19861018,76,1,22,19861025
 64,73,Welcome To The Boomtown,David & David,David & David,rock,rock,19861004,94,37,16,19861025
@@ -1041,7 +1041,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 40,49,The Way It Is,Bruce Hornsby And The Range,Bruce Hornsby And The Range,pop,80s,19860920,86,1,22,19861018
 41,26,Take My Breath Away,Berlin,Berlin,rock,new wave,19860621,96,1,21,19861018
 42,NEW,Hip To Be Square,Huey Lewis And The News,Huey Lewis And The News,pop,80s,19861018,42,3,16,19861018
-43,35,Paranoimia,Art Of Noise With Max Headroom,Art Of Noise With Max Headroom,pop,electronic,19860816,93,34,12,19861018
+43,35,Paranoimia,Art Of Noise With Max Headroom,Art Of Noise With Max Headroom,electronic,electronic,19860816,93,34,12,19861018
 44,52,Freedom Overspill,Steve Winwood,Steve Winwood,rock,classic rock,19860927,81,20,15,19861018
 45,55,To Be A Lover,Billy Idol,Billy Idol,rock,rock,19861004,69,6,18,19861018
 46,57,Everybody Have Fun Tonight,Wang Chung,Wang Chung,pop,80s,19861004,82,2,21,19861018
@@ -1133,7 +1133,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 32,40,True Blue,Madonna,Madonna,pop,pop,19861004,40,3,16,19861011
 33,37,I'll Be Over You,Toto,Toto,rock,rock,19860830,87,11,23,19861011
 34,35,In Your Eyes,Peter Gabriel,Peter Gabriel,rock,progressive rock,19860830,86,26,14,19861011
-35,34,Paranoimia,Art Of Noise With Max Headroom,Art Of Noise With Max Headroom,pop,electronic,19860816,93,34,12,19861011
+35,34,Paranoimia,Art Of Noise With Max Headroom,Art Of Noise With Max Headroom,electronic,electronic,19860816,93,34,12,19861011
 36,26,Twist And Shout,Beatles,Beatles,rock,classic rock,19860809,89,23,15,19861011
 37,47,I Am By Your Side,Corey Hart,Corey Hart,pop,80s,19860920,66,18,13,19861011
 38,43,Emotion In Motion,Ric Ocasek,Ric Ocasek,rock,new wave,19860906,87,15,19,19861011
@@ -1232,7 +1232,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 31,20,The Captain Of Her Heart,Double,Double,pop,80s,19860628,95,16,18,19861004
 32,34,Girl Can't Help It,Journey,Journey,rock,classic rock,19860830,79,17,14,19861004
 33,38,Take Me Home Tonight,Eddie Money,Eddie Money,rock,classic rock,19860816,92,4,23,19861004
-34,37,Paranoimia,Art Of Noise With Max Headroom,Art Of Noise With Max Headroom,pop,electronic,19860816,93,34,12,19861004
+34,37,Paranoimia,Art Of Noise With Max Headroom,Art Of Noise With Max Headroom,electronic,electronic,19860816,93,34,12,19861004
 35,39,In Your Eyes,Peter Gabriel,Peter Gabriel,rock,progressive rock,19860830,86,26,14,19861004
 36,28,Sweet Freedom,Michael Mcdonald,Michael Mcdonald,rnb / soul,soul,19860614,76,7,20,19861004
 37,40,I'll Be Over You,Toto,Toto,rock,rock,19860830,87,11,23,19861004
@@ -1335,7 +1335,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 34,37,Girl Can't Help It,Journey,Journey,rock,classic rock,19860830,79,17,14,19860927
 35,27,Papa Don't Preach,Madonna,Madonna,pop,pop,19860628,42,1,18,19860927
 36,51,Human,Human League,Human League,rock,new wave,19860913,71,1,20,19860927
-37,40,Paranoimia,Art Of Noise With Max Headroom,Art Of Noise With Max Headroom,pop,electronic,19860816,93,34,12,19860927
+37,40,Paranoimia,Art Of Noise With Max Headroom,Art Of Noise With Max Headroom,electronic,electronic,19860816,93,34,12,19860927
 38,46,Take Me Home Tonight,Eddie Money,Eddie Money,rock,classic rock,19860816,92,4,23,19860927
 39,48,In Your Eyes,Peter Gabriel,Peter Gabriel,rock,progressive rock,19860830,86,26,14,19860927
 40,44,I'll Be Over You,Toto,Toto,rock,rock,19860830,87,11,23,19860927
@@ -1438,7 +1438,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 37,46,Girl Can't Help It,Journey,Journey,rock,classic rock,19860830,79,17,14,19860920
 38,31,Mad About You,Belinda Carlisle,Belinda Carlisle,pop,pop,19860517,86,3,21,19860920
 39,34,We Don't Have To Take Our Clothes Off,Jermaine Stewart,Jermaine Stewart,pop,80s,19860517,90,5,22,19860920
-40,48,Paranoimia,Art Of Noise With Max Headroom,Art Of Noise With Max Headroom,pop,electronic,19860816,93,34,12,19860920
+40,48,Paranoimia,Art Of Noise With Max Headroom,Art Of Noise With Max Headroom,electronic,electronic,19860816,93,34,12,19860920
 41,39,Velcro Fly,Zz Top,Zz Top,rock,classic rock,19860726,72,35,12,19860920
 42,22,Yankee Rose,David Lee Roth,David Lee Roth,rock,hard rock,19860705,72,16,15,19860920
 43,45,Love Always,El Debarge,El Debarge,pop,80s,19860809,88,43,12,19860920
@@ -1546,7 +1546,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 45,48,Love Always,El Debarge,El Debarge,pop,80s,19860809,88,43,12,19860913
 46,61,Girl Can't Help It,Journey,Journey,rock,classic rock,19860830,79,17,14,19860913
 47,52,Ain't Nothin' Goin' On But The Rent,Gwen Guthrie,Gwen Guthrie,disco,disco,19860802,91,42,13,19860913
-48,62,Paranoimia,Art Of Noise With Max Headroom,Art Of Noise With Max Headroom,pop,electronic,19860816,93,34,12,19860913
+48,62,Paranoimia,Art Of Noise With Max Headroom,Art Of Noise With Max Headroom,electronic,electronic,19860816,93,34,12,19860913
 49,53,So Far So Good,Sheena Easton,Sheena Easton,pop,pop,19860802,84,43,12,19860913
 50,54,Wrap It Up,Fabulous Thunderbirds,Fabulous Thunderbirds,rock,blues rock,19860809,86,50,10,19860913
 51,47,Private Number,Jets,Jets,rock,rockabilly,19860809,76,47,11,19860913
@@ -1660,7 +1660,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 59,62,Nothing In Common,Thompson Twins,Thompson Twins,pop,80s,19860726,95,54,10,19860906
 60,44,Rumbleseat,John Cougar Mellencamp,John Cougar Mellencamp,rock,rock,19860628,78,28,13,19860906
 61,79,Girl Can't Help It,Journey,Journey,rock,classic rock,19860830,79,17,14,19860906
-62,68,Paranoimia,Art Of Noise With Max Headroom,Art Of Noise With Max Headroom,pop,electronic,19860816,93,34,12,19860906
+62,68,Paranoimia,Art Of Noise With Max Headroom,Art Of Noise With Max Headroom,electronic,electronic,19860816,93,34,12,19860906
 63,41,All The Love In The World,Outfield,Outfield,pop,80s,19860607,76,19,16,19860906
 64,74,Take Me Home Tonight,Eddie Money,Eddie Money,rock,classic rock,19860816,92,4,23,19860906
 65,76,Playing With The Boys,Kenny Loggins,Kenny Loggins,pop,80s,19860816,96,60,12,19860906
@@ -1766,7 +1766,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 65,69,You Can Call Me Al,Paul Simon,Paul Simon,country / folk,singer-songwriter,19860809,83,44,14,19860830
 66,71,Earth Angel,New Edition,New Edition,rnb / soul,rnb,19860823,71,21,14,19860830
 67,78,It's You,Bob Seger,Bob Seger,rock,classic rock,19860816,85,52,9,19860830
-68,80,Paranoimia,Art Of Noise With Max Headroom,Art Of Noise With Max Headroom,pop,electronic,19860816,93,34,12,19860830
+68,80,Paranoimia,Art Of Noise With Max Headroom,Art Of Noise With Max Headroom,electronic,electronic,19860816,93,34,12,19860830
 69,61,Love Of A Lifetime,Chaka Khan,Chaka Khan,rnb / soul,soul,19860712,85,53,12,19860830
 70,68,Anotherloverholeinyohead,Prince,Prince,rnb / soul,funk,19860719,86,63,10,19860830
 71,76,The Other Side Of Life,Moody Blues,Moody Blues,rock,classic rock,19860816,86,58,9,19860830
@@ -1878,7 +1878,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 77,81,Spirit In The Sky,Doctor And The Medics,Doctor And The Medics,rock,new wave,19860802,95,69,11,19860823
 78,85,It's You,Bob Seger,Bob Seger,rock,classic rock,19860816,85,52,9,19860823
 79,88,Lonely Is The Night,Air Supply,Air Supply,pop,80s,19860809,95,76,8,19860823
-80,93,Paranoimia,Art Of Noise With Max Headroom,Art Of Noise With Max Headroom,pop,electronic,19860816,93,34,12,19860823
+80,93,Paranoimia,Art Of Noise With Max Headroom,Art Of Noise With Max Headroom,electronic,electronic,19860816,93,34,12,19860823
 81,52,A Kind Of Magic,Queen,Queen,rock,classic rock,19860621,85,42,11,19860823
 82,92,Take Me Home Tonight,Eddie Money,Eddie Money,rock,classic rock,19860816,92,4,23,19860823
 83,96,Playing With The Boys,Kenny Loggins,Kenny Loggins,pop,80s,19860816,96,60,12,19860823
@@ -1991,7 +1991,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 90,96,Am I Forgiven,Isle Of Man,Isle Of Man,rock,death metal,19860809,96,90,4,19860816
 91,69,Like A Rock,Bob Seger,Bob Seger,rock,classic rock,19860524,56,12,13,19860816
 92,NEW,Take Me Home Tonight,Eddie Money,Eddie Money,rock,classic rock,19860816,92,4,23,19860816
-93,NEW,Paranoimia,Art Of Noise With Max Headroom,Art Of Noise With Max Headroom,pop,electronic,19860816,93,34,12,19860816
+93,NEW,Paranoimia,Art Of Noise With Max Headroom,Art Of Noise With Max Headroom,electronic,electronic,19860816,93,34,12,19860816
 94,87,Hot Water,Level 42,Level 42,pop,80s,19860726,96,87,4,19860816
 95,82,Like No Other Night,.38 Special,.38 Special,rock,southern rock,19860503,75,14,16,19860816
 96,NEW,Playing With The Boys,Kenny Loggins,Kenny Loggins,pop,80s,19860816,96,60,12,19860816
@@ -2286,7 +2286,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 85,75,You Don't Have To Cry,Rene & Angela,Rene & Angela,rnb / soul,soul,19860621,95,75,7,19860726
 86,91,I'm Your Man,Barry Manilow,Barry Manilow,pop,pop,19860712,95,86,5,19860726
 87,63,Greatest Love Of All,Whitney Houston,Whitney Houston,pop,pop,19860329,54,1,18,19860726
-88,70,Peter Gunn,The Art Of Noise Feat. Duane Eddy,The Art Of Noise Feat. Duane Eddy,pop,electronic,19860517,88,50,11,19860726
+88,70,Peter Gunn,The Art Of Noise Feat. Duane Eddy,The Art Of Noise Feat. Duane Eddy,electronic,electronic,19860517,88,50,11,19860726
 89,67,All I Need Is A Miracle,Mike And The Mechanics,Mike And The Mechanics,pop,80s,19860322,74,5,19,19860726
 90,NEW,All Cried Out,Lisa Lisa And Cult Jam,Lisa Lisa And Cult Jam,pop,80s,19860726,90,8,26,19860726
 91,84,Headlines,Midnight Star,Midnight Star,rnb / soul,funk,19860614,96,69,7,19860726
@@ -2368,7 +2368,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 67,54,All I Need Is A Miracle,Mike And The Mechanics,Mike And The Mechanics,pop,80s,19860322,74,5,19,19860719
 68,71,Rock'n'Roll To The Rescue,Beach Boys,Beach Boys,rock,classic rock,19860628,92,68,6,19860719
 69,85,Love Of A Lifetime,Chaka Khan,Chaka Khan,rnb / soul,soul,19860712,85,53,12,19860719
-70,59,Peter Gunn,The Art Of Noise Feat. Duane Eddy,The Art Of Noise Feat. Duane Eddy,pop,electronic,19860517,88,50,11,19860719
+70,59,Peter Gunn,The Art Of Noise Feat. Duane Eddy,The Art Of Noise Feat. Duane Eddy,electronic,electronic,19860517,88,50,11,19860719
 71,81,Do You Remember Me,Yarbrough & Peoples,Yarbrough & Peoples,rnb / soul,funk,19860705,98,71,5,19860719
 72,77,Before I Go,Starship,Starship,pop,80s,19860705,96,68,7,19860719
 73,89,Two Of Hearts,Stacey Q,Stacey Q,pop,80s,19860712,89,3,22,19860719
@@ -2457,7 +2457,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 56,63,A Kind Of Magic,Queen,Queen,rock,classic rock,19860621,85,42,11,19860712
 57,60,With You All The Way,New Edition,New Edition,rnb / soul,rnb,19860614,84,51,11,19860712
 58,77,Friends & Lovers,Gloria Loring & Carl Anderson,Gloria Loring & Carl Anderson,pop,pop,19860705,77,2,21,19860712
-59,50,Peter Gunn,The Art Of Noise Feat. Duane Eddy,The Art Of Noise Feat. Duane Eddy,pop,electronic,19860517,88,50,11,19860712
+59,50,Peter Gunn,The Art Of Noise Feat. Duane Eddy,The Art Of Noise Feat. Duane Eddy,electronic,electronic,19860517,88,50,11,19860712
 60,72,Yankee Rose,David Lee Roth,David Lee Roth,rock,hard rock,19860705,72,16,15,19860712
 61,73,Touch And Go,"Emerson, Lake And Powell","Emerson, Lake And Powell",rock,progressive rock,19860621,93,60,8,19860712
 62,62,Voice Of America's Sons,John Cafferty,John Cafferty,rock,rock,19860614,83,62,8,19860712
@@ -2548,7 +2548,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 47,NEW,The Edge Of Heaven,Wham!,Wham!,pop,80s,19860705,47,10,13,19860705
 48,38,Out Of Mind Out Of Sight,Models,Models,pop,australian,19860426,90,37,13,19860705
 49,44,The Finest,Sos Band,Sos Band,rnb / soul,funk,19860517,82,44,13,19860705
-50,52,Peter Gunn,The Art Of Noise Feat. Duane Eddy,The Art Of Noise Feat. Duane Eddy,pop,electronic,19860517,88,50,11,19860705
+50,52,Peter Gunn,The Art Of Noise Feat. Duane Eddy,The Art Of Noise Feat. Duane Eddy,electronic,electronic,19860517,88,50,11,19860705
 51,37,If You Leave,Orchestral Manoeuvres In The Dark,Orchestral Manoeuvres In The Dark,rock,new wave,19860308,81,4,20,19860705
 52,64,Hanging On A Heart Attack,Device,Device,rock,industrial metal,19860614,93,35,14,19860705
 53,53,Headed For The Future,Neil Diamond,Neil Diamond,country / folk,singer-songwriter,19860524,83,53,10,19860705
@@ -2650,7 +2650,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 49,26,Rain On The Scarecrow,John Cougar Mellencamp,John Cougar Mellencamp,rock,rock,19860426,64,21,12,19860628
 50,58,One Step Closer To You,Gavin Christopher,Gavin Christopher,rnb / soul,soul,19860524,85,22,17,19860628
 51,66,Rumours,Timex Social Club,Timex Social Club,pop,80s,19860614,81,8,19,19860628
-52,53,Peter Gunn,The Art Of Noise Feat. Duane Eddy,The Art Of Noise Feat. Duane Eddy,pop,electronic,19860517,88,50,11,19860628
+52,53,Peter Gunn,The Art Of Noise Feat. Duane Eddy,The Art Of Noise Feat. Duane Eddy,electronic,electronic,19860517,88,50,11,19860628
 53,56,Headed For The Future,Neil Diamond,Neil Diamond,country / folk,singer-songwriter,19860524,83,53,10,19860628
 54,47,Bad Boy,Miami Sound Machine,Miami Sound Machine,pop,pop,19860308,76,8,19,19860628
 55,44,What Have You Done For Me Lately,Janet Jackson,Janet Jackson,pop,pop,19860222,95,4,21,19860628
@@ -2751,7 +2751,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 50,57,You Should Be Mine (The Woo Woo Song),Jeffrey Osborne,Jeffrey Osborne,rnb / soul,soul,19860524,84,13,19,19860621
 51,68,Hyperactive,Robert Palmer,Robert Palmer,pop,80s,19860607,80,33,12,19860621
 52,64,Take It Easy,Andy Taylor,Andy Taylor,rock,rock,19860531,85,24,17,19860621
-53,58,Peter Gunn,The Art Of Noise Feat. Duane Eddy,The Art Of Noise Feat. Duane Eddy,pop,electronic,19860517,88,50,11,19860621
+53,58,Peter Gunn,The Art Of Noise Feat. Duane Eddy,The Art Of Noise Feat. Duane Eddy,electronic,electronic,19860517,88,50,11,19860621
 54,54,Listen Like Thieves,Inxs,Inxs,rock,rock,19860510,92,54,9,19860621
 55,43,Take Me Home,Phil Collins,Phil Collins,pop,pop,19860315,73,7,16,19860621
 56,62,Headed For The Future,Neil Diamond,Neil Diamond,country / folk,singer-songwriter,19860524,83,53,10,19860621
@@ -2856,7 +2856,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 55,39,Mothers Talk,Tears For Fears,Tears For Fears,rock,new wave,19860412,67,27,12,19860614
 56,57,Don Quichote,Magazine 60,Magazine 60,pop,italo disco,19860510,82,56,11,19860614
 57,64,You Should Be Mine (The Woo Woo Song),Jeffrey Osborne,Jeffrey Osborne,rnb / soul,soul,19860524,84,13,19,19860614
-58,67,Peter Gunn,The Art Of Noise Feat. Duane Eddy,The Art Of Noise Feat. Duane Eddy,pop,electronic,19860517,88,50,11,19860614
+58,67,Peter Gunn,The Art Of Noise Feat. Duane Eddy,The Art Of Noise Feat. Duane Eddy,electronic,electronic,19860517,88,50,11,19860614
 59,47,Tomorrow Doesn't Matter Tonight,Starship,Starship,pop,80s,19860405,71,26,13,19860614
 60,48,Pretty In Pink,Psychedelic Furs,Psychedelic Furs,rock,new wave,19860412,90,41,11,19860614
 61,53,Kiss,Prince,Prince,rnb / soul,funk,19860222,52,1,18,19860614
@@ -2965,7 +2965,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 64,69,You Should Be Mine (The Woo Woo Song),Jeffrey Osborne,Jeffrey Osborne,rnb / soul,soul,19860524,84,13,19,19860607
 65,51,Where Do The Children Go,Hooters,Hooters,rock,rock,19860405,78,38,12,19860607
 66,55,The Heat Of Heat,Patti Austin,Patti Austin,rnb / soul,soul,19860503,83,55,9,19860607
-67,75,Peter Gunn,The Art Of Noise Feat. Duane Eddy,The Art Of Noise Feat. Duane Eddy,pop,electronic,19860517,88,50,11,19860607
+67,75,Peter Gunn,The Art Of Noise Feat. Duane Eddy,The Art Of Noise Feat. Duane Eddy,electronic,electronic,19860517,88,50,11,19860607
 68,76,Headed For The Future,Neil Diamond,Neil Diamond,country / folk,singer-songwriter,19860524,83,53,10,19860607
 69,74,One Step Closer To You,Gavin Christopher,Gavin Christopher,rnb / soul,soul,19860524,85,22,17,19860607
 70,70,Say It Say It,Eg Daily,Eg Daily,pop,pop,19860426,95,70,10,19860607
@@ -3073,7 +3073,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 72,76,Fire With Fire,Wild Blue,Wild Blue,pop,aor,19860517,89,71,6,19860531
 73,44,Stick Around,Julian Lennon,Julian Lennon,pop,pop,19860322,72,32,13,19860531
 74,85,One Step Closer To You,Gavin Christopher,Gavin Christopher,rnb / soul,soul,19860524,85,22,17,19860531
-75,82,Peter Gunn,The Art Of Noise Feat. Duane Eddy,The Art Of Noise Feat. Duane Eddy,pop,electronic,19860517,88,50,11,19860531
+75,82,Peter Gunn,The Art Of Noise Feat. Duane Eddy,The Art Of Noise Feat. Duane Eddy,electronic,electronic,19860517,88,50,11,19860531
 76,83,Headed For The Future,Neil Diamond,Neil Diamond,country / folk,singer-songwriter,19860524,83,53,10,19860531
 77,68,Lead A Double Life,Loverboy,Loverboy,pop,80s,19860426,96,68,7,19860531
 78,67,Mutual Surrender,Bourgeois Tagg,Bourgeois Tagg,pop,american,19860412,92,62,10,19860531
@@ -3180,7 +3180,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 79,90,We Don't Have To Take Our Clothes Off,Jermaine Stewart,Jermaine Stewart,pop,80s,19860517,90,5,22,19860524
 80,56,Under The Influence,Vanity,Vanity,pop,80s,19860419,88,56,7,19860524
 81,55,Restless,Starpoint,Starpoint,rnb / soul,funk,19860322,85,46,12,19860524
-82,88,Peter Gunn,The Art Of Noise Feat. Duane Eddy,The Art Of Noise Feat. Duane Eddy,pop,electronic,19860517,88,50,11,19860524
+82,88,Peter Gunn,The Art Of Noise Feat. Duane Eddy,The Art Of Noise Feat. Duane Eddy,electronic,electronic,19860517,88,50,11,19860524
 83,NEW,Headed For The Future,Neil Diamond,Neil Diamond,country / folk,singer-songwriter,19860524,83,53,10,19860524
 84,NEW,You Should Be Mine (The Woo Woo Song),Jeffrey Osborne,Jeffrey Osborne,rnb / soul,soul,19860524,84,13,19,19860524
 85,NEW,One Step Closer To You,Gavin Christopher,Gavin Christopher,rnb / soul,soul,19860524,85,22,17,19860524
@@ -3286,7 +3286,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 85,88,Don't Walk Away,Robert Tepper,Robert Tepper,rock,rock,19860510,88,85,3,19860517
 86,NEW,Mad About You,Belinda Carlisle,Belinda Carlisle,pop,pop,19860517,86,3,21,19860517
 87,NEW,I Want You,Animotion,Animotion,rock,new wave,19860517,87,84,4,19860517
-88,NEW,Peter Gunn,The Art Of Noise Feat. Duane Eddy,The Art Of Noise Feat. Duane Eddy,pop,electronic,19860517,88,50,11,19860517
+88,NEW,Peter Gunn,The Art Of Noise Feat. Duane Eddy,The Art Of Noise Feat. Duane Eddy,electronic,electronic,19860517,88,50,11,19860517
 89,NEW,Fire With Fire,Wild Blue,Wild Blue,pop,aor,19860517,89,71,6,19860517
 90,NEW,We Don't Have To Take Our Clothes Off,Jermaine Stewart,Jermaine Stewart,pop,80s,19860517,90,5,22,19860517
 91,77,This Could Be The Night,Loverboy,Loverboy,pop,80s,19860118,87,10,18,19860517

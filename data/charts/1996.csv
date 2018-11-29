@@ -1845,7 +1845,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 44,39,Tonight Tonight,Smashing Pumpkins,Smashing Pumpkins,rock,alternative rock,19960629,51,36,20,19960824
 45,46,The Things That You Do,Gina Thompson,Gina Thompson,rnb / soul,soul,19960713,92,41,20,19960824
 46,56,Touch Myself,T-Boz,T-Boz,rnb / soul,rnb,19960810,88,40,20,19960824
-47,43,Missing,Everything But The Girl,Everything But The Girl,pop,electronic,19950812,94,2,55,19960824
+47,43,Missing,Everything But The Girl,Everything But The Girl,electronic,electronic,19950812,94,2,55,19960824
 48,49,Where Do We Go From Here,Deborah Cox,Deborah Cox,rnb / soul,rnb,19960706,84,48,14,19960824
 49,55,Po Pimp,Do Or Die,Do Or Die,pop,hardcore,19960803,78,22,20,19960824
 50,44,Wonder,Natalie Merchant,Natalie Merchant,pop,female vocalists,19951209,57,20,38,19960824
@@ -1941,7 +1941,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 40,42,Tucker's Town Can't Get You Off,Hootie And The Blowfish,Hootie And The Blowfish,rock,rock,19960713,88,38,20,19960817
 41,49,Macarena (Original Version),Los Del Rio,Los Del Rio,electronic,dance,19960706,72,23,21,19960817
 42,45,Like A Woman,Tony Rich Project,Tony Rich Project,rnb / soul,soul,19960727,76,41,15,19960817
-43,40,Missing,Everything But The Girl,Everything But The Girl,pop,electronic,19950812,94,2,55,19960817
+43,40,Missing,Everything But The Girl,Everything But The Girl,electronic,electronic,19950812,94,2,55,19960817
 44,39,Wonder,Natalie Merchant,Natalie Merchant,pop,female vocalists,19951209,57,20,38,19960817
 45,48,My Boo,Ghost Town Djs,Ghost Town Djs,rnb / soul,rnb,19960706,65,31,31,19960817
 46,51,The Things That You Do,Gina Thompson,Gina Thompson,rnb / soul,soul,19960713,92,41,20,19960817
@@ -2038,7 +2038,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 37,38,Until It Sleeps,Metallica,Metallica,rock,thrash metal,19960608,10,10,20,19960810
 38,60,Why Does It Hurt So Bad,Whitney Houston,Whitney Houston,pop,pop,19960803,60,26,20,19960810
 39,44,Wonder,Natalie Merchant,Natalie Merchant,pop,female vocalists,19951209,57,20,38,19960810
-40,41,Missing,Everything But The Girl,Everything But The Girl,pop,electronic,19950812,94,2,55,19960810
+40,41,Missing,Everything But The Girl,Everything But The Girl,electronic,electronic,19950812,94,2,55,19960810
 41,45,It's All The Way Live,Coolio,Coolio,hip-hop,rap,19960601,88,29,18,19960810
 42,47,Tucker's Town Can't Get You Off,Hootie And The Blowfish,Hootie And The Blowfish,rock,rock,19960713,88,38,20,19960810
 43,40,Blue,Leann Rimes,Leann Rimes,country / folk,country,19960622,56,26,20,19960810
@@ -2139,7 +2139,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 38,40,Until It Sleeps,Metallica,Metallica,rock,thrash metal,19960608,10,10,20,19960803
 39,33,Theme From Mission Impossible,Adam Clayton & Larry Mullen,Adam Clayton & Larry Mullen,pop,soundtrack,19960511,78,7,20,19960803
 40,36,Blue,Leann Rimes,Leann Rimes,country / folk,country,19960622,56,26,20,19960803
-41,43,Missing,Everything But The Girl,Everything But The Girl,pop,electronic,19950812,94,2,55,19960803
+41,43,Missing,Everything But The Girl,Everything But The Girl,electronic,electronic,19950812,94,2,55,19960803
 42,35,Fastlove,George Michael,George Michael,pop,pop,19960511,34,8,23,19960803
 43,42,Sittin' Up In My Room,Brandy,Brandy,rnb / soul,rnb,19951230,46,2,33,19960803
 44,45,Wonder,Natalie Merchant,Natalie Merchant,pop,female vocalists,19951209,57,20,38,19960803
@@ -2197,7 +2197,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 96,90,Maria,Ricky Martin,Ricky Martin,pop,latin,19960720,90,88,14,19960803
 97,NEW,Tell Me (I'll Be Around),Shades,Shades,pop,chillwave,19960803,97,50,17,19960803
 98,97,Can't Get You Off My Mind,Lenny Kravitz,Lenny Kravitz,rock,rock,19960323,96,62,20,19960803
-99,86,Wrong,Everything But The Girl,Everything But The Girl,pop,electronic,19960601,68,68,10,19960803
+99,86,Wrong,Everything But The Girl,Everything But The Girl,electronic,electronic,19960601,68,68,10,19960803
 100,98,Hang 'Em High,Sadat X,Sadat X,hip-hop,hip-hop,19960727,98,98,2,19960803
 1,2,You're Makin' Me High / Let It Flow,Toni Braxton,Toni Braxton,rnb / soul,rnb,19960608,7,1,41,19960727
 2,1,How Do U Want It / California Love,2Pac Featuring Kc And Jojo,2Pac,hip-hop,rap,19960615,64,1,24,19960727
@@ -2241,7 +2241,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 40,36,Until It Sleeps,Metallica,Metallica,rock,thrash metal,19960608,10,10,20,19960727
 41,37,It's All The Way Live,Coolio,Coolio,hip-hop,rap,19960601,88,29,18,19960727
 42,39,Sittin' Up In My Room,Brandy,Brandy,rnb / soul,rnb,19951230,46,2,33,19960727
-43,41,Missing,Everything But The Girl,Everything But The Girl,pop,electronic,19950812,94,2,55,19960727
+43,41,Missing,Everything But The Girl,Everything But The Girl,electronic,electronic,19950812,94,2,55,19960727
 44,49,Where Do You Go,No Mercy,No Mercy,electronic,dance,19960706,68,5,39,19960727
 45,42,Wonder,Natalie Merchant,Natalie Merchant,pop,female vocalists,19951209,57,20,38,19960727
 46,NEW,Stupid Girl,Garbage,Garbage,rock,rock,19960727,46,24,20,19960727
@@ -2284,7 +2284,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 83,79,In The Hood,Donell Jones,Donell Jones,rnb / soul,rnb,19960706,92,79,8,19960727
 84,85,In The Meantime,Spacehog,Spacehog,rock,alternative,19960406,43,32,20,19960727
 85,91,Paparazzi,Xzibit,Xzibit,hip-hop,rap,19960720,91,83,6,19960727
-86,82,Wrong,Everything But The Girl,Everything But The Girl,pop,electronic,19960601,68,68,10,19960727
+86,82,Wrong,Everything But The Girl,Everything But The Girl,electronic,electronic,19960601,68,68,10,19960727
 87,93,Waiting For Wednesday,Lisa Loeb & Nine Stories,Lisa Loeb & Nine Stories,pop,female vocalists,19960720,93,83,5,19960727
 88,87,Macarena,Los Del Mar,Los Del Mar,pop,pop,19960622,92,71,15,19960727
 89,74,Scarred,Luke,Luke,rock,rock,19960427,80,64,16,19960727
@@ -2339,7 +2339,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 38,40,Tonight Tonight,Smashing Pumpkins,Smashing Pumpkins,rock,alternative rock,19960629,51,36,20,19960720
 39,37,Sittin' Up In My Room,Brandy,Brandy,rnb / soul,rnb,19951230,46,2,33,19960720
 40,51,That Girl,Maxi Priest Featuring Shaggy,Maxi Priest,reggae,reggae,19960629,83,20,20,19960720
-41,38,Missing,Everything But The Girl,Everything But The Girl,pop,electronic,19950812,94,2,55,19960720
+41,38,Missing,Everything But The Girl,Everything But The Girl,electronic,electronic,19950812,94,2,55,19960720
 42,43,Wonder,Natalie Merchant,Natalie Merchant,pop,female vocalists,19951209,57,20,38,19960720
 43,36,Old Man & Me (When I Get To Heaven),Hootie And The Blowfish,Hootie And The Blowfish,rock,rock,19960427,28,13,20,19960720
 44,39,Tres Delinquentes,Delinquent Habits,Delinquent Habits,hip-hop,hip-hop,19960427,76,35,20,19960720
@@ -2380,7 +2380,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 79,85,In The Hood,Donell Jones,Donell Jones,rnb / soul,rnb,19960706,92,79,8,19960720
 80,81,Angeline Is Coming Home,The Badlees,The Badlees,rock,alternative,19960706,99,67,11,19960720
 81,84,Release Me,Angelina,Angelina,electronic,trance,19960323,74,52,20,19960720
-82,73,Wrong,Everything But The Girl,Everything But The Girl,pop,electronic,19960601,68,68,10,19960720
+82,73,Wrong,Everything But The Girl,Everything But The Girl,electronic,electronic,19960601,68,68,10,19960720
 83,74,This Is Your Night,Amber,Amber,electronic,dance,19960615,98,24,40,19960720
 84,82,For The Love Of You,Jordan Hill,Jordan Hill,pop,pop,19960608,90,66,8,19960720
 85,79,In The Meantime,Spacehog,Spacehog,rock,alternative,19960406,43,32,20,19960720
@@ -2436,7 +2436,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 35,36,Someday,All-4-One,All-4-One,rnb / soul,rnb,19960629,67,30,15,19960713
 36,31,Old Man & Me (When I Get To Heaven),Hootie And The Blowfish,Hootie And The Blowfish,rock,rock,19960427,28,13,20,19960713
 37,33,Sittin' Up In My Room,Brandy,Brandy,rnb / soul,rnb,19951230,46,2,33,19960713
-38,34,Missing,Everything But The Girl,Everything But The Girl,pop,electronic,19950812,94,2,55,19960713
+38,34,Missing,Everything But The Girl,Everything But The Girl,electronic,electronic,19950812,94,2,55,19960713
 39,35,Tres Delinquentes,Delinquent Habits,Delinquent Habits,hip-hop,hip-hop,19960427,76,35,20,19960713
 40,43,Tonight Tonight,Smashing Pumpkins,Smashing Pumpkins,rock,alternative rock,19960629,51,36,20,19960713
 41,41,Flood,Jars Of Clay,Jars Of Clay,pop,christian,19960518,56,37,19,19960713
@@ -2471,7 +2471,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 70,79,Blackberry Molasses,Mista,Mista,electronic,drum and bass,19960629,96,53,18,19960713
 71,58,Please Don't Go,Immature,Immature,rnb / soul,rnb,19960504,57,36,13,19960713
 72,67,House Keeper,Men Of Vizion,Men Of Vizion,rnb / soul,soul,19960601,97,67,11,19960713
-73,70,Wrong,Everything But The Girl,Everything But The Girl,pop,electronic,19960601,68,68,10,19960713
+73,70,Wrong,Everything But The Girl,Everything But The Girl,electronic,electronic,19960601,68,68,10,19960713
 74,80,This Is Your Night,Amber,Amber,electronic,dance,19960615,98,24,40,19960713
 75,75,Redneck Games,Jeff Foxworthy & Alan Jackson,Jeff Foxworthy & Alan Jackson,pop,comedy,19960629,92,66,10,19960713
 76,59,Woo-Hah!! Got You All In Check / Everything Remains Raw,Busta Rhymes,Busta Rhymes,hip-hop,hip-hop,19960309,86,8,20,19960713
@@ -2532,7 +2532,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 31,27,Old Man & Me (When I Get To Heaven),Hootie And The Blowfish,Hootie And The Blowfish,rock,rock,19960427,28,13,20,19960706
 32,36,Counting Blue Cars,Dishwalla,Dishwalla,rock,alternative rock,19960406,98,15,48,19960706
 33,31,Sittin' Up In My Room,Brandy,Brandy,rnb / soul,rnb,19951230,46,2,33,19960706
-34,32,Missing,Everything But The Girl,Everything But The Girl,pop,electronic,19950812,94,2,55,19960706
+34,32,Missing,Everything But The Girl,Everything But The Girl,electronic,electronic,19950812,94,2,55,19960706
 35,35,Tres Delinquentes,Delinquent Habits,Delinquent Habits,hip-hop,hip-hop,19960427,76,35,20,19960706
 36,67,Someday,All-4-One,All-4-One,rnb / soul,rnb,19960629,67,30,15,19960706
 37,41,Jealousy,Natalie Merchant,Natalie Merchant,pop,female vocalists,19960615,55,23,20,19960706
@@ -2568,7 +2568,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 67,74,House Keeper,Men Of Vizion,Men Of Vizion,rnb / soul,soul,19960601,97,67,11,19960706
 68,NEW,Where Do You Go,No Mercy,No Mercy,electronic,dance,19960706,68,5,39,19960706
 69,72,I'll Never Stop Loving You,J'Son,J'Son,pop,pop,19960525,91,62,16,19960706
-70,68,Wrong,Everything But The Girl,Everything But The Girl,pop,electronic,19960601,68,68,10,19960706
+70,68,Wrong,Everything But The Girl,Everything But The Girl,electronic,electronic,19960601,68,68,10,19960706
 71,75,Where It's At,Beck,Beck,rock,alternative,19960629,75,61,19,19960706
 72,NEW,Macarena (Original Version),Los Del Rio,Los Del Rio,electronic,dance,19960706,72,23,21,19960706
 73,71,Scarred,Luke,Luke,rock,rock,19960427,80,64,16,19960706
@@ -2630,7 +2630,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 29,31,It's All The Way Live,Coolio,Coolio,hip-hop,rap,19960601,88,29,18,19960629
 30,30,They Don't Care About Us,Michael Jackson,Michael Jackson,pop,pop,19960608,30,30,13,19960629
 31,28,Sittin' Up In My Room,Brandy,Brandy,rnb / soul,rnb,19951230,46,2,33,19960629
-32,29,Missing,Everything But The Girl,Everything But The Girl,pop,electronic,19950812,94,2,55,19960629
+32,29,Missing,Everything But The Girl,Everything But The Girl,electronic,electronic,19950812,94,2,55,19960629
 33,56,Blue,Leann Rimes,Leann Rimes,country / folk,country,19960622,56,26,20,19960629
 34,33,Keep On Keepin' On,Mc Lyte Featuring Xscape,Mc Lyte,hip-hop,hip-hop,19960316,62,10,20,19960629
 35,38,Tres Delinquentes,Delinquent Habits,Delinquent Habits,hip-hop,hip-hop,19960427,76,35,20,19960629
@@ -2666,7 +2666,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 65,95,I Love You Always Forever,Donna Lewis,Donna Lewis,pop,pop,19960622,95,2,41,19960629
 66,90,For The Love Of You,Jordan Hill,Jordan Hill,pop,pop,19960608,90,66,8,19960629
 67,NEW,Someday,All-4-One,All-4-One,rnb / soul,rnb,19960629,67,30,15,19960629
-68,68,Wrong,Everything But The Girl,Everything But The Girl,pop,electronic,19960601,68,68,10,19960629
+68,68,Wrong,Everything But The Girl,Everything But The Girl,electronic,electronic,19960601,68,68,10,19960629
 69,61,Release Me,Angelina,Angelina,electronic,trance,19960323,74,52,20,19960629
 70,62,Renee,Lost Boyz,Lost Boyz,hip-hop,hip-hop,19960323,79,33,18,19960629
 71,70,Scarred,Luke,Luke,rock,rock,19960427,80,64,16,19960629
@@ -2727,7 +2727,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 26,26,"The Earth, The Sun, The Rain",Color Me Badd,Color Me Badd,pop,90s,19960504,46,21,22,19960622
 27,38,Hay,Crucial Conflict,Crucial Conflict,hip-hop,rap,19960511,90,18,20,19960622
 28,23,Sittin' Up In My Room,Brandy,Brandy,rnb / soul,rnb,19951230,46,2,33,19960622
-29,24,Missing,Everything But The Girl,Everything But The Girl,pop,electronic,19950812,94,2,55,19960622
+29,24,Missing,Everything But The Girl,Everything But The Girl,electronic,electronic,19950812,94,2,55,19960622
 30,30,They Don't Care About Us,Michael Jackson,Michael Jackson,pop,pop,19960608,30,30,13,19960622
 31,34,It's All The Way Live,Coolio,Coolio,hip-hop,rap,19960601,88,29,18,19960622
 32,36,Only You,112 Featuring The Notorious B.I.G.,112,rnb / soul,rnb,19960601,67,13,28,19960622
@@ -2766,7 +2766,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 65,NEW,If I Ruled The World,Nas,Nas,hip-hop,hip-hop,19960622,65,53,20,19960622
 66,66,You Still Touch Me,Sting,Sting,rock,rock,19960518,89,60,13,19960622
 67,60,I Want To Come Over,Melissa Etheridge,Melissa Etheridge,rock,rock,19960217,32,22,20,19960622
-68,68,Wrong,Everything But The Girl,Everything But The Girl,pop,electronic,19960601,68,68,10,19960622
+68,68,Wrong,Everything But The Girl,Everything But The Girl,electronic,electronic,19960601,68,68,10,19960622
 69,59,5 O'Clock,Nonchalant,Nonchalant,hip-hop,rap,19960302,83,24,20,19960622
 70,73,Scarred,Luke,Luke,rock,rock,19960427,80,64,16,19960622
 71,72,Chains,Tina Arena,Tina Arena,pop,pop,19960420,52,38,12,19960622
@@ -2798,7 +2798,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 97,94,Mr. Ice Cream Man,Master P,Master P,hip-hop,rap,19960615,94,94,4,19960622
 98,93,Feel The Music,Planet Soul,Planet Soul,electronic,house,19960427,78,73,11,19960622
 99,95,Love Don't Live Here Anymore,Madonna,Madonna,pop,pop,19960420,91,78,10,19960622
-100,86,Esa Nena Linda,Artie The 1 Man Party,Artie The 1 Man Party,pop,electronic,19960323,98,74,14,19960622
+100,86,Esa Nena Linda,Artie The 1 Man Party,Artie The 1 Man Party,electronic,electronic,19960323,98,74,14,19960622
 1,1,Tha Crossroads,Bone Thugs-N-Harmony,Bone Thugs-N-Harmony,hip-hop,hip-hop,19960511,2,1,20,19960615
 2,2,Always Be My Baby,Mariah Carey,Mariah Carey,pop,pop,19960406,2,1,32,19960615
 3,4,Give Me One Reason,Tracy Chapman,Tracy Chapman,pop,female vocalists,19960406,60,3,39,19960615
@@ -2822,7 +2822,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 21,18,Keep On Keepin' On,Mc Lyte Featuring Xscape,Mc Lyte,hip-hop,hip-hop,19960316,62,10,20,19960615
 22,22,Get On Up,Jodeci,Jodeci,rnb / soul,rnb,19960518,60,22,18,19960615
 23,21,Sittin' Up In My Room,Brandy,Brandy,rnb / soul,rnb,19951230,46,2,33,19960615
-24,29,Missing,Everything But The Girl,Everything But The Girl,pop,electronic,19950812,94,2,55,19960615
+24,29,Missing,Everything But The Girl,Everything But The Girl,electronic,electronic,19950812,94,2,55,19960615
 25,17,"Count On Me (From ""Waiting To Exhale"")",Whitney Houston & Cece Winans,Whitney Houston & Cece Winans,rnb / soul,soul,19960323,32,8,20,19960615
 26,27,"The Earth, The Sun, The Rain",Color Me Badd,Color Me Badd,pop,90s,19960504,46,21,22,19960615
 27,31,Children,Robert Miles,Robert Miles,electronic,trance,19960511,75,21,20,19960615
@@ -2866,7 +2866,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 65,59,Don't Cry,Seal,Seal,rnb / soul,soul,19960217,33,33,20,19960615
 66,66,You Still Touch Me,Sting,Sting,rock,rock,19960518,89,60,13,19960615
 67,62,In The Meantime,Spacehog,Spacehog,rock,alternative,19960406,43,32,20,19960615
-68,68,Wrong,Everything But The Girl,Everything But The Girl,pop,electronic,19960601,68,68,10,19960615
+68,68,Wrong,Everything But The Girl,Everything But The Girl,electronic,electronic,19960601,68,68,10,19960615
 69,71,Can't Get You Off My Mind,Lenny Kravitz,Lenny Kravitz,rock,rock,19960323,96,62,20,19960615
 70,67,Don't Wanna Lose You,Lionel Richie,Lionel Richie,rnb / soul,soul,19960413,56,39,15,19960615
 71,73,Ain't Nobody,Faith Evans,Faith Evans,rnb / soul,rnb,19960413,71,67,16,19960615
@@ -2884,7 +2884,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 83,79,My Maria,Brooks & Dunn,Brooks & Dunn,country / folk,country,19960427,96,79,12,19960615
 84,86,Live & Die For Hip Hop,Kris Kross,Kris Kross,hip-hop,hip-hop,19960427,82,72,10,19960615
 85,85,Heartspark Dollarsign,Everclear,Everclear,rock,rock,19960518,92,85,6,19960615
-86,94,Esa Nena Linda,Artie The 1 Man Party,Artie The 1 Man Party,pop,electronic,19960323,98,74,14,19960615
+86,94,Esa Nena Linda,Artie The 1 Man Party,Artie The 1 Man Party,electronic,electronic,19960323,98,74,14,19960615
 87,96,One More Try,Kristine W,Kristine W,electronic,dance,19960601,96,78,15,19960615
 88,82,Lucky Love,Ace Of Base,Ace Of Base,pop,pop,19960224,66,30,17,19960615
 89,88,One For The Money,Horace Brown,Horace Brown,rnb / soul,soul,19960330,92,62,12,19960615
@@ -2927,7 +2927,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 26,27,Kissin' You,Total,Total,rock,russian rock,19960504,59,12,22,19960608
 27,21,"The Earth, The Sun, The Rain",Color Me Badd,Color Me Badd,pop,90s,19960504,46,21,22,19960608
 28,18,Get Money,Junior M.A.F.I.A. Featuring The Notorious B.I.G.,Junior M.A.F.I.A.,hip-hop,hip-hop,19960210,55,17,20,19960608
-29,20,Missing,Everything But The Girl,Everything But The Girl,pop,electronic,19950812,94,2,55,19960608
+29,20,Missing,Everything But The Girl,Everything But The Girl,electronic,electronic,19950812,94,2,55,19960608
 30,NEW,They Don't Care About Us,Michael Jackson,Michael Jackson,pop,pop,19960608,30,30,13,19960608
 31,33,Children,Robert Miles,Robert Miles,electronic,trance,19960511,75,21,20,19960608
 32,32,You,Monifah,Monifah,rnb / soul,rnb,19960511,39,32,19,19960608
@@ -2966,7 +2966,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 65,65,Forever More,Puff Johnson,Puff Johnson,rnb / soul,soul,19960518,83,63,13,19960608
 66,66,You Still Touch Me,Sting,Sting,rock,rock,19960518,89,60,13,19960608
 67,53,Don't Wanna Lose You,Lionel Richie,Lionel Richie,rnb / soul,soul,19960413,56,39,15,19960608
-68,68,Wrong,Everything But The Girl,Everything But The Girl,pop,electronic,19960601,68,68,10,19960608
+68,68,Wrong,Everything But The Girl,Everything But The Girl,electronic,electronic,19960601,68,68,10,19960608
 69,52,Chains,Tina Arena,Tina Arena,pop,pop,19960420,52,38,12,19960608
 70,59,I Will Survive,Chantay Savage,Chantay Savage,rnb / soul,rnb,19960217,90,24,20,19960608
 71,64,Can't Get You Off My Mind,Lenny Kravitz,Lenny Kravitz,rock,rock,19960323,96,62,20,19960608
@@ -2992,7 +2992,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 91,83,Do You Want To / Can't Hang,Xscape Featuring Mc Lyte,Xscape,rnb / soul,rnb,19960309,63,50,16,19960608
 92,90,The World Is A Ghetto,Geto Boys,Geto Boys,hip-hop,hip-hop,19960504,94,82,7,19960608
 93,89,Slow Jams,Quincy Jones,Quincy Jones,jazz,jazz,19960420,72,68,9,19960608
-94,87,Esa Nena Linda,Artie The 1 Man Party,Artie The 1 Man Party,pop,electronic,19960323,98,74,14,19960608
+94,87,Esa Nena Linda,Artie The 1 Man Party,Artie The 1 Man Party,electronic,electronic,19960323,98,74,14,19960608
 95,93,Let's Lay Together,Isley Brothers,Isley Brothers,rnb / soul,soul,19960518,94,93,5,19960608
 96,96,One More Try,Kristine W,Kristine W,electronic,dance,19960601,96,78,15,19960608
 97,85,Feel The Music,Planet Soul,Planet Soul,electronic,house,19960427,78,73,11,19960608
@@ -3018,7 +3018,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 17,11,Down Low (Nobody Has To Know),R. Kelly Featuring Ronald Isley,R. Kelly,rnb / soul,rnb,19960302,22,4,20,19960601
 18,17,Get Money,Junior M.A.F.I.A. Featuring The Notorious B.I.G.,Junior M.A.F.I.A.,hip-hop,hip-hop,19960210,55,17,20,19960601
 19,27,Macarena (Bayside Boys Mix),Los Del Rio,Los Del Rio,electronic,dance,19960511,47,1,40,19960601
-20,19,Missing,Everything But The Girl,Everything But The Girl,pop,electronic,19950812,94,2,55,19960601
+20,19,Missing,Everything But The Girl,Everything But The Girl,electronic,electronic,19950812,94,2,55,19960601
 21,25,"The Earth, The Sun, The Rain",Color Me Badd,Color Me Badd,pop,90s,19960504,46,21,22,19960601
 22,49,Get On Up,Jodeci,Jodeci,rnb / soul,rnb,19960518,60,22,18,19960601
 23,24,"Closer To Free (From ""Party Of Five"")",Bodeans,Bodeans,rock,rock,19960309,35,16,20,19960601
@@ -3066,7 +3066,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 65,69,Forever More,Puff Johnson,Puff Johnson,rnb / soul,soul,19960518,83,63,13,19960601
 66,77,You Still Touch Me,Sting,Sting,rock,rock,19960518,89,60,13,19960601
 67,NEW,Only You,112 Featuring The Notorious B.I.G.,112,rnb / soul,rnb,19960601,67,13,28,19960601
-68,NEW,Wrong,Everything But The Girl,Everything But The Girl,pop,electronic,19960601,68,68,10,19960601
+68,NEW,Wrong,Everything But The Girl,Everything But The Girl,electronic,electronic,19960601,68,68,10,19960601
 69,61,Wonderwall,Oasis,Oasis,pop,britpop,19960127,21,8,20,19960601
 70,63,Amish Paradise,Weird Al Yankovic,Weird Al Yankovic,pop,comedy,19960330,65,53,16,19960601
 71,64,Scarred,Luke,Luke,rock,rock,19960427,80,64,16,19960601
@@ -3085,7 +3085,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 84,91,I'll Never Stop Loving You,J'Son,J'Son,pop,pop,19960525,91,62,16,19960601
 85,73,Feel The Music,Planet Soul,Planet Soul,electronic,house,19960427,78,73,11,19960601
 86,88,Scary Kisses,Voice Of The Beehive,Voice Of The Beehive,pop,pop,19960504,93,77,8,19960601
-87,86,Esa Nena Linda,Artie The 1 Man Party,Artie The 1 Man Party,pop,electronic,19960323,98,74,14,19960601
+87,86,Esa Nena Linda,Artie The 1 Man Party,Artie The 1 Man Party,electronic,electronic,19960323,98,74,14,19960601
 88,NEW,It's All The Way Live,Coolio,Coolio,hip-hop,rap,19960601,88,29,18,19960601
 89,84,Slow Jams,Quincy Jones,Quincy Jones,jazz,jazz,19960420,72,68,9,19960601
 90,82,The World Is A Ghetto,Geto Boys,Geto Boys,hip-hop,hip-hop,19960504,94,82,7,19960601
@@ -3117,7 +3117,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 16,16,"Insensitive (From ""Bed Of Roses"")",Jann Arden,Jann Arden,pop,female vocalists,19960210,96,12,40,19960525
 17,48,Get Money,Junior M.A.F.I.A. Featuring The Notorious B.I.G.,Junior M.A.F.I.A.,hip-hop,hip-hop,19960210,55,17,20,19960525
 18,18,Sweet Dreams,La Bouche,La Bouche,electronic,eurodance,19960330,63,13,32,19960525
-19,17,Missing,Everything But The Girl,Everything But The Girl,pop,electronic,19950812,94,2,55,19960525
+19,17,Missing,Everything But The Girl,Everything But The Girl,electronic,electronic,19950812,94,2,55,19960525
 20,15,Woo-Hah!! Got You All In Check / Everything Remains Raw,Busta Rhymes,Busta Rhymes,hip-hop,hip-hop,19960309,86,8,20,19960525
 21,19,Doin' It,Ll Cool J,Ll Cool J,hip-hop,hip-hop,19960309,28,9,20,19960525
 22,21,All The Things,Joe,Joe,rnb / soul,rnb,19960210,78,11,20,19960525
@@ -3184,7 +3184,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 83,85,My Maria,Brooks & Dunn,Brooks & Dunn,country / folk,country,19960427,96,79,12,19960525
 84,86,Slow Jams,Quincy Jones,Quincy Jones,jazz,jazz,19960420,72,68,9,19960525
 85,76,Peaches,The Presidents Of The United States Of America,The Presidents Of The United States Of America,rock,rock,19960309,47,29,14,19960525
-86,84,Esa Nena Linda,Artie The 1 Man Party,Artie The 1 Man Party,pop,electronic,19960323,98,74,14,19960525
+86,84,Esa Nena Linda,Artie The 1 Man Party,Artie The 1 Man Party,electronic,electronic,19960323,98,74,14,19960525
 87,87,Guilty,Gravity Kills,Gravity Kills,pop,industrial,19960413,91,86,20,19960525
 88,88,Scary Kisses,Voice Of The Beehive,Voice Of The Beehive,pop,pop,19960504,93,77,8,19960525
 89,78,Love Don't Live Here Anymore,Madonna,Madonna,pop,pop,19960420,91,78,10,19960525
@@ -3215,7 +3215,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 14,17,Old Man & Me (When I Get To Heaven),Hootie And The Blowfish,Hootie And The Blowfish,rock,rock,19960427,28,13,20,19960518
 15,11,Woo-Hah!! Got You All In Check / Everything Remains Raw,Busta Rhymes,Busta Rhymes,hip-hop,hip-hop,19960309,86,8,20,19960518
 16,18,"Insensitive (From ""Bed Of Roses"")",Jann Arden,Jann Arden,pop,female vocalists,19960210,96,12,40,19960518
-17,16,Missing,Everything But The Girl,Everything But The Girl,pop,electronic,19950812,94,2,55,19960518
+17,16,Missing,Everything But The Girl,Everything But The Girl,electronic,electronic,19950812,94,2,55,19960518
 18,21,Sweet Dreams,La Bouche,La Bouche,electronic,eurodance,19960330,63,13,32,19960518
 19,14,Doin' It,Ll Cool J,Ll Cool J,hip-hop,hip-hop,19960309,28,9,20,19960518
 20,27,Wonder,Natalie Merchant,Natalie Merchant,pop,female vocalists,19951209,57,20,38,19960518
@@ -3282,7 +3282,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 81,80,One For The Money,Horace Brown,Horace Brown,rnb / soul,soul,19960330,92,62,12,19960518
 82,82,The World Is A Ghetto,Geto Boys,Geto Boys,hip-hop,hip-hop,19960504,94,82,7,19960518
 83,NEW,Forever More,Puff Johnson,Puff Johnson,rnb / soul,soul,19960518,83,63,13,19960518
-84,74,Esa Nena Linda,Artie The 1 Man Party,Artie The 1 Man Party,pop,electronic,19960323,98,74,14,19960518
+84,74,Esa Nena Linda,Artie The 1 Man Party,Artie The 1 Man Party,electronic,electronic,19960323,98,74,14,19960518
 85,85,My Maria,Brooks & Dunn,Brooks & Dunn,country / folk,country,19960427,96,79,12,19960518
 86,83,Slow Jams,Quincy Jones,Quincy Jones,jazz,jazz,19960420,72,68,9,19960518
 87,92,Guilty,Gravity Kills,Gravity Kills,pop,industrial,19960413,91,86,20,19960518
@@ -3314,7 +3314,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 13,11,Sittin' Up In My Room,Brandy,Brandy,rnb / soul,rnb,19951230,46,2,33,19960511
 14,12,Doin' It,Ll Cool J,Ll Cool J,hip-hop,hip-hop,19960309,28,9,20,19960511
 15,28,Keep On Keepin' On,Mc Lyte Featuring Xscape,Mc Lyte,hip-hop,hip-hop,19960316,62,10,20,19960511
-16,13,Missing,Everything But The Girl,Everything But The Girl,pop,electronic,19950812,94,2,55,19960511
+16,13,Missing,Everything But The Girl,Everything But The Girl,electronic,electronic,19950812,94,2,55,19960511
 17,22,Old Man & Me (When I Get To Heaven),Hootie And The Blowfish,Hootie And The Blowfish,rock,rock,19960427,28,13,20,19960511
 18,19,"Insensitive (From ""Bed Of Roses"")",Jann Arden,Jann Arden,pop,female vocalists,19960210,96,12,40,19960511
 19,15,All The Things,Joe,Joe,rnb / soul,rnb,19960210,78,11,20,19960511
@@ -3372,7 +3372,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 71,71,Your Loving Arms,Billie Ray Martin,Billie Ray Martin,electronic,house,19960420,88,46,13,19960511
 72,75,Ever Since You Went Away,Art N'Soul,Art Nsoul,pop,unknown,19960316,91,72,14,19960511
 73,73,Live & Die For Hip Hop,Kris Kross,Kris Kross,hip-hop,hip-hop,19960427,82,72,10,19960511
-74,74,Esa Nena Linda,Artie The 1 Man Party,Artie The 1 Man Party,pop,electronic,19960323,98,74,14,19960511
+74,74,Esa Nena Linda,Artie The 1 Man Party,Artie The 1 Man Party,electronic,electronic,19960323,98,74,14,19960511
 75,NEW,Children,Robert Miles,Robert Miles,electronic,trance,19960511,75,21,20,19960511
 76,72,Shadowboxin',Genius / Gza,Genius / Gza,hip-hop,hip-hop,19960406,89,67,13,19960511
 77,77,Feel The Music,Planet Soul,Planet Soul,electronic,house,19960427,78,73,11,19960511
@@ -3411,7 +3411,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 10,11,Follow You Down / Til' I Hear It From You,Gin Blossoms,Gin Blossoms,rock,alternative,19960210,12,9,46,19960504
 11,10,Sittin' Up In My Room,Brandy,Brandy,rnb / soul,rnb,19951230,46,2,33,19960504
 12,12,Doin' It,Ll Cool J,Ll Cool J,hip-hop,hip-hop,19960309,28,9,20,19960504
-13,13,Missing,Everything But The Girl,Everything But The Girl,pop,electronic,19950812,94,2,55,19960504
+13,13,Missing,Everything But The Girl,Everything But The Girl,electronic,electronic,19950812,94,2,55,19960504
 14,22,Give Me One Reason,Tracy Chapman,Tracy Chapman,pop,female vocalists,19960406,60,3,39,19960504
 15,14,All The Things,Joe,Joe,rnb / soul,rnb,19960210,78,11,20,19960504
 16,19,"Closer To Free (From ""Party Of Five"")",Bodeans,Bodeans,rock,rock,19960309,35,16,20,19960504
@@ -3472,7 +3472,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 71,71,Your Loving Arms,Billie Ray Martin,Billie Ray Martin,electronic,house,19960420,88,46,13,19960504
 72,67,Shadowboxin',Genius / Gza,Genius / Gza,hip-hop,hip-hop,19960406,89,67,13,19960504
 73,82,Live & Die For Hip Hop,Kris Kross,Kris Kross,hip-hop,hip-hop,19960427,82,72,10,19960504
-74,75,Esa Nena Linda,Artie The 1 Man Party,Artie The 1 Man Party,pop,electronic,19960323,98,74,14,19960504
+74,75,Esa Nena Linda,Artie The 1 Man Party,Artie The 1 Man Party,electronic,electronic,19960323,98,74,14,19960504
 75,77,Ever Since You Went Away,Art N'Soul,Art Nsoul,pop,unknown,19960316,91,72,14,19960504
 76,68,Slow Jams,Quincy Jones,Quincy Jones,jazz,jazz,19960420,72,68,9,19960504
 77,78,Feel The Music,Planet Soul,Planet Soul,electronic,house,19960427,78,73,11,19960504
@@ -3511,7 +3511,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 10,7,Sittin' Up In My Room,Brandy,Brandy,rnb / soul,rnb,19951230,46,2,33,19960427
 11,13,Follow You Down / Til' I Hear It From You,Gin Blossoms,Gin Blossoms,rock,alternative,19960210,12,9,46,19960427
 12,12,Doin' It,Ll Cool J,Ll Cool J,hip-hop,hip-hop,19960309,28,9,20,19960427
-13,16,Missing,Everything But The Girl,Everything But The Girl,pop,electronic,19950812,94,2,55,19960427
+13,16,Missing,Everything But The Girl,Everything But The Girl,electronic,electronic,19950812,94,2,55,19960427
 14,14,All The Things,Joe,Joe,rnb / soul,rnb,19960210,78,11,20,19960427
 15,15,Lady,D'Angelo,D'Angelo,rnb / soul,soul,19960302,67,10,20,19960427
 16,11,Not Goin' Cry,Mary J. Blige,Mary J. Blige,rnb / soul,rnb,19960127,59,2,20,19960427
@@ -3573,7 +3573,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 72,68,Jesus To A Child,George Michael,George Michael,pop,pop,19960224,7,7,14,19960427
 73,83,Counting Blue Cars,Dishwalla,Dishwalla,rock,alternative rock,19960406,98,15,48,19960427
 74,65,Can't Be Wasting My Time,Mona Lisa,Mona Lisa,rock,progressive rock,19960217,66,65,13,19960427
-75,75,Esa Nena Linda,Artie The 1 Man Party,Artie The 1 Man Party,pop,electronic,19960323,98,74,14,19960427
+75,75,Esa Nena Linda,Artie The 1 Man Party,Artie The 1 Man Party,electronic,electronic,19960323,98,74,14,19960427
 76,NEW,Tres Delinquentes,Delinquent Habits,Delinquent Habits,hip-hop,hip-hop,19960427,76,35,20,19960427
 77,73,Ever Since You Went Away,Art N'Soul,Art Nsoul,pop,unknown,19960316,91,72,14,19960427
 78,NEW,Feel The Music,Planet Soul,Planet Soul,electronic,house,19960427,78,73,11,19960427
@@ -3614,7 +3614,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 13,10,Follow You Down / Til' I Hear It From You,Gin Blossoms,Gin Blossoms,rock,alternative,19960210,12,9,46,19960420
 14,11,All The Things,Joe,Joe,rnb / soul,rnb,19960210,78,11,20,19960420
 15,13,Lady,D'Angelo,D'Angelo,rnb / soul,soul,19960302,67,10,20,19960420
-16,12,Missing,Everything But The Girl,Everything But The Girl,pop,electronic,19950812,94,2,55,19960420
+16,12,Missing,Everything But The Girl,Everything But The Girl,electronic,electronic,19950812,94,2,55,19960420
 17,15,One Sweet Day,Mariah Carey & Boyz Ii Men,Mariah Carey & Boyz Ii Men,pop,pop,19951202,1,1,27,19960420
 18,17,1979,The Smashing Pumpkins,The Smashing Pumpkins,rock,alternative rock,19960210,20,12,22,19960420
 19,20,Who Do U Love,Deborah Cox,Deborah Cox,rnb / soul,rnb,19960203,74,17,20,19960420
@@ -3673,7 +3673,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 72,NEW,Slow Jams,Quincy Jones,Quincy Jones,jazz,jazz,19960420,72,68,9,19960420
 73,78,Ever Since You Went Away,Art N'Soul,Art Nsoul,pop,unknown,19960316,91,72,14,19960420
 74,74,Take A Look,J'Son,J'Son,pop,pop,19960224,94,74,12,19960420
-75,75,Esa Nena Linda,Artie The 1 Man Party,Artie The 1 Man Party,pop,electronic,19960323,98,74,14,19960420
+75,75,Esa Nena Linda,Artie The 1 Man Party,Artie The 1 Man Party,electronic,electronic,19960323,98,74,14,19960420
 76,77,Have I Ever,A Few Good Men,A Few Good Men,pop,slowjam,19960323,88,76,10,19960420
 77,66,Natural One,Folk Implosion,Folk Implosion,pop,lo-fi,19951209,54,29,20,19960420
 78,64,You'll See,Madonna,Madonna,pop,pop,19951209,8,6,20,19960420
@@ -3710,7 +3710,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 9,12,Doin' It,Ll Cool J,Ll Cool J,hip-hop,hip-hop,19960309,28,9,20,19960413
 10,11,Follow You Down / Til' I Hear It From You,Gin Blossoms,Gin Blossoms,rock,alternative,19960210,12,9,46,19960413
 11,15,All The Things,Joe,Joe,rnb / soul,rnb,19960210,78,11,20,19960413
-12,8,Missing,Everything But The Girl,Everything But The Girl,pop,electronic,19950812,94,2,55,19960413
+12,8,Missing,Everything But The Girl,Everything But The Girl,electronic,electronic,19950812,94,2,55,19960413
 13,14,Lady,D'Angelo,D'Angelo,rnb / soul,soul,19960302,67,10,20,19960413
 14,16,"Count On Me (From ""Waiting To Exhale"")",Whitney Houston & Cece Winans,Whitney Houston & Cece Winans,rnb / soul,soul,19960323,32,8,20,19960413
 15,9,One Sweet Day,Mariah Carey & Boyz Ii Men,Mariah Carey & Boyz Ii Men,pop,pop,19951202,1,1,27,19960413
@@ -3773,7 +3773,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 72,89,Shadowboxin',Genius / Gza,Genius / Gza,hip-hop,hip-hop,19960406,89,67,13,19960413
 73,83,Can't Get You Off My Mind,Lenny Kravitz,Lenny Kravitz,rock,rock,19960323,96,62,20,19960413
 74,74,Take A Look,J'Son,J'Son,pop,pop,19960224,94,74,12,19960413
-75,75,Esa Nena Linda,Artie The 1 Man Party,Artie The 1 Man Party,pop,electronic,19960323,98,74,14,19960413
+75,75,Esa Nena Linda,Artie The 1 Man Party,Artie The 1 Man Party,electronic,electronic,19960323,98,74,14,19960413
 76,71,Keep Tryin',Groove Theory,Groove Theory,rnb / soul,soul,19960210,80,64,12,19960413
 77,77,Have I Ever,A Few Good Men,A Few Good Men,pop,slowjam,19960323,88,76,10,19960413
 78,86,Ever Since You Went Away,Art N'Soul,Art Nsoul,pop,unknown,19960316,91,72,14,19960413
@@ -3806,7 +3806,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 5,6,Ironic,Alanis Morissette,Alanis Morissette,pop,female vocalists,19960316,11,4,32,19960406
 6,3,Sittin' Up In My Room,Brandy,Brandy,rnb / soul,rnb,19951230,46,2,33,19960406
 7,5,Not Goin' Cry,Mary J. Blige,Mary J. Blige,rnb / soul,rnb,19960127,59,2,20,19960406
-8,8,Missing,Everything But The Girl,Everything But The Girl,pop,electronic,19950812,94,2,55,19960406
+8,8,Missing,Everything But The Girl,Everything But The Girl,electronic,electronic,19950812,94,2,55,19960406
 9,7,One Sweet Day,Mariah Carey & Boyz Ii Men,Mariah Carey & Boyz Ii Men,pop,pop,19951202,1,1,27,19960406
 10,16,1-2-3-4 (Sumpin' New),Coolio,Coolio,hip-hop,rap,19960309,68,5,21,19960406
 11,9,Follow You Down / Til' I Hear It From You,Gin Blossoms,Gin Blossoms,rock,alternative,19960210,12,9,46,19960406
@@ -3873,7 +3873,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 72,67,Stayin' Alive,N-Trance,N-Trance,electronic,dance,19960120,90,62,17,19960406
 73,71,Visions Of A Sunset,Shawn Stockman,Shawn Stockman,rnb / soul,soul,19960113,70,45,15,19960406
 74,76,Take A Look,J'Son,J'Son,pop,pop,19960224,94,74,12,19960406
-75,90,Esa Nena Linda,Artie The 1 Man Party,Artie The 1 Man Party,pop,electronic,19960323,98,74,14,19960406
+75,90,Esa Nena Linda,Artie The 1 Man Party,Artie The 1 Man Party,electronic,electronic,19960323,98,74,14,19960406
 76,NEW,Ain't No Nigga / Dead Presidents,Jay-Z Featuring Foxy Brown,Jay-Z,hip-hop,hip-hop,19960406,76,50,20,19960406
 77,77,Have I Ever,A Few Good Men,A Few Good Men,pop,slowjam,19960323,88,76,10,19960406
 78,80,High And Dry,Radiohead,Radiohead,rock,alternative,19960316,83,78,8,19960406
@@ -3906,7 +3906,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 5,4,Not Goin' Cry,Mary J. Blige,Mary J. Blige,rnb / soul,rnb,19960127,59,2,20,19960330
 6,7,Ironic,Alanis Morissette,Alanis Morissette,pop,female vocalists,19960316,11,4,32,19960330
 7,5,One Sweet Day,Mariah Carey & Boyz Ii Men,Mariah Carey & Boyz Ii Men,pop,pop,19951202,1,1,27,19960330
-8,8,Missing,Everything But The Girl,Everything But The Girl,pop,electronic,19950812,94,2,55,19960330
+8,8,Missing,Everything But The Girl,Everything But The Girl,electronic,electronic,19950812,94,2,55,19960330
 9,9,Follow You Down / Til' I Hear It From You,Gin Blossoms,Gin Blossoms,rock,alternative,19960210,12,9,46,19960330
 10,12,Lady,D'Angelo,D'Angelo,rnb / soul,soul,19960302,67,10,20,19960330
 11,17,All The Things,Joe,Joe,rnb / soul,rnb,19960210,78,11,20,19960330
@@ -3988,7 +3988,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 87,87,Physical Funk,Domino,Domino,pop,eurobeat,19960309,93,87,6,19960330
 88,90,C'mon N Ride It,Quad City Dj'S,Quad City Dj'S,hip-hop,hip-hop,19960316,97,3,42,19960330
 89,91,Ever Since You Went Away,Art N'Soul,Art Nsoul,pop,unknown,19960316,91,72,14,19960330
-90,98,Esa Nena Linda,Artie The 1 Man Party,Artie The 1 Man Party,pop,electronic,19960323,98,74,14,19960330
+90,98,Esa Nena Linda,Artie The 1 Man Party,Artie The 1 Man Party,electronic,electronic,19960323,98,74,14,19960330
 91,89,Beware Of My Crew,L.B.C. Crew,L.B.C. Crew,hip-hop,rap,19951216,92,75,20,19960330
 92,NEW,One For The Money,Horace Brown,Horace Brown,rnb / soul,soul,19960330,92,62,12,19960330
 93,96,Can't Get You Off My Mind,Lenny Kravitz,Lenny Kravitz,rock,rock,19960323,96,62,20,19960330
@@ -4006,7 +4006,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 5,1,One Sweet Day,Mariah Carey & Boyz Ii Men,Mariah Carey & Boyz Ii Men,pop,pop,19951202,1,1,27,19960323
 6,7,Down Low (Nobody Has To Know),R. Kelly Featuring Ronald Isley,R. Kelly,rnb / soul,rnb,19960302,22,4,20,19960323
 7,11,Ironic,Alanis Morissette,Alanis Morissette,pop,female vocalists,19960316,11,4,32,19960323
-8,6,Missing,Everything But The Girl,Everything But The Girl,pop,electronic,19950812,94,2,55,19960323
+8,6,Missing,Everything But The Girl,Everything But The Girl,electronic,electronic,19950812,94,2,55,19960323
 9,9,Follow You Down / Til' I Hear It From You,Gin Blossoms,Gin Blossoms,rock,alternative,19960210,12,9,46,19960323
 10,8,One Of us,Joan Osborne,Joan Osborne,pop,female vocalists,19951209,26,4,22,19960323
 11,NEW,Real Love,The Beatles,The Beatles,rock,classic rock,19960323,11,11,7,19960323
@@ -4096,7 +4096,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 95,95,Scent Of Attraction,Patra & Aaron Hall,Patra,reggae,reggae,19960316,95,82,7,19960323
 96,NEW,Can't Get You Off My Mind,Lenny Kravitz,Lenny Kravitz,rock,rock,19960323,96,62,20,19960323
 97,89,All Cried Out,Denine With Collage'S Adam Marano,Denine With Collages Adam Marano,pop,unknown,19960120,91,72,11,19960323
-98,NEW,Esa Nena Linda,Artie The 1 Man Party,Artie The 1 Man Party,pop,electronic,19960323,98,74,14,19960323
+98,NEW,Esa Nena Linda,Artie The 1 Man Party,Artie The 1 Man Party,electronic,electronic,19960323,98,74,14,19960323
 99,99,We've Got It Going On,Backstreet Boys,Backstreet Boys,pop,pop,19951028,97,69,22,19960323
 100,100,Celebration,Fun Factory,Fun Factory,electronic,eurodance,19960113,99,88,12,19960323
 1,1,One Sweet Day,Mariah Carey & Boyz Ii Men,Mariah Carey & Boyz Ii Men,pop,pop,19951202,1,1,27,19960316
@@ -4104,7 +4104,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 3,3,Not Goin' Cry,Mary J. Blige,Mary J. Blige,rnb / soul,rnb,19960127,59,2,20,19960316
 4,4,Nobody Knows,Tony Rich Project,Tony Rich Project,rnb / soul,soul,19951216,79,2,47,19960316
 5,36,"Because You Loved Me (From ""Up Close & Personal"")",Celine Dion,Celine Dion,pop,pop,19960309,36,1,33,19960316
-6,5,Missing,Everything But The Girl,Everything But The Girl,pop,electronic,19950812,94,2,55,19960316
+6,5,Missing,Everything But The Girl,Everything But The Girl,electronic,electronic,19950812,94,2,55,19960316
 7,10,Down Low (Nobody Has To Know),R. Kelly Featuring Ronald Isley,R. Kelly,rnb / soul,rnb,19960302,22,4,20,19960316
 8,7,One Of us,Joan Osborne,Joan Osborne,pop,female vocalists,19951209,26,4,22,19960316
 9,9,Follow You Down / Til' I Hear It From You,Gin Blossoms,Gin Blossoms,rock,alternative,19960210,12,9,46,19960316
@@ -4203,7 +4203,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 2,3,Sittin' Up In My Room,Brandy,Brandy,rnb / soul,rnb,19951230,46,2,33,19960309
 3,2,Not Goin' Cry,Mary J. Blige,Mary J. Blige,rnb / soul,rnb,19960127,59,2,20,19960309
 4,4,Nobody Knows,Tony Rich Project,Tony Rich Project,rnb / soul,soul,19951216,79,2,47,19960309
-5,5,Missing,Everything But The Girl,Everything But The Girl,pop,electronic,19950812,94,2,55,19960309
+5,5,Missing,Everything But The Girl,Everything But The Girl,electronic,electronic,19950812,94,2,55,19960309
 6,6,Be My Lover,La Bouche,La Bouche,electronic,eurodance,19951111,85,6,38,19960309
 7,9,One Of us,Joan Osborne,Joan Osborne,pop,female vocalists,19951209,26,4,22,19960309
 8,12,Wonderwall,Oasis,Oasis,pop,britpop,19960127,21,8,20,19960309
@@ -4303,7 +4303,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 2,2,Not Goin' Cry,Mary J. Blige,Mary J. Blige,rnb / soul,rnb,19960127,59,2,20,19960302
 3,5,Sittin' Up In My Room,Brandy,Brandy,rnb / soul,rnb,19951230,46,2,33,19960302
 4,4,Nobody Knows,Tony Rich Project,Tony Rich Project,rnb / soul,soul,19951216,79,2,47,19960302
-5,3,Missing,Everything But The Girl,Everything But The Girl,pop,electronic,19950812,94,2,55,19960302
+5,3,Missing,Everything But The Girl,Everything But The Girl,electronic,electronic,19950812,94,2,55,19960302
 6,6,Be My Lover,La Bouche,La Bouche,electronic,eurodance,19951111,85,6,38,19960302
 7,7,Jesus To A Child,George Michael,George Michael,pop,pop,19960224,7,7,14,19960302
 8,8,Exhale (Shoop Shoop),Whitney Houston,Whitney Houston,pop,pop,19951125,1,1,21,19960302
@@ -4401,7 +4401,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 100,95,Microphone Master,Das Efx,Das Efx,hip-hop,hip-hop,19960217,86,86,3,19960302
 1,1,One Sweet Day,Mariah Carey & Boyz Ii Men,Mariah Carey & Boyz Ii Men,pop,pop,19951202,1,1,27,19960224
 2,4,Not Goin' Cry,Mary J. Blige,Mary J. Blige,rnb / soul,rnb,19960127,59,2,20,19960224
-3,2,Missing,Everything But The Girl,Everything But The Girl,pop,electronic,19950812,94,2,55,19960224
+3,2,Missing,Everything But The Girl,Everything But The Girl,electronic,electronic,19950812,94,2,55,19960224
 4,5,Nobody Knows,Tony Rich Project,Tony Rich Project,rnb / soul,soul,19951216,79,2,47,19960224
 5,6,Sittin' Up In My Room,Brandy,Brandy,rnb / soul,rnb,19951230,46,2,33,19960224
 6,8,Be My Lover,La Bouche,La Bouche,electronic,eurodance,19951111,85,6,38,19960224
@@ -4500,7 +4500,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 99,98,Automatic Lover,Mc Sar & Real Mccoy,Mc Sar & Real Mccoy,electronic,dance,19951021,67,52,19,19960224
 100,88,I'd Lie For You (And That's The Truth),Meat Loaf,Meat Loaf,rock,rock,19951021,35,13,20,19960224
 1,1,One Sweet Day,Mariah Carey & Boyz Ii Men,Mariah Carey & Boyz Ii Men,pop,pop,19951202,1,1,27,19960217
-2,3,Missing,Everything But The Girl,Everything But The Girl,pop,electronic,19950812,94,2,55,19960217
+2,3,Missing,Everything But The Girl,Everything But The Girl,electronic,electronic,19950812,94,2,55,19960217
 3,2,Exhale (Shoop Shoop),Whitney Houston,Whitney Houston,pop,pop,19951125,1,1,21,19960217
 4,6,Not Goin' Cry,Mary J. Blige,Mary J. Blige,rnb / soul,rnb,19960127,59,2,20,19960217
 5,9,Nobody Knows,Tony Rich Project,Tony Rich Project,rnb / soul,soul,19951216,79,2,47,19960217
@@ -4601,7 +4601,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 100,92,Fast Life,Kool G Rap,Kool G Rap,hip-hop,hip-hop,19951202,92,74,12,19960217
 1,1,One Sweet Day,Mariah Carey & Boyz Ii Men,Mariah Carey & Boyz Ii Men,pop,pop,19951202,1,1,27,19960210
 2,2,Exhale (Shoop Shoop),Whitney Houston,Whitney Houston,pop,pop,19951125,1,1,21,19960210
-3,3,Missing,Everything But The Girl,Everything But The Girl,pop,electronic,19950812,94,2,55,19960210
+3,3,Missing,Everything But The Girl,Everything But The Girl,electronic,electronic,19950812,94,2,55,19960210
 4,4,One Of us,Joan Osborne,Joan Osborne,pop,female vocalists,19951209,26,4,22,19960210
 5,5,Hey Lover,Ll Cool J,Ll Cool J,hip-hop,hip-hop,19951118,30,3,21,19960210
 6,21,Not Goin' Cry,Mary J. Blige,Mary J. Blige,rnb / soul,rnb,19960127,59,2,20,19960210
@@ -4701,7 +4701,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 100,88,Incarcerated Scarfaces / Ice Cream,Raekwon,Raekwon,hip-hop,hip-hop,19951014,64,37,18,19960210
 1,1,One Sweet Day,Mariah Carey & Boyz Ii Men,Mariah Carey & Boyz Ii Men,pop,pop,19951202,1,1,27,19960203
 2,2,Exhale (Shoop Shoop),Whitney Houston,Whitney Houston,pop,pop,19951125,1,1,21,19960203
-3,3,Missing,Everything But The Girl,Everything But The Girl,pop,electronic,19950812,94,2,55,19960203
+3,3,Missing,Everything But The Girl,Everything But The Girl,electronic,electronic,19950812,94,2,55,19960203
 4,6,One Of us,Joan Osborne,Joan Osborne,pop,female vocalists,19951209,26,4,22,19960203
 5,4,Hey Lover,Ll Cool J,Ll Cool J,hip-hop,hip-hop,19951118,30,3,21,19960203
 6,5,Name,Goo Goo Dolls,Goo Goo Dolls,rock,rock,19951014,22,5,36,19960203
@@ -4796,12 +4796,12 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 95,90,I'm Outta Here,Shania Twain,Shania Twain,country / folk,country,19951216,94,74,8,19960203
 96,92,Beware Of My Crew,L.B.C. Crew,L.B.C. Crew,hip-hop,rap,19951216,92,75,20,19960203
 97,NEW,Daughter,Pearl Jam,Pearl Jam,rock,grunge,19960203,97,97,2,19960203
-98,94,A Mover La Colita,Artie The 1 Man Party,Artie The 1 Man Party,pop,electronic,19950930,69,65,19,19960203
+98,94,A Mover La Colita,Artie The 1 Man Party,Artie The 1 Man Party,electronic,electronic,19950930,69,65,19,19960203
 99,97,Can't Really Be Gone,Tim Mcgraw,Tim Mcgraw,country / folk,country,19960106,94,87,5,19960203
 100,100,Summertime In The LBC,Dove Shack,Dove Shack,rnb / soul,g-funk,19950812,90,54,26,19960203
 1,1,One Sweet Day,Mariah Carey & Boyz Ii Men,Mariah Carey & Boyz Ii Men,pop,pop,19951202,1,1,27,19960127
 2,2,Exhale (Shoop Shoop),Whitney Houston,Whitney Houston,pop,pop,19951125,1,1,21,19960127
-3,4,Missing,Everything But The Girl,Everything But The Girl,pop,electronic,19950812,94,2,55,19960127
+3,4,Missing,Everything But The Girl,Everything But The Girl,electronic,electronic,19950812,94,2,55,19960127
 4,3,Hey Lover,Ll Cool J,Ll Cool J,hip-hop,hip-hop,19951118,30,3,21,19960127
 5,6,Name,Goo Goo Dolls,Goo Goo Dolls,rock,rock,19951014,22,5,36,19960127
 6,8,One Of us,Joan Osborne,Joan Osborne,pop,female vocalists,19951209,26,4,22,19960127
@@ -4892,7 +4892,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 91,92,Energy,Devone,Devone,electronic,dance,19960120,92,70,9,19960127
 92,76,Beware Of My Crew,L.B.C. Crew,L.B.C. Crew,hip-hop,rap,19951216,92,75,20,19960127
 93,81,East 1999,Bone Thugs-N-Harmony,Bone Thugs-N-Harmony,hip-hop,hip-hop,19951209,94,62,13,19960127
-94,89,A Mover La Colita,Artie The 1 Man Party,Artie The 1 Man Party,pop,electronic,19950930,69,65,19,19960127
+94,89,A Mover La Colita,Artie The 1 Man Party,Artie The 1 Man Party,electronic,electronic,19950930,69,65,19,19960127
 95,97,Celebration,Fun Factory,Fun Factory,electronic,eurodance,19960113,99,88,12,19960127
 96,93,Throw Your Set In The Air,Cypress Hill,Cypress Hill,hip-hop,hip-hop,19951014,53,45,18,19960127
 97,96,Can't Really Be Gone,Tim Mcgraw,Tim Mcgraw,country / folk,country,19960106,94,87,5,19960127
@@ -4902,7 +4902,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 1,1,One Sweet Day,Mariah Carey & Boyz Ii Men,Mariah Carey & Boyz Ii Men,pop,pop,19951202,1,1,27,19960120
 2,2,Exhale (Shoop Shoop),Whitney Houston,Whitney Houston,pop,pop,19951125,1,1,21,19960120
 3,3,Hey Lover,Ll Cool J,Ll Cool J,hip-hop,hip-hop,19951118,30,3,21,19960120
-4,10,Missing,Everything But The Girl,Everything But The Girl,pop,electronic,19950812,94,2,55,19960120
+4,10,Missing,Everything But The Girl,Everything But The Girl,electronic,electronic,19950812,94,2,55,19960120
 5,6,Breakfast At Tiffany's,Deep Blue Something,Deep Blue Something,rock,rock,19950819,90,5,36,19960120
 6,9,Name,Goo Goo Dolls,Goo Goo Dolls,rock,rock,19951014,22,5,36,19960120
 7,5,Diggin' On You,Tlc,Tlc,rnb / soul,rnb,19951118,12,5,20,19960120
@@ -4987,7 +4987,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 86,80,Runnin',The Pharcyde,The Pharcyde,hip-hop,hip-hop,19951021,81,55,15,19960120
 87,77,It Matters To Me,Faith Hill,Faith Hill,country / folk,country,19951223,96,74,16,19960120
 88,79,Ain't Nuthin' But A She Thing,Salt-N-Pepa,Salt-N-Pepa,hip-hop,hip-hop,19951021,54,38,15,19960120
-89,94,A Mover La Colita,Artie The 1 Man Party,Artie The 1 Man Party,pop,electronic,19950930,69,65,19,19960120
+89,94,A Mover La Colita,Artie The 1 Man Party,Artie The 1 Man Party,electronic,electronic,19950930,69,65,19,19960120
 90,NEW,Stayin' Alive,N-Trance,N-Trance,electronic,dance,19960120,90,62,17,19960120
 91,NEW,All Cried Out,Denine With Collage'S Adam Marano,Denine With Collages Adam Marano,pop,unknown,19960120,91,72,11,19960120
 92,NEW,Energy,Devone,Devone,electronic,dance,19960120,92,70,9,19960120
@@ -5008,7 +5008,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 7,8,Fantasy,Mariah Carey,Mariah Carey,pop,pop,19950930,1,1,25,19960113
 8,9,Before You Walk Out Of My Life / Like This And Like That,Monica,Monica,rnb / soul,rnb,19951021,51,7,28,19960113
 9,10,Name,Goo Goo Dolls,Goo Goo Dolls,rock,rock,19951014,22,5,36,19960113
-10,11,Missing,Everything But The Girl,Everything But The Girl,pop,electronic,19950812,94,2,55,19960113
+10,11,Missing,Everything But The Girl,Everything But The Girl,electronic,electronic,19950812,94,2,55,19960113
 11,12,You'll See,Madonna,Madonna,pop,pop,19951209,8,6,20,19960113
 12,13,One Of us,Joan Osborne,Joan Osborne,pop,female vocalists,19951209,26,4,22,19960113
 13,16,Runaway,Janet Jackson,Janet Jackson,pop,pop,19950916,6,3,24,19960113
@@ -5092,7 +5092,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 91,90,Sentimental,Deborah Cox,Deborah Cox,rnb / soul,rnb,19950909,89,27,20,19960113
 92,89,Solitude,Edwin Mccain,Edwin Mccain,rock,rock,19951007,95,72,20,19960113
 93,96,The Riddler,Method Man,Method Man,hip-hop,hip-hop,19951111,56,56,11,19960113
-94,88,A Mover La Colita,Artie The 1 Man Party,Artie The 1 Man Party,pop,electronic,19950930,69,65,19,19960113
+94,88,A Mover La Colita,Artie The 1 Man Party,Artie The 1 Man Party,electronic,electronic,19950930,69,65,19,19960113
 95,84,Fast Life,Kool G Rap,Kool G Rap,hip-hop,hip-hop,19951202,92,74,12,19960113
 96,99,Summertime In The LBC,Dove Shack,Dove Shack,rnb / soul,g-funk,19950812,90,54,26,19960113
 97,95,Sometimes I Miss You So Much,P.M. Dawn,P.M. Dawn,hip-hop,hip-hop,19951223,97,95,5,19960113
@@ -5109,7 +5109,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 8,6,Fantasy,Mariah Carey,Mariah Carey,pop,pop,19950930,1,1,25,19960106
 9,7,Before You Walk Out Of My Life / Like This And Like That,Monica,Monica,rnb / soul,rnb,19951021,51,7,28,19960106
 10,9,Name,Goo Goo Dolls,Goo Goo Dolls,rock,rock,19951014,22,5,36,19960106
-11,12,Missing,Everything But The Girl,Everything But The Girl,pop,electronic,19950812,94,2,55,19960106
+11,12,Missing,Everything But The Girl,Everything But The Girl,electronic,electronic,19950812,94,2,55,19960106
 12,11,You'll See,Madonna,Madonna,pop,pop,19951209,8,6,20,19960106
 13,15,One Of us,Joan Osborne,Joan Osborne,pop,female vocalists,19951209,26,4,22,19960106
 14,13,I Got Id / Long Road,Pearl Jam,Pearl Jam,rock,grunge,19951223,7,7,20,19960106
@@ -5186,7 +5186,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 85,83,Throw Your Set In The Air,Cypress Hill,Cypress Hill,hip-hop,hip-hop,19951014,53,45,18,19960106
 86,NEW,Where Do U Want Me To Put It,Solo,Solo,pop,seen live,19960106,86,50,18,19960106
 87,89,Fu-Gee-La,Fugees,Fugees,hip-hop,hip-hop,19951230,89,29,20,19960106
-88,91,A Mover La Colita,Artie The 1 Man Party,Artie The 1 Man Party,pop,electronic,19950930,69,65,19,19960106
+88,91,A Mover La Colita,Artie The 1 Man Party,Artie The 1 Man Party,electronic,electronic,19950930,69,65,19,19960106
 89,88,Solitude,Edwin Mccain,Edwin Mccain,rock,rock,19951007,95,72,20,19960106
 90,85,Sentimental,Deborah Cox,Deborah Cox,rnb / soul,rnb,19950909,89,27,20,19960106
 91,93,We've Got It Going On,Backstreet Boys,Backstreet Boys,pop,pop,19951028,97,69,22,19960106

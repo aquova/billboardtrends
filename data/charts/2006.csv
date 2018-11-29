@@ -1081,7 +1081,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 80,NEW,Shortie Like Mine,Bow Wow Featuring Chris Brown & Johnta Austin,Bow Wow,hip-hop,hip-hop,20061021,80,9,21,20061021
 81,87,Through Glass,Stone Sour,Stone Sour,rock,hard rock,20060819,87,39,26,20061021
 82,NEW,Canadian Idiot,Weird Al Yankovic,Weird Al Yankovic,pop,comedy,20061021,82,82,3,20061021
-83,70,Building Bridges,Brooks & Dunn With Sheryl Crow & Vince Gill,Brooks,pop,electronic,20060805,91,66,12,20061021
+83,70,Building Bridges,Brooks & Dunn With Sheryl Crow & Vince Gill,Brooks,electronic,electronic,20060805,91,66,12,20061021
 84,97,It Ends Tonight,The All-American Rejects,The All-American Rejects,rock,rock,20061014,97,8,23,20061021
 85,80,Like Red On A Rose,Alan Jackson,Alan Jackson,country / folk,country,20061007,96,80,5,20061021
 86,85,The Kill (Bury Me),30 Seconds To Mars,30 Seconds To Mars,rock,alternative rock,20060805,86,65,20,20061021
@@ -1168,7 +1168,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 67,58,Brand New Girlfriend,Steve Holy,Steve Holy,country / folk,country,20060701,100,40,20,20061014
 68,63,I Call It Love,Lionel Richie,Lionel Richie,rnb / soul,soul,20060805,95,62,20,20061014
 69,50,Chemicals React,Aly & Aj,Aly & Aj,pop,pop,20060930,70,50,4,20061014
-70,71,Building Bridges,Brooks & Dunn With Sheryl Crow & Vince Gill,Brooks,pop,electronic,20060805,91,66,12,20061014
+70,71,Building Bridges,Brooks & Dunn With Sheryl Crow & Vince Gill,Brooks,electronic,electronic,20060805,91,66,12,20061014
 71,73,Remember The Name,Fort Minor Featuring Styles Of Beyond,Fort Minor,hip-hop,hip-hop,20060930,66,66,6,20061014
 72,77,Tim McGraw,Taylor Swift,Taylor Swift,country / folk,country,20060923,86,40,20,20061014
 73,74,Push It,Rick Ross,Rick Ross,hip-hop,hip-hop,20060916,97,57,14,20061014
@@ -1269,7 +1269,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 68,61,If You're Going Through Hell (Before The Devil Even Knows),Rodney Atkins,Rodney Atkins,country / folk,country,20060603,96,33,20,20061007
 69,74,Give It Away,George Strait,George Strait,country / folk,country,20060819,99,35,19,20061007
 70,82,Stuntin' Like My Daddy,Birdman & Lil Wayne,Birdman & Lil Wayne,hip-hop,hip-hop,20060916,95,21,20,20061007
-71,76,Building Bridges,Brooks & Dunn With Sheryl Crow & Vince Gill,Brooks,pop,electronic,20060805,91,66,12,20061007
+71,76,Building Bridges,Brooks & Dunn With Sheryl Crow & Vince Gill,Brooks,electronic,electronic,20060805,91,66,12,20061007
 72,57,"Steady, As She Goes",The Raconteurs,The Raconteurs,rock,rock,20060527,92,54,20,20061007
 73,66,Remember The Name,Fort Minor Featuring Styles Of Beyond,Fort Minor,hip-hop,hip-hop,20060930,66,66,6,20061007
 74,91,Push It,Rick Ross,Rick Ross,hip-hop,hip-hop,20060916,97,57,14,20061007
@@ -1374,7 +1374,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 73,72,Put Your Records On,Corinne Bailey Rae,Corinne Bailey Rae,rnb / soul,soul,20060715,94,64,19,20060930
 74,73,Give It Away,George Strait,George Strait,country / folk,country,20060819,99,35,19,20060930
 75,63,Miss Murder,Afi,Afi,pop,punk,20060603,80,24,18,20060930
-76,68,Building Bridges,Brooks & Dunn With Sheryl Crow & Vince Gill,Brooks,pop,electronic,20060805,91,66,12,20060930
+76,68,Building Bridges,Brooks & Dunn With Sheryl Crow & Vince Gill,Brooks,electronic,electronic,20060805,91,66,12,20060930
 77,88,Suddenly I See,Kt Tunstall,Kt Tunstall,pop,female vocalists,20060729,88,45,20,20060930
 78,80,Through Glass,Stone Sour,Stone Sour,rock,hard rock,20060819,87,39,26,20060930
 79,NEW,Come Back To Me,Vanessa Hudgens,Vanessa Hudgens,pop,pop,20060930,79,55,19,20060930
@@ -1466,7 +1466,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 65,71,The Kill (Bury Me),30 Seconds To Mars,30 Seconds To Mars,rock,alternative rock,20060805,86,65,20,20060923
 66,69,Too Little Too Late,Jojo,Jojo,pop,pop,20060902,90,3,22,20060923
 67,NEW,Right Where You Want Me,Jesse Mccartney,Jesse Mccartney,pop,pop,20060923,67,33,9,20060923
-68,66,Building Bridges,Brooks & Dunn With Sheryl Crow & Vince Gill,Brooks,pop,electronic,20060805,91,66,12,20060923
+68,66,Building Bridges,Brooks & Dunn With Sheryl Crow & Vince Gill,Brooks,electronic,electronic,20060805,91,66,12,20060923
 69,62,Bring It On Home,Little Big Town,Little Big Town,country / folk,country,20060610,95,58,18,20060923
 70,73,Every Mile A Memory,Dierks Bentley,Dierks Bentley,country / folk,country,20060826,95,48,16,20060923
 71,81,You Save Me,Kenny Chesney,Kenny Chesney,country / folk,country,20060916,81,41,20,20060923
@@ -1564,7 +1564,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 63,62,Crazy Bitch,Buckcherry,Buckcherry,rock,hard rock,20060520,99,59,20,20060916
 64,63,Miss Murder,Afi,Afi,pop,punk,20060603,80,24,18,20060916
 65,72,Put Your Records On,Corinne Bailey Rae,Corinne Bailey Rae,rnb / soul,soul,20060715,94,64,19,20060916
-66,68,Building Bridges,Brooks & Dunn With Sheryl Crow & Vince Gill,Brooks,pop,electronic,20060805,91,66,12,20060916
+66,68,Building Bridges,Brooks & Dunn With Sheryl Crow & Vince Gill,Brooks,electronic,electronic,20060805,91,66,12,20060916
 67,67,Animal I Have Become,Three Days Grace,Three Days Grace,rock,alternative rock,20060617,95,60,18,20060916
 68,73,Everytime Tha Beat Drop,Monica Featuring Dem Franchize Boys,Monica,rnb / soul,rnb,20060819,94,48,16,20060916
 69,77,Too Little Too Late,Jojo,Jojo,pop,pop,20060902,90,3,22,20060916
@@ -1666,7 +1666,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 65,63,Summertime,Kenny Chesney,Kenny Chesney,country / folk,country,20060429,98,34,20,20060909
 66,58,Show Me The Money,Petey Pablo,Petey Pablo,hip-hop,hip-hop,20060902,58,58,3,20060909
 67,67,Animal I Have Become,Three Days Grace,Three Days Grace,rock,alternative rock,20060617,95,60,18,20060909
-68,70,Building Bridges,Brooks & Dunn With Sheryl Crow & Vince Gill,Brooks,pop,electronic,20060805,91,66,12,20060909
+68,70,Building Bridges,Brooks & Dunn With Sheryl Crow & Vince Gill,Brooks,electronic,electronic,20060805,91,66,12,20060909
 69,83,That Girl,Frankie J Featuring Mannie Fresh & Chamillionaire,Frankie J,rnb / soul,rnb,20060826,100,43,14,20060909
 70,73,Sunshine And Summertime,Faith Hill,Faith Hill,country / folk,country,20060729,95,70,10,20060909
 71,72,I Call It Love,Lionel Richie,Lionel Richie,rnb / soul,soul,20060805,95,62,20,20060909
@@ -1768,7 +1768,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 67,68,Animal I Have Become,Three Days Grace,Three Days Grace,rock,alternative rock,20060617,95,60,18,20060902
 68,60,Torn,Letoya,Letoya,rnb / soul,rnb,20060506,92,31,20,20060902
 69,NEW,Tell Me Baby,Red Hot Chili Peppers,Red Hot Chili Peppers,rock,rock,20060902,69,50,16,20060902
-70,77,Building Bridges,Brooks & Dunn With Sheryl Crow & Vince Gill,Brooks,pop,electronic,20060805,91,66,12,20060902
+70,77,Building Bridges,Brooks & Dunn With Sheryl Crow & Vince Gill,Brooks,electronic,electronic,20060805,91,66,12,20060902
 71,64,The World,Brad Paisley,Brad Paisley,country / folk,country,20060506,100,45,20,20060902
 72,88,I Call It Love,Lionel Richie,Lionel Richie,rnb / soul,soul,20060805,95,62,20,20060902
 73,73,Sunshine And Summertime,Faith Hill,Faith Hill,country / folk,country,20060729,95,70,10,20060902
@@ -1875,7 +1875,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 74,64,Doing Too Much,Paula Deanda Featuring Baby Bash,Paula Deanda,pop,pop,20060520,87,41,16,20060826
 75,NEW,I Loved Her First,Heartland,Heartland,rock,hard rock,20060826,75,34,20,20060826
 76,42,Invisible,Ashlee Simpson,Ashlee Simpson,pop,pop,20060805,28,21,4,20060826
-77,85,Building Bridges,Brooks & Dunn With Sheryl Crow & Vince Gill,Brooks,pop,electronic,20060805,91,66,12,20060826
+77,85,Building Bridges,Brooks & Dunn With Sheryl Crow & Vince Gill,Brooks,electronic,electronic,20060805,91,66,12,20060826
 78,77,Breathe (2AM),Anna Nalick,Anna Nalick,pop,female vocalists,20060603,45,45,14,20060826
 79,NEW,Say Goodbye,Chris Brown,Chris Brown,rnb / soul,rnb,20060826,79,10,23,20060826
 80,74,Don't Forget To Remember Me,Carrie Underwood,Carrie Underwood,country / folk,country,20060506,98,49,17,20060826
@@ -1983,7 +1983,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 82,89,Gallery,Mario Vazquez,Mario Vazquez,rnb / soul,rnb,20060812,89,35,19,20060819
 83,76,Face Down,The Red Jumpsuit Apparatus,The Red Jumpsuit Apparatus,rock,alternative,20060805,93,76,12,20060819
 84,81,Put Your Records On,Corinne Bailey Rae,Corinne Bailey Rae,rnb / soul,soul,20060715,94,64,19,20060819
-85,87,Building Bridges,Brooks & Dunn With Sheryl Crow & Vince Gill,Brooks,pop,electronic,20060805,91,66,12,20060819
+85,87,Building Bridges,Brooks & Dunn With Sheryl Crow & Vince Gill,Brooks,electronic,electronic,20060805,91,66,12,20060819
 86,83,Yee Haw,Jake Owen,Jake Owen,country / folk,country,20060715,99,83,7,20060819
 87,NEW,Through Glass,Stone Sour,Stone Sour,rock,hard rock,20060819,87,39,26,20060819
 88,57,Number One,Pharrell Featuring Kanye West,Pharrell,hip-hop,hip-hop,20060805,97,57,3,20060819
@@ -2085,7 +2085,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 84,75,Not Ready To Make Nice,Dixie Chicks,Dixie Chicks,country / folk,country,20060603,77,39,17,20060812
 85,86,The Kill (Bury Me),30 Seconds To Mars,30 Seconds To Mars,rock,alternative rock,20060805,86,65,20,20060812
 86,NEW,The Riddle,Five For Fighting,Five For Fighting,rock,alternative,20060812,86,40,17,20060812
-87,91,Building Bridges,Brooks & Dunn With Sheryl Crow & Vince Gill,Brooks,pop,electronic,20060805,91,66,12,20060812
+87,91,Building Bridges,Brooks & Dunn With Sheryl Crow & Vince Gill,Brooks,electronic,electronic,20060805,91,66,12,20060812
 88,95,I Call It Love,Lionel Richie,Lionel Richie,rnb / soul,soul,20060805,95,62,20,20060812
 89,NEW,Gallery,Mario Vazquez,Mario Vazquez,rnb / soul,rnb,20060812,89,35,19,20060812
 90,88,Is It Any Wonder?,Keane,Keane,pop,britpop,20060708,81,78,7,20060812
@@ -2189,7 +2189,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 88,84,Is It Any Wonder?,Keane,Keane,pop,britpop,20060708,81,78,7,20060805
 89,91,Yee Haw,Jake Owen,Jake Owen,country / folk,country,20060715,99,83,7,20060805
 90,88,Suddenly I See,Kt Tunstall,Kt Tunstall,pop,female vocalists,20060729,88,45,20,20060805
-91,NEW,Building Bridges,Brooks & Dunn With Sheryl Crow & Vince Gill,Brooks,pop,electronic,20060805,91,66,12,20060805
+91,NEW,Building Bridges,Brooks & Dunn With Sheryl Crow & Vince Gill,Brooks,electronic,electronic,20060805,91,66,12,20060805
 92,NEW,Who Said,Hannah Montana,Hannah Montana,pop,pop,20060805,92,92,1,20060805
 93,NEW,Face Down,The Red Jumpsuit Apparatus,The Red Jumpsuit Apparatus,rock,alternative,20060805,93,76,12,20060805
 94,79,DJ Play A Love Song,Jamie Foxx Featuring Twista,Jamie Foxx,rnb / soul,rnb,20060506,90,45,14,20060805

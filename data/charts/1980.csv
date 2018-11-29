@@ -1634,7 +1634,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 93,78,Cupid,Spinners,Spinners,rnb / soul,soul,19800517,67,4,19,19800921
 94,85,Under The Gun,Poco,Poco,rock,country rock,19800720,86,48,10,19800921
 95,47,You Better Run,Pat Benatar,Pat Benatar,pop,80s,19800727,72,42,11,19800921
-96,58,I Hear You Know,Jon & Vangelis,Jon & Vangelis,pop,electronic,19800810,108,58,7,19800921
+96,58,I Hear You Know,Jon & Vangelis,Jon & Vangelis,electronic,electronic,19800810,108,58,7,19800921
 97,67,Little Jeannie,Elton John,Elton John,pop,pop,19800504,65,3,21,19800921
 98,NEW,Part Of Me That Needs You Most,Jay Black,Jay Black,pop,pop,19800921,98,98,4,19800921
 99,53,Fool For Your Loving,Whitesnake,Whitesnake,rock,hard rock,19800803,84,53,8,19800921
@@ -1706,7 +1706,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 55,45,Misunderstanding,Genesis,Genesis,rock,progressive rock,19800524,81,14,18,19800914
 56,63,Let Me Be Your Angel,Stacy Lattisaw,Stacy Lattisaw,pop,80s,19800810,87,21,24,19800914
 57,57,Late At Night,England Dan Seals,England Dan Seals,pop,slow peppermint,19800817,82,57,6,19800914
-58,61,I Hear You Know,Jon & Vangelis,Jon & Vangelis,pop,electronic,19800810,108,58,7,19800914
+58,61,I Hear You Know,Jon & Vangelis,Jon & Vangelis,electronic,electronic,19800810,108,58,7,19800914
 59,64,My Prayer,"Ray, Goodman & Brown","Ray, Goodman & Brown",rnb / soul,soul,19800824,83,47,10,19800914
 60,75,Whip It,Devo,Devo,rock,new wave,19800831,85,14,25,19800914
 61,67,Good Morning Girl / Stay Awhile,Journey,Journey,rock,classic rock,19800824,87,55,8,19800914
@@ -1819,7 +1819,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 58,63,The Legend Of Wooley Swamp,Charlie Daniels Band,Charlie Daniels Band,country / folk,country,19800817,84,31,14,19800907
 59,68,I'm Almost Ready,Pure Prairie League,Pure Prairie League,rock,country rock,19800824,79,34,13,19800907
 60,69,Midnight Rocks,Al Stewart,Al Stewart,country / folk,singer-songwriter,19800831,69,24,13,19800907
-61,61,I Hear You Know,Jon & Vangelis,Jon & Vangelis,pop,electronic,19800810,108,58,7,19800907
+61,61,I Hear You Know,Jon & Vangelis,Jon & Vangelis,electronic,electronic,19800810,108,58,7,19800907
 62,70,Games Without Frontiers,Peter Gabriel,Peter Gabriel,rock,progressive rock,19800817,90,48,11,19800907
 63,71,Let Me Be Your Angel,Stacy Lattisaw,Stacy Lattisaw,pop,80s,19800810,87,21,24,19800907
 64,72,My Prayer,"Ray, Goodman & Brown","Ray, Goodman & Brown",rnb / soul,soul,19800824,83,47,10,19800907
@@ -1929,7 +1929,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 58,38,Empire Strikes Back (Medley),Meco,Meco,disco,disco,19800615,68,18,14,19800831
 59,61,Honey Honey,David Hudson,David Hudson,pop,didgeridoo,19800622,109,59,12,19800831
 60,66,Red Light,Linda Clifford,Linda Clifford,disco,disco,19800810,89,41,11,19800831
-61,73,I Hear You Know,Jon & Vangelis,Jon & Vangelis,pop,electronic,19800810,108,58,7,19800831
+61,73,I Hear You Know,Jon & Vangelis,Jon & Vangelis,electronic,electronic,19800810,108,58,7,19800831
 62,72,Late At Night,England Dan Seals,England Dan Seals,pop,slow peppermint,19800817,82,57,6,19800831
 63,74,The Legend Of Wooley Swamp,Charlie Daniels Band,Charlie Daniels Band,country / folk,country,19800817,84,31,14,19800831
 64,75,Who'll Be The Fool Tonight,Larsen-Feiten Band,Larsen-Feiten Band,pop,fusion,19800817,88,29,14,19800831
@@ -2051,7 +2051,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 70,56,All Night Long,Joe Walsh,Joe Walsh,rock,classic rock,19800517,74,19,16,19800824
 71,57,Let Me Love You Tonight,Pure Prairie League,Pure Prairie League,rock,country rock,19800511,81,10,17,19800824
 72,82,Late At Night,England Dan Seals,England Dan Seals,pop,slow peppermint,19800817,82,57,6,19800824
-73,85,I Hear You Know,Jon & Vangelis,Jon & Vangelis,pop,electronic,19800810,108,58,7,19800824
+73,85,I Hear You Know,Jon & Vangelis,Jon & Vangelis,electronic,electronic,19800810,108,58,7,19800824
 74,84,The Legend Of Wooley Swamp,Charlie Daniels Band,Charlie Daniels Band,country / folk,country,19800817,84,31,14,19800824
 75,88,Who'll Be The Fool Tonight,Larsen-Feiten Band,Larsen-Feiten Band,pop,fusion,19800817,88,29,14,19800824
 76,86,True Love Ways,Mickey Gilley,Mickey Gilley,country / folk,country,19800817,86,66,7,19800824
@@ -2173,7 +2173,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 82,NEW,Late At Night,England Dan Seals,England Dan Seals,pop,slow peppermint,19800817,82,57,6,19800817
 83,87,Let Me Be Your Angel,Stacy Lattisaw,Stacy Lattisaw,pop,80s,19800810,87,21,24,19800817
 84,NEW,The Legend Of Wooley Swamp,Charlie Daniels Band,Charlie Daniels Band,country / folk,country,19800817,84,31,14,19800817
-85,108,I Hear You Now,Jon And Vangelis,Jon And Vangelis,pop,electronic,19800810,108,58,7,19800817
+85,108,I Hear You Now,Jon And Vangelis,Jon And Vangelis,electronic,electronic,19800810,108,58,7,19800817
 86,NEW,True Love Ways,Mickey Gilley,Mickey Gilley,country / folk,country,19800817,86,66,7,19800817
 87,NEW,Treasure,Brothers Johnson,Brothers Johnson,rnb / soul,funk,19800817,87,73,4,19800817
 88,NEW,Who'll Be The Fool Tonight,Larsen-Feiten Band,Larsen-Feiten Band,pop,fusion,19800817,88,29,14,19800817
@@ -2306,7 +2306,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 105,106,Percolator,Spyro Gyra,Spyro Gyra,jazz,jazz,19800727,109,105,5,19800810
 106,NEW,When Love Is Gone,Photoglo,Photoglo,pop,west coast,19800810,106,106,1,19800810
 107,105,You're Precious Love,Stephen Bishop & Yvonne Elliman,Stephen Bishop,rock,classic rock,19800727,110,105,3,19800810
-108,NEW,I Hear You Now,Jon And Vangelis,Jon And Vangelis,pop,electronic,19800810,108,58,7,19800810
+108,NEW,I Hear You Now,Jon And Vangelis,Jon And Vangelis,electronic,electronic,19800810,108,58,7,19800810
 109,107,Turn On Your Light,In Transit,In Transit,rock,classic rock,19800803,107,107,3,19800810
 110,110,Hold Tight,Jimmy Spheeris,Jimmy Spheeris,pop,unknown,19800803,110,110,2,19800810
 1,2,Magic,Olivia Newton-John,Olivia Newton-John,pop,pop,19800524,74,1,23,19800803
@@ -2748,7 +2748,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 107,107,"Are ""Friends"" Electric",Gary Numan And Tubeway Army,Gary Numan And Tubeway Army,rock,new wave,19800629,105,105,3,19800713
 108,110,We Gotta Get Out Of Here,Ian Hunter,Ian Hunter,rock,rock,19800706,110,108,2,19800713
 109,NEW,Marseilles,Angel City,Angel City,electronic,dance,19800713,109,109,1,19800713
-110,NEW,Boney Maronie,Cheeks,Cheeks,pop,electronic,19800713,110,110,1,19800713
+110,NEW,Boney Maronie,Cheeks,Cheeks,electronic,electronic,19800713,110,110,1,19800713
 1,1,Coming Up,Paul Mccartney,Paul Mccartney,rock,classic rock,19800427,73,1,21,19800706
 2,2,Funky Town,Lipps Inc.,Lipps Inc.,disco,disco,19800329,89,1,23,19800706
 3,3,The Rose,Bette Midler,Bette Midler,pop,female vocalists,19800322,86,3,25,19800706
@@ -4352,7 +4352,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 61,69,A Certain Girl,Warren Zevon,Warren Zevon,country / folk,singer-songwriter,19800308,89,57,7,19800329
 62,72,Let Me Be,Korona,Korona,rock,metal,19800322,72,43,8,19800329
 63,NEW,I Can't Help It,Andy Gibb & Olivia Newton-John,Andy Gibb,disco,disco,19800329,63,12,13,19800329
-64,60,Computer Game,Yellow Magic Orchestra,Yellow Magic Orchestra,pop,electronic,19800126,106,60,10,19800329
+64,60,Computer Game,Yellow Magic Orchestra,Yellow Magic Orchestra,electronic,electronic,19800126,106,60,10,19800329
 65,NEW,Breakdown Dead Ahead,Boz Scaggs,Boz Scaggs,rock,classic rock,19800329,65,14,16,19800329
 66,NEW,Heart Hotels,Dan Fogelberg,Dan Fogelberg,country / folk,singer-songwriter,19800329,66,21,12,19800329
 67,46,Where Does The Lovin' Go,David Gates,David Gates,pop,sentimental,19800209,85,46,8,19800329
@@ -4458,7 +4458,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 57,67,Only A Lonely Heart Sees,Felix Cavaliere,Felix Cavaliere,pop,pop,19800301,85,36,11,19800322
 58,69,Do Right,Paul Davis,Paul Davis,rock,soft rock,19800308,76,23,14,19800322
 59,65,You Are My Heaven,Roberta Flack & Donny Hathaway,Roberta Flack & Donny Hathaway,rnb / soul,soul,19800209,106,47,12,19800322
-60,60,Computer Game,Yellow Magic Orchestra,Yellow Magic Orchestra,pop,electronic,19800126,106,60,10,19800322
+60,60,Computer Game,Yellow Magic Orchestra,Yellow Magic Orchestra,electronic,electronic,19800126,106,60,10,19800322
 61,71,Love On A Shoestring,Captain & Tennille,Captain & Tennille,pop,pop,19800315,71,55,6,19800322
 62,34,I Thank You,Zz Top,Zz Top,rock,classic rock,19800119,81,34,11,19800322
 63,63,It's Like We Never Said Goodbye,Crystal Gayle,Crystal Gayle,country / folk,country,19800223,86,63,6,19800322
@@ -4568,7 +4568,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 57,67,Outside My Window,Stevie Wonder,Stevie Wonder,rnb / soul,soul,19800301,77,52,7,19800315
 58,65,Any Way You Want It,Journey,Journey,rock,classic rock,19800301,75,23,15,19800315
 59,66,Carrie,Cliff Richard,Cliff Richard,pop,oldies,19800223,84,34,11,19800315
-60,64,Computer Game,Yellow Magic Orchestra,Yellow Magic Orchestra,pop,electronic,19800126,106,60,10,19800315
+60,64,Computer Game,Yellow Magic Orchestra,Yellow Magic Orchestra,electronic,electronic,19800126,106,60,10,19800315
 61,68,Fire In The Morning,Melissa Manchester,Melissa Manchester,pop,female vocalists,19800223,81,32,13,19800315
 62,71,Autograph,John Denver,John Denver,country / folk,country,19800223,90,52,10,19800315
 63,72,It's Like We Never Said Goodbye,Crystal Gayle,Crystal Gayle,country / folk,country,19800223,86,63,6,19800315
@@ -4682,7 +4682,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 61,71,Keep The Fire,Kenny Loggins,Kenny Loggins,pop,80s,19800223,82,36,13,19800308
 62,72,Spirit Of Radio,Rush,Rush,rock,progressive rock,19800223,88,51,8,19800308
 63,73,Girl With The Hungry Eyes,Jefferson Starship,Jefferson Starship,rock,classic rock,19800223,83,55,6,19800308
-64,68,Computer Game,Yellow Magic Orchestra,Yellow Magic Orchestra,pop,electronic,19800126,106,60,10,19800308
+64,68,Computer Game,Yellow Magic Orchestra,Yellow Magic Orchestra,electronic,electronic,19800126,106,60,10,19800308
 65,75,Any Way You Want It,Journey,Journey,rock,classic rock,19800301,75,23,15,19800308
 66,74,Carrie,Cliff Richard,Cliff Richard,pop,oldies,19800223,84,34,11,19800308
 67,77,Outside My Window,Stevie Wonder,Stevie Wonder,rnb / soul,soul,19800301,77,52,7,19800308
@@ -4796,7 +4796,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 65,74,Pilot Of The Airwaves,Charlie Dore,Charlie Dore,pop,female vocalists,19800223,74,13,17,19800301
 66,68,I Shoulda Loved Ya,Narada Michael Walden,Narada Michael Walden,rnb / soul,soul,19800209,89,66,6,19800301
 67,76,Set Me Free,Utopia,Utopia,rock,progressive rock,19800223,76,27,12,19800301
-68,78,"Computer Game ""Theme From The Circus""",Yellow Magic Orchestra,Yellow Magic Orchestra,pop,electronic,19800126,106,60,10,19800301
+68,78,"Computer Game ""Theme From The Circus""",Yellow Magic Orchestra,Yellow Magic Orchestra,electronic,electronic,19800126,106,60,10,19800301
 69,28,Escape,Rupert Holmes,Rupert Holmes,pop,pop,19791020,85,1,21,19800301
 70,80,Desire,The Rockets,The Rockets,rock,rock and roll,19800216,89,70,6,19800301
 71,82,Keep The Fire,Kenny Loggins,Kenny Loggins,pop,80s,19800223,82,36,13,19800301
@@ -4916,7 +4916,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 75,85,What I Like About You,The Romantics,The Romantics,rock,new wave,19800216,85,49,8,19800223
 76,NEW,Set Me Free,Utopia,Utopia,rock,progressive rock,19800223,76,27,12,19800223
 77,36,Lost Her In The Sun,John Stewart,John Stewart,country / folk,singer-songwriter,19791208,82,34,13,19800223
-78,79,"Computer Game ""Theme From The Circus""",Yellow Magic Orchestra,Yellow Magic Orchestra,pop,electronic,19800126,106,60,10,19800223
+78,79,"Computer Game ""Theme From The Circus""",Yellow Magic Orchestra,Yellow Magic Orchestra,electronic,electronic,19800126,106,60,10,19800223
 79,41,Looks Like Love Again,Dann Rogers,Dann Rogers,pop,unknown,19791215,81,41,11,19800223
 80,89,Desire,The Rockets,The Rockets,rock,rock and roll,19800216,89,70,6,19800223
 81,NEW,Fire In The Morning,Melissa Manchester,Melissa Manchester,pop,female vocalists,19800223,81,32,13,19800223
@@ -5027,7 +5027,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 76,87,My Heroes Have Always Been Cowboys,Willie Nelson,Willie Nelson,country / folk,country,19800209,87,44,10,19800216
 77,NEW,Women,Foreigner,Foreigner,rock,classic rock,19800216,77,41,9,19800216
 78,89,I Shoulda Loved Ya,Narada Michael Walden,Narada Michael Walden,rnb / soul,soul,19800209,89,66,6,19800216
-79,83,"Computer Game ""Theme From The Circus""",Yellow Magic Orchestra,Yellow Magic Orchestra,pop,electronic,19800126,106,60,10,19800216
+79,83,"Computer Game ""Theme From The Circus""",Yellow Magic Orchestra,Yellow Magic Orchestra,electronic,electronic,19800126,106,60,10,19800216
 80,NEW,Call Me,Blondie,Blondie,rock,new wave,19800216,80,1,25,19800216
 81,NEW,Cars,Gary Numan,Gary Numan,rock,new wave,19800216,81,9,25,19800216
 82,52,Forever Mine,O'Jays,O'Jays,rnb / soul,soul,19791124,82,28,13,19800216
@@ -5141,7 +5141,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 80,91,I Don't Like Mondays,Boomtown Rats,Boomtown Rats,rock,new wave,19800202,91,73,5,19800209
 81,NEW,Lost In Love,Air Supply,Air Supply,pop,80s,19800209,81,3,23,19800209
 82,NEW,Even It Up,Heart,Heart,rock,classic rock,19800209,82,33,12,19800209
-83,92,"Computer Game ""Theme From The Circus""",Yellow Magic Orchestra,Yellow Magic Orchestra,pop,electronic,19800126,106,60,10,19800209
+83,92,"Computer Game ""Theme From The Circus""",Yellow Magic Orchestra,Yellow Magic Orchestra,electronic,electronic,19800126,106,60,10,19800209
 84,88,The Hardest Part,Blondie,Blondie,rock,new wave,19800119,103,84,5,19800209
 85,NEW,Where Does The Lovin' Go,David Gates,David Gates,pop,sentimental,19800209,85,46,8,19800209
 86,90,Peanut Butter,Twentynine,Twentynine,pop,unknown,19800202,90,83,4,19800209
@@ -5260,7 +5260,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 89,91,I Don't Want To Be Lonely,Dana Valery,Dana Valery,pop,northern soul,19800105,109,87,8,19800202
 90,NEW,Peanut Butter,Twentynine,Twentynine,pop,unknown,19800202,90,83,4,19800202
 91,NEW,I Don't Like Mondays,Boomtown Rats,Boomtown Rats,rock,new wave,19800202,91,73,5,19800202
-92,106,"Computer Game ""Theme From The Circus""",The Yellow Magic Orchestra,The Yellow Magic Orchestra,pop,electronic,19800126,106,60,10,19800202
+92,106,"Computer Game ""Theme From The Circus""",The Yellow Magic Orchestra,The Yellow Magic Orchestra,electronic,electronic,19800126,106,60,10,19800202
 93,93,Money,Flying Lizards,Flying Lizards,rock,new wave,19791201,90,50,10,19800202
 94,66,Volcano,Jimmy Buffett,Jimmy Buffett,country / folk,country,19791222,89,66,7,19800202
 95,70,Too Late,Journey,Journey,rock,classic rock,19800105,104,70,5,19800202
@@ -5384,7 +5384,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 103,NEW,Got To Be Real,Head East,Head East,rock,classic rock,19800126,103,103,2,19800126
 104,102,My Feet Keep Dancing,Chic,Chic,disco,disco,19800112,101,101,3,19800126
 105,105,You Can Get Over,Stephanie Mills,Stephanie Mills,rnb / soul,soul,19791117,104,101,12,19800126
-106,NEW,"Computer Game ""Theme From The Circus""",The Yellow Magic Orchestra,The Yellow Magic Orchestra,pop,electronic,19800126,106,60,10,19800126
+106,NEW,"Computer Game ""Theme From The Circus""",The Yellow Magic Orchestra,The Yellow Magic Orchestra,electronic,electronic,19800126,106,60,10,19800126
 107,101,Stay With Me Till Dawn,Judie Tzuke,Judie Tzuke,pop,female vocalists,19791222,110,101,8,19800126
 108,108,Say Hello,April Wine,April Wine,rock,classic rock,19800112,104,104,3,19800126
 109,106,When You Walk In The Room,Karla Bonoff,Karla Bonoff,pop,female vocalists,19791215,104,101,7,19800126

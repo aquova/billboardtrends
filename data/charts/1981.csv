@@ -86,7 +86,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 85,NEW,Tonight Tonight,Bill Champlin,Bill Champlin,pop,aor,19811226,85,55,8,19811226
 86,62,We're In This Love Together,Al Jarreau,Al Jarreau,jazz,jazz,19810801,88,15,24,19811226
 87,75,"She's A Bad Mama Jama (She's Built, She's Stacked)",Carl Carlton,Carl Carlton,rnb / soul,funk,19810822,86,22,21,19811226
-88,92,Chariots Of Fire - Titles,Vangelis,Vangelis,pop,electronic,19811212,94,1,28,19811226
+88,92,Chariots Of Fire - Titles,Vangelis,Vangelis,electronic,electronic,19811212,94,1,28,19811226
 89,66,Blaze Of Glory,Kenny Rogers,Kenny Rogers,country / folk,country,19811121,86,66,9,19811226
 90,68,For Your Eyes Only,Sheena Easton,Sheena Easton,pop,pop,19810725,83,4,25,19811226
 91,107,Can't Hold Back (Your Loving),Kano,Kano,pop,grime,19811212,107,89,7,19811226
@@ -106,7 +106,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 105,NEW,Only One You,T.G. Sheppard,T.G. Sheppard,country / folk,country,19811226,105,68,13,19811226
 106,108,Hurt,Carly Simon,Carly Simon,pop,female vocalists,19811219,108,106,4,19811226
 107,106,Looker,Sue Saad,Sue Saad,pop,soundtrack,19811212,109,104,5,19811226
-108,104,Numbers,Kraftwerk,Kraftwerk,pop,electronic,19811212,104,103,5,19811226
+108,104,Numbers,Kraftwerk,Kraftwerk,electronic,electronic,19811212,104,103,5,19811226
 109,109,Some Guys Have All The Luck,Nikki Wills,Nikki Wills,pop,unknown,19811219,109,109,3,19811226
 110,NEW,Tube Snake Boogie,Zz Top,Zz Top,rock,classic rock,19811226,110,103,6,19811226
 1,1,Physical,Olivia Newton-John,Olivia Newton-John,pop,pop,19811003,66,1,26,19811219
@@ -200,7 +200,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 89,69,Twilight,Elo,Elo,rock,classic rock,19811024,79,38,11,19811219
 90,70,Hard To Say,Dan Fogelberg,Dan Fogelberg,country / folk,singer-songwriter,19810829,72,7,19,19811219
 91,91,Sharing The Love,Rufus With Chaka Khan,Rufus With Chaka Khan,pop,music for my trips to the sea,19811114,104,91,8,19811219
-92,94,Chariots Of Fire - Titles,Vangelis,Vangelis,pop,electronic,19811212,94,1,28,19811219
+92,94,Chariots Of Fire - Titles,Vangelis,Vangelis,electronic,electronic,19811212,94,1,28,19811219
 93,95,Better Things,The Kinks,The Kinks,rock,classic rock,19811128,98,92,8,19811219
 94,73,Step By Step,Eddie Rabbitt,Eddie Rabbitt,country / folk,country,19810725,65,5,22,19811219
 95,75,Say Goodbye To Hollywood,Billy Joel,Billy Joel,rock,classic rock,19810912,70,17,15,19811219
@@ -212,7 +212,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 101,101,Sandy Beaches,Dilbert Mcclinton,Dilbert Mcclinton,rock,blues,19811121,107,101,7,19811219
 102,102,Kickin' Back,L.T.D.,L.T.D.,rnb / soul,soul,19811205,102,102,8,19811219
 103,103,Hit And Run,The Bar-Kays,The Bar-Kays,rnb / soul,funk,19811212,103,101,7,19811219
-104,104,Numbers,Kraftwerk,Kraftwerk,pop,electronic,19811212,104,103,5,19811219
+104,104,Numbers,Kraftwerk,Kraftwerk,electronic,electronic,19811212,104,103,5,19811219
 105,105,Be Mine (Tonight),Grover Washington Jr. With Grady Tate,Grover Washington Jr. With Grady Tate,pop,unknown,19811212,105,92,12,19811219
 106,109,Looker,Sue Saad,Sue Saad,pop,soundtrack,19811212,109,104,5,19811219
 107,107,Can't Hold Back (Your Loving),Kano,Kano,pop,grime,19811212,107,89,7,19811219
@@ -312,7 +312,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 91,92,Sharing The Love,Rufus With Chaka Khan,Rufus With Chaka Khan,pop,music for my trips to the sea,19811114,104,91,8,19811212
 92,103,A World Without Heroes,Kiss,Kiss,rock,hard rock,19811205,103,56,10,19811212
 93,NEW,Every Home Should Have One,Patti Austin,Patti Austin,rnb / soul,soul,19811212,93,62,8,19811212
-94,NEW,Chariots Of Fire - Titles,Vangelis,Vangelis,pop,electronic,19811212,94,1,28,19811212
+94,NEW,Chariots Of Fire - Titles,Vangelis,Vangelis,electronic,electronic,19811212,94,1,28,19811212
 95,97,Better Things,The Kinks,The Kinks,rock,classic rock,19811128,98,92,8,19811212
 96,60,Atlanta Lady (Something About Your Love),Marty Balin,Marty Balin,rock,classic rock,19810919,77,27,13,19811212
 97,74,Promises In The Dark,Pat Benatar,Pat Benatar,pop,80s,19811003,71,38,11,19811212
@@ -322,7 +322,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 101,101,Sandy Beaches,Dilbert Mcclinton,Dilbert Mcclinton,rock,blues,19811121,107,101,7,19811212
 102,102,Kickin' Back,L.T.D.,L.T.D.,rnb / soul,soul,19811205,102,102,8,19811212
 103,NEW,Hit And Run,The Bar-Kays,The Bar-Kays,rnb / soul,funk,19811212,103,101,7,19811212
-104,NEW,Numbers,Kraftwerk,Kraftwerk,pop,electronic,19811212,104,103,5,19811212
+104,NEW,Numbers,Kraftwerk,Kraftwerk,electronic,electronic,19811212,104,103,5,19811212
 105,NEW,Be Mine (Tonight),Grover Washington Jr. With Grady Tate,Grover Washington Jr. With Grady Tate,pop,unknown,19811212,105,92,12,19811212
 106,104,"Oh, What A Night",The Temptations,The Temptations,rnb / soul,soul,19811128,107,104,4,19811212
 107,NEW,Can't Hold Back (Your Loving),Kano,Kano,pop,grime,19811212,107,89,7,19811212
@@ -2745,7 +2745,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 104,105,Tempted,Squeeze,Squeeze,rock,new wave,19810704,105,49,15,19810711
 105,107,Very Special,Debra Laws,Debra Laws,rnb / soul,soul,19810704,107,90,11,19810711
 106,104,One Step Ahead,Split Enz,Split Enz,rock,new wave,19810627,107,104,3,19810711
-107,102,Pocket Calculator,Kraftwerk,Kraftwerk,pop,electronic,19810606,104,102,6,19810711
+107,102,Pocket Calculator,Kraftwerk,Kraftwerk,electronic,electronic,19810606,104,102,6,19810711
 108,110,Crazy Train,Ozzy Osbourne,Ozzy Osbourne,rock,heavy metal,19810704,110,106,5,19810711
 109,109,You Stopped Loving Me,Roberta Flack,Roberta Flack,rnb / soul,soul,19810627,110,109,4,19810711
 110,NEW,Shake It Up Tonight,Cheryl Lynn,Cheryl Lynn,disco,disco,19810711,110,70,11,19810711
@@ -2850,7 +2850,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 99,77,Brooklyn Girls,Robbie Dupree,Robbie Dupree,pop,80s,19810523,87,54,7,19810704
 100,59,Lovin' The Night Away,Dillman Band,Dillman Band,pop,aor,19810509,88,45,9,19810704
 101,101,Pull Up To The Bumper,Grace Jones,Grace Jones,disco,disco,19810606,103,101,9,19810704
-102,102,Pocket Calculator,Kraftwerk,Kraftwerk,pop,electronic,19810606,104,102,6,19810704
+102,102,Pocket Calculator,Kraftwerk,Kraftwerk,electronic,electronic,19810606,104,102,6,19810704
 103,104,Night (Feel Like Getting Down),Billy Ocean,Billy Ocean,pop,80s,19810620,109,103,6,19810704
 104,107,One Step Ahead,Split Enz,Split Enz,rock,new wave,19810627,107,104,3,19810704
 105,NEW,Tempted,Squeeze,Squeeze,rock,new wave,19810704,105,49,15,19810704
@@ -2960,7 +2960,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 99,88,Find Your Way Back,Jefferson Starship,Jefferson Starship,rock,classic rock,19810404,81,29,13,19810627
 100,90,You Better You Bet,The Who,The Who,rock,classic rock,19810321,63,18,15,19810627
 101,101,Pull Up To The Bumper,Grace Jones,Grace Jones,disco,disco,19810606,103,101,9,19810627
-102,102,Pocket Calculator,Kraftwerk,Kraftwerk,pop,electronic,19810606,104,102,6,19810627
+102,102,Pocket Calculator,Kraftwerk,Kraftwerk,electronic,electronic,19810606,104,102,6,19810627
 103,103,Try It Out,Gino Soccio,Gino Soccio,disco,disco,19810530,109,103,5,19810627
 104,109,Night (Feel Like Getting Down),Billy Ocean,Billy Ocean,pop,80s,19810620,109,103,6,19810627
 105,105,Love Is A Crazy Feeling,The Joe Chemay Band,The Joe Chemay Band,pop,adult contemporary,19810613,107,105,3,19810627
@@ -3070,7 +3070,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 99,88,"Mercy, Mercy, Mercy",Phoebe Snow,Phoebe Snow,pop,female vocalists,19810502,90,52,8,19810620
 100,90,Rain In May,Max Werner,Max Werner,pop,80s,19810516,90,74,6,19810620
 101,102,Pull Up To The Bumper,Grace Jones,Grace Jones,disco,disco,19810606,103,101,9,19810620
-102,103,Pocket Calculator,Kraftwerk,Kraftwerk,pop,electronic,19810606,104,102,6,19810620
+102,103,Pocket Calculator,Kraftwerk,Kraftwerk,electronic,electronic,19810606,104,102,6,19810620
 103,104,Try It Out,Gino Soccio,Gino Soccio,disco,disco,19810530,109,103,5,19810620
 104,105,Gotta Get Away,Randy Meisner,Randy Meisner,rock,rock,19810530,108,104,5,19810620
 105,107,Love Is A Crazy Feeling,The Joe Chemay Band,The Joe Chemay Band,pop,adult contemporary,19810613,107,105,3,19810620
@@ -3181,7 +3181,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 100,93,Rapture,Blondie,Blondie,rock,new wave,19810131,61,1,20,19810613
 101,101,The Kid Is Hot Tonite,Loverboy,Loverboy,pop,80s,19810606,101,55,9,19810613
 102,103,Pull Up To The Bumper,Grace Jones,Grace Jones,disco,disco,19810606,103,101,9,19810613
-103,104,Pocket Calculator,Kraftwerk,Kraftwerk,pop,electronic,19810606,104,102,6,19810613
+103,104,Pocket Calculator,Kraftwerk,Kraftwerk,electronic,electronic,19810606,104,102,6,19810613
 104,108,Try It Out,Gino Soccio,Gino Soccio,disco,disco,19810530,109,103,5,19810613
 105,107,Gotta Get Away,Randy Meisner,Randy Meisner,rock,rock,19810530,108,104,5,19810613
 106,106,Call It What You Want,Bill Summers And Summers Heat,Bill Summers And Summers Heat,rnb / soul,funk,19810523,106,103,5,19810613
@@ -3292,7 +3292,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 101,NEW,The Kid Is Hot Tonite,Loverboy,Loverboy,pop,80s,19810606,101,55,9,19810606
 102,NEW,What She Does To Me (The Diana Song),The Producers,The Producers,pop,broadway,19810606,102,61,7,19810606
 103,NEW,Pull Up To The Bumper,Grace Jones,Grace Jones,disco,disco,19810606,103,101,9,19810606
-104,NEW,Pocket Calculator,Kraftwerk,Kraftwerk,pop,electronic,19810606,104,102,6,19810606
+104,NEW,Pocket Calculator,Kraftwerk,Kraftwerk,electronic,electronic,19810606,104,102,6,19810606
 105,NEW,Only Heaven Knows,The Roulettes,The Roulettes,pop,60s,19810606,105,105,1,19810606
 106,103,Call It What You Want,Bill Summers And Summers Heat,Bill Summers And Summers Heat,rnb / soul,funk,19810523,106,103,5,19810606
 107,108,Gotta Get Away,Randy Meisner,Randy Meisner,rock,rock,19810530,108,104,5,19810606

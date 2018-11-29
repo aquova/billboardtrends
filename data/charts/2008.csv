@@ -80,7 +80,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 79,97,Mad,Ne-Yo,Ne-Yo,rnb / soul,rnb,20081220,97,11,24,20081227
 80,61,T-Shirt,Shontelle,Shontelle,rnb / soul,rnb,20080920,86,36,15,20081227
 81,80,Come On Get Higher,Matt Nathanson,Matt Nathanson,country / folk,singer-songwriter,20080913,89,59,20,20081227
-82,NEW,Seventeen Forever,Metro Station,Metro Station,pop,electronic,20081227,82,42,6,20081227
+82,NEW,Seventeen Forever,Metro Station,Metro Station,electronic,electronic,20081227,82,42,6,20081227
 83,78,Krazy,Pitbull Featuring Lil Jon,Pitbull,hip-hop,hip-hop,20081011,63,30,19,20081227
 84,87,I Don't Care,Apocalyptica Featuring Adam Gontier Of Three Days Grace,Apocalyptica,rock,symphonic metal,20081101,92,78,16,20081227
 85,82,What About Now,Daughtry,Daughtry,rock,rock,20080906,94,48,18,20081227
@@ -683,7 +683,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 82,93,Feel That Fire,Dierks Bentley,Dierks Bentley,country / folk,country,20081025,82,32,21,20081115
 83,87,Sex On Fire,Kings Of Leon,Kings Of Leon,rock,rock,20081108,87,56,20,20081115
 84,NEW,Country Boy,Alan Jackson,Alan Jackson,country / folk,country,20081115,84,57,8,20081115
-85,68,Now Or Never,Various Artists,Various Artists,pop,electronic,20081108,68,68,2,20081115
+85,68,Now Or Never,Various Artists,Various Artists,electronic,electronic,20081108,68,68,2,20081115
 86,NEW,One More Drink,Ludacris Featuring T-Pain,Ludacris,hip-hop,rap,20081115,86,24,18,20081115
 87,89,Don't,Billy Currington,Billy Currington,country / folk,country,20081108,89,52,20,20081115
 88,99,She Wouldn't Be Gone,Blake Shelton,Blake Shelton,country / folk,country,20081108,99,43,20,20081115
@@ -697,7 +697,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 96,NEW,Something In Your Mouth,Nickelback,Nickelback,rock,rock,20081115,96,96,1,20081115
 97,76,Cuddy Buddy,Mike Jones Featuring Trey Songz & Twista,Mike Jones,hip-hop,rap,20081101,85,76,3,20081115
 98,100,Can I Have This Dance,Zac Effron & Vanessa Hudgens,Zac Effron,pop,pop,20081108,100,98,2,20081115
-99,NEW,Don't Trust Me,3Oh!3,3Oh!3,pop,electronic,20081115,99,99,1,20081115
+99,NEW,Don't Trust Me,3Oh!3,3Oh!3,electronic,electronic,20081115,99,99,1,20081115
 100,NEW,Trading Places,Usher,Usher,rnb / soul,rnb,20081115,100,45,17,20081115
 1,1,Whatever You Like,T.I.,T.I.,hip-hop,hip-hop,20080823,99,1,31,20081108
 2,2,Live Your Life,T.I. Featuring Rihanna,T.I.,hip-hop,hip-hop,20081011,80,1,28,20081108
@@ -748,7 +748,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 47,52,Green Light,John Legend Featuring Andre 3000,John Legend,rnb / soul,soul,20080920,96,24,26,20081108
 48,42,All Summer Long,Kid Rock,Kid Rock,rock,rock,20080719,80,23,20,20081108
 49,59,Just Dance,Lady Gaga Featuring Colby O'Donis,Lady Gaga,pop,pop,20080906,74,1,47,20081108
-50,47,Shake It,Metro Station,Metro Station,pop,electronic,20080419,88,10,30,20081108
+50,47,Shake It,Metro Station,Metro Station,electronic,electronic,20080419,88,10,30,20081108
 51,51,So Fly,Slim Featuring Yung Joc,Slim,pop,russian rap,20080913,92,49,15,20081108
 52,54,Swing,Savage Featuring Soulja Boy Tell'Em,Savage,pop,80s,20080816,91,45,20,20081108
 53,38,Freeze,T-Pain Featuring Chris Brown,T-Pain,rnb / soul,rnb,20081101,38,38,3,20081108
@@ -766,7 +766,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 65,55,I'm So Paid,Akon Featuring Lil Wayne,Akon,hip-hop,hip-hop,20081025,40,40,3,20081108
 66,58,Human,The Killers,The Killers,rock,indie,20081018,32,32,20,20081108
 67,63,Angel,Natasha Bedingfield,Natasha Bedingfield,pop,pop,20081004,93,63,8,20081108
-68,NEW,Now Or Never,Various Artists,Various Artists,pop,electronic,20081108,68,68,2,20081108
+68,NEW,Now Or Never,Various Artists,Various Artists,electronic,electronic,20081108,68,68,2,20081108
 69,65,Waitin' On A Woman,Brad Paisley,Brad Paisley,country / folk,country,20080726,99,44,20,20081108
 70,62,It's Over,Jesse Mccartney,Jesse Mccartney,pop,pop,20081018,88,62,5,20081108
 71,71,Bartender Song (aka Sittin' At A Bar),Rehab,Rehab,hip-hop,hip-hop,20080712,94,64,20,20081108
@@ -845,7 +845,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 44,NEW,Get Up,50 Cent,50 Cent,hip-hop,rap,20081101,44,44,9,20081101
 45,38,Need U Bad,Jazmine Sullivan,Jazmine Sullivan,rnb / soul,rnb,20080802,73,37,20,20081101
 46,49,She Never Cried In Front Of Me,Toby Keith,Toby Keith,country / folk,country,20080726,72,42,20,20081101
-47,41,Shake It,Metro Station,Metro Station,pop,electronic,20080419,88,10,30,20081101
+47,41,Shake It,Metro Station,Metro Station,electronic,electronic,20080419,88,10,30,20081101
 48,42,Don't Think I Don't Think About It,Darius Rucker,Darius Rucker,country / folk,country,20080726,91,35,20,20081101
 49,48,What About Now,Daughtry,Daughtry,rock,rock,20080906,94,48,18,20081101
 50,53,Shattered (Turn The Car Around),O.A.R.,O.A.R.,rock,rock,20080823,92,36,24,20081101
@@ -939,7 +939,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 38,40,Need U Bad,Jazmine Sullivan,Jazmine Sullivan,rnb / soul,rnb,20080802,73,37,20,20081025
 39,35,Bleeding Love,Leona Lewis,Leona Lewis,pop,pop,20080301,85,1,39,20081025
 40,NEW,I'm So Paid,Akon Featuring Lil Wayne,Akon,hip-hop,hip-hop,20081025,40,40,3,20081025
-41,49,Shake It,Metro Station,Metro Station,pop,electronic,20080419,88,10,30,20081025
+41,49,Shake It,Metro Station,Metro Station,electronic,electronic,20080419,88,10,30,20081025
 42,39,Don't Think I Don't Think About It,Darius Rucker,Darius Rucker,country / folk,country,20080726,91,35,20,20081025
 43,46,Everybody Wants To Go To Heaven,Kenny Chesney,Kenny Chesney,country / folk,country,20080830,41,41,19,20081025
 44,51,T-Shirt,Shontelle,Shontelle,rnb / soul,rnb,20080920,86,36,15,20081025
@@ -1047,7 +1047,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 46,44,Everybody Wants To Go To Heaven,Kenny Chesney,Kenny Chesney,country / folk,country,20080830,41,41,19,20081018
 47,42,Pocketful Of Sunshine,Natasha Bedingfield,Natasha Bedingfield,pop,pop,20080315,94,5,33,20081018
 48,29,All Summer Long,The Rock Heroes,The Rock Heroes,rock,kid rock,20081004,38,29,11,20081018
-49,38,Shake It,Metro Station,Metro Station,pop,electronic,20080419,88,10,30,20081018
+49,38,Shake It,Metro Station,Metro Station,electronic,electronic,20080419,88,10,30,20081018
 50,37,When I Grow Up,The Pussycat Dolls,The Pussycat Dolls,pop,pop,20080614,76,9,20,20081018
 51,53,T-Shirt,Shontelle,Shontelle,rnb / soul,rnb,20080920,86,36,15,20081018
 52,52,Chicken Fried,Zac Brown Band,Zac Brown Band,country / folk,country,20081004,60,20,25,20081018
@@ -1136,7 +1136,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 35,36,Don't Think I Don't Think About It,Darius Rucker,Darius Rucker,country / folk,country,20080726,91,35,20,20081011
 36,41,Spotlight,Jennifer Hudson,Jennifer Hudson,rnb / soul,rnb,20080809,96,24,21,20081011
 37,32,When I Grow Up,The Pussycat Dolls,The Pussycat Dolls,pop,pop,20080614,76,9,20,20081011
-38,35,Shake It,Metro Station,Metro Station,pop,electronic,20080419,88,10,30,20081011
+38,35,Shake It,Metro Station,Metro Station,electronic,electronic,20080419,88,10,30,20081011
 39,37,Need U Bad,Jazmine Sullivan,Jazmine Sullivan,rnb / soul,rnb,20080802,73,37,20,20081011
 40,49,What Them Girls Like,Ludacris Co-Starring Chris Brown & Sean Garrett,Ludacris Co-Starring Chris Brown,pop,unknown,20080913,59,33,14,20081011
 41,30,A Milli,Lil' Wayne,Lil' Wayne,hip-hop,rap,20080510,60,6,23,20081011
@@ -1233,7 +1233,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 32,22,When I Grow Up,The Pussycat Dolls,The Pussycat Dolls,pop,pop,20080614,76,9,20,20081004
 33,27,Leavin',Jesse Mccartney,Jesse Mccartney,pop,pop,20080510,14,10,24,20081004
 34,37,Love Remains The Same,Gavin Rossdale,Gavin Rossdale,rock,rock,20080621,76,27,31,20081004
-35,35,Shake It,Metro Station,Metro Station,pop,electronic,20080419,88,10,30,20081004
+35,35,Shake It,Metro Station,Metro Station,electronic,electronic,20080419,88,10,30,20081004
 36,40,Don't Think I Don't Think About It,Darius Rucker,Darius Rucker,country / folk,country,20080726,91,35,20,20081004
 37,38,Need U Bad,Jazmine Sullivan,Jazmine Sullivan,rnb / soul,rnb,20080802,73,37,20,20081004
 38,NEW,All Summer Long,The Rock Heroes,The Rock Heroes,rock,kid rock,20081004,38,29,11,20081004
@@ -1333,7 +1333,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 32,32,Crush,David Archuleta,David Archuleta,pop,pop,20080830,2,2,23,20080927
 33,45,Let It Rock,Kevin Rudolf Featuring Lil Wayne,Kevin Rudolf,hip-hop,hip-hop,20080913,85,5,35,20080927
 34,37,Mrs. Officer,Lil Wayne Featuring Bobby Valentino,Lil Wayne,hip-hop,rap,20080906,86,16,22,20080927
-35,28,Shake It,Metro Station,Metro Station,pop,electronic,20080419,88,10,30,20080927
+35,28,Shake It,Metro Station,Metro Station,electronic,electronic,20080419,88,10,30,20080927
 36,11,Just Stand Up!,Artists Stand Up To Cancer,Artists Stand Up To Cancer,pop,american,20080913,78,11,4,20080927
 37,30,Love Remains The Same,Gavin Rossdale,Gavin Rossdale,rock,rock,20080621,76,27,31,20080927
 38,42,Need U Bad,Jazmine Sullivan,Jazmine Sullivan,rnb / soul,rnb,20080802,73,37,20,20080927
@@ -1426,7 +1426,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 25,23,All Summer Long,Kid Rock,Kid Rock,rock,rock,20080719,80,23,20,20080920
 26,25,Bleeding Love,Leona Lewis,Leona Lewis,pop,pop,20080301,85,1,39,20080920
 27,32,Miss Independent,Ne-Yo,Ne-Yo,rnb / soul,rnb,20080906,98,7,28,20080920
-28,27,Shake It,Metro Station,Metro Station,pop,electronic,20080419,88,10,30,20080920
+28,27,Shake It,Metro Station,Metro Station,electronic,electronic,20080419,88,10,30,20080920
 29,26,My Life,The Game Featuring Lil Wayne,The Game,hip-hop,rap,20080823,21,21,20,20080920
 30,37,Love Remains The Same,Gavin Rossdale,Gavin Rossdale,rock,rock,20080621,76,27,31,20080920
 31,28,Lolli Lolli (Pop That Body),"Three 6 Mafia Featuring Project Pat, Young D & Superpower",Three 6 Mafia,hip-hop,rap,20080531,79,18,20,20080920
@@ -1525,7 +1525,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 24,29,Fall For You,Secondhand Serenade,Secondhand Serenade,pop,acoustic,20080628,85,21,30,20080913
 25,20,Bleeding Love,Leona Lewis,Leona Lewis,pop,pop,20080301,85,1,39,20080913
 26,32,My Life,The Game Featuring Lil Wayne,The Game,hip-hop,rap,20080823,21,21,20,20080913
-27,26,Shake It,Metro Station,Metro Station,pop,electronic,20080419,88,10,30,20080913
+27,26,Shake It,Metro Station,Metro Station,electronic,electronic,20080419,88,10,30,20080913
 28,27,Lolli Lolli (Pop That Body),"Three 6 Mafia Featuring Project Pat, Young D & Superpower",Three 6 Mafia,hip-hop,rap,20080531,79,18,20,20080913
 29,21,Burnin' Up,Jonas Brothers,Jonas Brothers,pop,pop,20080712,5,5,16,20080913
 30,30,Pocketful Of Sunshine,Natasha Bedingfield,Natasha Bedingfield,pop,pop,20080315,94,5,33,20080913
@@ -1624,7 +1624,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 23,24,In The Ayer,Flo Rida Featuring Will.I.Am.,Flo Rida,hip-hop,hip-hop,20080705,38,9,21,20080906
 24,32,I'm Yours,Jason Mraz,Jason Mraz,country / folk,singer-songwriter,20080503,93,6,76,20080906
 25,25,All Summer Long,Kid Rock,Kid Rock,rock,rock,20080719,80,23,20,20080906
-26,23,Shake It,Metro Station,Metro Station,pop,electronic,20080419,88,10,30,20080906
+26,23,Shake It,Metro Station,Metro Station,electronic,electronic,20080419,88,10,30,20080906
 27,22,Lolli Lolli (Pop That Body),"Three 6 Mafia Featuring Project Pat, Young D & Superpower",Three 6 Mafia,hip-hop,rap,20080531,79,18,20,20080906
 28,33,Better In Time,Leona Lewis,Leona Lewis,pop,pop,20080802,75,11,30,20080906
 29,29,Fall For You,Secondhand Serenade,Secondhand Serenade,pop,acoustic,20080628,85,21,30,20080906
@@ -1721,7 +1721,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 20,9,Burnin' Up,Jonas Brothers,Jonas Brothers,pop,pop,20080712,5,5,16,20080830
 21,24,One Step At A Time,Jordin Sparks,Jordin Sparks,pop,pop,20080712,79,17,21,20080830
 22,19,Lolli Lolli (Pop That Body),"Three 6 Mafia Featuring Project Pat, Young D & Superpower",Three 6 Mafia,hip-hop,rap,20080531,79,18,20,20080830
-23,22,Shake It,Metro Station,Metro Station,pop,electronic,20080419,88,10,30,20080830
+23,22,Shake It,Metro Station,Metro Station,electronic,electronic,20080419,88,10,30,20080830
 24,26,In The Ayer,Flo Rida Featuring Will.I.Am.,Flo Rida,hip-hop,hip-hop,20080705,38,9,21,20080830
 25,28,All Summer Long,Kid Rock,Kid Rock,rock,rock,20080719,80,23,20,20080830
 26,17,Lollipop,Lil Wayne Featuring Static Major,Lil Wayne,hip-hop,rap,20080329,85,1,28,20080830
@@ -1820,7 +1820,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 19,18,Lolli Lolli (Pop That Body),"Three 6 Mafia Featuring Project Pat, Young D & Superpower",Three 6 Mafia,hip-hop,rap,20080531,79,18,20,20080823
 20,17,Pocketful Of Sunshine,Natasha Bedingfield,Natasha Bedingfield,pop,pop,20080315,94,5,33,20080823
 21,NEW,My Life,The Game Featuring Lil Wayne,The Game,hip-hop,rap,20080823,21,21,20,20080823
-22,20,Shake It,Metro Station,Metro Station,pop,electronic,20080419,88,10,30,20080823
+22,20,Shake It,Metro Station,Metro Station,electronic,electronic,20080419,88,10,30,20080823
 23,26,Got Money,Lil Wayne Featuring T-Pain,Lil Wayne,hip-hop,rap,20080614,13,10,27,20080823
 24,31,One Step At A Time,Jordin Sparks,Jordin Sparks,pop,pop,20080712,79,17,21,20080823
 25,25,I Luv Your Girl,The-Dream,The-Dream,rnb / soul,rnb,20080510,97,20,20,20080823
@@ -1918,7 +1918,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 17,13,Pocketful Of Sunshine,Natasha Bedingfield,Natasha Bedingfield,pop,pop,20080315,94,5,33,20080816
 18,20,Lolli Lolli (Pop That Body),"Three 6 Mafia Featuring Project Pat, Young D & Superpower",Three 6 Mafia,hip-hop,rap,20080531,79,18,20,20080816
 19,19,Get Like Me,David Banner Featuring Chris Brown,David Banner,hip-hop,rap,20080524,97,16,21,20080816
-20,15,Shake It,Metro Station,Metro Station,pop,electronic,20080419,88,10,30,20080816
+20,15,Shake It,Metro Station,Metro Station,electronic,electronic,20080419,88,10,30,20080816
 21,17,Bust It Baby (Part 2),Plies Featuring Ne-Yo,Plies,hip-hop,rap,20080412,55,7,22,20080816
 22,24,Put On,Young Jeezy Featuring Kanye West,Young Jeezy,hip-hop,rap,20080621,36,12,20,20080816
 23,26,Corona And Lime,Shwayze,Shwayze,hip-hop,hip-hop,20080809,26,23,8,20080816
@@ -2013,7 +2013,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 12,12,When I Grow Up,The Pussycat Dolls,The Pussycat Dolls,pop,pop,20080614,76,9,20,20080809
 13,7,Pocketful Of Sunshine,Natasha Bedingfield,Natasha Bedingfield,pop,pop,20080315,94,5,33,20080809
 14,19,Closer,Ne-Yo,Ne-Yo,rnb / soul,rnb,20080503,95,7,39,20080809
-15,17,Shake It,Metro Station,Metro Station,pop,electronic,20080419,88,10,30,20080809
+15,17,Shake It,Metro Station,Metro Station,electronic,electronic,20080419,88,10,30,20080809
 16,26,American Boy,Estelle Featuring Kanye West,Estelle,rnb / soul,rnb,20080503,98,9,30,20080809
 17,14,Bust It Baby (Part 2),Plies Featuring Ne-Yo,Plies,hip-hop,rap,20080412,55,7,22,20080809
 18,13,7 Things,Miley Cyrus,Miley Cyrus,pop,pop,20080621,84,9,15,20080809
@@ -2115,7 +2115,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 14,10,Bust It Baby (Part 2),Plies Featuring Ne-Yo,Plies,hip-hop,rap,20080412,55,7,22,20080802
 15,15,Disturbia,Rihanna,Rihanna,pop,pop,20080705,18,1,37,20080802
 16,NEW,Pushin' Me Away,Jonas Brothers,Jonas Brothers,pop,pop,20080802,16,16,2,20080802
-17,16,Shake It,Metro Station,Metro Station,pop,electronic,20080419,88,10,30,20080802
+17,16,Shake It,Metro Station,Metro Station,electronic,electronic,20080419,88,10,30,20080802
 18,18,Get Like Me,David Banner Featuring Chris Brown,David Banner,hip-hop,rap,20080524,97,16,21,20080802
 19,17,Closer,Ne-Yo,Ne-Yo,rnb / soul,rnb,20080503,95,7,39,20080802
 20,19,Lolli Lolli (Pop That Body),"Three 6 Mafia Featuring Project Pat, Young D & Superpower",Three 6 Mafia,hip-hop,rap,20080531,79,18,20,20080802
@@ -2214,7 +2214,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 13,8,Burnin' Up,Jonas Brothers,Jonas Brothers,pop,pop,20080712,5,5,16,20080726
 14,16,Dangerous,Kardinal Offishall Featuring Akon,Kardinal Offishall,hip-hop,hip-hop,20080524,91,5,27,20080726
 15,15,Disturbia,Rihanna,Rihanna,pop,pop,20080705,18,1,37,20080726
-16,14,Shake It,Metro Station,Metro Station,pop,electronic,20080419,88,10,30,20080726
+16,14,Shake It,Metro Station,Metro Station,electronic,electronic,20080419,88,10,30,20080726
 17,27,Closer,Ne-Yo,Ne-Yo,rnb / soul,rnb,20080503,95,7,39,20080726
 18,24,Get Like Me,David Banner Featuring Chris Brown,David Banner,hip-hop,rap,20080524,97,16,21,20080726
 19,21,Lolli Lolli (Pop That Body),"Three 6 Mafia Featuring Project Pat, Young D & Superpower",Three 6 Mafia,hip-hop,rap,20080531,79,18,20,20080726
@@ -2312,7 +2312,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 11,14,A Milli,Lil' Wayne,Lil' Wayne,hip-hop,rap,20080510,60,6,23,20080719
 12,13,When I Grow Up,The Pussycat Dolls,The Pussycat Dolls,pop,pop,20080614,76,9,20,20080719
 13,17,Leavin',Jesse Mccartney,Jesse Mccartney,pop,pop,20080510,14,10,24,20080719
-14,12,Shake It,Metro Station,Metro Station,pop,electronic,20080419,88,10,30,20080719
+14,12,Shake It,Metro Station,Metro Station,electronic,electronic,20080419,88,10,30,20080719
 15,11,Disturbia,Rihanna,Rihanna,pop,pop,20080705,18,1,37,20080719
 16,23,Dangerous,Kardinal Offishall Featuring Akon,Kardinal Offishall,hip-hop,hip-hop,20080524,91,5,27,20080719
 17,15,Damaged,Danity Kane,Danity Kane,pop,pop,20080329,64,10,22,20080719
@@ -2410,7 +2410,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 9,11,This Is Me,Demi Lovato & Joe Jonas,Demi Lovato & Joe Jonas,pop,pop,20080705,11,9,7,20080712
 10,5,Pocketful Of Sunshine,Natasha Bedingfield,Natasha Bedingfield,pop,pop,20080315,94,5,33,20080712
 11,18,Disturbia,Rihanna,Rihanna,pop,pop,20080705,18,1,37,20080712
-12,13,Shake It,Metro Station,Metro Station,pop,electronic,20080419,88,10,30,20080712
+12,13,Shake It,Metro Station,Metro Station,electronic,electronic,20080419,88,10,30,20080712
 13,9,When I Grow Up,The Pussycat Dolls,The Pussycat Dolls,pop,pop,20080614,76,9,20,20080712
 14,21,A Milli,Lil' Wayne,Lil' Wayne,hip-hop,rap,20080510,60,6,23,20080712
 15,17,Damaged,Danity Kane,Danity Kane,pop,pop,20080329,64,10,22,20080712
@@ -2511,7 +2511,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 10,70,7 Things,Miley Cyrus,Miley Cyrus,pop,pop,20080621,84,9,15,20080705
 11,NEW,This Is Me,Demi Lovato & Joe Jonas,Demi Lovato & Joe Jonas,pop,pop,20080705,11,9,7,20080705
 12,7,No Air,Jordin Sparks Duet With Chris Brown,Jordin Sparks Duet With Chris Brown,pop,pop,20080119,95,3,35,20080705
-13,10,Shake It,Metro Station,Metro Station,pop,electronic,20080419,88,10,30,20080705
+13,10,Shake It,Metro Station,Metro Station,electronic,electronic,20080419,88,10,30,20080705
 14,9,Love In This Club,Usher Featuring Young Jeezy,Usher,rnb / soul,rnb,20080301,83,1,25,20080705
 15,13,Leavin',Jesse Mccartney,Jesse Mccartney,pop,pop,20080510,14,10,24,20080705
 16,12,Sexy Can I,Ray J & Yung Berg,Ray J,rnb / soul,rnb,20080216,77,3,26,20080705
@@ -2608,7 +2608,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 7,7,No Air,Jordin Sparks Duet With Chris Brown,Jordin Sparks Duet With Chris Brown,pop,pop,20080119,95,3,35,20080628
 8,11,Forever,Chris Brown,Chris Brown,rnb / soul,rnb,20080510,9,2,33,20080628
 9,6,Love In This Club,Usher Featuring Young Jeezy,Usher,rnb / soul,rnb,20080301,83,1,25,20080628
-10,14,Shake It,Metro Station,Metro Station,pop,electronic,20080419,88,10,30,20080628
+10,14,Shake It,Metro Station,Metro Station,electronic,electronic,20080419,88,10,30,20080628
 11,12,Bust It Baby (Part 2),Plies Featuring Ne-Yo,Plies,hip-hop,rap,20080412,55,7,22,20080628
 12,8,Sexy Can I,Ray J & Yung Berg,Ray J,rnb / soul,rnb,20080216,77,3,26,20080628
 13,16,Leavin',Jesse Mccartney,Jesse Mccartney,pop,pop,20080510,14,10,24,20080628
@@ -2712,7 +2712,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 11,16,Forever,Chris Brown,Chris Brown,rnb / soul,rnb,20080510,9,2,33,20080621
 12,14,Bust It Baby (Part 2),Plies Featuring Ne-Yo,Plies,hip-hop,rap,20080412,55,7,22,20080621
 13,12,Damaged,Danity Kane,Danity Kane,pop,pop,20080329,64,10,22,20080621
-14,23,Shake It,Metro Station,Metro Station,pop,electronic,20080419,88,10,30,20080621
+14,23,Shake It,Metro Station,Metro Station,electronic,electronic,20080419,88,10,30,20080621
 15,17,What You Got,Colby O'Donis Featuring Akon,Colby O'Donis,rnb / soul,rnb,20080315,86,14,25,20080621
 16,15,Leavin',Jesse Mccartney,Jesse Mccartney,pop,pop,20080510,14,10,24,20080621
 17,19,It's Not My Time,3 Doors Down,3 Doors Down,rock,rock,20080308,94,17,29,20080621
@@ -2821,7 +2821,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 20,20,Love Song,Sara Bareilles,Sara Bareilles,pop,female vocalists,20071117,100,4,41,20080614
 21,19,Last Name,Carrie Underwood,Carrie Underwood,country / folk,country,20080419,86,19,20,20080614
 22,26,Bye Bye,Mariah Carey,Mariah Carey,pop,pop,20080503,23,19,12,20080614
-23,35,Shake It,Metro Station,Metro Station,pop,electronic,20080419,88,10,30,20080614
+23,35,Shake It,Metro Station,Metro Station,electronic,electronic,20080419,88,10,30,20080614
 24,24,Low,Flo Rida Featuring T-Pain,Flo Rida,hip-hop,hip-hop,20071110,91,1,40,20080614
 25,31,"Love In This Club, Part II",Usher Featuring Beyonce & Lil' Wayne,Usher,rnb / soul,rnb,20080510,79,18,14,20080614
 26,25,Stop And Stare,Onerepublic,Onerepublic,rock,rock,20071229,98,12,31,20080614
@@ -2933,7 +2933,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 32,25,Don't Stop The Music,Rihanna,Rihanna,pop,pop,20071208,94,3,30,20080607
 33,27,Mercy,Duffy,Duffy,rnb / soul,soul,20080510,87,27,20,20080607
 34,23,The Boss,Rick Ross Featuring T-Pain,Rick Ross,hip-hop,hip-hop,20080301,84,17,20,20080607
-35,29,Shake It,Metro Station,Metro Station,pop,electronic,20080419,88,10,30,20080607
+35,29,Shake It,Metro Station,Metro Station,electronic,electronic,20080419,88,10,30,20080607
 36,NEW,Imagine,David Archuleta,David Archuleta,pop,pop,20080607,36,36,1,20080607
 37,21,See You Again,Miley Cyrus,Miley Cyrus,pop,pop,20071222,94,10,27,20080607
 38,28,In Love With A Girl,Gavin Degraw,Gavin Degraw,country / folk,singer-songwriter,20080329,88,24,22,20080607
@@ -3027,7 +3027,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 26,26,It's Not My Time,3 Doors Down,3 Doors Down,rock,rock,20080308,94,17,29,20080531
 27,66,Mercy,Duffy,Duffy,rnb / soul,soul,20080510,87,27,20,20080531
 28,24,In Love With A Girl,Gavin Degraw,Gavin Degraw,country / folk,singer-songwriter,20080329,88,24,22,20080531
-29,30,Shake It,Metro Station,Metro Station,pop,electronic,20080419,88,10,30,20080531
+29,30,Shake It,Metro Station,Metro Station,electronic,electronic,20080419,88,10,30,20080531
 30,28,She Got It,2 Pistols Featuring T-Pain & Tay Dizm,2 Pistols,hip-hop,hip-hop,20080301,98,24,20,20080531
 31,29,No One,Alicia Keys,Alicia Keys,rnb / soul,soul,20070922,71,1,39,20080531
 32,33,Apologize,Timbaland Featuring Onerepublic,Timbaland,hip-hop,hip-hop,20070901,91,2,45,20080531
@@ -3128,7 +3128,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 27,38,Bye Bye,Mariah Carey,Mariah Carey,pop,pop,20080503,23,19,12,20080524
 28,25,She Got It,2 Pistols Featuring T-Pain & Tay Dizm,2 Pistols,hip-hop,hip-hop,20080301,98,24,20,20080524
 29,26,No One,Alicia Keys,Alicia Keys,rnb / soul,soul,20070922,71,1,39,20080524
-30,36,Shake It,Metro Station,Metro Station,pop,electronic,20080419,88,10,30,20080524
+30,36,Shake It,Metro Station,Metro Station,electronic,electronic,20080419,88,10,30,20080524
 31,23,Sorry,Buckcherry,Buckcherry,rock,hard rock,20071222,86,9,24,20080524
 32,27,Just Get Started Lovin' You,James Otto,James Otto,country / folk,country,20080308,93,27,20,20080524
 33,24,Apologize,Timbaland Featuring Onerepublic,Timbaland,hip-hop,hip-hop,20070901,91,2,45,20080524
@@ -3234,7 +3234,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 33,35,Whatever It Takes,Lifehouse,Lifehouse,rock,rock,20080202,97,33,20,20080517
 34,47,In Love With A Girl,Gavin Degraw,Gavin Degraw,country / folk,singer-songwriter,20080329,88,24,22,20080517
 35,34,Feels Like Tonight,Daughtry,Daughtry,rock,rock,20080209,89,24,20,20080517
-36,45,Shake It,Metro Station,Metro Station,pop,electronic,20080419,88,10,30,20080517
+36,45,Shake It,Metro Station,Metro Station,electronic,electronic,20080419,88,10,30,20080517
 37,44,The Way That I Love You,Ashanti,Ashanti,rnb / soul,rnb,20080322,88,37,18,20080517
 38,32,Bye Bye,Mariah Carey,Mariah Carey,pop,pop,20080503,23,19,12,20080517
 39,25,Independent,"Webbie, Lil' Phat & Lil' Boosie",Webbie,hip-hop,rap,20071208,99,9,25,20080517
@@ -3343,7 +3343,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 42,40,Party People,Nelly Featuring Fergie,Nelly,hip-hop,hip-hop,20080412,54,40,10,20080510
 43,39,Killa,Cherish Featuring Yung Joc,Cherish,rnb / soul,rnb,20080223,97,39,15,20080510
 44,44,The Way That I Love You,Ashanti,Ashanti,rnb / soul,rnb,20080322,88,37,18,20080510
-45,55,Shake It,Metro Station,Metro Station,pop,electronic,20080419,88,10,30,20080510
+45,55,Shake It,Metro Station,Metro Station,electronic,electronic,20080419,88,10,30,20080510
 46,46,Break The Ice,Britney Spears,Britney Spears,pop,pop,20080315,100,43,17,20080510
 47,56,In Love With A Girl,Gavin Degraw,Gavin Degraw,country / folk,singer-songwriter,20080329,88,24,22,20080510
 48,38,Teardrops On My Guitar,Taylor Swift,Taylor Swift,country / folk,country,20071215,44,13,23,20080510
@@ -3453,7 +3453,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 52,50,Falsetto,The-Dream,The-Dream,rnb / soul,rnb,20080126,84,30,19,20080503
 53,45,When You Look Me In The Eyes,Jonas Brothers,Jonas Brothers,pop,pop,20080209,85,25,17,20080503
 54,52,Shawty Get Loose,Lil Mama Featuring Chris Brown,Lil Mama,hip-hop,hip-hop,20080308,92,10,12,20080503
-55,74,Shake It,Metro Station,Metro Station,pop,electronic,20080419,88,10,30,20080503
+55,74,Shake It,Metro Station,Metro Station,electronic,electronic,20080419,88,10,30,20080503
 56,67,In Love With A Girl,Gavin Degraw,Gavin Degraw,country / folk,singer-songwriter,20080329,88,24,22,20080503
 57,56,What Kinda Gone,Chris Cagle,Chris Cagle,country / folk,country,20080202,94,54,20,20080503
 58,78,Love Don't Live Here,Lady Antebellum,Lady Antebellum,country / folk,country,20080315,95,53,18,20080503
@@ -3572,7 +3572,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 71,56,I Won't Tell,Fat Joe Featuring J. Holiday,Fat Joe,hip-hop,rap,20080126,81,37,16,20080426
 72,69,Psycho,Puddle Of Mudd,Puddle Of Mudd,rock,rock,20080216,100,67,16,20080426
 73,71,YAHHH!,Soulja Boy Tell'Em Featuring Arab,Soulja Boy Tell'Em,hip-hop,hip-hop,20080216,86,48,13,20080426
-74,88,Shake It,Metro Station,Metro Station,pop,electronic,20080419,88,10,30,20080426
+74,88,Shake It,Metro Station,Metro Station,electronic,electronic,20080419,88,10,30,20080426
 75,86,Last Name,Carrie Underwood,Carrie Underwood,country / folk,country,20080419,86,19,20,20080426
 76,68,Umma Do Me,Rocko,Rocko,hip-hop,rap,20080223,88,66,11,20080426
 77,75,Hollywood's Not America,Ferras,Ferras,pop,pop,20080405,84,62,10,20080426
@@ -3686,7 +3686,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 85,NEW,Supernatural Superserious,R.E.M.,R.E.M.,rock,rock,20080419,85,85,1,20080419
 86,NEW,Last Name,Carrie Underwood,Carrie Underwood,country / folk,country,20080419,86,19,20,20080419
 87,79,Got Me Going,Day26,Day26,rnb / soul,rnb,20080412,79,79,3,20080419
-88,NEW,Shake It,Metro Station,Metro Station,pop,electronic,20080419,88,10,30,20080419
+88,NEW,Shake It,Metro Station,Metro Station,electronic,electronic,20080419,88,10,30,20080419
 89,75,What Hurts The Most,Cascada,Cascada,electronic,dance,20080126,95,52,14,20080419
 90,NEW,Customer,Raheem Devaughn,Raheem Devaughn,pop,neo-soul,20080419,90,76,7,20080419
 91,100,Te Quiero,Flex,Flex,pop,panama,20080405,99,87,13,20080419
@@ -3797,7 +3797,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 96,95,Diamond Girl,Ryan Leslie,Ryan Leslie,rnb / soul,rnb,20080329,95,95,3,20080412
 97,86,God Must Be Busy,Brooks & Dunn,Brooks & Dunn,country / folk,country,20080202,99,78,11,20080412
 98,96,Go On Girl,Ne-Yo,Ne-Yo,rnb / soul,rnb,20080405,96,96,3,20080412
-99,81,Dance Like There's No Tomorrow,Paula Abdul & Randy Jackson,Paula Abdul & Randy Jackson,pop,electronic,20080308,80,62,6,20080412
+99,81,Dance Like There's No Tomorrow,Paula Abdul & Randy Jackson,Paula Abdul & Randy Jackson,electronic,electronic,20080308,80,62,6,20080412
 100,99,Te Quiero,Flex,Flex,pop,panama,20080405,99,87,13,20080412
 1,8,Bleeding Love,Leona Lewis,Leona Lewis,pop,pop,20080301,85,1,39,20080405
 2,1,Love In This Club,Usher Featuring Young Jeezy,Usher,rnb / soul,rnb,20080301,83,1,25,20080405
@@ -3879,7 +3879,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 78,94,All Around Me,Flyleaf,Flyleaf,rock,alternative rock,20080329,94,40,19,20080405
 79,82,Crushcrushcrush,Paramore,Paramore,rock,rock,20071229,93,54,17,20080405
 80,83,Love Is A Beautiful Thing,Phil Vassar,Phil Vassar,country / folk,country,20080308,97,48,17,20080405
-81,62,Dance Like There's No Tomorrow,Paula Abdul & Randy Jackson,Paula Abdul & Randy Jackson,pop,electronic,20080308,80,62,6,20080405
+81,62,Dance Like There's No Tomorrow,Paula Abdul & Randy Jackson,Paula Abdul & Randy Jackson,electronic,electronic,20080308,80,62,6,20080405
 82,88,In Love With A Girl,Gavin Degraw,Gavin Degraw,country / folk,singer-songwriter,20080329,88,24,22,20080405
 83,81,Never,Jaheim,Jaheim,rnb / soul,rnb,20080119,100,76,16,20080405
 84,NEW,Hollywood's Not America,Ferras,Ferras,pop,pop,20080405,84,62,10,20080405
@@ -3960,7 +3960,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 59,53,Piece Of Me,Britney Spears,Britney Spears,pop,pop,20071117,65,18,20,20080329
 60,52,What Hurts The Most,Cascada,Cascada,electronic,dance,20080126,95,52,14,20080329
 61,69,What You Got,Colby O'Donis Featuring Akon,Colby O'Donis,rnb / soul,rnb,20080315,86,14,25,20080329
-62,68,Dance Like There's No Tomorrow,Paula Abdul & Randy Jackson,Paula Abdul & Randy Jackson,pop,electronic,20080308,80,62,6,20080329
+62,68,Dance Like There's No Tomorrow,Paula Abdul & Randy Jackson,Paula Abdul & Randy Jackson,electronic,electronic,20080308,80,62,6,20080329
 63,56,Stealing Cinderella,Chuck Wicks,Chuck Wicks,country / folk,country,20071201,94,56,20,20080329
 64,NEW,Damaged,Danity Kane,Danity Kane,pop,pop,20080329,64,10,22,20080329
 65,71,Just Get Started Lovin' You,James Otto,James Otto,country / folk,country,20080308,93,27,20,20080329
@@ -4066,7 +4066,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 65,63,Won't Go Home Without You,Maroon 5,Maroon 5,rock,rock,20071229,84,48,20,20080322
 66,71,Realize,Colbie Caillat,Colbie Caillat,pop,female vocalists,20080223,86,20,26,20080322
 67,66,Umma Do Me,Rocko,Rocko,hip-hop,rap,20080223,88,66,11,20080322
-68,72,Dance Like There's No Tomorrow,Paula Abdul & Randy Jackson,Paula Abdul & Randy Jackson,pop,electronic,20080308,80,62,6,20080322
+68,72,Dance Like There's No Tomorrow,Paula Abdul & Randy Jackson,Paula Abdul & Randy Jackson,electronic,electronic,20080308,80,62,6,20080322
 69,86,What You Got,Colby O'Donis Featuring Akon,Colby O'Donis,rnb / soul,rnb,20080315,86,14,25,20080322
 70,74,Laughed Until We Cried,Jason Aldean,Jason Aldean,country / folk,country,20080202,96,61,16,20080322
 71,80,Just Get Started Lovin' You,James Otto,James Otto,country / folk,country,20080308,93,27,20,20080322
@@ -4170,7 +4170,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 69,69,Hero / Heroine,Boys Like Girls,Boys Like Girls,pop,pop punk,20071222,84,43,17,20080315
 70,64,Pop Bottles,Birdman Featuring Lil Wayne,Birdman,hip-hop,hip-hop,20071117,97,38,20,20080315
 71,79,Realize,Colbie Caillat,Colbie Caillat,pop,female vocalists,20080223,86,20,26,20080315
-72,80,Dance Like There's No Tomorrow,Paula Abdul & Randy Jackson,Paula Abdul & Randy Jackson,pop,electronic,20080308,80,62,6,20080315
+72,80,Dance Like There's No Tomorrow,Paula Abdul & Randy Jackson,Paula Abdul & Randy Jackson,electronic,electronic,20080308,80,62,6,20080315
 73,83,Picture To Burn,Taylor Swift,Taylor Swift,country / folk,country,20080301,91,28,20,20080315
 74,78,Laughed Until We Cried,Jason Aldean,Jason Aldean,country / folk,country,20080202,96,61,16,20080315
 75,88,The Boss,Rick Ross Featuring T-Pain,Rick Ross,hip-hop,hip-hop,20080301,84,17,20,20080315
@@ -4278,7 +4278,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 77,64,Winner At A Losing Game,Rascal Flatts,Rascal Flatts,country / folk,country,20071110,94,52,20,20080308
 78,79,Laughed Until We Cried,Jason Aldean,Jason Aldean,country / folk,country,20080202,96,61,16,20080308
 79,82,Realize,Colbie Caillat,Colbie Caillat,pop,female vocalists,20080223,86,20,26,20080308
-80,NEW,Dance Like There's No Tomorrow,Paula Abdul & Randy Jackson,Paula Abdul & Randy Jackson,pop,electronic,20080308,80,62,6,20080308
+80,NEW,Dance Like There's No Tomorrow,Paula Abdul & Randy Jackson,Paula Abdul & Randy Jackson,electronic,electronic,20080308,80,62,6,20080308
 81,86,Never,Jaheim,Jaheim,rnb / soul,rnb,20080119,100,76,16,20080308
 82,72,Like Whoa,Aly & Aj,Aly & Aj,pop,pop,20080209,72,63,7,20080308
 83,91,Picture To Burn,Taylor Swift,Taylor Swift,country / folk,country,20080301,91,28,20,20080308

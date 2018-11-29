@@ -2627,7 +2627,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 96,71,With A Little Luck,Wings,Wings,rock,classic rock,19780325,70,1,18,19780722
 97,81,Stone Blue,Foghat,Foghat,rock,classic rock,19780520,85,36,10,19780722
 98,97,Roll With The Changes,Reo Speedwagon,Reo Speedwagon,rock,classic rock,19780513,80,58,11,19780722
-99,99,Trans-Europe Express,Kraftwerk,Kraftwerk,pop,electronic,19780610,81,67,7,19780722
+99,99,Trans-Europe Express,Kraftwerk,Kraftwerk,electronic,electronic,19780610,81,67,7,19780722
 100,83,Anytime,Journey,Journey,rock,classic rock,19780701,85,83,4,19780722
 101,NEW,(Let's Go) All The Way,The Whispers,The Whispers,rnb / soul,soul,19780722,101,101,2,19780722
 102,NEW,I'll Be True To You,The Oak Ridge Boys,The Oak Ridge Boys,country / folk,country,19780722,102,102,3,19780722
@@ -2737,7 +2737,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 96,87,Almost Summer,Celebration Featuring Mike Love,Celebration,pop,seen live,19780429,77,28,12,19780715
 97,91,Roll With The Changes,Reo Speedwagon,Reo Speedwagon,rock,classic rock,19780513,80,58,11,19780715
 98,98,He's So Fine,Jane Oliver,Jane Oliver,pop,easy listening,19780520,94,77,9,19780715
-99,93,Trans-Europe Express,Kraftwerk,Kraftwerk,pop,electronic,19780610,81,67,7,19780715
+99,93,Trans-Europe Express,Kraftwerk,Kraftwerk,electronic,electronic,19780610,81,67,7,19780715
 100,96,Shaker Song,Spyro Gyra,Spyro Gyra,jazz,jazz,19780617,92,90,5,19780715
 1,1,Shadow Dancing,Andy Gibb,Andy Gibb,disco,disco,19780415,69,1,25,19780708
 2,2,Baker Street,Gerry Rafferty,Gerry Rafferty,rock,classic rock,19780422,82,2,20,19780708
@@ -2831,7 +2831,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 90,74,"God Knows / Baby, I'm Yours",Debby Boone,Debby Boone,country / folk,country,19780527,86,74,7,19780708
 91,87,Roll With The Changes,Reo Speedwagon,Reo Speedwagon,rock,classic rock,19780513,80,58,11,19780708
 92,71,Oh What A Night For Dancing,Barry White,Barry White,rnb / soul,soul,19780401,105,24,15,19780708
-93,80,Trans-Europe Express,Kraftwerk,Kraftwerk,pop,electronic,19780610,81,67,7,19780708
+93,80,Trans-Europe Express,Kraftwerk,Kraftwerk,electronic,electronic,19780610,81,67,7,19780708
 94,77,Warm Ride,Rare Earth,Rare Earth,rock,classic rock,19780429,84,39,11,19780708
 95,NEW,Makin' Love,The Climax Blues Band,The Climax Blues Band,rock,classic rock,19780708,95,91,4,19780708
 96,90,Shaker Song,Spyro Gyra,Spyro Gyra,jazz,jazz,19780617,92,90,5,19780708
@@ -2928,7 +2928,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 77,39,Warm Ride,Rare Earth,Rare Earth,rock,classic rock,19780429,84,39,11,19780701
 78,88,Dream Lover,The Marshall Tucker Band,The Marshall Tucker Band,rock,southern rock,19780624,88,75,4,19780701
 79,89,You Don't Love Me Anymore,Eddie Rabbitt,Eddie Rabbitt,country / folk,country,19780624,89,53,7,19780701
-80,67,Trans-Europe Express,Kraftwerk,Kraftwerk,pop,electronic,19780610,81,67,7,19780701
+80,67,Trans-Europe Express,Kraftwerk,Kraftwerk,electronic,electronic,19780610,81,67,7,19780701
 81,91,New Orleans Ladies,Louisiana'S Le Roux,Louisianas Le Roux,pop,unknown,19780624,91,59,14,19780701
 82,85,Daylight And Darkness,Smokey Robinson,Smokey Robinson,rnb / soul,soul,19780610,92,75,8,19780701
 83,NEW,You,Rita Coolidge,Rita Coolidge,pop,female vocalists,19780701,83,25,12,19780701
@@ -3025,7 +3025,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 64,74,Portrait (He Knew),Kansas,Kansas,rock,classic rock,19780610,84,64,6,19780624
 65,75,Love Or Something Like It,Kenny Rogers,Kenny Rogers,country / folk,country,19780603,90,32,12,19780624
 66,26,Baby Hold On,Eddie Money,Eddie Money,rock,classic rock,19780225,84,11,20,19780624
-67,71,Trans-Europe Express,Kraftwerk,Kraftwerk,pop,electronic,19780610,81,67,7,19780624
+67,71,Trans-Europe Express,Kraftwerk,Kraftwerk,electronic,electronic,19780610,81,67,7,19780624
 68,78,Hot Child In The City,Nick Gilder,Nick Gilder,rock,rock,19780610,88,1,31,19780624
 69,79,This Night Won't Last Forever,Bill Labounty,Bill Labounty,rock,soft rock,19780527,88,65,9,19780624
 70,80,Stuff Like That,Quincy Jones,Quincy Jones,jazz,jazz,19780610,90,21,16,19780624
@@ -3139,7 +3139,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 68,78,You Can't Dance,England Dan & John Ford Coley,England Dan & John Ford Coley,rock,classic rock,19780603,89,49,8,19780617
 69,70,Over The Rainbow,Gary Tanner,Gary Tanner,pop,unknown,19780527,90,69,5,19780617
 70,80,Prove It All Night,Bruce Springsteen,Bruce Springsteen,rock,rock,19780610,80,33,9,19780617
-71,81,Trans-Europe Express,Kraftwerk,Kraftwerk,pop,electronic,19780610,81,67,7,19780617
+71,81,Trans-Europe Express,Kraftwerk,Kraftwerk,electronic,electronic,19780610,81,67,7,19780617
 72,31,If I Can't Have You,Yvonne Elliman,Yvonne Elliman,disco,disco,19780128,89,1,22,19780617
 73,NEW,Three Times A Lady,The Commodores,The Commodores,rnb / soul,soul,19780617,73,1,20,19780617
 74,84,Portrait (He Knew),Kansas,Kansas,rock,classic rock,19780610,84,64,6,19780617
@@ -3259,7 +3259,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 78,89,You Can't Dance,England Dan & John Ford Coley,England Dan & John Ford Coley,rock,classic rock,19780603,89,49,8,19780610
 79,82,"God Knows / Baby, I'm Yours",Debby Boone,Debby Boone,country / folk,country,19780527,86,74,7,19780610
 80,NEW,Prove It All Night,Bruce Springsteen,Bruce Springsteen,rock,rock,19780610,80,33,9,19780610
-81,NEW,Trans-Europe Express,Kraftwerk,Kraftwerk,pop,electronic,19780610,81,67,7,19780610
+81,NEW,Trans-Europe Express,Kraftwerk,Kraftwerk,electronic,electronic,19780610,81,67,7,19780610
 82,86,This Night Won't Last Forever,Bill Labounty,Bill Labounty,rock,soft rock,19780527,88,65,9,19780610
 83,NEW,I'm Not Gonna Let It Bother Me Tonight,The Atlanta Rhythm Section,The Atlanta Rhythm Section,rock,southern rock,19780610,83,14,13,19780610
 84,NEW,Portrait (He Knew),Kansas,Kansas,rock,classic rock,19780610,84,64,6,19780610

@@ -17,7 +17,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 16,18,Do What U Want,Lady Gaga Featuring R. Kelly,Lady Gaga,pop,pop,20131109,13,13,19,20131228
 17,14,Unconditionally,Katy Perry,Katy Perry,pop,pop,20131109,30,14,20,20131228
 18,21,23,"Mike Will Made-It Feat Miley Cyrus, Wiz Khalifa & Juicy J",Mike Will Made-It Feat Miley Cyrus,pop,unknown,20131012,11,11,22,20131228
-19,20,Stay The Night,Zedd Featuring Hayley Williams,Zedd,pop,electronic,20131012,86,18,21,20131228
+19,20,Stay The Night,Zedd Featuring Hayley Williams,Zedd,electronic,electronic,20131012,86,18,21,20131228
 20,19,Applause,Lady Gaga,Lady Gaga,pop,pop,20130831,6,4,23,20131228
 21,23,My Hitta,Yg X Jeezy X Rich Homie Quan,Yg X Jeezy X Rich Homie Quan,pop,unknown,20131019,67,19,28,20131228
 22,36,Dark Horse,Katy Perry Featuring Juicy J,Katy Perry,pop,pop,20131005,17,1,57,20131228
@@ -36,14 +36,14 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 35,64,Best Day Of My Life,American Authors,American Authors,rock,indie,20131130,93,11,36,20131228
 36,43,Carolina,Parmalee,Parmalee,rock,alternative rock,20131005,93,36,19,20131228
 37,40,Drink A Beer,Luke Bryan,Luke Bryan,country / folk,country,20131123,79,31,20,20131228
-38,35,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20131228
+38,35,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20131228
 39,48,Show Me,Kid Ink Featuring Chis Brown,Kid Ink,hip-hop,hip-hop,20131130,68,13,30,20131228
 40,37,All Me,Drake Featuring 2 Chainz & Big Sean,Drake,hip-hop,hip-hop,20131012,20,20,20,20131228
 41,NEW,Confident,Justin Bieber Featuring Chance The Rapper,Justin Bieber,pop,pop,20131228,41,41,1,20131228
 42,41,Drunk Last Night,Eli Young Band,Eli Young Band,country / folk,country,20130928,84,41,19,20131228
 43,46,Whatever She's Got,David Nail,David Nail,country / folk,country,20131019,91,35,21,20131228
 44,45,Gas Pedal,Sage The Gemini Featuring Iamsu,Sage The Gemini,hip-hop,hip-hop,20130810,58,29,25,20131228
-45,34,Safe And Sound,Capital Cities,Capital Cities,pop,electronic,20130518,99,8,43,20131228
+45,34,Safe And Sound,Capital Cities,Capital Cities,electronic,electronic,20130518,99,8,43,20131228
 46,52,Wasting All These Tears,Cassadee Pope,Cassadee Pope,rock,pop rock,20130928,90,46,19,20131228
 47,55,Sweet Annie,Zac Brown Band,Zac Brown Band,country / folk,country,20131102,94,47,17,20131228
 48,54,Chillin' It,Cole Swindell,Cole Swindell,country / folk,country,20131102,98,28,20,20131228
@@ -118,7 +118,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 17,22,White Walls,Macklemore & Ryan Lewis Featuring Schoolboy Q & Hollis,Macklemore & Ryan Lewis,hip-hop,hip-hop,20131005,100,15,22,20131221
 18,17,Do What U Want,Lady Gaga Featuring R. Kelly,Lady Gaga,pop,pop,20131109,13,13,19,20131221
 19,14,Applause,Lady Gaga,Lady Gaga,pop,pop,20130831,6,4,23,20131221
-20,19,Stay The Night,Zedd Featuring Hayley Williams,Zedd,pop,electronic,20131012,86,18,21,20131221
+20,19,Stay The Night,Zedd Featuring Hayley Williams,Zedd,electronic,electronic,20131012,86,18,21,20131221
 21,16,23,"Mike Will Made-It Feat Miley Cyrus, Wiz Khalifa & Juicy J",Mike Will Made-It Feat Miley Cyrus,pop,unknown,20131012,11,11,22,20131221
 22,20,Holy Grail,Jay Z Featuring Justin Timberlake,Jay Z,hip-hop,hip-hop,20130727,8,4,27,20131221
 23,23,My Hitta,Yg X Jeezy X Rich Homie Quan,Yg X Jeezy X Rich Homie Quan,pop,unknown,20131019,67,19,28,20131221
@@ -132,8 +132,8 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 31,26,Brave,Sara Bareilles,Sara Bareilles,pop,female vocalists,20130706,100,23,41,20131221
 32,57,Team,Lorde,Lorde,pop,pop,20131012,90,6,38,20131221
 33,29,Marry Me,Jason Derulo,Jason Derulo,rnb / soul,rnb,20131019,72,26,17,20131221
-34,33,Safe And Sound,Capital Cities,Capital Cities,pop,electronic,20130518,99,8,43,20131221
-35,32,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20131221
+34,33,Safe And Sound,Capital Cities,Capital Cities,electronic,electronic,20130518,99,8,43,20131221
+35,32,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20131221
 36,37,Dark Horse,Katy Perry Featuring Juicy J,Katy Perry,pop,pop,20131005,17,1,57,20131221
 37,40,All Me,Drake Featuring 2 Chainz & Big Sean,Drake,hip-hop,hip-hop,20131012,20,20,20,20131221
 38,27,Slow Down,Selena Gomez,Selena Gomez,pop,pop,20130907,94,27,18,20131221
@@ -217,7 +217,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 16,15,23,"Mike Will Made-It Feat Miley Cyrus, Wiz Khalifa & Juicy J",Mike Will Made-It Feat Miley Cyrus,pop,unknown,20131012,11,11,22,20131214
 17,20,Do What U Want,Lady Gaga Featuring R. Kelly,Lady Gaga,pop,pop,20131109,13,13,19,20131214
 18,19,Sweater Weather,The Neighbourhood,The Neighbourhood,rock,indie,20130713,96,14,35,20131214
-19,22,Stay The Night,Zedd Featuring Hayley Williams,Zedd,pop,electronic,20131012,86,18,21,20131214
+19,22,Stay The Night,Zedd Featuring Hayley Williams,Zedd,electronic,electronic,20131012,86,18,21,20131214
 20,17,Holy Grail,Jay Z Featuring Justin Timberlake,Jay Z,hip-hop,hip-hop,20130727,8,4,27,20131214
 21,36,Burn,Ellie Goulding,Ellie Goulding,pop,female vocalists,20131005,99,13,34,20131214
 22,23,White Walls,Macklemore & Ryan Lewis Featuring Schoolboy Q & Hollis,Macklemore & Ryan Lewis,hip-hop,hip-hop,20131005,100,15,22,20131214
@@ -230,8 +230,8 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 29,33,Marry Me,Jason Derulo,Jason Derulo,rnb / soul,rnb,20131019,72,26,17,20131214
 30,34,Stay,Florida Georgia Line,Florida Georgia Line,country / folk,country,20131102,85,28,20,20131214
 31,30,We Were Us,Keith Urban & Miranda Lambert,Keith Urban & Miranda Lambert,country / folk,country,20130928,80,26,20,20131214
-32,32,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20131214
-33,31,Safe And Sound,Capital Cities,Capital Cities,pop,electronic,20130518,99,8,43,20131214
+32,32,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20131214
+33,31,Safe And Sound,Capital Cities,Capital Cities,electronic,electronic,20130518,99,8,43,20131214
 34,41,It Won't Stop,Sevyn Streeter Featuring Chris Brown,Sevyn Streeter,rnb / soul,rnb,20131019,90,30,20,20131214
 35,40,That's My Kind Of Night,Luke Bryan,Luke Bryan,country / folk,country,20130831,16,15,21,20131214
 36,38,TKO,Justin Timberlake,Justin Timberlake,pop,pop,20131005,54,36,17,20131214
@@ -320,7 +320,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 19,17,Sweater Weather,The Neighbourhood,The Neighbourhood,rock,indie,20130713,96,14,35,20131207
 20,18,Do What U Want,Lady Gaga Featuring R. Kelly,Lady Gaga,pop,pop,20131109,13,13,19,20131207
 21,15,Blurred Lines,Robin Thicke Featuring T.I. & Pharrell,Robin Thicke,rnb / soul,soul,20130504,94,1,48,20131207
-22,22,Stay The Night,Zedd Featuring Hayley Williams,Zedd,pop,electronic,20131012,86,18,21,20131207
+22,22,Stay The Night,Zedd Featuring Hayley Williams,Zedd,electronic,electronic,20131012,86,18,21,20131207
 23,31,White Walls,Macklemore & Ryan Lewis Featuring Schoolboy Q & Hollis,Macklemore & Ryan Lewis,hip-hop,hip-hop,20131005,100,15,22,20131207
 24,20,Radioactive,Imagine Dragons,Imagine Dragons,rock,indie,20120929,91,3,85,20131207
 25,39,What Now,Rihanna,Rihanna,pop,pop,20131109,96,25,8,20131207
@@ -329,8 +329,8 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 28,27,Brave,Sara Bareilles,Sara Bareilles,pop,female vocalists,20130706,100,23,41,20131207
 29,28,Slow Down,Selena Gomez,Selena Gomez,pop,pop,20130907,94,27,18,20131207
 30,33,We Were Us,Keith Urban & Miranda Lambert,Keith Urban & Miranda Lambert,country / folk,country,20130928,80,26,20,20131207
-31,21,Safe And Sound,Capital Cities,Capital Cities,pop,electronic,20130518,99,8,43,20131207
-32,23,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20131207
+31,21,Safe And Sound,Capital Cities,Capital Cities,electronic,electronic,20130518,99,8,43,20131207
+32,23,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20131207
 33,30,Marry Me,Jason Derulo,Jason Derulo,rnb / soul,rnb,20131019,72,26,17,20131207
 34,37,Stay,Florida Georgia Line,Florida Georgia Line,country / folk,country,20131102,85,28,20,20131207
 35,26,Summertime Sadness,Lana Del Rey,Lana Del Rey,pop,female vocalists,20130727,72,6,23,20131207
@@ -419,9 +419,9 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 18,48,Do What U Want,Lady Gaga Featuring R. Kelly,Lady Gaga,pop,pop,20131109,13,13,19,20131130
 19,24,My Hitta,Yg X Jeezy X Rich Homie Quan,Yg X Jeezy X Rich Homie Quan,pop,unknown,20131019,67,19,28,20131130
 20,23,Radioactive,Imagine Dragons,Imagine Dragons,rock,indie,20120929,91,3,85,20131130
-21,20,Safe And Sound,Capital Cities,Capital Cities,pop,electronic,20130518,99,8,43,20131130
-22,34,Stay The Night,Zedd Featuring Hayley Williams,Zedd,pop,electronic,20131012,86,18,21,20131130
-23,35,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20131130
+21,20,Safe And Sound,Capital Cities,Capital Cities,electronic,electronic,20130518,99,8,43,20131130
+22,34,Stay The Night,Zedd Featuring Hayley Williams,Zedd,electronic,electronic,20131012,86,18,21,20131130
+23,35,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20131130
 24,27,Love More,Chris Brown Featuring Nicki Minaj,Chris Brown,rnb / soul,rnb,20130810,56,23,26,20131130
 25,NEW,Livin' On A Prayer,Bon Jovi,Bon Jovi,rock,rock,20131130,25,25,1,20131130
 26,22,Summertime Sadness,Lana Del Rey,Lana Del Rey,pop,female vocalists,20130727,72,6,23,20131130
@@ -518,7 +518,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 17,13,23,"Mike Will Made-It Feat Miley Cyrus, Wiz Khalifa & Juicy J",Mike Will Made-It Feat Miley Cyrus,pop,unknown,20131012,11,11,22,20131123
 18,14,Blurred Lines,Robin Thicke Featuring T.I. & Pharrell,Robin Thicke,rnb / soul,soul,20130504,94,1,48,20131123
 19,15,Berzerk,Eminem,Eminem,hip-hop,rap,20130914,3,3,20,20131123
-20,19,Safe And Sound,Capital Cities,Capital Cities,pop,electronic,20130518,99,8,43,20131123
+20,19,Safe And Sound,Capital Cities,Capital Cities,electronic,electronic,20130518,99,8,43,20131123
 21,25,Unconditionally,Katy Perry,Katy Perry,pop,pop,20131109,30,14,20,20131123
 22,18,Summertime Sadness,Lana Del Rey,Lana Del Rey,pop,female vocalists,20130727,72,6,23,20131123
 23,21,Radioactive,Imagine Dragons,Imagine Dragons,rock,indie,20120929,91,3,85,20131123
@@ -532,8 +532,8 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 31,16,Survival,Eminem,Eminem,hip-hop,rap,20131026,17,16,14,20131123
 32,76,Red,Taylor Swift,Taylor Swift,country / folk,country,20130824,100,32,17,20131123
 33,31,Slow Down,Selena Gomez,Selena Gomez,pop,pop,20130907,94,27,18,20131123
-34,51,Stay The Night,Zedd Featuring Hayley Williams,Zedd,pop,electronic,20131012,86,18,21,20131123
-35,26,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20131123
+34,51,Stay The Night,Zedd Featuring Hayley Williams,Zedd,electronic,electronic,20131012,86,18,21,20131123
+35,26,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20131123
 36,40,Marry Me,Jason Derulo,Jason Derulo,rnb / soul,rnb,20131019,72,26,17,20131123
 37,35,Brave,Sara Bareilles,Sara Bareilles,pop,female vocalists,20130706,100,23,41,20131123
 38,34,We Can't Stop,Miley Cyrus,Miley Cyrus,pop,pop,20130622,11,2,26,20131123
@@ -617,14 +617,14 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 16,67,Survival,Eminem,Eminem,hip-hop,rap,20131026,17,16,14,20131116
 17,21,Rap God,Eminem,Eminem,hip-hop,rap,20131102,7,7,20,20131116
 18,14,Summertime Sadness,Lana Del Rey,Lana Del Rey,pop,female vocalists,20130727,72,6,23,20131116
-19,15,Safe And Sound,Capital Cities,Capital Cities,pop,electronic,20130518,99,8,43,20131116
+19,15,Safe And Sound,Capital Cities,Capital Cities,electronic,electronic,20130518,99,8,43,20131116
 20,35,Timber,Pitbull Featuring Ke$Ha,Pitbull,hip-hop,hip-hop,20131026,49,1,39,20131116
 21,16,Radioactive,Imagine Dragons,Imagine Dragons,rock,indie,20120929,91,3,85,20131116
 22,20,My Hitta,Yg X Jeezy X Rich Homie Quan,Yg X Jeezy X Rich Homie Quan,pop,unknown,20131019,67,19,28,20131116
 23,23,Love More,Chris Brown Featuring Nicki Minaj,Chris Brown,rnb / soul,rnb,20130810,56,23,26,20131116
 24,24,Still Into You,Paramore,Paramore,rock,rock,20130803,100,24,19,20131116
 25,30,Unconditionally,Katy Perry,Katy Perry,pop,pop,20131109,30,14,20,20131116
-26,19,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20131116
+26,19,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20131116
 27,18,That's My Kind Of Night,Luke Bryan,Luke Bryan,country / folk,country,20130831,16,15,21,20131116
 28,22,Gorilla,Bruno Mars,Bruno Mars,pop,pop,20130914,60,22,15,20131116
 29,10,The Fox,Ylvis,Ylvis,pop,pop,20130921,29,6,18,20131116
@@ -642,14 +642,14 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 41,NEW,Recovery,Justin Bieber,Justin Bieber,pop,pop,20131116,41,41,1,20131116
 42,NEW,Thriller,Michael Jackson,Michael Jackson,pop,pop,20131116,42,42,1,20131116
 43,28,Dark Horse,Katy Perry Featuring Juicy J,Katy Perry,pop,pop,20131005,17,1,57,20131116
-44,41,Clarity,Zedd Featuring Foxes,Zedd,pop,electronic,20130406,86,8,33,20131116
+44,41,Clarity,Zedd Featuring Foxes,Zedd,electronic,electronic,20130406,86,8,33,20131116
 45,44,All Me,Drake Featuring 2 Chainz & Big Sean,Drake,hip-hop,hip-hop,20131012,20,20,20,20131116
 46,38,Crooked Smile,J. Cole Featuring Tlc,J. Cole,hip-hop,hip-hop,20130706,74,27,20,20131116
 47,37,Everything Has Changed,Taylor Swift Featuring Ed Sheeran,Taylor Swift,country / folk,country,20130810,41,32,17,20131116
-48,39,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,pop,electronic,20130504,19,2,29,20131116
+48,39,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,electronic,electronic,20130504,19,2,29,20131116
 49,56,White Walls,Macklemore & Ryan Lewis Featuring Schoolboy Q & Hollis,Macklemore & Ryan Lewis,hip-hop,hip-hop,20131005,100,15,22,20131116
 50,46,Can't Hold Us,Macklemore & Ryan Lewis Featuring Ray Dalton,Macklemore & Ryan Lewis,hip-hop,hip-hop,20130309,92,1,37,20131116
-51,58,Stay The Night,Zedd Featuring Hayley Williams,Zedd,pop,electronic,20131012,86,18,21,20131116
+51,58,Stay The Night,Zedd Featuring Hayley Williams,Zedd,electronic,electronic,20131012,86,18,21,20131116
 52,50,Southern Girl,Tim Mcgraw,Tim Mcgraw,country / folk,country,20130810,100,42,20,20131116
 53,47,Aw Naw,Chris Young,Chris Young,country / folk,country,20130803,97,45,20,20131116
 54,48,I Luv This Shit,August Alsina / Trinidad James,August Alsina / Trinidad James,pop,unknown,20130921,85,48,20,20131116
@@ -713,11 +713,11 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 12,14,23,"Mike Will Made-It Feat Miley Cyrus, Wiz Khalifa & Juicy J",Mike Will Made-It Feat Miley Cyrus,pop,unknown,20131012,11,11,22,20131109
 13,NEW,Do What U Want,Lady Gaga Featuring R. Kelly,Lady Gaga,pop,pop,20131109,13,13,19,20131109
 14,11,Summertime Sadness,Lana Del Rey,Lana Del Rey,pop,female vocalists,20130727,72,6,23,20131109
-15,13,Safe And Sound,Capital Cities,Capital Cities,pop,electronic,20130518,99,8,43,20131109
+15,13,Safe And Sound,Capital Cities,Capital Cities,electronic,electronic,20130518,99,8,43,20131109
 16,16,Radioactive,Imagine Dragons,Imagine Dragons,rock,indie,20120929,91,3,85,20131109
 17,19,Let Her Go,Passenger,Passenger,country / folk,folk,20130817,95,5,43,20131109
 18,17,That's My Kind Of Night,Luke Bryan,Luke Bryan,country / folk,country,20130831,16,15,21,20131109
-19,23,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20131109
+19,23,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20131109
 20,20,My Hitta,Yg X Jeezy X Rich Homie Quan,Yg X Jeezy X Rich Homie Quan,pop,unknown,20131019,67,19,28,20131109
 21,7,Rap God,Eminem,Eminem,hip-hop,rap,20131102,7,7,20,20131109
 22,22,Gorilla,Bruno Mars,Bruno Mars,pop,pop,20130914,60,22,15,20131109
@@ -737,9 +737,9 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 36,28,Work Bitch,Britney Spears,Britney Spears,pop,pop,20131005,12,12,12,20131109
 37,37,Everything Has Changed,Taylor Swift Featuring Ed Sheeran,Taylor Swift,country / folk,country,20130810,41,32,17,20131109
 38,35,Crooked Smile,J. Cole Featuring Tlc,J. Cole,hip-hop,hip-hop,20130706,74,27,20,20131109
-39,32,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,pop,electronic,20130504,19,2,29,20131109
+39,32,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,electronic,electronic,20130504,19,2,29,20131109
 40,42,Mine Would Be You,Blake Shelton,Blake Shelton,country / folk,country,20130817,100,28,20,20131109
-41,33,Clarity,Zedd Featuring Foxes,Zedd,pop,electronic,20130406,86,8,33,20131109
+41,33,Clarity,Zedd Featuring Foxes,Zedd,electronic,electronic,20130406,86,8,33,20131109
 42,53,Sweater Weather,The Neighbourhood,The Neighbourhood,rock,indie,20130713,96,14,35,20131109
 43,39,Gas Pedal,Sage The Gemini Featuring Iamsu,Sage The Gemini,hip-hop,hip-hop,20130810,58,29,25,20131109
 44,43,All Me,Drake Featuring 2 Chainz & Big Sean,Drake,hip-hop,hip-hop,20131012,20,20,20,20131109
@@ -756,7 +756,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 55,58,We Were Us,Keith Urban & Miranda Lambert,Keith Urban & Miranda Lambert,country / folk,country,20130928,80,26,20,20131109
 56,62,White Walls,Macklemore & Ryan Lewis Featuring Schoolboy Q & Hollis,Macklemore & Ryan Lewis,hip-hop,hip-hop,20131005,100,15,22,20131109
 57,47,Night Train,Jason Aldean,Jason Aldean,country / folk,country,20130727,90,26,19,20131109
-58,69,Stay The Night,Zedd Featuring Hayley Williams,Zedd,pop,electronic,20131012,86,18,21,20131109
+58,69,Stay The Night,Zedd Featuring Hayley Williams,Zedd,electronic,electronic,20131012,86,18,21,20131109
 59,55,Honest,Future,Future,hip-hop,hip-hop,20130928,75,55,17,20131109
 60,65,It Won't Stop,Sevyn Streeter Featuring Chris Brown,Sevyn Streeter,rnb / soul,rnb,20131019,90,30,20,20131109
 61,61,Sunny And 75,Joe Nichols,Joe Nichols,country / folk,country,20130914,98,39,20,20131109
@@ -811,7 +811,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 10,9,Blurred Lines,Robin Thicke Featuring T.I. & Pharrell,Robin Thicke,rnb / soul,soul,20130504,94,1,48,20131102
 11,10,Summertime Sadness,Lana Del Rey,Lana Del Rey,pop,female vocalists,20130727,72,6,23,20131102
 12,20,Demons,Imagine Dragons,Imagine Dragons,rock,indie,20130928,46,6,41,20131102
-13,12,Safe And Sound,Capital Cities,Capital Cities,pop,electronic,20130518,99,8,43,20131102
+13,12,Safe And Sound,Capital Cities,Capital Cities,electronic,electronic,20130518,99,8,43,20131102
 14,14,23,"Mike Will Made-It Feat Miley Cyrus, Wiz Khalifa & Juicy J",Mike Will Made-It Feat Miley Cyrus,pop,unknown,20131012,11,11,22,20131102
 15,19,Counting Stars,Onerepublic,Onerepublic,rock,rock,20130706,32,2,68,20131102
 16,15,Radioactive,Imagine Dragons,Imagine Dragons,rock,indie,20120929,91,3,85,20131102
@@ -821,7 +821,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 20,22,My Hitta,Yg X Jeezy X Rich Homie Quan,Yg X Jeezy X Rich Homie Quan,pop,unknown,20131019,67,19,28,20131102
 21,11,We Can't Stop,Miley Cyrus,Miley Cyrus,pop,pop,20130622,11,2,26,20131102
 22,24,Gorilla,Bruno Mars,Bruno Mars,pop,pop,20130914,60,22,15,20131102
-23,23,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20131102
+23,23,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20131102
 24,NEW,All That Matters,Justin Bieber,Justin Bieber,pop,pop,20131102,24,24,1,20131102
 25,27,Love More,Chris Brown Featuring Nicki Minaj,Chris Brown,rnb / soul,rnb,20130810,56,23,26,20131102
 26,26,Still Into You,Paramore,Paramore,rock,rock,20130803,100,24,19,20131102
@@ -830,8 +830,8 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 29,NEW,Chinese Food,Alison Gold,Alison Gold,pop,noise,20131102,29,29,1,20131102
 30,28,Mirrors,Justin Timberlake,Justin Timberlake,pop,pop,20130302,24,2,42,20131102
 31,17,Survival,Eminem,Eminem,hip-hop,rap,20131026,17,16,14,20131102
-32,31,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,pop,electronic,20130504,19,2,29,20131102
-33,29,Clarity,Zedd Featuring Foxes,Zedd,pop,electronic,20130406,86,8,33,20131102
+32,31,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,electronic,electronic,20130504,19,2,29,20131102
+33,29,Clarity,Zedd Featuring Foxes,Zedd,electronic,electronic,20130406,86,8,33,20131102
 34,38,Cups,Anna Kendrick,Anna Kendrick,pop,pop,20130112,93,6,44,20131102
 35,34,Crooked Smile,J. Cole Featuring Tlc,J. Cole,hip-hop,hip-hop,20130706,74,27,20,20131102
 36,36,Slow Down,Selena Gomez,Selena Gomez,pop,pop,20130907,94,27,18,20131102
@@ -867,7 +867,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 66,58,Wasting All These Tears,Cassadee Pope,Cassadee Pope,rock,pop rock,20130928,90,46,19,20131102
 67,70,Carolina,Parmalee,Parmalee,rock,alternative rock,20131005,93,36,19,20131102
 68,72,Burn,Ellie Goulding,Ellie Goulding,pop,female vocalists,20131005,99,13,34,20131102
-69,79,Stay The Night,Zedd Featuring Hayley Williams,Zedd,pop,electronic,20131012,86,18,21,20131102
+69,79,Stay The Night,Zedd Featuring Hayley Williams,Zedd,electronic,electronic,20131012,86,18,21,20131102
 70,65,Replay,Zendaya,Zendaya,pop,pop,20130907,77,40,21,20131102
 71,75,Drunk Last Night,Eli Young Band,Eli Young Band,country / folk,country,20130928,84,41,19,20131102
 72,67,Round Here,Florida Georgia Line,Florida Georgia Line,country / folk,country,20130629,89,28,20,20131102
@@ -910,7 +910,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 9,8,Blurred Lines,Robin Thicke Featuring T.I. & Pharrell,Robin Thicke,rnb / soul,soul,20130504,94,1,48,20131026
 10,10,Summertime Sadness,Lana Del Rey,Lana Del Rey,pop,female vocalists,20130727,72,6,23,20131026
 11,14,We Can't Stop,Miley Cyrus,Miley Cyrus,pop,pop,20130622,11,2,26,20131026
-12,11,Safe And Sound,Capital Cities,Capital Cities,pop,electronic,20130518,99,8,43,20131026
+12,11,Safe And Sound,Capital Cities,Capital Cities,electronic,electronic,20130518,99,8,43,20131026
 13,77,Heartbreaker,Justin Bieber,Justin Bieber,pop,pop,20131019,77,13,2,20131026
 14,17,23,"Mike Will Made-It Feat Miley Cyrus, Wiz Khalifa & Juicy J",Mike Will Made-It Feat Miley Cyrus,pop,unknown,20131012,11,11,22,20131026
 15,15,Radioactive,Imagine Dragons,Imagine Dragons,rock,indie,20120929,91,3,85,20131026
@@ -921,15 +921,15 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 20,24,Demons,Imagine Dragons,Imagine Dragons,rock,indie,20130928,46,6,41,20131026
 21,13,Work Bitch,Britney Spears,Britney Spears,pop,pop,20131005,12,12,12,20131026
 22,67,My Hitta,Yg X Jeezy X Rich Homie Quan,Yg X Jeezy X Rich Homie Quan,pop,unknown,20131019,67,19,28,20131026
-23,19,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20131026
+23,19,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20131026
 24,26,Gorilla,Bruno Mars,Bruno Mars,pop,pop,20130914,60,22,15,20131026
 25,28,Let Her Go,Passenger,Passenger,country / folk,folk,20130817,95,5,43,20131026
 26,25,Still Into You,Paramore,Paramore,rock,rock,20130803,100,24,19,20131026
 27,31,Love More,Chris Brown Featuring Nicki Minaj,Chris Brown,rnb / soul,rnb,20130810,56,23,26,20131026
 28,20,Mirrors,Justin Timberlake,Justin Timberlake,pop,pop,20130302,24,2,42,20131026
-29,23,Clarity,Zedd Featuring Foxes,Zedd,pop,electronic,20130406,86,8,33,20131026
+29,23,Clarity,Zedd Featuring Foxes,Zedd,electronic,electronic,20130406,86,8,33,20131026
 30,27,It Goes Like This,Thomas Rhett,Thomas Rhett,country / folk,country,20130629,96,25,22,20131026
-31,22,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,pop,electronic,20130504,19,2,29,20131026
+31,22,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,electronic,electronic,20130504,19,2,29,20131026
 32,41,Everything Has Changed,Taylor Swift Featuring Ed Sheeran,Taylor Swift,country / folk,country,20130810,41,32,17,20131026
 33,29,Treasure,Bruno Mars,Bruno Mars,pop,pop,20130601,71,5,23,20131026
 34,32,Crooked Smile,J. Cole Featuring Tlc,J. Cole,hip-hop,hip-hop,20130706,74,27,20,20131026
@@ -977,7 +977,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 76,NEW,Sirens,Pearl Jam,Pearl Jam,rock,grunge,20131026,76,76,1,20131026
 77,78,Pompeii,Bastille,Bastille,rock,indie,20130831,95,5,53,20131026
 78,90,It Won't Stop,Sevyn Streeter Featuring Chris Brown,Sevyn Streeter,rnb / soul,rnb,20131019,90,30,20,20131026
-79,94,Stay The Night,Zedd Featuring Hayley Williams,Zedd,pop,electronic,20131012,86,18,21,20131026
+79,94,Stay The Night,Zedd Featuring Hayley Williams,Zedd,electronic,electronic,20131012,86,18,21,20131026
 80,69,Team,Lorde,Lorde,pop,pop,20131012,90,6,38,20131026
 81,86,Bounce It,Juicy J Featuring Wale & Trey Songz,Juicy J,hip-hop,hip-hop,20130914,96,74,19,20131026
 82,82,HeadBand,B.O.B Featuring 2 Chainz,B.O.B,hip-hop,hip-hop,20130720,98,53,26,20131026
@@ -1009,7 +1009,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 8,7,Blurred Lines,Robin Thicke Featuring T.I. & Pharrell,Robin Thicke,rnb / soul,soul,20130504,94,1,48,20131019
 9,9,Applause,Lady Gaga,Lady Gaga,pop,pop,20130831,6,4,23,20131019
 10,10,Summertime Sadness,Lana Del Rey,Lana Del Rey,pop,female vocalists,20130727,72,6,23,20131019
-11,12,Safe And Sound,Capital Cities,Capital Cities,pop,electronic,20130518,99,8,43,20131019
+11,12,Safe And Sound,Capital Cities,Capital Cities,electronic,electronic,20130518,99,8,43,20131019
 12,13,Berzerk,Eminem,Eminem,hip-hop,rap,20130914,3,3,20,20131019
 13,41,Work Bitch,Britney Spears,Britney Spears,pop,pop,20131005,12,12,12,20131019
 14,15,We Can't Stop,Miley Cyrus,Miley Cyrus,pop,pop,20130622,11,2,26,20131019
@@ -1017,11 +1017,11 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 16,16,That's My Kind Of Night,Luke Bryan,Luke Bryan,country / folk,country,20130831,16,15,21,20131019
 17,11,23,"Mike Will Made-It Feat Miley Cyrus, Wiz Khalifa & Juicy J",Mike Will Made-It Feat Miley Cyrus,pop,unknown,20131012,11,11,22,20131019
 18,NEW,Gone,Kanye West Featuring Cam'Ron & Consequence,Kanye West,hip-hop,hip-hop,20131019,18,18,1,20131019
-19,17,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20131019
+19,17,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20131019
 20,19,Mirrors,Justin Timberlake,Justin Timberlake,pop,pop,20130302,24,2,42,20131019
 21,22,Counting Stars,Onerepublic,Onerepublic,rock,rock,20130706,32,2,68,20131019
-22,21,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,pop,electronic,20130504,19,2,29,20131019
-23,18,Clarity,Zedd Featuring Foxes,Zedd,pop,electronic,20130406,86,8,33,20131019
+22,21,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,electronic,electronic,20130504,19,2,29,20131019
+23,18,Clarity,Zedd Featuring Foxes,Zedd,electronic,electronic,20130406,86,8,33,20131019
 24,28,Demons,Imagine Dragons,Imagine Dragons,rock,indie,20130928,46,6,41,20131019
 25,34,Still Into You,Paramore,Paramore,rock,rock,20130803,100,24,19,20131019
 26,37,Gorilla,Bruno Mars,Bruno Mars,pop,pop,20130914,60,22,15,20131019
@@ -1047,7 +1047,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 46,43,Beware,Big Sean Featuring Lil Wayne & Jhene Aiko,Big Sean,hip-hop,hip-hop,20130817,94,38,19,20131019
 47,32,Same Love,Macklemore & Ryan Lewis Featuring Mary Lambert,Macklemore & Ryan Lewis,hip-hop,hip-hop,20130413,93,11,28,20131019
 48,46,Cruise,Florida Georgia Line Featuring Nelly,Florida Georgia Line,country / folk,country,20130420,8,4,28,20131019
-49,40,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,pop,electronic,20130504,76,16,25,20131019
+49,40,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,electronic,electronic,20130504,76,16,25,20131019
 50,52,Gas Pedal,Sage The Gemini Featuring Iamsu,Sage The Gemini,hip-hop,hip-hop,20130810,58,29,25,20131019
 51,49,Brave,Sara Bareilles,Sara Bareilles,pop,female vocalists,20130706,100,23,41,20131019
 52,55,Aw Naw,Chris Young,Chris Young,country / folk,country,20130803,97,45,20,20131019
@@ -1092,7 +1092,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 91,NEW,Whatever She's Got,David Nail,David Nail,country / folk,country,20131019,91,35,21,20131019
 92,82,Little Bit Of Everything,Keith Urban,Keith Urban,country / folk,country,20130615,91,33,19,20131019
 93,99,Animals,Martin Garrix,Martin Garrix,electronic,house,20131005,86,21,34,20131019
-94,86,Stay The Night,Zedd Featuring Hayley Williams,Zedd,pop,electronic,20131012,86,18,21,20131019
+94,86,Stay The Night,Zedd Featuring Hayley Williams,Zedd,electronic,electronic,20131012,86,18,21,20131019
 95,85,Don't Ya,Brett Eldredge,Brett Eldredge,country / folk,country,20130608,95,30,20,20131019
 96,73,Lolly,Maejor Ali Featuring Juicy J & Justin Bieber,Maejor Ali,hip-hop,rap,20131005,19,19,3,20131019
 97,NEW,Darte Un Beso,Prince Royce,Prince Royce,pop,bachata,20131019,97,86,7,20131019
@@ -1110,16 +1110,16 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 9,8,Applause,Lady Gaga,Lady Gaga,pop,pop,20130831,6,4,23,20131012
 10,9,Summertime Sadness,Lana Del Rey,Lana Del Rey,pop,female vocalists,20130727,72,6,23,20131012
 11,NEW,23,"Mike Will Made-It Feat Miley Cyrus, Wiz Khalifa & Juicy J",Mike Will Made-It Feat Miley Cyrus,pop,unknown,20131012,11,11,22,20131012
-12,10,Safe And Sound,Capital Cities,Capital Cities,pop,electronic,20130518,99,8,43,20131012
+12,10,Safe And Sound,Capital Cities,Capital Cities,electronic,electronic,20130518,99,8,43,20131012
 13,11,Berzerk,Eminem,Eminem,hip-hop,rap,20130914,3,3,20,20131012
 14,14,Radioactive,Imagine Dragons,Imagine Dragons,rock,indie,20120929,91,3,85,20131012
 15,15,We Can't Stop,Miley Cyrus,Miley Cyrus,pop,pop,20130622,11,2,26,20131012
 16,16,That's My Kind Of Night,Luke Bryan,Luke Bryan,country / folk,country,20130831,16,15,21,20131012
-17,20,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20131012
-18,18,Clarity,Zedd Featuring Foxes,Zedd,pop,electronic,20130406,86,8,33,20131012
+17,20,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20131012
+18,18,Clarity,Zedd Featuring Foxes,Zedd,electronic,electronic,20130406,86,8,33,20131012
 19,22,Mirrors,Justin Timberlake,Justin Timberlake,pop,pop,20130302,24,2,42,20131012
 20,NEW,All Me,Drake Featuring 2 Chainz & Big Sean,Drake,hip-hop,hip-hop,20131012,20,20,20,20131012
-21,21,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,pop,electronic,20130504,19,2,29,20131012
+21,21,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,electronic,electronic,20130504,19,2,29,20131012
 22,28,Counting Stars,Onerepublic,Onerepublic,rock,rock,20130706,32,2,68,20131012
 23,24,Treasure,Bruno Mars,Bruno Mars,pop,pop,20130601,71,5,23,20131012
 24,23,Cups,Anna Kendrick,Anna Kendrick,pop,pop,20130112,93,6,44,20131012
@@ -1138,7 +1138,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 37,50,Gorilla,Bruno Mars,Bruno Mars,pop,pop,20130914,60,22,15,20131012
 38,44,Let Her Go,Passenger,Passenger,country / folk,folk,20130817,95,5,43,20131012
 39,17,Dark Horse,Katy Perry Featuring Juicy J,Katy Perry,pop,pop,20131005,17,1,57,20131012
-40,30,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,pop,electronic,20130504,76,16,25,20131012
+40,30,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,electronic,electronic,20130504,76,16,25,20131012
 41,12,Work Bitch,Britney Spears,Britney Spears,pop,pop,20131005,12,12,12,20131012
 42,35,"Gone, Gone, Gone",Phillip Phillips,Phillip Phillips,country / folk,folk,20130323,100,24,30,20131012
 43,41,Beware,Big Sean Featuring Lil Wayne & Jhene Aiko,Big Sean,hip-hop,hip-hop,20130817,94,38,19,20131012
@@ -1184,7 +1184,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 83,79,Young And Beautiful,Lana Del Rey,Lana Del Rey,pop,female vocalists,20130824,95,57,8,20131012
 84,93,Carolina,Parmalee,Parmalee,rock,alternative rock,20131005,93,36,19,20131012
 85,75,Don't Ya,Brett Eldredge,Brett Eldredge,country / folk,country,20130608,95,30,20,20131012
-86,NEW,Stay The Night,Zedd Featuring Hayley Williams,Zedd,pop,electronic,20131012,86,18,21,20131012
+86,NEW,Stay The Night,Zedd Featuring Hayley Williams,Zedd,electronic,electronic,20131012,86,18,21,20131012
 87,NEW,Come Thru,Drake,Drake,hip-hop,hip-hop,20131012,87,87,1,20131012
 88,92,Bounce It,Juicy J Featuring Wale & Trey Songz,Juicy J,hip-hop,hip-hop,20130914,96,74,19,20131012
 89,NEW,Worst Behavior,Drake,Drake,hip-hop,hip-hop,20131012,89,89,1,20131012
@@ -1208,7 +1208,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 7,9,"Hold On, We're Going Home",Drake Featuring Majid Jordan,Drake,hip-hop,hip-hop,20130824,21,4,33,20131005
 8,7,Applause,Lady Gaga,Lady Gaga,pop,pop,20130831,6,4,23,20131005
 9,10,Summertime Sadness,Lana Del Rey,Lana Del Rey,pop,female vocalists,20130727,72,6,23,20131005
-10,12,Safe And Sound,Capital Cities,Capital Cities,pop,electronic,20130518,99,8,43,20131005
+10,12,Safe And Sound,Capital Cities,Capital Cities,electronic,electronic,20130518,99,8,43,20131005
 11,8,Berzerk,Eminem,Eminem,hip-hop,rap,20130914,3,3,20,20131005
 12,NEW,Work Bitch,Britney Spears,Britney Spears,pop,pop,20131005,12,12,12,20131005
 13,25,The Fox,Ylvis,Ylvis,pop,pop,20130921,29,6,18,20131005
@@ -1216,10 +1216,10 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 15,11,We Can't Stop,Miley Cyrus,Miley Cyrus,pop,pop,20130622,11,2,26,20131005
 16,15,That's My Kind Of Night,Luke Bryan,Luke Bryan,country / folk,country,20130831,16,15,21,20131005
 17,NEW,Dark Horse,Katy Perry Featuring Juicy J,Katy Perry,pop,pop,20131005,17,1,57,20131005
-18,14,Clarity,Zedd Featuring Foxes,Zedd,pop,electronic,20130406,86,8,33,20131005
+18,14,Clarity,Zedd Featuring Foxes,Zedd,electronic,electronic,20130406,86,8,33,20131005
 19,NEW,Lolly,Maejor Ali Featuring Juicy J & Justin Bieber,Maejor Ali,hip-hop,rap,20131005,19,19,3,20131005
-20,22,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20131005
-21,16,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,pop,electronic,20130504,19,2,29,20131005
+20,22,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20131005
+21,16,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,electronic,electronic,20130504,19,2,29,20131005
 22,20,Mirrors,Justin Timberlake,Justin Timberlake,pop,pop,20130302,24,2,42,20131005
 23,18,Cups,Anna Kendrick,Anna Kendrick,pop,pop,20130112,93,6,44,20131005
 24,17,Treasure,Bruno Mars,Bruno Mars,pop,pop,20130601,71,5,23,20131005
@@ -1228,7 +1228,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 27,36,Crooked Smile,J. Cole Featuring Tlc,J. Cole,hip-hop,hip-hop,20130706,74,27,20,20131005
 28,38,Counting Stars,Onerepublic,Onerepublic,rock,rock,20130706,32,2,68,20131005
 29,26,Can't Hold Us,Macklemore & Ryan Lewis Featuring Ray Dalton,Macklemore & Ryan Lewis,hip-hop,hip-hop,20130309,92,1,37,20131005
-30,24,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,pop,electronic,20130504,76,16,25,20131005
+30,24,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,electronic,electronic,20130504,76,16,25,20131005
 31,29,Redneck Crazy,Tyler Farr,Tyler Farr,country / folk,country,20130615,95,29,20,20131005
 32,27,Night Train,Jason Aldean,Jason Aldean,country / folk,country,20130727,90,26,19,20131005
 33,23,Best Song Ever,One Direction,One Direction,pop,pop,20130810,2,2,17,20131005
@@ -1310,19 +1310,19 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 9,8,"Hold On, We're Going Home",Drake Featuring Majid Jordan,Drake,hip-hop,hip-hop,20130824,21,4,33,20130928
 10,6,Summertime Sadness,Lana Del Rey,Lana Del Rey,pop,female vocalists,20130727,72,6,23,20130928
 11,11,We Can't Stop,Miley Cyrus,Miley Cyrus,pop,pop,20130622,11,2,26,20130928
-12,9,Safe And Sound,Capital Cities,Capital Cities,pop,electronic,20130518,99,8,43,20130928
+12,9,Safe And Sound,Capital Cities,Capital Cities,electronic,electronic,20130518,99,8,43,20130928
 13,12,Radioactive,Imagine Dragons,Imagine Dragons,rock,indie,20120929,91,3,85,20130928
-14,13,Clarity,Zedd Featuring Foxes,Zedd,pop,electronic,20130406,86,8,33,20130928
+14,13,Clarity,Zedd Featuring Foxes,Zedd,electronic,electronic,20130406,86,8,33,20130928
 15,19,That's My Kind Of Night,Luke Bryan,Luke Bryan,country / folk,country,20130831,16,15,21,20130928
-16,14,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,pop,electronic,20130504,19,2,29,20130928
+16,14,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,electronic,electronic,20130504,19,2,29,20130928
 17,15,Treasure,Bruno Mars,Bruno Mars,pop,pop,20130601,71,5,23,20130928
 18,16,Cups,Anna Kendrick,Anna Kendrick,pop,pop,20130112,93,6,44,20130928
 19,17,Same Love,Macklemore & Ryan Lewis Featuring Mary Lambert,Macklemore & Ryan Lewis,hip-hop,hip-hop,20130413,93,11,28,20130928
 20,21,Mirrors,Justin Timberlake,Justin Timberlake,pop,pop,20130302,24,2,42,20130928
 21,18,Love Somebody,Maroon 5,Maroon 5,rock,rock,20130608,54,10,21,20130928
-22,24,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20130928
+22,24,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20130928
 23,20,Best Song Ever,One Direction,One Direction,pop,pop,20130810,2,2,17,20130928
-24,23,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,pop,electronic,20130504,76,16,25,20130928
+24,23,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,electronic,electronic,20130504,76,16,25,20130928
 25,29,The Fox,Ylvis,Ylvis,pop,pop,20130921,29,6,18,20130928
 26,25,Can't Hold Us,Macklemore & Ryan Lewis Featuring Ray Dalton,Macklemore & Ryan Lewis,hip-hop,hip-hop,20130309,92,1,37,20130928
 27,30,Night Train,Jason Aldean,Jason Aldean,country / folk,country,20130727,90,26,19,20130928
@@ -1349,7 +1349,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 48,54,Mine Would Be You,Blake Shelton,Blake Shelton,country / folk,country,20130817,100,28,20,20130928
 49,49,Stay,Rihanna Featuring Mikky Ekko,Rihanna,pop,pop,20130223,57,3,32,20130928
 50,55,Type Of Way,Rich Homie Quan,Rich Homie Quan,hip-hop,hip-hop,20130803,98,50,20,20130928
-51,NEW,Stay The Night,Zedd Featuring Hayley Williams Of Paramore,Zedd,pop,electronic,20130928,51,51,1,20130928
+51,NEW,Stay The Night,Zedd Featuring Hayley Williams Of Paramore,Zedd,electronic,electronic,20130928,51,51,1,20130928
 52,60,Red Nose,Sage The Gemini,Sage The Gemini,hip-hop,hip-hop,20130803,62,52,20,20130928
 53,61,Point At You,Justin Moore,Justin Moore,country / folk,country,20130615,97,53,19,20130928
 54,62,True Love,Pink Featuring Lily Allen,Pink,pop,pop,20130817,85,53,14,20130928
@@ -1389,7 +1389,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 88,NEW,Wu-Tang Forever,Drake,Drake,hip-hop,hip-hop,20130928,88,52,3,20130928
 89,93,Wop,J. Dash,J. Dash,pop,usa,20130713,94,51,12,20130928
 90,NEW,Wasting All These Tears,Cassadee Pope,Cassadee Pope,rock,pop rock,20130928,90,46,19,20130928
-91,77,Beneath Your Beautiful,Labrinth Featuring Emeli Sande,Labrinth,pop,electronic,20130713,95,34,12,20130928
+91,77,Beneath Your Beautiful,Labrinth Featuring Emeli Sande,Labrinth,electronic,electronic,20130713,95,34,12,20130928
 92,81,Bounce It,Juicy J Featuring Wale & Trey Songz,Juicy J,hip-hop,hip-hop,20130914,96,74,19,20130928
 93,89,Bruises,Train Featuring Ashley Monroe,Train,rock,rock,20130831,97,79,8,20130928
 94,NEW,I Do It,2 Chainz Featuring Drake & Lil Wayne,2 Chainz,hip-hop,hip-hop,20130928,94,94,1,20130928
@@ -1407,12 +1407,12 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 6,10,Summertime Sadness,Lana Del Rey,Lana Del Rey,pop,female vocalists,20130727,72,6,23,20130921
 7,6,Applause,Lady Gaga,Lady Gaga,pop,pop,20130831,6,4,23,20130921
 8,12,"Hold On, We're Going Home",Drake Featuring Majid Jordan,Drake,hip-hop,hip-hop,20130824,21,4,33,20130921
-9,11,Safe And Sound,Capital Cities,Capital Cities,pop,electronic,20130518,99,8,43,20130921
+9,11,Safe And Sound,Capital Cities,Capital Cities,electronic,electronic,20130518,99,8,43,20130921
 10,3,Berzerk,Eminem,Eminem,hip-hop,rap,20130914,3,3,20,20130921
 11,4,We Can't Stop,Miley Cyrus,Miley Cyrus,pop,pop,20130622,11,2,26,20130921
 12,9,Radioactive,Imagine Dragons,Imagine Dragons,rock,indie,20120929,91,3,85,20130921
-13,17,Clarity,Zedd Featuring Foxes,Zedd,pop,electronic,20130406,86,8,33,20130921
-14,15,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,pop,electronic,20130504,19,2,29,20130921
+13,17,Clarity,Zedd Featuring Foxes,Zedd,electronic,electronic,20130406,86,8,33,20130921
+14,15,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,electronic,electronic,20130504,19,2,29,20130921
 15,16,Treasure,Bruno Mars,Bruno Mars,pop,pop,20130601,71,5,23,20130921
 16,18,Cups,Anna Kendrick,Anna Kendrick,pop,pop,20130112,93,6,44,20130921
 17,13,Same Love,Macklemore & Ryan Lewis Featuring Mary Lambert,Macklemore & Ryan Lewis,hip-hop,hip-hop,20130413,93,11,28,20130921
@@ -1421,8 +1421,8 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 20,20,Best Song Ever,One Direction,One Direction,pop,pop,20130810,2,2,17,20130921
 21,19,Mirrors,Justin Timberlake,Justin Timberlake,pop,pop,20130302,24,2,42,20130921
 22,14,Wrecking Ball,Miley Cyrus,Miley Cyrus,pop,pop,20130907,50,1,32,20130921
-23,24,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,pop,electronic,20130504,76,16,25,20130921
-24,27,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20130921
+23,24,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,electronic,electronic,20130504,76,16,25,20130921
+24,27,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20130921
 25,23,Can't Hold Us,Macklemore & Ryan Lewis Featuring Ray Dalton,Macklemore & Ryan Lewis,hip-hop,hip-hop,20130309,92,1,37,20130921
 26,26,Cruise,Florida Georgia Line Featuring Nelly,Florida Georgia Line,country / folk,country,20130420,8,4,28,20130921
 27,28,"Gone, Gone, Gone",Phillip Phillips,Phillip Phillips,country / folk,folk,20130323,100,24,30,20130921
@@ -1475,7 +1475,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 74,77,Tom Ford,Jay Z,Jay Z,hip-hop,hip-hop,20130727,39,39,20,20130921
 75,NEW,Atlas,Coldplay,Coldplay,rock,rock,20130921,75,69,2,20130921
 76,82,Red,Taylor Swift,Taylor Swift,country / folk,country,20130824,100,32,17,20130921
-77,72,Beneath Your Beautiful,Labrinth Featuring Emeli Sande,Labrinth,pop,electronic,20130713,95,34,12,20130921
+77,72,Beneath Your Beautiful,Labrinth Featuring Emeli Sande,Labrinth,electronic,electronic,20130713,95,34,12,20130921
 78,75,Turn The Night Up,Enrique Iglesias,Enrique Iglesias,pop,pop,20130817,62,61,6,20130921
 79,99,Easy,Sheryl Crow,Sheryl Crow,pop,female vocalists,20130817,98,72,7,20130921
 80,86,Darte Un Beso,Prince Royce,Prince Royce,pop,bachata,20130907,78,78,5,20130921
@@ -1509,23 +1509,23 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 8,12,Royals,Lorde,Lorde,pop,pop,20130720,90,1,44,20130914
 9,5,Radioactive,Imagine Dragons,Imagine Dragons,rock,indie,20120929,91,3,85,20130914
 10,9,Summertime Sadness,Lana Del Rey,Lana Del Rey,pop,female vocalists,20130727,72,6,23,20130914
-11,8,Safe And Sound,Capital Cities,Capital Cities,pop,electronic,20130518,99,8,43,20130914
+11,8,Safe And Sound,Capital Cities,Capital Cities,electronic,electronic,20130518,99,8,43,20130914
 12,17,"Hold On, We're Going Home",Drake Featuring Majid Jordan,Drake,hip-hop,hip-hop,20130824,21,4,33,20130914
 13,15,Same Love,Macklemore & Ryan Lewis Featuring Mary Lambert,Macklemore & Ryan Lewis,hip-hop,hip-hop,20130413,93,11,28,20130914
 14,50,Wrecking Ball,Miley Cyrus,Miley Cyrus,pop,pop,20130907,50,1,32,20130914
-15,10,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,pop,electronic,20130504,19,2,29,20130914
+15,10,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,electronic,electronic,20130504,19,2,29,20130914
 16,11,Treasure,Bruno Mars,Bruno Mars,pop,pop,20130601,71,5,23,20130914
-17,13,Clarity,Zedd Featuring Foxes,Zedd,pop,electronic,20130406,86,8,33,20130914
+17,13,Clarity,Zedd Featuring Foxes,Zedd,electronic,electronic,20130406,86,8,33,20130914
 18,14,Cups,Anna Kendrick,Anna Kendrick,pop,pop,20130112,93,6,44,20130914
 19,21,Mirrors,Justin Timberlake,Justin Timberlake,pop,pop,20130302,24,2,42,20130914
 20,18,Best Song Ever,One Direction,One Direction,pop,pop,20130810,2,2,17,20130914
 21,16,Love Somebody,Maroon 5,Maroon 5,rock,rock,20130608,54,10,21,20130914
 22,19,That's My Kind Of Night,Luke Bryan,Luke Bryan,country / folk,country,20130831,16,15,21,20130914
 23,20,Can't Hold Us,Macklemore & Ryan Lewis Featuring Ray Dalton,Macklemore & Ryan Lewis,hip-hop,hip-hop,20130309,92,1,37,20130914
-24,22,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,pop,electronic,20130504,76,16,25,20130914
+24,22,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,electronic,electronic,20130504,76,16,25,20130914
 25,83,Give It 2 U,Robin Thicke Featuring Kendrick Lamar,Robin Thicke,rnb / soul,soul,20130907,83,25,12,20130914
 26,23,Cruise,Florida Georgia Line Featuring Nelly,Florida Georgia Line,country / folk,country,20130420,8,4,28,20130914
-27,25,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20130914
+27,25,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20130914
 28,24,"Gone, Gone, Gone",Phillip Phillips,Phillip Phillips,country / folk,folk,20130323,100,24,30,20130914
 29,44,Take Back The Night,Justin Timberlake,Justin Timberlake,pop,pop,20130727,47,29,13,20130914
 30,30,Round Here,Florida Georgia Line,Florida Georgia Line,country / folk,country,20130629,89,28,20,20130914
@@ -1570,7 +1570,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 69,70,Aw Naw,Chris Young,Chris Young,country / folk,country,20130803,97,45,20,20130914
 70,67,Feds Watching,2 Chainz Featuring Pharrell,2 Chainz,hip-hop,hip-hop,20130720,67,66,13,20130914
 71,65,Tapout,"Rich Gang Featuring Lil Wayne, Birdman, Future, Mack Maine",Rich Gang,hip-hop,hip-hop,20130525,100,44,20,20130914
-72,69,Beneath Your Beautiful,Labrinth Featuring Emeli Sande,Labrinth,pop,electronic,20130713,95,34,12,20130914
+72,69,Beneath Your Beautiful,Labrinth Featuring Emeli Sande,Labrinth,electronic,electronic,20130713,95,34,12,20130914
 73,72,Sweater Weather,The Neighbourhood,The Neighbourhood,rock,indie,20130713,96,14,35,20130914
 74,58,Don't Drop That Thun Thun,The Finatticz,The Finatticz,hip-hop,hip hop,20130727,88,35,10,20130914
 75,61,Turn The Night Up,Enrique Iglesias,Enrique Iglesias,pop,pop,20130817,62,61,6,20130914
@@ -1606,12 +1606,12 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 5,4,Radioactive,Imagine Dragons,Imagine Dragons,rock,indie,20120929,91,3,85,20130907
 6,5,Holy Grail,Jay Z Featuring Justin Timberlake,Jay Z,hip-hop,hip-hop,20130727,8,4,27,20130907
 7,11,Wake Me Up!,Avicii,Avicii,electronic,house,20130713,81,4,53,20130907
-8,10,Safe And Sound,Capital Cities,Capital Cities,pop,electronic,20130518,99,8,43,20130907
+8,10,Safe And Sound,Capital Cities,Capital Cities,electronic,electronic,20130518,99,8,43,20130907
 9,15,Summertime Sadness,Lana Del Rey,Lana Del Rey,pop,female vocalists,20130727,72,6,23,20130907
-10,7,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,pop,electronic,20130504,19,2,29,20130907
+10,7,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,electronic,electronic,20130504,19,2,29,20130907
 11,8,Treasure,Bruno Mars,Bruno Mars,pop,pop,20130601,71,5,23,20130907
 12,17,Royals,Lorde,Lorde,pop,pop,20130720,90,1,44,20130907
-13,12,Clarity,Zedd Featuring Foxes,Zedd,pop,electronic,20130406,86,8,33,20130907
+13,12,Clarity,Zedd Featuring Foxes,Zedd,electronic,electronic,20130406,86,8,33,20130907
 14,9,Cups,Anna Kendrick,Anna Kendrick,pop,pop,20130112,93,6,44,20130907
 15,14,Same Love,Macklemore & Ryan Lewis Featuring Mary Lambert,Macklemore & Ryan Lewis,hip-hop,hip-hop,20130413,93,11,28,20130907
 16,13,Love Somebody,Maroon 5,Maroon 5,rock,rock,20130608,54,10,21,20130907
@@ -1620,10 +1620,10 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 19,16,That's My Kind Of Night,Luke Bryan,Luke Bryan,country / folk,country,20130831,16,15,21,20130907
 20,18,Can't Hold Us,Macklemore & Ryan Lewis Featuring Ray Dalton,Macklemore & Ryan Lewis,hip-hop,hip-hop,20130309,92,1,37,20130907
 21,20,Mirrors,Justin Timberlake,Justin Timberlake,pop,pop,20130302,24,2,42,20130907
-22,23,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,pop,electronic,20130504,76,16,25,20130907
+22,23,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,electronic,electronic,20130504,76,16,25,20130907
 23,19,Cruise,Florida Georgia Line Featuring Nelly,Florida Georgia Line,country / folk,country,20130420,8,4,28,20130907
 24,26,"Gone, Gone, Gone",Phillip Phillips,Phillip Phillips,country / folk,folk,20130323,100,24,30,20130907
-25,29,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20130907
+25,29,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20130907
 26,27,The Way,Ariana Grande Featuring Mac Miller,Ariana Grande,pop,pop,20130413,10,9,26,20130907
 27,28,Just Give Me A Reason,P!Nk Featuring Nate Ruess,P!Nk,pop,pop,20130302,84,1,36,20130907
 28,25,The Other Side,Jason Derulo,Jason Derulo,rnb / soul,rnb,20130504,75,18,21,20130907
@@ -1667,7 +1667,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 66,61,Red Nose,Sage The Gemini,Sage The Gemini,hip-hop,hip-hop,20130803,62,52,20,20130907
 67,70,Feds Watching,2 Chainz Featuring Pharrell,2 Chainz,hip-hop,hip-hop,20130720,67,66,13,20130907
 68,67,Parking Lot Party,Lee Brice,Lee Brice,country / folk,country,20130713,93,62,20,20130907
-69,66,Beneath Your Beautiful,Labrinth Featuring Emeli Sande,Labrinth,pop,electronic,20130713,95,34,12,20130907
+69,66,Beneath Your Beautiful,Labrinth Featuring Emeli Sande,Labrinth,electronic,electronic,20130713,95,34,12,20130907
 70,71,Aw Naw,Chris Young,Chris Young,country / folk,country,20130803,97,45,20,20130907
 71,68,HeadBand,B.O.B Featuring 2 Chainz,B.O.B,hip-hop,hip-hop,20130720,98,53,26,20130907
 72,75,Sweater Weather,The Neighbourhood,The Neighbourhood,rock,indie,20130713,96,14,35,20130907
@@ -1705,12 +1705,12 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 4,3,Radioactive,Imagine Dragons,Imagine Dragons,rock,indie,20120929,91,3,85,20130831
 5,5,Holy Grail,Jay Z Featuring Justin Timberlake,Jay Z,hip-hop,hip-hop,20130727,8,4,27,20130831
 6,NEW,Applause,Lady Gaga,Lady Gaga,pop,pop,20130831,6,4,23,20130831
-7,4,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,pop,electronic,20130504,19,2,29,20130831
+7,4,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,electronic,electronic,20130504,19,2,29,20130831
 8,7,Treasure,Bruno Mars,Bruno Mars,pop,pop,20130601,71,5,23,20130831
 9,6,Cups,Anna Kendrick,Anna Kendrick,pop,pop,20130112,93,6,44,20130831
-10,9,Safe And Sound,Capital Cities,Capital Cities,pop,electronic,20130518,99,8,43,20130831
+10,9,Safe And Sound,Capital Cities,Capital Cities,electronic,electronic,20130518,99,8,43,20130831
 11,15,Wake Me Up!,Avicii,Avicii,electronic,house,20130713,81,4,53,20130831
-12,8,Clarity,Zedd Featuring Foxes,Zedd,pop,electronic,20130406,86,8,33,20130831
+12,8,Clarity,Zedd Featuring Foxes,Zedd,electronic,electronic,20130406,86,8,33,20130831
 13,10,Love Somebody,Maroon 5,Maroon 5,rock,rock,20130608,54,10,21,20130831
 14,11,Same Love,Macklemore & Ryan Lewis Featuring Mary Lambert,Macklemore & Ryan Lewis,hip-hop,hip-hop,20130413,93,11,28,20130831
 15,16,Summertime Sadness,Lana Del Rey,Lana Del Rey,pop,female vocalists,20130727,72,6,23,20130831
@@ -1721,13 +1721,13 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 20,13,Mirrors,Justin Timberlake,Justin Timberlake,pop,pop,20130302,24,2,42,20130831
 21,18,Best Song Ever,One Direction,One Direction,pop,pop,20130810,2,2,17,20130831
 22,27,Crash My Party,Luke Bryan,Luke Bryan,country / folk,country,20130427,18,18,21,20130831
-23,17,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,pop,electronic,20130504,76,16,25,20130831
+23,17,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,electronic,electronic,20130504,76,16,25,20130831
 24,21,"Hold On, We're Going Home",Drake Featuring Majid Jordan,Drake,hip-hop,hip-hop,20130824,21,4,33,20130831
 25,19,The Other Side,Jason Derulo,Jason Derulo,rnb / soul,rnb,20130504,75,18,21,20130831
 26,25,"Gone, Gone, Gone",Phillip Phillips,Phillip Phillips,country / folk,folk,20130323,100,24,30,20130831
 27,20,The Way,Ariana Grande Featuring Mac Miller,Ariana Grande,pop,pop,20130413,10,9,26,20130831
 28,22,Just Give Me A Reason,P!Nk Featuring Nate Ruess,P!Nk,pop,pop,20130302,84,1,36,20130831
-29,28,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20130831
+29,28,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20130831
 30,26,I Want Crazy,Hunter Hayes,Hunter Hayes,country / folk,country,20130427,43,19,20,20130831
 31,23,Come & Get It,Selena Gomez,Selena Gomez,pop,pop,20130427,45,6,22,20130831
 32,30,Don't Ya,Brett Eldredge,Brett Eldredge,country / folk,country,20130608,95,30,20,20130831
@@ -1749,7 +1749,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 48,46,Boys Round Here,Blake Shelton Featuring Pistol Annies & Friends,Blake Shelton,country / folk,country,20130413,67,12,21,20130831
 49,39,When I Was Your Man,Bruno Mars,Bruno Mars,pop,pop,20130126,89,1,32,20130831
 50,48,Crooked Smile,J. Cole Featuring Tlc,J. Cole,hip-hop,hip-hop,20130706,74,27,20,20130831
-51,34,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,pop,electronic,20130216,69,7,29,20130831
+51,34,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,electronic,electronic,20130216,69,7,29,20130831
 52,40,Don't Drop That Thun Thun,The Finatticz,The Finatticz,hip-hop,hip hop,20130727,88,35,10,20130831
 53,44,U.O.E.N.O.,Rocko Featuring Future & Rick Ross,Rocko,hip-hop,rap,20130427,99,20,20,20130831
 54,52,All Over The Road,Easton Corbin,Easton Corbin,country / folk,country,20130525,98,51,20,20130831
@@ -1764,7 +1764,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 63,70,Type Of Way,Rich Homie Quan,Rich Homie Quan,hip-hop,hip-hop,20130803,98,50,20,20130831
 64,72,Southern Girl,Tim Mcgraw,Tim Mcgraw,country / folk,country,20130810,100,42,20,20130831
 65,75,Mine Would Be You,Blake Shelton,Blake Shelton,country / folk,country,20130817,100,28,20,20130831
-66,55,Beneath Your Beautiful,Labrinth Featuring Emeli Sande,Labrinth,pop,electronic,20130713,95,34,12,20130831
+66,55,Beneath Your Beautiful,Labrinth Featuring Emeli Sande,Labrinth,electronic,electronic,20130713,95,34,12,20130831
 67,68,Parking Lot Party,Lee Brice,Lee Brice,country / folk,country,20130713,93,62,20,20130831
 68,64,HeadBand,B.O.B Featuring 2 Chainz,B.O.B,hip-hop,hip-hop,20130720,98,53,26,20130831
 69,63,Ain't Worried About Nothin',French Montana,French Montana,hip-hop,hip-hop,20130706,97,63,13,20130831
@@ -1802,12 +1802,12 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 1,1,Blurred Lines,Robin Thicke Featuring T.I. & Pharrell,Robin Thicke,rnb / soul,soul,20130504,94,1,48,20130824
 2,2,We Can't Stop,Miley Cyrus,Miley Cyrus,pop,pop,20130622,11,2,26,20130824
 3,3,Radioactive,Imagine Dragons,Imagine Dragons,rock,indie,20120929,91,3,85,20130824
-4,4,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,pop,electronic,20130504,19,2,29,20130824
+4,4,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,electronic,electronic,20130504,19,2,29,20130824
 5,5,Holy Grail,Jay Z Featuring Justin Timberlake,Jay Z,hip-hop,hip-hop,20130727,8,4,27,20130824
 6,6,Cups,Anna Kendrick,Anna Kendrick,pop,pop,20130112,93,6,44,20130824
 7,7,Treasure,Bruno Mars,Bruno Mars,pop,pop,20130601,71,5,23,20130824
-8,8,Clarity,Zedd Featuring Foxes,Zedd,pop,electronic,20130406,86,8,33,20130824
-9,9,Safe And Sound,Capital Cities,Capital Cities,pop,electronic,20130518,99,8,43,20130824
+8,8,Clarity,Zedd Featuring Foxes,Zedd,electronic,electronic,20130406,86,8,33,20130824
+9,9,Safe And Sound,Capital Cities,Capital Cities,electronic,electronic,20130518,99,8,43,20130824
 10,10,Love Somebody,Maroon 5,Maroon 5,rock,rock,20130608,54,10,21,20130824
 11,11,Same Love,Macklemore & Ryan Lewis Featuring Mary Lambert,Macklemore & Ryan Lewis,hip-hop,hip-hop,20130413,93,11,28,20130824
 12,13,Can't Hold Us,Macklemore & Ryan Lewis Featuring Ray Dalton,Macklemore & Ryan Lewis,hip-hop,hip-hop,20130309,92,1,37,20130824
@@ -1815,7 +1815,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 14,12,Cruise,Florida Georgia Line Featuring Nelly,Florida Georgia Line,country / folk,country,20130420,8,4,28,20130824
 15,17,Wake Me Up!,Avicii,Avicii,electronic,house,20130713,81,4,53,20130824
 16,23,Summertime Sadness,Lana Del Rey,Lana Del Rey,pop,female vocalists,20130727,72,6,23,20130824
-17,16,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,pop,electronic,20130504,76,16,25,20130824
+17,16,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,electronic,electronic,20130504,76,16,25,20130824
 18,15,Best Song Ever,One Direction,One Direction,pop,pop,20130810,2,2,17,20130824
 19,18,The Other Side,Jason Derulo,Jason Derulo,rnb / soul,rnb,20130504,75,18,21,20130824
 20,20,The Way,Ariana Grande Featuring Mac Miller,Ariana Grande,pop,pop,20130413,10,9,26,20130824
@@ -1826,13 +1826,13 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 25,25,"Gone, Gone, Gone",Phillip Phillips,Phillip Phillips,country / folk,folk,20130323,100,24,30,20130824
 26,22,I Want Crazy,Hunter Hayes,Hunter Hayes,country / folk,country,20130427,43,19,20,20130824
 27,28,Crash My Party,Luke Bryan,Luke Bryan,country / folk,country,20130427,18,18,21,20130824
-28,27,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20130824
+28,27,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20130824
 29,24,Runnin' Outta Moonlight,Randy Houser,Randy Houser,country / folk,country,20130525,91,24,20,20130824
 30,35,Don't Ya,Brett Eldredge,Brett Eldredge,country / folk,country,20130608,95,30,20,20130824
 31,31,Thrift Shop,Macklemore & Ryan Lewis Featuring Wanz,Macklemore & Ryan Lewis,hip-hop,hip-hop,20121027,96,1,48,20130824
 32,46,Gas Pedal,Sage The Gemini Featuring Iamsu,Sage The Gemini,hip-hop,hip-hop,20130810,58,29,25,20130824
 33,26,Power Trip,J. Cole Featuring Miguel,J. Cole,hip-hop,hip-hop,20130302,91,19,29,20130824
-34,29,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,pop,electronic,20130216,69,7,29,20130824
+34,29,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,electronic,electronic,20130216,69,7,29,20130824
 35,30,Body Party,Ciara,Ciara,rnb / soul,rnb,20130511,35,22,20,20130824
 36,37,Round Here,Florida Georgia Line,Florida Georgia Line,country / folk,country,20130629,89,28,20,20130824
 37,32,Stay,Rihanna Featuring Mikky Ekko,Rihanna,pop,pop,20130223,57,3,32,20130824
@@ -1853,7 +1853,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 52,58,All Over The Road,Easton Corbin,Easton Corbin,country / folk,country,20130525,98,51,20,20130824
 53,56,Hey Girl,Billy Currington,Billy Currington,country / folk,country,20130615,93,39,20,20130824
 54,59,Red Nose,Sage The Gemini,Sage The Gemini,hip-hop,hip-hop,20130803,62,52,20,20130824
-55,50,Beneath Your Beautiful,Labrinth Featuring Emeli Sande,Labrinth,pop,electronic,20130713,95,34,12,20130824
+55,50,Beneath Your Beautiful,Labrinth Featuring Emeli Sande,Labrinth,electronic,electronic,20130713,95,34,12,20130824
 56,83,Bubble Butt,"Major Lazer Featuring Bruno Mars, Tyga & Mystic",Major Lazer,pop,seen live,20130629,97,56,9,20130824
 57,68,Still Into You,Paramore,Paramore,rock,rock,20130803,100,24,19,20130824
 58,52,Crazy Kids,Ke$Ha Featuring Will.I.Am Or Juicy J,Ke$Ha,pop,pop,20130615,59,40,13,20130824
@@ -1902,19 +1902,19 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 1,1,Blurred Lines,Robin Thicke Featuring T.I. & Pharrell,Robin Thicke,rnb / soul,soul,20130504,94,1,48,20130817
 2,3,We Can't Stop,Miley Cyrus,Miley Cyrus,pop,pop,20130622,11,2,26,20130817
 3,4,Radioactive,Imagine Dragons,Imagine Dragons,rock,indie,20120929,91,3,85,20130817
-4,5,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,pop,electronic,20130504,19,2,29,20130817
+4,5,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,electronic,electronic,20130504,19,2,29,20130817
 5,7,Holy Grail,Jay Z Featuring Justin Timberlake,Jay Z,hip-hop,hip-hop,20130727,8,4,27,20130817
 6,8,Cups,Anna Kendrick,Anna Kendrick,pop,pop,20130112,93,6,44,20130817
 7,6,Treasure,Bruno Mars,Bruno Mars,pop,pop,20130601,71,5,23,20130817
-8,13,Clarity,Zedd Featuring Foxes,Zedd,pop,electronic,20130406,86,8,33,20130817
-9,15,Safe And Sound,Capital Cities,Capital Cities,pop,electronic,20130518,99,8,43,20130817
+8,13,Clarity,Zedd Featuring Foxes,Zedd,electronic,electronic,20130406,86,8,33,20130817
+9,15,Safe And Sound,Capital Cities,Capital Cities,electronic,electronic,20130518,99,8,43,20130817
 10,14,Love Somebody,Maroon 5,Maroon 5,rock,rock,20130608,54,10,21,20130817
 11,12,Same Love,Macklemore & Ryan Lewis Featuring Mary Lambert,Macklemore & Ryan Lewis,hip-hop,hip-hop,20130413,93,11,28,20130817
 12,10,Cruise,Florida Georgia Line Featuring Nelly,Florida Georgia Line,country / folk,country,20130420,8,4,28,20130817
 13,9,Can't Hold Us,Macklemore & Ryan Lewis Featuring Ray Dalton,Macklemore & Ryan Lewis,hip-hop,hip-hop,20130309,92,1,37,20130817
 14,11,Mirrors,Justin Timberlake,Justin Timberlake,pop,pop,20130302,24,2,42,20130817
 15,2,Best Song Ever,One Direction,One Direction,pop,pop,20130810,2,2,17,20130817
-16,19,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,pop,electronic,20130504,76,16,25,20130817
+16,19,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,electronic,electronic,20130504,76,16,25,20130817
 17,48,Wake Me Up!,Avicii,Avicii,electronic,house,20130713,81,4,53,20130817
 18,18,The Other Side,Jason Derulo,Jason Derulo,rnb / soul,rnb,20130504,75,18,21,20130817
 19,16,Come & Get It,Selena Gomez,Selena Gomez,pop,pop,20130427,45,6,22,20130817
@@ -1925,9 +1925,9 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 24,25,Runnin' Outta Moonlight,Randy Houser,Randy Houser,country / folk,country,20130525,91,24,20,20130817
 25,28,"Gone, Gone, Gone",Phillip Phillips,Phillip Phillips,country / folk,folk,20130323,100,24,30,20130817
 26,26,Power Trip,J. Cole Featuring Miguel,J. Cole,hip-hop,hip-hop,20130302,91,19,29,20130817
-27,31,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20130817
+27,31,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20130817
 28,27,Crash My Party,Luke Bryan,Luke Bryan,country / folk,country,20130427,18,18,21,20130817
-29,23,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,pop,electronic,20130216,69,7,29,20130817
+29,23,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,electronic,electronic,20130216,69,7,29,20130817
 30,30,Body Party,Ciara,Ciara,rnb / soul,rnb,20130511,35,22,20,20130817
 31,29,Thrift Shop,Macklemore & Ryan Lewis Featuring Wanz,Macklemore & Ryan Lewis,hip-hop,hip-hop,20121027,96,1,48,20130817
 32,32,Stay,Rihanna Featuring Mikky Ekko,Rihanna,pop,pop,20130223,57,3,32,20130817
@@ -1948,7 +1948,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 47,55,Crooked Smile,J. Cole Featuring Tlc,J. Cole,hip-hop,hip-hop,20130706,74,27,20,20130817
 48,44,Tapout,"Rich Gang Featuring Lil Wayne, Birdman, Future, Mack Maine",Rich Gang,hip-hop,hip-hop,20130525,100,44,20,20130817
 49,46,Wagon Wheel,Darius Rucker,Darius Rucker,country / folk,country,20130302,95,15,25,20130817
-50,34,Beneath Your Beautiful,Labrinth Featuring Emeli Sande,Labrinth,pop,electronic,20130713,95,34,12,20130817
+50,34,Beneath Your Beautiful,Labrinth Featuring Emeli Sande,Labrinth,electronic,electronic,20130713,95,34,12,20130817
 51,50,Don't Drop That Thun Thun,The Finatticz,The Finatticz,hip-hop,hip hop,20130727,88,35,10,20130817
 52,43,Crazy Kids,Ke$Ha Featuring Will.I.Am Or Juicy J,Ke$Ha,pop,pop,20130615,59,40,13,20130817
 53,42,Hey Pretty Girl,Kip Moore,Kip Moore,country / folk,country,20130406,97,41,20,20130817
@@ -2003,7 +2003,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 2,NEW,Best Song Ever,One Direction,One Direction,pop,pop,20130810,2,2,17,20130810
 3,2,We Can't Stop,Miley Cyrus,Miley Cyrus,pop,pop,20130622,11,2,26,20130810
 4,3,Radioactive,Imagine Dragons,Imagine Dragons,rock,indie,20120929,91,3,85,20130810
-5,4,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,pop,electronic,20130504,19,2,29,20130810
+5,4,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,electronic,electronic,20130504,19,2,29,20130810
 6,5,Treasure,Bruno Mars,Bruno Mars,pop,pop,20130601,71,5,23,20130810
 7,8,Holy Grail,Jay Z Featuring Justin Timberlake,Jay Z,hip-hop,hip-hop,20130727,8,4,27,20130810
 8,9,Cups,Anna Kendrick,Anna Kendrick,pop,pop,20130112,93,6,44,20130810
@@ -2011,17 +2011,17 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 10,7,Cruise,Florida Georgia Line Featuring Nelly,Florida Georgia Line,country / folk,country,20130420,8,4,28,20130810
 11,10,Mirrors,Justin Timberlake,Justin Timberlake,pop,pop,20130302,24,2,42,20130810
 12,11,Same Love,Macklemore & Ryan Lewis Featuring Mary Lambert,Macklemore & Ryan Lewis,hip-hop,hip-hop,20130413,93,11,28,20130810
-13,13,Clarity,Zedd Featuring Foxes,Zedd,pop,electronic,20130406,86,8,33,20130810
+13,13,Clarity,Zedd Featuring Foxes,Zedd,electronic,electronic,20130406,86,8,33,20130810
 14,12,Love Somebody,Maroon 5,Maroon 5,rock,rock,20130608,54,10,21,20130810
-15,16,Safe And Sound,Capital Cities,Capital Cities,pop,electronic,20130518,99,8,43,20130810
+15,16,Safe And Sound,Capital Cities,Capital Cities,electronic,electronic,20130518,99,8,43,20130810
 16,15,Come & Get It,Selena Gomez,Selena Gomez,pop,pop,20130427,45,6,22,20130810
 17,14,The Way,Ariana Grande Featuring Mac Miller,Ariana Grande,pop,pop,20130413,10,9,26,20130810
 18,18,The Other Side,Jason Derulo,Jason Derulo,rnb / soul,rnb,20130504,75,18,21,20130810
-19,19,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,pop,electronic,20130504,76,16,25,20130810
+19,19,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,electronic,electronic,20130504,76,16,25,20130810
 20,17,Just Give Me A Reason,P!Nk Featuring Nate Ruess,P!Nk,pop,pop,20130302,84,1,36,20130810
 21,NEW,Baby I,Ariana Grande,Ariana Grande,pop,pop,20130810,21,21,1,20130810
 22,22,I Want Crazy,Hunter Hayes,Hunter Hayes,country / folk,country,20130427,43,19,20,20130810
-23,21,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,pop,electronic,20130216,69,7,29,20130810
+23,21,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,electronic,electronic,20130216,69,7,29,20130810
 24,20,U.O.E.N.O.,Rocko Featuring Future & Rick Ross,Rocko,hip-hop,rap,20130427,99,20,20,20130810
 25,28,Runnin' Outta Moonlight,Randy Houser,Randy Houser,country / folk,country,20130525,91,24,20,20130810
 26,23,Power Trip,J. Cole Featuring Miguel,J. Cole,hip-hop,hip-hop,20130302,91,19,29,20130810
@@ -2029,10 +2029,10 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 28,26,"Gone, Gone, Gone",Phillip Phillips,Phillip Phillips,country / folk,folk,20130323,100,24,30,20130810
 29,24,Thrift Shop,Macklemore & Ryan Lewis Featuring Wanz,Macklemore & Ryan Lewis,hip-hop,hip-hop,20121027,96,1,48,20130810
 30,27,Body Party,Ciara,Ciara,rnb / soul,rnb,20130511,35,22,20,20130810
-31,34,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20130810
+31,34,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20130810
 32,30,Stay,Rihanna Featuring Mikky Ekko,Rihanna,pop,pop,20130223,57,3,32,20130810
 33,31,When I Was Your Man,Bruno Mars,Bruno Mars,pop,pop,20130126,89,1,32,20130810
-34,86,Beneath Your Beautiful,Labrinth Featuring Emeli Sande,Labrinth,pop,electronic,20130713,95,34,12,20130810
+34,86,Beneath Your Beautiful,Labrinth Featuring Emeli Sande,Labrinth,electronic,electronic,20130713,95,34,12,20130810
 35,32,Boys Round Here,Blake Shelton Featuring Pistol Annies & Friends,Blake Shelton,country / folk,country,20130413,67,12,21,20130810
 36,33,Bad,Wale Featuring Tiara Thomas,Wale,hip-hop,hip-hop,20130309,70,21,25,20130810
 37,46,Summertime Sadness,Lana Del Rey,Lana Del Rey,pop,female vocalists,20130727,72,6,23,20130810
@@ -2102,7 +2102,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 1,1,Blurred Lines,Robin Thicke Featuring T.I. & Pharrell,Robin Thicke,rnb / soul,soul,20130504,94,1,48,20130803
 2,3,We Can't Stop,Miley Cyrus,Miley Cyrus,pop,pop,20130622,11,2,26,20130803
 3,4,Radioactive,Imagine Dragons,Imagine Dragons,rock,indie,20120929,91,3,85,20130803
-4,2,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,pop,electronic,20130504,19,2,29,20130803
+4,2,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,electronic,electronic,20130504,19,2,29,20130803
 5,7,Treasure,Bruno Mars,Bruno Mars,pop,pop,20130601,71,5,23,20130803
 6,5,Can't Hold Us,Macklemore & Ryan Lewis Featuring Ray Dalton,Macklemore & Ryan Lewis,hip-hop,hip-hop,20130309,92,1,37,20130803
 7,6,Cruise,Florida Georgia Line Featuring Nelly,Florida Georgia Line,country / folk,country,20130420,8,4,28,20130803
@@ -2111,15 +2111,15 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 10,9,Mirrors,Justin Timberlake,Justin Timberlake,pop,pop,20130302,24,2,42,20130803
 11,11,Same Love,Macklemore & Ryan Lewis Featuring Mary Lambert,Macklemore & Ryan Lewis,hip-hop,hip-hop,20130413,93,11,28,20130803
 12,14,Love Somebody,Maroon 5,Maroon 5,rock,rock,20130608,54,10,21,20130803
-13,13,Clarity,Zedd Featuring Foxes,Zedd,pop,electronic,20130406,86,8,33,20130803
+13,13,Clarity,Zedd Featuring Foxes,Zedd,electronic,electronic,20130406,86,8,33,20130803
 14,15,The Way,Ariana Grande Featuring Mac Miller,Ariana Grande,pop,pop,20130413,10,9,26,20130803
 15,12,Come & Get It,Selena Gomez,Selena Gomez,pop,pop,20130427,45,6,22,20130803
-16,19,Safe And Sound,Capital Cities,Capital Cities,pop,electronic,20130518,99,8,43,20130803
+16,19,Safe And Sound,Capital Cities,Capital Cities,electronic,electronic,20130518,99,8,43,20130803
 17,16,Just Give Me A Reason,P!Nk Featuring Nate Ruess,P!Nk,pop,pop,20130302,84,1,36,20130803
 18,20,The Other Side,Jason Derulo,Jason Derulo,rnb / soul,rnb,20130504,75,18,21,20130803
-19,17,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,pop,electronic,20130504,76,16,25,20130803
+19,17,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,electronic,electronic,20130504,76,16,25,20130803
 20,29,U.O.E.N.O.,Rocko Featuring Future & Rick Ross,Rocko,hip-hop,rap,20130427,99,20,20,20130803
-21,18,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,pop,electronic,20130216,69,7,29,20130803
+21,18,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,electronic,electronic,20130216,69,7,29,20130803
 22,25,I Want Crazy,Hunter Hayes,Hunter Hayes,country / folk,country,20130427,43,19,20,20130803
 23,21,Power Trip,J. Cole Featuring Miguel,J. Cole,hip-hop,hip-hop,20130302,91,19,29,20130803
 24,28,Thrift Shop,Macklemore & Ryan Lewis Featuring Wanz,Macklemore & Ryan Lewis,hip-hop,hip-hop,20121027,96,1,48,20130803
@@ -2132,7 +2132,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 31,31,When I Was Your Man,Bruno Mars,Bruno Mars,pop,pop,20130126,89,1,32,20130803
 32,30,Boys Round Here,Blake Shelton Featuring Pistol Annies & Friends,Blake Shelton,country / folk,country,20130413,67,12,21,20130803
 33,33,Bad,Wale Featuring Tiara Thomas,Wale,hip-hop,hip-hop,20130309,70,21,25,20130803
-34,36,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20130803
+34,36,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20130803
 35,88,Don't Drop That Thun Thun,The Finatticz,The Finatticz,hip-hop,hip hop,20130727,88,35,10,20130803
 36,35,Wagon Wheel,Darius Rucker,Darius Rucker,country / folk,country,20130302,95,15,25,20130803
 37,23,#Beautiful,Mariah Carey Featuring Miguel,Mariah Carey,pop,pop,20130525,24,15,16,20130803
@@ -2184,7 +2184,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 83,NEW,Hail To The King,Avenged Sevenfold,Avenged Sevenfold,rock,metalcore,20130803,83,83,1,20130803
 84,70,Beat This Summer,Brad Paisley,Brad Paisley,country / folk,country,20130406,99,46,19,20130803
 85,NEW,Miss Movin' On,Fifth Harmony,Fifth Harmony,pop,pop,20130803,85,85,1,20130803
-86,96,Beneath Your Beautiful,Labrinth Featuring Emeli Sande,Labrinth,pop,electronic,20130713,95,34,12,20130803
+86,96,Beneath Your Beautiful,Labrinth Featuring Emeli Sande,Labrinth,electronic,electronic,20130713,95,34,12,20130803
 87,77,People Like Us,Kelly Clarkson,Kelly Clarkson,pop,pop,20130601,99,65,10,20130803
 88,86,Play Hard,David Guetta Featuring Ne-Yo & Akon,David Guetta,electronic,house,20130713,99,86,5,20130803
 89,97,Sweater Weather,The Neighbourhood,The Neighbourhood,rock,indie,20130713,96,14,35,20130803
@@ -2200,7 +2200,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 99,87,Fine China,Chris Brown,Chris Brown,rnb / soul,rnb,20130420,52,31,16,20130803
 100,NEW,Still Into You,Paramore,Paramore,rock,rock,20130803,100,24,19,20130803
 1,1,Blurred Lines,Robin Thicke Featuring T.I. & Pharrell,Robin Thicke,rnb / soul,soul,20130504,94,1,48,20130727
-2,2,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,pop,electronic,20130504,19,2,29,20130727
+2,2,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,electronic,electronic,20130504,19,2,29,20130727
 3,3,We Can't Stop,Miley Cyrus,Miley Cyrus,pop,pop,20130622,11,2,26,20130727
 4,4,Radioactive,Imagine Dragons,Imagine Dragons,rock,indie,20120929,91,3,85,20130727
 5,6,Can't Hold Us,Macklemore & Ryan Lewis Featuring Ray Dalton,Macklemore & Ryan Lewis,hip-hop,hip-hop,20130309,92,1,37,20130727
@@ -2211,13 +2211,13 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 10,10,Cups,Anna Kendrick,Anna Kendrick,pop,pop,20130112,93,6,44,20130727
 11,14,Same Love,Macklemore & Ryan Lewis Featuring Mary Lambert,Macklemore & Ryan Lewis,hip-hop,hip-hop,20130413,93,11,28,20130727
 12,9,Come & Get It,Selena Gomez,Selena Gomez,pop,pop,20130427,45,6,22,20130727
-13,13,Clarity,Zedd Featuring Foxes,Zedd,pop,electronic,20130406,86,8,33,20130727
+13,13,Clarity,Zedd Featuring Foxes,Zedd,electronic,electronic,20130406,86,8,33,20130727
 14,15,Love Somebody,Maroon 5,Maroon 5,rock,rock,20130608,54,10,21,20130727
 15,12,The Way,Ariana Grande Featuring Mac Miller,Ariana Grande,pop,pop,20130413,10,9,26,20130727
 16,11,Just Give Me A Reason,P!Nk Featuring Nate Ruess,P!Nk,pop,pop,20130302,84,1,36,20130727
-17,20,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,pop,electronic,20130504,76,16,25,20130727
-18,16,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,pop,electronic,20130216,69,7,29,20130727
-19,31,Safe And Sound,Capital Cities,Capital Cities,pop,electronic,20130518,99,8,43,20130727
+17,20,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,electronic,electronic,20130504,76,16,25,20130727
+18,16,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,electronic,electronic,20130216,69,7,29,20130727
+19,31,Safe And Sound,Capital Cities,Capital Cities,electronic,electronic,20130518,99,8,43,20130727
 20,21,The Other Side,Jason Derulo,Jason Derulo,rnb / soul,rnb,20130504,75,18,21,20130727
 21,19,Power Trip,J. Cole Featuring Miguel,J. Cole,hip-hop,hip-hop,20130302,91,19,29,20130727
 22,25,Body Party,Ciara,Ciara,rnb / soul,rnb,20130511,35,22,20,20130727
@@ -2234,7 +2234,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 33,30,Bad,Wale Featuring Tiara Thomas,Wale,hip-hop,hip-hop,20130309,70,21,25,20130727
 34,34,Runnin' Outta Moonlight,Randy Houser,Randy Houser,country / folk,country,20130525,91,24,20,20130727
 35,32,Wagon Wheel,Darius Rucker,Darius Rucker,country / folk,country,20130302,95,15,25,20130727
-36,35,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20130727
+36,35,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20130727
 37,39,Don't Ya,Brett Eldredge,Brett Eldredge,country / folk,country,20130608,95,30,20,20130727
 38,36,Ho Hey,The Lumineers,The Lumineers,country / folk,folk,20120623,90,3,62,20130727
 39,NEW,Tom Ford,Jay Z,Jay Z,hip-hop,hip-hop,20130727,39,39,20,20130727
@@ -2294,13 +2294,13 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 93,95,Goodbye Town,Lady Antebellum,Lady Antebellum,country / folk,country,20130713,98,80,11,20130727
 94,83,Gentleman,Psy,Psy,pop,k-pop,20130427,12,5,15,20130727
 95,89,LoveHate Thing,Wale Featuring Sam Dew,Wale,hip-hop,hip-hop,20130720,89,89,8,20130727
-96,92,Beneath Your Beautiful,Labrinth Featuring Emeli Sande,Labrinth,pop,electronic,20130713,95,34,12,20130727
+96,92,Beneath Your Beautiful,Labrinth Featuring Emeli Sande,Labrinth,electronic,electronic,20130713,95,34,12,20130727
 97,96,Sweater Weather,The Neighbourhood,The Neighbourhood,rock,indie,20130713,96,14,35,20130727
 98,NEW,Acapella,Karmin,Karmin,pop,pop,20130727,98,72,8,20130727
 99,98,HeadBand,B.O.B Featuring 2 Chainz,B.O.B,hip-hop,hip-hop,20130720,98,53,26,20130727
 100,NEW,Crown,Jay Z,Jay Z,hip-hop,hip-hop,20130727,100,100,1,20130727
 1,1,Blurred Lines,Robin Thicke Featuring T.I. & Pharrell,Robin Thicke,rnb / soul,soul,20130504,94,1,48,20130720
-2,2,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,pop,electronic,20130504,19,2,29,20130720
+2,2,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,electronic,electronic,20130504,19,2,29,20130720
 3,3,We Can't Stop,Miley Cyrus,Miley Cyrus,pop,pop,20130622,11,2,26,20130720
 4,4,Radioactive,Imagine Dragons,Imagine Dragons,rock,indie,20120929,91,3,85,20130720
 5,6,Cruise,Florida Georgia Line Featuring Nelly,Florida Georgia Line,country / folk,country,20130420,8,4,28,20130720
@@ -2311,14 +2311,14 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 10,13,Cups,Anna Kendrick,Anna Kendrick,pop,pop,20130112,93,6,44,20130720
 11,11,Just Give Me A Reason,P!Nk Featuring Nate Ruess,P!Nk,pop,pop,20130302,84,1,36,20130720
 12,10,The Way,Ariana Grande Featuring Mac Miller,Ariana Grande,pop,pop,20130413,10,9,26,20130720
-13,14,Clarity,Zedd Featuring Foxes,Zedd,pop,electronic,20130406,86,8,33,20130720
+13,14,Clarity,Zedd Featuring Foxes,Zedd,electronic,electronic,20130406,86,8,33,20130720
 14,16,Same Love,Macklemore & Ryan Lewis Featuring Mary Lambert,Macklemore & Ryan Lewis,hip-hop,hip-hop,20130413,93,11,28,20130720
 15,18,Love Somebody,Maroon 5,Maroon 5,rock,rock,20130608,54,10,21,20130720
-16,12,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,pop,electronic,20130216,69,7,29,20130720
+16,12,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,electronic,electronic,20130216,69,7,29,20130720
 17,17,#Beautiful,Mariah Carey Featuring Miguel,Mariah Carey,pop,pop,20130525,24,15,16,20130720
 18,15,My Songs Know What You Did In The Dark (Light Em Up),Fall Out Boy,Fall Out Boy,pop,pop punk,20130223,26,13,26,20130720
 19,21,Power Trip,J. Cole Featuring Miguel,J. Cole,hip-hop,hip-hop,20130302,91,19,29,20130720
-20,23,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,pop,electronic,20130504,76,16,25,20130720
+20,23,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,electronic,electronic,20130504,76,16,25,20130720
 21,22,The Other Side,Jason Derulo,Jason Derulo,rnb / soul,rnb,20130504,75,18,21,20130720
 22,20,Boys Round Here,Blake Shelton Featuring Pistol Annies & Friends,Blake Shelton,country / folk,country,20130413,67,12,21,20130720
 23,19,Stay,Rihanna Featuring Mikky Ekko,Rihanna,pop,pop,20130223,57,3,32,20130720
@@ -2329,11 +2329,11 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 28,27,Crash My Party,Luke Bryan,Luke Bryan,country / folk,country,20130427,18,18,21,20130720
 29,26,When I Was Your Man,Bruno Mars,Bruno Mars,pop,pop,20130126,89,1,32,20130720
 30,28,Bad,Wale Featuring Tiara Thomas,Wale,hip-hop,hip-hop,20130309,70,21,25,20130720
-31,32,Safe And Sound,Capital Cities,Capital Cities,pop,electronic,20130518,99,8,43,20130720
+31,32,Safe And Sound,Capital Cities,Capital Cities,electronic,electronic,20130518,99,8,43,20130720
 32,29,Wagon Wheel,Darius Rucker,Darius Rucker,country / folk,country,20130302,95,15,25,20130720
 33,31,"Gone, Gone, Gone",Phillip Phillips,Phillip Phillips,country / folk,folk,20130323,100,24,30,20130720
 34,37,Runnin' Outta Moonlight,Randy Houser,Randy Houser,country / folk,country,20130525,91,24,20,20130720
-35,36,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20130720
+35,36,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20130720
 36,41,Ho Hey,The Lumineers,The Lumineers,country / folk,folk,20120623,90,3,62,20130720
 37,33,"Bitch, Don't Kill My Vibe",Kendrick Lamar,Kendrick Lamar,hip-hop,hip-hop,20130406,84,32,17,20130720
 38,40,Rich As Fuck,Lil Wayne Featuring 2 Chainz,Lil Wayne,hip-hop,rap,20130406,78,38,20,20130720
@@ -2390,7 +2390,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 89,NEW,LoveHate Thing,Wale Featuring Sam Dew,Wale,hip-hop,hip-hop,20130720,89,89,8,20130720
 90,NEW,Royals,Lorde,Lorde,pop,pop,20130720,90,1,44,20130720
 91,91,Brave,Sara Bareilles,Sara Bareilles,pop,female vocalists,20130706,100,23,41,20130720
-92,95,Beneath Your Beautiful,Labrinth Featuring Emeli Sande,Labrinth,pop,electronic,20130713,95,34,12,20130720
+92,95,Beneath Your Beautiful,Labrinth Featuring Emeli Sande,Labrinth,electronic,electronic,20130713,95,34,12,20130720
 93,88,Young And Beautiful,Lana Del Rey,Lana Del Rey,pop,female vocalists,20130511,82,22,13,20130720
 94,92,Ooh La La,Britney Spears,Britney Spears,pop,pop,20130706,85,54,5,20130720
 95,98,Goodbye Town,Lady Antebellum,Lady Antebellum,country / folk,country,20130713,98,80,11,20130720
@@ -2400,7 +2400,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 99,NEW,Easy,Sheryl Crow,Sheryl Crow,pop,female vocalists,20130720,99,99,1,20130720
 100,NEW,Live For The Night,Krewella,Krewella,electronic,dubstep,20130720,100,100,1,20130720
 1,1,Blurred Lines,Robin Thicke Featuring T.I. & Pharrell,Robin Thicke,rnb / soul,soul,20130504,94,1,48,20130713
-2,2,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,pop,electronic,20130504,19,2,29,20130713
+2,2,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,electronic,electronic,20130504,19,2,29,20130713
 3,5,We Can't Stop,Miley Cyrus,Miley Cyrus,pop,pop,20130622,11,2,26,20130713
 4,3,Radioactive,Imagine Dragons,Imagine Dragons,rock,indie,20120929,91,3,85,20130713
 5,6,Can't Hold Us,Macklemore & Ryan Lewis Featuring Ray Dalton,Macklemore & Ryan Lewis,hip-hop,hip-hop,20130309,92,1,37,20130713
@@ -2410,9 +2410,9 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 9,9,Come & Get It,Selena Gomez,Selena Gomez,pop,pop,20130427,45,6,22,20130713
 10,11,The Way,Ariana Grande Featuring Mac Miller,Ariana Grande,pop,pop,20130413,10,9,26,20130713
 11,10,Just Give Me A Reason,P!Nk Featuring Nate Ruess,P!Nk,pop,pop,20130302,84,1,36,20130713
-12,12,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,pop,electronic,20130216,69,7,29,20130713
+12,12,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,electronic,electronic,20130216,69,7,29,20130713
 13,17,Cups,Anna Kendrick,Anna Kendrick,pop,pop,20130112,93,6,44,20130713
-14,14,Clarity,Zedd Featuring Foxes,Zedd,pop,electronic,20130406,86,8,33,20130713
+14,14,Clarity,Zedd Featuring Foxes,Zedd,electronic,electronic,20130406,86,8,33,20130713
 15,13,My Songs Know What You Did In The Dark (Light Em Up),Fall Out Boy,Fall Out Boy,pop,pop punk,20130223,26,13,26,20130713
 16,28,Same Love,Macklemore & Ryan Lewis Featuring Mary Lambert,Macklemore & Ryan Lewis,hip-hop,hip-hop,20130413,93,11,28,20130713
 17,16,#Beautiful,Mariah Carey Featuring Miguel,Mariah Carey,pop,pop,20130525,24,15,16,20130713
@@ -2421,7 +2421,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 20,15,Boys Round Here,Blake Shelton Featuring Pistol Annies & Friends,Blake Shelton,country / folk,country,20130413,67,12,21,20130713
 21,23,Power Trip,J. Cole Featuring Miguel,J. Cole,hip-hop,hip-hop,20130302,91,19,29,20130713
 22,25,The Other Side,Jason Derulo,Jason Derulo,rnb / soul,rnb,20130504,75,18,21,20130713
-23,24,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,pop,electronic,20130504,76,16,25,20130713
+23,24,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,electronic,electronic,20130504,76,16,25,20130713
 24,21,Thrift Shop,Macklemore & Ryan Lewis Featuring Wanz,Macklemore & Ryan Lewis,hip-hop,hip-hop,20121027,96,1,48,20130713
 25,19,I Want Crazy,Hunter Hayes,Hunter Hayes,country / folk,country,20130427,43,19,20,20130713
 26,20,When I Was Your Man,Bruno Mars,Bruno Mars,pop,pop,20130126,89,1,32,20130713
@@ -2430,11 +2430,11 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 29,26,Wagon Wheel,Darius Rucker,Darius Rucker,country / folk,country,20130302,95,15,25,20130713
 30,33,U.O.E.N.O.,Rocko Featuring Future & Rick Ross,Rocko,hip-hop,rap,20130427,99,20,20,20130713
 31,36,"Gone, Gone, Gone",Phillip Phillips,Phillip Phillips,country / folk,folk,20130323,100,24,30,20130713
-32,43,Safe And Sound,Capital Cities,Capital Cities,pop,electronic,20130518,99,8,43,20130713
+32,43,Safe And Sound,Capital Cities,Capital Cities,electronic,electronic,20130518,99,8,43,20130713
 33,42,"Bitch, Don't Kill My Vibe",Kendrick Lamar,Kendrick Lamar,hip-hop,hip-hop,20130406,84,32,17,20130713
 34,38,Body Party,Ciara,Ciara,rnb / soul,rnb,20130511,35,22,20,20130713
 35,29,Here's To Never Growing Up,Avril Lavigne,Avril Lavigne,pop,pop,20130427,52,20,15,20130713
-36,39,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20130713
+36,39,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20130713
 37,44,Runnin' Outta Moonlight,Randy Houser,Randy Houser,country / folk,country,20130525,91,24,20,20130713
 38,34,Heart Attack,Demi Lovato,Demi Lovato,pop,pop,20130316,12,10,20,20130713
 39,31,Feel This Moment,Pitbull Featuring Christina Aguilera,Pitbull,hip-hop,hip-hop,20130209,99,8,24,20130713
@@ -2493,14 +2493,14 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 92,85,Ooh La La,Britney Spears,Britney Spears,pop,pop,20130706,85,54,5,20130713
 93,NEW,Parking Lot Party,Lee Brice,Lee Brice,country / folk,country,20130713,93,62,20,20130713
 94,NEW,Wop,J. Dash,J. Dash,pop,usa,20130713,94,51,12,20130713
-95,NEW,Beneath Your Beautiful,Labrinth Featuring Emeli Sande,Labrinth,pop,electronic,20130713,95,34,12,20130713
+95,NEW,Beneath Your Beautiful,Labrinth Featuring Emeli Sande,Labrinth,electronic,electronic,20130713,95,34,12,20130713
 96,NEW,Sweater Weather,The Neighbourhood,The Neighbourhood,rock,indie,20130713,96,14,35,20130713
 97,96,Wild For The Night,A$Ap Rocky Featuring Skrillex,A$Ap Rocky,hip-hop,hip-hop,20130413,96,80,14,20130713
 98,NEW,Goodbye Town,Lady Antebellum,Lady Antebellum,country / folk,country,20130713,98,80,11,20130713
 99,NEW,Play Hard,David Guetta Featuring Ne-Yo & Akon,David Guetta,electronic,house,20130713,99,86,5,20130713
 100,NEW,Beware,Big Sean Featuring Lil Wayne & Jhene Aiko,Big Sean,hip-hop,hip-hop,20130713,100,100,1,20130713
 1,1,Blurred Lines,Robin Thicke Featuring T.I. & Pharrell,Robin Thicke,rnb / soul,soul,20130504,94,1,48,20130706
-2,2,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,pop,electronic,20130504,19,2,29,20130706
+2,2,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,electronic,electronic,20130504,19,2,29,20130706
 3,4,Radioactive,Imagine Dragons,Imagine Dragons,rock,indie,20120929,91,3,85,20130706
 4,6,Cruise,Florida Georgia Line Featuring Nelly,Florida Georgia Line,country / folk,country,20130420,8,4,28,20130706
 5,27,We Can't Stop,Miley Cyrus,Miley Cyrus,pop,pop,20130622,11,2,26,20130706
@@ -2510,9 +2510,9 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 9,8,Come & Get It,Selena Gomez,Selena Gomez,pop,pop,20130427,45,6,22,20130706
 10,7,Just Give Me A Reason,P!Nk Featuring Nate Ruess,P!Nk,pop,pop,20130302,84,1,36,20130706
 11,9,The Way,Ariana Grande Featuring Mac Miller,Ariana Grande,pop,pop,20130413,10,9,26,20130706
-12,10,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,pop,electronic,20130216,69,7,29,20130706
+12,10,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,electronic,electronic,20130216,69,7,29,20130706
 13,13,My Songs Know What You Did In The Dark (Light Em Up),Fall Out Boy,Fall Out Boy,pop,pop punk,20130223,26,13,26,20130706
-14,14,Clarity,Zedd Featuring Foxes,Zedd,pop,electronic,20130406,86,8,33,20130706
+14,14,Clarity,Zedd Featuring Foxes,Zedd,electronic,electronic,20130406,86,8,33,20130706
 15,12,Boys Round Here,Blake Shelton Featuring Pistol Annies & Friends,Blake Shelton,country / folk,country,20130413,67,12,21,20130706
 16,15,#Beautiful,Mariah Carey Featuring Miguel,Mariah Carey,pop,pop,20130525,24,15,16,20130706
 17,18,Cups,Anna Kendrick,Anna Kendrick,pop,pop,20130112,93,6,44,20130706
@@ -2522,7 +2522,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 21,19,Thrift Shop,Macklemore & Ryan Lewis Featuring Wanz,Macklemore & Ryan Lewis,hip-hop,hip-hop,20121027,96,1,48,20130706
 22,24,Love Somebody,Maroon 5,Maroon 5,rock,rock,20130608,54,10,21,20130706
 23,21,Power Trip,J. Cole Featuring Miguel,J. Cole,hip-hop,hip-hop,20130302,91,19,29,20130706
-24,30,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,pop,electronic,20130504,76,16,25,20130706
+24,30,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,electronic,electronic,20130504,76,16,25,20130706
 25,25,The Other Side,Jason Derulo,Jason Derulo,rnb / soul,rnb,20130504,75,18,21,20130706
 26,22,Wagon Wheel,Darius Rucker,Darius Rucker,country / folk,country,20130302,95,15,25,20130706
 27,23,Bad,Wale Featuring Tiara Thomas,Wale,hip-hop,hip-hop,20130309,70,21,25,20130706
@@ -2537,11 +2537,11 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 36,43,"Gone, Gone, Gone",Phillip Phillips,Phillip Phillips,country / folk,folk,20130323,100,24,30,20130706
 37,45,No New Friends,"Dj Khaled Featuring Drake, Rick Ross & Lil Wayne",Dj Khaled,hip-hop,hip-hop,20130511,55,37,19,20130706
 38,40,Body Party,Ciara,Ciara,rnb / soul,rnb,20130511,35,22,20,20130706
-39,41,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20130706
+39,41,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20130706
 40,38,Rich As Fuck,Lil Wayne Featuring 2 Chainz,Lil Wayne,hip-hop,rap,20130406,78,38,20,20130706
 41,32,22,Taylor Swift,Taylor Swift,country / folk,country,20130330,64,20,18,20130706
 42,42,"Bitch, Don't Kill My Vibe",Kendrick Lamar,Kendrick Lamar,hip-hop,hip-hop,20130406,84,32,17,20130706
-43,56,Safe And Sound,Capital Cities,Capital Cities,pop,electronic,20130518,99,8,43,20130706
+43,56,Safe And Sound,Capital Cities,Capital Cities,electronic,electronic,20130518,99,8,43,20130706
 44,48,Runnin' Outta Moonlight,Randy Houser,Randy Houser,country / folk,country,20130525,91,24,20,20130706
 45,35,Started From The Bottom,Drake,Drake,hip-hop,hip-hop,20130223,63,6,22,20130706
 46,39,Ho Hey,The Lumineers,The Lumineers,country / folk,folk,20120623,90,3,62,20130706
@@ -2600,7 +2600,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 99,NEW,I Can't Tell You Why,The Swon Brothers,The Swon Brothers,pop,the voice,20130706,99,99,1,20130706
 100,NEW,Brave,Sara Bareilles,Sara Bareilles,pop,female vocalists,20130706,100,23,41,20130706
 1,1,Blurred Lines,Robin Thicke Featuring T.I. & Pharrell,Robin Thicke,rnb / soul,soul,20130504,94,1,48,20130629
-2,3,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,pop,electronic,20130504,19,2,29,20130629
+2,3,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,electronic,electronic,20130504,19,2,29,20130629
 3,2,Can't Hold Us,Macklemore & Ryan Lewis Featuring Ray Dalton,Macklemore & Ryan Lewis,hip-hop,hip-hop,20130309,92,1,37,20130629
 4,6,Radioactive,Imagine Dragons,Imagine Dragons,rock,indie,20120929,91,3,85,20130629
 5,4,Mirrors,Justin Timberlake,Justin Timberlake,pop,pop,20130302,24,2,42,20130629
@@ -2608,11 +2608,11 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 7,7,Just Give Me A Reason,P!Nk Featuring Nate Ruess,P!Nk,pop,pop,20130302,84,1,36,20130629
 8,8,Come & Get It,Selena Gomez,Selena Gomez,pop,pop,20130427,45,6,22,20130629
 9,9,The Way,Ariana Grande Featuring Mac Miller,Ariana Grande,pop,pop,20130413,10,9,26,20130629
-10,10,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,pop,electronic,20130216,69,7,29,20130629
+10,10,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,electronic,electronic,20130216,69,7,29,20130629
 11,16,Treasure,Bruno Mars,Bruno Mars,pop,pop,20130601,71,5,23,20130629
 12,13,Boys Round Here,Blake Shelton Featuring Pistol Annies & Friends,Blake Shelton,country / folk,country,20130413,67,12,21,20130629
 13,19,My Songs Know What You Did In The Dark (Light Em Up),Fall Out Boy,Fall Out Boy,pop,pop punk,20130223,26,13,26,20130629
-14,24,Clarity,Zedd Featuring Foxes,Zedd,pop,electronic,20130406,86,8,33,20130629
+14,24,Clarity,Zedd Featuring Foxes,Zedd,electronic,electronic,20130406,86,8,33,20130629
 15,15,#Beautiful,Mariah Carey Featuring Miguel,Mariah Carey,pop,pop,20130525,24,15,16,20130629
 16,12,Stay,Rihanna Featuring Mikky Ekko,Rihanna,pop,pop,20130223,57,3,32,20130629
 17,14,When I Was Your Man,Bruno Mars,Bruno Mars,pop,pop,20130126,89,1,32,20130629
@@ -2628,7 +2628,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 27,11,We Can't Stop,Miley Cyrus,Miley Cyrus,pop,pop,20130622,11,2,26,20130629
 28,27,Crash My Party,Luke Bryan,Luke Bryan,country / folk,country,20130427,18,18,21,20130629
 29,25,Highway Don't Care,Tim Mcgraw With Taylor Swift,Tim Mcgraw With Taylor Swift,country / folk,country,20130323,84,22,19,20130629
-30,38,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,pop,electronic,20130504,76,16,25,20130629
+30,38,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,electronic,electronic,20130504,76,16,25,20130629
 31,36,I Want Crazy,Hunter Hayes,Hunter Hayes,country / folk,country,20130427,43,19,20,20130629
 32,26,22,Taylor Swift,Taylor Swift,country / folk,country,20130330,64,20,18,20130629
 33,51,Same Love,Macklemore & Ryan Lewis Featuring Mary Lambert,Macklemore & Ryan Lewis,hip-hop,hip-hop,20130413,93,11,28,20130629
@@ -2639,7 +2639,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 38,43,Rich As Fuck,Lil Wayne Featuring 2 Chainz,Lil Wayne,hip-hop,rap,20130406,78,38,20,20130629
 39,44,Ho Hey,The Lumineers,The Lumineers,country / folk,folk,20120623,90,3,62,20130629
 40,46,Body Party,Ciara,Ciara,rnb / soul,rnb,20130511,35,22,20,20130629
-41,47,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20130629
+41,47,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20130629
 42,41,"Bitch, Don't Kill My Vibe",Kendrick Lamar,Kendrick Lamar,hip-hop,hip-hop,20130406,84,32,17,20130629
 43,50,"Gone, Gone, Gone",Phillip Phillips,Phillip Phillips,country / folk,folk,20130323,100,24,30,20130629
 44,39,Suit & Tie,Justin Timberlake Featuring Jay Z,Justin Timberlake,pop,pop,20130126,84,3,26,20130629
@@ -2654,7 +2654,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 53,55,DONE.,The Band Perry,The Band Perry,country / folk,country,20130330,87,43,20,20130629
 54,33,#thatPOWER,Will.I.Am Featuring Justin Bieber,Will.I.Am,hip-hop,hip-hop,20130406,42,17,16,20130629
 55,28,We Own It (Fast & Furious),2 Chainz & Wiz Khalifa,2 Chainz,hip-hop,hip-hop,20130608,61,16,7,20130629
-56,65,Safe And Sound,Capital Cities,Capital Cities,pop,electronic,20130518,99,8,43,20130629
+56,65,Safe And Sound,Capital Cities,Capital Cities,electronic,electronic,20130518,99,8,43,20130629
 57,48,Fine China,Chris Brown,Chris Brown,rnb / soul,rnb,20130420,52,31,16,20130629
 58,76,Don't Ya,Brett Eldredge,Brett Eldredge,country / folk,country,20130608,95,30,20,20130629
 59,68,Tapout,"Rich Gang Featuring Lil Wayne, Birdman, Future, Mack Maine",Rich Gang,hip-hop,hip-hop,20130525,100,44,20,20130629
@@ -2698,17 +2698,17 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 97,NEW,Bubble Butt,"Major Lazer Featuring Bruno Mars, Tyga & Mystic",Major Lazer,pop,seen live,20130629,97,56,9,20130629
 98,96,Ready,Fabolous Featuring Chris Brown,Fabolous,hip-hop,hip-hop,20130615,100,96,3,20130629
 99,88,Play Hard,David Guetta Featuring Ne-Yo & Akon,David Guetta,electronic,house,20130608,76,64,4,20130629
-100,NEW,Beneath Your Beautiful,Labrinth Featuring Emeli Sande,Labrinth,pop,electronic,20130629,100,100,1,20130629
+100,NEW,Beneath Your Beautiful,Labrinth Featuring Emeli Sande,Labrinth,electronic,electronic,20130629,100,100,1,20130629
 1,6,Blurred Lines,Robin Thicke Featuring T.I. & Pharrell,Robin Thicke,rnb / soul,soul,20130504,94,1,48,20130622
 2,1,Can't Hold Us,Macklemore & Ryan Lewis Featuring Ray Dalton,Macklemore & Ryan Lewis,hip-hop,hip-hop,20130309,92,1,37,20130622
-3,3,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,pop,electronic,20130504,19,2,29,20130622
+3,3,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,electronic,electronic,20130504,19,2,29,20130622
 4,2,Mirrors,Justin Timberlake,Justin Timberlake,pop,pop,20130302,24,2,42,20130622
 5,5,Cruise,Florida Georgia Line Featuring Nelly,Florida Georgia Line,country / folk,country,20130420,8,4,28,20130622
 6,8,Radioactive,Imagine Dragons,Imagine Dragons,rock,indie,20120929,91,3,85,20130622
 7,4,Just Give Me A Reason,P!Nk Featuring Nate Ruess,P!Nk,pop,pop,20130302,84,1,36,20130622
 8,7,Come & Get It,Selena Gomez,Selena Gomez,pop,pop,20130427,45,6,22,20130622
 9,12,The Way,Ariana Grande Featuring Mac Miller,Ariana Grande,pop,pop,20130413,10,9,26,20130622
-10,9,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,pop,electronic,20130216,69,7,29,20130622
+10,9,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,electronic,electronic,20130216,69,7,29,20130622
 11,NEW,We Can't Stop,Miley Cyrus,Miley Cyrus,pop,pop,20130622,11,2,26,20130622
 12,10,Stay,Rihanna Featuring Mikky Ekko,Rihanna,pop,pop,20130223,57,3,32,20130622
 13,13,Boys Round Here,Blake Shelton Featuring Pistol Annies & Friends,Blake Shelton,country / folk,country,20130413,67,12,21,20130622
@@ -2722,7 +2722,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 21,32,Bad,Wale Featuring Tiara Thomas,Wale,hip-hop,hip-hop,20130309,70,21,25,20130622
 22,27,Cups,Anna Kendrick,Anna Kendrick,pop,pop,20130112,93,6,44,20130622
 23,20,Power Trip,J. Cole Featuring Miguel,J. Cole,hip-hop,hip-hop,20130302,91,19,29,20130622
-24,29,Clarity,Zedd Featuring Foxes,Zedd,pop,electronic,20130406,86,8,33,20130622
+24,29,Clarity,Zedd Featuring Foxes,Zedd,electronic,electronic,20130406,86,8,33,20130622
 25,22,Highway Don't Care,Tim Mcgraw With Taylor Swift,Tim Mcgraw With Taylor Swift,country / folk,country,20130323,84,22,19,20130622
 26,24,22,Taylor Swift,Taylor Swift,country / folk,country,20130330,64,20,18,20130622
 27,31,Crash My Party,Luke Bryan,Luke Bryan,country / folk,country,20130427,18,18,21,20130622
@@ -2736,7 +2736,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 35,37,Love Somebody,Maroon 5,Maroon 5,rock,rock,20130608,54,10,21,20130622
 36,48,I Want Crazy,Hunter Hayes,Hunter Hayes,country / folk,country,20130427,43,19,20,20130622
 37,NEW,Wasting All These Tears,Cassadee Pope,Cassadee Pope,rock,pop rock,20130622,37,37,1,20130622
-38,42,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,pop,electronic,20130504,76,16,25,20130622
+38,42,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,electronic,electronic,20130504,76,16,25,20130622
 39,33,Suit & Tie,Justin Timberlake Featuring Jay Z,Justin Timberlake,pop,pop,20130126,84,3,26,20130622
 40,35,Love Me,Lil Wayne Featuring Drake & Future,Lil Wayne,hip-hop,rap,20130202,53,9,22,20130622
 41,40,"Bitch, Don't Kill My Vibe",Kendrick Lamar,Kendrick Lamar,hip-hop,hip-hop,20130406,84,32,17,20130622
@@ -2745,7 +2745,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 44,38,Ho Hey,The Lumineers,The Lumineers,country / folk,folk,20120623,90,3,62,20130622
 45,36,U.O.E.N.O.,Rocko Featuring Future & Rick Ross,Rocko,hip-hop,rap,20130427,99,20,20,20130622
 46,47,Body Party,Ciara,Ciara,rnb / soul,rnb,20130511,35,22,20,20130622
-47,44,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20130622
+47,44,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20130622
 48,39,Fine China,Chris Brown,Chris Brown,rnb / soul,rnb,20130420,52,31,16,20130622
 49,46,Locked Out Of Heaven,Bruno Mars,Bruno Mars,pop,pop,20121020,34,1,36,20130622
 50,52,"Gone, Gone, Gone",Phillip Phillips,Phillip Phillips,country / folk,folk,20130323,100,24,30,20130622
@@ -2763,7 +2763,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 62,76,See You Again,Carrie Underwood,Carrie Underwood,country / folk,country,20130518,90,34,20,20130622
 63,54,Harlem Shake,Baauer,Baauer,hip-hop,trap,20130302,1,1,20,20130622
 64,50,Young And Beautiful,Lana Del Rey,Lana Del Rey,pop,female vocalists,20130511,82,22,13,20130622
-65,74,Safe And Sound,Capital Cities,Capital Cities,pop,electronic,20130518,99,8,43,20130622
+65,74,Safe And Sound,Capital Cities,Capital Cities,electronic,electronic,20130518,99,8,43,20130622
 66,67,Hey Pretty Girl,Kip Moore,Kip Moore,country / folk,country,20130406,97,41,20,20130622
 67,63,Like Jesus Does,Eric Church,Eric Church,country / folk,country,20130309,99,59,17,20130622
 68,72,Tapout,"Rich Gang Featuring Lil Wayne, Birdman, Future, Mack Maine",Rich Gang,hip-hop,hip-hop,20130525,100,44,20,20130622
@@ -2801,13 +2801,13 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 100,NEW,Work,A$Ap Ferg,A$Ap Ferg,hip-hop,hip-hop,20130622,100,100,1,20130622
 1,1,Can't Hold Us,Macklemore & Ryan Lewis Featuring Ray Dalton,Macklemore & Ryan Lewis,hip-hop,hip-hop,20130309,92,1,37,20130615
 2,3,Mirrors,Justin Timberlake,Justin Timberlake,pop,pop,20130302,24,2,42,20130615
-3,4,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,pop,electronic,20130504,19,2,29,20130615
+3,4,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,electronic,electronic,20130504,19,2,29,20130615
 4,2,Just Give Me A Reason,P!Nk Featuring Nate Ruess,P!Nk,pop,pop,20130302,84,1,36,20130615
 5,5,Cruise,Florida Georgia Line Featuring Nelly,Florida Georgia Line,country / folk,country,20130420,8,4,28,20130615
 6,11,Blurred Lines,Robin Thicke Featuring T.I. & Pharrell,Robin Thicke,rnb / soul,soul,20130504,94,1,48,20130615
 7,6,Come & Get It,Selena Gomez,Selena Gomez,pop,pop,20130427,45,6,22,20130615
 8,9,Radioactive,Imagine Dragons,Imagine Dragons,rock,indie,20120929,91,3,85,20130615
-9,7,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,pop,electronic,20130216,69,7,29,20130615
+9,7,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,electronic,electronic,20130216,69,7,29,20130615
 10,8,Stay,Rihanna Featuring Mikky Ekko,Rihanna,pop,pop,20130223,57,3,32,20130615
 11,10,When I Was Your Man,Bruno Mars,Bruno Mars,pop,pop,20130126,89,1,32,20130615
 12,13,The Way,Ariana Grande Featuring Mac Miller,Ariana Grande,pop,pop,20130413,10,9,26,20130615
@@ -2827,7 +2827,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 26,24,Started From The Bottom,Drake,Drake,hip-hop,hip-hop,20130223,63,6,22,20130615
 27,30,Cups,Anna Kendrick,Anna Kendrick,pop,pop,20130112,93,6,44,20130615
 28,25,Next To Me,Emeli Sande,Emeli Sande,rnb / soul,soul,20130309,89,25,20,20130615
-29,28,Clarity,Zedd Featuring Foxes,Zedd,pop,electronic,20130406,86,8,33,20130615
+29,28,Clarity,Zedd Featuring Foxes,Zedd,electronic,electronic,20130406,86,8,33,20130615
 30,37,The Other Side,Jason Derulo,Jason Derulo,rnb / soul,rnb,20130504,75,18,21,20130615
 31,41,Crash My Party,Luke Bryan,Luke Bryan,country / folk,country,20130427,18,18,21,20130615
 32,32,Bad,Wale Featuring Tiara Thomas,Wale,hip-hop,hip-hop,20130309,70,21,25,20130615
@@ -2840,9 +2840,9 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 39,31,Fine China,Chris Brown,Chris Brown,rnb / soul,rnb,20130420,52,31,16,20130615
 40,39,"Bitch, Don't Kill My Vibe",Kendrick Lamar,Kendrick Lamar,hip-hop,hip-hop,20130406,84,32,17,20130615
 41,45,Rich As Fuck,Lil Wayne Featuring 2 Chainz,Lil Wayne,hip-hop,rap,20130406,78,38,20,20130615
-42,51,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,pop,electronic,20130504,76,16,25,20130615
+42,51,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,electronic,electronic,20130504,76,16,25,20130615
 43,48,I Knew You Were Trouble.,Taylor Swift,Taylor Swift,country / folk,country,20121117,59,2,34,20130615
-44,49,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20130615
+44,49,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20130615
 45,40,Get Your Shine On,Florida Georgia Line,Florida Georgia Line,country / folk,country,20130209,96,27,20,20130615
 46,44,Locked Out Of Heaven,Bruno Mars,Bruno Mars,pop,pop,20121020,34,1,36,20130615
 47,50,Body Party,Ciara,Ciara,rnb / soul,rnb,20130511,35,22,20,20130615
@@ -2872,7 +2872,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 71,60,Live It Up,Jennifer Lopez Featuring Pitbull,Jennifer Lopez,pop,pop,20130525,73,60,6,20130615
 72,78,Tapout,"Rich Gang Featuring Lil Wayne, Birdman, Future, Mack Maine",Rich Gang,hip-hop,hip-hop,20130525,100,44,20,20130615
 73,73,Demons,Imagine Dragons,Imagine Dragons,rock,indie,20130511,96,59,15,20130615
-74,81,Safe And Sound,Capital Cities,Capital Cities,pop,electronic,20130518,99,8,43,20130615
+74,81,Safe And Sound,Capital Cities,Capital Cities,electronic,electronic,20130518,99,8,43,20130615
 75,70,Troublemaker,Olly Murs Featuring Flo Rida,Olly Murs,pop,pop,20130202,87,25,20,20130615
 76,79,See You Again,Carrie Underwood,Carrie Underwood,country / folk,country,20130518,90,34,20,20130615
 77,97,People Like Us,Kelly Clarkson,Kelly Clarkson,pop,pop,20130601,99,65,10,20130615
@@ -2902,10 +2902,10 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 1,1,Can't Hold Us,Macklemore & Ryan Lewis Featuring Ray Dalton,Macklemore & Ryan Lewis,hip-hop,hip-hop,20130309,92,1,37,20130608
 2,2,Just Give Me A Reason,P!Nk Featuring Nate Ruess,P!Nk,pop,pop,20130302,84,1,36,20130608
 3,3,Mirrors,Justin Timberlake,Justin Timberlake,pop,pop,20130302,24,2,42,20130608
-4,10,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,pop,electronic,20130504,19,2,29,20130608
+4,10,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,electronic,electronic,20130504,19,2,29,20130608
 5,6,Cruise,Florida Georgia Line Featuring Nelly,Florida Georgia Line,country / folk,country,20130420,8,4,28,20130608
 6,7,Come & Get It,Selena Gomez,Selena Gomez,pop,pop,20130427,45,6,22,20130608
-7,9,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,pop,electronic,20130216,69,7,29,20130608
+7,9,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,electronic,electronic,20130216,69,7,29,20130608
 8,5,Stay,Rihanna Featuring Mikky Ekko,Rihanna,pop,pop,20130223,57,3,32,20130608
 9,8,Radioactive,Imagine Dragons,Imagine Dragons,rock,indie,20120929,91,3,85,20130608
 10,4,When I Was Your Man,Bruno Mars,Bruno Mars,pop,pop,20130126,89,1,32,20130608
@@ -2926,7 +2926,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 25,28,Next To Me,Emeli Sande,Emeli Sande,rnb / soul,soul,20130309,89,25,20,20130608
 26,NEW,Clouds,Zach Sobiech,Zach Sobiech,country / folk,singer-songwriter,20130608,26,26,2,20130608
 27,25,Suit & Tie,Justin Timberlake Featuring Jay Z,Justin Timberlake,pop,pop,20130126,84,3,26,20130608
-28,30,Clarity,Zedd Featuring Foxes,Zedd,pop,electronic,20130406,86,8,33,20130608
+28,30,Clarity,Zedd Featuring Foxes,Zedd,electronic,electronic,20130406,86,8,33,20130608
 29,27,Love Me,Lil Wayne Featuring Drake & Future,Lil Wayne,hip-hop,rap,20130202,53,9,22,20130608
 30,36,Cups,Anna Kendrick,Anna Kendrick,pop,pop,20130112,93,6,44,20130608
 31,34,Fine China,Chris Brown,Chris Brown,rnb / soul,rnb,20130420,52,31,16,20130608
@@ -2947,9 +2947,9 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 46,49,Gentleman,Psy,Psy,pop,k-pop,20130427,12,5,15,20130608
 47,39,Daylight,Maroon 5,Maroon 5,rock,rock,20121222,77,7,25,20130608
 48,41,I Knew You Were Trouble.,Taylor Swift,Taylor Swift,country / folk,country,20121117,59,2,34,20130608
-49,47,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20130608
+49,47,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20130608
 50,51,Body Party,Ciara,Ciara,rnb / soul,rnb,20130511,35,22,20,20130608
-51,58,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,pop,electronic,20130504,76,16,25,20130608
+51,58,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,electronic,electronic,20130504,76,16,25,20130608
 52,56,I Want Crazy,Hunter Hayes,Hunter Hayes,country / folk,country,20130427,43,19,20,20130608
 53,50,Harlem Shake,Baauer,Baauer,hip-hop,trap,20130302,1,1,20,20130608
 54,NEW,Love Somebody,Maroon 5,Maroon 5,rock,rock,20130608,54,10,21,20130608
@@ -2979,14 +2979,14 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 78,83,Tapout,"Rich Gang Featuring Lil Wayne, Birdman, Future, Mack Maine",Rich Gang,hip-hop,hip-hop,20130525,100,44,20,20130608
 79,81,See You Again,Carrie Underwood,Carrie Underwood,country / folk,country,20130518,90,34,20,20130608
 80,80,Wild For The Night,A$Ap Rocky Featuring Skrillex,A$Ap Rocky,hip-hop,hip-hop,20130413,96,80,14,20130608
-81,90,Safe And Sound,Capital Cities,Capital Cities,pop,electronic,20130518,99,8,43,20130608
+81,90,Safe And Sound,Capital Cities,Capital Cities,electronic,electronic,20130518,99,8,43,20130608
 82,84,Levitate,Hadouken!,Hadouken!,pop,new rave,20130316,99,69,15,20130608
 83,91,Jump Right In,Zac Brown Band,Zac Brown Band,country / folk,country,20130511,99,53,15,20130608
 84,82,How Many Drinks?,Miguel,Miguel,rnb / soul,rnb,20130504,88,69,20,20130608
 85,85,More Than Miles,Brantley Gilbert,Brantley Gilbert,country / folk,country,20130316,98,73,19,20130608
 86,73,Love And War,Tamar Braxton,Tamar Braxton,rnb / soul,rnb,20130223,98,68,18,20130608
 87,79,Loveeeeeee Song,Rihanna Featuring Future Unapologetic,Rihanna,pop,pop,20130216,100,55,20,20130608
-88,NEW,Beneath Your Beautiful,Labrinth Featuring Emeli Sande,Labrinth,pop,electronic,20130608,88,88,1,20130608
+88,NEW,Beneath Your Beautiful,Labrinth Featuring Emeli Sande,Labrinth,electronic,electronic,20130608,88,88,1,20130608
 89,95,All Over The Road,Easton Corbin,Easton Corbin,country / folk,country,20130525,98,51,20,20130608
 90,89,Molly,"Tyga Featuring Cedric Gervais, Wiz Khalifa & Mally Mall",Tyga,hip-hop,hip-hop,20130406,66,66,12,20130608
 91,NEW,"Heads Carolina, Tails California",Danielle Bradbery,Danielle Bradbery,country / folk,country,20130608,91,91,1,20130608
@@ -3007,8 +3007,8 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 6,10,Cruise,Florida Georgia Line Featuring Nelly,Florida Georgia Line,country / folk,country,20130420,8,4,28,20130601
 7,6,Come & Get It,Selena Gomez,Selena Gomez,pop,pop,20130427,45,6,22,20130601
 8,8,Radioactive,Imagine Dragons,Imagine Dragons,rock,indie,20120929,91,3,85,20130601
-9,9,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,pop,electronic,20130216,69,7,29,20130601
-10,15,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,pop,electronic,20130504,19,2,29,20130601
+9,9,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,electronic,electronic,20130216,69,7,29,20130601
+10,15,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,electronic,electronic,20130504,19,2,29,20130601
 11,7,Thrift Shop,Macklemore & Ryan Lewis Featuring Wanz,Macklemore & Ryan Lewis,hip-hop,hip-hop,20121027,96,1,48,20130601
 12,54,Blurred Lines,Robin Thicke Featuring T.I. & Pharrell,Robin Thicke,rnb / soul,soul,20130504,94,1,48,20130601
 13,12,The Way,Ariana Grande Featuring Mac Miller,Ariana Grande,pop,pop,20130413,10,9,26,20130601
@@ -3028,7 +3028,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 27,22,Love Me,Lil Wayne Featuring Drake & Future,Lil Wayne,hip-hop,rap,20130202,53,9,22,20130601
 28,26,Next To Me,Emeli Sande,Emeli Sande,rnb / soul,soul,20130309,89,25,20,20130601
 29,27,Bad,Wale Featuring Tiara Thomas,Wale,hip-hop,hip-hop,20130309,70,21,25,20130601
-30,41,Clarity,Zedd Featuring Foxes,Zedd,pop,electronic,20130406,86,8,33,20130601
+30,41,Clarity,Zedd Featuring Foxes,Zedd,electronic,electronic,20130406,86,8,33,20130601
 31,30,Here's To Never Growing Up,Avril Lavigne,Avril Lavigne,pop,pop,20130427,52,20,15,20130601
 32,58,"Bitch, Don't Kill My Vibe",Kendrick Lamar,Kendrick Lamar,hip-hop,hip-hop,20130406,84,32,17,20130601
 33,28,Ho Hey,The Lumineers,The Lumineers,country / folk,folk,20120623,90,3,62,20130601
@@ -3045,7 +3045,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 44,35,Alive,Krewella,Krewella,electronic,dubstep,20130302,99,32,20,20130601
 45,52,U.O.E.N.O.,Rocko Featuring Future & Rick Ross,Rocko,hip-hop,rap,20130427,99,20,20,20130601
 46,45,Rich As Fuck,Lil Wayne Featuring 2 Chainz,Lil Wayne,hip-hop,rap,20130406,78,38,20,20130601
-47,37,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20130601
+47,37,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20130601
 48,51,Crash My Party,Luke Bryan,Luke Bryan,country / folk,country,20130427,18,18,21,20130601
 49,39,Gentleman,Psy,Psy,pop,k-pop,20130427,12,5,15,20130601
 50,38,Harlem Shake,Baauer,Baauer,hip-hop,trap,20130302,1,1,20,20130601
@@ -3056,7 +3056,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 55,47,Carry On,Fun.,Fun.,pop,indie pop,20130119,100,20,20,20130601
 56,57,I Want Crazy,Hunter Hayes,Hunter Hayes,country / folk,country,20130427,43,19,20,20130601
 57,60,"Gone, Gone, Gone",Phillip Phillips,Phillip Phillips,country / folk,folk,20130323,100,24,30,20130601
-58,67,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,pop,electronic,20130504,76,16,25,20130601
+58,67,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,electronic,electronic,20130504,76,16,25,20130601
 59,62,DONE.,The Band Perry,The Band Perry,country / folk,country,20130330,87,43,20,20130601
 60,43,Troublemaker,Olly Murs Featuring Flo Rida,Olly Murs,pop,pop,20130202,87,25,20,20130601
 61,53,Pour It Up,Rihanna,Rihanna,pop,pop,20130119,90,19,20,20130601
@@ -3088,7 +3088,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 87,79,Wings,Little Mix,Little Mix,pop,pop,20130420,98,79,9,20130601
 88,77,Kisses Down Low,Kelly Rowland,Kelly Rowland,rnb / soul,rnb,20130504,80,77,7,20130601
 89,89,Molly,"Tyga Featuring Cedric Gervais, Wiz Khalifa & Mally Mall",Tyga,hip-hop,hip-hop,20130406,66,66,12,20130601
-90,97,Safe And Sound,Capital Cities,Capital Cities,pop,electronic,20130518,99,8,43,20130601
+90,97,Safe And Sound,Capital Cities,Capital Cities,electronic,electronic,20130518,99,8,43,20130601
 91,96,Jump Right In,Zac Brown Band,Zac Brown Band,country / folk,country,20130511,99,53,15,20130601
 92,88,Karate Chop (Remix),Future Featuring Lil Wayne,Future,hip-hop,hip-hop,20130406,93,82,10,20130601
 93,NEW,I Am Beautiful,Candice Glover,Candice Glover,rnb / soul,soul,20130601,93,93,1,20130601
@@ -3107,13 +3107,13 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 6,14,Come & Get It,Selena Gomez,Selena Gomez,pop,pop,20130427,45,6,22,20130525
 7,6,Thrift Shop,Macklemore & Ryan Lewis Featuring Wanz,Macklemore & Ryan Lewis,hip-hop,hip-hop,20121027,96,1,48,20130525
 8,8,Radioactive,Imagine Dragons,Imagine Dragons,rock,indie,20120929,91,3,85,20130525
-9,7,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,pop,electronic,20130216,69,7,29,20130525
+9,7,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,electronic,electronic,20130216,69,7,29,20130525
 10,9,Cruise,Florida Georgia Line Featuring Nelly,Florida Georgia Line,country / folk,country,20130420,8,4,28,20130525
 11,12,Heart Attack,Demi Lovato,Demi Lovato,pop,pop,20130316,12,10,20,20130525
 12,15,The Way,Ariana Grande Featuring Mac Miller,Ariana Grande,pop,pop,20130413,10,9,26,20130525
 13,10,Feel This Moment,Pitbull Featuring Christina Aguilera,Pitbull,hip-hop,hip-hop,20130209,99,8,24,20130525
 14,11,Started From The Bottom,Drake,Drake,hip-hop,hip-hop,20130223,63,6,22,20130525
-15,17,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,pop,electronic,20130504,19,2,29,20130525
+15,17,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,electronic,electronic,20130504,19,2,29,20130525
 16,18,My Songs Know What You Did In The Dark (Light Em Up),Fall Out Boy,Fall Out Boy,pop,pop punk,20130223,26,13,26,20130525
 17,13,Suit & Tie,Justin Timberlake Featuring Jay Z,Justin Timberlake,pop,pop,20130126,84,3,26,20130525
 18,16,Wagon Wheel,Darius Rucker,Darius Rucker,country / folk,country,20130302,95,15,25,20130525
@@ -3135,11 +3135,11 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 34,28,Daylight,Maroon 5,Maroon 5,rock,rock,20121222,77,7,25,20130525
 35,32,Alive,Krewella,Krewella,electronic,dubstep,20130302,99,32,20,20130525
 36,35,I Knew You Were Trouble.,Taylor Swift,Taylor Swift,country / folk,country,20121117,59,2,34,20130525
-37,40,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20130525
+37,40,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20130525
 38,30,Harlem Shake,Baauer,Baauer,hip-hop,trap,20130302,1,1,20,20130525
 39,33,Gentleman,Psy,Psy,pop,k-pop,20130427,12,5,15,20130525
 40,42,Fine China,Chris Brown,Chris Brown,rnb / soul,rnb,20130420,52,31,16,20130525
-41,58,Clarity,Zedd Featuring Foxes,Zedd,pop,electronic,20130406,86,8,33,20130525
+41,58,Clarity,Zedd Featuring Foxes,Zedd,electronic,electronic,20130406,86,8,33,20130525
 42,37,Scream & Shout,Will.I.Am Featuring Britney Spears,Will.I.Am,hip-hop,hip-hop,20121215,12,3,24,20130525
 43,36,Troublemaker,Olly Murs Featuring Flo Rida,Olly Murs,pop,pop,20130202,87,25,20,20130525
 44,52,Cups,Anna Kendrick,Anna Kendrick,pop,pop,20130112,93,6,44,20130525
@@ -3147,7 +3147,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 46,47,Pirate Flag,Kenny Chesney,Kenny Chesney,country / folk,country,20130223,68,46,18,20130525
 47,39,Carry On,Fun.,Fun.,pop,indie pop,20130119,100,20,20,20130525
 48,45,Downtown,Lady Antebellum,Lady Antebellum,country / folk,country,20130223,45,29,20,20130525
-49,41,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,pop,electronic,20121201,97,10,26,20130525
+49,41,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,electronic,electronic,20121201,97,10,26,20130525
 50,65,The Other Side,Jason Derulo,Jason Derulo,rnb / soul,rnb,20130504,75,18,21,20130525
 51,51,Crash My Party,Luke Bryan,Luke Bryan,country / folk,country,20130427,18,18,21,20130525
 52,55,U.O.E.N.O.,Rocko Featuring Future & Rick Ross,Rocko,hip-hop,rap,20130427,99,20,20,20130525
@@ -3165,7 +3165,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 64,91,Demons,Imagine Dragons,Imagine Dragons,rock,indie,20130511,96,59,15,20130525
 65,66,Like Jesus Does,Eric Church,Eric Church,country / folk,country,20130309,99,59,17,20130525
 66,61,Sure Be Cool If You Did,Blake Shelton,Blake Shelton,country / folk,country,20130126,44,24,20,20130525
-67,71,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,pop,electronic,20130504,76,16,25,20130525
+67,71,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,electronic,electronic,20130504,76,16,25,20130525
 68,67,We Still In This B****,B.O.B Featuring T.I. & Juicy J,B.O.B,hip-hop,hip-hop,20130309,97,64,19,20130525
 69,68,Beat This Summer,Brad Paisley,Brad Paisley,country / folk,country,20130406,99,46,19,20130525
 70,69,Anywhere With You,Jake Owen,Jake Owen,country / folk,country,20130406,92,46,20,20130525
@@ -3195,7 +3195,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 94,89,High School,Nicki Minaj Featuring Lil Wayne,Nicki Minaj,hip-hop,hip-hop,20130420,83,64,14,20130525
 95,81,I Drive Your Truck,Lee Brice,Lee Brice,country / folk,country,20130119,91,47,20,20130525
 96,96,Jump Right In,Zac Brown Band,Zac Brown Band,country / folk,country,20130511,99,53,15,20130525
-97,99,Safe And Sound,Capital Cities,Capital Cities,pop,electronic,20130518,99,8,43,20130525
+97,99,Safe And Sound,Capital Cities,Capital Cities,electronic,electronic,20130518,99,8,43,20130525
 98,NEW,All Over The Road,Easton Corbin,Easton Corbin,country / folk,country,20130525,98,51,20,20130525
 99,92,R.I.P.,Young Jeezy Featuring 2 Chainz,Young Jeezy,hip-hop,rap,20130223,69,58,14,20130525
 100,NEW,Tapout,"Rich Gang Featuring Lil Wayne, Birdman, Future, Mack Maine",Rich Gang,hip-hop,hip-hop,20130525,100,44,20,20130525
@@ -3205,7 +3205,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 4,3,Stay,Rihanna Featuring Mikky Ekko,Rihanna,pop,pop,20130223,57,3,32,20130518
 5,6,When I Was Your Man,Bruno Mars,Bruno Mars,pop,pop,20130126,89,1,32,20130518
 6,4,Thrift Shop,Macklemore & Ryan Lewis Featuring Wanz,Macklemore & Ryan Lewis,hip-hop,hip-hop,20121027,96,1,48,20130518
-7,9,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,pop,electronic,20130216,69,7,29,20130518
+7,9,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,electronic,electronic,20130216,69,7,29,20130518
 8,10,Radioactive,Imagine Dragons,Imagine Dragons,rock,indie,20120929,91,3,85,20130518
 9,13,Cruise,Florida Georgia Line Featuring Nelly,Florida Georgia Line,country / folk,country,20130420,8,4,28,20130518
 10,8,Feel This Moment,Pitbull Featuring Christina Aguilera,Pitbull,hip-hop,hip-hop,20130209,99,8,24,20130518
@@ -3215,7 +3215,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 14,23,Come & Get It,Selena Gomez,Selena Gomez,pop,pop,20130427,45,6,22,20130518
 15,19,The Way,Ariana Grande Featuring Mac Miller,Ariana Grande,pop,pop,20130413,10,9,26,20130518
 16,18,Wagon Wheel,Darius Rucker,Darius Rucker,country / folk,country,20130302,95,15,25,20130518
-17,14,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,pop,electronic,20130504,19,2,29,20130518
+17,14,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,electronic,electronic,20130504,19,2,29,20130518
 18,15,My Songs Know What You Did In The Dark (Light Em Up),Fall Out Boy,Fall Out Boy,pop,pop punk,20130223,26,13,26,20130518
 19,17,#thatPOWER,Will.I.Am Featuring Justin Bieber,Will.I.Am,hip-hop,hip-hop,20130406,42,17,16,20130518
 20,21,Power Trip,J. Cole Featuring Miguel,J. Cole,hip-hop,hip-hop,20130302,91,19,29,20130518
@@ -3238,8 +3238,8 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 37,37,Scream & Shout,Will.I.Am Featuring Britney Spears,Will.I.Am,hip-hop,hip-hop,20121215,12,3,24,20130518
 38,44,Bugatti,Ace Hood Featuring Future & Rick Ross,Ace Hood,hip-hop,rap,20130302,77,33,20,20130518
 39,30,Carry On,Fun.,Fun.,pop,indie pop,20130119,100,20,20,20130518
-40,41,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20130518
-41,40,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,pop,electronic,20121201,97,10,26,20130518
+40,41,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20130518
+41,40,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,electronic,electronic,20121201,97,10,26,20130518
 42,48,Fine China,Chris Brown,Chris Brown,rnb / soul,rnb,20130420,52,31,16,20130518
 43,45,F**kin Problems,"A$Ap Rocky Featuring Drake, 2 Chainz & Kendrick Lamar",A$Ap Rocky,hip-hop,hip-hop,20121117,73,8,27,20130518
 44,42,Pour It Up,Rihanna,Rihanna,pop,pop,20130119,90,19,20,20130518
@@ -3256,7 +3256,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 55,69,U.O.E.N.O.,Rocko Featuring Future & Rick Ross,Rocko,hip-hop,rap,20130427,99,20,20,20130518
 56,55,No New Friends,"Dj Khaled Featuring Drake, Rick Ross & Lil Wayne",Dj Khaled,hip-hop,hip-hop,20130511,55,37,19,20130518
 57,54,1994,Jason Aldean,Jason Aldean,country / folk,country,20130330,93,52,11,20130518
-58,64,Clarity,Zedd Featuring Foxes,Zedd,pop,electronic,20130406,86,8,33,20130518
+58,64,Clarity,Zedd Featuring Foxes,Zedd,electronic,electronic,20130406,86,8,33,20130518
 59,58,Give It All We Got Tonight,George Strait,George Strait,country / folk,country,20130202,98,43,18,20130518
 60,66,Here's To Never Growing Up,Avril Lavigne,Avril Lavigne,pop,pop,20130427,52,20,15,20130518
 61,53,Sure Be Cool If You Did,Blake Shelton,Blake Shelton,country / folk,country,20130126,44,24,20,20130518
@@ -3269,7 +3269,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 68,68,Beat This Summer,Brad Paisley,Brad Paisley,country / folk,country,20130406,99,46,19,20130518
 69,70,Anywhere With You,Jake Owen,Jake Owen,country / folk,country,20130406,92,46,20,20130518
 70,89,Blurred Lines,Robin Thicke Featuring T.I. & Pharrell,Robin Thicke,rnb / soul,soul,20130504,94,1,48,20130518
-71,77,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,pop,electronic,20130504,76,16,25,20130518
+71,77,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,electronic,electronic,20130504,76,16,25,20130518
 72,71,Love And War,Tamar Braxton,Tamar Braxton,rnb / soul,rnb,20130223,98,68,18,20130518
 73,73,Loveeeeeee Song,Rihanna Featuring Future Unapologetic,Rihanna,pop,pop,20130216,100,55,20,20130518
 74,NEW,I Hit It First,Ray J Featuring Bobby Brackins,Ray J,rnb / soul,rnb,20130518,74,74,1,20130518
@@ -3297,7 +3297,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 96,99,Jump Right In,Zac Brown Band,Zac Brown Band,country / folk,country,20130511,99,53,15,20130518
 97,NEW,Sexy People (The Fiat Song),Arianna Featuring Pitbull,Arianna,pop,méxico,20130518,97,97,1,20130518
 98,88,Memories Back Then,"Hustle Gang Feat T.I., B.O.B, Kendrick Lamar & Kris Stephens",Hustle Gang Feat T.I.,pop,unknown,20130511,88,88,2,20130518
-99,NEW,Safe And Sound,Capital Cities,Capital Cities,pop,electronic,20130518,99,8,43,20130518
+99,NEW,Safe And Sound,Capital Cities,Capital Cities,electronic,electronic,20130518,99,8,43,20130518
 100,98,Freaks,French Montana Featuring Nicki Minaj,French Montana,hip-hop,hip-hop,20130504,99,98,3,20130518
 1,1,Just Give Me A Reason,P!Nk Featuring Nate Ruess,P!Nk,pop,pop,20130302,84,1,36,20130511
 2,2,Can't Hold Us,Macklemore & Ryan Lewis Featuring Ray Dalton,Macklemore & Ryan Lewis,hip-hop,hip-hop,20130309,92,1,37,20130511
@@ -3307,12 +3307,12 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 6,4,When I Was Your Man,Bruno Mars,Bruno Mars,pop,pop,20130126,89,1,32,20130511
 7,8,Suit & Tie,Justin Timberlake Featuring Jay Z,Justin Timberlake,pop,pop,20130126,84,3,26,20130511
 8,9,Feel This Moment,Pitbull Featuring Christina Aguilera,Pitbull,hip-hop,hip-hop,20130209,99,8,24,20130511
-9,13,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,pop,electronic,20130216,69,7,29,20130511
+9,13,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,electronic,electronic,20130216,69,7,29,20130511
 10,12,Radioactive,Imagine Dragons,Imagine Dragons,rock,indie,20120929,91,3,85,20130511
 11,10,Started From The Bottom,Drake,Drake,hip-hop,hip-hop,20130223,63,6,22,20130511
 12,11,Heart Attack,Demi Lovato,Demi Lovato,pop,pop,20130316,12,10,20,20130511
 13,14,Cruise,Florida Georgia Line Featuring Nelly,Florida Georgia Line,country / folk,country,20130420,8,4,28,20130511
-14,19,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,pop,electronic,20130504,19,2,29,20130511
+14,19,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,electronic,electronic,20130504,19,2,29,20130511
 15,15,My Songs Know What You Did In The Dark (Light Em Up),Fall Out Boy,Fall Out Boy,pop,pop punk,20130223,26,13,26,20130511
 16,16,Love Me,Lil Wayne Featuring Drake & Future,Lil Wayne,hip-hop,rap,20130202,53,9,22,20130511
 17,43,#thatPOWER,Will.I.Am Featuring Justin Bieber,Will.I.Am,hip-hop,hip-hop,20130406,42,17,16,20130511
@@ -3338,8 +3338,8 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 37,34,Scream & Shout,Will.I.Am Featuring Britney Spears,Will.I.Am,hip-hop,hip-hop,20121215,12,3,24,20130511
 38,44,Alive,Krewella,Krewella,electronic,dubstep,20130302,99,32,20,20130511
 39,39,Highway Don't Care,Tim Mcgraw With Taylor Swift,Tim Mcgraw With Taylor Swift,country / folk,country,20130323,84,22,19,20130511
-40,29,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,pop,electronic,20121201,97,10,26,20130511
-41,42,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20130511
+40,29,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,electronic,electronic,20121201,97,10,26,20130511
+41,42,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20130511
 42,37,Pour It Up,Rihanna,Rihanna,pop,pop,20130119,90,19,20,20130511
 43,33,Downtown,Lady Antebellum,Lady Antebellum,country / folk,country,20130223,45,29,20,20130511
 44,45,Bugatti,Ace Hood Featuring Future & Rick Ross,Ace Hood,hip-hop,rap,20130302,77,33,20,20130511
@@ -3362,7 +3362,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 61,NEW,Brave,Sara Bareilles,Sara Bareilles,pop,female vocalists,20130511,61,61,1,20130511
 62,62,"Gone, Gone, Gone",Phillip Phillips,Phillip Phillips,country / folk,folk,20130323,100,24,30,20130511
 63,66,I Want Crazy,Hunter Hayes,Hunter Hayes,country / folk,country,20130427,43,19,20,20130511
-64,70,Clarity,Zedd Featuring Foxes,Zedd,pop,electronic,20130406,86,8,33,20130511
+64,70,Clarity,Zedd Featuring Foxes,Zedd,electronic,electronic,20130406,86,8,33,20130511
 65,61,Like Jesus Does,Eric Church,Eric Church,country / folk,country,20130309,99,59,17,20130511
 66,68,Here's To Never Growing Up,Avril Lavigne,Avril Lavigne,pop,pop,20130427,52,20,15,20130511
 67,72,We Still In This B****,B.O.B Featuring T.I. & Juicy J,B.O.B,hip-hop,hip-hop,20130309,97,64,19,20130511
@@ -3375,7 +3375,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 74,64,I Drive Your Truck,Lee Brice,Lee Brice,country / folk,country,20130119,91,47,20,20130511
 75,75,The Other Side,Jason Derulo,Jason Derulo,rnb / soul,rnb,20130504,75,18,21,20130511
 76,78,Molly,"Tyga Featuring Cedric Gervais, Wiz Khalifa & Mally Mall",Tyga,hip-hop,hip-hop,20130406,66,66,12,20130511
-77,76,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,pop,electronic,20130504,76,16,25,20130511
+77,76,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,electronic,electronic,20130504,76,16,25,20130511
 78,80,Kisses Down Low,Kelly Rowland,Kelly Rowland,rnb / soul,rnb,20130504,80,77,7,20130511
 79,77,Levitate,Hadouken!,Hadouken!,pop,new rave,20130316,99,69,15,20130511
 80,87,Lego House,Ed Sheeran,Ed Sheeran,pop,acoustic,20130413,98,42,16,20130511
@@ -3411,13 +3411,13 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 10,9,Started From The Bottom,Drake,Drake,hip-hop,hip-hop,20130223,63,6,22,20130504
 11,10,Heart Attack,Demi Lovato,Demi Lovato,pop,pop,20130316,12,10,20,20130504
 12,14,Radioactive,Imagine Dragons,Imagine Dragons,rock,indie,20120929,91,3,85,20130504
-13,16,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,pop,electronic,20130216,69,7,29,20130504
+13,16,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,electronic,electronic,20130216,69,7,29,20130504
 14,11,Cruise,Florida Georgia Line Featuring Nelly,Florida Georgia Line,country / folk,country,20130420,8,4,28,20130504
 15,30,My Songs Know What You Did In The Dark (Light Em Up),Fall Out Boy,Fall Out Boy,pop,pop punk,20130223,26,13,26,20130504
 16,15,Love Me,Lil Wayne Featuring Drake & Future,Lil Wayne,hip-hop,rap,20130202,53,9,22,20130504
 17,13,Harlem Shake,Baauer,Baauer,hip-hop,trap,20130302,1,1,20,20130504
 18,17,Daylight,Maroon 5,Maroon 5,rock,rock,20121222,77,7,25,20130504
-19,NEW,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,pop,electronic,20130504,19,2,29,20130504
+19,NEW,Get Lucky,Daft Punk Featuring Pharrell Williams,Daft Punk,electronic,electronic,20130504,19,2,29,20130504
 20,21,Wagon Wheel,Darius Rucker,Darius Rucker,country / folk,country,20130302,95,15,25,20130504
 21,26,Power Trip,J. Cole Featuring Miguel,J. Cole,hip-hop,hip-hop,20130302,91,19,29,20130504
 22,45,Come & Get It,Selena Gomez,Selena Gomez,pop,pop,20130427,45,6,22,20130504
@@ -3427,7 +3427,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 26,22,Ho Hey,The Lumineers,The Lumineers,country / folk,folk,20120623,90,3,62,20130504
 27,31,Bad,Wale Featuring Tiara Thomas,Wale,hip-hop,hip-hop,20130309,70,21,25,20130504
 28,20,Mama's Broken Heart,Miranda Lambert,Miranda Lambert,country / folk,country,20130209,89,20,20,20130504
-29,27,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,pop,electronic,20121201,97,10,26,20130504
+29,27,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,electronic,electronic,20121201,97,10,26,20130504
 30,24,Locked Out Of Heaven,Bruno Mars,Bruno Mars,pop,pop,20121020,34,1,36,20130504
 31,39,Troublemaker,Olly Murs Featuring Flo Rida,Olly Murs,pop,pop,20130202,87,25,20,20130504
 32,37,The Way,Ariana Grande Featuring Mac Miller,Ariana Grande,pop,pop,20130413,10,9,26,20130504
@@ -3440,7 +3440,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 39,25,Highway Don't Care,Tim Mcgraw With Taylor Swift,Tim Mcgraw With Taylor Swift,country / folk,country,20130323,84,22,19,20130504
 40,33,I Will Wait,Mumford & Sons,Mumford & Sons,country / folk,folk,20120825,23,12,39,20130504
 41,35,Don't You Worry Child,Swedish House Mafia Featuring John Martin,Swedish House Mafia,electronic,house,20121006,68,6,33,20130504
-42,48,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20130504
+42,48,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20130504
 43,60,#thatPOWER,Will.I.Am Featuring Justin Bieber,Will.I.Am,hip-hop,hip-hop,20130406,42,17,16,20130504
 44,42,Alive,Krewella,Krewella,electronic,dubstep,20130302,99,32,20,20130504
 45,44,Bugatti,Ace Hood Featuring Future & Rick Ross,Ace Hood,hip-hop,rap,20130302,77,33,20,20130504
@@ -3468,13 +3468,13 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 67,63,I Can Take It From There,Chris Young,Chris Young,country / folk,country,20130302,97,63,11,20130504
 68,52,Here's To Never Growing Up,Avril Lavigne,Avril Lavigne,pop,pop,20130427,52,20,15,20130504
 69,64,Loveeeeeee Song,Rihanna Featuring Future Unapologetic,Rihanna,pop,pop,20130216,100,55,20,20130504
-70,73,Clarity,Zedd Featuring Foxes,Zedd,pop,electronic,20130406,86,8,33,20130504
+70,73,Clarity,Zedd Featuring Foxes,Zedd,electronic,electronic,20130406,86,8,33,20130504
 71,71,Battle Scars,Lupe Fiasco & Guy Sebastian,Lupe Fiasco,hip-hop,hip-hop,20130119,99,71,19,20130504
 72,72,We Still In This B****,B.O.B Featuring T.I. & Juicy J,B.O.B,hip-hop,hip-hop,20130309,97,64,19,20130504
 73,70,Love And War,Tamar Braxton,Tamar Braxton,rnb / soul,rnb,20130223,98,68,18,20130504
 74,78,Anywhere With You,Jake Owen,Jake Owen,country / folk,country,20130406,92,46,20,20130504
 75,NEW,The Other Side,Jason Derulo,Jason Derulo,rnb / soul,rnb,20130504,75,18,21,20130504
-76,NEW,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,pop,electronic,20130504,76,16,25,20130504
+76,NEW,I Need Your Love,Calvin Harris Featuring Ellie Goulding,Calvin Harris,electronic,electronic,20130504,76,16,25,20130504
 77,76,Levitate,Hadouken!,Hadouken!,pop,new rave,20130316,99,69,15,20130504
 78,86,Molly,"Tyga Featuring Cedric Gervais, Wiz Khalifa & Mally Mall",Tyga,hip-hop,hip-hop,20130406,66,66,12,20130504
 79,66,R.I.P.,Young Jeezy Featuring 2 Chainz,Young Jeezy,hip-hop,rap,20130223,69,58,14,20130504
@@ -3514,7 +3514,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 13,6,Harlem Shake,Baauer,Baauer,hip-hop,trap,20130302,1,1,20,20130427
 14,11,Radioactive,Imagine Dragons,Imagine Dragons,rock,indie,20120929,91,3,85,20130427
 15,13,Love Me,Lil Wayne Featuring Drake & Future,Lil Wayne,hip-hop,rap,20130202,53,9,22,20130427
-16,17,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,pop,electronic,20130216,69,7,29,20130427
+16,17,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,electronic,electronic,20130216,69,7,29,20130427
 17,14,Daylight,Maroon 5,Maroon 5,rock,rock,20121222,77,7,25,20130427
 18,NEW,Crash My Party,Luke Bryan,Luke Bryan,country / folk,country,20130427,18,18,21,20130427
 19,16,I Knew You Were Trouble.,Taylor Swift,Taylor Swift,country / folk,country,20121117,59,2,34,20130427
@@ -3525,7 +3525,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 24,19,Locked Out Of Heaven,Bruno Mars,Bruno Mars,pop,pop,20121020,34,1,36,20130427
 25,42,Highway Don't Care,Tim Mcgraw With Taylor Swift,Tim Mcgraw With Taylor Swift,country / folk,country,20130323,84,22,19,20130427
 26,43,Power Trip,J. Cole Featuring Miguel,J. Cole,hip-hop,hip-hop,20130302,91,19,29,20130427
-27,21,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,pop,electronic,20121201,97,10,26,20130427
+27,21,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,electronic,electronic,20121201,97,10,26,20130427
 28,18,Scream & Shout,Will.I.Am Featuring Britney Spears,Will.I.Am,hip-hop,hip-hop,20121215,12,3,24,20130427
 29,36,Downtown,Lady Antebellum,Lady Antebellum,country / folk,country,20130223,45,29,20,20130427
 30,27,My Songs Know What You Did In The Dark (Light Em Up),Fall Out Boy,Fall Out Boy,pop,pop punk,20130223,26,13,26,20130427
@@ -3546,7 +3546,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 45,NEW,Come & Get It,Selena Gomez,Selena Gomez,pop,pop,20130427,45,6,22,20130427
 46,53,DONE.,The Band Perry,The Band Perry,country / folk,country,20130330,87,43,20,20130427
 47,33,It's Time,Imagine Dragons,Imagine Dragons,rock,indie,20120623,93,15,47,20130427
-48,44,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20130427
+48,44,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20130427
 49,37,Little Talks,Of Monsters And Men,Of Monsters And Men,rock,indie,20121208,49,20,22,20130427
 50,51,If I Didn't Have You,Thompson Square,Thompson Square,country / folk,country,20130126,94,49,19,20130427
 51,NEW,I Hit It First,Ray J Featuring Bobby Brackins,Ray J,rnb / soul,rnb,20130427,51,51,2,20130427
@@ -3571,7 +3571,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 70,68,Love And War,Tamar Braxton,Tamar Braxton,rnb / soul,rnb,20130223,98,68,18,20130427
 71,72,Battle Scars,Lupe Fiasco & Guy Sebastian,Lupe Fiasco,hip-hop,hip-hop,20130119,99,71,19,20130427
 72,73,We Still In This B****,B.O.B Featuring T.I. & Juicy J,B.O.B,hip-hop,hip-hop,20130309,97,64,19,20130427
-73,77,Clarity,Zedd Featuring Foxes,Zedd,pop,electronic,20130406,86,8,33,20130427
+73,77,Clarity,Zedd Featuring Foxes,Zedd,electronic,electronic,20130406,86,8,33,20130427
 74,80,All Around The World,Justin Bieber Featuring Ludacris,Justin Bieber,pop,pop,20130406,90,65,6,20130427
 75,67,All Gold Everything,Trinidad James,Trinidad James,hip-hop,hip-hop,20121229,96,36,20,20130427
 76,74,Levitate,Hadouken!,Hadouken!,pop,new rave,20130316,99,69,15,20130427
@@ -3615,11 +3615,11 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 14,13,Daylight,Maroon 5,Maroon 5,rock,rock,20121222,77,7,25,20130420
 15,17,Heart Attack,Demi Lovato,Demi Lovato,pop,pop,20130316,12,10,20,20130420
 16,12,I Knew You Were Trouble.,Taylor Swift,Taylor Swift,country / folk,country,20121117,59,2,34,20130420
-17,24,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,pop,electronic,20130216,69,7,29,20130420
+17,24,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,electronic,electronic,20130216,69,7,29,20130420
 18,16,Scream & Shout,Will.I.Am Featuring Britney Spears,Will.I.Am,hip-hop,hip-hop,20121215,12,3,24,20130420
 19,19,Locked Out Of Heaven,Bruno Mars,Bruno Mars,pop,pop,20121020,34,1,36,20130420
 20,23,Ho Hey,The Lumineers,The Lumineers,country / folk,folk,20120623,90,3,62,20130420
-21,18,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,pop,electronic,20121201,97,10,26,20130420
+21,18,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,electronic,electronic,20121201,97,10,26,20130420
 22,10,The Way,Ariana Grande Featuring Mac Miller,Ariana Grande,pop,pop,20130413,10,9,26,20130420
 23,22,Carry On,Fun.,Fun.,pop,indie pop,20130119,100,20,20,20130420
 24,30,Wagon Wheel,Darius Rucker,Darius Rucker,country / folk,country,20130302,95,15,25,20130420
@@ -3642,7 +3642,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 41,37,Catch My Breath,Kelly Clarkson,Kelly Clarkson,pop,pop,20121124,96,19,22,20130420
 42,56,Highway Don't Care,Tim Mcgraw With Taylor Swift,Tim Mcgraw With Taylor Swift,country / folk,country,20130323,84,22,19,20130420
 43,48,Power Trip,J. Cole Featuring Miguel,J. Cole,hip-hop,hip-hop,20130302,91,19,29,20130420
-44,40,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20130420
+44,40,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20130420
 45,46,Madness,Muse,Muse,rock,alternative rock,20130330,53,45,4,20130420
 46,41,Poetic Justice,Kendrick Lamar Featuring Drake,Kendrick Lamar,hip-hop,hip-hop,20121110,76,26,24,20130420
 47,43,Try,P!Nk,P!Nk,pop,pop,20121117,93,9,23,20130420
@@ -3675,7 +3675,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 74,69,Levitate,Hadouken!,Hadouken!,pop,new rave,20130316,99,69,15,20130420
 75,78,"Bitch, Don't Kill My Vibe",Kendrick Lamar,Kendrick Lamar,hip-hop,hip-hop,20130406,84,32,17,20130420
 76,89,If I Lose Myself,Onerepublic,Onerepublic,rock,rock,20130413,89,76,4,20130420
-77,83,Clarity,Zedd Featuring Foxes,Zedd,pop,electronic,20130406,86,8,33,20130420
+77,83,Clarity,Zedd Featuring Foxes,Zedd,electronic,electronic,20130406,86,8,33,20130420
 78,62,Kiss You,One Direction,One Direction,pop,pop,20130126,65,46,14,20130420
 79,79,Kisses Down Low,Kelly Rowland,Kelly Rowland,rnb / soul,rnb,20130323,96,72,6,20130420
 80,86,All Around The World,Justin Bieber Featuring Ludacris,Justin Bieber,pop,pop,20130406,90,65,6,20130420
@@ -3716,13 +3716,13 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 15,27,Can't Hold Us,Macklemore & Ryan Lewis Featuring Ray Dalton,Macklemore & Ryan Lewis,hip-hop,hip-hop,20130309,92,1,37,20130413
 16,11,Scream & Shout,Will.I.Am Featuring Britney Spears,Will.I.Am,hip-hop,hip-hop,20121215,12,3,24,20130413
 17,21,Heart Attack,Demi Lovato,Demi Lovato,pop,pop,20130316,12,10,20,20130413
-18,16,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,pop,electronic,20121201,97,10,26,20130413
+18,16,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,electronic,electronic,20121201,97,10,26,20130413
 19,14,Locked Out Of Heaven,Bruno Mars,Bruno Mars,pop,pop,20121020,34,1,36,20130413
 20,19,Pour It Up,Rihanna,Rihanna,pop,pop,20130119,90,19,20,20130413
 21,18,F**kin Problems,"A$Ap Rocky Featuring Drake, 2 Chainz & Kendrick Lamar",A$Ap Rocky,hip-hop,hip-hop,20121117,73,8,27,20130413
 22,24,Carry On,Fun.,Fun.,pop,indie pop,20130119,100,20,20,20130413
 23,17,Ho Hey,The Lumineers,The Lumineers,country / folk,folk,20120623,90,3,62,20130413
-24,33,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,pop,electronic,20130216,69,7,29,20130413
+24,33,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,electronic,electronic,20130216,69,7,29,20130413
 25,20,Don't You Worry Child,Swedish House Mafia Featuring John Martin,Swedish House Mafia,electronic,house,20121006,68,6,33,20130413
 26,22,I Will Wait,Mumford & Sons,Mumford & Sons,country / folk,folk,20120825,23,12,39,20130413
 27,28,My Songs Know What You Did In The Dark (Light Em Up),Fall Out Boy,Fall Out Boy,pop,pop punk,20130223,26,13,26,20130413
@@ -3738,7 +3738,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 37,32,Catch My Breath,Kelly Clarkson,Kelly Clarkson,pop,pop,20121124,96,19,22,20130413
 38,41,Mama's Broken Heart,Miranda Lambert,Miranda Lambert,country / folk,country,20130209,89,20,20,20130413
 39,31,Girl On Fire,Alicia Keys Featuring Nicki Minaj,Alicia Keys,rnb / soul,soul,20120922,37,11,30,20130413
-40,43,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20130413
+40,43,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20130413
 41,35,Poetic Justice,Kendrick Lamar Featuring Drake,Kendrick Lamar,hip-hop,hip-hop,20121110,76,26,24,20130413
 42,49,Get Your Shine On,Florida Georgia Line,Florida Georgia Line,country / folk,country,20130209,96,27,20,20130413
 43,37,Try,P!Nk,P!Nk,pop,pop,20121117,93,9,23,20130413
@@ -3781,7 +3781,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 80,NEW,The Phoenix,Fall Out Boy,Fall Out Boy,pop,pop punk,20130413,80,80,1,20130413
 81,88,Cups,Anna Kendrick,Anna Kendrick,pop,pop,20130112,93,6,44,20130413
 82,93,Karate Chop (Remix),Future Featuring Lil Wayne,Future,hip-hop,hip-hop,20130406,93,82,10,20130413
-83,86,Clarity,Zedd Featuring Foxes,Zedd,pop,electronic,20130406,86,8,33,20130413
+83,86,Clarity,Zedd Featuring Foxes,Zedd,electronic,electronic,20130406,86,8,33,20130413
 84,83,One Way Or Another (Teenage Kicks),One Direction,One Direction,pop,pop,20130302,45,13,8,20130413
 85,66,Molly,"Tyga Featuring Cedric Gervais, Wiz Khalifa & Mally Mall",Tyga,hip-hop,hip-hop,20130406,66,66,12,20130413
 86,90,All Around The World,Justin Bieber Featuring Ludacris,Justin Bieber,pop,pop,20130406,90,65,6,20130413
@@ -3814,7 +3814,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 13,25,Mirrors,Justin Timberlake,Justin Timberlake,pop,pop,20130302,24,2,42,20130406
 14,13,Locked Out Of Heaven,Bruno Mars,Bruno Mars,pop,pop,20121020,34,1,36,20130406
 15,18,Radioactive,Imagine Dragons,Imagine Dragons,rock,indie,20120929,91,3,85,20130406
-16,17,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,pop,electronic,20121201,97,10,26,20130406
+16,17,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,electronic,electronic,20121201,97,10,26,20130406
 17,14,Ho Hey,The Lumineers,The Lumineers,country / folk,folk,20120623,90,3,62,20130406
 18,16,F**kin Problems,"A$Ap Rocky Featuring Drake, 2 Chainz & Kendrick Lamar",A$Ap Rocky,hip-hop,hip-hop,20121117,73,8,27,20130406
 19,20,Pour It Up,Rihanna,Rihanna,pop,pop,20130119,90,19,20,20130406
@@ -3831,7 +3831,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 30,31,Troublemaker,Olly Murs Featuring Flo Rida,Olly Murs,pop,pop,20130202,87,25,20,20130406
 31,23,Girl On Fire,Alicia Keys Featuring Nicki Minaj,Alicia Keys,rnb / soul,soul,20120922,37,11,30,20130406
 32,27,Catch My Breath,Kelly Clarkson,Kelly Clarkson,pop,pop,20121124,96,19,22,20130406
-33,34,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,pop,electronic,20130216,69,7,29,20130406
+33,34,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,electronic,electronic,20130216,69,7,29,20130406
 34,29,Gangnam Style,Psy,Psy,pop,k-pop,20120922,64,2,31,20130406
 35,30,Poetic Justice,Kendrick Lamar Featuring Drake,Kendrick Lamar,hip-hop,hip-hop,20121110,76,26,24,20130406
 36,38,Bad,Wale Featuring Tiara Thomas,Wale,hip-hop,hip-hop,20130309,70,21,25,20130406
@@ -3841,7 +3841,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 40,35,Downtown,Lady Antebellum,Lady Antebellum,country / folk,country,20130223,45,29,20,20130406
 41,39,Mama's Broken Heart,Miranda Lambert,Miranda Lambert,country / folk,country,20130209,89,20,20,20130406
 42,NEW,#thatPOWER,Will.I.Am Featuring Justin Bieber,Will.I.Am,hip-hop,hip-hop,20130406,42,17,16,20130406
-43,37,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20130406
+43,37,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20130406
 44,33,Beauty And A Beat,Justin Bieber Featuring Nicki Minaj,Justin Bieber,pop,pop,20121103,71,5,23,20130406
 45,53,Madness,Muse,Muse,rock,alternative rock,20130330,53,45,4,20130406
 46,41,Home,Phillip Phillips,Phillip Phillips,country / folk,folk,20120811,84,6,36,20130406
@@ -3884,7 +3884,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 83,74,One Way Or Another (Teenage Kicks),One Direction,One Direction,pop,pop,20130302,45,13,8,20130406
 84,NEW,"Bitch, Don't Kill My Vibe",Kendrick Lamar,Kendrick Lamar,hip-hop,hip-hop,20130406,84,32,17,20130406
 85,92,More Than Miles,Brantley Gilbert,Brantley Gilbert,country / folk,country,20130316,98,73,19,20130406
-86,NEW,Clarity,Zedd Featuring Foxes,Zedd,pop,electronic,20130406,86,8,33,20130406
+86,NEW,Clarity,Zedd Featuring Foxes,Zedd,electronic,electronic,20130406,86,8,33,20130406
 87,87,DONE.,The Band Perry,The Band Perry,country / folk,country,20130330,87,43,20,20130406
 88,95,Cups,Anna Kendrick,Anna Kendrick,pop,pop,20130112,93,6,44,20130406
 89,85,Who Booty,Jonn Hart Featuring Iamsu,Jonn Hart,hip-hop,hip-hop,20121229,93,66,15,20130406
@@ -3915,7 +3915,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 14,14,Ho Hey,The Lumineers,The Lumineers,country / folk,folk,20120623,90,3,62,20130330
 15,11,Don't You Worry Child,Swedish House Mafia Featuring John Martin,Swedish House Mafia,electronic,house,20121006,68,6,33,20130330
 16,15,F**kin Problems,"A$Ap Rocky Featuring Drake, 2 Chainz & Kendrick Lamar",A$Ap Rocky,hip-hop,hip-hop,20121117,73,8,27,20130330
-17,16,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,pop,electronic,20121201,97,10,26,20130330
+17,16,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,electronic,electronic,20121201,97,10,26,20130330
 18,17,Radioactive,Imagine Dragons,Imagine Dragons,rock,indie,20120929,91,3,85,20130330
 19,22,Heart Attack,Demi Lovato,Demi Lovato,pop,pop,20130316,12,10,20,20130330
 20,19,Pour It Up,Rihanna,Rihanna,pop,pop,20130119,90,19,20,20130330
@@ -3932,10 +3932,10 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 31,32,Troublemaker,Olly Murs Featuring Flo Rida,Olly Murs,pop,pop,20130202,87,25,20,20130330
 32,30,Try,P!Nk,P!Nk,pop,pop,20121117,93,9,23,20130330
 33,31,Beauty And A Beat,Justin Bieber Featuring Nicki Minaj,Justin Bieber,pop,pop,20121103,71,5,23,20130330
-34,54,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,pop,electronic,20130216,69,7,29,20130330
+34,54,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,electronic,electronic,20130216,69,7,29,20130330
 35,42,Downtown,Lady Antebellum,Lady Antebellum,country / folk,country,20130223,45,29,20,20130330
 36,47,My Songs Know What You Did In The Dark (Light Em Up),Fall Out Boy,Fall Out Boy,pop,pop punk,20130223,26,13,26,20130330
-37,34,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20130330
+37,34,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20130330
 38,45,Bad,Wale Featuring Tiara Thomas,Wale,hip-hop,hip-hop,20130309,70,21,25,20130330
 39,38,Mama's Broken Heart,Miranda Lambert,Miranda Lambert,country / folk,country,20130209,89,20,20,20130330
 40,40,Can't Hold Us,Macklemore & Ryan Lewis Featuring Ray Dalton,Macklemore & Ryan Lewis,hip-hop,hip-hop,20130309,92,1,37,20130330
@@ -4014,7 +4014,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 13,18,Feel This Moment,Pitbull Featuring Christina Aguilera,Pitbull,hip-hop,hip-hop,20130209,99,8,24,20130323
 14,13,Ho Hey,The Lumineers,The Lumineers,country / folk,folk,20120623,90,3,62,20130323
 15,15,F**kin Problems,"A$Ap Rocky Featuring Drake, 2 Chainz & Kendrick Lamar",A$Ap Rocky,hip-hop,hip-hop,20121117,73,8,27,20130323
-16,16,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,pop,electronic,20121201,97,10,26,20130323
+16,16,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,electronic,electronic,20121201,97,10,26,20130323
 17,20,Radioactive,Imagine Dragons,Imagine Dragons,rock,indie,20120929,91,3,85,20130323
 18,47,Just Give Me A Reason,P!Nk Featuring Nate Ruess,P!Nk,pop,pop,20130302,84,1,36,20130323
 19,21,Pour It Up,Rihanna,Rihanna,pop,pop,20130119,90,19,20,20130323
@@ -4032,7 +4032,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 31,24,Beauty And A Beat,Justin Bieber Featuring Nicki Minaj,Justin Bieber,pop,pop,20121103,71,5,23,20130323
 32,34,Troublemaker,Olly Murs Featuring Flo Rida,Olly Murs,pop,pop,20130202,87,25,20,20130323
 33,32,Diamonds,Rihanna,Rihanna,pop,pop,20121013,16,1,26,20130323
-34,30,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20130323
+34,30,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20130323
 35,37,Hall Of Fame,The Script Featuring Will.I.Am,The Script,rock,pop rock,20121020,96,25,24,20130323
 36,35,One More Night,Maroon 5,Maroon 5,rock,rock,20120707,42,1,42,20130323
 37,36,Home,Phillip Phillips,Phillip Phillips,country / folk,folk,20120811,84,6,36,20130323
@@ -4052,7 +4052,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 51,49,Kiss You,One Direction,One Direction,pop,pop,20130126,65,46,14,20130323
 52,59,Bugatti,Ace Hood Featuring Future & Rick Ross,Ace Hood,hip-hop,rap,20130302,77,33,20,20130323
 53,53,I Drive Your Truck,Lee Brice,Lee Brice,country / folk,country,20130119,91,47,20,20130323
-54,68,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,pop,electronic,20130216,69,7,29,20130323
+54,68,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,electronic,electronic,20130216,69,7,29,20130323
 55,60,Somebody's Heartbreak,Hunter Hayes,Hunter Hayes,country / folk,country,20121208,100,54,20,20130323
 56,69,Wagon Wheel,Darius Rucker,Darius Rucker,country / folk,country,20130302,95,15,25,20130323
 57,54,Tornado,Little Big Town,Little Big Town,country / folk,country,20121124,97,51,20,20130323
@@ -4114,7 +4114,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 13,11,Ho Hey,The Lumineers,The Lumineers,country / folk,folk,20120623,90,3,62,20130316
 14,14,Daylight,Maroon 5,Maroon 5,rock,rock,20121222,77,7,25,20130316
 15,15,F**kin Problems,"A$Ap Rocky Featuring Drake, 2 Chainz & Kendrick Lamar",A$Ap Rocky,hip-hop,hip-hop,20121117,73,8,27,20130316
-16,17,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,pop,electronic,20121201,97,10,26,20130316
+16,17,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,electronic,electronic,20121201,97,10,26,20130316
 17,16,Girl On Fire,Alicia Keys Featuring Nicki Minaj,Alicia Keys,rnb / soul,soul,20120922,37,11,30,20130316
 18,28,Feel This Moment,Pitbull Featuring Christina Aguilera,Pitbull,hip-hop,hip-hop,20130209,99,8,24,20130316
 19,19,I Will Wait,Mumford & Sons,Mumford & Sons,country / folk,folk,20120825,23,12,39,20130316
@@ -4128,7 +4128,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 27,27,Gangnam Style,Psy,Psy,pop,k-pop,20120922,64,2,31,20130316
 28,26,Little Talks,Of Monsters And Men,Of Monsters And Men,rock,indie,20121208,49,20,22,20130316
 29,32,Sure Be Cool If You Did,Blake Shelton,Blake Shelton,country / folk,country,20130126,44,24,20,20130316
-30,49,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20130316
+30,49,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20130316
 31,30,Carry On,Fun.,Fun.,pop,indie pop,20130119,100,20,20,20130316
 32,25,Diamonds,Rihanna,Rihanna,pop,pop,20121013,16,1,26,20130316
 33,61,Skyfall,Adele,Adele,rnb / soul,soul,20130302,83,33,3,20130316
@@ -4166,7 +4166,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 65,92,Can't Hold Us,Macklemore & Ryan Lewis Featuring Ray Dalton,Macklemore & Ryan Lewis,hip-hop,hip-hop,20130309,92,1,37,20130316
 66,68,Pirate Flag,Kenny Chesney,Kenny Chesney,country / folk,country,20130223,68,46,18,20130316
 67,63,Merry Go 'Round,Kacey Musgraves,Kacey Musgraves,country / folk,country,20121229,88,63,15,20130316
-68,74,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,pop,electronic,20130216,69,7,29,20130316
+68,74,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,electronic,electronic,20130216,69,7,29,20130316
 69,87,Wagon Wheel,Darius Rucker,Darius Rucker,country / folk,country,20130302,95,15,25,20130316
 70,73,If I Didn't Have You,Thompson Square,Thompson Square,country / folk,country,20130126,94,49,19,20130316
 71,71,Give It All We Got Tonight,George Strait,George Strait,country / folk,country,20130202,98,43,18,20130316
@@ -4215,7 +4215,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 14,13,Daylight,Maroon 5,Maroon 5,rock,rock,20121222,77,7,25,20130309
 15,15,F**kin Problems,"A$Ap Rocky Featuring Drake, 2 Chainz & Kendrick Lamar",A$Ap Rocky,hip-hop,hip-hop,20121117,73,8,27,20130309
 16,14,Girl On Fire,Alicia Keys Featuring Nicki Minaj,Alicia Keys,rnb / soul,soul,20120922,37,11,30,20130309
-17,17,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,pop,electronic,20121201,97,10,26,20130309
+17,17,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,electronic,electronic,20121201,97,10,26,20130309
 18,16,Beauty And A Beat,Justin Bieber Featuring Nicki Minaj,Justin Bieber,pop,pop,20121103,71,5,23,20130309
 19,12,I Will Wait,Mumford & Sons,Mumford & Sons,country / folk,folk,20120825,23,12,39,20130309
 20,18,Try,P!Nk,P!Nk,pop,pop,20121117,93,9,23,20130309
@@ -4247,7 +4247,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 46,51,Kiss You,One Direction,One Direction,pop,pop,20130126,65,46,14,20130309
 47,41,Two Black Cadillacs,Carrie Underwood,Carrie Underwood,country / folk,country,20121229,90,41,20,20130309
 48,40,I'm Different,2 Chainz,2 Chainz,hip-hop,hip-hop,20121201,98,27,20,20130309
-49,55,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20130309
+49,55,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20130309
 50,50,Die Young,Ke$Ha,Ke$Ha,pop,pop,20121013,13,2,22,20130309
 51,54,Tornado,Little Big Town,Little Big Town,country / folk,country,20121124,97,51,20,20130309
 52,57,Neva End,Future,Future,hip-hop,hip-hop,20121222,99,52,20,20130309
@@ -4272,7 +4272,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 71,74,Give It All We Got Tonight,George Strait,George Strait,country / folk,country,20130202,98,43,18,20130309
 72,84,Just Give Me A Reason,P!Nk Featuring Nate Ruess,P!Nk,pop,pop,20130302,84,1,36,20130309
 73,75,If I Didn't Have You,Thompson Square,Thompson Square,country / folk,country,20130126,94,49,19,20130309
-74,88,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,pop,electronic,20130216,69,7,29,20130309
+74,88,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,electronic,electronic,20130216,69,7,29,20130309
 75,70,Don't Judge Me,Chris Brown,Chris Brown,rnb / soul,rnb,20121117,95,67,20,20130309
 76,24,Mirrors,Justin Timberlake,Justin Timberlake,pop,pop,20130302,24,2,42,20130309
 77,86,Battle Scars,Lupe Fiasco & Guy Sebastian,Lupe Fiasco,hip-hop,hip-hop,20130119,99,71,19,20130309
@@ -4315,7 +4315,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 14,12,Girl On Fire,Alicia Keys Featuring Nicki Minaj,Alicia Keys,rnb / soul,soul,20120922,37,11,30,20130302
 15,11,F**kin Problems,"A$Ap Rocky Featuring Drake, 2 Chainz & Kendrick Lamar",A$Ap Rocky,hip-hop,hip-hop,20121117,73,8,27,20130302
 16,10,Beauty And A Beat,Justin Bieber Featuring Nicki Minaj,Justin Bieber,pop,pop,20121103,71,5,23,20130302
-17,14,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,pop,electronic,20121201,97,10,26,20130302
+17,14,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,electronic,electronic,20121201,97,10,26,20130302
 18,13,Try,P!Nk,P!Nk,pop,pop,20121117,93,9,23,20130302
 19,23,Love Me,Lil Wayne Featuring Drake & Future,Lil Wayne,hip-hop,rap,20130202,53,9,22,20130302
 20,43,Carry On,Fun.,Fun.,pop,indie pop,20130119,100,20,20,20130302
@@ -4353,7 +4353,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 52,41,Every Storm (Runs Out Of Rain),Gary Allan,Gary Allan,country / folk,country,20121020,78,26,20,20130302
 53,53,Wicked Games,The Weeknd,The Weeknd,rnb / soul,rnb,20121117,96,53,20,20130302
 54,52,Tornado,Little Big Town,Little Big Town,country / folk,country,20121124,97,51,20,20130302
-55,60,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20130302
+55,60,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20130302
 56,54,Somebody's Heartbreak,Hunter Hayes,Hunter Hayes,country / folk,country,20121208,100,54,20,20130302
 57,61,Neva End,Future,Future,hip-hop,hip-hop,20121222,99,52,20,20130302
 58,45,Downtown,Lady Antebellum,Lady Antebellum,country / folk,country,20130223,45,29,20,20130302
@@ -4386,7 +4386,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 85,86,Anything Could Happen,Ellie Goulding,Ellie Goulding,pop,female vocalists,20121027,75,47,20,20130302
 86,81,Battle Scars,Lupe Fiasco & Guy Sebastian,Lupe Fiasco,hip-hop,hip-hop,20130119,99,71,19,20130302
 87,58,Southern Comfort Zone,Brad Paisley,Brad Paisley,country / folk,country,20121020,73,54,20,20130302
-88,83,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,pop,electronic,20130216,69,7,29,20130302
+88,83,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,electronic,electronic,20130216,69,7,29,20130302
 89,76,Cups,Anna Kendrick,Anna Kendrick,pop,pop,20130112,93,6,44,20130302
 90,87,Va Va Voom,Nicki Minaj,Nicki Minaj,hip-hop,hip-hop,20121110,98,22,19,20130302
 91,NEW,Power Trip,J. Cole Featuring Miguel,J. Cole,hip-hop,hip-hop,20130302,91,19,29,20130302
@@ -4412,7 +4412,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 11,8,F**kin Problems,"A$Ap Rocky Featuring Drake, 2 Chainz & Kendrick Lamar",A$Ap Rocky,hip-hop,hip-hop,20121117,73,8,27,20130223
 12,12,Girl On Fire,Alicia Keys Featuring Nicki Minaj,Alicia Keys,rnb / soul,soul,20120922,37,11,30,20130223
 13,9,Try,P!Nk,P!Nk,pop,pop,20121117,93,9,23,20130223
-14,10,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,pop,electronic,20121201,97,10,26,20130223
+14,10,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,electronic,electronic,20121201,97,10,26,20130223
 15,26,I Will Wait,Mumford & Sons,Mumford & Sons,country / folk,folk,20120825,23,12,39,20130223
 16,16,It's Time,Imagine Dragons,Imagine Dragons,rock,indie,20120623,93,15,47,20130223
 17,15,Home,Phillip Phillips,Phillip Phillips,country / folk,folk,20120811,84,6,36,20130223
@@ -4458,7 +4458,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 57,NEW,Stay,Rihanna Featuring Mikky Ekko,Rihanna,pop,pop,20130223,57,3,32,20130223
 58,54,Southern Comfort Zone,Brad Paisley,Brad Paisley,country / folk,country,20121020,73,54,20,20130223
 59,NEW,Highway Don't Care,Tim Mcgraw & Taylor Swift,Tim Mcgraw & Taylor Swift,country / folk,country,20130223,59,59,1,20130223
-60,61,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20130223
+60,61,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20130223
 61,64,Neva End,Future,Future,hip-hop,hip-hop,20121222,99,52,20,20130223
 62,67,I Drive Your Truck,Lee Brice,Lee Brice,country / folk,country,20130119,91,47,20,20130223
 63,NEW,Started From The Bottom,Drake,Drake,hip-hop,hip-hop,20130223,63,6,22,20130223
@@ -4481,7 +4481,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 80,87,Give It All We Got Tonight,George Strait,George Strait,country / folk,country,20130202,98,43,18,20130223
 81,81,Battle Scars,Lupe Fiasco & Guy Sebastian,Lupe Fiasco,hip-hop,hip-hop,20130119,99,71,19,20130223
 82,62,Little Things,One Direction,One Direction,pop,pop,20121201,41,33,18,20130223
-83,69,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,pop,electronic,20130216,69,7,29,20130223
+83,69,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,electronic,electronic,20130216,69,7,29,20130223
 84,79,Love Sosa,Chief Keef,Chief Keef,hip-hop,hip-hop,20121229,82,56,14,20130223
 85,77,Goodbye In Her Eyes,Zac Brown Band,Zac Brown Band,country / folk,country,20121027,97,48,20,20130223
 86,73,Anything Could Happen,Ellie Goulding,Ellie Goulding,pop,female vocalists,20121027,75,47,20,20130223
@@ -4508,7 +4508,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 7,7,Beauty And A Beat,Justin Bieber Featuring Nicki Minaj,Justin Bieber,pop,pop,20121103,71,5,23,20130216
 8,10,F**kin Problems,"A$Ap Rocky Featuring Drake, 2 Chainz & Kendrick Lamar",A$Ap Rocky,hip-hop,hip-hop,20121117,73,8,27,20130216
 9,11,Try,P!Nk,P!Nk,pop,pop,20121117,93,9,23,20130216
-10,14,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,pop,electronic,20121201,97,10,26,20130216
+10,14,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,electronic,electronic,20121201,97,10,26,20130216
 11,8,Diamonds,Rihanna,Rihanna,pop,pop,20121013,16,1,26,20130216
 12,12,Girl On Fire,Alicia Keys Featuring Nicki Minaj,Alicia Keys,rnb / soul,soul,20120922,37,11,30,20130216
 13,13,Suit & Tie,Justin Timberlake Featuring Jay Z,Justin Timberlake,pop,pop,20130126,84,3,26,20130216
@@ -4559,7 +4559,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 58,59,Somebody's Heartbreak,Hunter Hayes,Hunter Hayes,country / folk,country,20121208,100,54,20,20130216
 59,NEW,Nothing Like Us,Justin Bieber,Justin Bieber,pop,pop,20130216,59,59,2,20130216
 60,NEW,Yolo,The Lonely Island Featuring Adam Levine & Kendrick Lamar,The Lonely Island,pop,comedy,20130216,60,60,1,20130216
-61,63,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20130216
+61,63,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20130216
 62,45,Little Things,One Direction,One Direction,pop,pop,20121201,41,33,18,20130216
 63,67,Merry Go 'Round,Kacey Musgraves,Kacey Musgraves,country / folk,country,20121229,88,63,15,20130216
 64,71,Neva End,Future,Future,hip-hop,hip-hop,20121222,99,52,20,20130216
@@ -4567,7 +4567,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 66,64,Cups,Anna Kendrick,Anna Kendrick,pop,pop,20130112,93,6,44,20130216
 67,76,I Drive Your Truck,Lee Brice,Lee Brice,country / folk,country,20130119,91,47,20,20130216
 68,73,Who Booty,Jonn Hart Featuring Iamsu,Jonn Hart,hip-hop,hip-hop,20121229,93,66,15,20130216
-69,NEW,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,pop,electronic,20130216,69,7,29,20130216
+69,NEW,I Love It,Icona Pop Featuring Charli Xcx,Icona Pop,electronic,electronic,20130216,69,7,29,20130216
 70,72,Tip It On Back,Dierks Bentley,Dierks Bentley,country / folk,country,20121215,91,66,15,20130216
 71,70,Stubborn Love,The Lumineers,The Lumineers,country / folk,folk,20130119,89,70,12,20130216
 72,69,Remember You,Wiz Khalifa Featuring The Weeknd,Wiz Khalifa,hip-hop,hip-hop,20121208,98,63,16,20130216
@@ -4584,7 +4584,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 83,82,If I Didn't Have You,Thompson Square,Thompson Square,country / folk,country,20130126,94,49,19,20130216
 84,79,Guap,Big Sean,Big Sean,hip-hop,hip-hop,20121229,89,71,12,20130216
 85,96,Get Your Shine On,Florida Georgia Line,Florida Georgia Line,country / folk,country,20130209,96,27,20,20130216
-86,84,Take A Walk,Passion Pit,Passion Pit,pop,electronic,20130119,94,84,5,20130216
+86,84,Take A Walk,Passion Pit,Passion Pit,electronic,electronic,20130119,94,84,5,20130216
 87,92,Give It All We Got Tonight,George Strait,George Strait,country / folk,country,20130202,98,43,18,20130216
 88,88,Crying On A Suitcase,Casey James,Casey James,pop,american idol,20130105,100,88,9,20130216
 89,93,Demons,Imagine Dragons,Imagine Dragons,rock,indie,20130126,99,89,5,20130216
@@ -4612,7 +4612,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 11,13,Try,P!Nk,P!Nk,pop,pop,20121117,93,9,23,20130209
 12,14,Girl On Fire,Alicia Keys Featuring Nicki Minaj,Alicia Keys,rnb / soul,soul,20120922,37,11,30,20130209
 13,4,Suit & Tie,Justin Timberlake Featuring Jay Z,Justin Timberlake,pop,pop,20130126,84,3,26,20130209
-14,17,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,pop,electronic,20121201,97,10,26,20130209
+14,17,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,electronic,electronic,20121201,97,10,26,20130209
 15,16,It's Time,Imagine Dragons,Imagine Dragons,rock,indie,20120623,93,15,47,20130209
 16,53,Love Me,Lil Wayne Featuring Drake & Future,Lil Wayne,hip-hop,rap,20130202,53,9,22,20130209
 17,21,Daylight,Maroon 5,Maroon 5,rock,rock,20121222,77,7,25,20130209
@@ -4661,7 +4661,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 60,64,Anything Could Happen,Ellie Goulding,Ellie Goulding,pop,female vocalists,20121027,75,47,20,20130209
 61,65,Madness,Muse,Muse,rock,alternative rock,20120908,84,56,25,20130209
 62,52,Va Va Voom,Nicki Minaj,Nicki Minaj,hip-hop,hip-hop,20121110,98,22,19,20130209
-63,NEW,Sail,Awolnation,Awolnation,pop,electronic,20130209,63,17,59,20130209
+63,NEW,Sail,Awolnation,Awolnation,electronic,electronic,20130209,63,17,59,20130209
 64,66,Cups,Anna Kendrick,Anna Kendrick,pop,pop,20130112,93,6,44,20130209
 65,87,Troublemaker,Olly Murs Featuring Flo Rida,Olly Murs,pop,pop,20130202,87,25,20,20130209
 66,56,Goodbye In Her Eyes,Zac Brown Band,Zac Brown Band,country / folk,country,20121027,97,48,20,20130209
@@ -4682,7 +4682,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 81,88,Battle Scars,Lupe Fiasco & Guy Sebastian,Lupe Fiasco,hip-hop,hip-hop,20130119,99,71,19,20130209
 82,89,If I Didn't Have You,Thompson Square,Thompson Square,country / folk,country,20130126,94,49,19,20130209
 83,83,Beer Money,Kip Moore,Kip Moore,country / folk,country,20121006,99,51,20,20130209
-84,93,Take A Walk,Passion Pit,Passion Pit,pop,electronic,20130119,94,84,5,20130209
+84,93,Take A Walk,Passion Pit,Passion Pit,electronic,electronic,20130119,94,84,5,20130209
 85,92,Bellas Finals: Price Tag/Don't You (Forget About Me)/Give Me,The Barden Bellas,The Barden Bellas,pop,soundtrack,20130112,96,85,6,20130209
 86,91,Riff Off: Mickey / Like A Virgin / Hit Me With Your Best Sho,"The Barden Bellas, The Treblemakers & The Bu Harmonics",The Barden Bellas,pop,soundtrack,20130119,93,86,5,20130209
 87,75,Rest Of My Life,Ludacris Featuring Usher & David Guetta,Ludacris,hip-hop,rap,20121215,83,75,9,20130209
@@ -4715,7 +4715,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 14,13,Girl On Fire,Alicia Keys Featuring Nicki Minaj,Alicia Keys,rnb / soul,soul,20120922,37,11,30,20130202
 15,18,F**kin Problems,"A$Ap Rocky Featuring Drake, 2 Chainz & Kendrick Lamar",A$Ap Rocky,hip-hop,hip-hop,20121117,73,8,27,20130202
 16,15,It's Time,Imagine Dragons,Imagine Dragons,rock,indie,20120623,93,15,47,20130202
-17,20,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,pop,electronic,20121201,97,10,26,20130202
+17,20,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,electronic,electronic,20121201,97,10,26,20130202
 18,14,Some Nights,Fun.,Fun.,pop,indie pop,20120310,62,3,56,20130202
 19,19,The A Team,Ed Sheeran,Ed Sheeran,pop,acoustic,20120728,95,16,33,20130202
 20,16,Die Young,Ke$Ha,Ke$Ha,pop,pop,20121013,13,2,22,20130202
@@ -4791,7 +4791,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 90,85,Celebration,"Game Featuring Chris Brown, Tyga, Wiz Khalifa & Lil Wayne",Game,hip-hop,rap,20121201,100,81,11,20130202
 91,90,Riff Off: Mickey / Like A Virgin / Hit Me With Your Best Sho,"The Barden Bellas, The Treblemakers & The Bu Harmonics",The Barden Bellas,pop,soundtrack,20130119,93,86,5,20130202
 92,88,Bellas Finals: Price Tag/Don't You (Forget About Me)/Give Me,The Barden Bellas,The Barden Bellas,pop,soundtrack,20130112,96,85,6,20130202
-93,91,Take A Walk,Passion Pit,Passion Pit,pop,electronic,20130119,94,84,5,20130202
+93,91,Take A Walk,Passion Pit,Passion Pit,electronic,electronic,20130119,94,84,5,20130202
 94,82,Live While We're Young,One Direction,One Direction,pop,pop,20121020,3,3,16,20130202
 95,98,Crying On A Suitcase,Casey James,Casey James,pop,american idol,20130105,100,88,9,20130202
 96,NEW,Wagon Wheel,Darius Rucker,Darius Rucker,country / folk,country,20130202,96,96,1,20130202
@@ -4818,7 +4818,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 17,17,Don't Stop The Party,Pitbull Featuring Tjr,Pitbull,hip-hop,hip-hop,20121110,99,17,19,20130126
 18,22,F**kin Problems,"A$Ap Rocky Featuring Drake, 2 Chainz & Kendrick Lamar",A$Ap Rocky,hip-hop,hip-hop,20121117,73,8,27,20130126
 19,18,The A Team,Ed Sheeran,Ed Sheeran,pop,acoustic,20120728,95,16,33,20130126
-20,24,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,pop,electronic,20121201,97,10,26,20130126
+20,24,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,electronic,electronic,20121201,97,10,26,20130126
 21,20,Swimming Pools (Drank),Kendrick Lamar,Kendrick Lamar,hip-hop,hip-hop,20120915,97,17,27,20130126
 22,14,Gangnam Style,Psy,Psy,pop,k-pop,20120922,64,2,31,20130126
 23,30,Catch My Breath,Kelly Clarkson,Kelly Clarkson,pop,pop,20121124,96,19,22,20130126
@@ -4889,7 +4889,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 88,87,Bellas Finals: Price Tag/Don't You (Forget About Me)/Give Me,The Barden Bellas,The Barden Bellas,pop,soundtrack,20130112,96,85,6,20130126
 89,NEW,When I Was Your Man,Bruno Mars,Bruno Mars,pop,pop,20130126,89,1,32,20130126
 90,93,Riff Off: Mickey / Like A Virgin / Hit Me With Your Best Sho,"The Barden Bellas, The Treblemakers & The Bu Harmonics",The Barden Bellas,pop,soundtrack,20130119,93,86,5,20130126
-91,94,Take A Walk,Passion Pit,Passion Pit,pop,electronic,20130119,94,84,5,20130126
+91,94,Take A Walk,Passion Pit,Passion Pit,electronic,electronic,20130119,94,84,5,20130126
 92,100,Carry On,Fun.,Fun.,pop,indie pop,20130119,100,20,20,20130126
 93,74,I Dreamed A Dream,Anne Hathaway,Anne Hathaway,pop,soundtrack,20130112,69,69,3,20130126
 94,NEW,If I Didn't Have You,Thompson Square,Thompson Square,country / folk,country,20130126,94,49,19,20130126
@@ -4922,7 +4922,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 21,22,Let Me Love You (Until You Learn To Love Yourself),Ne-Yo,Ne-Yo,rnb / soul,rnb,20120818,99,6,28,20130119
 22,26,F**kin Problems,"A$Ap Rocky Featuring Drake, 2 Chainz & Kendrick Lamar",A$Ap Rocky,hip-hop,hip-hop,20121117,73,8,27,20130119
 23,19,Cruise,Florida Georgia Line,Florida Georgia Line,country / folk,country,20120901,99,16,26,20130119
-24,40,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,pop,electronic,20121201,97,10,26,20130119
+24,40,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,electronic,electronic,20121201,97,10,26,20130119
 25,17,We Are Never Ever Getting Back Together,Taylor Swift,Taylor Swift,country / folk,country,20120825,72,1,24,20130119
 26,23,Clique,Kanye West Jay-Z Big Sean,Kanye West Jay-Z Big Sean,pop,unknown,20120922,55,12,22,20130119
 27,38,Little Talks,Of Monsters And Men,Of Monsters And Men,rock,indie,20121208,49,20,22,20130119
@@ -4992,7 +4992,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 91,NEW,I Drive Your Truck,Lee Brice,Lee Brice,country / folk,country,20130119,91,47,20,20130119
 92,90,Crying On A Suitcase,Casey James,Casey James,pop,american idol,20130105,100,88,9,20130119
 93,NEW,Riff Off: Mickey / Like A Virgin / Hit Me With Your Best Sho,"The Barden Bellas, The Treblemakers & The Bu Harmonics",The Barden Bellas,pop,soundtrack,20130119,93,86,5,20130119
-94,NEW,Take A Walk,Passion Pit,Passion Pit,pop,electronic,20130119,94,84,5,20130119
+94,NEW,Take A Walk,Passion Pit,Passion Pit,electronic,electronic,20130119,94,84,5,20130119
 95,86,Young & Gettin' It,Meek Mill Featuring Kirko Bangz,Meek Mill,hip-hop,hip-hop,20121124,92,86,9,20130119
 96,89,Did It For The Girl,Greg Bates,Greg Bates,country / folk,country,20121006,100,66,16,20130119
 97,NEW,On My Own,Samantha Barks,Samantha Barks,pop,soundtrack,20130119,97,97,1,20130119
@@ -5038,7 +5038,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 37,42,Don't Wake Me Up,Chris Brown,Chris Brown,rnb / soul,rnb,20120721,88,10,27,20130112
 38,32,Little Talks,Of Monsters And Men,Of Monsters And Men,rock,indie,20121208,49,20,22,20130112
 39,44,Better Dig Two,The Band Perry,The Band Perry,country / folk,country,20121117,53,28,20,20130112
-40,26,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,pop,electronic,20121201,97,10,26,20130112
+40,26,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,electronic,electronic,20121201,97,10,26,20130112
 41,50,Every Storm (Runs Out Of Rain),Gary Allan,Gary Allan,country / folk,country,20121020,78,26,20,20130112
 42,46,Daylight,Maroon 5,Maroon 5,rock,rock,20121222,77,7,25,20130112
 43,74,Live While We're Young,One Direction,One Direction,pop,pop,20121020,3,3,16,20130112
@@ -5124,7 +5124,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 23,22,Clique,Kanye West Jay-Z Big Sean,Kanye West Jay-Z Big Sean,pop,unknown,20120922,55,12,22,20130105
 24,32,F**kin Problems,"A$Ap Rocky Featuring Drake, 2 Chainz & Kendrick Lamar",A$Ap Rocky,hip-hop,hip-hop,20121117,73,8,27,20130105
 25,23,Adorn,Miguel,Miguel,rnb / soul,rnb,20120818,82,17,33,20130105
-26,33,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,pop,electronic,20121201,97,10,26,20130105
+26,33,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,electronic,electronic,20121201,97,10,26,20130105
 27,30,Don't Stop The Party,Pitbull Featuring Tjr,Pitbull,hip-hop,hip-hop,20121110,99,17,19,20130105
 28,24,Too Close,Alex Clare,Alex Clare,electronic,dubstep,20120519,75,7,39,20130105
 29,27,We Are Never Ever Getting Back Together,Taylor Swift,Taylor Swift,country / folk,country,20120825,72,1,24,20130105
@@ -5190,7 +5190,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 89,88,Merry Go 'Round,Kacey Musgraves,Kacey Musgraves,country / folk,country,20121229,88,63,15,20130105
 90,71,The One That Got Away,Jake Owen,Jake Owen,country / folk,country,20120825,93,51,20,20130105
 91,93,Who Booty,Jonn Hart Featuring Iamsu,Jonn Hart,hip-hop,hip-hop,20121229,93,66,15,20130105
-92,86,Take A Walk,Passion Pit,Passion Pit,pop,electronic,20120915,99,85,17,20130105
+92,86,Take A Walk,Passion Pit,Passion Pit,electronic,electronic,20120915,99,85,17,20130105
 93,84,Tip It On Back,Dierks Bentley,Dierks Bentley,country / folk,country,20121215,91,66,15,20130105
 94,87,Ready Or Not,Bridgit Mendler,Bridgit Mendler,pop,pop,20121103,98,49,13,20130105
 95,NEW,King Wizard,Kid Cudi,Kid Cudi,hip-hop,hip-hop,20130105,95,91,2,20130105

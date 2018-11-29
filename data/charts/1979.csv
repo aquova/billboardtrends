@@ -3248,7 +3248,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 57,57,Feel The Need,Leif Garrett,Leif Garrett,pop,70s,19790505,90,57,8,19790609
 58,74,People Of The Southwind,Kansas,Kansas,rock,classic rock,19790602,74,23,12,19790609
 59,69,One Way Or Another,Blondie,Blondie,rock,new wave,19790602,69,24,14,19790609
-60,62,My Love Is Music,Space,Space,pop,electronic,19790428,96,60,7,19790609
+60,62,My Love Is Music,Space,Space,electronic,electronic,19790428,96,60,7,19790609
 61,65,Say Maybe,Neil Diamond,Neil Diamond,country / folk,singer-songwriter,19790519,84,55,7,19790609
 62,66,Sad Eyes,Robert John,Robert John,rock,classic rock,19790519,85,1,27,19790609
 63,71,Weekends,Wet Willie,Wet Willie,rock,southern rock,19790526,80,29,12,19790609
@@ -3360,7 +3360,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 59,61,Boogie Woogie Dancin' Shoes,Claudja Barry,Claudja Barry,disco,disco,19790414,91,56,12,19790602
 60,70,I Was Made For Lovin' You,Kiss,Kiss,rock,hard rock,19790526,70,11,16,19790602
 61,71,Shadows In The Moonlight,Anne Murray,Anne Murray,country / folk,country,19790526,71,25,12,19790602
-62,62,My Love Is Music,Space,Space,pop,electronic,19790428,96,60,7,19790602
+62,62,My Love Is Music,Space,Space,electronic,electronic,19790428,96,60,7,19790602
 63,64,Can't Keep A Good Man Down,Eddie Money,Eddie Money,rock,classic rock,19790512,82,63,5,19790602
 64,65,Easy To Be Hard,Cheryl Barnes,Cheryl Barnes,pop,female vocalists,19790428,87,64,7,19790602
 65,73,Say Maybe,Neil Diamond,Neil Diamond,country / folk,singer-songwriter,19790519,84,55,7,19790602
@@ -3470,7 +3470,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 59,60,One Chain,Santana,Santana,rock,rock,19790414,87,59,8,19790526
 60,70,Feel The Need,Leif Garrett,Leif Garrett,pop,70s,19790505,90,57,8,19790526
 61,66,Boogie Woogie Dancin' Shoes,Claudja Barry,Claudja Barry,disco,disco,19790414,91,56,12,19790526
-62,71,My Love Is Music,Space,Space,pop,electronic,19790428,96,60,7,19790526
+62,71,My Love Is Music,Space,Space,electronic,electronic,19790428,96,60,7,19790526
 63,83,Does Your Mother Know,Abba,Abba,pop,pop,19790519,83,19,14,19790526
 64,72,Can't Keep A Good Man Down,Eddie Money,Eddie Money,rock,classic rock,19790512,82,63,5,19790526
 65,67,Easy To Be Hard,Cheryl Barnes,Cheryl Barnes,pop,female vocalists,19790428,87,64,7,19790526
@@ -3589,7 +3589,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 68,75,My Baby's Baby,Liquid Gold,Liquid Gold,disco,disco,19790428,95,45,7,19790519
 69,79,Bang A Gong,Witch Queen,Witch Queen,disco,disco,19790428,94,68,6,19790519
 70,80,Feel The Need,Leif Garrett,Leif Garrett,pop,70s,19790505,90,57,8,19790519
-71,81,My Love Is Music,Space,Space,pop,electronic,19790428,96,60,7,19790519
+71,81,My Love Is Music,Space,Space,electronic,electronic,19790428,96,60,7,19790519
 72,82,Can't Keep A Good Man Down,Eddie Money,Eddie Money,rock,classic rock,19790512,82,63,5,19790519
 73,90,Ring My Bell,Anita Ward,Anita Ward,disco,disco,19790512,90,1,21,19790519
 74,84,Heart Of The Night,Poco,Poco,rock,country rock,19790512,84,20,14,19790519
@@ -3709,7 +3709,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 78,32,Roxanne,Police,Police,rock,rock,19790224,82,32,13,19790512
 79,89,Bang A Gong,Witch Queen,Witch Queen,disco,disco,19790428,94,68,6,19790512
 80,90,Feel The Need,Leif Garrett,Leif Garrett,pop,70s,19790505,90,57,8,19790512
-81,91,My Love Is Music,Space,Space,pop,electronic,19790428,96,60,7,19790512
+81,91,My Love Is Music,Space,Space,electronic,electronic,19790428,96,60,7,19790512
 82,NEW,Can't Keep A Good Man Down,Eddie Money,Eddie Money,rock,classic rock,19790512,82,63,5,19790512
 83,86,Mirror Star,The Fabulous Poodles,The Fabulous Poodles,rock,new wave,19790421,108,81,5,19790512
 84,NEW,Heart Of The Night,Poco,Poco,rock,country rock,19790512,84,20,14,19790512
@@ -3829,7 +3829,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 88,88,How Could This Go Wrong,Exile,Exile,pop,j-pop,19790428,88,88,2,19790505
 89,94,Bang A Gong,Witch Queen,Witch Queen,disco,disco,19790428,94,68,6,19790505
 90,NEW,Feel The Need,Leif Garrett,Leif Garrett,pop,70s,19790505,90,57,8,19790505
-91,96,My Love Is Music,Space,Space,pop,electronic,19790428,96,60,7,19790505
+91,96,My Love Is Music,Space,Space,electronic,electronic,19790428,96,60,7,19790505
 92,82,Touch Me Baby,Ultimate,Ultimate,electronic,trance,19790414,105,82,4,19790505
 93,93,What You Won't Do For Love,Bobby Caldwell,Bobby Caldwell,rnb / soul,soul,19781223,83,9,20,19790505
 94,98,There But For The Grace Of God Go 1,Machine,Machine,rock,j-rock,19790317,92,77,10,19790505
@@ -3944,7 +3944,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 93,31,What You Won't Do For Love,Bobby Caldwell,Bobby Caldwell,rnb / soul,soul,19781223,83,9,20,19790428
 94,NEW,Bang A Gong,Witch Queen,Witch Queen,disco,disco,19790428,94,68,6,19790428
 95,NEW,My Baby's Baby,Liquid Gold,Liquid Gold,disco,disco,19790428,95,45,7,19790428
-96,NEW,My Love Is Music,Space,Space,pop,electronic,19790428,96,60,7,19790428
+96,NEW,My Love Is Music,Space,Space,electronic,electronic,19790428,96,60,7,19790428
 97,81,I Need You,The Euclid Beach Band,The Euclid Beach Band,pop,unknown,19790331,90,81,5,19790428
 98,100,There But For The Grace Of God Go 1,Machine,Machine,rock,j-rock,19790317,92,77,10,19790428
 99,65,Heart To Heart,Errol Sober,Errol Sober,pop,unknown,19790331,85,65,8,19790428

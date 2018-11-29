@@ -49,7 +49,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 48,21,Dog Days Are Over,Florence + The Machine,Florence + The Machine,rock,indie,20101030,77,21,16,20101225
 49,65,Jar Of Hearts,Christina Perri,Christina Perri,pop,female vocalists,20101113,96,17,27,20101225
 50,47,Mine,Taylor Swift,Taylor Swift,country / folk,country,20100821,3,3,23,20101225
-51,49,We No Speak Americano,Yolanda Be Cool & Dcup,Yolanda Be Cool & Dcup,pop,electronic,20101002,83,29,20,20101225
+51,49,We No Speak Americano,Yolanda Be Cool & Dcup,Yolanda Be Cool & Dcup,electronic,electronic,20101002,83,29,20,20101225
 52,58,Kush,Dr. Dre Featuring Snoop Dogg & Akon,Dr. Dre,hip-hop,hip-hop,20101204,49,34,17,20101225
 53,63,Turn On To The Radio,Reba,Reba,country / folk,country,20101002,94,53,18,20101225
 54,64,Who Are You When I'm Not Looking,Blake Shelton,Blake Shelton,country / folk,country,20101120,99,46,20,20101225
@@ -92,7 +92,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 91,NEW,Strip Me,Natasha Bedingfield,Natasha Bedingfield,pop,pop,20101225,91,91,1,20101225
 92,60,Forget You,Glee Cast Featuring Gwyneth Paltrow,Glee Cast,pop,musical,20101204,11,11,4,20101225
 93,98,Monster,"Kanye West Feat Jay-Z, Rick Ross, Bon Iver & Nicki Minaj",Kanye West Feat Jay-Z,hip-hop,hip-hop,20101218,98,93,2,20101225
-94,NEW,Bass Down Low,Dev Featuring The Cataracs,Dev,pop,electronic,20101225,94,74,2,20101225
+94,NEW,Bass Down Low,Dev Featuring The Cataracs,Dev,electronic,electronic,20101225,94,74,2,20101225
 95,NEW,Fall For Your Type,Jamie Foxx Featuring Drake,Jamie Foxx,rnb / soul,rnb,20101225,95,50,18,20101225
 96,85,September,Daughtry,Daughtry,rock,rock,20100821,94,36,20,20101225
 97,92,One In A Million,Ne-Yo,Ne-Yo,rnb / soul,rnb,20101113,97,87,7,20101225
@@ -147,7 +147,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 46,46,My Kinda Party,Jason Aldean,Jason Aldean,country / folk,country,20100911,54,39,20,20101218
 47,37,Mine,Taylor Swift,Taylor Swift,country / folk,country,20100821,3,3,23,20101218
 48,45,Felt Good On My Lips,Tim Mcgraw,Tim Mcgraw,country / folk,country,20101120,26,26,20,20101218
-49,44,We No Speak Americano,Yolanda Be Cool & Dcup,Yolanda Be Cool & Dcup,pop,electronic,20101002,83,29,20,20101218
+49,44,We No Speak Americano,Yolanda Be Cool & Dcup,Yolanda Be Cool & Dcup,electronic,electronic,20101002,83,29,20,20101218
 50,51,Memories,David Guetta Featuring Kid Cudi,David Guetta,electronic,house,20101023,94,46,14,20101218
 51,61,Coming Home,Diddy - Dirty Money Featuring Skylar Grey,Diddy - Dirty Money,hip-hop,hip-hop,20101211,61,11,24,20101218
 52,42,Runaway,Kanye West Featuring Pusha T,Kanye West,hip-hop,hip-hop,20101023,12,12,13,20101218
@@ -242,7 +242,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 41,38,No Love,Eminem Featuring Lil Wayne,Eminem,hip-hop,rap,20101016,89,29,16,20101211
 42,50,Runaway,Kanye West Featuring Pusha T,Kanye West,hip-hop,hip-hop,20101023,12,12,13,20101211
 43,40,Hey Baby (Drop It To The Floor),Pitbull Featuring T-Pain,Pitbull,hip-hop,hip-hop,20101016,51,7,31,20101211
-44,39,We No Speak Americano,Yolanda Be Cool & Dcup,Yolanda Be Cool & Dcup,pop,electronic,20101002,83,29,20,20101211
+44,39,We No Speak Americano,Yolanda Be Cool & Dcup,Yolanda Be Cool & Dcup,electronic,electronic,20101002,83,29,20,20101211
 45,42,Felt Good On My Lips,Tim Mcgraw,Tim Mcgraw,country / folk,country,20101120,26,26,20,20101211
 46,45,My Kinda Party,Jason Aldean,Jason Aldean,country / folk,country,20100911,54,39,20,20101211
 47,67,Back To December,Taylor Swift,Taylor Swift,country / folk,country,20101127,74,18,18,20101211
@@ -337,7 +337,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 36,8,Teenage Dream,Glee Cast,Glee Cast,pop,musical,20101127,8,8,3,20101204
 37,35,Aston Martin Music,Rick Ross Featuring Drake & Chrisette Michele,Rick Ross,hip-hop,hip-hop,20101023,96,30,19,20101204
 38,40,No Love,Eminem Featuring Lil Wayne,Eminem,hip-hop,rap,20101016,89,29,16,20101204
-39,36,We No Speak Americano,Yolanda Be Cool & Dcup,Yolanda Be Cool & Dcup,pop,electronic,20101002,83,29,20,20101204
+39,36,We No Speak Americano,Yolanda Be Cool & Dcup,Yolanda Be Cool & Dcup,electronic,electronic,20101002,83,29,20,20101204
 40,44,Hey Baby (Drop It To The Floor),Pitbull Featuring T-Pain,Pitbull,hip-hop,hip-hop,20101016,51,7,31,20101204
 41,42,King Of Anything,Sara Bareilles,Sara Bareilles,pop,female vocalists,20100710,59,32,22,20101204
 42,39,Felt Good On My Lips,Tim Mcgraw,Tim Mcgraw,country / folk,country,20101120,26,26,20,20101204
@@ -434,7 +434,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 33,27,Love Like Woe,The Ready Set,The Ready Set,pop,powerpop,20100828,97,27,21,20101127
 34,31,Right Thru Me,Nicki Minaj,Nicki Minaj,hip-hop,hip-hop,20101016,74,26,19,20101127
 35,37,Aston Martin Music,Rick Ross Featuring Drake & Chrisette Michele,Rick Ross,hip-hop,hip-hop,20101023,96,30,19,20101127
-36,32,We No Speak Americano,Yolanda Be Cool & Dcup,Yolanda Be Cool & Dcup,pop,electronic,20101002,83,29,20,20101127
+36,32,We No Speak Americano,Yolanda Be Cool & Dcup,Yolanda Be Cool & Dcup,electronic,electronic,20101002,83,29,20,20101127
 37,48,Stereo Love,Edward Maya & Vika Jigulina,Edward Maya & Vika Jigulina,electronic,dance,20101023,93,16,28,20101127
 38,NEW,Stop! In The Name Of Love,Glee Cast,Glee Cast,pop,musical,20101127,38,38,1,20101127
 39,26,Felt Good On My Lips,Tim Mcgraw,Tim Mcgraw,country / folk,country,20101120,26,26,20,20101127
@@ -530,7 +530,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 29,43,Black And Yellow,Wiz Khalifa,Wiz Khalifa,hip-hop,hip-hop,20101030,64,1,24,20101120
 30,23,Fuck You!,Cee Lo Green,Cee Lo Green,rnb / soul,soul,20100911,96,2,48,20101120
 31,46,Right Thru Me,Nicki Minaj,Nicki Minaj,hip-hop,hip-hop,20101016,74,26,19,20101120
-32,34,We No Speak Americano,Yolanda Be Cool & Dcup,Yolanda Be Cool & Dcup,pop,electronic,20101002,83,29,20,20101120
+32,34,We No Speak Americano,Yolanda Be Cool & Dcup,Yolanda Be Cool & Dcup,electronic,electronic,20101002,83,29,20,20101120
 33,30,Hot Tottie,Usher Featuring Jay-Z,Usher,rnb / soul,rnb,20100828,100,21,16,20101120
 34,38,As She's Walking Away,Zac Brown Band Featuring Alan Jackson,Zac Brown Band,country / folk,country,20100828,77,32,20,20101120
 35,36,King Of Anything,Sara Bareilles,Sara Bareilles,pop,female vocalists,20100710,59,32,22,20101120
@@ -585,7 +585,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 84,95,Waiting For The End,Linkin Park,Linkin Park,rock,rock,20101106,100,42,21,20101120
 85,NEW,Angel,Akon,Akon,hip-hop,hip-hop,20101120,85,85,3,20101120
 86,NEW,Sick,New Hollow,New Hollow,rock,alternative rock,20101120,86,86,3,20101120
-87,92,Double Vision,3Oh!3,3Oh!3,pop,electronic,20101106,87,87,3,20101120
+87,92,Double Vision,3Oh!3,3Oh!3,electronic,electronic,20101106,87,87,3,20101120
 88,69,2012 (It Ain't The End),Jay Sean Featuring Nicki Minaj,Jay Sean,rnb / soul,rnb,20100821,50,31,14,20101120
 89,NEW,Voices,Chris Young,Chris Young,country / folk,country,20101120,89,53,20,20101120
 90,98,Porn Star Dancing,My Darkest Days Featuring Zakk Wylde,My Darkest Days,rock,alternative rock,20101106,90,90,5,20101120
@@ -632,7 +632,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 31,24,Secrets,Onerepublic,Onerepublic,rock,rock,20100717,83,21,32,20101113
 32,22,Take It Off,Ke$Ha,Ke$Ha,pop,pop,20100807,92,8,19,20101113
 33,NEW,Yeah 3X,Chris Brown,Chris Brown,rnb / soul,rnb,20101113,33,15,24,20101113
-34,29,We No Speak Americano,Yolanda Be Cool & Dcup,Yolanda Be Cool & Dcup,pop,electronic,20101002,83,29,20,20101113
+34,29,We No Speak Americano,Yolanda Be Cool & Dcup,Yolanda Be Cool & Dcup,electronic,electronic,20101002,83,29,20,20101113
 35,28,Cooler Than Me,Mike Posner Featuring Big Sean,Mike Posner,rnb / soul,rnb,20100515,85,6,29,20101113
 36,37,King Of Anything,Sara Bareilles,Sara Bareilles,pop,female vocalists,20100710,59,32,22,20101113
 37,31,California Gurls,Katy Perry Featuring Snoop Dogg,Katy Perry,pop,pop,20100529,2,1,27,20101113
@@ -690,7 +690,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 89,NEW,Time Warp,Glee Cast,Glee Cast,pop,musical,20101113,89,89,1,20101113
 90,NEW,Hollywood,Michael Buble,Michael Buble,jazz,jazz,20101113,90,90,1,20101113
 91,73,All Over Me,Josh Turner,Josh Turner,country / folk,country,20100717,97,59,18,20101113
-92,87,Double Vision,3Oh!3,3Oh!3,pop,electronic,20101106,87,87,3,20101113
+92,87,Double Vision,3Oh!3,3Oh!3,electronic,electronic,20101106,87,87,3,20101113
 93,88,This Ain't No Love Song,Trace Adkins,Trace Adkins,country / folk,country,20101030,100,88,6,20101113
 94,84,Dog Days Are Over,Florence + The Machine,Florence + The Machine,rock,indie,20101030,77,21,16,20101113
 95,100,Waiting For The End,Linkin Park,Linkin Park,rock,rock,20101106,100,42,21,20101113
@@ -727,7 +727,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 26,21,Hot Tottie,Usher Featuring Jay-Z,Usher,rnb / soul,rnb,20100828,100,21,16,20101106
 27,32,Love Like Woe,The Ready Set,The Ready Set,pop,powerpop,20100828,97,27,21,20101106
 28,25,Cooler Than Me,Mike Posner Featuring Big Sean,Mike Posner,rnb / soul,rnb,20100515,85,6,29,20101106
-29,36,We No Speak Americano,Yolanda Be Cool & Dcup,Yolanda Be Cool & Dcup,pop,electronic,20101002,83,29,20,20101106
+29,36,We No Speak Americano,Yolanda Be Cool & Dcup,Yolanda Be Cool & Dcup,electronic,electronic,20101002,83,29,20,20101106
 30,6,Back To December,Taylor Swift,Taylor Swift,country / folk,country,20101030,6,6,2,20101106
 31,26,California Gurls,Katy Perry Featuring Snoop Dogg,Katy Perry,pop,pop,20100529,2,1,27,20101106
 32,84,Loca,Shakira Featuring El Cata,Shakira,pop,pop,20101023,98,32,11,20101106
@@ -785,7 +785,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 84,77,Dog Days Are Over,Florence + The Machine,Florence + The Machine,rock,indie,20101030,77,21,16,20101106
 85,85,Way Out Here,Josh Thompson,Josh Thompson,country / folk,country,20100911,100,85,9,20101106
 86,45,Speak Now,Taylor Swift,Taylor Swift,country / folk,country,20101023,8,8,3,20101106
-87,NEW,Double Vision,3Oh!3,3Oh!3,pop,electronic,20101106,87,87,3,20101106
+87,NEW,Double Vision,3Oh!3,3Oh!3,electronic,electronic,20101106,87,87,3,20101106
 88,100,This Ain't No Love Song,Trace Adkins,Trace Adkins,country / folk,country,20101030,100,88,6,20101106
 89,NEW,Rap Song,T-Pain Featuring Rick Ross,T-Pain,rnb / soul,rnb,20101106,89,89,1,20101106
 90,NEW,Porn Star Dancing,My Darkest Days Featuring Zakk Wylde,My Darkest Days,rock,alternative rock,20101106,90,90,5,20101106
@@ -834,7 +834,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 33,31,2012 (It Ain't The End),Jay Sean Featuring Nicki Minaj,Jay Sean,rnb / soul,rnb,20100821,50,31,14,20101030
 34,54,Please Don't Go,Mike Posner,Mike Posner,rnb / soul,rnb,20101009,94,16,20,20101030
 35,32,Fancy,Drake Featuring T.I. & Swizz Beats,Drake,hip-hop,hip-hop,20100821,97,25,19,20101030
-36,48,We No Speak Americano,Yolanda Be Cool & Dcup,Yolanda Be Cool & Dcup,pop,electronic,20101002,83,29,20,20101030
+36,48,We No Speak Americano,Yolanda Be Cool & Dcup,Yolanda Be Cool & Dcup,electronic,electronic,20101002,83,29,20,20101030
 37,47,Come Back Song,Darius Rucker,Darius Rucker,country / folk,country,20100731,67,37,20,20101030
 38,12,Runaway,Kanye West Featuring Pusha T,Kanye West,hip-hop,hip-hop,20101023,12,12,13,20101030
 39,29,Magic,B.O.B Featuring Rivers Cuomo,B.O.B,hip-hop,hip-hop,20100703,100,10,19,20101030
@@ -946,7 +946,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 45,47,If It's Love,Train,Train,rock,rock,20100626,90,34,20,20101023
 46,46,As She's Walking Away,Zac Brown Band Featuring Alan Jackson,Zac Brown Band,country / folk,country,20100828,77,32,20,20101023
 47,49,Come Back Song,Darius Rucker,Darius Rucker,country / folk,country,20100731,67,37,20,20101023
-48,63,We No Speak Americano,Yolanda Be Cool & Dcup,Yolanda Be Cool & Dcup,pop,electronic,20101002,83,29,20,20101023
+48,63,We No Speak Americano,Yolanda Be Cool & Dcup,Yolanda Be Cool & Dcup,electronic,electronic,20101002,83,29,20,20101023
 49,36,Ridin' Solo,Jason Derulo,Jason Derulo,rnb / soul,rnb,20100605,84,9,21,20101023
 50,NEW,Only The Good Die Young,Glee Cast,Glee Cast,pop,musical,20101023,50,50,1,20101023
 51,NEW,Raise Your Glass,P!Nk,P!Nk,pop,pop,20101023,51,1,30,20101023
@@ -1061,7 +1061,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 60,63,All Over Me,Josh Turner,Josh Turner,country / folk,country,20100717,97,59,18,20101016
 61,55,Your Love,Nicki Minaj,Nicki Minaj,hip-hop,hip-hop,20100619,51,14,20,20101016
 62,54,Miss Me,Drake Featuring Lil Wayne,Drake,hip-hop,hip-hop,20100619,15,15,20,20101016
-63,78,We No Speak Americano,Yolanda Be Cool & Dcup,Yolanda Be Cool & Dcup,pop,electronic,20101002,83,29,20,20101016
+63,78,We No Speak Americano,Yolanda Be Cool & Dcup,Yolanda Be Cool & Dcup,electronic,electronic,20101002,83,29,20,20101016
 64,71,Holding You Down (Goin' In Circles),Jazmine Sullivan,Jazmine Sullivan,rnb / soul,rnb,20100911,98,60,12,20101016
 65,NEW,I Am Not A Human Being,Lil Wayne,Lil Wayne,hip-hop,rap,20101016,65,65,1,20101016
 66,77,Can't Be Friends,Trey Songz,Trey Songz,rnb / soul,rnb,20101002,74,43,20,20101016
@@ -1176,7 +1176,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 75,76,Why Wait,Rascal Flatts,Rascal Flatts,country / folk,country,20100904,48,48,20,20101009
 76,75,Little Lion Man,Mumford & Sons,Mumford & Sons,country / folk,folk,20100828,98,61,21,20101009
 77,74,Can't Be Friends,Trey Songz,Trey Songz,rnb / soul,rnb,20101002,74,43,20,20101009
-78,83,We No Speak Americano,Yolanda Be Cool & Dcup,Yolanda Be Cool & Dcup,pop,electronic,20101002,83,29,20,20101009
+78,83,We No Speak Americano,Yolanda Be Cool & Dcup,Yolanda Be Cool & Dcup,electronic,electronic,20101002,83,29,20,20101009
 79,81,Anything Like Me,Brad Paisley,Brad Paisley,country / folk,country,20100918,100,48,19,20101009
 80,91,All I Want Is You,Miguel Featuring J Cole,Miguel,rnb / soul,rnb,20101002,91,58,14,20101009
 81,72,Pretty Boy Swag,Soulja Boy Tell'Em,Soulja Boy Tell'Em,hip-hop,hip-hop,20100703,90,34,16,20101009
@@ -1281,7 +1281,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 80,83,Toot It And Boot It,Yg,Yg,hip-hop,hip-hop,20100911,94,67,11,20101002
 81,94,Anything Like Me,Brad Paisley,Brad Paisley,country / folk,country,20100918,100,48,19,20101002
 82,NEW,Put You In A Song,Keith Urban,Keith Urban,country / folk,country,20101002,82,82,2,20101002
-83,NEW,We No Speak Americano,Yolanda Be Cool & Dcup,Yolanda Be Cool & Dcup,pop,electronic,20101002,83,29,20,20101002
+83,NEW,We No Speak Americano,Yolanda Be Cool & Dcup,Yolanda Be Cool & Dcup,electronic,electronic,20101002,83,29,20,20101002
 84,85,Bittersweet,Fantasia,Fantasia,rnb / soul,rnb,20100724,94,74,12,20101002
 85,91,The Breath You Take,George Strait,George Strait,country / folk,country,20100918,95,63,20,20101002
 86,77,Round & Round,Selena Gomez & The Scene,Selena Gomez & The Scene,pop,pop,20100710,24,24,14,20101002
@@ -1491,7 +1491,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 90,89,Champagne Life,Ne-Yo,Ne-Yo,rnb / soul,rnb,20100807,75,75,8,20100918
 91,86,The Man Who Can't Be Moved,The Script,The Script,rock,pop rock,20100821,96,86,6,20100918
 92,71,Somebody To Love,Justin Bieber,Justin Bieber,pop,pop,20100529,98,15,17,20100918
-93,87,My First Kiss,3Oh!3 Featuring Ke$Ha,3Oh!3,pop,electronic,20100522,9,9,18,20100918
+93,87,My First Kiss,3Oh!3 Featuring Ke$Ha,3Oh!3,electronic,electronic,20100522,9,9,18,20100918
 94,92,Bed Intruder Song,Antoine Dodson & The Gregory Brothers Featuring Kelly Dodson,Antoine Dodson & The Gregory Brothers,pop,he gon find you,20100911,92,92,2,20100918
 95,NEW,The Breath You Take,George Strait,George Strait,country / folk,country,20100918,95,63,20,20100918
 96,NEW,Only Prettier,Miranda Lambert,Miranda Lambert,country / folk,country,20100918,96,61,23,20100918
@@ -1585,7 +1585,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 84,66,Gettin' Over You,David Guetta & Chris Willis Featuring Fergie & Lmfao,David Guetta & Chris Willis,electronic,house,20100515,95,31,20,20100911
 85,87,This Ain't Nothin',Craig Morgan,Craig Morgan,country / folk,country,20100703,97,83,13,20100911
 86,90,The Man Who Can't Be Moved,The Script,The Script,rock,pop rock,20100821,96,86,6,20100911
-87,70,My First Kiss,3Oh!3 Featuring Ke$Ha,3Oh!3,pop,electronic,20100522,9,9,18,20100911
+87,70,My First Kiss,3Oh!3 Featuring Ke$Ha,3Oh!3,electronic,electronic,20100522,9,9,18,20100911
 88,99,As She's Walking Away,Zac Brown Band Featuring Alan Jackson,Zac Brown Band,country / folk,country,20100828,77,32,20,20100911
 89,83,Champagne Life,Ne-Yo,Ne-Yo,rnb / soul,rnb,20100807,75,75,8,20100911
 90,95,Love Like Woe,The Ready Set,The Ready Set,pop,powerpop,20100828,97,27,21,20100911
@@ -1668,7 +1668,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 67,73,Love All Over Me,Monica,Monica,rnb / soul,rnb,20100731,94,58,17,20100904
 68,67,2012 (It Ain't The End),Jay Sean Featuring Nicki Minaj,Jay Sean,rnb / soul,rnb,20100821,50,31,14,20100904
 69,92,Like A G6,Far*East Movement Featuring Cataracs & Dev,Far*East Movement,hip-hop,hip-hop,20100828,92,1,26,20100904
-70,59,My First Kiss,3Oh!3 Featuring Ke$Ha,3Oh!3,pop,electronic,20100522,9,9,18,20100904
+70,59,My First Kiss,3Oh!3 Featuring Ke$Ha,3Oh!3,electronic,electronic,20100522,9,9,18,20100904
 71,71,Break My Bank,New Boyz Featuring Iyaz,New Boyz,hip-hop,hip-hop,20100731,71,68,11,20100904
 72,70,Come Back Song,Darius Rucker,Darius Rucker,country / folk,country,20100731,67,37,20,20100904
 73,69,Kissin' U,Miranda Cosgrove,Miranda Cosgrove,pop,pop,20100710,93,69,11,20100904
@@ -1757,7 +1757,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 56,44,Gettin' Over You,David Guetta & Chris Willis Featuring Fergie & Lmfao,David Guetta & Chris Willis,electronic,house,20100515,95,31,20,20100828
 57,65,Power,Kanye West Featuring Dwele,Kanye West,hip-hop,hip-hop,20100717,22,22,16,20100828
 58,NEW,Circle The Drain,Katy Perry,Katy Perry,pop,pop,20100828,58,58,1,20100828
-59,42,My First Kiss,3Oh!3 Featuring Ke$Ha,3Oh!3,pop,electronic,20100522,9,9,18,20100828
+59,42,My First Kiss,3Oh!3 Featuring Ke$Ha,3Oh!3,electronic,electronic,20100522,9,9,18,20100828
 60,63,B.M.F. (Blowin' Money Fast),Rick Ross Featuring Styles P,Rick Ross,hip-hop,hip-hop,20100724,98,60,16,20100828
 61,62,I'm In,Keith Urban,Keith Urban,country / folk,country,20100619,91,60,15,20100828
 62,61,Our Kind Of Love,Lady Antebellum,Lady Antebellum,country / folk,country,20100703,94,51,19,20100828
@@ -1840,7 +1840,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 39,29,"Lover, Lover",Jerrod Niemann,Jerrod Niemann,country / folk,country,20100515,89,29,20,20100821
 40,42,Half Of My Heart,John Mayer,John Mayer,country / folk,singer-songwriter,20100626,88,34,18,20100821
 41,38,Got Your Back,T.I. Featuring Keri Hilson,T.I.,hip-hop,hip-hop,20100619,38,38,19,20100821
-42,24,My First Kiss,3Oh!3 Featuring Ke$Ha,3Oh!3,pop,electronic,20100522,9,9,18,20100821
+42,24,My First Kiss,3Oh!3 Featuring Ke$Ha,3Oh!3,electronic,electronic,20100522,9,9,18,20100821
 43,39,Breakeven,The Script,The Script,rock,pop rock,20091219,96,12,43,20100821
 44,32,Gettin' Over You,David Guetta & Chris Willis Featuring Fergie & Lmfao,David Guetta & Chris Willis,electronic,house,20100515,95,31,20,20100821
 45,45,Pretty Good At Drinkin' Beer,Billy Currington,Billy Currington,country / folk,country,20100619,83,41,20,20100821
@@ -1922,7 +1922,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 21,18,Alejandro,Lady Gaga,Lady Gaga,pop,pop,20100417,72,6,23,20100814
 22,27,Magic,B.O.B Featuring Rivers Cuomo,B.O.B,hip-hop,hip-hop,20100703,100,10,19,20100814
 23,19,Your Love Is My Drug,Ke$Ha,Ke$Ha,pop,pop,20100403,91,4,23,20100814
-24,22,My First Kiss,3Oh!3 Featuring Ke$Ha,3Oh!3,pop,electronic,20100522,9,9,18,20100814
+24,22,My First Kiss,3Oh!3 Featuring Ke$Ha,3Oh!3,electronic,electronic,20100522,9,9,18,20100814
 25,26,There Goes My Baby,Usher,Usher,rnb / soul,rnb,20100410,100,25,24,20100814
 26,24,Undo It,Carrie Underwood,Carrie Underwood,country / folk,country,20100522,95,23,19,20100814
 27,23,Need You Now,Lady Antebellum,Lady Antebellum,country / folk,country,20090829,85,2,60,20100814
@@ -2020,7 +2020,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 19,16,Your Love Is My Drug,Ke$Ha,Ke$Ha,pop,pop,20100403,91,4,23,20100807
 20,NEW,Teenage Dream,Katy Perry,Katy Perry,pop,pop,20100807,20,1,33,20100807
 21,28,Misery,Maroon 5,Maroon 5,rock,rock,20100710,44,14,20,20100807
-22,20,My First Kiss,3Oh!3 Featuring Ke$Ha,3Oh!3,pop,electronic,20100522,9,9,18,20100807
+22,20,My First Kiss,3Oh!3 Featuring Ke$Ha,3Oh!3,electronic,electronic,20100522,9,9,18,20100807
 23,22,Need You Now,Lady Antebellum,Lady Antebellum,country / folk,country,20090829,85,2,60,20100807
 24,24,Undo It,Carrie Underwood,Carrie Underwood,country / folk,country,20100522,95,23,19,20100807
 25,21,Un-Thinkable (I'm Ready),Alicia Keys,Alicia Keys,rnb / soul,soul,20100424,88,21,20,20100807
@@ -2118,7 +2118,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 17,17,"Hey, Soul Sister",Train,Train,rock,rock,20091017,98,3,54,20100731
 18,18,Your Love,Nicki Minaj,Nicki Minaj,hip-hop,hip-hop,20100619,51,14,20,20100731
 19,NEW,DJ Got Us Fallin' In Love,Usher Featuring Pitbull,Usher,rnb / soul,rnb,20100731,19,4,34,20100731
-20,23,My First Kiss,3Oh!3 Featuring Ke$Ha,3Oh!3,pop,electronic,20100522,9,9,18,20100731
+20,23,My First Kiss,3Oh!3 Featuring Ke$Ha,3Oh!3,electronic,electronic,20100522,9,9,18,20100731
 21,21,Un-Thinkable (I'm Ready),Alicia Keys,Alicia Keys,rnb / soul,soul,20100424,88,21,20,20100731
 22,22,Need You Now,Lady Antebellum,Lady Antebellum,country / folk,country,20090829,85,2,60,20100731
 23,19,Nothin' On You,B.O.B Featuring Bruno Mars,B.O.B,hip-hop,hip-hop,20100213,89,1,28,20100731
@@ -2221,7 +2221,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 20,15,Somebody To Love,Justin Bieber,Justin Bieber,pop,pop,20100529,98,15,17,20100724
 21,24,Un-Thinkable (I'm Ready),Alicia Keys,Alicia Keys,rnb / soul,soul,20100424,88,21,20,20100724
 22,21,Need You Now,Lady Antebellum,Lady Antebellum,country / folk,country,20090829,85,2,60,20100724
-23,20,My First Kiss,3Oh!3 Featuring Ke$Ha,3Oh!3,pop,electronic,20100522,9,9,18,20100724
+23,20,My First Kiss,3Oh!3 Featuring Ke$Ha,3Oh!3,electronic,electronic,20100522,9,9,18,20100724
 24,26,All I Do Is Win,"Dj Khaled Featuring T-Pain, Ludacris, Snoop Dogg & Rick Ross",Dj Khaled,hip-hop,hip-hop,20100306,64,24,24,20100724
 25,27,Undo It,Carrie Underwood,Carrie Underwood,country / folk,country,20100522,95,23,19,20100724
 26,28,In My Head,Jason Derulo,Jason Derulo,rnb / soul,rnb,20091226,63,5,34,20100724
@@ -2318,7 +2318,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 17,19,Impossible,Shontelle,Shontelle,rnb / soul,rnb,20100508,88,13,20,20100717
 18,22,I Like It,Enrique Iglesias Featuring Pitbull,Enrique Iglesias,pop,pop,20100529,89,4,38,20100717
 19,17,Nothin' On You,B.O.B Featuring Bruno Mars,B.O.B,hip-hop,hip-hop,20100213,89,1,28,20100717
-20,15,My First Kiss,3Oh!3 Featuring Ke$Ha,3Oh!3,pop,electronic,20100522,9,9,18,20100717
+20,15,My First Kiss,3Oh!3 Featuring Ke$Ha,3Oh!3,electronic,electronic,20100522,9,9,18,20100717
 21,21,Need You Now,Lady Antebellum,Lady Antebellum,country / folk,country,20090829,85,2,60,20100717
 22,NEW,Power,Kanye West Featuring Dwele,Kanye West,hip-hop,hip-hop,20100717,22,22,16,20100717
 23,26,Your Love,Nicki Minaj,Nicki Minaj,hip-hop,hip-hop,20100619,51,14,20,20100717
@@ -2398,7 +2398,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 97,NEW,All Over Me,Josh Turner,Josh Turner,country / folk,country,20100717,97,59,18,20100717
 98,86,Never Say Never,Justin Bieber Featuring Jaden Smith,Justin Bieber,pop,pop,20100626,33,33,5,20100717
 99,NEW,Cuando Me Enamoro,Enrique Iglesias Featuring Juan Luis Guerra,Enrique Iglesias,pop,pop,20100717,99,89,5,20100717
-100,NEW,I Can Do Anything,3Oh!3,3Oh!3,pop,electronic,20100717,100,100,1,20100717
+100,NEW,I Can Do Anything,3Oh!3,3Oh!3,electronic,electronic,20100717,100,100,1,20100717
 1,1,California Gurls,Katy Perry Featuring Snoop Dogg,Katy Perry,pop,pop,20100529,2,1,27,20100710
 2,NEW,Love The Way You Lie,Eminem Featuring Rihanna,Eminem,hip-hop,rap,20100710,2,1,29,20100710
 3,2,OMG,Usher Featuring Will.I.Am,Usher,rnb / soul,rnb,20100417,14,1,30,20100710
@@ -2413,7 +2413,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 12,10,Break Your Heart,Taio Cruz Featuring Ludacris,Taio Cruz,rnb / soul,rnb,20100313,53,1,29,20100710
 13,12,Bulletproof,La Roux,La Roux,pop,electropop,20100320,92,8,27,20100710
 14,31,Dynamite,Taio Cruz,Taio Cruz,rnb / soul,rnb,20100619,26,2,47,20100710
-15,15,My First Kiss,3Oh!3 Featuring Ke$Ha,3Oh!3,pop,electronic,20100522,9,9,18,20100710
+15,15,My First Kiss,3Oh!3 Featuring Ke$Ha,3Oh!3,electronic,electronic,20100522,9,9,18,20100710
 16,14,"Hey, Soul Sister",Train,Train,rock,rock,20091017,98,3,54,20100710
 17,13,Nothin' On You,B.O.B Featuring Bruno Mars,B.O.B,hip-hop,hip-hop,20100213,89,1,28,20100710
 18,22,Can't Be Tamed,Miley Cyrus,Miley Cyrus,pop,pop,20100605,8,8,10,20100710
@@ -2513,7 +2513,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 12,13,Bulletproof,La Roux,La Roux,pop,electropop,20100320,92,8,27,20100703
 13,11,Nothin' On You,B.O.B Featuring Bruno Mars,B.O.B,hip-hop,hip-hop,20100213,89,1,28,20100703
 14,12,"Hey, Soul Sister",Train,Train,rock,rock,20091017,98,3,54,20100703
-15,17,My First Kiss,3Oh!3 Featuring Ke$Ha,3Oh!3,pop,electronic,20100522,9,9,18,20100703
+15,17,My First Kiss,3Oh!3 Featuring Ke$Ha,3Oh!3,electronic,electronic,20100522,9,9,18,20100703
 16,19,Ridin' Solo,Jason Derulo,Jason Derulo,rnb / soul,rnb,20100605,84,9,21,20100703
 17,25,Impossible,Shontelle,Shontelle,rnb / soul,rnb,20100508,88,13,20,20100703
 18,15,Need You Now,Lady Antebellum,Lady Antebellum,country / folk,country,20090829,85,2,60,20100703
@@ -2587,7 +2587,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 86,91,Hold You (Hold Yuh),Gyptian,Gyptian,reggae,reggae,20100619,98,77,12,20100703
 87,74,Lil Freak,Usher Featuring Nicki Minaj,Usher,rnb / soul,rnb,20100320,43,40,16,20100703
 88,93,Animal,Neon Trees,Neon Trees,rock,indie,20100619,100,13,36,20100703
-89,NEW,Double Vision,3Oh!3,3Oh!3,pop,electronic,20100703,89,89,1,20100703
+89,NEW,Double Vision,3Oh!3,3Oh!3,electronic,electronic,20100703,89,89,1,20100703
 90,NEW,Pretty Boy Swag,Soulja Boy Tell'Em,Soulja Boy Tell'Em,hip-hop,hip-hop,20100703,90,34,16,20100703
 91,NEW,143,Bobby Brackins Featuring Ray J,Bobby Brackins,hip-hop,hip-hop,20100703,91,76,11,20100703
 92,NEW,Solo,Iyaz,Iyaz,rnb / soul,rnb,20100703,92,92,1,20100703
@@ -2615,7 +2615,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 14,19,Cooler Than Me,Mike Posner Featuring Big Sean,Mike Posner,rnb / soul,rnb,20100515,85,6,29,20100626
 15,14,Need You Now,Lady Antebellum,Lady Antebellum,country / folk,country,20090829,85,2,60,20100626
 16,16,Young Forever,Jay-Z & Mr. Hudson,Jay-Z,hip-hop,hip-hop,20100306,97,10,20,20100626
-17,28,My First Kiss,3Oh!3 Featuring Ke$Ha,3Oh!3,pop,electronic,20100522,9,9,18,20100626
+17,28,My First Kiss,3Oh!3 Featuring Ke$Ha,3Oh!3,electronic,electronic,20100522,9,9,18,20100626
 18,17,Rude Boy,Rihanna,Rihanna,pop,pop,20100227,64,1,22,20100626
 19,34,Ridin' Solo,Jason Derulo,Jason Derulo,rnb / soul,rnb,20100605,84,9,21,20100626
 20,18,In My Head,Jason Derulo,Jason Derulo,rnb / soul,rnb,20091226,63,5,34,20100626
@@ -2726,7 +2726,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 25,25,Undo It,Carrie Underwood,Carrie Underwood,country / folk,country,20100522,95,23,19,20100619
 26,NEW,Dynamite,Taio Cruz,Taio Cruz,rnb / soul,rnb,20100619,26,2,47,20100619
 27,27,Haven't Met You Yet,Michael Buble,Michael Buble,jazz,jazz,20091024,90,24,43,20100619
-28,36,My First Kiss,3Oh!3 Featuring Ke$Ha,3Oh!3,pop,electronic,20100522,9,9,18,20100619
+28,36,My First Kiss,3Oh!3 Featuring Ke$Ha,3Oh!3,electronic,electronic,20100522,9,9,18,20100619
 29,29,Un-Thinkable (I'm Ready),Alicia Keys,Alicia Keys,rnb / soul,soul,20100424,88,21,20,20100619
 30,28,Impossible,Shontelle,Shontelle,rnb / soul,rnb,20100508,88,13,20,20100619
 31,33,The House That Built Me,Miranda Lambert,Miranda Lambert,country / folk,country,20100410,98,28,20,20100619
@@ -2773,7 +2773,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 72,24,Beautiful Day,Lee Dewyze,Lee Dewyze,pop,american idol,20100612,24,24,2,20100619
 73,75,Neighbors Know My Name,Trey Songz,Trey Songz,rnb / soul,rnb,20100313,88,43,20,20100619
 74,64,"Beamer, Benz, Or Bentley",Lloyd Banks Featuring Juelz Santana,Lloyd Banks,hip-hop,rap,20100327,92,49,14,20100619
-75,NEW,Deja Vu,3Oh!3,3Oh!3,pop,electronic,20100619,75,75,1,20100619
+75,NEW,Deja Vu,3Oh!3,3Oh!3,electronic,electronic,20100619,75,75,1,20100619
 76,44,Hallelujah,Lee Dewyze,Lee Dewyze,pop,american idol,20100612,44,44,2,20100619
 77,82,Wrong Baby Wrong,Martina Mcbride,Martina Mcbride,country / folk,country,20100410,95,74,15,20100619
 78,73,I Gotta Get To You,George Strait,George Strait,country / folk,country,20100403,100,70,13,20100619
@@ -2834,7 +2834,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 33,28,The House That Built Me,Miranda Lambert,Miranda Lambert,country / folk,country,20100410,98,28,20,20100612
 34,33,I Made It (Cash Money Heroes),"Kevin Rudolf Featuring Birdman , Jay Sean & Lil Wayne",Kevin Rudolf,hip-hop,hip-hop,20100220,59,21,20,20100612
 35,29,Whataya Want From Me,Adam Lambert,Adam Lambert,pop,pop,20100102,72,10,30,20100612
-36,34,My First Kiss,3Oh!3 Featuring Ke$Ha,3Oh!3,pop,electronic,20100522,9,9,18,20100612
+36,34,My First Kiss,3Oh!3 Featuring Ke$Ha,3Oh!3,electronic,electronic,20100522,9,9,18,20100612
 37,39,All I Do Is Win,"Dj Khaled Featuring T-Pain, Ludacris, Snoop Dogg & Rick Ross",Dj Khaled,hip-hop,hip-hop,20100306,64,24,24,20100612
 38,30,Winner,Jamie Foxx Featuring Justin Timberlake & T.I.,Jamie Foxx,rnb / soul,rnb,20100424,28,28,11,20100612
 39,32,Imma Be,The Black Eyed Peas,The Black Eyed Peas,hip-hop,hip-hop,20100102,93,1,25,20100612
@@ -2887,7 +2887,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 86,90,I Keep On Loving You,Reba,Reba,country / folk,country,20100508,90,78,10,20100612
 87,88,Highway 20 Ride,Zac Brown Band,Zac Brown Band,country / folk,country,20100130,98,40,20,20100612
 88,NEW,The Boxer,Lee Dewyze,Lee Dewyze,pop,american idol,20100612,88,88,1,20100612
-89,49,Touchin' On My,3Oh!3,3Oh!3,pop,electronic,20100605,49,49,2,20100612
+89,49,Touchin' On My,3Oh!3,3Oh!3,electronic,electronic,20100605,49,49,2,20100612
 90,NEW,The Only Exception,Paramore,Paramore,rock,rock,20100612,90,24,20,20100612
 91,NEW,Teach Me How To Dougie,Cali Swag District,Cali Swag District,hip-hop,hip-hop,20100612,91,28,20,20100612
 92,26,Dream On,Glee Cast Featuring Neil Patrick Harris,Glee Cast,pop,musical,20100605,26,26,2,20100612
@@ -2932,7 +2932,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 31,NEW,I Dreamed A Dream,Glee Cast Featuring Idina Menzel,Glee Cast,pop,musical,20100605,31,31,2,20100605
 32,27,Imma Be,The Black Eyed Peas,The Black Eyed Peas,hip-hop,hip-hop,20100102,93,1,25,20100605
 33,33,I Made It (Cash Money Heroes),"Kevin Rudolf Featuring Birdman , Jay Sean & Lil Wayne",Kevin Rudolf,hip-hop,hip-hop,20100220,59,21,20,20100605
-34,21,My First Kiss,3Oh!3 Featuring Ke$Ha,3Oh!3,pop,electronic,20100522,9,9,18,20100605
+34,21,My First Kiss,3Oh!3 Featuring Ke$Ha,3Oh!3,electronic,electronic,20100522,9,9,18,20100605
 35,34,Bad Romance,Lady Gaga,Lady Gaga,pop,pop,20091114,9,2,34,20100605
 36,31,Say Aah,Trey Songz,Trey Songz,rnb / soul,rnb,20091128,81,9,29,20100605
 37,32,Carry Out,Timbaland Featuring Justin Timberlake,Timbaland,hip-hop,hip-hop,20091219,75,11,26,20100605
@@ -2947,7 +2947,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 46,46,This Afternoon,Nickelback,Nickelback,rock,rock,20100424,84,34,20,20100605
 47,48,Pray For You,Jaron And The Long Road To Love,Jaron And The Long Road To Love,country / folk,country,20100410,87,34,20,20100605
 48,44,Lose My MInd,Young Jeezy Featuring Plies,Young Jeezy,hip-hop,rap,20100522,35,35,15,20100605
-49,NEW,Touchin' On My,3Oh!3,3Oh!3,pop,electronic,20100605,49,49,2,20100605
+49,NEW,Touchin' On My,3Oh!3,3Oh!3,electronic,electronic,20100605,49,49,2,20100605
 50,45,Gimmie That Girl,Joe Nichols,Joe Nichols,country / folk,country,20100313,98,34,20,20100605
 51,NEW,Nightmare,Avenged Sevenfold,Avenged Sevenfold,rock,metalcore,20100605,51,51,2,20100605
 52,43,American Honey,Lady Antebellum,Lady Antebellum,country / folk,country,20100220,84,25,17,20100605
@@ -3019,7 +3019,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 18,22,Billionaire,Travie Mccoy Featuring Bruno Mars,Travie Mccoy,hip-hop,hip-hop,20100417,92,4,27,20100529
 19,23,Bulletproof,La Roux,La Roux,pop,electropop,20100320,92,8,27,20100529
 20,34,Find Your Love,Drake,Drake,hip-hop,hip-hop,20100522,34,5,21,20100529
-21,9,My First Kiss,3Oh!3 Featuring Ke$Ha,3Oh!3,pop,electronic,20100522,9,9,18,20100529
+21,9,My First Kiss,3Oh!3 Featuring Ke$Ha,3Oh!3,electronic,electronic,20100522,9,9,18,20100529
 22,18,Eenie Meenie,Sean Kingston & Justin Bieber,Sean Kingston & Justin Bieber,pop,electropop,20100410,30,15,18,20100529
 23,NEW,Jessie's Girl,Glee Cast,Glee Cast,pop,musical,20100529,23,23,3,20100529
 24,36,Rock That Body,The Black Eyed Peas,The Black Eyed Peas,hip-hop,hip-hop,20100515,62,9,18,20100529
@@ -3107,7 +3107,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 6,3,Rude Boy,Rihanna,Rihanna,pop,pop,20100227,64,1,22,20100522
 7,6,"Hey, Soul Sister",Train,Train,rock,rock,20091017,98,3,54,20100522
 8,8,Your Love Is My Drug,Ke$Ha,Ke$Ha,pop,pop,20100403,91,4,23,20100522
-9,NEW,My First Kiss,3Oh!3 Featuring Ke$Ha,3Oh!3,pop,electronic,20100522,9,9,18,20100522
+9,NEW,My First Kiss,3Oh!3 Featuring Ke$Ha,3Oh!3,electronic,electronic,20100522,9,9,18,20100522
 10,5,Need You Now,Lady Antebellum,Lady Antebellum,country / folk,country,20090829,85,2,60,20100522
 11,16,Alejandro,Lady Gaga,Lady Gaga,pop,pop,20100417,72,6,23,20100522
 12,10,Young Forever,Jay-Z & Mr. Hudson,Jay-Z,hip-hop,hip-hop,20100306,97,10,20,20100522
@@ -3592,7 +3592,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 91,88,There Goes My Baby,Usher,Usher,rnb / soul,rnb,20100410,100,25,24,20100424
 92,87,"Women Lie, Men Lie",Yo Gotti Featuring Lil Wayne,Yo Gotti,hip-hop,rap,20100313,93,81,7,20100424
 93,99,She Won't Be Lonely Long,Clay Walker,Clay Walker,country / folk,country,20100417,99,53,18,20100424
-94,86,Shots,Lmfao Featuring Lil Jon,Lmfao,pop,electronic,20100109,96,68,16,20100424
+94,86,Shots,Lmfao Featuring Lil Jon,Lmfao,electronic,electronic,20100109,96,68,16,20100424
 95,85,That's How Country Boys Roll,Billy Currington,Billy Currington,country / folk,country,20100116,96,57,16,20100424
 96,93,Just Breath,Pearl Jam,Pearl Jam,rock,grunge,20100130,99,78,14,20100424
 97,NEW,Give Me A Sign (Forever And Ever),Breaking Benjamin,Breaking Benjamin,rock,alternative rock,20100424,97,97,5,20100424
@@ -3684,7 +3684,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 83,83,Keep On Lovin' You,Steel Magnolia,Steel Magnolia,country / folk,country,20100320,99,68,15,20100417
 84,87,Pray For You,Jaron And The Long Road To Love,Jaron And The Long Road To Love,country / folk,country,20100410,87,34,20,20100417
 85,77,That's How Country Boys Roll,Billy Currington,Billy Currington,country / folk,country,20100116,96,57,16,20100417
-86,88,Shots,Lmfao Featuring Lil Jon,Lmfao,pop,electronic,20100109,96,68,16,20100417
+86,88,Shots,Lmfao Featuring Lil Jon,Lmfao,electronic,electronic,20100109,96,68,16,20100417
 87,84,"Women Lie, Men Lie",Yo Gotti Featuring Lil Wayne,Yo Gotti,hip-hop,rap,20100313,93,81,7,20100417
 88,100,There Goes My Baby,Usher,Usher,rnb / soul,rnb,20100410,100,25,24,20100417
 89,98,The House That Built Me,Miranda Lambert,Miranda Lambert,country / folk,country,20100410,98,28,20,20100417
@@ -3786,7 +3786,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 85,90,One Day,Matisyahu,Matisyahu,reggae,reggae,20100313,90,85,6,20100410
 86,NEW,Roger That,Young Money,Young Money,hip-hop,hip-hop,20100410,86,56,11,20100410
 87,NEW,Pray For You,Jaron And The Long Road To Love,Jaron And The Long Road To Love,country / folk,country,20100410,87,34,20,20100410
-88,93,Shots,Lmfao Featuring Lil Jon,Lmfao,pop,electronic,20100109,96,68,16,20100410
+88,93,Shots,Lmfao Featuring Lil Jon,Lmfao,electronic,electronic,20100109,96,68,16,20100410
 89,NEW,I Wanna Rock,Snoop Dogg,Snoop Dogg,hip-hop,hip-hop,20100410,89,89,1,20100410
 90,88,Soldier Of Love,Sade,Sade,rnb / soul,soul,20100130,58,52,11,20100410
 91,NEW,Rain Is A Good Thing,Luke Bryan,Luke Bryan,country / folk,country,20100410,91,37,20,20100410
@@ -3846,7 +3846,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 45,39,You Belong With Me,Taylor Swift,Taylor Swift,country / folk,country,20090516,87,2,49,20100403
 46,50,Naturally,Selena Gomez & The Scene,Selena Gomez & The Scene,pop,pop,20100109,39,29,21,20100403
 47,56,Everything To Me,Monica,Monica,rnb / soul,rnb,20100227,82,44,18,20100403
-48,38,Fireflies,Owl City,Owl City,pop,electronic,20090905,97,1,31,20100403
+48,38,Fireflies,Owl City,Owl City,electronic,electronic,20090905,97,1,31,20100403
 49,46,Whatcha Say,Jason Derulo,Jason Derulo,rnb / soul,rnb,20090829,54,1,32,20100403
 50,49,Why Don't We Just Dance,Josh Turner,Josh Turner,country / folk,country,20091128,99,35,20,20100403
 51,63,Neighbors Know My Name,Trey Songz,Trey Songz,rnb / soul,rnb,20100313,88,43,20,20100403
@@ -3891,7 +3891,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 90,89,One Day,Matisyahu,Matisyahu,reggae,reggae,20100313,90,85,6,20100403
 91,NEW,Your Love Is My Drug,Ke$Ha,Ke$Ha,pop,pop,20100403,91,4,23,20100403
 92,NEW,Love King,The-Dream,The-Dream,rnb / soul,rnb,20100403,92,92,1,20100403
-93,87,Shots,Lmfao Featuring Lil Jon,Lmfao,pop,electronic,20100109,96,68,16,20100403
+93,87,Shots,Lmfao Featuring Lil Jon,Lmfao,electronic,electronic,20100109,96,68,16,20100403
 94,82,American Saturday Night,Brad Paisley,Brad Paisley,country / folk,country,20100116,89,67,12,20100403
 95,71,Alice,Avril Lavigne,Avril Lavigne,pop,pop,20100320,71,71,3,20100403
 96,NEW,Fistful Of Tears,Maxwell,Maxwell,rnb / soul,soul,20100403,96,94,3,20100403
@@ -3936,7 +3936,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 35,NEW,Over,Drake,Drake,hip-hop,hip-hop,20100327,35,14,20,20100327
 36,39,Life After You,Daughtry,Daughtry,rock,rock,20091219,66,36,20,20100327
 37,53,I Made It (Cash Money Heroes),"Kevin Rudolf Featuring Birdman , Jay Sean & Lil Wayne",Kevin Rudolf,hip-hop,hip-hop,20100220,59,21,20,20100327
-38,38,Fireflies,Owl City,Owl City,pop,electronic,20090905,97,1,31,20100327
+38,38,Fireflies,Owl City,Owl City,electronic,electronic,20090905,97,1,31,20100327
 39,36,You Belong With Me,Taylor Swift,Taylor Swift,country / folk,country,20090516,87,2,49,20100327
 40,41,Hillbilly Bone,Blake Shelton Featuring Trace Adkins,Blake Shelton,country / folk,country,20100109,65,40,20,20100327
 41,59,Young Forever,Jay-Z & Mr. Hudson,Jay-Z,hip-hop,hip-hop,20100306,97,10,20,20100327
@@ -3985,7 +3985,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 84,98,The Man I Want To Be,Chris Young,Chris Young,country / folk,country,20100320,98,48,20,20100327
 85,100,Hell On The Heart,Eric Church,Eric Church,country / folk,country,20100320,100,67,12,20100327
 86,96,Backwoods,Justin Moore,Justin Moore,country / folk,country,20100313,100,69,13,20100327
-87,83,Shots,Lmfao Featuring Lil Jon,Lmfao,pop,electronic,20100109,96,68,16,20100327
+87,83,Shots,Lmfao Featuring Lil Jon,Lmfao,electronic,electronic,20100109,96,68,16,20100327
 88,99,Keep On Lovin' You,Steel Magnolia,Steel Magnolia,country / folk,country,20100320,99,68,15,20100327
 89,93,One Day,Matisyahu,Matisyahu,reggae,reggae,20100313,90,85,6,20100327
 90,NEW,Driving Me Crazy,Sam Adams,Sam Adams,hip-hop,rap,20100327,90,90,1,20100327
@@ -3996,7 +3996,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 95,NEW,Ooh Baby,Mario,Mario,rnb / soul,rnb,20100327,95,95,1,20100327
 96,66,We Are The World 25: For Haiti,Artists For Haiti,Artists For Haiti,pop,michael jackson,20100227,2,2,5,20100327
 97,91,All I Do Is Win,"Dj Khaled Featuring T-Pain, Ludacris, Snoop Dogg & Rick Ross",Dj Khaled,hip-hop,hip-hop,20100306,64,24,24,20100327
-98,NEW,Vanilla Twilight,Owl City,Owl City,pop,electronic,20100327,98,98,1,20100327
+98,NEW,Vanilla Twilight,Owl City,Owl City,electronic,electronic,20100327,98,98,1,20100327
 99,NEW,1901,Phoenix,Phoenix,rock,indie,20100327,99,99,2,20100327
 100,90,I Wanna Rock,Snoop Dogg,Snoop Dogg,hip-hop,hip-hop,20091226,80,41,14,20100327
 1,53,Break Your Heart,Taio Cruz Featuring Ludacris,Taio Cruz,rnb / soul,rnb,20100313,53,1,29,20100320
@@ -4036,7 +4036,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 35,29,Two Is Better Than One,Boys Like Girls Featuring Taylor Swift,Boys Like Girls,pop,pop punk,20091114,79,18,20,20100320
 36,33,You Belong With Me,Taylor Swift,Taylor Swift,country / folk,country,20090516,87,2,49,20100320
 37,39,Heartbreak Warfare,John Mayer,John Mayer,country / folk,singer-songwriter,20100102,85,34,19,20100320
-38,32,Fireflies,Owl City,Owl City,pop,electronic,20090905,97,1,31,20100320
+38,32,Fireflies,Owl City,Owl City,electronic,electronic,20090905,97,1,31,20100320
 39,41,Life After You,Daughtry,Daughtry,rock,rock,20091219,66,36,20,20100320
 40,37,On To The Next One,Jay-Z + Swizz Beatz,Jay-Z + Swizz Beatz,pop,unknown,20100130,78,37,14,20100320
 41,50,Hillbilly Bone,Blake Shelton Featuring Trace Adkins,Blake Shelton,country / folk,country,20100109,65,40,20,20100320
@@ -4081,13 +4081,13 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 80,84,O Let's Do It,Waka Flocka Flame,Waka Flocka Flame,hip-hop,hip-hop,20100227,95,62,11,20100320
 81,79,When I Look At You,Miley Cyrus,Miley Cyrus,pop,pop,20100306,96,16,12,20100320
 82,NEW,My Best Days Are Ahead Of Me,Danny Gokey,Danny Gokey,pop,american idol,20100320,82,82,1,20100320
-83,95,Shots,Lmfao Featuring Lil Jon,Lmfao,pop,electronic,20100109,96,68,16,20100320
+83,95,Shots,Lmfao Featuring Lil Jon,Lmfao,electronic,electronic,20100109,96,68,16,20100320
 84,98,Gimmie That Girl,Joe Nichols,Joe Nichols,country / folk,country,20100313,98,34,20,20100320
 85,81,I Invented Sex,Trey Songz Featuring Drake,Trey Songz,rnb / soul,rnb,20091107,90,42,20,20100320
 86,86,Drop The World,Lil Wayne Featuring Eminem,Lil Wayne,hip-hop,rap,20100116,18,18,20,20100320
 87,94,Fearless,Taylor Swift,Taylor Swift,country / folk,country,20100313,94,76,8,20100320
 88,93,"Women Lie, Men Lie",Yo Gotti Featuring Lil Wayne,Yo Gotti,hip-hop,rap,20100313,93,81,7,20100320
-89,NEW,Follow Me Down,3Oh!3 Featuring Neon Hitch,3Oh!3,pop,electronic,20100320,89,89,1,20100320
+89,NEW,Follow Me Down,3Oh!3 Featuring Neon Hitch,3Oh!3,electronic,electronic,20100320,89,89,1,20100320
 90,75,I Wanna Rock,Snoop Dogg,Snoop Dogg,hip-hop,hip-hop,20091226,80,41,14,20100320
 91,80,All I Do Is Win,"Dj Khaled Featuring T-Pain, Ludacris, Snoop Dogg & Rick Ross",Dj Khaled,hip-hop,hip-hop,20100306,64,24,24,20100320
 92,NEW,Bulletproof,La Roux,La Roux,pop,electropop,20100320,92,8,27,20100320
@@ -4130,7 +4130,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 29,29,Two Is Better Than One,Boys Like Girls Featuring Taylor Swift,Boys Like Girls,pop,pop punk,20091114,79,18,20,20100313
 30,31,Down,Jay Sean Featuring Lil Wayne,Jay Sean,rnb / soul,rnb,20090718,72,1,40,20100313
 31,24,Today Was A Fairytale,Taylor Swift,Taylor Swift,country / folk,country,20100206,2,2,18,20100313
-32,30,Fireflies,Owl City,Owl City,pop,electronic,20090905,97,1,31,20100313
+32,30,Fireflies,Owl City,Owl City,electronic,electronic,20090905,97,1,31,20100313
 33,35,You Belong With Me,Taylor Swift,Taylor Swift,country / folk,country,20090516,87,2,49,20100313
 34,27,Hard,Rihanna Featuring Jeezy,Rihanna,pop,pop,20091205,80,8,20,20100313
 35,36,Whatcha Say,Jason Derulo,Jason Derulo,rnb / soul,rnb,20090829,54,1,32,20100313
@@ -4193,11 +4193,11 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 92,94,Just Breath,Pearl Jam,Pearl Jam,rock,grunge,20100130,99,78,14,20100313
 93,NEW,"Women Lie, Men Lie",Yo Gotti Featuring Lil Wayne,Yo Gotti,hip-hop,rap,20100313,93,81,7,20100313
 94,NEW,Fearless,Taylor Swift,Taylor Swift,country / folk,country,20100313,94,76,8,20100313
-95,93,Shots,Lmfao Featuring Lil Jon,Lmfao,pop,electronic,20100109,96,68,16,20100313
+95,93,Shots,Lmfao Featuring Lil Jon,Lmfao,electronic,electronic,20100109,96,68,16,20100313
 96,NEW,Rain,Creed,Creed,rock,rock,20100313,96,96,1,20100313
 97,NEW,Didn't You Know How Much I Loved You,Kellie Pickler,Kellie Pickler,country / folk,country,20100313,97,97,1,20100313
 98,NEW,Gimmie That Girl,Joe Nichols,Joe Nichols,country / folk,country,20100313,98,34,20,20100313
-99,NEW,Vanilla Twilight,Owl City,Owl City,pop,electronic,20100313,99,99,1,20100313
+99,NEW,Vanilla Twilight,Owl City,Owl City,electronic,electronic,20100313,99,99,1,20100313
 100,NEW,Backwoods,Justin Moore,Justin Moore,country / folk,country,20100313,100,69,13,20100313
 1,3,Imma Be,The Black Eyed Peas,The Black Eyed Peas,hip-hop,hip-hop,20100102,93,1,25,20100306
 2,1,TiK ToK,Ke$Ha,Ke$Ha,pop,pop,20091024,79,1,38,20100306
@@ -4228,7 +4228,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 27,18,Hard,Rihanna Featuring Jeezy,Rihanna,pop,pop,20091205,80,8,20,20100306
 28,31,Whataya Want From Me,Adam Lambert,Adam Lambert,pop,pop,20100102,72,10,30,20100306
 29,23,Two Is Better Than One,Boys Like Girls Featuring Taylor Swift,Boys Like Girls,pop,pop punk,20091114,79,18,20,20100306
-30,24,Fireflies,Owl City,Owl City,pop,electronic,20090905,97,1,31,20100306
+30,24,Fireflies,Owl City,Owl City,electronic,electronic,20090905,97,1,31,20100306
 31,27,Down,Jay Sean Featuring Lil Wayne,Jay Sean,rnb / soul,rnb,20090718,72,1,40,20100306
 32,33,Say Something,Timbaland Featuring Drake,Timbaland,hip-hop,hip-hop,20100123,94,23,20,20100306
 33,25,Haven't Met You Yet,Michael Buble,Michael Buble,jazz,jazz,20091024,90,24,43,20100306
@@ -4287,11 +4287,11 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 86,74,Gangsta Luv,Snoop Dogg Featuring The-Dream,Snoop Dogg,hip-hop,hip-hop,20091107,57,35,19,20100306
 87,77,I Invented Sex,Trey Songz Featuring Drake,Trey Songz,rnb / soul,rnb,20091107,90,42,20,20100306
 88,86,Steady Mobbin',Young Money Featuring Gucci Mane,Young Money,hip-hop,hip-hop,20100213,95,54,17,20100306
-89,NEW,Follow Me Down,3Oh!3 Featuring Neon Hitch,3Oh!3,pop,electronic,20100306,89,89,1,20100306
+89,NEW,Follow Me Down,3Oh!3 Featuring Neon Hitch,3Oh!3,electronic,electronic,20100306,89,89,1,20100306
 90,82,Everything To Me,Monica,Monica,rnb / soul,rnb,20100227,82,44,18,20100306
 91,76,"Beamer, Benz or Bentley",Lloyd Banks Featuring Juelz Santana,Lloyd Banks,hip-hop,rap,20100227,76,76,2,20100306
 92,83,A Little More Country Than That,Easton Corbin,Easton Corbin,country / folk,country,20100123,100,42,20,20100306
-93,88,Shots,Lmfao Featuring Lil Jon,Lmfao,pop,electronic,20100109,96,68,16,20100306
+93,88,Shots,Lmfao Featuring Lil Jon,Lmfao,electronic,electronic,20100109,96,68,16,20100306
 94,91,Just Breath,Pearl Jam,Pearl Jam,rock,grunge,20100130,99,78,14,20100306
 95,95,O Let's Do It,Waka Flocka Flame,Waka Flocka Flame,hip-hop,hip-hop,20100227,95,62,11,20100306
 96,NEW,When I Look At You,Miley Cyrus,Miley Cyrus,pop,pop,20100306,96,16,12,20100306
@@ -4322,7 +4322,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 21,24,Live Like We're Dying,Kris Allen,Kris Allen,pop,american idol,20091121,92,18,28,20100227
 22,19,Do You Remember,Jay Sean Featuring Sean Paul & Lil Jon,Jay Sean,rnb / soul,rnb,20091121,27,10,20,20100227
 23,21,Two Is Better Than One,Boys Like Girls Featuring Taylor Swift,Boys Like Girls,pop,pop punk,20091114,79,18,20,20100227
-24,17,Fireflies,Owl City,Owl City,pop,electronic,20090905,97,1,31,20100227
+24,17,Fireflies,Owl City,Owl City,electronic,electronic,20090905,97,1,31,20100227
 25,30,Haven't Met You Yet,Michael Buble,Michael Buble,jazz,jazz,20091024,90,24,43,20100227
 26,29,Tie Me Down,New Boyz Featuring Ray J,New Boyz,hip-hop,hip-hop,20091031,97,22,26,20100227
 27,23,Down,Jay Sean Featuring Lil Wayne,Jay Sean,rnb / soul,rnb,20090718,72,1,40,20100227
@@ -4386,7 +4386,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 85,92,All The Way Turnt Up,Roscoe Dash Featuring Soulja Boy Tell'Em,Roscoe Dash,hip-hop,hip-hop,20100213,100,46,12,20100227
 86,98,Steady Mobbin',Young Money Featuring Gucci Mane,Young Money,hip-hop,hip-hop,20100213,95,54,17,20100227
 87,81,I Wanna Make You Close Your Eyes,Dierks Bentley,Dierks Bentley,country / folk,country,20091017,91,52,20,20100227
-88,87,Shots,Lmfao Featuring Lil Jon,Lmfao,pop,electronic,20100109,96,68,16,20100227
+88,87,Shots,Lmfao Featuring Lil Jon,Lmfao,electronic,electronic,20100109,96,68,16,20100227
 89,90,I Can Transform Ya,Chris Brown Featuring Lil Wayne & Swizz Beatz,Chris Brown,rnb / soul,rnb,20091024,52,20,19,20100227
 90,83,Southern Voice,Tim Mcgraw,Tim Mcgraw,country / folk,country,20091107,61,49,18,20100227
 91,89,Just Breath,Pearl Jam,Pearl Jam,rock,grunge,20100130,99,78,14,20100227
@@ -4415,7 +4415,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 14,12,Empire State Of Mind,Jay-Z & Alicia Keys,Jay-Z & Alicia Keys,hip-hop,hip-hop,20090926,50,1,30,20100220
 15,17,Say Aah,Trey Songz,Trey Songz,rnb / soul,rnb,20091128,81,9,29,20100220
 16,19,Telephone,Lady Gaga Featuring Beyonce,Lady Gaga,pop,pop,20091212,30,3,33,20100220
-17,15,Fireflies,Owl City,Owl City,pop,electronic,20090905,97,1,31,20100220
+17,15,Fireflies,Owl City,Owl City,electronic,electronic,20090905,97,1,31,20100220
 18,NEW,Glitter In The Air,Pink,Pink,pop,pop,20100220,18,18,2,20100220
 19,18,Do You Remember,Jay Sean Featuring Sean Paul & Lil Jon,Jay Sean,rnb / soul,rnb,20091121,27,10,20,20100220
 20,21,According To You,Orianthi,Orianthi,rock,rock,20091219,67,17,21,20100220
@@ -4485,7 +4485,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 84,NEW,American Honey,Lady Antebellum,Lady Antebellum,country / folk,country,20100220,84,25,17,20100220
 85,86,'Til Summer Comes Around,Keith Urban,Keith Urban,country / folk,country,20100130,92,58,16,20100220
 86,13,Hallelujah,Justin Timberlake & Matt Morris Featuring Charlie Sexton,Justin Timberlake & Matt Morris,pop,pop,20100206,48,13,3,20100220
-87,69,Shots,Lmfao Featuring Lil Jon,Lmfao,pop,electronic,20100109,96,68,16,20100220
+87,69,Shots,Lmfao Featuring Lil Jon,Lmfao,electronic,electronic,20100109,96,68,16,20100220
 88,NEW,Who I Am,Nick Jonas & The Administration,Nick Jonas & The Administration,pop,pop,20100220,88,88,1,20100220
 89,88,Just Breath,Pearl Jam,Pearl Jam,rock,grunge,20100130,99,78,14,20100220
 90,83,I Can Transform Ya,Chris Brown Featuring Lil Wayne & Swizz Beatz,Chris Brown,rnb / soul,rnb,20091024,52,20,19,20100220
@@ -4495,7 +4495,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 94,84,Consider Me Gone,Reba,Reba,country / folk,country,20091017,96,38,19,20100220
 95,87,Spotlight,Gucci Mane Featuring Usher,Gucci Mane,hip-hop,hip-hop,20091114,93,42,16,20100220
 96,90,1901,Phoenix,Phoenix,rock,indie,20091219,90,84,10,20100220
-97,NEW,Major Tom,Shiny Toy Guns,Shiny Toy Guns,pop,electronic,20100220,97,97,1,20100220
+97,NEW,Major Tom,Shiny Toy Guns,Shiny Toy Guns,electronic,electronic,20100220,97,97,1,20100220
 98,95,Steady Mobbin',Young Money Featuring Gucci Mane,Young Money,hip-hop,hip-hop,20100213,95,54,17,20100220
 99,NEW,Fearless,Taylor Swift,Taylor Swift,country / folk,country,20100220,99,97,2,20100220
 100,96,Ain't Leavin' Without You,Jaheim,Jaheim,rnb / soul,rnb,20100213,96,93,3,20100220
@@ -4513,7 +4513,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 12,8,Empire State Of Mind,Jay-Z & Alicia Keys,Jay-Z & Alicia Keys,hip-hop,hip-hop,20090926,50,1,30,20100213
 13,48,Hallelujah,Justin Timberlake & Matt Morris Featuring Charlie Sexton,Justin Timberlake & Matt Morris,pop,pop,20100206,48,13,3,20100213
 14,28,In My Head,Jason Derulo,Jason Derulo,rnb / soul,rnb,20091226,63,5,34,20100213
-15,13,Fireflies,Owl City,Owl City,pop,electronic,20090905,97,1,31,20100213
+15,13,Fireflies,Owl City,Owl City,electronic,electronic,20090905,97,1,31,20100213
 16,15,I Gotta Feeling,The Black Eyed Peas,The Black Eyed Peas,hip-hop,hip-hop,20090627,2,1,56,20100213
 17,19,Say Aah,Trey Songz,Trey Songz,rnb / soul,rnb,20091128,81,9,29,20100213
 18,17,Do You Remember,Jay Sean Featuring Sean Paul & Lil Jon,Jay Sean,rnb / soul,rnb,20091121,27,10,20,20100213
@@ -4567,7 +4567,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 66,77,Hillbilly Bone,Blake Shelton Featuring Trace Adkins,Blake Shelton,country / folk,country,20100109,65,40,20,20100213
 67,78,American Saturday Night,Brad Paisley,Brad Paisley,country / folk,country,20100116,89,67,12,20100213
 68,65,Never Gonna Be Alone,Nickelback,Nickelback,rock,rock,20091121,96,58,16,20100213
-69,68,Shots,Lmfao Featuring Lil Jon,Lmfao,pop,electronic,20100109,96,68,16,20100213
+69,68,Shots,Lmfao Featuring Lil Jon,Lmfao,electronic,electronic,20100109,96,68,16,20100213
 70,82,Temporary Home,Carrie Underwood,Carrie Underwood,country / folk,country,20100116,97,41,19,20100213
 71,54,Set The Fire To The Third Bar,Snow Patrol Featuring Martha Wainwright,Snow Patrol,rock,indie,20100130,86,54,5,20100213
 72,NEW,Breathless,Taylor Swift,Taylor Swift,country / folk,country,20100213,72,72,1,20100213
@@ -4611,7 +4611,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 10,7,"Hey, Soul Sister",Train,Train,rock,rock,20091017,98,3,54,20100206
 11,15,Imma Be,The Black Eyed Peas,The Black Eyed Peas,hip-hop,hip-hop,20100102,93,1,25,20100206
 12,10,How Low,Ludacris,Ludacris,hip-hop,rap,20091226,13,6,21,20100206
-13,9,Fireflies,Owl City,Owl City,pop,electronic,20090905,97,1,31,20100206
+13,9,Fireflies,Owl City,Owl City,electronic,electronic,20090905,97,1,31,20100206
 14,32,Carry Out,Timbaland Featuring Justin Timberlake,Timbaland,hip-hop,hip-hop,20091219,75,11,26,20100206
 15,11,I Gotta Feeling,The Black Eyed Peas,The Black Eyed Peas,hip-hop,hip-hop,20090627,2,1,56,20100206
 16,NEW,Stranded (Haiti Mon Amour),"Jay-Z, Bono, The Edge & Rihanna","Jay-Z, Bono, The Edge & Rihanna",rock,rock,20100206,16,16,2,20100206
@@ -4666,7 +4666,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 65,60,Never Gonna Be Alone,Nickelback,Nickelback,rock,rock,20091121,96,58,16,20100206
 66,70,Heartbreak Warfare,John Mayer,John Mayer,country / folk,singer-songwriter,20100102,85,34,19,20100206
 67,71,Halfway Gone,Lifehouse,Lifehouse,rock,rock,20091226,99,50,20,20100206
-68,77,Shots,Lmfao Featuring Lil Jon,Lmfao,pop,electronic,20100109,96,68,16,20100206
+68,77,Shots,Lmfao Featuring Lil Jon,Lmfao,electronic,electronic,20100109,96,68,16,20100206
 69,58,Soldier Of Love,Sade,Sade,rnb / soul,soul,20100130,58,52,11,20100206
 70,65,I Invented Sex,Trey Songz Featuring Drake,Trey Songz,rnb / soul,rnb,20091107,90,42,20,20100206
 71,57,I Can Transform Ya,Chris Brown Featuring Lil Wayne & Swizz Beatz,Chris Brown,rnb / soul,rnb,20091024,52,20,19,20100206
@@ -4707,7 +4707,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 6,6,Sexy Bitch,David Guetta Featuring Akon,David Guetta,electronic,house,20090905,92,5,38,20100130
 7,23,"Hey, Soul Sister",Train,Train,rock,rock,20091017,98,3,54,20100130
 8,9,Hard,Rihanna Featuring Jeezy,Rihanna,pop,pop,20091205,80,8,20,20100130
-9,5,Fireflies,Owl City,Owl City,pop,electronic,20090905,97,1,31,20100130
+9,5,Fireflies,Owl City,Owl City,electronic,electronic,20090905,97,1,31,20100130
 10,14,How Low,Ludacris,Ludacris,hip-hop,rap,20091226,13,6,21,20100130
 11,12,I Gotta Feeling,The Black Eyed Peas,The Black Eyed Peas,hip-hop,hip-hop,20090627,2,1,56,20100130
 12,7,Blah Blah Blah,Ke$Ha Featuring 3Oh!3,Ke$Ha,pop,pop,20100123,7,7,20,20100130
@@ -4775,7 +4775,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 74,69,Do I,Luke Bryan,Luke Bryan,country / folk,country,20090919,86,34,20,20100130
 75,78,Someday,Rob Thomas,Rob Thomas,pop,pop,20091121,93,59,22,20100130
 76,60,Baby By Me,50 Cent Featuring Ne-Yo,50 Cent,hip-hop,rap,20091114,31,28,13,20100130
-77,83,Shots,Lmfao Featuring Lil Jon,Lmfao,pop,electronic,20100109,96,68,16,20100130
+77,83,Shots,Lmfao Featuring Lil Jon,Lmfao,electronic,electronic,20100109,96,68,16,20100130
 78,NEW,On To The Next One,Jay-Z + Swizz Beatz,Jay-Z + Swizz Beatz,pop,unknown,20100130,78,37,14,20100130
 79,58,Give It Up To Me,Shakira Featuring Lil Wayne,Shakira,pop,pop,20091128,58,29,11,20100130
 80,87,American Saturday Night,Brad Paisley,Brad Paisley,country / folk,country,20100116,89,67,12,20100130
@@ -4803,7 +4803,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 2,2,Bad Romance,Lady Gaga,Lady Gaga,pop,pop,20091114,9,2,34,20100123
 3,4,Empire State Of Mind,Jay-Z & Alicia Keys,Jay-Z & Alicia Keys,hip-hop,hip-hop,20090926,50,1,30,20100123
 4,3,Replay,Iyaz,Iyaz,rnb / soul,rnb,20090905,96,2,34,20100123
-5,5,Fireflies,Owl City,Owl City,pop,electronic,20090905,97,1,31,20100123
+5,5,Fireflies,Owl City,Owl City,electronic,electronic,20090905,97,1,31,20100123
 6,6,Sexy Bitch,David Guetta Featuring Akon,David Guetta,electronic,house,20090905,92,5,38,20100123
 7,NEW,Blah Blah Blah,Ke$Ha Featuring 3Oh!3,Ke$Ha,pop,pop,20100123,7,7,20,20100123
 8,12,Bedrock,Young Money Featuring Lloyd,Young Money,hip-hop,hip-hop,20091212,36,2,25,20100123
@@ -4881,7 +4881,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 80,73,I Will Not Bow,Breaking Benjamin,Breaking Benjamin,rock,alternative rock,20090919,40,40,20,20100123
 81,80,Papers,Usher,Usher,rnb / soul,rnb,20091031,92,31,16,20100123
 82,77,Red Light,David Nail,David Nail,country / folk,country,20091010,95,54,16,20100123
-83,95,Shots,Lmfao Featuring Lil Jon,Lmfao,pop,electronic,20100109,96,68,16,20100123
+83,95,Shots,Lmfao Featuring Lil Jon,Lmfao,electronic,electronic,20100109,96,68,16,20100123
 84,88,1901,Phoenix,Phoenix,rock,indie,20091219,90,84,10,20100123
 85,NEW,Take It Off,Ke$Ha,Ke$Ha,pop,pop,20100123,85,85,1,20100123
 86,92,Sex Therapy,Robin Thicke,Robin Thicke,rnb / soul,soul,20100102,79,54,19,20100123
@@ -4903,7 +4903,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 2,3,Bad Romance,Lady Gaga,Lady Gaga,pop,pop,20091114,9,2,34,20100116
 3,2,Replay,Iyaz,Iyaz,rnb / soul,rnb,20090905,96,2,34,20100116
 4,5,Empire State Of Mind,Jay-Z & Alicia Keys,Jay-Z & Alicia Keys,hip-hop,hip-hop,20090926,50,1,30,20100116
-5,4,Fireflies,Owl City,Owl City,pop,electronic,20090905,97,1,31,20100116
+5,4,Fireflies,Owl City,Owl City,electronic,electronic,20090905,97,1,31,20100116
 6,9,Sexy Bitch,David Guetta Featuring Akon,David Guetta,electronic,house,20090905,92,5,38,20100116
 7,7,Down,Jay Sean Featuring Lil Wayne,Jay Sean,rnb / soul,rnb,20090718,72,1,40,20100116
 8,6,Whatcha Say,Jason Derulo,Jason Derulo,rnb / soul,rnb,20090829,54,1,32,20100116
@@ -4988,12 +4988,12 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 87,89,I Wanna Rock,Snoop Dogg,Snoop Dogg,hip-hop,hip-hop,20091226,80,41,14,20100116
 88,90,1901,Phoenix,Phoenix,rock,indie,20091219,90,84,10,20100116
 89,NEW,American Saturday Night,Brad Paisley,Brad Paisley,country / folk,country,20100116,89,67,12,20100116
-90,72,Vanilla Twilight,Owl City,Owl City,pop,electronic,20100109,72,72,2,20100116
+90,72,Vanilla Twilight,Owl City,Owl City,electronic,electronic,20100109,72,72,2,20100116
 91,NEW,Cryin' For Me (Wayman's Song),Toby Keith,Toby Keith,country / folk,country,20100116,91,73,9,20100116
 92,94,Sex Therapy,Robin Thicke,Robin Thicke,rnb / soul,soul,20100102,79,54,19,20100116
 93,88,Hot Mess,Cobra Starship,Cobra Starship,pop,pop punk,20100109,88,88,4,20100116
 94,NEW,Gettin' You Home (The Black Dress Song),Chris Young,Chris Young,country / folk,country,20100116,94,94,1,20100116
-95,96,Shots,Lmfao Featuring Lil Jon,Lmfao,pop,electronic,20100109,96,68,16,20100116
+95,96,Shots,Lmfao Featuring Lil Jon,Lmfao,electronic,electronic,20100109,96,68,16,20100116
 96,NEW,That's How Country Boys Roll,Billy Currington,Billy Currington,country / folk,country,20100116,96,57,16,20100116
 97,NEW,Temporary Home,Carrie Underwood,Carrie Underwood,country / folk,country,20100116,97,41,19,20100116
 98,99,Halfway Gone,Lifehouse,Lifehouse,rock,rock,20091226,99,50,20,20100116
@@ -5002,7 +5002,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 1,1,TiK ToK,Ke$Ha,Ke$Ha,pop,pop,20091024,79,1,38,20100109
 2,4,Replay,Iyaz,Iyaz,rnb / soul,rnb,20090905,96,2,34,20100109
 3,3,Bad Romance,Lady Gaga,Lady Gaga,pop,pop,20091114,9,2,34,20100109
-4,5,Fireflies,Owl City,Owl City,pop,electronic,20090905,97,1,31,20100109
+4,5,Fireflies,Owl City,Owl City,electronic,electronic,20090905,97,1,31,20100109
 5,2,Empire State Of Mind,Jay-Z & Alicia Keys,Jay-Z & Alicia Keys,hip-hop,hip-hop,20090926,50,1,30,20100109
 6,7,Whatcha Say,Jason Derulo,Jason Derulo,rnb / soul,rnb,20090829,54,1,32,20100109
 7,8,Down,Jay Sean Featuring Lil Wayne,Jay Sean,rnb / soul,rnb,20090718,72,1,40,20100109
@@ -5070,7 +5070,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 69,97,I'm Going In,Drake Featuring Lil Wayne & Young Jeezy,Drake,hip-hop,hip-hop,20091003,40,40,17,20100109
 70,49,It Kills Me,Melanie Fiona,Melanie Fiona,rnb / soul,soul,20091205,88,43,20,20100109
 71,59,Carry Out,Timbaland Featuring Justin Timberlake,Timbaland,hip-hop,hip-hop,20091219,75,11,26,20100109
-72,NEW,Vanilla Twilight,Owl City,Owl City,pop,electronic,20100109,72,72,2,20100109
+72,NEW,Vanilla Twilight,Owl City,Owl City,electronic,electronic,20100109,72,72,2,20100109
 73,82,Break,Three Days Grace,Three Days Grace,rock,alternative rock,20090926,91,73,20,20100109
 74,64,Why Don't We Just Dance,Josh Turner,Josh Turner,country / folk,country,20091128,99,35,20,20100109
 75,57,I Wanna Make You Close Your Eyes,Dierks Bentley,Dierks Bentley,country / folk,country,20091017,91,52,20,20100109
@@ -5094,7 +5094,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 93,85,Heartbreak Warfare,John Mayer,John Mayer,country / folk,singer-songwriter,20100102,85,34,19,20100109
 94,79,Sex Therapy,Robin Thicke,Robin Thicke,rnb / soul,soul,20100102,79,54,19,20100109
 95,76,Bonfire,Craig Morgan,Craig Morgan,country / folk,country,20091010,98,57,14,20100109
-96,NEW,Shots,Lmfao Featuring Lil Jon,Lmfao,pop,electronic,20100109,96,68,16,20100109
+96,NEW,Shots,Lmfao Featuring Lil Jon,Lmfao,electronic,electronic,20100109,96,68,16,20100109
 97,NEW,American Honey,Lady Antebellum,Lady Antebellum,country / folk,country,20100109,97,97,2,20100109
 98,100,Video Phone,Beyonce,Beyonce,rnb / soul,rnb,20091212,65,65,5,20100109
 99,91,Halfway Gone,Lifehouse,Lifehouse,rock,rock,20091226,99,50,20,20100109
@@ -5103,7 +5103,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 2,1,Empire State Of Mind,Jay-Z & Alicia Keys,Jay-Z & Alicia Keys,hip-hop,hip-hop,20090926,50,1,30,20100102
 3,3,Bad Romance,Lady Gaga,Lady Gaga,pop,pop,20091114,9,2,34,20100102
 4,4,Replay,Iyaz,Iyaz,rnb / soul,rnb,20090905,96,2,34,20100102
-5,5,Fireflies,Owl City,Owl City,pop,electronic,20090905,97,1,31,20100102
+5,5,Fireflies,Owl City,Owl City,electronic,electronic,20090905,97,1,31,20100102
 6,6,Sexy Bitch,David Guetta Featuring Akon,David Guetta,electronic,house,20090905,92,5,38,20100102
 7,7,Whatcha Say,Jason Derulo,Jason Derulo,rnb / soul,rnb,20090829,54,1,32,20100102
 8,10,Down,Jay Sean Featuring Lil Wayne,Jay Sean,rnb / soul,rnb,20090718,72,1,40,20100102

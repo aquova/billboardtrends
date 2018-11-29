@@ -1495,7 +1495,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 64,80,Rock This Town,The Stray Cats,The Stray Cats,rock,rockabilly,19820918,80,9,21,19820925
 65,70,Close Enough To Perfect,Alabama,Alabama,country / folk,country,19820904,89,65,12,19820925
 66,71,Burning Down One Side,Robert Plant,Robert Plant,rock,classic rock,19820911,81,64,6,19820925
-67,67,She Looks Alot Like You,The Clocks,The Clocks,pop,electronic,19820828,86,67,5,19820925
+67,67,She Looks Alot Like You,The Clocks,The Clocks,electronic,electronic,19820828,86,67,5,19820925
 68,75,What About Me,Moving Pictures,Moving Pictures,pop,80s,19820918,75,29,26,19820925
 69,76,Young Love,Air Supply,Air Supply,pop,80s,19820918,76,38,9,19820925
 70,78,A Penny For Your Thoughts,Tavares,Tavares,disco,disco,19820918,78,33,21,19820925
@@ -1605,7 +1605,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 64,72,Take The L,The Motels,The Motels,rock,new wave,19820904,85,52,9,19820918
 65,75,I Get Excited,Rick Springfield,Rick Springfield,pop,80s,19820911,75,32,12,19820918
 66,77,The Look Of Love,Abc,Abc,pop,80s,19820911,77,18,25,19820918
-67,70,She Looks Alot Like You,The Clocks,The Clocks,pop,electronic,19820828,86,67,5,19820918
+67,70,She Looks Alot Like You,The Clocks,The Clocks,electronic,electronic,19820828,86,67,5,19820918
 68,78,I Need You,Paul Carrack,Paul Carrack,rock,soft rock,19820904,90,37,13,19820918
 69,NEW,Southern Cross,"Crosby, Stills And Nash","Crosby, Stills And Nash",rock,classic rock,19820918,69,18,17,19820918
 70,80,Close Enough To Perfect,Alabama,Alabama,country / folk,country,19820904,89,65,12,19820918
@@ -1718,7 +1718,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 67,79,Machinery,Sheena Easton,Sheena Easton,pop,pop,19820904,79,57,7,19820911
 68,68,Let It Whip,The Dazz Band,The Dazz Band,rnb / soul,funk,19820424,88,5,23,19820911
 69,NEW,Heartlight,Neil Diamond,Neil Diamond,country / folk,singer-songwriter,19820911,69,5,19,19820911
-70,80,She Looks Alot Like You,The Clocks,The Clocks,pop,electronic,19820828,86,67,5,19820911
+70,80,She Looks Alot Like You,The Clocks,The Clocks,electronic,electronic,19820828,86,67,5,19820911
 71,83,Mickey,Toni Basil,Toni Basil,pop,80s,19820904,83,1,27,19820911
 72,85,Take The L,The Motels,The Motels,rock,new wave,19820904,85,52,9,19820911
 73,73,Right Away,Kansas,Kansas,rock,classic rock,19820821,85,73,6,19820911
@@ -1838,7 +1838,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 77,NEW,Athena,The Who,The Who,rock,classic rock,19820904,77,28,14,19820904
 78,89,Nobody,Sylvia,Sylvia,rnb / soul,soul,19820828,89,15,20,19820904
 79,NEW,Machinery,Sheena Easton,Sheena Easton,pop,pop,19820904,79,57,7,19820904
-80,86,She Looks Alot Like You,The Clocks,The Clocks,pop,electronic,19820828,86,67,5,19820904
+80,86,She Looks Alot Like You,The Clocks,The Clocks,electronic,electronic,19820828,86,67,5,19820904
 81,79,Your Daddy Don't Know,Toronto,Toronto,pop,canadian,19820807,90,77,8,19820904
 82,82,Don't Run My Life,Spys,Spys,pop,aor,19820814,88,82,5,19820904
 83,NEW,Mickey,Toni Basil,Toni Basil,pop,80s,19820904,83,1,27,19820904
@@ -1954,7 +1954,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 83,89,Up Where We Belong,Joe Cocker & Jennifer Warnes,Joe Cocker & Jennifer Warnes,pop,80s,19820821,89,1,23,19820828
 84,75,Luanne,Foreigner,Foreigner,rock,classic rock,19820731,89,75,6,19820828
 85,NEW,Love Come Down,Evelyn King,Evelyn King,disco,disco,19820828,85,17,16,19820828
-86,NEW,She Looks Alot Like You,The Clocks,The Clocks,pop,electronic,19820828,86,67,5,19820828
+86,NEW,She Looks Alot Like You,The Clocks,The Clocks,electronic,electronic,19820828,86,67,5,19820828
 87,28,If The Love Fits Wear It,Leslie Pearl,Leslie Pearl,pop,love this girl she can sang,19820522,90,28,16,19820828
 88,108,Ain't Nothing Like The Real Thing / You're All I Need To Get,Chris Christian With Amy Holland,Chris Christian With Amy Holland,pop,unknown,19820814,104,88,5,19820828
 89,NEW,Nobody,Sylvia,Sylvia,rnb / soul,soul,19820828,89,15,20,19820828
@@ -2625,7 +2625,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 94,108,Into My Love,Greg Guidry,Greg Guidry,pop,aor,19820703,105,92,4,19820717
 95,95,When It's Over,Loverboy With Nancy Nash,Loverboy With Nancy Nash,pop,unknown,19820410,79,26,15,19820717
 96,89,Man On Your Mind,The Little River Band,The Little River Band,rock,classic rock,19820403,69,14,16,19820717
-97,63,I'll Find My Way Home,Jon & Vangelis,Jon & Vangelis,pop,electronic,19820522,81,51,9,19820717
+97,63,I'll Find My Way Home,Jon & Vangelis,Jon & Vangelis,electronic,electronic,19820522,81,51,9,19820717
 98,99,Outlaw,War,War,rnb / soul,funk,19820710,99,94,3,19820717
 99,67,Right Kind Of Love,Quarterflash,Quarterflash,pop,80s,19820529,82,56,8,19820717
 100,70,Happy Hour,Deodato With Kelly Barretto,Deodato With Kelly Barretto,pop,unknown,19820619,83,70,5,19820717
@@ -2701,7 +2701,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 60,36,Hope You Love Me Like You Say You Do,Huey Lewis And The News,Huey Lewis And The News,pop,80s,19820515,79,36,11,19820710
 61,63,Cutie Pie,One Way,One Way,rnb / soul,funk,19820529,88,61,10,19820710
 62,50,Making Love,Roberta Flack,Roberta Flack,rnb / soul,soul,19820306,80,13,21,19820710
-63,51,I'll Find My Way Home,Jon & Vangelis,Jon & Vangelis,pop,electronic,19820522,81,51,9,19820710
+63,51,I'll Find My Way Home,Jon & Vangelis,Jon & Vangelis,electronic,electronic,19820522,81,51,9,19820710
 64,74,To Dream The Dream,Frankie Miller,Frankie Miller,rock,rock,19820619,88,62,6,19820710
 65,77,Hot In The City,Billy Idol,Billy Idol,rock,rock,19820626,109,23,18,19820710
 66,54,It's Gonna Take A Miracle,Denise Williams,Denise Williams,rnb / soul,soul,19820403,66,10,17,19820710
@@ -2799,7 +2799,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 48,55,Paperlate,Genesis,Genesis,rock,progressive rock,19820605,90,32,14,19820703
 49,56,Your Imagination,Daryl Hall & John Oates,Daryl Hall & John Oates,pop,80s,19820619,69,33,11,19820703
 50,13,Making Love,Roberta Flack,Roberta Flack,rnb / soul,soul,19820306,80,13,21,19820703
-51,51,I'll Find My Way Home,Jon & Vangelis,Jon & Vangelis,pop,electronic,19820522,81,51,9,19820703
+51,51,I'll Find My Way Home,Jon & Vangelis,Jon & Vangelis,electronic,electronic,19820522,81,51,9,19820703
 52,58,Landslide,Olivia Newton-John,Olivia Newton-John,pop,pop,19820612,82,52,8,19820703
 53,60,If You Want My Love,Cheap Trick,Cheap Trick,rock,classic rock,19820605,81,45,11,19820703
 54,15,It's Gonna Take A Miracle,Denise Williams,Denise Williams,rnb / soul,soul,19820403,66,10,17,19820703
@@ -2909,7 +2909,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 48,NEW,Wasted On The Way,"Crosby, Stills And Nash","Crosby, Stills And Nash",rock,classic rock,19820626,48,9,15,19820626
 49,49,Love Plus One,Haircut One Hundred,Haircut One Hundred,rock,new wave,19820501,106,37,19,19820626
 50,51,Nice Girls,Eye To Eye,Eye To Eye,pop,hardcore,19820522,89,37,13,19820626
-51,53,I'll Find My Way Home,Jon & Vangelis,Jon & Vangelis,pop,electronic,19820522,81,51,9,19820626
+51,53,I'll Find My Way Home,Jon & Vangelis,Jon & Vangelis,electronic,electronic,19820522,81,51,9,19820626
 52,19,Man On Your Mind,The Little River Band,The Little River Band,rock,classic rock,19820403,69,14,16,19820626
 53,57,I Found Somebody,Glenn Frey,Glenn Frey,pop,80s,19820605,77,31,13,19820626
 54,58,Out Of Work,Gary U.S. Bonds,Gary U.S. Bonds,pop,oldies,19820612,69,21,16,19820626
@@ -3021,7 +3021,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 50,56,Kids In America,Kim Wilde,Kim Wilde,pop,80s,19820522,88,25,18,19820619
 51,55,Nice Girls,Eye To Eye,Eye To Eye,pop,hardcore,19820522,89,37,13,19820619
 52,61,If The Love Fits Wear It,Leslie Pearl,Leslie Pearl,pop,love this girl she can sang,19820522,90,28,16,19820619
-53,58,I'll Find My Way Home,Jon & Vangelis,Jon & Vangelis,pop,electronic,19820522,81,51,9,19820619
+53,58,I'll Find My Way Home,Jon & Vangelis,Jon & Vangelis,electronic,electronic,19820522,81,51,9,19820619
 54,65,Hard To Say I'm Sorry,Chicago,Chicago,rock,classic rock,19820605,75,1,24,19820619
 55,67,Even The Nights Are Better,Air Supply,Air Supply,pop,80s,19820612,67,5,18,19820619
 56,66,Going To A Go-Go,The Rolling Stones,The Rolling Stones,rock,classic rock,19820612,66,25,11,19820619
@@ -3065,7 +3065,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 94,84,The Very Best In You,Change,Change,disco,disco,19820501,102,84,9,19820619
 95,91,My Girl,Donnie Iris,Donnie Iris,rock,rock,19820327,88,25,14,19820619
 96,94,Get Down On It,Kool And The Gang,Kool And The Gang,rnb / soul,funk,19820227,88,10,17,19820619
-97,95,Chariots Of Fire - Titles,Vangelis,Vangelis,pop,electronic,19811212,94,1,28,19820619
+97,95,Chariots Of Fire - Titles,Vangelis,Vangelis,electronic,electronic,19811212,94,1,28,19820619
 98,97,How Long,Rod Stewart,Rod Stewart,rock,classic rock,19820424,84,49,9,19820619
 99,98,Cat People (Putting Out Fire),David Bowie,David Bowie,rock,rock,19820417,83,67,10,19820619
 100,99,I Love Rock'n'Roll,Joan Jett And The Blackhearts,Joan Jett And The Blackhearts,rock,rock,19820206,63,1,20,19820619
@@ -3136,7 +3136,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 55,60,Nice Girls,Eye To Eye,Eye To Eye,pop,hardcore,19820522,89,37,13,19820612
 56,64,Kids In America,Kim Wilde,Kim Wilde,pop,80s,19820522,88,25,18,19820612
 57,65,Early In The Morning,The Gap Band,The Gap Band,rnb / soul,funk,19820522,83,24,14,19820612
-58,61,I'll Find My Way Home,Jon & Vangelis,Jon & Vangelis,pop,electronic,19820522,81,51,9,19820612
+58,61,I'll Find My Way Home,Jon & Vangelis,Jon & Vangelis,electronic,electronic,19820522,81,51,9,19820612
 59,73,Eye Of The Tiger,Survivor,Survivor,rock,rock,19820605,73,1,25,19820612
 60,63,I Predict,Sparks,Sparks,rock,new wave,19820515,86,60,7,19820612
 61,68,If The Love Fits Wear It,Leslie Pearl,Leslie Pearl,pop,love this girl she can sang,19820522,90,28,16,19820612
@@ -3173,7 +3173,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 92,27,Wake Up Little Susie,Simon And Garfunkel,Simon And Garfunkel,country / folk,folk,19820403,67,27,11,19820612
 93,44,A Night To Remember,Shalamar,Shalamar,disco,disco,19820327,105,44,12,19820612
 94,47,Get Down On It,Kool And The Gang,Kool And The Gang,rnb / soul,funk,19820227,88,10,17,19820612
-95,53,Chariots Of Fire - Titles,Vangelis,Vangelis,pop,electronic,19811212,94,1,28,19820612
+95,53,Chariots Of Fire - Titles,Vangelis,Vangelis,electronic,electronic,19811212,94,1,28,19820612
 96,62,I Know What Boys Like,The Waitresses,The Waitresses,rock,new wave,19820508,84,62,6,19820612
 97,72,How Long,Rod Stewart,Rod Stewart,rock,classic rock,19820424,84,49,9,19820612
 98,100,Cat People (Putting Out Fire),David Bowie,David Bowie,rock,rock,19820417,83,67,10,19820612
@@ -3241,7 +3241,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 50,59,Dancing In The Street,Van Halen,Van Halen,rock,hard rock,19820522,74,38,11,19820605
 51,61,Be Mine Tonight,Neil Diamond,Neil Diamond,country / folk,singer-songwriter,19820522,73,35,11,19820605
 52,70,Angel In Blue,The J. Geils Band,The J. Geils Band,rock,classic rock,19820522,87,40,11,19820605
-53,12,Chariots Of Fire - Titles,Vangelis,Vangelis,pop,electronic,19811212,94,1,28,19820605
+53,12,Chariots Of Fire - Titles,Vangelis,Vangelis,electronic,electronic,19811212,94,1,28,19820605
 54,66,Island Of Lost Souls,Blondie,Blondie,rock,new wave,19820529,66,37,10,19820605
 55,65,Dreamin',John Schneider,John Schneider,country / folk,country,19820515,85,45,8,19820605
 56,75,Abracadabra,The Steve Miller Band,The Steve Miller Band,rock,classic rock,19820529,75,1,25,19820605
@@ -3249,7 +3249,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 58,68,Love Plus One,Haircut One Hundred,Haircut One Hundred,rock,new wave,19820501,106,37,19,19820605
 59,64,You Should Hear How She Talks About You,Melissa Manchester,Melissa Manchester,pop,female vocalists,19820522,76,5,25,19820605
 60,79,Nice Girls,Eye To Eye,Eye To Eye,pop,hardcore,19820522,89,37,13,19820605
-61,71,I'll Find My Way Home,Jon & Vangelis,Jon & Vangelis,pop,electronic,19820522,81,51,9,19820605
+61,71,I'll Find My Way Home,Jon & Vangelis,Jon & Vangelis,electronic,electronic,19820522,81,51,9,19820605
 62,62,I Know What Boys Like,The Waitresses,The Waitresses,rock,new wave,19820508,84,62,6,19820605
 63,69,I Predict,Sparks,Sparks,rock,new wave,19820515,86,60,7,19820605
 64,78,Kids In America,Kim Wilde,Kim Wilde,pop,80s,19820522,88,25,18,19820605
@@ -3310,7 +3310,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 9,9,Did It In A Minute,Daryl Hall & John Oates,Daryl Hall & John Oates,pop,80s,19820320,66,9,16,19820529
 10,10,Get Down On It,Kool And The Gang,Kool And The Gang,rnb / soul,funk,19820227,88,10,17,19820529
 11,13,Heat Of The Moment,Asia,Asia,rock,progressive rock,19820417,68,4,18,19820529
-12,7,Chariots Of Fire - Titles,Vangelis,Vangelis,pop,electronic,19811212,94,1,28,19820529
+12,7,Chariots Of Fire - Titles,Vangelis,Vangelis,electronic,electronic,19811212,94,1,28,19820529
 13,15,Empty Garden (Hey Hey Johnny),Elton John,Elton John,pop,pop,19820320,79,13,17,19820529
 14,16,Man On Your Mind,The Little River Band,The Little River Band,rock,classic rock,19820403,69,14,16,19820529
 15,18,It's Gonna Take A Miracle,Denise Williams,Denise Williams,rnb / soul,soul,19820403,66,10,17,19820529
@@ -3369,7 +3369,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 68,78,Love Plus One,Haircut One Hundred,Haircut One Hundred,rock,new wave,19820501,106,37,19,19820529
 69,79,I Predict,Sparks,Sparks,rock,new wave,19820515,86,60,7,19820529
 70,87,Angel In Blue,The J. Geils Band,The J. Geils Band,rock,classic rock,19820522,87,40,11,19820529
-71,81,I'll Find My Way Home,Jon & Vangelis,Jon & Vangelis,pop,electronic,19820522,81,51,9,19820529
+71,81,I'll Find My Way Home,Jon & Vangelis,Jon & Vangelis,electronic,electronic,19820522,81,51,9,19820529
 72,80,Back To School Again,The Four Tops,The Four Tops,rnb / soul,soul,19820515,87,71,7,19820529
 73,77,Piece Of My Heart,Sammy Hagar,Sammy Hagar,rock,hard rock,19820508,107,73,5,19820529
 74,82,Hooked On Big Bands (Glenn Miller Medley),The Frank Barber Orchestra,The Frank Barber Orchestra,rock,rock and roll,19820508,98,61,12,19820529
@@ -3415,7 +3415,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 4,5,867-5209 / Jenny,Tommy Tutone,Tommy Tutone,rock,new wave,19820123,88,4,27,19820522
 5,9,The Other Woman,Ray Parker Jr.,Ray Parker Jr.,pop,80s,19820320,77,4,21,19820522
 6,7,'65 Love Affair,Paul Davis,Paul Davis,rock,soft rock,19820227,82,6,20,19820522
-7,2,Chariots Of Fire - Titles,Vangelis,Vangelis,pop,electronic,19811212,94,1,28,19820522
+7,2,Chariots Of Fire - Titles,Vangelis,Vangelis,electronic,electronic,19811212,94,1,28,19820522
 8,16,Don't You Want Me,The Human League,The Human League,rock,new wave,19820306,86,1,28,19820522
 9,10,Did It In A Minute,Daryl Hall & John Oates,Daryl Hall & John Oates,pop,80s,19820320,66,9,16,19820522
 10,11,Get Down On It,Kool And The Gang,Kool And The Gang,rnb / soul,funk,19820227,88,10,17,19820522
@@ -3489,7 +3489,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 78,89,Love Plus One,Haircut One Hundred,Haircut One Hundred,rock,new wave,19820501,106,37,19,19820522
 79,86,I Predict,Sparks,Sparks,rock,new wave,19820515,86,60,7,19820522
 80,87,Back To School Again,The Four Tops,The Four Tops,rnb / soul,soul,19820515,87,71,7,19820522
-81,NEW,I'll Find My Way Home,Jon & Vangelis,Jon & Vangelis,pop,electronic,19820522,81,51,9,19820522
+81,NEW,I'll Find My Way Home,Jon & Vangelis,Jon & Vangelis,electronic,electronic,19820522,81,51,9,19820522
 82,90,Hooked On Big Bands (Glenn Miller Medley),The Frank Barber Orchestra,The Frank Barber Orchestra,rock,rock and roll,19820508,98,61,12,19820522
 83,NEW,Early In The Morning,The Gap Band,The Gap Band,rnb / soul,funk,19820522,83,24,14,19820522
 84,88,Fly Away,Stevie Woods,Stevie Woods,rnb / soul,soul,19820515,88,84,2,19820522
@@ -3520,7 +3520,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 109,108,Wordy Rappinghood,Tom Tom Club,Tom Tom Club,rock,new wave,19820515,108,105,3,19820522
 110,NEW,Something About That Woman,Lakeside,Lakeside,rnb / soul,funk,19820522,110,110,1,19820522
 1,2,Ebony And Ivory,Paul Mccartney With Stevie Wonder,Paul Mccartney With Stevie Wonder,pop,80s,19820410,29,1,19,19820515
-2,1,Chariots Of Fire - Titles,Vangelis,Vangelis,pop,electronic,19811212,94,1,28,19820515
+2,1,Chariots Of Fire - Titles,Vangelis,Vangelis,electronic,electronic,19811212,94,1,28,19820515
 3,4,Don't Talk To Strangers,Rick Springfield,Rick Springfield,pop,80s,19820306,57,2,21,19820515
 4,3,I Love Rock'n'Roll,Joan Jett And The Blackhearts,Joan Jett And The Blackhearts,rock,rock,19820206,63,1,20,19820515
 5,6,867-5209 / Jenny,Tommy Tutone,Tommy Tutone,rock,new wave,19820123,88,4,27,19820515
@@ -3629,7 +3629,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 108,NEW,Wordy Rappinghood,Tom Tom Club,Tom Tom Club,rock,new wave,19820515,108,105,3,19820515
 109,NEW,Soup For One,Chic,Chic,disco,disco,19820515,109,109,1,19820515
 110,106,Jamaica,Bobby Caldwell,Bobby Caldwell,rnb / soul,soul,19820327,110,105,8,19820515
-1,2,Chariots Of Fire - Titles,Vangelis,Vangelis,pop,electronic,19811212,94,1,28,19820508
+1,2,Chariots Of Fire - Titles,Vangelis,Vangelis,electronic,electronic,19811212,94,1,28,19820508
 2,3,Ebony And Ivory,Paul Mccartney With Stevie Wonder,Paul Mccartney With Stevie Wonder,pop,80s,19820410,29,1,19,19820508
 3,1,I Love Rock'n'Roll,Joan Jett And The Blackhearts,Joan Jett And The Blackhearts,rock,rock,19820206,63,1,20,19820508
 4,5,Don't Talk To Strangers,Rick Springfield,Rick Springfield,pop,80s,19820306,57,2,21,19820508
@@ -3740,7 +3740,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 109,104,Keep This Heart In Mind,Bonnie Raitt,Bonnie Raitt,rock,blues,19820313,110,104,9,19820508
 110,106,Love Plus One,Haircut One Hundred,Haircut One Hundred,rock,new wave,19820501,106,37,19,19820508
 1,1,I Love Rock'n'Roll,Joan Jett And The Blackhearts,Joan Jett And The Blackhearts,rock,rock,19820206,63,1,20,19820501
-2,3,Chariots Of Fire - Titles,Vangelis,Vangelis,pop,electronic,19811212,94,1,28,19820501
+2,3,Chariots Of Fire - Titles,Vangelis,Vangelis,electronic,electronic,19811212,94,1,28,19820501
 3,6,Ebony And Ivory,Paul Mccartney With Stevie Wonder,Paul Mccartney With Stevie Wonder,pop,80s,19820410,29,1,19,19820501
 4,4,Freeze-Frame / Flamethrower,The J. Geils Band,The J. Geils Band,rock,classic rock,19820220,67,4,16,19820501
 5,5,Don't Talk To Strangers,Rick Springfield,Rick Springfield,pop,80s,19820306,57,2,21,19820501
@@ -3851,7 +3851,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 110,NEW,Route 66,The Manhattan Transfer,The Manhattan Transfer,jazz,jazz,19820501,110,110,1,19820501
 1,1,I Love Rock'n'Roll,Joan Jett And The Blackhearts,Joan Jett And The Blackhearts,rock,rock,19820206,63,1,20,19820424
 2,2,We Got The Beat,The Go-Go'S,The Go-Go'S,rock,new wave,19820130,79,2,19,19820424
-3,3,Chariots Of Fire - Titles,Vangelis,Vangelis,pop,electronic,19811212,94,1,28,19820424
+3,3,Chariots Of Fire - Titles,Vangelis,Vangelis,electronic,electronic,19811212,94,1,28,19820424
 4,4,Freeze-Frame / Flamethrower,The J. Geils Band,The J. Geils Band,rock,classic rock,19820220,67,4,16,19820424
 5,6,Don't Talk To Strangers,Rick Springfield,Rick Springfield,pop,80s,19820306,57,2,21,19820424
 6,21,Ebony And Ivory,Paul Mccartney With Stevie Wonder,Paul Mccartney With Stevie Wonder,pop,80s,19820410,29,1,19,19820424
@@ -3961,7 +3961,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 110,NEW,Through Being Cool,Devo,Devo,rock,new wave,19820424,110,107,2,19820424
 1,1,I Love Rock'n'Roll,Joan Jett And The Blackhearts,Joan Jett And The Blackhearts,rock,rock,19820206,63,1,20,19820417
 2,2,We Got The Beat,The Go-Go'S,The Go-Go'S,rock,new wave,19820130,79,2,19,19820417
-3,3,Chariots Of Fire - Titles,Vangelis,Vangelis,pop,electronic,19811212,94,1,28,19820417
+3,3,Chariots Of Fire - Titles,Vangelis,Vangelis,electronic,electronic,19811212,94,1,28,19820417
 4,4,Freeze-Frame / Flamethrower,The J. Geils Band,The J. Geils Band,rock,classic rock,19820220,67,4,16,19820417
 5,5,Make A Move On Me,Olivia Newton-John,Olivia Newton-John,pop,pop,19820213,69,5,14,19820417
 6,6,Don't Talk To Strangers,Rick Springfield,Rick Springfield,pop,80s,19820306,57,2,21,19820417
@@ -4071,7 +4071,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 110,NEW,Crank It Up,The Dregs,The Dregs,pop,seen live,19820417,110,110,1,19820417
 1,1,I Love Rock'n'Roll,Joan Jett And The Blackhearts,Joan Jett And The Blackhearts,rock,rock,19820206,63,1,20,19820410
 2,3,We Got The Beat,The Go-Go'S,The Go-Go'S,rock,new wave,19820130,79,2,19,19820410
-3,6,Chariots Of Fire - Titles,Vangelis,Vangelis,pop,electronic,19811212,94,1,28,19820410
+3,6,Chariots Of Fire - Titles,Vangelis,Vangelis,electronic,electronic,19811212,94,1,28,19820410
 4,7,Freeze-Frame / Flamethrower,The J. Geils Band,The J. Geils Band,rock,classic rock,19820220,67,4,16,19820410
 5,5,Make A Move On Me,Olivia Newton-John,Olivia Newton-John,pop,pop,19820213,69,5,14,19820410
 6,8,Don't Talk To Strangers,Rick Springfield,Rick Springfield,pop,80s,19820306,57,2,21,19820410
@@ -4184,7 +4184,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 3,3,We Got The Beat,The Go-Go'S,The Go-Go'S,rock,new wave,19820130,79,2,19,19820403
 4,4,That Girl,Stevie Wonder,Stevie Wonder,rnb / soul,soul,19820116,72,4,18,19820403
 5,6,Make A Move On Me,Olivia Newton-John,Olivia Newton-John,pop,pop,19820213,69,5,14,19820403
-6,8,Chariots Of Fire - Titles,Vangelis,Vangelis,pop,electronic,19811212,94,1,28,19820403
+6,8,Chariots Of Fire - Titles,Vangelis,Vangelis,electronic,electronic,19811212,94,1,28,19820403
 7,10,Freeze-Frame / Flamethrower,The J. Geils Band,The J. Geils Band,rock,classic rock,19820220,67,4,16,19820403
 8,14,Don't Talk To Strangers,Rick Springfield,Rick Springfield,pop,80s,19820306,57,2,21,19820403
 9,9,Pac-Man Fever,Buckner And Garcia,Buckner And Garcia,pop,80s,19820109,76,9,19,19820403
@@ -4296,7 +4296,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 5,5,Sweet Dreams,Air Supply,Air Supply,pop,80s,19811212,74,5,20,19820327
 6,7,Make A Move On Me,Olivia Newton-John,Olivia Newton-John,pop,pop,19820213,69,5,14,19820327
 7,3,Centerfold,The J. Geils Band,The J. Geils Band,rock,classic rock,19811107,70,1,25,19820327
-8,14,Chariots Of Fire - Titles,Vangelis,Vangelis,pop,electronic,19811212,94,1,28,19820327
+8,14,Chariots Of Fire - Titles,Vangelis,Vangelis,electronic,electronic,19811212,94,1,28,19820327
 9,10,Pac-Man Fever,Buckner And Garcia,Buckner And Garcia,pop,80s,19820109,76,9,19,19820327
 10,18,Freeze-Frame / Flamethrower,The J. Geils Band,The J. Geils Band,rock,classic rock,19820220,67,4,16,19820327
 11,13,Key Largo,Bertie Higgins,Bertie Higgins,pop,80s,19811114,86,8,29,19820327
@@ -4412,7 +4412,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 11,11,Spirits In The Material World,The Police,The Police,rock,rock,19820116,76,11,13,19820320
 12,14,Bobbie Sue,The Oak Ridge Boys,The Oak Ridge Boys,country / folk,country,19820116,85,12,14,19820320
 13,16,Key Largo,Bertie Higgins,Bertie Higgins,pop,80s,19811114,86,8,29,19820320
-14,18,Chariots Of Fire - Titles,Vangelis,Vangelis,pop,electronic,19811212,94,1,28,19820320
+14,18,Chariots Of Fire - Titles,Vangelis,Vangelis,electronic,electronic,19811212,94,1,28,19820320
 15,9,Leader Of The Band,Dan Fogelberg,Dan Fogelberg,country / folk,singer-songwriter,19811128,81,9,20,19820320
 16,10,Take It Easy On Me,The Little River Band,The Little River Band,rock,classic rock,19811205,82,10,19,19820320
 17,19,Should I Do It,The Pointer Sisters,The Pointer Sisters,disco,disco,19820123,82,13,16,19820320
@@ -4526,7 +4526,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 15,15,Love In The First Degree,Alabama,Alabama,country / folk,country,19811114,90,15,21,19820313
 16,17,Key Largo,Bertie Higgins,Bertie Higgins,pop,80s,19811114,86,8,29,19820313
 17,19,Make A Move On Me,Olivia Newton-John,Olivia Newton-John,pop,pop,19820213,69,5,14,19820313
-18,20,Chariots Of Fire - Titles,Vangelis,Vangelis,pop,electronic,19811212,94,1,28,19820313
+18,20,Chariots Of Fire - Titles,Vangelis,Vangelis,electronic,electronic,19811212,94,1,28,19820313
 19,21,Should I Do It,The Pointer Sisters,The Pointer Sisters,disco,disco,19820123,82,13,16,19820313
 20,7,I Can't Go For That (No Can Do),Daryl Hall & John Oates,Daryl Hall & John Oates,pop,80s,19811114,59,1,21,19820313
 21,22,Tonight I'm Yours (Don't Hurt Me),Rod Stewart,Rod Stewart,rock,classic rock,19820123,74,20,14,19820313
@@ -4638,7 +4638,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 17,20,Key Largo,Bertie Higgins,Bertie Higgins,pop,80s,19811114,86,8,29,19820306
 18,7,Harden My Heart,Quarterflash,Quarterflash,pop,80s,19811017,80,3,24,19820306
 19,39,Make A Move On Me,Olivia Newton-John,Olivia Newton-John,pop,pop,19820213,69,5,14,19820306
-20,30,Chariots Of Fire - Titles,Vangelis,Vangelis,pop,electronic,19811212,94,1,28,19820306
+20,30,Chariots Of Fire - Titles,Vangelis,Vangelis,electronic,electronic,19811212,94,1,28,19820306
 21,25,Should I Do It,The Pointer Sisters,The Pointer Sisters,disco,disco,19820123,82,13,16,19820306
 22,24,Tonight I'm Yours (Don't Hurt Me),Rod Stewart,Rod Stewart,rock,classic rock,19820123,74,20,14,19820306
 23,8,The Sweetest Thing (I've Ever Known),Juice Newton,Juice Newton,country / folk,country,19811017,79,7,24,19820306
@@ -4758,7 +4758,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 27,30,Daddy's Home,Cliff Richard,Cliff Richard,pop,oldies,19820116,80,23,13,19820227
 28,28,All Our Tomorrows,Eddie Schwartz,Eddie Schwartz,pop,canadian,19811212,80,28,15,19820227
 29,33,Call Me,Skyy,Skyy,rnb / soul,funk,19820116,87,26,11,19820227
-30,34,Chariots Of Fire - Titles,Vangelis,Vangelis,pop,electronic,19811212,94,1,28,19820227
+30,34,Chariots Of Fire - Titles,Vangelis,Vangelis,electronic,electronic,19811212,94,1,28,19820227
 31,32,When All Is Said And Done,Abba,Abba,pop,pop,19820109,87,27,14,19820227
 32,35,One Hundred Ways,Quincy Jones Featuring James Ingram,Quincy Jones,jazz,jazz,19811219,83,14,21,19820227
 33,38,Do You Believe In Love,Huey Lewis And The News,Huey Lewis And The News,pop,80s,19820206,77,7,17,19820227
@@ -4872,7 +4872,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 31,37,Should I Do It,The Pointer Sisters,The Pointer Sisters,disco,disco,19820123,82,13,16,19820220
 32,35,When All Is Said And Done,Abba,Abba,pop,pop,19820109,87,27,14,19820220
 33,42,Call Me,Skyy,Skyy,rnb / soul,funk,19820116,87,26,11,19820220
-34,44,Chariots Of Fire - Titles,Vangelis,Vangelis,pop,electronic,19811212,94,1,28,19820220
+34,44,Chariots Of Fire - Titles,Vangelis,Vangelis,electronic,electronic,19811212,94,1,28,19820220
 35,40,One Hundred Ways,Quincy Jones Featuring James Ingram,Quincy Jones,jazz,jazz,19811219,83,14,21,19820220
 36,9,Waiting For A Girl Like You,Foreigner,Foreigner,rock,classic rock,19811010,42,2,23,19820220
 37,38,Love Is Like A Rock,Donnie Iris,Donnie Iris,rock,rock,19811219,87,37,14,19820220
@@ -4992,7 +4992,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 41,20,Comin' In And Out Of Your Life,Barbra Streisand,Barbra Streisand,pop,female vocalists,19811114,62,11,16,19820213
 42,48,Call Me,Skyy,Skyy,rnb / soul,funk,19820116,87,26,11,19820213
 43,47,Crazy (Keep On Falling),The John Hall Band,The John Hall Band,rock,classic rock,19811226,83,42,11,19820213
-44,59,Chariots Of Fire - Titles,Vangelis,Vangelis,pop,electronic,19811212,94,1,28,19820213
+44,59,Chariots Of Fire - Titles,Vangelis,Vangelis,electronic,electronic,19811212,94,1,28,19820213
 45,49,"You're My Latest, My Greatest Inspiration",Teddy Pendergrass,Teddy Pendergrass,rnb / soul,soul,19820109,83,43,11,19820213
 46,56,Let's Get It Up,Ac/Dc,Ac/Dc,rock,hard rock,19820116,81,44,9,19820213
 47,51,Let The Feeling Flow,Peabo Bryson,Peabo Bryson,rnb / soul,soul,19820109,81,42,12,19820213
@@ -5117,7 +5117,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 56,65,Let's Get It Up,Ac/Dc,Ac/Dc,rock,hard rock,19820116,81,44,9,19820206
 57,66,Tell Me Tomorrow (Part 1),Smokey Robinson,Smokey Robinson,rnb / soul,soul,19820116,86,33,12,19820206
 58,67,Wanna Be With You,"Earth, Wind And Fire","Earth, Wind And Fire",rnb / soul,funk,19820123,78,51,7,19820206
-59,68,Chariots Of Fire - Titles,Vangelis,Vangelis,pop,electronic,19811212,94,1,28,19820206
+59,68,Chariots Of Fire - Titles,Vangelis,Vangelis,electronic,electronic,19811212,94,1,28,19820206
 60,63,Perhaps Love,Placido Domingo & John Denver,Placido Domingo,pop,opera,19820116,79,59,7,19820206
 61,71,If Looks Could Kill,Player,Player,pop,70s,19820123,81,48,9,19820206
 62,40,Don't Stop Believin',Journey,Journey,rock,classic rock,19811031,56,9,16,19820206
@@ -5236,7 +5236,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 65,71,Let's Get It Up,Ac/Dc,Ac/Dc,rock,hard rock,19820116,81,44,9,19820130
 66,76,Tell Me Tomorrow (Part 1),Smokey Robinson,Smokey Robinson,rnb / soul,soul,19820116,86,33,12,19820130
 67,78,Wanna Be With You,"Earth, Wind And Fire","Earth, Wind And Fire",rnb / soul,funk,19820123,78,51,7,19820130
-68,75,Chariots Of Fire - Titles,Vangelis,Vangelis,pop,electronic,19811212,94,1,28,19820130
+68,75,Chariots Of Fire - Titles,Vangelis,Vangelis,electronic,electronic,19811212,94,1,28,19820130
 69,34,More Than Just The Two Of Us,Sneaker,Sneaker,rock,rock,19811031,89,34,15,19820130
 70,49,Little Darlin',Sheila,Sheila,pop,french,19811205,89,49,9,19820130
 71,81,If Looks Could Kill,Player,Player,pop,70s,19820123,81,48,9,19820130
@@ -5353,7 +5353,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 72,85,Bobbie Sue,The Oak Ridge Boys,The Oak Ridge Boys,country / folk,country,19820116,85,12,14,19820123
 73,83,I Believe,Chilliwack,Chilliwack,pop,canadian,19820116,83,33,11,19820123
 74,NEW,Tonight I'm Yours (Don't Hurt Me),Rod Stewart,Rod Stewart,rock,classic rock,19820123,74,20,14,19820123
-75,78,Chariots Of Fire - Titles,Vangelis,Vangelis,pop,electronic,19811212,94,1,28,19820123
+75,78,Chariots Of Fire - Titles,Vangelis,Vangelis,electronic,electronic,19811212,94,1,28,19820123
 76,86,Tell Me Tomorrow (Part 1),Smokey Robinson,Smokey Robinson,rnb / soul,soul,19820116,86,33,12,19820123
 77,87,Call Me,Skyy,Skyy,rnb / soul,funk,19820116,87,26,11,19820123
 78,NEW,Wanna Be With You,"Earth, Wind And Fire","Earth, Wind And Fire",rnb / soul,funk,19820123,78,51,7,19820123
@@ -5466,7 +5466,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 75,56,Arthur's Theme (Best That You Can Do),Christopher Cross,Christopher Cross,rock,soft rock,19810815,71,1,24,19820116
 76,NEW,Spirits In The Material World,The Police,The Police,rock,rock,19820116,76,11,13,19820116
 77,87,When All Is Said And Done,Abba,Abba,pop,pop,19820109,87,27,14,19820116
-78,85,Chariots Of Fire - Titles,Vangelis,Vangelis,pop,electronic,19811212,94,1,28,19820116
+78,85,Chariots Of Fire - Titles,Vangelis,Vangelis,electronic,electronic,19811212,94,1,28,19820116
 79,NEW,Perhaps Love,Placido Domingo & John Denver,Placido Domingo,pop,opera,19820116,79,59,7,19820116
 80,NEW,Daddy's Home,Cliff Richard,Cliff Richard,pop,oldies,19820116,80,23,13,19820116
 81,NEW,Let's Get It Up,Ac/Dc,Ac/Dc,rock,hard rock,19820116,81,44,9,19820116
@@ -5583,7 +5583,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 82,66,Just Once,Quincy Jones Featuring James Ingram,Quincy Jones,jazz,jazz,19810815,84,17,23,19820109
 83,NEW,"You're My Latest, My Greatest Inspiration",Teddy Pendergrass,Teddy Pendergrass,rnb / soul,soul,19820109,83,43,11,19820109
 84,84,Runaway Rita,Leif Garrett,Leif Garrett,pop,70s,19811205,90,84,6,19820109
-85,88,Chariots Of Fire - Titles,Vangelis,Vangelis,pop,electronic,19811212,94,1,28,19820109
+85,88,Chariots Of Fire - Titles,Vangelis,Vangelis,electronic,electronic,19811212,94,1,28,19820109
 86,69,I've Done Everything For You,Rick Springfield,Rick Springfield,pop,80s,19810822,79,8,22,19820109
 87,NEW,When All Is Said And Done,Abba,Abba,pop,pop,19820109,87,27,14,19820109
 88,92,It's My Party,Dave Stewart & Barbara Gaskin,Dave Stewart & Barbara Gaskin,rock,new wave,19811219,96,72,8,19820109
@@ -5601,7 +5601,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 100,95,Endless Love,Diana Ross & Lionel Richie,Diana Ross & Lionel Richie,rnb / soul,soul,19810711,54,1,27,19820109
 101,101,Hit And Run,The Bar-Kays,The Bar-Kays,rnb / soul,funk,19811212,103,101,7,19820109
 102,104,Be Mine (Tonight),Grover Washington Jr. With Grady Tate,Grover Washington Jr. With Grady Tate,pop,unknown,19811212,105,92,12,19820109
-103,108,Numbers,Kraftwerk,Kraftwerk,pop,electronic,19811212,104,103,5,19820109
+103,108,Numbers,Kraftwerk,Kraftwerk,electronic,electronic,19811212,104,103,5,19820109
 104,107,Looker,Sue Saad,Sue Saad,pop,soundtrack,19811212,109,104,5,19820109
 105,110,Tube Snake Boogie,Zz Top,Zz Top,rock,classic rock,19811226,110,103,6,19820109
 106,106,Hurt,Carly Simon,Carly Simon,pop,female vocalists,19811219,108,106,4,19820109
@@ -5696,7 +5696,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 85,85,Tonight Tonight,Bill Champlin,Bill Champlin,pop,aor,19811226,85,55,8,19820102
 86,86,We're In This Love Together,Al Jarreau,Al Jarreau,jazz,jazz,19810801,88,15,24,19820102
 87,87,"She's A Bad Mama Jama (She's Built, She's Stacked)",Carl Carlton,Carl Carlton,rnb / soul,funk,19810822,86,22,21,19820102
-88,88,Chariots Of Fire - Titles,Vangelis,Vangelis,pop,electronic,19811212,94,1,28,19820102
+88,88,Chariots Of Fire - Titles,Vangelis,Vangelis,electronic,electronic,19811212,94,1,28,19820102
 89,89,Blaze Of Glory,Kenny Rogers,Kenny Rogers,country / folk,country,19811121,86,66,9,19820102
 90,90,For Your Eyes Only,Sheena Easton,Sheena Easton,pop,pop,19810725,83,4,25,19820102
 91,91,Can't Hold Back (Your Loving),Kano,Kano,pop,grime,19811212,107,89,7,19820102
@@ -5716,6 +5716,6 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 105,105,Only One You,T.G. Sheppard,T.G. Sheppard,country / folk,country,19811226,105,68,13,19820102
 106,106,Hurt,Carly Simon,Carly Simon,pop,female vocalists,19811219,108,106,4,19820102
 107,107,Looker,Sue Saad,Sue Saad,pop,soundtrack,19811212,109,104,5,19820102
-108,108,Numbers,Kraftwerk,Kraftwerk,pop,electronic,19811212,104,103,5,19820102
+108,108,Numbers,Kraftwerk,Kraftwerk,electronic,electronic,19811212,104,103,5,19820102
 109,109,Some Guys Have All The Luck,Nikki Wills,Nikki Wills,pop,unknown,19811219,109,109,3,19820102
 110,110,Tube Snake Boogie,Zz Top,Zz Top,rock,classic rock,19811226,110,103,6,19820102

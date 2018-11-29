@@ -2492,7 +2492,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 91,95,Yellow,Coldplay,Coldplay,rock,rock,20010310,73,48,20,20010714
 92,85,Until The End Of Time,2Pac,2Pac,hip-hop,rap,20010421,82,52,14,20010714
 93,91,Oochie Wally,Qb'S Finest Featuring Nas,Qb'S Finest,hip-hop,hip-hop,20010303,76,26,20,20010714
-94,93,Dream On,Depeche Mode,Depeche Mode,pop,electronic,20010512,85,85,10,20010714
+94,93,Dream On,Depeche Mode,Depeche Mode,electronic,electronic,20010512,85,85,10,20010714
 95,92,Lay Low,"Snoop Dogg Feat Master P, Nate Dogg, Butch Cassidy & Tha Eas",Snoop Dogg Feat Master P,hip-hop,hip-hop,20010324,80,50,19,20010714
 96,96,If I Fall You're Going Down With Me,Dixie Chicks,Dixie Chicks,country / folk,country,20010317,75,38,18,20010714
 97,94,Video,India.Arie,India.Arie,rnb / soul,soul,20010331,80,47,17,20010714
@@ -2544,7 +2544,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 43,42,If You're Gone,Matchbox Twenty,Matchbox Twenty,rock,rock,20001021,52,5,42,20010707
 44,53,Hit 'Em Up Style (Oops!),Blu Cantrell,Blu Cantrell,rnb / soul,rnb,20010505,83,2,34,20010707
 45,91,Purple Hills,D-12,D-12,hip-hop,rap,20010623,97,19,15,20010707
-46,39,South Side,Moby Featuring Gwen Stefani,Moby,pop,electronic,20001202,94,14,32,20010707
+46,39,South Side,Moby Featuring Gwen Stefani,Moby,electronic,electronic,20001202,94,14,32,20010707
 47,41,Missing You,Case,Case,rnb / soul,rnb,20010210,92,4,22,20010707
 48,40,Don't Happen Twice,Kenny Chesney,Kenny Chesney,country / folk,country,20010310,82,26,20,20010707
 49,46,Angel,Shaggy Featuring Rayvon,Shaggy,reggae,reggae,20001230,81,1,28,20010707
@@ -2591,7 +2591,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 90,77,Maybe I Deserve,Tank,Tank,rock,heavy metal,20010317,71,38,20,20010707
 91,86,Oochie Wally,Qb'S Finest Featuring Nas,Qb'S Finest,hip-hop,hip-hop,20010303,76,26,20,20010707
 92,89,Lay Low,"Snoop Dogg Feat Master P, Nate Dogg, Butch Cassidy & Tha Eas",Snoop Dogg Feat Master P,hip-hop,hip-hop,20010324,80,50,19,20010707
-93,92,Dream On,Depeche Mode,Depeche Mode,pop,electronic,20010512,85,85,10,20010707
+93,92,Dream On,Depeche Mode,Depeche Mode,electronic,electronic,20010512,85,85,10,20010707
 94,93,Video,India.Arie,India.Arie,rnb / soul,soul,20010331,80,47,17,20010707
 95,97,Yellow,Coldplay,Coldplay,rock,rock,20010310,73,48,20,20010707
 96,90,If I Fall You're Going Down With Me,Dixie Chicks,Dixie Chicks,country / folk,country,20010317,75,38,18,20010707
@@ -2637,7 +2637,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 36,20,Survivor,Destiny'S Child,Destiny'S Child,rnb / soul,rnb,20010317,43,2,20,20010630
 37,49,She Couldn't Change Me,Montgomery Gentry,Montgomery Gentry,country / folk,country,20010407,94,37,21,20010630
 38,76,Someone To Call My Lover,Janet,Janet,pop,swedish,20010623,76,3,20,20010630
-39,35,South Side,Moby Featuring Gwen Stefani,Moby,pop,electronic,20001202,94,14,32,20010630
+39,35,South Side,Moby Featuring Gwen Stefani,Moby,electronic,electronic,20001202,94,14,32,20010630
 40,37,Don't Happen Twice,Kenny Chesney,Kenny Chesney,country / folk,country,20010310,82,26,20,20010630
 41,32,Missing You,Case,Case,rnb / soul,rnb,20010210,92,4,22,20010630
 42,39,If You're Gone,Matchbox Twenty,Matchbox Twenty,rock,rock,20001021,52,5,42,20010630
@@ -2690,7 +2690,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 89,87,Lay Low,"Snoop Dogg Feat Master P, Nate Dogg, Butch Cassidy & Tha Eas",Snoop Dogg Feat Master P,hip-hop,hip-hop,20010324,80,50,19,20010630
 90,82,If I Fall You're Going Down With Me,Dixie Chicks,Dixie Chicks,country / folk,country,20010317,75,38,18,20010630
 91,97,Purple Hills,D-12,D-12,hip-hop,rap,20010623,97,19,15,20010630
-92,92,Dream On,Depeche Mode,Depeche Mode,pop,electronic,20010512,85,85,10,20010630
+92,92,Dream On,Depeche Mode,Depeche Mode,electronic,electronic,20010512,85,85,10,20010630
 93,91,Video,India.Arie,India.Arie,rnb / soul,soul,20010331,80,47,17,20010630
 94,90,My Way,Limp Bizkit,Limp Bizkit,rock,nu metal,20010428,81,75,14,20010630
 95,88,Look At Us,Sarina Paris,Sarina Paris,electronic,dance,20010224,99,59,20,20010630
@@ -2733,7 +2733,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 32,22,Missing You,Case,Case,rnb / soul,rnb,20010210,92,4,22,20010623
 33,27,I Hope You Dance,Lee Ann Womack With Sons Of The Desert,Lee Ann Womack With Sons Of The Desert,country / folk,country,20010127,28,14,28,20010623
 34,46,When It's Over,Sugar Ray,Sugar Ray,rock,rock,20010602,76,13,22,20010623
-35,29,South Side,Moby Featuring Gwen Stefani,Moby,pop,electronic,20001202,94,14,32,20010623
+35,29,South Side,Moby Featuring Gwen Stefani,Moby,electronic,electronic,20001202,94,14,32,20010623
 36,42,Where The Party At,Jagged Edge With Elly,Jagged Edge With Elly,pop,unknown,20010602,64,3,29,20010623
 37,30,Don't Happen Twice,Kenny Chesney,Kenny Chesney,country / folk,country,20010310,82,26,20,20010623
 38,24,Angel,Shaggy Featuring Rayvon,Shaggy,reggae,reggae,20001230,81,1,28,20010623
@@ -2790,7 +2790,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 89,94,What I Really Meant To Say,Cyndi Thomson,Cyndi Thomson,country / folk,country,20010602,98,26,20,20010623
 90,79,My Way,Limp Bizkit,Limp Bizkit,rock,nu metal,20010428,81,75,14,20010623
 91,82,Video,India.Arie,India.Arie,rnb / soul,soul,20010331,80,47,17,20010623
-92,91,Dream On,Depeche Mode,Depeche Mode,pop,electronic,20010512,85,85,10,20010623
+92,91,Dream On,Depeche Mode,Depeche Mode,electronic,electronic,20010512,85,85,10,20010623
 93,69,Get Over Yourself,Eden'S Crush,Eden'S Crush,pop,pop,20010331,8,8,14,20010623
 94,92,Yellow,Coldplay,Coldplay,rock,rock,20010310,73,48,20,20010623
 95,85,Mrs. Steven Rudy,Mark Mcguinn,Mark Mcguinn,country / folk,country,20010324,84,44,15,20010623
@@ -2827,7 +2827,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 26,25,Ain't Nothing 'Bout You,Brooks & Dunn,Brooks & Dunn,country / folk,country,20010310,77,25,20,20010616
 27,28,I Hope You Dance,Lee Ann Womack With Sons Of The Desert,Lee Ann Womack With Sons Of The Desert,country / folk,country,20010127,28,14,28,20010616
 28,22,Never Had A Dream Come True,S Club 7,S Club 7,pop,pop,20010303,61,10,20,20010616
-29,29,South Side,Moby Featuring Gwen Stefani,Moby,pop,electronic,20001202,94,14,32,20010616
+29,29,South Side,Moby Featuring Gwen Stefani,Moby,electronic,electronic,20001202,94,14,32,20010616
 30,26,Don't Happen Twice,Kenny Chesney,Kenny Chesney,country / folk,country,20010310,82,26,20,20010616
 31,34,If You're Gone,Matchbox Twenty,Matchbox Twenty,rock,rock,20001021,52,5,42,20010616
 32,30,Heard It All Before,Sunshine Anderson,Sunshine Anderson,rnb / soul,soul,20010310,55,18,20,20010616
@@ -2889,7 +2889,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 88,88,Playas Gon' Play,3Lw,3Lw,rnb / soul,rnb,20010602,91,81,7,20010616
 89,89,There She Goes,Babyface,Babyface,rnb / soul,rnb,20010512,98,31,15,20010616
 90,93,A Long Walk,Jill Scott,Jill Scott,rnb / soul,soul,20010210,78,43,19,20010616
-91,91,Dream On,Depeche Mode,Depeche Mode,pop,electronic,20010512,85,85,10,20010616
+91,91,Dream On,Depeche Mode,Depeche Mode,electronic,electronic,20010512,85,85,10,20010616
 92,85,Yellow,Coldplay,Coldplay,rock,rock,20010310,73,48,20,20010616
 93,87,Angel,Lionel Richie,Lionel Richie,rnb / soul,soul,20010505,70,70,18,20010616
 94,96,What I Really Meant To Say,Cyndi Thomson,Cyndi Thomson,country / folk,country,20010602,98,26,20,20010616
@@ -2927,7 +2927,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 26,31,Don't Happen Twice,Kenny Chesney,Kenny Chesney,country / folk,country,20010310,82,26,20,20010609
 27,32,Grown Men Don't Cry,Tim Mcgraw,Tim Mcgraw,country / folk,country,20010331,70,25,20,20010609
 28,30,I Hope You Dance,Lee Ann Womack With Sons Of The Desert,Lee Ann Womack With Sons Of The Desert,country / folk,country,20010127,28,14,28,20010609
-29,21,South Side,Moby Featuring Gwen Stefani,Moby,pop,electronic,20001202,94,14,32,20010609
+29,21,South Side,Moby Featuring Gwen Stefani,Moby,electronic,electronic,20001202,94,14,32,20010609
 30,27,Heard It All Before,Sunshine Anderson,Sunshine Anderson,rnb / soul,soul,20010310,55,18,20,20010609
 31,23,What It Feels Like For A Girl,Madonna,Madonna,pop,pop,20010505,73,23,10,20010609
 32,41,Irresistible,Jessica Simpson,Jessica Simpson,pop,pop,20010519,69,15,20,20010609
@@ -2989,7 +2989,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 88,91,Playas Gon' Play,3Lw,3Lw,rnb / soul,rnb,20010602,91,81,7,20010609
 89,89,There She Goes,Babyface,Babyface,rnb / soul,rnb,20010512,98,31,15,20010609
 90,87,Everybody Doesn't,Amanda,Amanda,pop,swedish,20010512,87,81,6,20010609
-91,90,Dream On,Depeche Mode,Depeche Mode,pop,electronic,20010512,85,85,10,20010609
+91,90,Dream On,Depeche Mode,Depeche Mode,electronic,electronic,20010512,85,85,10,20010609
 92,NEW,I Wanna Be Bad,Willa Ford,Willa Ford,pop,pop,20010609,92,22,20,20010609
 93,86,A Long Walk,Jill Scott,Jill Scott,rnb / soul,soul,20010210,78,43,19,20010609
 94,96,Austin,Blake Shelton,Blake Shelton,country / folk,country,20010526,98,18,20,20010609
@@ -3019,7 +3019,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 18,13,Stutter,Joe Featuring Mystikal,Joe,rnb / soul,rnb,20010106,73,1,26,20010602
 19,11,Angel,Shaggy Featuring Rayvon,Shaggy,reggae,reggae,20001230,81,1,28,20010602
 20,21,Play,Jennifer Lopez,Jennifer Lopez,pop,pop,20010407,76,18,20,20010602
-21,14,South Side,Moby Featuring Gwen Stefani,Moby,pop,electronic,20001202,94,14,32,20010602
+21,14,South Side,Moby Featuring Gwen Stefani,Moby,electronic,electronic,20001202,94,14,32,20010602
 22,18,Never Had A Dream Come True,S Club 7,S Club 7,pop,pop,20010303,61,10,20,20010602
 23,23,What It Feels Like For A Girl,Madonna,Madonna,pop,pop,20010505,73,23,10,20010602
 24,29,Drive,Incubus,Incubus,rock,alternative rock,20010217,75,9,39,20010602
@@ -3088,7 +3088,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 87,81,Everybody Doesn't,Amanda,Amanda,pop,swedish,20010512,87,81,6,20010602
 88,84,La Bomba,Azul Azul,Azul Azul,pop,bolivia,20010407,96,70,20,20010602
 89,90,There She Goes,Babyface,Babyface,rnb / soul,rnb,20010512,98,31,15,20010602
-90,85,Dream On,Depeche Mode,Depeche Mode,pop,electronic,20010512,85,85,10,20010602
+90,85,Dream On,Depeche Mode,Depeche Mode,electronic,electronic,20010512,85,85,10,20010602
 91,NEW,Playas Gon' Play,3Lw,3Lw,rnb / soul,rnb,20010602,91,81,7,20010602
 92,83,Imitation Of Life,R.E.M.,R.E.M.,rock,rock,20010526,83,83,5,20010602
 93,89,Best I Ever Had (Grey Sky Morning),Vertical Horizon,Vertical Horizon,rock,rock,20010303,65,58,16,20010602
@@ -3112,7 +3112,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 11,8,Angel,Shaggy Featuring Rayvon,Shaggy,reggae,reggae,20001230,81,1,28,20010526
 12,12,Missing You,Case,Case,rnb / soul,rnb,20010210,92,4,22,20010526
 13,11,Stutter,Joe Featuring Mystikal,Joe,rnb / soul,rnb,20010106,73,1,26,20010526
-14,15,South Side,Moby Featuring Gwen Stefani,Moby,pop,electronic,20001202,94,14,32,20010526
+14,15,South Side,Moby Featuring Gwen Stefani,Moby,electronic,electronic,20001202,94,14,32,20010526
 15,19,Peaches & Cream,112,112,rnb / soul,rnb,20010414,75,4,29,20010526
 16,16,Fiesta,R Kelly Featuring Jay-Z,R Kelly,rnb / soul,rnb,20010331,73,6,21,20010526
 17,21,Drops Of Jupiter (Tell Me),Train,Train,rock,rock,20010317,77,5,53,20010526
@@ -3183,7 +3183,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 82,76,There It Is,Ginuwine,Ginuwine,rnb / soul,rnb,20010407,82,66,10,20010526
 83,NEW,Imitation Of Life,R.E.M.,R.E.M.,rock,rock,20010526,83,83,5,20010526
 84,84,La Bomba,Azul Azul,Azul Azul,pop,bolivia,20010407,96,70,20,20010526
-85,85,Dream On,Depeche Mode,Depeche Mode,pop,electronic,20010512,85,85,10,20010526
+85,85,Dream On,Depeche Mode,Depeche Mode,electronic,electronic,20010512,85,85,10,20010526
 86,73,Around The World (La La La La La),Atc,Atc,electronic,dance,20010210,53,28,18,20010526
 87,78,Angel,Lionel Richie,Lionel Richie,rnb / soul,soul,20010505,70,70,18,20010526
 88,83,Who's That Girl?,Eve,Eve,hip-hop,hip-hop,20010217,73,47,18,20010526
@@ -3197,7 +3197,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 96,87,Guilty Until Proven Innocent,Jay-Z Featuring R. Kelly,Jay-Z,hip-hop,hip-hop,20010407,97,82,8,20010526
 97,89,She Misses Him,Tim Rushlow,Tim Rushlow,pop,country-pop,20010317,74,59,11,20010526
 98,NEW,Austin,Blake Shelton,Blake Shelton,country / folk,country,20010526,98,18,20,20010526
-99,96,One More Time,Daft Punk,Daft Punk,pop,electronic,20010210,89,61,16,20010526
+99,96,One More Time,Daft Punk,Daft Punk,electronic,electronic,20010210,89,61,16,20010526
 100,97,Let's Get Dirty (I Can't Get In Da Club),Redman Featuring Dj Kool,Redman,hip-hop,hip-hop,20010519,97,97,2,20010526
 1,1,All For You,Janet,Janet,pop,swedish,20010317,14,1,22,20010519
 2,2,Survivor,Destiny'S Child,Destiny'S Child,rnb / soul,rnb,20010317,43,2,20,20010519
@@ -3213,7 +3213,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 12,8,Missing You,Case,Case,rnb / soul,rnb,20010210,92,4,22,20010519
 13,13,I'm Like A Bird,Nelly Furtado,Nelly Furtado,pop,pop,20010303,66,9,24,20010519
 14,14,Get Ur Freak On,"Missy ""Misdemeanor"" Elliott","Missy ""Misdemeanor"" Elliott",hip-hop,hip-hop,20010324,65,7,24,20010519
-15,16,South Side,Moby Featuring Gwen Stefani,Moby,pop,electronic,20001202,94,14,32,20010519
+15,16,South Side,Moby Featuring Gwen Stefani,Moby,electronic,electronic,20001202,94,14,32,20010519
 16,22,Fiesta,R Kelly Featuring Jay-Z,R Kelly,rnb / soul,rnb,20010331,73,6,21,20010519
 17,15,Again,Lenny Kravitz,Lenny Kravitz,rock,rock,20001118,72,4,32,20010519
 18,20,Play,Jennifer Lopez,Jennifer Lopez,pop,pop,20010407,76,18,20,20010519
@@ -3283,7 +3283,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 82,77,If My Heart Had Wings,Faith Hill,Faith Hill,country / folk,country,20010203,80,39,18,20010519
 83,79,Who's That Girl?,Eve,Eve,hip-hop,hip-hop,20010217,73,47,18,20010519
 84,89,La Bomba,Azul Azul,Azul Azul,pop,bolivia,20010407,96,70,20,20010519
-85,85,Dream On,Depeche Mode,Depeche Mode,pop,electronic,20010512,85,85,10,20010519
+85,85,Dream On,Depeche Mode,Depeche Mode,electronic,electronic,20010512,85,85,10,20010519
 86,82,Best I Ever Had (Grey Sky Morning),Vertical Horizon,Vertical Horizon,rock,rock,20010303,65,58,16,20010519
 87,86,Guilty Until Proven Innocent,Jay-Z Featuring R. Kelly,Jay-Z,hip-hop,hip-hop,20010407,97,82,8,20010519
 88,90,After Party,Koffee Brown,Koffee Brown,rnb / soul,rnb,20010113,98,44,20,20010519
@@ -3294,7 +3294,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 93,91,Outside,Aaron Lewis Of Staind With Fred Durst,Aaron Lewis Of Staind With Fred Durst,pop,unknown,20010127,82,56,19,20010519
 94,88,Request Line,Black Eyed Peas Featuring Macy Gray,Black Eyed Peas,hip-hop,hip-hop,20010331,77,63,8,20010519
 95,94,Chickenhead,Project Pat,Project Pat,hip-hop,rap,20010303,97,87,12,20010519
-96,95,One More Time,Daft Punk,Daft Punk,pop,electronic,20010210,89,61,16,20010519
+96,95,One More Time,Daft Punk,Daft Punk,electronic,electronic,20010210,89,61,16,20010519
 97,NEW,Let's Get Dirty (I Can't Get In Da Club),Redman Featuring Dj Kool,Redman,hip-hop,hip-hop,20010519,97,97,2,20010519
 98,97,Don't Talk,Jon B,Jon B,rnb / soul,rnb,20010217,79,58,14,20010519
 99,93,Free,Mya,Mya,rnb / soul,rnb,20010203,75,42,16,20010519
@@ -3314,7 +3314,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 13,20,I'm Like A Bird,Nelly Furtado,Nelly Furtado,pop,pop,20010303,66,9,24,20010512
 14,21,Get Ur Freak On,"Missy ""Misdemeanor"" Elliott","Missy ""Misdemeanor"" Elliott",hip-hop,hip-hop,20010324,65,7,24,20010512
 15,12,Again,Lenny Kravitz,Lenny Kravitz,rock,rock,20001118,72,4,32,20010512
-16,17,South Side,Moby Featuring Gwen Stefani,Moby,pop,electronic,20001202,94,14,32,20010512
+16,17,South Side,Moby Featuring Gwen Stefani,Moby,electronic,electronic,20001202,94,14,32,20010512
 17,11,Butterfly,Crazy Town,Crazy Town,pop,rapcore,20010106,75,1,23,20010512
 18,19,Heard It All Before,Sunshine Anderson,Sunshine Anderson,rnb / soul,soul,20010310,55,18,20,20010512
 19,13,Stranger In My House,Tamia,Tamia,rnb / soul,rnb,20010113,79,10,21,20010512
@@ -3383,7 +3383,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 82,79,Best I Ever Had (Grey Sky Morning),Vertical Horizon,Vertical Horizon,rock,rock,20010303,65,58,16,20010512
 83,86,Can't Believe,Faith Evans Featuring Carl Thomas,Faith Evans,rnb / soul,rnb,20010505,86,56,20,20010512
 84,67,She Misses Him,Tim Rushlow,Tim Rushlow,pop,country-pop,20010317,74,59,11,20010512
-85,NEW,Dream On,Depeche Mode,Depeche Mode,pop,electronic,20010512,85,85,10,20010512
+85,NEW,Dream On,Depeche Mode,Depeche Mode,electronic,electronic,20010512,85,85,10,20010512
 86,82,Guilty Until Proven Innocent,Jay-Z Featuring R. Kelly,Jay-Z,hip-hop,hip-hop,20010407,97,82,8,20010512
 87,NEW,Everybody Doesn't,Amanda,Amanda,pop,swedish,20010512,87,81,6,20010512
 88,80,Request Line,Black Eyed Peas Featuring Macy Gray,Black Eyed Peas,hip-hop,hip-hop,20010331,77,63,8,20010512
@@ -3393,7 +3393,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 92,90,One Step Closer,Linkin Park,Linkin Park,rock,rock,20010210,81,75,17,20010512
 93,84,Free,Mya,Mya,rnb / soul,rnb,20010203,75,42,16,20010512
 94,93,Chickenhead,Project Pat,Project Pat,hip-hop,rap,20010303,97,87,12,20010512
-95,88,One More Time,Daft Punk,Daft Punk,pop,electronic,20010210,89,61,16,20010512
+95,88,One More Time,Daft Punk,Daft Punk,electronic,electronic,20010210,89,61,16,20010512
 96,99,Lady (Hear Me Tonight),Modjo,Modjo,electronic,house,20010106,95,81,19,20010512
 97,95,Don't Talk,Jon B,Jon B,rnb / soul,rnb,20010217,79,58,14,20010512
 98,NEW,There She Goes,Babyface,Babyface,rnb / soul,rnb,20010512,98,31,15,20010512
@@ -3415,7 +3415,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 14,20,What Would You Do?,City High,City High,hip-hop,hip-hop,20010324,99,8,28,20010505
 15,16,Bizounce,Olivia,Olivia,pop,japanese,20010317,94,15,14,20010505
 16,14,Jaded,Aerosmith,Aerosmith,rock,rock,20010127,58,7,20,20010505
-17,18,South Side,Moby Featuring Gwen Stefani,Moby,pop,electronic,20001202,94,14,32,20010505
+17,18,South Side,Moby Featuring Gwen Stefani,Moby,electronic,electronic,20001202,94,14,32,20010505
 18,17,Put It On Me,Ja Rule Featuring Lil' Mo & Vita,Ja Rule,hip-hop,rap,20001223,95,8,27,20010505
 19,25,Heard It All Before,Sunshine Anderson,Sunshine Anderson,rnb / soul,soul,20010310,55,18,20,20010505
 20,24,I'm Like A Bird,Nelly Furtado,Nelly Furtado,pop,pop,20010303,66,9,24,20010505
@@ -3486,7 +3486,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 85,68,After Party,Koffee Brown,Koffee Brown,rnb / soul,rnb,20010113,98,44,20,20010505
 86,NEW,Can't Believe,Faith Evans Featuring Carl Thomas,Faith Evans,rnb / soul,rnb,20010505,86,56,20,20010505
 87,74,Outside,Aaron Lewis Of Staind With Fred Durst,Aaron Lewis Of Staind With Fred Durst,pop,unknown,20010127,82,56,19,20010505
-88,82,One More Time,Daft Punk,Daft Punk,pop,electronic,20010210,89,61,16,20010505
+88,82,One More Time,Daft Punk,Daft Punk,electronic,electronic,20010210,89,61,16,20010505
 89,89,La Bomba,Azul Azul,Azul Azul,pop,bolivia,20010407,96,70,20,20010505
 90,90,One Step Closer,Linkin Park,Linkin Park,rock,rock,20010210,81,75,17,20010505
 91,88,There Is No Arizona,Jamie O'Neal,Jamie O'Neal,country / folk,country,20001223,72,40,20,20010505
@@ -3516,7 +3516,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 15,14,Crazy,K-Ci & Jojo,K-Ci & Jojo,rnb / soul,rnb,20001209,69,11,25,20010428
 16,15,Bizounce,Olivia,Olivia,pop,japanese,20010317,94,15,14,20010428
 17,16,Put It On Me,Ja Rule Featuring Lil' Mo & Vita,Ja Rule,hip-hop,rap,20001223,95,8,27,20010428
-18,18,South Side,Moby Featuring Gwen Stefani,Moby,pop,electronic,20001202,94,14,32,20010428
+18,18,South Side,Moby Featuring Gwen Stefani,Moby,electronic,electronic,20001202,94,14,32,20010428
 19,29,Lady Marmalade,"Christina Aguilera, Lil' Kim, Mya & Pink","Christina Aguilera, Lil' Kim, Mya & Pink",pop,pop,20010414,70,1,20,20010428
 20,25,What Would You Do?,City High,City High,hip-hop,hip-hop,20010324,99,8,28,20010428
 21,17,If You're Gone,Matchbox Twenty,Matchbox Twenty,rock,rock,20001021,52,5,42,20010428
@@ -3580,7 +3580,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 79,NEW,Two People Fell In Love,Brad Paisley,Brad Paisley,country / folk,country,20010428,79,51,18,20010428
 80,NEW,Let Me Blow Ya Mind,Eve Featuring Gwen Stefani,Eve,hip-hop,hip-hop,20010428,80,2,33,20010428
 81,NEW,My Way,Limp Bizkit,Limp Bizkit,rock,nu metal,20010428,81,75,14,20010428
-82,72,One More Time,Daft Punk,Daft Punk,pop,electronic,20010210,89,61,16,20010428
+82,72,One More Time,Daft Punk,Daft Punk,electronic,electronic,20010210,89,61,16,20010428
 83,NEW,Rose Bouquet,Phil Vassar,Phil Vassar,country / folk,country,20010428,83,78,4,20010428
 84,NEW,When Somebody Loves You,Alan Jackson,Alan Jackson,country / folk,country,20010428,84,52,17,20010428
 85,78,Pour Me,Trick Pony,Trick Pony,country / folk,country,20010203,95,71,14,20010428
@@ -3616,7 +3616,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 15,15,Bizounce,Olivia,Olivia,pop,japanese,20010317,94,15,14,20010421
 16,11,Put It On Me,Ja Rule Featuring Lil' Mo & Vita,Ja Rule,hip-hop,rap,20001223,95,8,27,20010421
 17,18,If You're Gone,Matchbox Twenty,Matchbox Twenty,rock,rock,20001021,52,5,42,20010421
-18,19,South Side,Moby Featuring Gwen Stefani,Moby,pop,electronic,20001202,94,14,32,20010421
+18,19,South Side,Moby Featuring Gwen Stefani,Moby,electronic,electronic,20001202,94,14,32,20010421
 19,20,I Hope You Dance,Lee Ann Womack With Sons Of The Desert,Lee Ann Womack With Sons Of The Desert,country / folk,country,20010127,28,14,28,20010421
 20,17,Promise,Jagged Edge,Jagged Edge,rnb / soul,rnb,20001223,73,9,21,20010421
 21,22,Heard It All Before,Sunshine Anderson,Sunshine Anderson,rnb / soul,soul,20010310,55,18,20,20010421
@@ -3670,7 +3670,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 69,83,Superwoman,Lil' Mo,Lil' Mo,rnb / soul,rnb,20010331,98,11,22,20010421
 70,63,Request Line,Black Eyed Peas Featuring Macy Gray,Black Eyed Peas,hip-hop,hip-hop,20010331,77,63,8,20010421
 71,68,Best I Ever Had (Grey Sky Morning),Vertical Horizon,Vertical Horizon,rock,rock,20010303,65,58,16,20010421
-72,69,One More Time,Daft Punk,Daft Punk,pop,electronic,20010210,89,61,16,20010421
+72,69,One More Time,Daft Punk,Daft Punk,electronic,electronic,20010210,89,61,16,20010421
 73,79,It's Been Awhile,Staind,Staind,rock,rock,20010414,79,5,46,20010421
 74,72,Outside,Aaron Lewis Of Staind With Fred Durst,Aaron Lewis Of Staind With Fred Durst,pop,unknown,20010127,82,56,19,20010421
 75,67,But For The Grace Of God,Keith Urban,Keith Urban,country / folk,country,20001223,81,37,20,20010421
@@ -3717,7 +3717,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 16,8,Get Over Yourself,Eden'S Crush,Eden'S Crush,pop,pop,20010331,8,8,14,20010414
 17,12,Promise,Jagged Edge,Jagged Edge,rnb / soul,rnb,20001223,73,9,21,20010414
 18,13,If You're Gone,Matchbox Twenty,Matchbox Twenty,rock,rock,20001021,52,5,42,20010414
-19,19,South Side,Moby Featuring Gwen Stefani,Moby,pop,electronic,20001202,94,14,32,20010414
+19,19,South Side,Moby Featuring Gwen Stefani,Moby,electronic,electronic,20001202,94,14,32,20010414
 20,21,I Hope You Dance,Lee Ann Womack With Sons Of The Desert,Lee Ann Womack With Sons Of The Desert,country / folk,country,20010127,28,14,28,20010414
 21,16,Nobody Wants To Be Lonely,Ricky Martin With Christina Aguilera,Ricky Martin With Christina Aguilera,pop,pop,20010127,66,13,20,20010414
 22,25,Heard It All Before,Sunshine Anderson,Sunshine Anderson,rnb / soul,soul,20010310,55,18,20,20010414
@@ -3767,7 +3767,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 66,68,Yellow,Coldplay,Coldplay,rock,rock,20010310,73,48,20,20010414
 67,58,But For The Grace Of God,Keith Urban,Keith Urban,country / folk,country,20001223,81,37,20,20010414
 68,65,Best I Ever Had (Grey Sky Morning),Vertical Horizon,Vertical Horizon,rock,rock,20010303,65,58,16,20010414
-69,66,One More Time,Daft Punk,Daft Punk,pop,electronic,20010210,89,61,16,20010414
+69,66,One More Time,Daft Punk,Daft Punk,electronic,electronic,20010210,89,61,16,20010414
 70,NEW,Lady Marmalade,"Christina Aguilera, Lil' Kim, Mya & Pink","Christina Aguilera, Lil' Kim, Mya & Pink",pop,pop,20010414,70,1,20,20010414
 71,78,Video,India.Arie,India.Arie,rnb / soul,soul,20010331,80,47,17,20010414
 72,69,Outside,Aaron Lewis Of Staind With Fred Durst,Aaron Lewis Of Staind With Fred Durst,pop,unknown,20010127,82,56,19,20010414
@@ -3817,7 +3817,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 16,17,Nobody Wants To Be Lonely,Ricky Martin With Christina Aguilera,Ricky Martin With Christina Aguilera,pop,pop,20010127,66,13,20,20010407
 17,22,Ride Wit Me,Nelly Featuring City Spud,Nelly,hip-hop,hip-hop,20010224,57,3,29,20010407
 18,86,Bizounce,Olivia,Olivia,pop,japanese,20010317,94,15,14,20010407
-19,19,South Side,Moby Featuring Gwen Stefani,Moby,pop,electronic,20001202,94,14,32,20010407
+19,19,South Side,Moby Featuring Gwen Stefani,Moby,electronic,electronic,20001202,94,14,32,20010407
 20,13,Don't Tell Me,Madonna,Madonna,pop,pop,20001209,78,4,21,20010407
 21,18,I Hope You Dance,Lee Ann Womack With Sons Of The Desert,Lee Ann Womack With Sons Of The Desert,country / folk,country,20010127,28,14,28,20010407
 22,21,It Wasn't Me,"Shaggy Featuring Ricardo ""Rikrok"" Ducent",Shaggy,reggae,reggae,20001104,57,1,25,20010407
@@ -3864,7 +3864,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 63,77,Request Line,Black Eyed Peas Featuring Macy Gray,Black Eyed Peas,hip-hop,hip-hop,20010331,77,63,8,20010407
 64,43,Bow Wow (That's My Mame),Lil' Bow Wow,Lil' Bow Wow,hip-hop,hip-hop,20010310,21,21,7,20010407
 65,58,Best I Ever Had (Grey Sky Morning),Vertical Horizon,Vertical Horizon,rock,rock,20010303,65,58,16,20010407
-66,69,One More Time,Daft Punk,Daft Punk,pop,electronic,20010210,89,61,16,20010407
+66,69,One More Time,Daft Punk,Daft Punk,electronic,electronic,20010210,89,61,16,20010407
 67,76,Mrs. Steven Rudy,Mark Mcguinn,Mark Mcguinn,country / folk,country,20010324,84,44,15,20010407
 68,68,Yellow,Coldplay,Coldplay,rock,rock,20010310,73,48,20,20010407
 69,65,Outside,Aaron Lewis Of Staind With Fred Durst,Aaron Lewis Of Staind With Fred Durst,pop,unknown,20010127,82,56,19,20010407
@@ -3917,7 +3917,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 16,7,It's Over Now,112,112,rnb / soul,rnb,20001209,82,6,20,20010331
 17,13,Nobody Wants To Be Lonely,Ricky Martin With Christina Aguilera,Ricky Martin With Christina Aguilera,pop,pop,20010127,66,13,20,20010331
 18,18,I Hope You Dance,Lee Ann Womack With Sons Of The Desert,Lee Ann Womack With Sons Of The Desert,country / folk,country,20010127,28,14,28,20010331
-19,20,South Side,Moby Featuring Gwen Stefani,Moby,pop,electronic,20001202,94,14,32,20010331
+19,20,South Side,Moby Featuring Gwen Stefani,Moby,electronic,electronic,20001202,94,14,32,20010331
 20,21,Hanging By A Moment,Lifehouse,Lifehouse,rock,rock,20010210,76,2,54,20010331
 21,15,It Wasn't Me,"Shaggy Featuring Ricardo ""Rikrok"" Ducent",Shaggy,reggae,reggae,20001104,57,1,25,20010331
 22,25,Ride Wit Me,Nelly Featuring City Spud,Nelly,hip-hop,hip-hop,20010224,57,3,29,20010331
@@ -3967,7 +3967,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 66,62,Drive,Incubus,Incubus,rock,alternative rock,20010217,75,9,39,20010331
 67,76,Look At Us,Sarina Paris,Sarina Paris,electronic,dance,20010224,99,59,20,20010331
 68,72,Yellow,Coldplay,Coldplay,rock,rock,20010310,73,48,20,20010331
-69,61,One More Time,Daft Punk,Daft Punk,pop,electronic,20010210,89,61,16,20010331
+69,61,One More Time,Daft Punk,Daft Punk,electronic,electronic,20010210,89,61,16,20010331
 70,NEW,Grown Men Don't Cry,Tim Mcgraw,Tim Mcgraw,country / folk,country,20010331,70,25,20,20010331
 71,73,Pour Me,Trick Pony,Trick Pony,country / folk,country,20010203,95,71,14,20010331
 72,57,You Make Me Sick,Pink,Pink,pop,pop,20010106,68,33,19,20010331
@@ -4018,7 +4018,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 17,43,Survivor,Destiny'S Child,Destiny'S Child,rnb / soul,rnb,20010317,43,2,20,20010324
 18,18,I Hope You Dance,Lee Ann Womack With Sons Of The Desert,Lee Ann Womack With Sons Of The Desert,country / folk,country,20010127,28,14,28,20010324
 19,15,Ms. Jackson,Outkast,Outkast,hip-hop,hip-hop,20001111,55,1,23,20010324
-20,25,South Side,Moby Featuring Gwen Stefani,Moby,pop,electronic,20001202,94,14,32,20010324
+20,25,South Side,Moby Featuring Gwen Stefani,Moby,electronic,electronic,20001202,94,14,32,20010324
 21,30,Hanging By A Moment,Lifehouse,Lifehouse,rock,rock,20010210,76,2,54,20010324
 22,19,Crazy For This Girl,Evan And Jaron,Evan And Jaron,pop,pop,20001104,58,15,23,20010324
 23,24,Southern Hospitality,Ludacris,Ludacris,hip-hop,rap,20010120,86,23,20,20010324
@@ -4059,7 +4059,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 58,67,Ain't Nothing 'Bout You,Brooks & Dunn,Brooks & Dunn,country / folk,country,20010310,77,25,20,20010324
 59,69,Don't Happen Twice,Kenny Chesney,Kenny Chesney,country / folk,country,20010310,82,26,20,20010324
 60,61,Outside,Aaron Lewis Of Staind With Fred Durst,Aaron Lewis Of Staind With Fred Durst,pop,unknown,20010127,82,56,19,20010324
-61,66,One More Time,Daft Punk,Daft Punk,pop,electronic,20010210,89,61,16,20010324
+61,66,One More Time,Daft Punk,Daft Punk,electronic,electronic,20010210,89,61,16,20010324
 62,62,Drive,Incubus,Incubus,rock,alternative rock,20010217,75,9,39,20010324
 63,65,Best I Ever Had (Grey Sky Morning),Vertical Horizon,Vertical Horizon,rock,rock,20010303,65,58,16,20010324
 64,64,Don't Talk,Jon B,Jon B,rnb / soul,rnb,20010217,79,58,14,20010324
@@ -4123,7 +4123,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 22,15,Independent Women Part I,Destiny'S Child,Destiny'S Child,rnb / soul,rnb,20000923,78,1,28,20010317
 23,19,He Loves You Not,Dream,Dream,pop,j-pop,20000930,99,2,28,20010317
 24,24,Southern Hospitality,Ludacris,Ludacris,hip-hop,rap,20010120,86,23,20,20010317
-25,25,South Side,Moby Featuring Gwen Stefani,Moby,pop,electronic,20001202,94,14,32,20010317
+25,25,South Side,Moby Featuring Gwen Stefani,Moby,electronic,electronic,20001202,94,14,32,20010317
 26,22,Danger (Been So Long),Mystikal Featuring Nivea,Mystikal,hip-hop,rap,20001216,77,14,20,20010317
 27,29,Could It Be,Jaheim,Jaheim,rnb / soul,rnb,20001216,99,26,20,20010317
 28,26,With Arms Wide Open,Creed,Creed,rock,rock,20000513,84,1,47,20010317
@@ -4164,7 +4164,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 63,54,Burn,Jo Dee Messina,Jo Dee Messina,country / folk,country,20001202,77,42,20,20010317
 64,66,Don't Talk,Jon B,Jon B,rnb / soul,rnb,20010217,79,58,14,20010317
 65,65,Best I Ever Had (Grey Sky Morning),Vertical Horizon,Vertical Horizon,rock,rock,20010303,65,58,16,20010317
-66,69,One More Time,Daft Punk,Daft Punk,pop,electronic,20010210,89,61,16,20010317
+66,69,One More Time,Daft Punk,Daft Punk,electronic,electronic,20010210,89,61,16,20010317
 67,77,Ain't Nothing 'Bout You,Brooks & Dunn,Brooks & Dunn,country / folk,country,20010310,77,25,20,20010317
 68,68,"So Fresh, So Clean",Outkast,Outkast,hip-hop,hip-hop,20010303,71,30,20,20010317
 69,82,Don't Happen Twice,Kenny Chesney,Kenny Chesney,country / folk,country,20010310,82,26,20,20010317
@@ -4223,7 +4223,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 22,19,Danger (Been So Long),Mystikal Featuring Nivea,Mystikal,hip-hop,rap,20001216,77,14,20,20010310
 23,20,The Way You Love Me,Faith Hill,Faith Hill,country / folk,country,20000923,46,6,36,20010310
 24,25,Southern Hospitality,Ludacris,Ludacris,hip-hop,rap,20010120,86,23,20,20010310
-25,28,South Side,Moby Featuring Gwen Stefani,Moby,pop,electronic,20001202,94,14,32,20010310
+25,28,South Side,Moby Featuring Gwen Stefani,Moby,electronic,electronic,20001202,94,14,32,20010310
 26,22,With Arms Wide Open,Creed,Creed,rock,rock,20000513,84,1,47,20010310
 27,27,No More (Baby I'ma Do Right),3Lw,3Lw,rnb / soul,rnb,20001104,96,23,25,20010310
 28,24,Kryptonite,3 Doors Down,3 Doors Down,rock,rock,20000408,81,3,53,20010310
@@ -4267,7 +4267,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 66,58,Don't Talk,Jon B,Jon B,rnb / soul,rnb,20010217,79,58,14,20010310
 67,60,Drive,Incubus,Incubus,rock,alternative rock,20010217,75,9,39,20010310
 68,71,"So Fresh, So Clean",Outkast,Outkast,hip-hop,hip-hop,20010303,71,30,20,20010310
-69,81,One More Time,Daft Punk,Daft Punk,pop,electronic,20010210,89,61,16,20010310
+69,81,One More Time,Daft Punk,Daft Punk,electronic,electronic,20010210,89,61,16,20010310
 70,54,One Woman Man,Dave Hollister,Dave Hollister,rnb / soul,rnb,20001209,86,44,20,20010310
 71,85,Soul Sista,Bilal,Bilal,rnb / soul,soul,20010127,97,71,14,20010310
 72,NEW,Follow Me,Uncle Kracker,Uncle Kracker,rock,rock,20010310,72,5,33,20010310
@@ -4326,7 +4326,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 25,25,Southern Hospitality,Ludacris,Ludacris,hip-hop,rap,20010120,86,23,20,20010303
 26,31,Could It Be,Jaheim,Jaheim,rnb / soul,rnb,20001216,99,26,20,20010303
 27,27,No More (Baby I'ma Do Right),3Lw,3Lw,rnb / soul,rnb,20001104,96,23,25,20010303
-28,29,South Side,Moby Featuring Gwen Stefani,Moby,pop,electronic,20001202,94,14,32,20010303
+28,29,South Side,Moby Featuring Gwen Stefani,Moby,electronic,electronic,20001202,94,14,32,20010303
 29,28,I Just Wanna Love You (Give It 2 Me),Jay-Z,Jay-Z,hip-hop,hip-hop,20001028,58,11,21,20010303
 30,30,This I Promise You,'N Sync,'N Sync,pop,pop,20000930,68,5,26,20010303
 31,32,Hemorrhage (In My Heads),Fuel,Fuel,rock,rock,20001028,77,30,22,20010303
@@ -4379,7 +4379,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 78,NEW,It's A Great Day To Be Alive,Travis Tritt,Travis Tritt,country / folk,country,20010303,78,33,20,20010303
 79,77,Project Chick,Cash Money Millionaires,Cash Money Millionaires,hip-hop,hip-hop,20001216,74,47,13,20010303
 80,85,Pour Me,Trick Pony,Trick Pony,country / folk,country,20010203,95,71,14,20010303
-81,87,One More Time,Daft Punk,Daft Punk,pop,electronic,20010210,89,61,16,20010303
+81,87,One More Time,Daft Punk,Daft Punk,electronic,electronic,20010210,89,61,16,20010303
 82,82,Lady (Hear Me Tonight),Modjo,Modjo,electronic,house,20010106,95,81,19,20010303
 83,79,Missing You,Case,Case,rnb / soul,rnb,20010210,92,4,22,20010303
 84,71,Babylon,David Gray,David Gray,country / folk,singer-songwriter,20001202,73,57,18,20010303
@@ -4427,7 +4427,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 26,25,Beautiful Day,U2,U2,rock,rock,20001007,75,21,25,20010224
 27,32,No More (Baby I'ma Do Right),3Lw,3Lw,rnb / soul,rnb,20001104,96,23,25,20010224
 28,24,I Just Wanna Love You (Give It 2 Me),Jay-Z,Jay-Z,hip-hop,hip-hop,20001028,58,11,21,20010224
-29,30,South Side,Moby Featuring Gwen Stefani,Moby,pop,electronic,20001202,94,14,32,20010224
+29,30,South Side,Moby Featuring Gwen Stefani,Moby,electronic,electronic,20001202,94,14,32,20010224
 30,26,This I Promise You,'N Sync,'N Sync,pop,pop,20000930,68,5,26,20010224
 31,36,Could It Be,Jaheim,Jaheim,rnb / soul,rnb,20001216,99,26,20,20010224
 32,31,Hemorrhage (In My Heads),Fuel,Fuel,rock,rock,20001028,77,30,22,20010224
@@ -4485,7 +4485,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 84,78,So In Love With Two,Mikaila,Mikaila,pop,pop,20001125,96,25,16,20010224
 85,92,Pour Me,Trick Pony,Trick Pony,country / folk,country,20010203,95,71,14,20010224
 86,83,We Danced,Brad Paisley,Brad Paisley,country / folk,country,20001014,71,29,20,20010224
-87,89,One More Time,Daft Punk,Daft Punk,pop,electronic,20010210,89,61,16,20010224
+87,89,One More Time,Daft Punk,Daft Punk,electronic,electronic,20010210,89,61,16,20010224
 88,85,Cha-Cha Slide,Mr. C The Slide Man,Mr. C The Slide Man,pop,if i wanted to listen to popular music i would,20010106,97,83,10,20010224
 89,88,I Lost It,Kenny Chesney,Kenny Chesney,country / folk,country,20001021,75,34,20,20010224
 90,84,Snoop Dogg,Snoop Dogg,Snoop Dogg,hip-hop,hip-hop,20010203,77,77,5,20010224
@@ -4528,7 +4528,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 27,23,Liquid Dreams,O-Town,O-Town,pop,pop,20001223,21,10,12,20010217
 28,32,Thank You,Dido,Dido,pop,pop,20010113,80,3,39,20010217
 29,27,Stronger,Britney Spears,Britney Spears,pop,pop,20001202,70,11,15,20010217
-30,30,South Side,Moby Featuring Gwen Stefani,Moby,pop,electronic,20001202,94,14,32,20010217
+30,30,South Side,Moby Featuring Gwen Stefani,Moby,electronic,electronic,20001202,94,14,32,20010217
 31,31,Hemorrhage (In My Heads),Fuel,Fuel,rock,rock,20001028,77,30,22,20010217
 32,29,No More (Baby I'ma Do Right),3Lw,3Lw,rnb / soul,rnb,20001104,96,23,25,20010217
 33,38,Southern Hospitality,Ludacris,Ludacris,hip-hop,rap,20010120,86,23,20,20010217
@@ -4587,7 +4587,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 86,92,Missing You,Case,Case,rnb / soul,rnb,20010210,92,4,22,20010217
 87,87,Lady (Hear Me Tonight),Modjo,Modjo,electronic,house,20010106,95,81,19,20010217
 88,82,I Lost It,Kenny Chesney,Kenny Chesney,country / folk,country,20001021,75,34,20,20010217
-89,89,One More Time,Daft Punk,Daft Punk,pop,electronic,20010210,89,61,16,20010217
+89,89,One More Time,Daft Punk,Daft Punk,electronic,electronic,20010210,89,61,16,20010217
 90,85,Soul Sista,Bilal,Bilal,rnb / soul,soul,20010127,97,71,14,20010217
 91,70,Bow Wow (That's My Name),Lil' Bow Wow,Lil' Bow Wow,hip-hop,hip-hop,20001125,97,29,13,20010217
 92,95,Pour Me,Trick Pony,Trick Pony,country / folk,country,20010203,95,71,14,20010217
@@ -4628,7 +4628,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 27,14,Stronger,Britney Spears,Britney Spears,pop,pop,20001202,70,11,15,20010210
 28,37,Jaded,Aerosmith,Aerosmith,rock,rock,20010127,58,7,20,20010210
 29,29,No More (Baby I'ma Do Right),3Lw,3Lw,rnb / soul,rnb,20001104,96,23,25,20010210
-30,31,South Side,Moby Featuring Gwen Stefani,Moby,pop,electronic,20001202,94,14,32,20010210
+30,31,South Side,Moby Featuring Gwen Stefani,Moby,electronic,electronic,20001202,94,14,32,20010210
 31,30,Hemorrhage (In My Heads),Fuel,Fuel,rock,rock,20001028,77,30,22,20010210
 32,44,Thank You,Dido,Dido,pop,pop,20010113,80,3,39,20010210
 33,25,I Wish,R Kelly,R Kelly,rnb / soul,rnb,20000930,71,14,22,20010210
@@ -4687,7 +4687,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 86,84,By Your Side,Sade,Sade,rnb / soul,soul,20010120,75,75,11,20010210
 87,87,Lady (Hear Me Tonight),Modjo,Modjo,electronic,house,20010106,95,81,19,20010210
 88,81,X,Xzibit,Xzibit,hip-hop,rap,20001230,80,76,10,20010210
-89,NEW,One More Time,Daft Punk,Daft Punk,pop,electronic,20010210,89,61,16,20010210
+89,NEW,One More Time,Daft Punk,Daft Punk,electronic,electronic,20010210,89,61,16,20010210
 90,82,Mamacita,Public Announcement,Public Announcement,rnb / soul,rnb,20001223,59,39,8,20010210
 91,86,Rollin',Limp Bizkit,Limp Bizkit,rock,nu metal,20001111,77,65,17,20010210
 92,NEW,Missing You,Case,Case,rnb / soul,rnb,20010210,92,4,22,20010210
@@ -4729,7 +4729,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 28,22,E.I.,Nelly,Nelly,hip-hop,hip-hop,20001007,71,15,20,20010203
 29,32,No More (Baby I'ma Do Right),3Lw,3Lw,rnb / soul,rnb,20001104,96,23,25,20010203
 30,30,Hemorrhage (In My Heads),Fuel,Fuel,rock,rock,20001028,77,30,22,20010203
-31,36,South Side,Moby Featuring Gwen Stefani,Moby,pop,electronic,20001202,94,14,32,20010203
+31,36,South Side,Moby Featuring Gwen Stefani,Moby,electronic,electronic,20001202,94,14,32,20010203
 32,34,What's Your Fantasy,Ludacris Featuring Shawna,Ludacris,hip-hop,rap,20000930,89,21,22,20010203
 33,25,Dance With Me,Debelah Morgan,Debelah Morgan,rnb / soul,rnb,20000729,91,8,29,20010203
 34,66,Nobody Wants To Be Lonely,Ricky Martin With Christina Aguilera,Ricky Martin With Christina Aguilera,pop,pop,20010127,66,13,20,20010203
@@ -4834,7 +4834,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 33,47,Promise,Jagged Edge,Jagged Edge,rnb / soul,rnb,20001223,73,9,21,20010127
 34,25,What's Your Fantasy,Ludacris Featuring Shawna,Ludacris,hip-hop,rap,20000930,89,21,22,20010127
 35,29,Bow Wow (That's My Name),Lil' Bow Wow,Lil' Bow Wow,hip-hop,hip-hop,20001125,97,29,13,20010127
-36,37,South Side,Moby Featuring Gwen Stefani,Moby,pop,electronic,20001202,94,14,32,20010127
+36,37,South Side,Moby Featuring Gwen Stefani,Moby,electronic,electronic,20001202,94,14,32,20010127
 37,35,Without You,Dixie Chicks,Dixie Chicks,country / folk,country,20001007,80,31,20,20010127
 38,31,My First Love,Avant Featuring Ketara Wyatt,Avant,rnb / soul,rnb,20001104,70,26,20,20010127
 39,33,My Next Thirty Years,Tim Mcgraw,Tim Mcgraw,country / folk,country,20001021,73,27,20,20010127
@@ -4935,7 +4935,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 34,21,Pinch Me,Barenaked Ladies,Barenaked Ladies,rock,rock,20000909,77,15,21,20010120
 35,36,Without You,Dixie Chicks,Dixie Chicks,country / folk,country,20001007,80,31,20,20010120
 36,44,Born To Fly,Sara Evans,Sara Evans,country / folk,country,20001021,77,34,20,20010120
-37,37,South Side,Moby Featuring Gwen Stefani,Moby,pop,electronic,20001202,94,14,32,20010120
+37,37,South Side,Moby Featuring Gwen Stefani,Moby,electronic,electronic,20001202,94,14,32,20010120
 38,43,My Everything,98 Degrees,98 Degrees,pop,pop,20001209,62,34,20,20010120
 39,56,Angel,Shaggy Featuring Rayvon,Shaggy,reggae,reggae,20001230,81,1,28,20010120
 40,45,No More (Baby I'ma Do Right),3Lw,3Lw,rnb / soul,rnb,20001104,96,23,25,20010120
@@ -5035,7 +5035,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 34,35,Just Friends (Sunny),Musiq,Musiq,rnb / soul,soul,20001014,89,31,20,20010113
 35,32,Crazy,K-Ci & Jojo,K-Ci & Jojo,rnb / soul,rnb,20001209,69,11,25,20010113
 36,44,Without You,Dixie Chicks,Dixie Chicks,country / folk,country,20001007,80,31,20,20010113
-37,37,South Side,Moby Featuring Gwen Stefani,Moby,pop,electronic,20001202,94,14,32,20010113
+37,37,South Side,Moby Featuring Gwen Stefani,Moby,electronic,electronic,20001202,94,14,32,20010113
 38,38,Bent,Matchbox 20,Matchbox 20,rock,rock,20000429,60,1,39,20010113
 39,39,Mamacita,Public Announcement,Public Announcement,rnb / soul,rnb,20001223,59,39,8,20010113
 40,33,Bow Wow (That's My Name),Lil' Bow Wow,Lil' Bow Wow,hip-hop,hip-hop,20001125,97,29,13,20010113
@@ -5135,7 +5135,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 34,35,Hemorrhage (In My Heads),Fuel,Fuel,rock,rock,20001028,77,30,22,20010106
 35,31,Just Friends (Sunny),Musiq,Musiq,rnb / soul,soul,20001014,89,31,20,20010106
 36,40,Don't Think I'm Not,Kandi,Kandi,rnb / soul,rnb,20000805,66,24,24,20010106
-37,59,South Side,Moby Featuring Gwen Stefani,Moby,pop,electronic,20001202,94,14,32,20010106
+37,59,South Side,Moby Featuring Gwen Stefani,Moby,electronic,electronic,20001202,94,14,32,20010106
 38,37,Bent,Matchbox 20,Matchbox 20,rock,rock,20000429,60,1,39,20010106
 39,52,Mamacita,Public Announcement,Public Announcement,rnb / soul,rnb,20001223,59,39,8,20010106
 40,28,My Next Thirty Years,Tim Mcgraw,Tim Mcgraw,country / folk,country,20001021,73,27,20,20010106

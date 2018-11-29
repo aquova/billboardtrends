@@ -96,7 +96,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 95,86,Hit The Freeway,Toni Braxton Featuring Loon,Toni Braxton,rnb / soul,rnb,20021109,86,86,14,20021228
 96,87,My Town,Montgomery Gentry,Montgomery Gentry,country / folk,country,20020928,69,40,20,20021228
 97,94,Work In Progress,Alan Jackson,Alan Jackson,country / folk,country,20020824,76,35,19,20021228
-98,NEW,Breathe,Telepopmusic,Telepopmusic,pop,electronic,20021228,98,78,10,20021228
+98,NEW,Breathe,Telepopmusic,Telepopmusic,electronic,electronic,20021228,98,78,10,20021228
 99,88,Goodbye To You,Michelle Branch,Michelle Branch,pop,pop,20020831,69,21,20,20021228
 100,93,Oh Yeah!,"Big Tymers Feat Tateeze, Boo & Gotti",Big Tymers Feat Tateeze,hip-hop,rap,20020831,95,46,18,20021228
 1,1,Lose Yourself,Eminem,Eminem,hip-hop,rap,20021005,43,1,23,20021221
@@ -1480,7 +1480,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 79,79,Don't Mess With My Man,Nivea Featuring Bryan & Brandon Casey,Nivea,rnb / soul,rnb,20020810,99,8,36,20020921
 80,85,When The Last Time,Clipse,Clipse,hip-hop,hip-hop,20020914,85,19,21,20020921
 81,66,She Was,Mark Chesnutt,Mark Chesnutt,country / folk,country,20020810,74,62,11,20020921
-82,73,Days Go By,Dirty Vegas,Dirty Vegas,pop,electronic,20020511,84,14,20,20020921
+82,73,Days Go By,Dirty Vegas,Dirty Vegas,electronic,electronic,20020511,84,14,20,20020921
 83,81,Someone To Love You,Ruff Endz,Ruff Endz,rnb / soul,rnb,20020511,69,49,20,20020921
 84,80,Walking Away,Craig David,Craig David,rnb / soul,rnb,20020525,62,44,20,20020921
 85,87,I'd Rather,Luther Vandross,Luther Vandross,rnb / soul,soul,20020914,87,83,11,20020921
@@ -1571,7 +1571,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 70,75,Dontchange,Musiq,Musiq,rnb / soul,soul,20020907,75,17,26,20020914
 71,72,In Da Wind,Trick Daddy Featuring Cee-Lo & Big Boi,Trick Daddy,hip-hop,rap,20020713,95,70,18,20020914
 72,NEW,Sk8er Boi,Avrile Lavigne,Avrile Lavigne,pop,pop,20020914,72,10,20,20020914
-73,64,Days Go By,Dirty Vegas,Dirty Vegas,pop,electronic,20020511,84,14,20,20020914
+73,64,Days Go By,Dirty Vegas,Dirty Vegas,electronic,electronic,20020511,84,14,20,20020914
 74,88,Give Me The Light,Sean Paul,Sean Paul,electronic,dancehall,20020504,97,7,39,20020914
 75,NEW,Work It,"Missy ""Misdemeanor"" Elliott","Missy ""Misdemeanor"" Elliott",hip-hop,hip-hop,20020914,75,2,25,20020914
 76,77,Sweetness,Jimmy Eat World,Jimmy Eat World,rock,rock,20020803,79,75,14,20020914
@@ -1662,7 +1662,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 61,74,Po' Folks,Nappy Roots Featuring Anthony Hamilton,Nappy Roots,hip-hop,hip-hop,20020720,99,21,23,20020907
 62,63,She Was,Mark Chesnutt,Mark Chesnutt,country / folk,country,20020810,74,62,11,20020907
 63,65,Somewhere Out There,Our Lady Peace,Our Lady Peace,rock,rock,20020824,75,44,20,20020907
-64,55,Days Go By,Dirty Vegas,Dirty Vegas,pop,electronic,20020511,84,14,20,20020907
+64,55,Days Go By,Dirty Vegas,Dirty Vegas,electronic,electronic,20020511,84,14,20,20020907
 65,66,Work In Progress,Alan Jackson,Alan Jackson,country / folk,country,20020824,76,35,19,20020907
 66,75,I Do (Wanna Get Close To You,3Lw Featuring P. Diddy & Loon,3Lw,rnb / soul,rnb,20020803,95,58,14,20020907
 67,NEW,Like I Love You,Justin Timberlake,Justin Timberlake,pop,pop,20020907,67,11,20,20020907
@@ -1753,7 +1753,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 52,42,Addictive,Truth Hurts Featuring Rakim,Truth Hurts,rnb / soul,rnb,20020420,71,9,20,20020831
 53,47,Hella Good,No Doubt,No Doubt,rock,rock,20020420,63,13,20,20020831
 54,58,Running Away,Hoobastank,Hoobastank,rock,rock,20020706,76,44,20,20020831
-55,51,Days Go By,Dirty Vegas,Dirty Vegas,pop,electronic,20020511,84,14,20,20020831
+55,51,Days Go By,Dirty Vegas,Dirty Vegas,electronic,electronic,20020511,84,14,20,20020831
 56,67,I Care 4 U,Aaliyah,Aaliyah,rnb / soul,rnb,20020824,67,16,20,20020831
 57,70,Trade It All,Fabolous Feat P. Diddy & Jagged Edge,Fabolous Feat P. Diddy,hip-hop,hip-hop,20020817,70,20,18,20020831
 58,61,Aerials,System Of A Down,System Of A Down,rock,metal,20020817,67,55,20,20020831
@@ -1849,7 +1849,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 48,37,The One,Gary Allan,Gary Allan,country / folk,country,20020518,70,37,20,20020824
 49,49,The Impossible,Joe Nichols,Joe Nichols,country / folk,country,20020601,95,29,21,20020824
 50,46,Wasting My Time,Default,Default,rock,rock,20020105,78,13,35,20020824
-51,54,Days Go By,Dirty Vegas,Dirty Vegas,pop,electronic,20020511,84,14,20,20020824
+51,54,Days Go By,Dirty Vegas,Dirty Vegas,electronic,electronic,20020511,84,14,20,20020824
 52,59,Where Are You Going,Dave Matthews Band,Dave Matthews Band,rock,rock,20020615,76,39,20,20020824
 53,60,Baby,Ashanti,Ashanti,rnb / soul,rnb,20020727,74,15,22,20020824
 54,61,Stingy,Ginuwine,Ginuwine,rnb / soul,rnb,20020803,69,33,20,20020824
@@ -1952,7 +1952,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 51,54,Ten Rounds With Jose Cuervo,Tracy Byrd,Tracy Byrd,country / folk,country,20020706,73,26,20,20020817
 52,59,If I Could Go!,Angie Martinez Feat Lil' Mo & Sacario,Angie Martinez Feat Lil' Mo & Sacario,hip-hop,hip-hop,20020622,91,15,26,20020817
 53,47,"My Neck, My Back",Khia Featuring Dsd,Khia,hip-hop,rap,20020525,83,42,18,20020817
-54,44,Days Go By,Dirty Vegas,Dirty Vegas,pop,electronic,20020511,84,14,20,20020817
+54,44,Days Go By,Dirty Vegas,Dirty Vegas,electronic,electronic,20020511,84,14,20,20020817
 55,52,Tonight I Wanna Be Your Man,Andy Griggs,Andy Griggs,country / folk,country,20020629,74,52,12,20020817
 56,51,A Little Less Conversation,Elvis Presley Vs Jxl,Elvis Presley Vs Jxl,rock,rock n roll,20020713,50,50,9,20020817
 57,57,The Rising,Bruce Springsteen,Bruce Springsteen,rock,rock,20020803,52,52,11,20020817
@@ -2042,7 +2042,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 41,33,Hella Good,No Doubt,No Doubt,rock,rock,20020420,63,13,20,20020810
 42,44,Unbroken,Tim Mcgraw,Tim Mcgraw,country / folk,country,20020706,69,26,20,20020810
 43,46,Gotta Get Thru This,Daniel Beddingfield,Daniel Beddingfield,pop,pop,20020727,77,10,21,20020810
-44,28,Days Go By,Dirty Vegas,Dirty Vegas,pop,electronic,20020511,84,14,20,20020810
+44,28,Days Go By,Dirty Vegas,Dirty Vegas,electronic,electronic,20020511,84,14,20,20020810
 45,43,Call Me,Tweet,Tweet,rnb / soul,rnb,20020601,67,31,19,20020810
 46,49,I Miss My Friend,Darryl Worley,Darryl Worley,country / folk,country,20020615,73,28,20,20020810
 47,42,"My Neck, My Back",Khia Featuring Dsd,Khia,hip-hop,rap,20020525,83,42,18,20020810
@@ -2126,7 +2126,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 25,30,"Courtesy Of The Red, White And Blue (The Angry American)",Toby Keith,Toby Keith,country / folk,country,20020608,73,25,20,20020803
 26,25,Halfcrazy,Musiq,Musiq,rnb / soul,soul,20020323,81,16,25,20020803
 27,24,What's Luv?,Fat Joe Featuring Ashanti,Fat Joe,hip-hop,rap,20020216,68,2,28,20020803
-28,21,Days Go By,Dirty Vegas,Dirty Vegas,pop,electronic,20020511,84,14,20,20020803
+28,21,Days Go By,Dirty Vegas,Dirty Vegas,electronic,electronic,20020511,84,14,20,20020803
 29,46,Move B***h,Ludacris Feat Mystikal & Infamous 2.0,Ludacris Feat Mystikal,hip-hop,rap,20020608,88,10,23,20020803
 30,31,Wasting My Time,Default,Default,rock,rock,20020105,78,13,35,20020803
 31,27,Blurry,Puddle Of Mudd,Puddle Of Mudd,rock,rock,20011222,72,5,38,20020803
@@ -2219,7 +2219,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 18,27,No Such Thing,John Mayer,John Mayer,country / folk,singer-songwriter,20020601,65,13,24,20020727
 19,17,Soak Up The Sun,Sheryl Crow,Sheryl Crow,pop,female vocalists,20020413,73,17,29,20020727
 20,21,Nothin',N.O.R.E.,N.O.R.E.,hip-hop,hip-hop,20020525,81,10,24,20020727
-21,18,Days Go By,Dirty Vegas,Dirty Vegas,pop,electronic,20020511,84,14,20,20020727
+21,18,Days Go By,Dirty Vegas,Dirty Vegas,electronic,electronic,20020511,84,14,20,20020727
 22,30,Just Like A Pill,Pink,Pink,pop,pop,20020706,61,8,20,20020727
 23,16,I Need A Girl (Part One),P. Diddy Featuring Usher & Loon,P. Diddy,hip-hop,hip-hop,20020316,74,2,23,20020727
 24,19,What's Luv?,Fat Joe Featuring Ashanti,Fat Joe,hip-hop,rap,20020216,68,2,28,20020727
@@ -2316,7 +2316,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 15,20,Heaven,Dj Sammy & Yanou Featuring Do,Dj Sammy & Yanou,electronic,dance,20020601,93,8,27,20020720
 16,13,I Need A Girl (Part One),P. Diddy Featuring Usher & Loon,P. Diddy,hip-hop,hip-hop,20020316,74,2,23,20020720
 17,18,Soak Up The Sun,Sheryl Crow,Sheryl Crow,pop,female vocalists,20020413,73,17,29,20020720
-18,14,Days Go By,Dirty Vegas,Dirty Vegas,pop,electronic,20020511,84,14,20,20020720
+18,14,Days Go By,Dirty Vegas,Dirty Vegas,electronic,electronic,20020511,84,14,20,20020720
 19,15,What's Luv?,Fat Joe Featuring Ashanti,Fat Joe,hip-hop,rap,20020216,68,2,28,20020720
 20,21,Full Moon,Brandy,Brandy,rnb / soul,rnb,20020504,68,18,18,20020720
 21,31,Nothin',N.O.R.E.,N.O.R.E.,hip-hop,hip-hop,20020525,81,10,24,20020720
@@ -2412,7 +2412,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 11,10,I'm Gonna Be Alright,Jennifer Lopez Featuring Nas,Jennifer Lopez,pop,pop,20020427,69,10,23,20020713
 12,12,Still Fly,Big Tymers,Big Tymers,hip-hop,rap,20020413,99,11,24,20020713
 13,7,I Need A Girl (Part One),P. Diddy Featuring Usher & Loon,P. Diddy,hip-hop,hip-hop,20020316,74,2,23,20020713
-14,14,Days Go By,Dirty Vegas,Dirty Vegas,pop,electronic,20020511,84,14,20,20020713
+14,14,Days Go By,Dirty Vegas,Dirty Vegas,electronic,electronic,20020511,84,14,20,20020713
 15,15,What's Luv?,Fat Joe Featuring Ashanti,Fat Joe,hip-hop,rap,20020216,68,2,28,20020713
 16,16,Halfcrazy,Musiq,Musiq,rnb / soul,soul,20020323,81,16,25,20020713
 17,24,Just A Friend 2002,Mario,Mario,rnb / soul,rnb,20020525,88,4,21,20020713
@@ -2512,7 +2512,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 11,18,Complicated,Avril Lavigne,Avril Lavigne,pop,pop,20020601,68,2,31,20020706
 12,12,Still Fly,Big Tymers,Big Tymers,hip-hop,rap,20020413,99,11,24,20020706
 13,21,I Need A Girl (Part Two),"P. Diddy & Ginuwine Feat Loon, Mario Winans & Tammy Ruggieri",P. Diddy,hip-hop,hip-hop,20020608,55,4,26,20020706
-14,14,Days Go By,Dirty Vegas,Dirty Vegas,pop,electronic,20020511,84,14,20,20020706
+14,14,Days Go By,Dirty Vegas,Dirty Vegas,electronic,electronic,20020511,84,14,20,20020706
 15,11,What's Luv?,Fat Joe Featuring Ashanti,Fat Joe,hip-hop,rap,20020216,68,2,28,20020706
 16,17,Halfcrazy,Musiq,Musiq,rnb / soul,soul,20020323,81,16,25,20020706
 17,13,Hella Good,No Doubt,No Doubt,rock,rock,20020420,63,13,20,20020706
@@ -2612,7 +2612,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 11,7,What's Luv?,Fat Joe Featuring Ashanti,Fat Joe,hip-hop,rap,20020216,68,2,28,20020629
 12,19,Still Fly,Big Tymers,Big Tymers,hip-hop,rap,20020413,99,11,24,20020629
 13,14,Hella Good,No Doubt,No Doubt,rock,rock,20020420,63,13,20,20020629
-14,16,Days Go By,Dirty Vegas,Dirty Vegas,pop,electronic,20020511,84,14,20,20020629
+14,16,Days Go By,Dirty Vegas,Dirty Vegas,electronic,electronic,20020511,84,14,20,20020629
 15,10,U Don't Have To Call,Usher,Usher,rnb / soul,rnb,20020209,65,3,26,20020629
 16,15,All You Wanted,Michelle Branch,Michelle Branch,pop,pop,20020223,67,6,28,20020629
 17,17,Halfcrazy,Musiq,Musiq,rnb / soul,soul,20020323,81,16,25,20020629
@@ -2714,7 +2714,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 13,12,Blurry,Puddle Of Mudd,Puddle Of Mudd,rock,rock,20011222,72,5,38,20020622
 14,15,Hella Good,No Doubt,No Doubt,rock,rock,20020420,63,13,20,20020622
 15,11,All You Wanted,Michelle Branch,Michelle Branch,pop,pop,20020223,67,6,28,20020622
-16,20,Days Go By,Dirty Vegas,Dirty Vegas,pop,electronic,20020511,84,14,20,20020622
+16,20,Days Go By,Dirty Vegas,Dirty Vegas,electronic,electronic,20020511,84,14,20,20020622
 17,19,Halfcrazy,Musiq,Musiq,rnb / soul,soul,20020323,81,16,25,20020622
 18,17,Rainy Dayz,Mary J Blige Featuring Ja Rule,Mary J Blige,rnb / soul,rnb,20020330,62,12,20,20020622
 19,23,Still Fly,Big Tymers,Big Tymers,hip-hop,rap,20020413,99,11,24,20020622
@@ -2818,7 +2818,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 17,17,Rainy Dayz,Mary J Blige Featuring Ja Rule,Mary J Blige,rnb / soul,rnb,20020330,62,12,20,20020615
 18,15,Don't Let Me Get Me,Pink,Pink,pop,pop,20020309,60,8,21,20020615
 19,20,Halfcrazy,Musiq,Musiq,rnb / soul,soul,20020323,81,16,25,20020615
-20,30,Days Go By,Dirty Vegas,Dirty Vegas,pop,electronic,20020511,84,14,20,20020615
+20,30,Days Go By,Dirty Vegas,Dirty Vegas,electronic,electronic,20020511,84,14,20,20020615
 21,26,Down A** Chick,"Ja Rule Feat. Charli ""Chuck"" Baltimore","Ja Rule Feat. Charli ""Chuck"" Baltimore",pop,unknown,20020413,98,21,19,20020615
 22,22,Wherever You Will Go,The Calling,The Calling,rock,rock,20011110,71,5,45,20020615
 23,25,Still Fly,Big Tymers,Big Tymers,hip-hop,rap,20020413,99,11,24,20020615
@@ -2928,7 +2928,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 27,33,Full Moon,Brandy,Brandy,rnb / soul,rnb,20020504,68,18,18,20020608
 28,32,Soak Up The Sun,Sheryl Crow,Sheryl Crow,pop,female vocalists,20020413,73,17,29,20020608
 29,26,How You Remind Me,Nickelback,Nickelback,rock,rock,20010908,75,1,49,20020608
-30,45,Days Go By,Dirty Vegas,Dirty Vegas,pop,electronic,20020511,84,14,20,20020608
+30,45,Days Go By,Dirty Vegas,Dirty Vegas,electronic,electronic,20020511,84,14,20,20020608
 31,29,Drive (For Daddy Gene),Alan Jackson,Alan Jackson,country / folk,country,20020316,78,28,20,20020608
 32,31,More Than A Woman,Aaliyah,Aaliyah,rnb / soul,rnb,20020202,71,25,24,20020608
 33,24,Here Is Gone,Goo Goo Dolls,Goo Goo Dolls,rock,rock,20020323,63,18,20,20020608
@@ -3043,7 +3043,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 42,33,A New Day Has Come,Celine Dion,Celine Dion,pop,pop,20020302,73,22,20,20020601
 43,44,Gots Ta Be,B2K,B2K,rnb / soul,rnb,20020427,73,34,18,20020601
 44,43,One Mic,Nas,Nas,hip-hop,hip-hop,20020420,79,43,13,20020601
-45,55,Days Go By,Dirty Vegas,Dirty Vegas,pop,electronic,20020511,84,14,20,20020601
+45,55,Days Go By,Dirty Vegas,Dirty Vegas,electronic,electronic,20020511,84,14,20,20020601
 46,45,Too Bad,Nickelback,Nickelback,rock,rock,20020316,79,42,20,20020601
 47,50,I'm Gonna Miss Her (The Fishin' Song),Brad Paisley,Brad Paisley,country / folk,country,20020504,66,29,20,20020601
 48,47,I Love You,Faith Evans,Faith Evans,rnb / soul,rnb,20020126,77,14,21,20020601
@@ -3153,7 +3153,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 52,45,Can't Get You Out Of My Head,Kylie Minogue,Kylie Minogue,pop,pop,20020126,64,7,20,20020525
 53,56,Feels Good (Don't Worry Bout A Thing),Naughty By Nature Featuring 3Lw,Naughty By Nature,hip-hop,hip-hop,20020330,93,53,20,20020525
 54,52,That's When I Love You,Phil Vassar,Phil Vassar,country / folk,country,20020223,77,37,20,20020525
-55,75,Days Go By,Dirty Vegas,Dirty Vegas,pop,electronic,20020511,84,14,20,20020525
+55,75,Days Go By,Dirty Vegas,Dirty Vegas,electronic,electronic,20020511,84,14,20,20020525
 56,60,Say I Yi Yi,Ying Yang Twins,Ying Yang Twins,hip-hop,rap,20020504,74,56,14,20020525
 57,79,You Know That I Love You,Donell Jones,Donell Jones,rnb / soul,rnb,20020427,83,54,20,20020525
 58,66,I Don't Want You To Go,Carolyn Dawn Johnson,Carolyn Dawn Johnson,country / folk,country,20020511,71,54,10,20020525
@@ -3273,7 +3273,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 72,79,Roc The Mic,Beanie Sigel & Freeway,Beanie Sigel & Freeway,hip-hop,rap,20020223,73,55,19,20020518
 73,64,"I Breathe In, I Breathe Out",Chris Cagle,Chris Cagle,country / folk,country,20020209,78,35,20,20020518
 74,70,Toxicity,System Of A Down,System Of A Down,rock,metal,20020504,76,70,13,20020518
-75,84,Days Go By,Dirty Vegas,Dirty Vegas,pop,electronic,20020511,84,14,20,20020518
+75,84,Days Go By,Dirty Vegas,Dirty Vegas,electronic,electronic,20020511,84,14,20,20020518
 76,76,What If A Woman,Joe,Joe,rnb / soul,rnb,20020511,76,63,16,20020518
 77,75,This Woman's Work,Maxwell,Maxwell,rnb / soul,soul,20020316,75,58,14,20020518
 78,73,The Cowboy In Me,Tim Mcgraw,Tim Mcgraw,country / folk,country,20020112,65,33,20,20020518
@@ -3382,7 +3382,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 81,72,Take Ya Home,Lil Bow Wow,Lil Bow Wow,hip-hop,hip-hop,20020413,75,72,7,20020511
 82,78,What About Us?,Brandy,Brandy,rnb / soul,rnb,20020126,42,7,18,20020511
 83,83,You Know That I Love You,Donell Jones,Donell Jones,rnb / soul,rnb,20020427,83,54,20,20020511
-84,NEW,Days Go By,Dirty Vegas,Dirty Vegas,pop,electronic,20020511,84,14,20,20020511
+84,NEW,Days Go By,Dirty Vegas,Dirty Vegas,electronic,electronic,20020511,84,14,20,20020511
 85,84,Never,Amanda Perez,Amanda Perez,rnb / soul,rnb,20020216,94,79,16,20020511
 86,82,Wish I Didn't Miss You,Angie Stone,Angie Stone,rnb / soul,soul,20020323,92,79,19,20020511
 87,88,Give It To Her,Tanto Metro & Devonte,Tanto Metro & Devonte,electronic,dancehall,20020323,96,87,11,20020511

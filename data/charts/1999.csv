@@ -80,7 +80,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 79,NEW,The Great Beyond,R.E.M.,R.E.M.,rock,rock,19991225,79,57,14,19991225
 80,89,Smile,Lonestar,Lonestar,country / folk,country,19991218,89,39,20,19991225
 81,70,Come On Over,Shania Twain,Shania Twain,country / folk,country,19991023,74,58,10,19991225
-82,83,Rockafella Skank,Fatboy Slim,Fatboy Slim,pop,electronic,19991106,94,76,12,19991225
+82,83,Rockafella Skank,Fatboy Slim,Fatboy Slim,electronic,electronic,19991106,94,76,12,19991225
 83,NEW,Say My Name,Destiny'S Child,Destiny'S Child,rnb / soul,rnb,19991225,83,1,32,19991225
 84,92,Tha Block Is Hot,Lil Wayne & Juvenile,Lil Wayne & Juvenile,hip-hop,rap,19991204,99,72,11,19991225
 85,86,Music Of My Heart,'N Sync & Gloria Estefan,N Sync,pop,pop,19990904,66,2,18,19991225
@@ -181,7 +181,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 80,59,There She Goes,Sixpence None The Richer,Sixpence None The Richer,pop,pop,19990911,63,32,20,19991218
 81,81,She Thinks My Tractor's Sexy,Kenny Chesney,Kenny Chesney,country / folk,country,19991120,90,74,12,19991218
 82,90,Notorious B.I.G.,Notorious Big & Puff Daddy,Notorious Big,hip-hop,hip-hop,19991211,90,82,7,19991218
-83,77,Rockafella Skank,Fatboy Slim,Fatboy Slim,pop,electronic,19991106,94,76,12,19991218
+83,77,Rockafella Skank,Fatboy Slim,Fatboy Slim,electronic,electronic,19991106,94,76,12,19991218
 84,94,None Of Ur Friends Business,Ginuwine,Ginuwine,rnb / soul,rnb,19991211,94,48,15,19991218
 85,88,N 2 Gether Now,Limp Bizkit & Method Man,Limp Bizkit & Method Man,rock,nu metal,19991204,94,73,11,19991218
 86,80,Music Of My Heart,'N Sync & Gloria Estefan,N Sync,pop,pop,19990904,66,2,18,19991218
@@ -275,7 +275,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 74,68,Greatest Romance Ever Sold,T.A.F.K.A. Prince,T.A.F.K.A. Prince,pop,unknown,19991023,96,63,13,19991211
 75,75,Deep Inside,Mary J. Blige,Mary J. Blige,rnb / soul,rnb,19991113,83,63,15,19991211
 76,89,All The Small Things,Blink 182,Blink 182,rock,punk rock,19991204,89,51,6,19991211
-77,77,Rockafella Skank,Fatboy Slim,Fatboy Slim,pop,electronic,19991106,94,76,12,19991211
+77,77,Rockafella Skank,Fatboy Slim,Fatboy Slim,electronic,electronic,19991106,94,76,12,19991211
 78,71,Give Me What You Want,Chico Debarge,Chico Debarge,rnb / soul,rnb,19991023,94,71,13,19991211
 79,88,Sexual (Li Da Di),Amber,Amber,electronic,dance,19991120,95,42,15,19991211
 80,70,Music Of My Heart,'N Sync & Gloria Estefan,N Sync,pop,pop,19990904,66,2,18,19991211
@@ -375,7 +375,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 74,91,Take A Picture,Filter,Filter,rock,rock,19991127,91,52,4,19991204
 75,80,Deep Inside,Mary J. Blige,Mary J. Blige,rnb / soul,rnb,19991113,83,63,15,19991204
 76,85,My Best Friend,Tim Mcgraw,Tim Mcgraw,country / folk,country,19991127,85,50,7,19991204
-77,87,Rockafella Skank,Fatboy Slim,Fatboy Slim,pop,electronic,19991106,94,76,12,19991204
+77,87,Rockafella Skank,Fatboy Slim,Fatboy Slim,electronic,electronic,19991106,94,76,12,19991204
 78,67,Candy,Mandy Moore,Mandy Moore,pop,pop,19990911,88,41,14,19991204
 79,73,I'll Go Crazy,Andy Griggs,Andy Griggs,country / folk,country,19991002,82,65,10,19991204
 80,81,Dolphin's Cry,Live,Live,rock,rock,19991016,84,78,10,19991204
@@ -485,7 +485,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 84,84,Guerrilla Radio,Rage Against The Machine,Rage Against The Machine,rock,rock,19991030,69,69,20,19991127
 85,NEW,My Best Friend,Tim Mcgraw,Tim Mcgraw,country / folk,country,19991127,85,50,7,19991127
 86,90,She Thinks My Tractor's Sexy,Kenny Chesney,Kenny Chesney,country / folk,country,19991120,90,74,12,19991127
-87,94,Rockafella Skank,Fatboy Slim,Fatboy Slim,pop,electronic,19991106,94,76,12,19991127
+87,94,Rockafella Skank,Fatboy Slim,Fatboy Slim,electronic,electronic,19991106,94,76,12,19991127
 88,95,Sexual (Li Da Di),Amber,Amber,electronic,dance,19991120,95,42,15,19991127
 89,82,Angels Would Fall,Melissa Etheridge,Melissa Etheridge,rock,rock,19990918,87,51,11,19991127
 90,81,What's My Age Again,Blink 182,Blink 182,rock,punk rock,19990717,78,58,20,19991127
@@ -592,7 +592,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 91,82,U Don't Know Me,Brandy,Brandy,rnb / soul,rnb,19991023,89,79,6,19991120
 92,NEW,Got To Get It,Sisqo,Sisqo,rnb / soul,rnb,19991120,92,58,4,19991120
 93,87,You Had Me From Hello,Kenny Chesney,Kenny Chesney,country / folk,country,19990710,71,34,20,19991120
-94,94,Rockafella Skank,Fatboy Slim,Fatboy Slim,pop,electronic,19991106,94,76,12,19991120
+94,94,Rockafella Skank,Fatboy Slim,Fatboy Slim,electronic,electronic,19991106,94,76,12,19991120
 95,NEW,Sexual (Li Da Di),Amber,Amber,electronic,dance,19991120,95,42,15,19991120
 96,88,Beauty,Dru Hill,Dru Hill,rnb / soul,rnb,19990925,79,79,12,19991120
 97,85,Ready To Run,Dixie Chicks,Dixie Chicks,country / folk,country,19990724,83,39,18,19991120
@@ -692,7 +692,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 91,71,Lost In You,Garth Brooks As Chris Gaines,Garth Brooks As Chris Gaines,country / folk,country,19990911,5,5,10,19991113
 92,69,Never Gonna Let You Go,Faith Evans,Faith Evans,rnb / soul,rnb,19990710,79,17,20,19991113
 93,88,Lightning Does The Work,Chad Brock,Chad Brock,country / folk,country,19990918,95,86,9,19991113
-94,94,Rockafella Skank,Fatboy Slim,Fatboy Slim,pop,electronic,19991106,94,76,12,19991113
+94,94,Rockafella Skank,Fatboy Slim,Fatboy Slim,electronic,electronic,19991106,94,76,12,19991113
 95,89,You'll Be In My Heart,Phil Collins,Phil Collins,pop,pop,19990703,34,21,20,19991113
 96,77,She's In Love,Mark Wills,Mark Wills,country / folk,country,19990911,79,60,10,19991113
 97,99,Simon Says,Pharoahe Monch,Pharoahe Monch,hip-hop,hip-hop,19991023,100,97,5,19991113
@@ -792,7 +792,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 91,76,What Ya Want,Eve & Nokio,Eve,hip-hop,hip-hop,19990703,74,29,20,19991106
 92,93,Beauty,Dru Hill,Dru Hill,rnb / soul,rnb,19990925,79,79,12,19991106
 93,97,Steam,Ty Herndon,Ty Herndon,country / folk,country,19991016,100,83,12,19991106
-94,NEW,Rockafella Skank,Fatboy Slim,Fatboy Slim,pop,electronic,19991106,94,76,12,19991106
+94,NEW,Rockafella Skank,Fatboy Slim,Fatboy Slim,electronic,electronic,19991106,94,76,12,19991106
 95,100,Meeting In My Bedroom,Silk,Silk,rnb / soul,rnb,19990821,82,62,13,19991106
 96,96,Jigga My Nigga,Jay-Z,Jay-Z,hip-hop,hip-hop,19990626,82,28,20,19991106
 97,87,Summer Girls,Lfo,Lfo,pop,techno,19990717,52,3,17,19991106
@@ -2285,7 +2285,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 84,84,Watch Out Now,Beatnuts,Beatnuts,hip-hop,hip-hop,19990626,94,84,12,19990724
 85,NEW,I'll Go With You,Donna Summer,Donna Summer,disco,disco,19990724,85,79,9,19990724
 86,NEW,All 'N My Grill,Missy Elliott,Missy Elliott,hip-hop,hip-hop,19990724,86,64,14,19990724
-87,83,Praise You,Fatboy Slim,Fatboy Slim,pop,electronic,19990313,98,36,20,19990724
+87,83,Praise You,Fatboy Slim,Fatboy Slim,electronic,electronic,19990313,98,36,20,19990724
 88,90,You Are Everything,Dru Hill,Dru Hill,rnb / soul,rnb,19990619,97,84,10,19990724
 89,88,Anyone Else,Collin Raye,Collin Raye,country / folk,country,19990313,92,37,20,19990724
 90,87,Nana,Trick Daddy,Trick Daddy,hip-hop,rap,19990313,99,62,20,19990724
@@ -2381,7 +2381,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 80,NEW,You've Got A Way,Shania Twain,Shania Twain,country / folk,country,19990717,80,49,13,19990717
 81,82,Wish You Were Here,Mark Wills,Mark Wills,country / folk,country,19990306,83,34,20,19990717
 82,83,Slave To The Habit,Shane Minor,Shane Minor,pop,seen live,19990619,95,82,7,19990717
-83,76,Praise You,Fatboy Slim,Fatboy Slim,pop,electronic,19990313,98,36,20,19990717
+83,76,Praise You,Fatboy Slim,Fatboy Slim,electronic,electronic,19990313,98,36,20,19990717
 84,89,Watch Out Now,Beatnuts,Beatnuts,hip-hop,hip-hop,19990626,94,84,12,19990717
 85,81,She's Always Right,Clay Walker,Clay Walker,country / folk,country,19990612,80,74,6,19990717
 86,80,Man I Feel Like A Woman,Shania Twain,Shania Twain,country / folk,country,19990417,93,34,17,19990717
@@ -2474,7 +2474,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 73,79,Jamboree,Naughty By Nature Featuring Zhane,Naughty By Nature,hip-hop,hip-hop,19990703,79,10,17,19990710
 74,76,Jigga My Nigga,Jay-Z,Jay-Z,hip-hop,hip-hop,19990626,82,28,20,19990710
 75,70,Blue Monday,Orgy,Orgy,pop,industrial,19990227,90,56,20,19990710
-76,60,Praise You,Fatboy Slim,Fatboy Slim,pop,electronic,19990313,98,36,20,19990710
+76,60,Praise You,Fatboy Slim,Fatboy Slim,electronic,electronic,19990313,98,36,20,19990710
 77,NEW,Little Man,Alan Jackson,Alan Jackson,country / folk,country,19990710,77,39,17,19990710
 78,NEW,Back That Thang Up,Juvenile Featuring Mannie Fresh,Juvenile,hip-hop,rap,19990710,78,19,30,19990710
 79,NEW,Never Gonna Let You Go,Faith Evans,Faith Evans,rnb / soul,rnb,19990710,79,17,20,19990710
@@ -2558,7 +2558,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 57,61,Little Goodbyes,Shedaisy,Shedaisy,country / folk,country,19990508,98,43,20,19990703
 58,68,She's So High,Tal Bachman,Tal Bachman,pop,pop,19990619,78,14,28,19990703
 59,44,Two Teardrops,Steve Wariner,Steve Wariner,country / folk,country,19990403,89,30,20,19990703
-60,48,Praise You,Fatboy Slim,Fatboy Slim,pop,electronic,19990313,98,36,20,19990703
+60,48,Praise You,Fatboy Slim,Fatboy Slim,electronic,electronic,19990313,98,36,20,19990703
 61,NEW,Genie In A Bottle,Christina Aguilera,Christina Aguilera,pop,pop,19990703,61,1,25,19990703
 62,57,Strong Enough,Cher,Cher,pop,pop,19990522,91,57,12,19990703
 63,66,Everything Is Everything,Lauryn Hill,Lauryn Hill,rnb / soul,soul,19990619,70,35,18,19990703
@@ -2646,7 +2646,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 45,45,Better Days (And The Bottom Drops Out),Citizen King,Citizen King,rock,alternative,19990529,78,25,20,19990626
 46,31,If You (Lovin' Me),Silk,Silk,rnb / soul,rnb,19990313,30,13,20,19990626
 47,47,Tonight The Heartache s On Me,Dixie Chicks,Dixie Chicks,country / folk,country,19990515,83,46,16,19990626
-48,42,Praise You,Fatboy Slim,Fatboy Slim,pop,electronic,19990313,98,36,20,19990626
+48,42,Praise You,Fatboy Slim,Fatboy Slim,electronic,electronic,19990313,98,36,20,19990626
 49,46,... Baby One More Time,Britney Spears,Britney Spears,pop,pop,19981121,17,1,32,19990626
 50,52,A Night To Remember,Joe Diffie,Joe Diffie,country / folk,country,19990515,96,38,20,19990626
 51,58,Scar Tissue,Red Hot Chili Peppers,Red Hot Chili Peppers,rock,rock,19990605,89,9,29,19990626
@@ -2740,7 +2740,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 39,43,Whatever You Say,Martina Mcbride,Martina Mcbride,country / folk,country,19990501,93,37,20,19990619
 40,32,What's It Gonna Be?!,Busta Rhymes Featuring Janet,Busta Rhymes,hip-hop,hip-hop,19990313,66,3,20,19990619
 41,45,With You,Lila Mccann,Lila Mccann,country / folk,country,19990403,97,41,19,19990619
-42,41,Praise You,Fatboy Slim,Fatboy Slim,pop,electronic,19990313,98,36,20,19990619
+42,41,Praise You,Fatboy Slim,Fatboy Slim,electronic,electronic,19990313,98,36,20,19990619
 43,39,Man! I Feel Like A Woman!,Shania Twain,Shania Twain,country / folk,country,19990417,93,34,17,19990619
 44,54,Amazed,Lonestar,Lonestar,country / folk,country,19990605,81,24,20,19990619
 45,56,Better Days (And The Bottom Drops Out),Citizen King,Citizen King,rock,alternative,19990529,78,25,20,19990619
@@ -2839,7 +2839,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 38,49,God Must Have Spent A Little More Time On You,Alabama Featuring 'N Sync,Alabama,country / folk,country,19990529,70,29,20,19990612
 39,34,Man! I Feel Like A Woman!,Shania Twain,Shania Twain,country / folk,country,19990417,93,34,17,19990612
 40,31,You Won't Ever Be Lonely,Andy Griggs,Andy Griggs,country / folk,country,19990327,92,28,20,19990612
-41,42,Praise You,Fatboy Slim,Fatboy Slim,pop,electronic,19990313,98,36,20,19990612
+41,42,Praise You,Fatboy Slim,Fatboy Slim,electronic,electronic,19990313,98,36,20,19990612
 42,53,I Will Remember You,Sarah Mclachlan,Sarah Mclachlan,pop,female vocalists,19990522,87,14,20,19990612
 43,44,Whatever You Say,Martina Mcbride,Martina Mcbride,country / folk,country,19990501,93,37,20,19990612
 44,43,Can I Get A ...,Jay-Z Feat Amil (Of Major Coinz),Jay-Z Feat Amil (Of Major Coinz),pop,unknown,19981003,82,19,37,19990612
@@ -2940,7 +2940,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 39,40,My Favorite Girl,Dave Hollister,Dave Hollister,rnb / soul,rnb,19990410,95,39,17,19990605
 40,45,Holla Holla,Ja Rule,Ja Rule,hip-hop,rap,19990403,99,35,20,19990605
 41,42,You,Jesse Powell,Jesse Powell,rnb / soul,rnb,19990220,14,10,20,19990605
-42,39,Praise You,Fatboy Slim,Fatboy Slim,pop,electronic,19990313,98,36,20,19990605
+42,39,Praise You,Fatboy Slim,Fatboy Slim,electronic,electronic,19990313,98,36,20,19990605
 43,35,Can I Get A ...,Jay-Z Feat Amil (Of Major Coinz),Jay-Z Feat Amil (Of Major Coinz),pop,unknown,19981003,82,19,37,19990605
 44,52,Whatever You Say,Martina Mcbride,Martina Mcbride,country / folk,country,19990501,93,37,20,19990605
 45,51,With You,Lila Mccann,Lila Mccann,country / folk,country,19990403,97,41,19,19990605
@@ -3037,7 +3037,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 36,44,Man! I Feel Like A Woman!,Shania Twain,Shania Twain,country / folk,country,19990417,93,34,17,19990529
 37,31,Ex-Factor,Lauryn Hill,Lauryn Hill,rnb / soul,soul,19990109,87,21,22,19990529
 38,40,Anyone Else,Collin Raye,Collin Raye,country / folk,country,19990313,92,37,20,19990529
-39,36,Praise You,Fatboy Slim,Fatboy Slim,pop,electronic,19990313,98,36,20,19990529
+39,36,Praise You,Fatboy Slim,Fatboy Slim,electronic,electronic,19990313,98,36,20,19990529
 40,41,My Favorite Girl,Dave Hollister,Dave Hollister,rnb / soul,rnb,19990410,95,39,17,19990529
 41,33,Save Tonight,Eagle-Eye Cherry,Eagle-Eye Cherry,rock,rock,19981205,14,5,28,19990529
 42,37,You,Jesse Powell,Jesse Powell,rnb / soul,rnb,19990220,14,10,20,19990529
@@ -3134,7 +3134,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 33,35,Save Tonight,Eagle-Eye Cherry,Eagle-Eye Cherry,rock,rock,19981205,14,5,28,19990522
 34,27,All I Have To Give,Backstreet Boys,Backstreet Boys,pop,pop,19990130,57,5,21,19990522
 35,45,Write This Down,George Strait,George Strait,country / folk,country,19990424,97,27,20,19990522
-36,37,Praise You,Fatboy Slim,Fatboy Slim,pop,electronic,19990313,98,36,20,19990522
+36,37,Praise You,Fatboy Slim,Fatboy Slim,electronic,electronic,19990313,98,36,20,19990522
 37,36,You,Jesse Powell,Jesse Powell,rnb / soul,rnb,19990220,14,10,20,19990522
 38,41,Two Teardrops,Steve Wariner,Steve Wariner,country / folk,country,19990403,89,30,20,19990522
 39,38,Can I Get A ...,Jay-Z Feat Amil (Of Major Coinz),Jay-Z Feat Amil (Of Major Coinz),pop,unknown,19981003,82,19,37,19990522
@@ -3235,7 +3235,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 34,34,Wish You Were Here,Mark Wills,Mark Wills,country / folk,country,19990306,83,34,20,19990515
 35,29,Save Tonight,Eagle-Eye Cherry,Eagle-Eye Cherry,rock,rock,19981205,14,5,28,19990515
 36,31,You,Jesse Powell,Jesse Powell,rnb / soul,rnb,19990220,14,10,20,19990515
-37,41,Praise You,Fatboy Slim,Fatboy Slim,pop,electronic,19990313,98,36,20,19990515
+37,41,Praise You,Fatboy Slim,Fatboy Slim,electronic,electronic,19990313,98,36,20,19990515
 38,39,Can I Get A ...,Jay-Z Feat Amil (Of Major Coinz),Jay-Z Feat Amil (Of Major Coinz),pop,unknown,19981003,82,19,37,19990515
 39,32,How Forever Feels,Kenny Chesney,Kenny Chesney,country / folk,country,19990206,80,27,21,19990515
 40,53,Anyone Else,Collin Raye,Collin Raye,country / folk,country,19990313,92,37,20,19990515
@@ -3339,7 +3339,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 38,53,Fortunate,Maxwell,Maxwell,rnb / soul,soul,19990410,78,4,25,19990508
 39,37,Can I Get A ...,Jay-Z Feat Amil (Of Major Coinz),Jay-Z Feat Amil (Of Major Coinz),pop,unknown,19981003,82,19,37,19990508
 40,29,When I Close My Eyes,Shanice,Shanice,rnb / soul,rnb,19990327,91,12,10,19990508
-41,48,Praise You,Fatboy Slim,Fatboy Slim,pop,electronic,19990313,98,36,20,19990508
+41,48,Praise You,Fatboy Slim,Fatboy Slim,electronic,electronic,19990313,98,36,20,19990508
 42,51,Sitting Home,Total,Total,rock,russian rock,19990410,91,42,14,19990508
 43,47,Gone Crazy,Alan Jackson,Alan Jackson,country / folk,country,19990313,81,43,13,19990508
 44,45,Drive Me Wild,Sawyer Brown,Sawyer Brown,country / folk,country,19990227,94,44,14,19990508
@@ -3446,7 +3446,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 45,48,Drive Me Wild,Sawyer Brown,Sawyer Brown,country / folk,country,19990227,94,44,14,19990501
 46,55,You Won't Ever Be Lonely,Andy Griggs,Andy Griggs,country / folk,country,19990327,92,28,20,19990501
 47,49,Gone Crazy,Alan Jackson,Alan Jackson,country / folk,country,19990313,81,43,13,19990501
-48,50,Praise You,Fatboy Slim,Fatboy Slim,pop,electronic,19990313,98,36,20,19990501
+48,50,Praise You,Fatboy Slim,Fatboy Slim,electronic,electronic,19990313,98,36,20,19990501
 49,46,Everybody's Free (To Wear Sunscreen),Baz Luhrmann,Baz Luhrmann,pop,chillout,19990327,61,45,7,19990501
 50,54,What's So Different,Ginuwine,Ginuwine,rnb / soul,rnb,19990220,80,49,19,19990501
 51,82,Sitting Home,Total,Total,rock,russian rock,19990410,91,42,14,19990501
@@ -3548,7 +3548,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 47,NEW,That Don't Impress Me Much,Shania Twain,Shania Twain,country / folk,country,19990424,47,7,17,19990424
 48,49,Drive Me Wild,Sawyer Brown,Sawyer Brown,country / folk,country,19990227,94,44,14,19990424
 49,60,Gone Crazy,Alan Jackson,Alan Jackson,country / folk,country,19990313,81,43,13,19990424
-50,53,Praise You,Fatboy Slim,Fatboy Slim,pop,electronic,19990313,98,36,20,19990424
+50,53,Praise You,Fatboy Slim,Fatboy Slim,electronic,electronic,19990313,98,36,20,19990424
 51,39,When A Woman's Fed Up,R. Kelly,R. Kelly,rnb / soul,rnb,19981226,79,22,20,19990424
 52,47,Girlfriend / Boyfriend,Blackstreet With Janet,Blackstreet With Janet,pop,unknown,19990313,76,47,11,19990424
 53,37,I'm Not Ready,Keith Sweat,Keith Sweat,rnb / soul,rnb,19990313,32,16,10,19990424
@@ -3651,7 +3651,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 50,50,Can I Get A...,Jay-Z Featuring Amil (Of Major Coins) & Ja Rule,Jay-Z,hip-hop,hip-hop,19981003,82,19,37,19990417
 51,53,Wish You Were Here,Mark Wills,Mark Wills,country / folk,country,19990306,83,34,20,19990417
 52,39,You Got Me,The Roots Featuring Erykah Badu,The Roots,hip-hop,hip-hop,19990213,74,39,14,19990417
-53,59,Praise You,Fatboy Slim,Fatboy Slim,pop,electronic,19990313,98,36,20,19990417
+53,59,Praise You,Fatboy Slim,Fatboy Slim,electronic,electronic,19990313,98,36,20,19990417
 54,NEW,Livin' La Vida Loca,Ricky Martin,Ricky Martin,pop,latin,19990417,54,1,20,19990417
 55,56,Georgy Porgy,Eric Benet Featuring Faith Evans,Eric Benet,rnb / soul,soul,19990320,82,55,14,19990417
 56,66,Rosa Parks,Outkast,Outkast,hip-hop,hip-hop,19981205,75,55,20,19990417
@@ -3757,7 +3757,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 56,66,Georgy Porgy,Eric Benet Featuring Faith Evans,Eric Benet,rnb / soul,soul,19990320,82,55,14,19990410
 57,46,I Don't Want To Miss A Thing,Mark Chesnutt,Mark Chesnutt,country / folk,country,19981219,72,17,20,19990410
 58,59,Drive Me Wild,Sawyer Brown,Sawyer Brown,country / folk,country,19990227,94,44,14,19990410
-59,61,Praise You,Fatboy Slim,Fatboy Slim,pop,electronic,19990313,98,36,20,19990410
+59,61,Praise You,Fatboy Slim,Fatboy Slim,electronic,electronic,19990313,98,36,20,19990410
 60,63,Gone Crazy,Alan Jackson,Alan Jackson,country / folk,country,19990313,81,43,13,19990410
 61,67,Blue Monday,Orgy,Orgy,pop,industrial,19990227,90,56,20,19990410
 62,62,Nann,Trick Daddy Featuring Trina,Trick Daddy,hip-hop,rap,19990313,99,62,20,19990410
@@ -3859,7 +3859,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 58,56,Wish You Were Here,Mark Wills,Mark Wills,country / folk,country,19990306,83,34,20,19990403
 59,59,Drive Me Wild,Sawyer Brown,Sawyer Brown,country / folk,country,19990227,94,44,14,19990403
 60,79,The Hardest Thing,98 Degrees,98 Degrees,pop,pop,19990327,79,5,24,19990403
-61,64,Praise You,Fatboy Slim,Fatboy Slim,pop,electronic,19990313,98,36,20,19990403
+61,64,Praise You,Fatboy Slim,Fatboy Slim,electronic,electronic,19990313,98,36,20,19990403
 62,75,Nann,Trick Daddy Featuring Trina,Trick Daddy,hip-hop,rap,19990313,99,62,20,19990403
 63,63,Gone Crazy,Alan Jackson,Alan Jackson,country / folk,country,19990313,81,43,13,19990403
 64,53,Taking Everything,Gerald Levert,Gerald Levert,rnb / soul,rnb,19990130,27,11,12,19990403
@@ -3962,7 +3962,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 61,NEW,Everybody's Free (To Wear Sunscreen),Baz Luhrmann,Baz Luhrmann,pop,chillout,19990327,61,45,7,19990327
 62,58,You Get What You Give,New Radicals,New Radicals,rock,alternative,19981205,64,36,19,19990327
 63,70,Gone Crazy,Alan Jackson,Alan Jackson,country / folk,country,19990313,81,43,13,19990327
-64,71,Praise You,Fatboy Slim,Fatboy Slim,pop,electronic,19990313,98,36,20,19990327
+64,71,Praise You,Fatboy Slim,Fatboy Slim,electronic,electronic,19990313,98,36,20,19990327
 65,50,When You Believe,Whitney Houston & Mariah Carey,Whitney Houston & Mariah Carey,pop,soundtrack,19981205,51,15,17,19990327
 66,90,My First Night With You,Mya,Mya,rnb / soul,rnb,19990320,90,28,14,19990327
 67,61,Hold On To Me,John Michael Montgomery,John Michael Montgomery,country / folk,country,19981205,91,33,19,19990327
@@ -4069,7 +4069,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 68,68,Ha,Juvenile,Juvenile,hip-hop,rap,19990206,77,68,10,19990320
 69,72,Keepin' Up,Alabama,Alabama,country / folk,country,19990206,85,69,8,19990320
 70,81,Gone Crazy,Alan Jackson,Alan Jackson,country / folk,country,19990313,81,43,13,19990320
-71,98,Praise You,Fatboy Slim,Fatboy Slim,pop,electronic,19990313,98,36,20,19990320
+71,98,Praise You,Fatboy Slim,Fatboy Slim,electronic,electronic,19990313,98,36,20,19990320
 72,63,Changes,2Pac,2Pac,hip-hop,rap,19981205,68,32,19,19990320
 73,62,Love Like This,Faith Evans,Faith Evans,rnb / soul,rnb,19981114,21,7,20,19990320
 74,79,Love Ain't Like That,Faith Hill,Faith Hill,country / folk,country,19990306,84,68,8,19990320
@@ -4196,7 +4196,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 95,64,I Will Get There,Boyz Ii Men,Boyz Ii Men,rnb / soul,rnb,19990116,76,32,9,19990313
 96,91,Never There,Cake,Cake,rock,alternative,19981205,87,78,17,19990313
 97,87,Sweetest Thing,U2,U2,rock,rock,19981205,66,63,17,19990313
-98,NEW,Praise You,Fatboy Slim,Fatboy Slim,pop,electronic,19990313,98,36,20,19990313
+98,NEW,Praise You,Fatboy Slim,Fatboy Slim,electronic,electronic,19990313,98,36,20,19990313
 99,NEW,Nann,Trick Daddy Featuring Trina,Trick Daddy,hip-hop,rap,19990313,99,62,20,19990313
 100,69,That Don't Impress Me Much,Shania Twain,Shania Twain,country / folk,country,19990123,80,59,8,19990313
 1,1,Angel Of Mine,Monica,Monica,rnb / soul,rnb,19981205,74,1,30,19990306

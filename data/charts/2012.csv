@@ -31,7 +31,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 30,31,Don't Stop The Party,Pitbull Featuring Tjr,Pitbull,hip-hop,hip-hop,20121110,99,17,19,20121229
 31,41,Little Talks,Of Monsters And Men,Of Monsters And Men,rock,indie,20121208,49,20,22,20121229
 32,42,F**kin Problems,"A$Ap Rocky Featuring Drake, 2 Chainz & Kendrick Lamar",A$Ap Rocky,hip-hop,hip-hop,20121117,73,8,27,20121229
-33,44,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,pop,electronic,20121201,97,10,26,20121229
+33,44,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,electronic,electronic,20121201,97,10,26,20121229
 34,33,I Will Wait,Mumford & Sons,Mumford & Sons,country / folk,folk,20120825,23,12,39,20121229
 35,30,Bandz A Make Her Dance,Juicy J Featuring Lil Wayne & 2 Chainz,Juicy J,hip-hop,hip-hop,20120929,71,29,20,20121229
 36,32,Thinkin Bout You,Frank Ocean,Frank Ocean,rnb / soul,rnb,20120728,85,32,28,20121229
@@ -84,7 +84,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 83,82,Turn On The Light,Future,Future,hip-hop,hip-hop,20120825,89,50,20,20121229
 84,89,Tip It On Back,Dierks Bentley,Dierks Bentley,country / folk,country,20121215,91,66,15,20121229
 85,95,Celebration,"Game Featuring Chris Brown, Tyga, Wiz Khalifa & Lil Wayne",Game,hip-hop,rap,20121201,100,81,11,20121229
-86,91,Take A Walk,Passion Pit,Passion Pit,pop,electronic,20120915,99,85,17,20121229
+86,91,Take A Walk,Passion Pit,Passion Pit,electronic,electronic,20120915,99,85,17,20121229
 87,97,Ready Or Not,Bridgit Mendler,Bridgit Mendler,pop,pop,20121103,98,49,13,20121229
 88,NEW,Merry Go 'Round,Kacey Musgraves,Kacey Musgraves,country / folk,country,20121229,88,63,15,20121229
 89,NEW,Guap,Big Sean,Big Sean,hip-hop,hip-hop,20121229,89,71,12,20121229
@@ -142,7 +142,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 41,45,Little Talks,Of Monsters And Men,Of Monsters And Men,rock,indie,20121208,49,20,22,20121222
 42,59,F**kin Problems,"A$Ap Rocky Featuring Drake, 2 Chainz & Kendrick Lamar",A$Ap Rocky,hip-hop,hip-hop,20121117,73,8,27,20121222
 43,33,Everybody Talks,Neon Trees,Neon Trees,rock,indie,20120331,74,6,39,20121222
-44,58,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,pop,electronic,20121201,97,10,26,20121222
+44,58,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,electronic,electronic,20121201,97,10,26,20121222
 45,41,Call Me Maybe,Carly Rae Jepsen,Carly Rae Jepsen,pop,pop,20120310,38,1,50,20121222
 46,47,Somebody That I Used To Know,Gotye Featuring Kimbra,Gotye,rock,indie,20120121,91,1,59,20121222
 47,39,Good Time,Owl City & Carly Rae Jepsen,Owl City & Carly Rae Jepsen,pop,pop,20120714,18,8,24,20121222
@@ -189,7 +189,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 88,89,Young & Gettin' It,Meek Mill Featuring Kirko Bangz,Meek Mill,hip-hop,hip-hop,20121124,92,86,9,20121222
 89,91,Tip It On Back,Dierks Bentley,Dierks Bentley,country / folk,country,20121215,91,66,15,20121222
 90,96,One Of Those Nights,Tim Mcgraw,Tim Mcgraw,country / folk,country,20121215,96,32,20,20121222
-91,93,Take A Walk,Passion Pit,Passion Pit,pop,electronic,20120915,99,85,17,20121222
+91,93,Take A Walk,Passion Pit,Passion Pit,electronic,electronic,20120915,99,85,17,20121222
 92,71,Finally Found You,Enrique Iglesias Featuring Sammy Adams,Enrique Iglesias,pop,pop,20120929,94,24,14,20121222
 93,62,Come Wake Me Up,Rascal Flatts,Rascal Flatts,country / folk,country,20120811,98,52,20,20121222
 94,88,Ice,Kelly Rowland Featuring Lil Wayne,Kelly Rowland,rnb / soul,rnb,20121110,100,88,11,20121222
@@ -256,7 +256,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 55,63,Every Storm (Runs Out Of Rain),Gary Allan,Gary Allan,country / folk,country,20121020,78,26,20,20121215
 56,64,Anything Could Happen,Ellie Goulding,Ellie Goulding,pop,female vocalists,20121027,75,47,20,20121215
 57,62,Beer Money,Kip Moore,Kip Moore,country / folk,country,20121006,99,51,20,20121215
-58,82,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,pop,electronic,20121201,97,10,26,20121215
+58,82,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,electronic,electronic,20121201,97,10,26,20121215
 59,66,F**kin Problems,"A$Ap Rocky Featuring Drake, 2 Chainz & Kendrick Lamar",A$Ap Rocky,hip-hop,hip-hop,20121117,73,8,27,20121215
 60,61,Birthday Song,2 Chainz Featuring Kanye West,2 Chainz,hip-hop,hip-hop,20120901,100,47,19,20121215
 61,67,Creepin',Eric Church,Eric Church,country / folk,country,20120908,95,56,20,20121215
@@ -291,7 +291,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 90,96,Celebration,"Game Featuring Chris Brown, Tyga, Wiz Khalifa & Lil Wayne",Game,hip-hop,rap,20121201,100,81,11,20121215
 91,NEW,Tip It On Back,Dierks Bentley,Dierks Bentley,country / folk,country,20121215,91,66,15,20121215
 92,92,Dance For You,Beyonce,Beyonce,rnb / soul,rnb,20120922,100,78,15,20121215
-93,99,Take A Walk,Passion Pit,Passion Pit,pop,electronic,20120915,99,85,17,20121215
+93,99,Take A Walk,Passion Pit,Passion Pit,electronic,electronic,20120915,99,85,17,20121215
 94,NEW,Too Close,Melanie Martinez,Melanie Martinez,pop,pop,20121215,94,94,1,20121215
 95,NEW,Are You Happy Now?,Cassadee Pope,Cassadee Pope,rock,pop rock,20121215,95,95,1,20121215
 96,NEW,One Of Those Nights,Tim Mcgraw,Tim Mcgraw,country / folk,country,20121215,96,32,20,20121215
@@ -380,7 +380,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 79,98,I'm Different,2 Chainz,2 Chainz,hip-hop,hip-hop,20121201,98,27,20,20121208
 80,79,Diced Pineapples,Rick Ross Featuring Wale & Drake,Rick Ross,hip-hop,hip-hop,20121027,88,71,15,20121208
 81,80,Ball,T.I. Featuring Lil Wayne,T.I.,hip-hop,hip-hop,20121103,50,50,20,20121208
-82,97,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,pop,electronic,20121201,97,10,26,20121208
+82,97,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,electronic,electronic,20121201,97,10,26,20121208
 83,88,Tornado,Little Big Town,Little Big Town,country / folk,country,20121124,97,51,20,20121208
 84,76,Take A Little Ride,Jason Aldean,Jason Aldean,country / folk,country,20120804,12,12,20,20121208
 85,89,Don't Judge Me,Chris Brown,Chris Brown,rnb / soul,rnb,20121117,95,67,20,20121208
@@ -397,7 +397,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 96,100,Celebration,"Game Featuring Chris Brown, Tyga, Wiz Khalifa & Lil Wayne",Game,hip-hop,rap,20121201,100,81,11,20121208
 97,NEW,Stars,Amanda Brown,Amanda Brown,rock,rock,20121208,97,97,1,20121208
 98,NEW,Remember You,Wiz Khalifa Featuring The Weeknd,Wiz Khalifa,hip-hop,hip-hop,20121208,98,63,16,20121208
-99,93,Take A Walk,Passion Pit,Passion Pit,pop,electronic,20120915,99,85,17,20121208
+99,93,Take A Walk,Passion Pit,Passion Pit,electronic,electronic,20120915,99,85,17,20121208
 100,NEW,Somebody's Heartbreak,Hunter Hayes,Hunter Hayes,country / folk,country,20121208,100,54,20,20121208
 1,2,Diamonds,Rihanna,Rihanna,pop,pop,20121013,16,1,26,20121201
 2,1,One More Night,Maroon 5,Maroon 5,rock,rock,20120707,42,1,42,20121201
@@ -491,11 +491,11 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 90,98,Ready Or Not,Bridgit Mendler,Bridgit Mendler,pop,pop,20121103,98,49,13,20121201
 91,99,Ice,Kelly Rowland Featuring Lil Wayne,Kelly Rowland,rnb / soul,rnb,20121110,100,88,11,20121201
 92,NEW,Just A Fool,Christina Aguilera With Blake Shelton,Christina Aguilera With Blake Shelton,pop,pop,20121201,92,71,2,20121201
-93,90,Take A Walk,Passion Pit,Passion Pit,pop,electronic,20120915,99,85,17,20121201
+93,90,Take A Walk,Passion Pit,Passion Pit,electronic,electronic,20120915,99,85,17,20121201
 94,94,Poetic Justice,Kendrick Lamar Featuring Drake,Kendrick Lamar,hip-hop,hip-hop,20121110,76,26,24,20121201
 95,NEW,Kiss You,One Direction,One Direction,pop,pop,20121201,95,95,1,20121201
 96,92,Young & Gettin' It,Meek Mill Featuring Kirko Bangz,Meek Mill,hip-hop,hip-hop,20121124,92,86,9,20121201
-97,NEW,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,pop,electronic,20121201,97,10,26,20121201
+97,NEW,Sweet Nothing,Calvin Harris Featuring Florence Welch,Calvin Harris,electronic,electronic,20121201,97,10,26,20121201
 98,NEW,I'm Different,2 Chainz,2 Chainz,hip-hop,hip-hop,20121201,98,27,20,20121201
 99,87,Dive In,Trey Songz,Trey Songz,rnb / soul,rnb,20120922,93,77,11,20121201
 100,NEW,Celebration,"Game Featuring Chris Brown, Tyga, Wiz Khalifa & Lil Wayne",Game,hip-hop,rap,20121201,100,81,11,20121201
@@ -588,7 +588,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 87,83,Dive In,Trey Songz,Trey Songz,rnb / soul,rnb,20120922,93,77,11,20121124
 88,95,Don't Judge Me,Chris Brown,Chris Brown,rnb / soul,rnb,20121117,95,67,20,20121124
 89,97,Don't Rush,Kelly Clarkson Featuring Vince Gill,Kelly Clarkson,pop,pop,20121117,97,89,2,20121124
-90,90,Take A Walk,Passion Pit,Passion Pit,pop,electronic,20120915,99,85,17,20121124
+90,90,Take A Walk,Passion Pit,Passion Pit,electronic,electronic,20120915,99,85,17,20121124
 91,96,Wicked Games,The Weeknd,The Weeknd,rnb / soul,rnb,20121117,96,53,20,20121124
 92,NEW,Young & Gettin' It,Meek Mill Featuring Kirko Bangz,Meek Mill,hip-hop,hip-hop,20121124,92,86,9,20121124
 93,NEW,The Only Way I Know,Jason Aldean With Luke Bryan & Eric Church,Jason Aldean With Luke Bryan,pop,unknown,20121124,93,40,20,20121124
@@ -688,7 +688,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 87,90,Radioactive,Imagine Dragons,Imagine Dragons,rock,indie,20120929,91,3,85,20121117
 88,75,Ball,T.I. Featuring Lil Wayne,T.I.,hip-hop,hip-hop,20121103,50,50,20,20121117
 89,NEW,Red,Taylor Swift,Taylor Swift,country / folk,country,20121117,89,89,1,20121117
-90,89,Take A Walk,Passion Pit,Passion Pit,pop,electronic,20120915,99,85,17,20121117
+90,89,Take A Walk,Passion Pit,Passion Pit,electronic,electronic,20120915,99,85,17,20121117
 91,99,Don't Stop The Party,Pitbull Featuring Tjr,Pitbull,hip-hop,hip-hop,20121110,99,17,19,20121117
 92,76,Poetic Justice,Kendrick Lamar Featuring Drake,Kendrick Lamar,hip-hop,hip-hop,20121110,76,26,24,20121117
 93,NEW,Try,P!Nk,P!Nk,pop,pop,20121117,93,9,23,20121117
@@ -787,7 +787,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 86,88,Did It For The Girl,Greg Bates,Greg Bates,country / folk,country,20121006,100,66,16,20121110
 87,84,Southern Comfort Zone,Brad Paisley,Brad Paisley,country / folk,country,20121020,73,54,20,20121110
 88,90,El Cerrito Place,Kenny Chesney,Kenny Chesney,country / folk,country,20121027,92,72,13,20121110
-89,85,Take A Walk,Passion Pit,Passion Pit,pop,electronic,20120915,99,85,17,20121110
+89,85,Take A Walk,Passion Pit,Passion Pit,electronic,electronic,20120915,99,85,17,20121110
 90,93,Radioactive,Imagine Dragons,Imagine Dragons,rock,indie,20120929,91,3,85,20121110
 91,NEW,Stay Stay Stay,Taylor Swift,Taylor Swift,country / folk,country,20121110,91,91,1,20121110
 92,NEW,Fade Into You,Sam Palladio & Clare Bowen,Sam Palladio,country / folk,country,20121110,92,92,1,20121110
@@ -883,7 +883,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 82,96,Thrift Shop,Macklemore & Ryan Lewis Featuring Wanz,Macklemore & Ryan Lewis,hip-hop,hip-hop,20121027,96,1,48,20121103
 83,74,Babel,Mumford & Sons,Mumford & Sons,country / folk,folk,20121013,60,60,5,20121103
 84,81,Southern Comfort Zone,Brad Paisley,Brad Paisley,country / folk,country,20121020,73,54,20,20121103
-85,86,Take A Walk,Passion Pit,Passion Pit,pop,electronic,20120915,99,85,17,20121103
+85,86,Take A Walk,Passion Pit,Passion Pit,electronic,electronic,20120915,99,85,17,20121103
 86,87,How Country Feels,Randy Houser,Randy Houser,country / folk,country,20121020,100,42,20,20121103
 87,88,Diced Pineapples,Rick Ross Featuring Wale & Drake,Rick Ross,hip-hop,hip-hop,20121027,88,71,15,20121103
 88,85,Did It For The Girl,Greg Bates,Greg Bates,country / folk,country,20121006,100,66,16,20121103
@@ -894,7 +894,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 93,90,Radioactive,Imagine Dragons,Imagine Dragons,rock,indie,20120929,91,3,85,20121103
 94,83,She's So Mean,Matchbox Twenty,Matchbox Twenty,rock,rock,20120721,90,40,16,20121103
 95,89,My Moment,"Dj Drama, 2 Chainz, Meek Mill, Jeremih",Dj Drama,hip-hop,hip-hop,20121020,99,89,6,20121103
-96,NEW,Sweet Nothing,Calvin Harris Featuring Florence Welsh,Calvin Harris,pop,electronic,20121103,96,96,1,20121103
+96,NEW,Sweet Nothing,Calvin Harris Featuring Florence Welsh,Calvin Harris,electronic,electronic,20121103,96,96,1,20121103
 97,77,Hello,Karmin,Karmin,pop,pop,20120915,89,62,8,20121103
 98,NEW,Ready Or Not,Bridgit Mendler,Bridgit Mendler,pop,pop,20121103,98,49,13,20121103
 99,93,Amen,Meek Mill Featuring Drake,Meek Mill,hip-hop,hip-hop,20120707,86,57,18,20121103
@@ -984,7 +984,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 83,75,She's So Mean,Matchbox Twenty,Matchbox Twenty,rock,rock,20120721,90,40,16,20121027
 84,78,Every Storm (Runs Out Of Rain),Gary Allan,Gary Allan,country / folk,country,20121020,78,26,20,20121027
 85,89,Did It For The Girl,Greg Bates,Greg Bates,country / folk,country,20121006,100,66,16,20121027
-86,95,Take A Walk,Passion Pit,Passion Pit,pop,electronic,20120915,99,85,17,20121027
+86,95,Take A Walk,Passion Pit,Passion Pit,electronic,electronic,20120915,99,85,17,20121027
 87,100,How Country Feels,Randy Houser,Randy Houser,country / folk,country,20121020,100,42,20,20121027
 88,NEW,Diced Pineapples,Rick Ross Featuring Wale & Drake,Rick Ross,hip-hop,hip-hop,20121027,88,71,15,20121027
 89,99,My Moment,"Dj Drama, 2 Chainz, Meek Mill, Jeremih",Dj Drama,hip-hop,hip-hop,20121020,99,89,6,20121027
@@ -1093,7 +1093,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 92,97,Shinin' On Me,Jerrod Niemann,Jerrod Niemann,country / folk,country,20120915,94,92,7,20121020
 93,79,Over,Blake Shelton,Blake Shelton,country / folk,country,20120630,89,43,18,20121020
 94,85,Lover's Eyes,Mumford & Sons,Mumford & Sons,country / folk,folk,20121013,85,85,2,20121020
-95,87,Take A Walk,Passion Pit,Passion Pit,pop,electronic,20120915,99,85,17,20121020
+95,87,Take A Walk,Passion Pit,Passion Pit,electronic,electronic,20120915,99,85,17,20121020
 96,NEW,Hall Of Fame,The Script Featuring Will.I.Am,The Script,rock,pop rock,20121020,96,25,24,20121020
 97,NEW,Lover Of The Light,Mumford & Sons,Mumford & Sons,country / folk,folk,20121020,97,97,1,20121020
 98,95,Radioactive,Imagine Dragons,Imagine Dragons,rock,indie,20120929,91,3,85,20121020
@@ -1185,7 +1185,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 84,74,Dark Side,Kelly Clarkson,Kelly Clarkson,pop,pop,20120707,93,42,15,20121013
 85,NEW,Lover's Eyes,Mumford & Sons,Mumford & Sons,country / folk,folk,20121013,85,85,2,20121013
 86,NEW,Whispers In The Dark,Mumford & Sons,Mumford & Sons,country / folk,folk,20121013,86,81,4,20121013
-87,89,Take A Walk,Passion Pit,Passion Pit,pop,electronic,20120915,99,85,17,20121013
+87,89,Take A Walk,Passion Pit,Passion Pit,electronic,electronic,20120915,99,85,17,20121013
 88,99,Beer Money,Kip Moore,Kip Moore,country / folk,country,20121006,99,51,20,20121013
 89,NEW,Don't Stop The Party,Pitbull Featuring Tjr,Pitbull,hip-hop,hip-hop,20121013,89,89,1,20121013
 90,88,Enough Of No Love,Keyshia Cole Featuring Lil Wayne,Keyshia Cole,rnb / soul,rnb,20120818,94,84,9,20121013
@@ -1249,7 +1249,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 48,59,Cruise,Florida Georgia Line,Florida Georgia Line,country / folk,country,20120901,99,16,26,20121006
 49,46,Glad You Came,The Wanted,The Wanted,pop,pop,20120128,85,3,37,20121006
 50,54,Why Ya Wanna,Jana Kramer,Jana Kramer,country / folk,country,20120519,97,50,22,20121006
-51,39,Let's Go,Calvin Harris Featuring Ne-Yo,Calvin Harris,pop,electronic,20120602,89,17,19,20121006
+51,39,Let's Go,Calvin Harris Featuring Ne-Yo,Calvin Harris,electronic,electronic,20120602,89,17,19,20121006
 52,61,The A Team,Ed Sheeran,Ed Sheeran,pop,acoustic,20120728,95,16,33,20121006
 53,53,Little Talks,Of Monsters And Men,Of Monsters And Men,rock,indie,20120421,92,49,26,20121006
 54,56,Turn On The Light,Future,Future,hip-hop,hip-hop,20120825,89,50,20,20121006
@@ -1287,7 +1287,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 86,87,Dive In,Trey Songz,Trey Songz,rnb / soul,rnb,20120922,93,77,11,20121006
 87,NEW,Beautiful,Carly Rae Jepsen Featuring Justin Bieber,Carly Rae Jepsen,pop,pop,20121006,87,87,1,20121006
 88,84,Enough Of No Love,Keyshia Cole Featuring Lil Wayne,Keyshia Cole,rnb / soul,rnb,20120818,94,84,9,20121006
-89,85,Take A Walk,Passion Pit,Passion Pit,pop,electronic,20120915,99,85,17,20121006
+89,85,Take A Walk,Passion Pit,Passion Pit,electronic,electronic,20120915,99,85,17,20121006
 90,93,5-1-5-0,Dirks Bentley,Dirks Bentley,country / folk,country,20120526,94,33,20,20121006
 91,88,Tonight (Best You Ever Had),John Legend Featuring Ludacris,John Legend,rnb / soul,soul,20120915,85,82,5,20121006
 92,98,Til My Last Day,Justin Moore,Justin Moore,country / folk,country,20120929,98,51,20,20121006
@@ -1337,7 +1337,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 36,16,Ronan,Taylor Swift,Taylor Swift,country / folk,country,20120922,16,16,2,20120929
 37,50,Let Me Love You (Until You Learn To Love Yourself),Ne-Yo,Ne-Yo,rnb / soul,rnb,20120818,99,6,28,20120929
 38,35,Ho Hey,The Lumineers,The Lumineers,country / folk,folk,20120623,90,3,62,20120929
-39,30,Let's Go,Calvin Harris Featuring Ne-Yo,Calvin Harris,pop,electronic,20120602,89,17,19,20120929
+39,30,Let's Go,Calvin Harris Featuring Ne-Yo,Calvin Harris,electronic,electronic,20120602,89,17,19,20120929
 40,37,Girl On Fire,Alicia Keys Featuring Nicki Minaj,Alicia Keys,rnb / soul,soul,20120922,37,11,30,20120929
 41,39,Thinkin Bout You,Frank Ocean,Frank Ocean,rnb / soul,rnb,20120728,85,32,28,20120929
 42,44,Pop That,"French Montana Featuring Rick Ross, Drake, Lil Wayne",French Montana,hip-hop,hip-hop,20120728,90,36,22,20120929
@@ -1383,7 +1383,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 82,91,Madness,Muse,Muse,rock,alternative rock,20120908,84,56,25,20120929
 83,80,Bag Of Money,"Wale Featuring Rick Ross, Meek Mill & T-Pain",Wale,hip-hop,hip-hop,20120714,93,64,13,20120929
 84,86,Enough Of No Love,Keyshia Cole Featuring Lil Wayne,Keyshia Cole,rnb / soul,rnb,20120818,94,84,9,20120929
-85,87,Take A Walk,Passion Pit,Passion Pit,pop,electronic,20120915,99,85,17,20120929
+85,87,Take A Walk,Passion Pit,Passion Pit,electronic,electronic,20120915,99,85,17,20120929
 86,NEW,This Kiss,Carly Rae Jepsen,Carly Rae Jepsen,pop,pop,20120929,86,86,1,20120929
 87,93,Dive In,Trey Songz,Trey Songz,rnb / soul,rnb,20120922,93,77,11,20120929
 88,82,Tonight (Best You Ever Had),John Legend Featuring Ludacris,John Legend,rnb / soul,soul,20120915,85,82,5,20120929
@@ -1428,7 +1428,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 27,23,Pontoon,Little Big Town,Little Big Town,country / folk,country,20120623,51,22,20,20120922
 28,30,Blown Away,Carrie Underwood,Carrie Underwood,country / folk,country,20120804,89,20,20,20120922
 29,29,What Makes You Beautiful,One Direction,One Direction,pop,pop,20120303,28,4,34,20120922
-30,25,Let's Go,Calvin Harris Featuring Ne-Yo,Calvin Harris,pop,electronic,20120602,89,17,19,20120922
+30,25,Let's Go,Calvin Harris Featuring Ne-Yo,Calvin Harris,electronic,electronic,20120602,89,17,19,20120922
 31,32,50 Ways To Say Goodbye,Train,Train,rock,rock,20120728,98,20,20,20120922
 32,28,We Are Young,Fun. Featuring Janelle Monae,Fun.,pop,indie pop,20120121,88,1,40,20120922
 33,31,Take A Little Ride,Jason Aldean,Jason Aldean,country / folk,country,20120804,12,12,20,20120922
@@ -1485,7 +1485,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 84,86,That's Why I Pray,Big & Rich,Big & Rich,country / folk,country,20120728,99,82,10,20120922
 85,83,5-1-5-0,Dirks Bentley,Dirks Bentley,country / folk,country,20120526,94,33,20,20120922
 86,88,Enough Of No Love,Keyshia Cole Featuring Lil Wayne,Keyshia Cole,rnb / soul,rnb,20120818,94,84,9,20120922
-87,99,Take A Walk,Passion Pit,Passion Pit,pop,electronic,20120915,99,85,17,20120922
+87,99,Take A Walk,Passion Pit,Passion Pit,electronic,electronic,20120915,99,85,17,20120922
 88,91,Creepin',Eric Church,Eric Church,country / folk,country,20120908,95,56,20,20120922
 89,74,The Wind,Zac Brown Band,Zac Brown Band,country / folk,country,20120714,99,70,11,20120922
 90,92,Put It Down,Brandy Featuring Chris Brown,Brandy,rnb / soul,rnb,20120901,95,65,14,20120922
@@ -1523,7 +1523,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 22,25,I Won't Give Up,Jason Mraz,Jason Mraz,country / folk,singer-songwriter,20120121,8,8,44,20120915
 23,22,Pontoon,Little Big Town,Little Big Town,country / folk,country,20120623,51,22,20,20120915
 24,26,Wanted,Hunter Hayes,Hunter Hayes,country / folk,country,20120512,99,16,46,20120915
-25,21,Let's Go,Calvin Harris Featuring Ne-Yo,Calvin Harris,pop,electronic,20120602,89,17,19,20120915
+25,21,Let's Go,Calvin Harris Featuring Ne-Yo,Calvin Harris,electronic,electronic,20120602,89,17,19,20120915
 26,24,No Lie,2 Chainz Featuring Drake,2 Chainz,hip-hop,hip-hop,20120526,45,24,26,20120915
 27,29,Don't Wake Me Up,Chris Brown,Chris Brown,rnb / soul,rnb,20120721,88,10,27,20120915
 28,27,We Are Young,Fun. Featuring Janelle Monae,Fun.,pop,indie pop,20120121,88,1,40,20120915
@@ -1597,7 +1597,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 96,NEW,Thrift Shop,Macklemore & Ryan Lewis Featuring Wanz,Macklemore & Ryan Lewis,hip-hop,hip-hop,20120915,96,96,1,20120915
 97,NEW,Swimming Pools (Drank),Kendrick Lamar,Kendrick Lamar,hip-hop,hip-hop,20120915,97,17,27,20120915
 98,96,Wanted You More,Lady Antebellum,Lady Antebellum,country / folk,country,20120825,94,94,4,20120915
-99,NEW,Take A Walk,Passion Pit,Passion Pit,pop,electronic,20120915,99,85,17,20120915
+99,NEW,Take A Walk,Passion Pit,Passion Pit,electronic,electronic,20120915,99,85,17,20120915
 100,NEW,Ice,Kelly Rowland Featuring Lil Wayne,Kelly Rowland,rnb / soul,rnb,20120915,100,100,1,20120915
 1,1,We Are Never Ever Getting Back Together,Taylor Swift,Taylor Swift,country / folk,country,20120825,72,1,24,20120908
 2,2,Whistle,Flo Rida,Flo Rida,hip-hop,hip-hop,20120630,86,1,25,20120908
@@ -1619,7 +1619,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 18,20,Too Close,Alex Clare,Alex Clare,electronic,dubstep,20120519,75,7,39,20120908
 19,19,Mercy,"Kanye West, Big Sean, Pusha T, 2 Chainz","Kanye West, Big Sean, Pusha T, 2 Chainz",hip-hop,hip hop,20120421,38,13,32,20120908
 20,22,Pound The Alarm,Nicki Minaj,Nicki Minaj,hip-hop,hip-hop,20120811,92,15,18,20120908
-21,21,Let's Go,Calvin Harris Featuring Ne-Yo,Calvin Harris,pop,electronic,20120602,89,17,19,20120908
+21,21,Let's Go,Calvin Harris Featuring Ne-Yo,Calvin Harris,electronic,electronic,20120602,89,17,19,20120908
 22,23,Pontoon,Little Big Town,Little Big Town,country / folk,country,20120623,51,22,20,20120908
 23,17,Home,Phillip Phillips,Phillip Phillips,country / folk,folk,20120811,84,6,36,20120908
 24,28,No Lie,2 Chainz Featuring Drake,2 Chainz,hip-hop,hip-hop,20120526,45,24,26,20120908
@@ -1719,7 +1719,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 18,16,Give Your Heart A Break,Demi Lovato,Demi Lovato,pop,pop,20120421,70,16,32,20120901
 19,20,Mercy,"Kanye West, Big Sean, Pusha T, 2 Chainz","Kanye West, Big Sean, Pusha T, 2 Chainz",hip-hop,hip hop,20120421,38,13,32,20120901
 20,21,Too Close,Alex Clare,Alex Clare,electronic,dubstep,20120519,75,7,39,20120901
-21,19,Let's Go,Calvin Harris Featuring Ne-Yo,Calvin Harris,pop,electronic,20120602,89,17,19,20120901
+21,19,Let's Go,Calvin Harris Featuring Ne-Yo,Calvin Harris,electronic,electronic,20120602,89,17,19,20120901
 22,29,Pound The Alarm,Nicki Minaj,Nicki Minaj,hip-hop,hip-hop,20120811,92,15,18,20120901
 23,22,Pontoon,Little Big Town,Little Big Town,country / folk,country,20120623,51,22,20,20120901
 24,18,Scream,Usher,Usher,rnb / soul,rnb,20120512,70,9,21,20120901
@@ -1817,7 +1817,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 16,18,Give Your Heart A Break,Demi Lovato,Demi Lovato,pop,pop,20120421,70,16,32,20120825
 17,19,Everybody Talks,Neon Trees,Neon Trees,rock,indie,20120331,74,6,39,20120825
 18,12,Scream,Usher,Usher,rnb / soul,rnb,20120512,70,9,21,20120825
-19,17,Let's Go,Calvin Harris Featuring Ne-Yo,Calvin Harris,pop,electronic,20120602,89,17,19,20120825
+19,17,Let's Go,Calvin Harris Featuring Ne-Yo,Calvin Harris,electronic,electronic,20120602,89,17,19,20120825
 20,16,Mercy,"Kanye West, Big Sean, Pusha T, 2 Chainz","Kanye West, Big Sean, Pusha T, 2 Chainz",hip-hop,hip hop,20120421,38,13,32,20120825
 21,24,Too Close,Alex Clare,Alex Clare,electronic,dubstep,20120519,75,7,39,20120825
 22,23,Pontoon,Little Big Town,Little Big Town,country / folk,country,20120623,51,22,20,20120825
@@ -1915,7 +1915,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 14,13,Good Time,Owl City & Carly Rae Jepsen,Owl City & Carly Rae Jepsen,pop,pop,20120714,18,8,24,20120818
 15,28,As Long As You Love Me,Justin Bieber Featuring Big Sean,Justin Bieber,pop,pop,20120714,87,6,28,20120818
 16,14,Mercy,"Kanye West, Big Sean, Pusha T, 2 Chainz","Kanye West, Big Sean, Pusha T, 2 Chainz",hip-hop,hip hop,20120421,38,13,32,20120818
-17,17,Let's Go,Calvin Harris Featuring Ne-Yo,Calvin Harris,pop,electronic,20120602,89,17,19,20120818
+17,17,Let's Go,Calvin Harris Featuring Ne-Yo,Calvin Harris,electronic,electronic,20120602,89,17,19,20120818
 18,18,Give Your Heart A Break,Demi Lovato,Demi Lovato,pop,pop,20120421,70,16,32,20120818
 19,19,Everybody Talks,Neon Trees,Neon Trees,rock,indie,20120331,74,6,39,20120818
 20,15,We Are Young,Fun. Featuring Janelle Monae,Fun.,pop,indie pop,20120121,88,1,40,20120818
@@ -1935,7 +1935,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 34,36,(Kissed You) Good Night,Gloriana,Gloriana,country / folk,country,20120421,97,34,20,20120818
 35,32,"WorkHard, Play Hard",Wiz Khalifa,Wiz Khalifa,hip-hop,hip-hop,20120512,17,17,20,20120818
 36,35,Wanted,Hunter Hayes,Hunter Hayes,country / folk,country,20120512,99,16,46,20120818
-37,38,Feel So Close,Calvin Harris,Calvin Harris,pop,electronic,20120225,90,12,26,20120818
+37,38,Feel So Close,Calvin Harris,Calvin Harris,electronic,electronic,20120225,90,12,26,20120818
 38,37,Stronger (What Doesn't Kill You),Kelly Clarkson,Kelly Clarkson,pop,pop,20120121,58,1,35,20120818
 39,33,Drunk On You,Luke Bryan,Luke Bryan,country / folk,country,20120324,99,16,23,20120818
 40,39,Cashin Out,Ca$Hout,Ca$Hout,hip-hop,rap,20120428,81,36,20,20120818
@@ -2015,7 +2015,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 14,13,Mercy,"Kanye West, Big Sean, Pusha T, 2 Chainz","Kanye West, Big Sean, Pusha T, 2 Chainz",hip-hop,hip hop,20120421,38,13,32,20120811
 15,11,We Are Young,Fun. Featuring Janelle Monae,Fun.,pop,indie pop,20120121,88,1,40,20120811
 16,16,What Makes You Beautiful,One Direction,One Direction,pop,pop,20120303,28,4,34,20120811
-17,20,Let's Go,Calvin Harris Featuring Ne-Yo,Calvin Harris,pop,electronic,20120602,89,17,19,20120811
+17,20,Let's Go,Calvin Harris Featuring Ne-Yo,Calvin Harris,electronic,electronic,20120602,89,17,19,20120811
 18,19,Give Your Heart A Break,Demi Lovato,Demi Lovato,pop,pop,20120421,70,16,32,20120811
 19,21,Everybody Talks,Neon Trees,Neon Trees,rock,indie,20120331,74,6,39,20120811
 20,15,Starships,Nicki Minaj,Nicki Minaj,hip-hop,hip-hop,20120303,9,5,31,20120811
@@ -2036,7 +2036,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 35,38,Wanted,Hunter Hayes,Hunter Hayes,country / folk,country,20120512,99,16,46,20120811
 36,36,(Kissed You) Good Night,Gloriana,Gloriana,country / folk,country,20120421,97,34,20,20120811
 37,31,Stronger (What Doesn't Kill You),Kelly Clarkson,Kelly Clarkson,pop,pop,20120121,58,1,35,20120811
-38,39,Feel So Close,Calvin Harris,Calvin Harris,pop,electronic,20120225,90,12,26,20120811
+38,39,Feel So Close,Calvin Harris,Calvin Harris,electronic,electronic,20120225,90,12,26,20120811
 39,37,Cashin Out,Ca$Hout,Ca$Hout,hip-hop,rap,20120428,81,36,20,20120811
 40,33,5-1-5-0,Dirks Bentley,Dirks Bentley,country / folk,country,20120526,94,33,20,20120811
 41,40,One Thing,One Direction,One Direction,pop,pop,20120421,75,39,19,20120811
@@ -2118,7 +2118,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 17,16,Want U Back,Cher Lloyd,Cher Lloyd,pop,pop,20120630,75,12,20,20120804
 18,13,Wild Ones,Flo Rida Featuring Sia,Flo Rida,hip-hop,hip-hop,20120211,100,5,33,20120804
 19,18,Give Your Heart A Break,Demi Lovato,Demi Lovato,pop,pop,20120421,70,16,32,20120804
-20,22,Let's Go,Calvin Harris Featuring Ne-Yo,Calvin Harris,pop,electronic,20120602,89,17,19,20120804
+20,22,Let's Go,Calvin Harris Featuring Ne-Yo,Calvin Harris,electronic,electronic,20120602,89,17,19,20120804
 21,20,Everybody Talks,Neon Trees,Neon Trees,rock,indie,20120331,74,6,39,20120804
 22,19,Glad You Came,The Wanted,The Wanted,pop,pop,20120128,85,3,37,20120804
 23,21,Good Time,Owl City & Carly Rae Jepsen,Owl City & Carly Rae Jepsen,pop,pop,20120714,18,8,24,20120804
@@ -2137,7 +2137,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 36,40,(Kissed You) Good Night,Gloriana,Gloriana,country / folk,country,20120421,97,34,20,20120804
 37,39,Cashin Out,Ca$Hout,Ca$Hout,hip-hop,rap,20120428,81,36,20,20120804
 38,46,Wanted,Hunter Hayes,Hunter Hayes,country / folk,country,20120512,99,16,46,20120804
-39,37,Feel So Close,Calvin Harris,Calvin Harris,pop,electronic,20120225,90,12,26,20120804
+39,37,Feel So Close,Calvin Harris,Calvin Harris,electronic,electronic,20120225,90,12,26,20120804
 40,41,One Thing,One Direction,One Direction,pop,pop,20120421,75,39,19,20120804
 41,31,Even If It Breaks Your Heart,Eli Young Band,Eli Young Band,country / folk,country,20120331,91,29,20,20120804
 42,27,Boyfriend,Justin Bieber,Justin Bieber,pop,pop,20120414,2,2,20,20120804
@@ -2185,7 +2185,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 84,88,My Homies Still,Lil Wayne Featuring Big Sean,Lil Wayne,hip-hop,rap,20120623,38,38,13,20120804
 85,83,Bangarang,Skrillex Featuring Sirah,Skrillex,electronic,dubstep,20120707,98,83,5,20120804
 86,67,How We Do (Party),Rita Ora,Rita Ora,pop,pop,20120609,96,62,9,20120804
-87,80,Midnight City,M83.,M83.,pop,electronic,20120324,74,72,20,20120804
+87,80,Midnight City,M83.,M83.,electronic,electronic,20120324,74,72,20,20120804
 88,84,Glass,Thompson Square,Thompson Square,country / folk,country,20120623,100,84,11,20120804
 89,NEW,Blown Away,Carrie Underwood,Carrie Underwood,country / folk,country,20120804,89,20,20,20120804
 90,90,Pop That,"French Montana Featuring Rick Ross, Drake, Lil Wayne",French Montana,hip-hop,hip-hop,20120728,90,36,22,20120804
@@ -2220,7 +2220,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 19,15,Glad You Came,The Wanted,The Wanted,pop,pop,20120128,85,3,37,20120728
 20,18,Everybody Talks,Neon Trees,Neon Trees,rock,indie,20120331,74,6,39,20120728
 21,17,Good Time,Owl City & Carly Rae Jepsen,Owl City & Carly Rae Jepsen,pop,pop,20120714,18,8,24,20120728
-22,26,Let's Go,Calvin Harris Featuring Ne-Yo,Calvin Harris,pop,electronic,20120602,89,17,19,20120728
+22,26,Let's Go,Calvin Harris Featuring Ne-Yo,Calvin Harris,electronic,electronic,20120602,89,17,19,20120728
 23,23,Come Over,Kenny Chesney,Kenny Chesney,country / folk,country,20120602,59,23,20,20120728
 24,24,I Won't Give Up,Jason Mraz,Jason Mraz,country / folk,singer-songwriter,20120121,8,8,44,20120728
 25,20,Drunk On You,Luke Bryan,Luke Bryan,country / folk,country,20120324,99,16,23,20120728
@@ -2235,7 +2235,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 34,29,Springsteen,Eric Church,Eric Church,country / folk,country,20120317,79,19,22,20120728
 35,40,We Run The Night,Havana Brown Featuring Pitbull,Havana Brown,electronic,dance,20120428,96,26,20,20120728
 36,37,5-1-5-0,Dirks Bentley,Dirks Bentley,country / folk,country,20120526,94,33,20,20120728
-37,31,Feel So Close,Calvin Harris,Calvin Harris,pop,electronic,20120225,90,12,26,20120728
+37,31,Feel So Close,Calvin Harris,Calvin Harris,electronic,electronic,20120225,90,12,26,20120728
 38,22,Back In Time,Pitbull,Pitbull,hip-hop,hip-hop,20120428,83,11,19,20120728
 39,36,Cashin Out,Ca$Hout,Ca$Hout,hip-hop,rap,20120428,81,36,20,20120728
 40,43,(Kissed You) Good Night,Gloriana,Gloriana,country / folk,country,20120421,97,34,20,20120728
@@ -2278,7 +2278,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 77,94,Amen,Meek Mill Featuring Drake,Meek Mill,hip-hop,hip-hop,20120707,86,57,18,20120728
 78,88,Don't Wake Me Up,Chris Brown,Chris Brown,rnb / soul,rnb,20120721,88,10,27,20120728
 79,90,She's So Mean,Matchbox Twenty,Matchbox Twenty,rock,rock,20120721,90,40,16,20120728
-80,84,Midnight City,M83.,M83.,pop,electronic,20120324,74,72,20,20120728
+80,84,Midnight City,M83.,M83.,electronic,electronic,20120324,74,72,20,20120728
 81,97,2 Reasons,Trey Songz Featuring T.I.,Trey Songz,rnb / soul,rnb,20120721,97,43,20,20120728
 82,91,It's Time,Imagine Dragons,Imagine Dragons,rock,indie,20120623,93,15,47,20120728
 83,93,Bangarang,Skrillex Featuring Sirah,Skrillex,electronic,dubstep,20120707,98,83,5,20120728
@@ -2324,12 +2324,12 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 23,27,Come Over,Kenny Chesney,Kenny Chesney,country / folk,country,20120602,59,23,20,20120721
 24,23,I Won't Give Up,Jason Mraz,Jason Mraz,country / folk,singer-songwriter,20120121,8,8,44,20120721
 25,25,The Fighter,Gym Class Heroes Featuring Ryan Tedder,Gym Class Heroes,hip-hop,hip-hop,20120602,95,25,15,20120721
-26,31,Let's Go,Calvin Harris Featuring Ne-Yo,Calvin Harris,pop,electronic,20120602,89,17,19,20120721
+26,31,Let's Go,Calvin Harris Featuring Ne-Yo,Calvin Harris,electronic,electronic,20120602,89,17,19,20120721
 27,35,Want U Back,Cher Lloyd,Cher Lloyd,pop,pop,20120630,75,12,20,20120721
 28,32,Some Nights,Fun.,Fun.,pop,indie pop,20120310,62,3,56,20120721
 29,26,Springsteen,Eric Church,Eric Church,country / folk,country,20120317,79,19,22,20120721
 30,28,Stronger (What Doesn't Kill You),Kelly Clarkson,Kelly Clarkson,pop,pop,20120121,58,1,35,20120721
-31,29,Feel So Close,Calvin Harris,Calvin Harris,pop,electronic,20120225,90,12,26,20120721
+31,29,Feel So Close,Calvin Harris,Calvin Harris,electronic,electronic,20120225,90,12,26,20120721
 32,24,Brokenhearted,Karmin,Karmin,pop,pop,20120324,84,16,22,20120721
 33,30,Even If It Breaks Your Heart,Eli Young Band,Eli Young Band,country / folk,country,20120331,91,29,20,20120721
 34,33,"WorkHard, Play Hard",Wiz Khalifa,Wiz Khalifa,hip-hop,hip-hop,20120512,17,17,20,20120721
@@ -2347,7 +2347,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 46,51,Burn It Down,Linkin Park,Linkin Park,rock,rock,20120505,30,30,23,20120721
 47,46,Both Of Us,B.O.B Featuring Taylor Swift,B.O.B,hip-hop,hip-hop,20120519,18,18,19,20120721
 48,43,Take Care,Drake Featuring Rihanna,Drake,hip-hop,hip-hop,20111203,9,7,34,20120721
-49,50,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,pop,electronic,20110416,88,1,67,20120721
+49,50,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,electronic,electronic,20110416,88,1,67,20120721
 50,55,Beez In The Trap,Nicki Minaj Featuring 2 Chainz,Nicki Minaj,hip-hop,hip-hop,20120421,78,48,20,20120721
 51,53,Lemme See,Usher Featuring Rick Ross,Usher,rnb / soul,rnb,20120616,94,46,19,20120721
 52,56,Wanted,Hunter Hayes,Hunter Hayes,country / folk,country,20120512,99,16,46,20120721
@@ -2382,7 +2382,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 81,93,Bag Of Money,"Wale Featuring Rick Ross, Meek Mill & T-Pain",Wale,hip-hop,hip-hop,20120714,93,64,13,20120721
 82,87,As Long As You Love Me,Justin Bieber Featuring Big Sean,Justin Bieber,pop,pop,20120714,87,6,28,20120721
 83,62,One More Night,Maroon 5,Maroon 5,rock,rock,20120707,42,1,42,20120721
-84,83,Midnight City,M83.,M83.,pop,electronic,20120324,74,72,20,20120721
+84,83,Midnight City,M83.,M83.,electronic,electronic,20120324,74,72,20,20120721
 85,85,Hard To Love,Lee Brice,Lee Brice,country / folk,country,20120630,96,27,23,20120721
 86,90,Snap Backs & Tattoos,Driicky Graham,Driicky Graham,hip-hop,hip hop,20120630,97,73,13,20120721
 87,78,Dance Again,Jennifer Lopez Featuring Pitbull,Jennifer Lopez,pop,pop,20120421,27,17,18,20120721
@@ -2427,9 +2427,9 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 26,20,Springsteen,Eric Church,Eric Church,country / folk,country,20120317,79,19,22,20120714
 27,26,Come Over,Kenny Chesney,Kenny Chesney,country / folk,country,20120602,59,23,20,20120714
 28,21,Stronger (What Doesn't Kill You),Kelly Clarkson,Kelly Clarkson,pop,pop,20120121,58,1,35,20120714
-29,22,Feel So Close,Calvin Harris,Calvin Harris,pop,electronic,20120225,90,12,26,20120714
+29,22,Feel So Close,Calvin Harris,Calvin Harris,electronic,electronic,20120225,90,12,26,20120714
 30,29,Even If It Breaks Your Heart,Eli Young Band,Eli Young Band,country / folk,country,20120331,91,29,20,20120714
-31,35,Let's Go,Calvin Harris Featuring Ne-Yo,Calvin Harris,pop,electronic,20120602,89,17,19,20120714
+31,35,Let's Go,Calvin Harris Featuring Ne-Yo,Calvin Harris,electronic,electronic,20120602,89,17,19,20120714
 32,32,Some Nights,Fun.,Fun.,pop,indie pop,20120310,62,3,56,20120714
 33,28,"WorkHard, Play Hard",Wiz Khalifa,Wiz Khalifa,hip-hop,hip-hop,20120512,17,17,20,20120714
 34,37,5-1-5-0,Dirks Bentley,Dirks Bentley,country / folk,country,20120526,94,33,20,20120714
@@ -2448,7 +2448,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 47,43,Climax,Usher,Usher,rnb / soul,rnb,20120310,81,17,20,20120714
 48,44,We Found Love,Rihanna Featuring Calvin Harris,Rihanna,pop,pop,20111008,16,1,41,20120714
 49,55,Pontoon,Little Big Town,Little Big Town,country / folk,country,20120623,51,22,20,20120714
-50,45,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,pop,electronic,20110416,88,1,67,20120714
+50,45,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,electronic,electronic,20110416,88,1,67,20120714
 51,53,Burn It Down,Linkin Park,Linkin Park,rock,rock,20120505,30,30,23,20120714
 52,50,You Don't Know Her Like I Do,Brantley Gilbert,Brantley Gilbert,country / folk,country,20120218,100,49,23,20120714
 53,56,Lemme See,Usher Featuring Rick Ross,Usher,rnb / soul,rnb,20120616,94,46,19,20120714
@@ -2481,7 +2481,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 80,NEW,Wipe Your Eyes,Maroon 5,Maroon 5,rock,rock,20120714,80,80,1,20120714
 81,NEW,Promises,Nero,Nero,electronic,dubstep,20120714,81,81,1,20120714
 82,82,Crew Love,Drake Featuring The Weekend,Drake,hip-hop,hip-hop,20120407,100,80,20,20120714
-83,83,Midnight City,M83.,M83.,pop,electronic,20120324,74,72,20,20120714
+83,83,Midnight City,M83.,M83.,electronic,electronic,20120324,74,72,20,20120714
 84,81,UP!,Loverance Featuring Iamsu & Skipper Or 50 Cent,Loverance,hip-hop,hip-hop,20120317,92,46,20,20120714
 85,88,Hard To Love,Lee Brice,Lee Brice,country / folk,country,20120630,96,27,23,20120714
 86,85,My Homies Still,Lil Wayne Featuring Big Sean,Lil Wayne,hip-hop,rap,20120623,38,38,13,20120714
@@ -2520,7 +2520,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 19,17,Drive By,Train,Train,rock,rock,20120128,60,10,36,20120707
 20,20,Springsteen,Eric Church,Eric Church,country / folk,country,20120317,79,19,22,20120707
 21,22,Stronger (What Doesn't Kill You),Kelly Clarkson,Kelly Clarkson,pop,pop,20120121,58,1,35,20120707
-22,23,Feel So Close,Calvin Harris,Calvin Harris,pop,electronic,20120225,90,12,26,20120707
+22,23,Feel So Close,Calvin Harris,Calvin Harris,electronic,electronic,20120225,90,12,26,20120707
 23,25,I Won't Give Up,Jason Mraz,Jason Mraz,country / folk,singer-songwriter,20120121,8,8,44,20120707
 24,24,Everybody Talks,Neon Trees,Neon Trees,rock,indie,20120331,74,6,39,20120707
 25,26,Give Your Heart A Break,Demi Lovato,Demi Lovato,pop,pop,20120421,70,16,32,20120707
@@ -2533,7 +2533,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 32,41,Some Nights,Fun.,Fun.,pop,indie pop,20120310,62,3,56,20120707
 33,34,Part Of Me,Katy Perry,Katy Perry,pop,pop,20120303,1,1,22,20120707
 34,31,Drank In My Cup,Kirko Bangz,Kirko Bangz,hip-hop,rap,20120225,96,28,22,20120707
-35,44,Let's Go,Calvin Harris Featuring Ne-Yo,Calvin Harris,pop,electronic,20120602,89,17,19,20120707
+35,44,Let's Go,Calvin Harris Featuring Ne-Yo,Calvin Harris,electronic,electronic,20120602,89,17,19,20120707
 36,37,Cashin Out,Ca$Hout,Ca$Hout,hip-hop,rap,20120428,81,36,20,20120707
 37,40,5-1-5-0,Dirks Bentley,Dirks Bentley,country / folk,country,20120526,94,33,20,20120707
 38,48,We Run The Night,Havana Brown Featuring Pitbull,Havana Brown,electronic,dance,20120428,96,26,20,20120707
@@ -2543,7 +2543,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 42,NEW,One More Night,Maroon 5,Maroon 5,rock,rock,20120707,42,1,42,20120707
 43,36,Climax,Usher,Usher,rnb / soul,rnb,20120310,81,17,20,20120707
 44,46,We Found Love,Rihanna Featuring Calvin Harris,Rihanna,pop,pop,20111008,16,1,41,20120707
-45,45,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,pop,electronic,20110416,88,1,67,20120707
+45,45,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,electronic,electronic,20110416,88,1,67,20120707
 46,52,Heart Attack,Trey Songz,Trey Songz,rnb / soul,rnb,20120428,99,35,25,20120707
 47,39,Somethin' 'Bout A Truck,Kip Moore,Kip Moore,country / folk,country,20120225,89,29,20,20120707
 48,51,(Kissed You) Good Night,Gloriana,Gloriana,country / folk,country,20120421,97,34,20,20120707
@@ -2581,7 +2581,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 80,76,Dance Again,Jennifer Lopez Featuring Pitbull,Jennifer Lopez,pop,pop,20120421,27,17,18,20120707
 81,77,UP!,Loverance Featuring Iamsu & Skipper Or 50 Cent,Loverance,hip-hop,hip-hop,20120317,92,46,20,20120707
 82,85,Crew Love,Drake Featuring The Weekend,Drake,hip-hop,hip-hop,20120407,100,80,20,20120707
-83,88,Midnight City,M83.,M83.,pop,electronic,20120324,74,72,20,20120707
+83,88,Midnight City,M83.,M83.,electronic,electronic,20120324,74,72,20,20120707
 84,84,Right By My Side,Nicki Minaj Featuring Chris Brown,Nicki Minaj,hip-hop,hip-hop,20120421,51,51,15,20120707
 85,74,My Homies Still,Lil Wayne Featuring Big Sean,Lil Wayne,hip-hop,rap,20120623,38,38,13,20120707
 86,NEW,Amen,Meek Mill Featuring Drake,Meek Mill,hip-hop,hip-hop,20120707,86,57,18,20120707
@@ -2621,7 +2621,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 20,20,Springsteen,Eric Church,Eric Church,country / folk,country,20120317,79,19,22,20120630
 21,NEW,As Long As You Love Me,Justin Bieber Featuring Big Sean,Justin Bieber,pop,pop,20120630,21,21,1,20120630
 22,19,Stronger (What Doesn't Kill You),Kelly Clarkson,Kelly Clarkson,pop,pop,20120121,58,1,35,20120630
-23,23,Feel So Close,Calvin Harris,Calvin Harris,pop,electronic,20120225,90,12,26,20120630
+23,23,Feel So Close,Calvin Harris,Calvin Harris,electronic,electronic,20120225,90,12,26,20120630
 24,30,Everybody Talks,Neon Trees,Neon Trees,rock,indie,20120331,74,6,39,20120630
 25,26,I Won't Give Up,Jason Mraz,Jason Mraz,country / folk,singer-songwriter,20120121,8,8,44,20120630
 26,34,Give Your Heart A Break,Demi Lovato,Demi Lovato,pop,pop,20120421,70,16,32,20120630
@@ -2642,13 +2642,13 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 41,47,Some Nights,Fun.,Fun.,pop,indie pop,20120310,62,3,56,20120630
 42,41,Faded,Tyga Featuring Lil Wayne,Tyga,hip-hop,hip-hop,20120204,52,33,22,20120630
 43,43,Set Fire To The Rain,Adele,Adele,rnb / soul,soul,20111126,89,1,33,20120630
-44,58,Let's Go,Calvin Harris Featuring Ne-Yo,Calvin Harris,pop,electronic,20120602,89,17,19,20120630
-45,45,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,pop,electronic,20110416,88,1,67,20120630
+44,58,Let's Go,Calvin Harris Featuring Ne-Yo,Calvin Harris,electronic,electronic,20120602,89,17,19,20120630
+45,45,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,electronic,electronic,20110416,88,1,67,20120630
 46,42,We Found Love,Rihanna Featuring Calvin Harris,Rihanna,pop,pop,20111008,16,1,41,20120630
 47,54,One Thing,One Direction,One Direction,pop,pop,20120421,75,39,19,20120630
 48,53,We Run The Night,Havana Brown Featuring Pitbull,Havana Brown,electronic,dance,20120428,96,26,20,20120630
 49,50,You Don't Know Her Like I Do,Brantley Gilbert,Brantley Gilbert,country / folk,country,20120218,100,49,23,20120630
-50,46,Sexy And I Know It,Lmfao,Lmfao,pop,electronic,20110917,76,1,42,20120630
+50,46,Sexy And I Know It,Lmfao,Lmfao,electronic,electronic,20110917,76,1,42,20120630
 51,55,(Kissed You) Good Night,Gloriana,Gloriana,country / folk,country,20120421,97,34,20,20120630
 52,56,Heart Attack,Trey Songz,Trey Songz,rnb / soul,rnb,20120428,99,35,25,20120630
 53,44,Birthday Cake,Rihanna Featuring Chris Brown,Rihanna,pop,pop,20120310,63,24,20,20120630
@@ -2686,7 +2686,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 85,82,Crew Love,Drake Featuring The Weekend,Drake,hip-hop,hip-hop,20120407,100,80,20,20120630
 86,NEW,Whistle,Flo Rida,Flo Rida,hip-hop,hip-hop,20120630,86,1,25,20120630
 87,77,Ayy Ladies,Travis Porter Featuring Tyga,Travis Porter,hip-hop,hip-hop,20120317,88,53,19,20120630
-88,88,Midnight City,M83.,M83.,pop,electronic,20120324,74,72,20,20120630
+88,88,Midnight City,M83.,M83.,electronic,electronic,20120324,74,72,20,20120630
 89,NEW,Over,Blake Shelton,Blake Shelton,country / folk,country,20120630,89,43,18,20120630
 90,22,All Around The World,Justin Bieber Featuring Ludacris,Justin Bieber,pop,pop,20120623,22,22,2,20120630
 91,NEW,She's So Mean,Matchbox Twenty,Matchbox Twenty,rock,rock,20120630,91,91,1,20120630
@@ -2721,7 +2721,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 20,20,Springsteen,Eric Church,Eric Church,country / folk,country,20120317,79,19,22,20120623
 21,23,Mercy,"Kanye West, Big Sean, Pusha T, 2 Chainz","Kanye West, Big Sean, Pusha T, 2 Chainz",hip-hop,hip hop,20120421,38,13,32,20120623
 22,NEW,All Around The World,Justin Bieber Featuring Ludacris,Justin Bieber,pop,pop,20120623,22,22,2,20120623
-23,22,Feel So Close,Calvin Harris,Calvin Harris,pop,electronic,20120225,90,12,26,20120623
+23,22,Feel So Close,Calvin Harris,Calvin Harris,electronic,electronic,20120225,90,12,26,20120623
 24,25,The Motto,Drake Featuring Lil Wayne,Drake,hip-hop,hip-hop,20111203,18,14,35,20120623
 25,24,Take Care,Drake Featuring Rihanna,Drake,hip-hop,hip-hop,20111203,9,7,34,20120623
 26,28,I Won't Give Up,Jason Mraz,Jason Mraz,country / folk,singer-songwriter,20120121,8,8,44,20120623
@@ -2743,8 +2743,8 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 42,39,We Found Love,Rihanna Featuring Calvin Harris,Rihanna,pop,pop,20111008,16,1,41,20120623
 43,35,Set Fire To The Rain,Adele,Adele,rnb / soul,soul,20111126,89,1,33,20120623
 44,36,Birthday Cake,Rihanna Featuring Chris Brown,Rihanna,pop,pop,20120310,63,24,20,20120623
-45,42,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,pop,electronic,20110416,88,1,67,20120623
-46,43,Sexy And I Know It,Lmfao,Lmfao,pop,electronic,20110917,76,1,42,20120623
+45,42,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,electronic,electronic,20110416,88,1,67,20120623
+46,43,Sexy And I Know It,Lmfao,Lmfao,electronic,electronic,20110917,76,1,42,20120623
 47,59,Some Nights,Fun.,Fun.,pop,indie pop,20120310,62,3,56,20120623
 48,56,5-1-5-0,Dirks Bentley,Dirks Bentley,country / folk,country,20120526,94,33,20,20120623
 49,47,Good Feeling,Flo Rida,Flo Rida,hip-hop,hip-hop,20111022,77,3,36,20120623
@@ -2756,7 +2756,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 55,54,(Kissed You) Good Night,Gloriana,Gloriana,country / folk,country,20120421,97,34,20,20120623
 56,60,Heart Attack,Trey Songz,Trey Songz,rnb / soul,rnb,20120428,99,35,25,20120623
 57,44,Fly Over States,Jason Aldean,Jason Aldean,country / folk,country,20120310,92,32,20,20120623
-58,66,Let's Go,Calvin Harris Featuring Ne-Yo,Calvin Harris,pop,electronic,20120602,89,17,19,20120623
+58,66,Let's Go,Calvin Harris Featuring Ne-Yo,Calvin Harris,electronic,electronic,20120602,89,17,19,20120623
 59,68,Beers Ago,Toby Keith,Toby Keith,country / folk,country,20120505,95,52,15,20120623
 60,58,Leave You Alone,Young Jeezy Featuring Ne-Yo,Young Jeezy,hip-hop,rap,20120331,95,51,20,20120623
 61,69,Wanted,Hunter Hayes,Hunter Hayes,country / folk,country,20120512,99,16,46,20120623
@@ -2786,7 +2786,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 85,90,How We Do (Party),Rita Ora,Rita Ora,pop,pop,20120609,96,62,9,20120623
 86,91,Cowboys And Angels,Dustin Lynch,Dustin Lynch,country / folk,country,20120602,100,40,22,20120623
 87,75,Eyes Open,Taylor Swift,Taylor Swift,country / folk,country,20120407,19,19,13,20120623
-88,88,Midnight City,M83.,M83.,pop,electronic,20120324,74,72,20,20120623
+88,88,Midnight City,M83.,M83.,electronic,electronic,20120324,74,72,20,20120623
 89,84,Turn Up The Music,Chris Brown,Chris Brown,rnb / soul,rnb,20120303,10,10,20,20120623
 90,NEW,Ho Hey,The Lumineers,The Lumineers,country / folk,folk,20120623,90,3,62,20120623
 91,93,Chasing The Sun,The Wanted,The Wanted,pop,pop,20120616,93,50,15,20120623
@@ -2820,7 +2820,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 19,35,Wide Awake,Katy Perry,Katy Perry,pop,pop,20120609,35,2,26,20120616
 20,19,Springsteen,Eric Church,Eric Church,country / folk,country,20120317,79,19,22,20120616
 21,25,Titanium,David Guetta Featuring Sia,David Guetta,electronic,house,20120505,79,7,32,20120616
-22,18,Feel So Close,Calvin Harris,Calvin Harris,pop,electronic,20120225,90,12,26,20120616
+22,18,Feel So Close,Calvin Harris,Calvin Harris,electronic,electronic,20120225,90,12,26,20120616
 23,24,Mercy,"Kanye West, Big Sean, Pusha T, 2 Chainz","Kanye West, Big Sean, Pusha T, 2 Chainz",hip-hop,hip hop,20120421,38,13,32,20120616
 24,21,Take Care,Drake Featuring Rihanna,Drake,hip-hop,hip-hop,20111203,9,7,34,20120616
 25,23,The Motto,Drake Featuring Lil Wayne,Drake,hip-hop,hip-hop,20111203,18,14,35,20120616
@@ -2840,8 +2840,8 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 39,36,We Found Love,Rihanna Featuring Calvin Harris,Rihanna,pop,pop,20111008,16,1,41,20120616
 40,46,Even If It Breaks Your Heart,Eli Young Band,Eli Young Band,country / folk,country,20120331,91,29,20,20120616
 41,10,Home,Phillip Phillips,Phillip Phillips,country / folk,folk,20120609,10,10,3,20120616
-42,39,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,pop,electronic,20110416,88,1,67,20120616
-43,42,Sexy And I Know It,Lmfao,Lmfao,pop,electronic,20110917,76,1,42,20120616
+42,39,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,electronic,electronic,20110416,88,1,67,20120616
+43,42,Sexy And I Know It,Lmfao,Lmfao,electronic,electronic,20110917,76,1,42,20120616
 44,37,Fly Over States,Jason Aldean,Jason Aldean,country / folk,country,20120310,92,32,20,20120616
 45,61,The Fighter,Gym Class Heroes Featuring Ryan Tedder,Gym Class Heroes,hip-hop,hip-hop,20120602,95,25,15,20120616
 46,54,"WorkHard, Play Hard",Wiz Khalifa,Wiz Khalifa,hip-hop,hip-hop,20120512,17,17,20,20120616
@@ -2864,7 +2864,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 63,55,UP!,Loverance Featuring Iamsu & Skipper Or 50 Cent,Loverance,hip-hop,hip-hop,20120317,92,46,20,20120616
 64,51,So Good,B.O.B,B.O.B,hip-hop,hip-hop,20120310,11,11,18,20120616
 65,62,Ayy Ladies,Travis Porter Featuring Tyga,Travis Porter,hip-hop,hip-hop,20120317,88,53,19,20120616
-66,75,Let's Go,Calvin Harris Featuring Ne-Yo,Calvin Harris,pop,electronic,20120602,89,17,19,20120616
+66,75,Let's Go,Calvin Harris Featuring Ne-Yo,Calvin Harris,electronic,electronic,20120602,89,17,19,20120616
 67,70,Take It To The Head,"Dj Khaled Featuring Chris Brown, Rick Ross, Nicki Minaj & Li",Dj Khaled,hip-hop,hip-hop,20120421,63,58,20,20120616
 68,68,Beers Ago,Toby Keith,Toby Keith,country / folk,country,20120505,95,52,15,20120616
 69,77,Wanted,Hunter Hayes,Hunter Hayes,country / folk,country,20120512,99,16,46,20120616
@@ -2886,7 +2886,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 85,NEW,I'm All Yours,Jay Sean Featuring Pitbull,Jay Sean,rnb / soul,rnb,20120616,85,85,1,20120616
 86,NEW,Shadow Days,John Mayer,John Mayer,country / folk,singer-songwriter,20120616,86,86,2,20120616
 87,85,Why Ya Wanna,Jana Kramer,Jana Kramer,country / folk,country,20120519,97,50,22,20120616
-88,83,Midnight City,M83.,M83.,pop,electronic,20120324,74,72,20,20120616
+88,83,Midnight City,M83.,M83.,electronic,electronic,20120324,74,72,20,20120616
 89,87,Fine By Me,Andy Grammer,Andy Grammer,pop,pop,20120421,87,84,10,20120616
 90,96,How We Do (Party),Rita Ora,Rita Ora,pop,pop,20120609,96,62,9,20120616
 91,95,Cowboys And Angels,Dustin Lynch,Dustin Lynch,country / folk,country,20120602,100,40,22,20120616
@@ -2916,7 +2916,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 15,11,Stronger (What Doesn't Kill You),Kelly Clarkson,Kelly Clarkson,pop,pop,20120121,58,1,35,20120609
 16,23,Brokenhearted,Karmin,Karmin,pop,pop,20120324,84,16,22,20120609
 17,22,Lights,Ellie Goulding,Ellie Goulding,pop,female vocalists,20120114,99,2,56,20120609
-18,12,Feel So Close,Calvin Harris,Calvin Harris,pop,electronic,20120225,90,12,26,20120609
+18,12,Feel So Close,Calvin Harris,Calvin Harris,electronic,electronic,20120225,90,12,26,20120609
 19,20,Springsteen,Eric Church,Eric Church,country / folk,country,20120317,79,19,22,20120609
 20,14,Part Of Me,Katy Perry,Katy Perry,pop,pop,20120303,1,1,22,20120609
 21,17,Take Care,Drake Featuring Rihanna,Drake,hip-hop,hip-hop,20111203,9,7,34,20120609
@@ -2937,10 +2937,10 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 36,34,We Found Love,Rihanna Featuring Calvin Harris,Rihanna,pop,pop,20111008,16,1,41,20120609
 37,33,Fly Over States,Jason Aldean,Jason Aldean,country / folk,country,20120310,92,32,20,20120609
 38,35,Set Fire To The Rain,Adele,Adele,rnb / soul,soul,20111126,89,1,33,20120609
-39,38,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,pop,electronic,20110416,88,1,67,20120609
+39,38,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,electronic,electronic,20110416,88,1,67,20120609
 40,42,Everybody Talks,Neon Trees,Neon Trees,rock,indie,20120331,74,6,39,20120609
 41,41,Cashin Out,Ca$Hout,Ca$Hout,hip-hop,rap,20120428,81,36,20,20120609
-42,39,Sexy And I Know It,Lmfao,Lmfao,pop,electronic,20110917,76,1,42,20120609
+42,39,Sexy And I Know It,Lmfao,Lmfao,electronic,electronic,20110917,76,1,42,20120609
 43,43,Give Your Heart A Break,Demi Lovato,Demi Lovato,pop,pop,20120421,70,16,32,20120609
 44,72,(Kissed You) Good Night,Gloriana,Gloriana,country / folk,country,20120421,97,34,20,20120609
 45,40,Good Feeling,Flo Rida,Flo Rida,hip-hop,hip-hop,20111022,77,3,36,20120609
@@ -2973,7 +2973,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 72,68,Turn Up The Music,Chris Brown,Chris Brown,rnb / soul,rnb,20120303,10,10,20,20120609
 73,62,No Lie,2 Chainz Featuring Drake,2 Chainz,hip-hop,hip-hop,20120526,45,24,26,20120609
 74,76,One Thing,One Direction,One Direction,pop,pop,20120421,75,39,19,20120609
-75,89,Let's Go,Calvin Harris Featuring Ne-Yo,Calvin Harris,pop,electronic,20120602,89,17,19,20120609
+75,89,Let's Go,Calvin Harris Featuring Ne-Yo,Calvin Harris,electronic,electronic,20120602,89,17,19,20120609
 76,NEW,Around My Way (Freedom Ain't,Lupe Fiasco,Lupe Fiasco,hip-hop,hip-hop,20120609,76,76,1,20120609
 77,77,Wanted,Hunter Hayes,Hunter Hayes,country / folk,country,20120512,99,16,46,20120609
 78,74,Tongue Tied,Grouplove,Grouplove,rock,indie,20120602,74,42,17,20120609
@@ -2981,7 +2981,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 80,82,Crew Love,Drake Featuring The Weekend,Drake,hip-hop,hip-hop,20120407,100,80,20,20120609
 81,91,Both Of Us,B.O.B Featuring Taylor Swift,B.O.B,hip-hop,hip-hop,20120519,18,18,19,20120609
 82,81,Little Talks,Of Monsters And Men,Of Monsters And Men,rock,indie,20120421,92,49,26,20120609
-83,78,Midnight City,M83.,M83.,pop,electronic,20120324,74,72,20,20120609
+83,78,Midnight City,M83.,M83.,electronic,electronic,20120324,74,72,20,20120609
 84,90,Nobody's Perfect,J. Cole Featuring Missy Elliott,J. Cole,hip-hop,hip-hop,20120602,90,61,19,20120609
 85,88,Why Ya Wanna,Jana Kramer,Jana Kramer,country / folk,country,20120519,97,50,22,20120609
 86,87,Postcard From Paris,The Band Perry,The Band Perry,country / folk,country,20120602,87,60,16,20120609
@@ -3010,7 +3010,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 9,9,Boyfriend,Justin Bieber,Justin Bieber,pop,pop,20120414,2,2,20,20120602
 10,10,Drive By,Train,Train,rock,rock,20120128,60,10,36,20120602
 11,11,Stronger (What Doesn't Kill You),Kelly Clarkson,Kelly Clarkson,pop,pop,20120121,58,1,35,20120602
-12,12,Feel So Close,Calvin Harris,Calvin Harris,pop,electronic,20120225,90,12,26,20120602
+12,12,Feel So Close,Calvin Harris,Calvin Harris,electronic,electronic,20120225,90,12,26,20120602
 13,18,Where Have You Been,Rihanna,Rihanna,pop,pop,20120512,78,5,25,20120602
 14,13,Part Of Me,Katy Perry,Katy Perry,pop,pop,20120303,1,1,22,20120602
 15,25,Scream,Usher,Usher,rnb / soul,rnb,20120512,70,9,21,20120602
@@ -3036,8 +3036,8 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 35,29,Set Fire To The Rain,Adele,Adele,rnb / soul,soul,20111126,89,1,33,20120602
 36,37,Faded,Tyga Featuring Lil Wayne,Tyga,hip-hop,hip-hop,20120204,52,33,22,20120602
 37,31,Turn Me On,David Guetta Featuring Nicki Minaj,David Guetta,electronic,house,20111231,68,4,25,20120602
-38,44,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,pop,electronic,20110416,88,1,67,20120602
-39,43,Sexy And I Know It,Lmfao,Lmfao,pop,electronic,20110917,76,1,42,20120602
+38,44,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,electronic,electronic,20110416,88,1,67,20120602
+39,43,Sexy And I Know It,Lmfao,Lmfao,electronic,electronic,20110917,76,1,42,20120602
 40,40,Good Feeling,Flo Rida,Flo Rida,hip-hop,hip-hop,20111022,77,3,36,20120602
 41,52,Cashin Out,Ca$Hout,Ca$Hout,hip-hop,rap,20120428,81,36,20,20120602
 42,57,Everybody Talks,Neon Trees,Neon Trees,rock,indie,20120331,74,6,39,20120602
@@ -3076,7 +3076,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 75,67,Banjo,Rascal Flatts,Rascal Flatts,country / folk,country,20120303,63,51,17,20120602
 76,89,One Thing,One Direction,One Direction,pop,pop,20120421,75,39,19,20120602
 77,86,Wanted,Hunter Hayes,Hunter Hayes,country / folk,country,20120512,99,16,46,20120602
-78,82,Midnight City,M83.,M83.,pop,electronic,20120324,74,72,20,20120602
+78,82,Midnight City,M83.,M83.,electronic,electronic,20120324,74,72,20,20120602
 79,90,Time Is Love,Josh Turner,Josh Turner,country / folk,country,20120414,91,44,25,20120602
 80,72,Drink On It,Blake Shelton,Blake Shelton,country / folk,country,20120211,81,39,19,20120602
 81,87,Little Talks,Of Monsters And Men,Of Monsters And Men,rock,indie,20120421,92,49,26,20120602
@@ -3087,7 +3087,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 86,93,Got My Country On,Chris Cagle,Chris Cagle,country / folk,country,20120414,98,86,9,20120602
 87,NEW,Postcard From Paris,The Band Perry,The Band Perry,country / folk,country,20120602,87,60,16,20120602
 88,97,Why Ya Wanna,Jana Kramer,Jana Kramer,country / folk,country,20120519,97,50,22,20120602
-89,NEW,Let's Go,Calvin Harris Featuring Ne-Yo,Calvin Harris,pop,electronic,20120602,89,17,19,20120602
+89,NEW,Let's Go,Calvin Harris Featuring Ne-Yo,Calvin Harris,electronic,electronic,20120602,89,17,19,20120602
 90,NEW,Nobody's Perfect,J. Cole Featuring Missy Elliott,J. Cole,hip-hop,hip-hop,20120602,90,61,19,20120602
 91,75,Both Of Us,B.O.B Featuring Taylor Swift,B.O.B,hip-hop,hip-hop,20120519,18,18,19,20120602
 92,77,Whistle,Flo Rida,Flo Rida,hip-hop,hip-hop,20120512,64,64,4,20120602
@@ -3110,7 +3110,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 9,8,Boyfriend,Justin Bieber,Justin Bieber,pop,pop,20120414,2,2,20,20120526
 10,11,Drive By,Train,Train,rock,rock,20120128,60,10,36,20120526
 11,10,Stronger (What Doesn't Kill You),Kelly Clarkson,Kelly Clarkson,pop,pop,20120121,58,1,35,20120526
-12,12,Feel So Close,Calvin Harris,Calvin Harris,pop,electronic,20120225,90,12,26,20120526
+12,12,Feel So Close,Calvin Harris,Calvin Harris,electronic,electronic,20120225,90,12,26,20120526
 13,13,Part Of Me,Katy Perry,Katy Perry,pop,pop,20120303,1,1,22,20120526
 14,14,Take Care,Drake Featuring Rihanna,Drake,hip-hop,hip-hop,20111203,9,7,34,20120526
 15,15,The Motto,Drake Featuring Lil Wayne,Drake,hip-hop,hip-hop,20111203,18,14,35,20120526
@@ -3141,8 +3141,8 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 40,37,Good Feeling,Flo Rida,Flo Rida,hip-hop,hip-hop,20111022,77,3,36,20120526
 41,38,"Young, Wild & Free",Snoop Dogg & Wiz Khalifa Featuring Bruno Mars,Snoop Dogg & Wiz Khalifa,hip-hop,hip-hop,20111029,10,7,32,20120526
 42,31,Ass Back Home,Gym Class Heroes Featuring Neon Hitch,Gym Class Heroes,hip-hop,hip-hop,20111231,100,12,23,20120526
-43,42,Sexy And I Know It,Lmfao,Lmfao,pop,electronic,20110917,76,1,42,20120526
-44,44,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,pop,electronic,20110416,88,1,67,20120526
+43,42,Sexy And I Know It,Lmfao,Lmfao,electronic,electronic,20110917,76,1,42,20120526
+44,44,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,electronic,electronic,20110416,88,1,67,20120526
 45,NEW,No Lie,2 Chainz Featuring Drake,2 Chainz,hip-hop,hip-hop,20120526,45,24,26,20120526
 46,51,Titanium,David Guetta Featuring Sia,David Guetta,electronic,house,20120505,79,7,32,20120526
 47,45,Rack City,Tyga,Tyga,hip-hop,hip-hop,20111210,94,7,25,20120526
@@ -3180,7 +3180,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 79,79,Beers Ago,Toby Keith,Toby Keith,country / folk,country,20120505,95,52,15,20120526
 80,81,Heart Attack,Trey Songz,Trey Songz,rnb / soul,rnb,20120428,99,35,25,20120526
 81,84,(Kissed You) Good Night,Gloriana,Gloriana,country / folk,country,20120421,97,34,20,20120526
-82,77,Midnight City,M83.,M83.,pop,electronic,20120324,74,72,20,20120526
+82,77,Midnight City,M83.,M83.,electronic,electronic,20120324,74,72,20,20120526
 83,NEW,I Believe I Can Fly,Jermaine Paul,Jermaine Paul,rnb / soul,soul,20120526,83,83,1,20120526
 84,83,Take It To The Head,"Dj Khaled Featuring Chris Brown, Rick Ross, Nicki Minaj & Li",Dj Khaled,hip-hop,hip-hop,20120421,63,58,20,20120526
 85,NEW,The Prayer,Christina Aguilera & Chris Mann,Christina Aguilera & Chris Mann,pop,pop,20120526,85,85,1,20120526
@@ -3210,7 +3210,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 9,9,What Makes You Beautiful,One Direction,One Direction,pop,pop,20120303,28,4,34,20120519
 10,10,Stronger (What Doesn't Kill You),Kelly Clarkson,Kelly Clarkson,pop,pop,20120121,58,1,35,20120519
 11,12,Drive By,Train,Train,rock,rock,20120128,60,10,36,20120519
-12,13,Feel So Close,Calvin Harris,Calvin Harris,pop,electronic,20120225,90,12,26,20120519
+12,13,Feel So Close,Calvin Harris,Calvin Harris,electronic,electronic,20120225,90,12,26,20120519
 13,11,Part Of Me,Katy Perry,Katy Perry,pop,pop,20120303,1,1,22,20120519
 14,14,Take Care,Drake Featuring Rihanna,Drake,hip-hop,hip-hop,20111203,9,7,34,20120519
 15,15,The Motto,Drake Featuring Lil Wayne,Drake,hip-hop,hip-hop,20111203,18,14,35,20120519
@@ -3240,9 +3240,9 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 39,38,Over You,Miranda Lambert,Miranda Lambert,country / folk,country,20120211,87,35,19,20120519
 40,33,I Won't Give Up,Jason Mraz,Jason Mraz,country / folk,singer-songwriter,20120121,8,8,44,20120519
 41,42,Faded,Tyga Featuring Lil Wayne,Tyga,hip-hop,hip-hop,20120204,52,33,22,20120519
-42,37,Sexy And I Know It,Lmfao,Lmfao,pop,electronic,20110917,76,1,42,20120519
+42,37,Sexy And I Know It,Lmfao,Lmfao,electronic,electronic,20110917,76,1,42,20120519
 43,43,Somethin' 'Bout A Truck,Kip Moore,Kip Moore,country / folk,country,20120225,89,29,20,20120519
-44,41,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,pop,electronic,20110416,88,1,67,20120519
+44,41,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,electronic,electronic,20110416,88,1,67,20120519
 45,36,Rack City,Tyga,Tyga,hip-hop,hip-hop,20111210,94,7,25,20120519
 46,70,Scream,Usher,Usher,rnb / soul,rnb,20120512,70,9,21,20120519
 47,17,"WorkHard, Play Hard",Wiz Khalifa,Wiz Khalifa,hip-hop,hip-hop,20120512,17,17,20,20120519
@@ -3275,7 +3275,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 74,71,You Don't Know Her Like I Do,Brantley Gilbert,Brantley Gilbert,country / folk,country,20120218,100,49,23,20120519
 75,NEW,Too Close,Alex Clare,Alex Clare,electronic,dubstep,20120519,75,7,39,20120519
 76,74,Some Nights,Fun.,Fun.,pop,indie pop,20120310,62,3,56,20120519
-77,73,Midnight City,M83.,M83.,pop,electronic,20120324,74,72,20,20120519
+77,73,Midnight City,M83.,M83.,electronic,electronic,20120324,74,72,20,20120519
 78,76,Right By My Side,Nicki Minaj Featuring Chris Brown,Nicki Minaj,hip-hop,hip-hop,20120421,51,51,15,20120519
 79,85,Beers Ago,Toby Keith,Toby Keith,country / folk,country,20120505,95,52,15,20120519
 80,79,Tonight (Best You Ever Had),John Legend Featuring Ludacris,John Legend,rnb / soul,soul,20120505,97,79,7,20120519
@@ -3311,7 +3311,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 10,10,Stronger (What Doesn't Kill You),Kelly Clarkson,Kelly Clarkson,pop,pop,20120121,58,1,35,20120512
 11,12,Part Of Me,Katy Perry,Katy Perry,pop,pop,20120303,1,1,22,20120512
 12,11,Drive By,Train,Train,rock,rock,20120128,60,10,36,20120512
-13,14,Feel So Close,Calvin Harris,Calvin Harris,pop,electronic,20120225,90,12,26,20120512
+13,14,Feel So Close,Calvin Harris,Calvin Harris,electronic,electronic,20120225,90,12,26,20120512
 14,13,Take Care,Drake Featuring Rihanna,Drake,hip-hop,hip-hop,20111203,9,7,34,20120512
 15,15,The Motto,Drake Featuring Lil Wayne,Drake,hip-hop,hip-hop,20111203,18,14,35,20120512
 16,16,Rumour Has It,Adele,Adele,rnb / soul,soul,20120303,67,16,18,20120512
@@ -3335,11 +3335,11 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 34,37,Fly Over States,Jason Aldean,Jason Aldean,country / folk,country,20120310,92,32,20,20120512
 35,40,Drank In My Cup,Kirko Bangz,Kirko Bangz,hip-hop,rap,20120225,96,28,22,20120512
 36,31,Rack City,Tyga,Tyga,hip-hop,hip-hop,20111210,94,7,25,20120512
-37,32,Sexy And I Know It,Lmfao,Lmfao,pop,electronic,20110917,76,1,42,20120512
+37,32,Sexy And I Know It,Lmfao,Lmfao,electronic,electronic,20110917,76,1,42,20120512
 38,38,Over You,Miranda Lambert,Miranda Lambert,country / folk,country,20120211,87,35,19,20120512
 39,39,Mercy,"Kanye West, Big Sean, Pusha T, 2 Chainz","Kanye West, Big Sean, Pusha T, 2 Chainz",hip-hop,hip hop,20120421,38,13,32,20120512
 40,49,Lights,Ellie Goulding,Ellie Goulding,pop,female vocalists,20120114,99,2,56,20120512
-41,43,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,pop,electronic,20110416,88,1,67,20120512
+41,43,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,electronic,electronic,20110416,88,1,67,20120512
 42,50,Faded,Tyga Featuring Lil Wayne,Tyga,hip-hop,hip-hop,20120204,52,33,22,20120512
 43,47,Somethin' 'Bout A Truck,Kip Moore,Kip Moore,country / folk,country,20120225,89,29,20,20120512
 44,34,Domino,Jessie J,Jessie J,pop,pop,20111029,96,6,29,20120512
@@ -3371,7 +3371,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 70,NEW,Scream,Usher,Usher,rnb / soul,rnb,20120512,70,9,21,20120512
 71,70,You Don't Know Her Like I Do,Brantley Gilbert,Brantley Gilbert,country / folk,country,20120218,100,49,23,20120512
 72,76,HYFR (Hell Yeah Fucking Right),Drake Featuring Lil Wayne,Drake,hip-hop,hip-hop,20120331,100,62,19,20120512
-73,73,Midnight City,M83.,M83.,pop,electronic,20120324,74,72,20,20120512
+73,73,Midnight City,M83.,M83.,electronic,electronic,20120324,74,72,20,20120512
 74,69,Some Nights,Fun.,Fun.,pop,indie pop,20120310,62,3,56,20120512
 75,71,One Thing,One Direction,One Direction,pop,pop,20120421,75,39,19,20120512
 76,72,Right By My Side,Nicki Minaj Featuring Chris Brown,Nicki Minaj,hip-hop,hip-hop,20120421,51,51,15,20120512
@@ -3387,7 +3387,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 86,84,Time Is Love,Josh Turner,Josh Turner,country / folk,country,20120414,91,44,25,20120512
 87,83,Take It To The Head,"Dj Khaled Featuring Chris Brown, Rick Ross, Nicki Minaj & Li",Dj Khaled,hip-hop,hip-hop,20120421,63,58,20,20120512
 88,82,Little Talks,Of Monsters And Men,Of Monsters And Men,rock,indie,20120421,92,49,26,20120512
-89,NEW,Let's Go,Calvin Harris Featuring Ne-Yo,Calvin Harris,pop,electronic,20120512,89,89,1,20120512
+89,NEW,Let's Go,Calvin Harris Featuring Ne-Yo,Calvin Harris,electronic,electronic,20120512,89,89,1,20120512
 90,53,Loud,Mac Miller,Mac Miller,hip-hop,hip-hop,20120505,53,53,2,20120512
 91,94,We Run The Night,Havana Brown Featuring Pitbull,Havana Brown,electronic,dance,20120428,96,26,20,20120512
 92,NEW,It's Not Right But It's Okay,Glee Cast,Glee Cast,pop,musical,20120512,92,92,1,20120512
@@ -3412,7 +3412,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 11,13,Drive By,Train,Train,rock,rock,20120128,60,10,36,20120505
 12,10,Part Of Me,Katy Perry,Katy Perry,pop,pop,20120303,1,1,22,20120505
 13,11,Take Care,Drake Featuring Rihanna,Drake,hip-hop,hip-hop,20111203,9,7,34,20120505
-14,12,Feel So Close,Calvin Harris,Calvin Harris,pop,electronic,20120225,90,12,26,20120505
+14,12,Feel So Close,Calvin Harris,Calvin Harris,electronic,electronic,20120225,90,12,26,20120505
 15,14,The Motto,Drake Featuring Lil Wayne,Drake,hip-hop,hip-hop,20111203,18,14,35,20120505
 16,20,Rumour Has It,Adele,Adele,rnb / soul,soul,20120303,67,16,18,20120505
 17,16,So Good,B.O.B,B.O.B,hip-hop,hip-hop,20120310,11,11,18,20120505
@@ -3430,7 +3430,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 29,34,Dance Again,Jennifer Lopez Featuring Pitbull,Jennifer Lopez,pop,pop,20120421,27,17,18,20120505
 30,NEW,Burn It Down,Linkin Park,Linkin Park,rock,rock,20120505,30,30,23,20120505
 31,24,Rack City,Tyga,Tyga,hip-hop,hip-hop,20111210,94,7,25,20120505
-32,33,Sexy And I Know It,Lmfao,Lmfao,pop,electronic,20110917,76,1,42,20120505
+32,33,Sexy And I Know It,Lmfao,Lmfao,electronic,electronic,20110917,76,1,42,20120505
 33,38,Brokenhearted,Karmin,Karmin,pop,pop,20120324,84,16,22,20120505
 34,28,Domino,Jessie J,Jessie J,pop,pop,20111029,96,6,29,20120505
 35,35,Good Girl,Carrie Underwood,Carrie Underwood,country / folk,country,20120310,24,18,20,20120505
@@ -3441,7 +3441,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 40,44,Drank In My Cup,Kirko Bangz,Kirko Bangz,hip-hop,rap,20120225,96,28,22,20120505
 41,36,A Woman Like You,Lee Brice,Lee Brice,country / folk,country,20120114,96,33,19,20120505
 42,32,International Love,Pitbull Featuring Chris Brown,Pitbull,hip-hop,hip-hop,20111126,92,13,25,20120505
-43,41,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,pop,electronic,20110416,88,1,67,20120505
+43,41,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,electronic,electronic,20110416,88,1,67,20120505
 44,43,Moves Like Jagger,Maroon 5 Featuring Christina Aguilera,Maroon 5,rock,rock,20110709,8,1,49,20120505
 45,42,Drink On It,Blake Shelton,Blake Shelton,country / folk,country,20120211,81,39,19,20120505
 46,48,Dancin' Away With My Heart,Lady Antebellum,Lady Antebellum,country / folk,country,20120204,96,46,18,20120505
@@ -3471,7 +3471,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 70,70,You Don't Know Her Like I Do,Brantley Gilbert,Brantley Gilbert,country / folk,country,20120218,100,49,23,20120505
 71,62,One Thing,One Direction,One Direction,pop,pop,20120421,75,39,19,20120505
 72,65,Right By My Side,Nicki Minaj Featuring Chris Brown,Nicki Minaj,hip-hop,hip-hop,20120421,51,51,15,20120505
-73,72,Midnight City,M83.,M83.,pop,electronic,20120324,74,72,20,20120505
+73,72,Midnight City,M83.,M83.,electronic,electronic,20120324,74,72,20,20120505
 74,71,Give Your Heart A Break,Demi Lovato,Demi Lovato,pop,pop,20120421,70,16,32,20120505
 75,81,Cashin Out,Ca$Hout,Ca$Hout,hip-hop,rap,20120428,81,36,20,20120505
 76,77,HYFR (Hell Yeah Fucking Right),Drake Featuring Lil Wayne,Drake,hip-hop,hip-hop,20120331,100,62,19,20120505
@@ -3510,7 +3510,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 9,8,Stronger (What Doesn't Kill You),Kelly Clarkson,Kelly Clarkson,pop,pop,20120121,58,1,35,20120428
 10,9,Part Of Me,Katy Perry,Katy Perry,pop,pop,20120303,1,1,22,20120428
 11,11,Take Care,Drake Featuring Rihanna,Drake,hip-hop,hip-hop,20111203,9,7,34,20120428
-12,13,Feel So Close,Calvin Harris,Calvin Harris,pop,electronic,20120225,90,12,26,20120428
+12,13,Feel So Close,Calvin Harris,Calvin Harris,electronic,electronic,20120225,90,12,26,20120428
 13,14,Drive By,Train,Train,rock,rock,20120128,60,10,36,20120428
 14,16,The Motto,Drake Featuring Lil Wayne,Drake,hip-hop,hip-hop,20111203,18,14,35,20120428
 15,12,Turn Me On,David Guetta Featuring Nicki Minaj,David Guetta,electronic,house,20111231,68,4,25,20120428
@@ -3531,7 +3531,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 30,31,Drunk On You,Luke Bryan,Luke Bryan,country / folk,country,20120324,99,16,23,20120428
 31,26,Springsteen,Eric Church,Eric Church,country / folk,country,20120317,79,19,22,20120428
 32,24,International Love,Pitbull Featuring Chris Brown,Pitbull,hip-hop,hip-hop,20111126,92,13,25,20120428
-33,28,Sexy And I Know It,Lmfao,Lmfao,pop,electronic,20110917,76,1,42,20120428
+33,28,Sexy And I Know It,Lmfao,Lmfao,electronic,electronic,20110917,76,1,42,20120428
 34,27,Dance Again,Jennifer Lopez Featuring Pitbull,Jennifer Lopez,pop,pop,20120421,27,17,18,20120428
 35,34,Good Girl,Carrie Underwood,Carrie Underwood,country / folk,country,20120310,24,18,20,20120428
 36,36,A Woman Like You,Lee Brice,Lee Brice,country / folk,country,20120114,96,33,19,20120428
@@ -3539,7 +3539,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 38,41,Brokenhearted,Karmin,Karmin,pop,pop,20120324,84,16,22,20120428
 39,43,Fly Over States,Jason Aldean,Jason Aldean,country / folk,country,20120310,92,32,20,20120428
 40,33,Turn Up The Music,Chris Brown,Chris Brown,rnb / soul,rnb,20120303,10,10,20,20120428
-41,37,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,pop,electronic,20110416,88,1,67,20120428
+41,37,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,electronic,electronic,20110416,88,1,67,20120428
 42,39,Drink On It,Blake Shelton,Blake Shelton,country / folk,country,20120211,81,39,19,20120428
 43,42,Moves Like Jagger,Maroon 5 Featuring Christina Aguilera,Maroon 5,rock,rock,20110709,8,1,49,20120428
 44,48,Drank In My Cup,Kirko Bangz,Kirko Bangz,hip-hop,rap,20120225,96,28,22,20120428
@@ -3570,7 +3570,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 69,71,No Hurry,Zac Brown Band,Zac Brown Band,country / folk,country,20120324,96,50,16,20120428
 70,69,You Don't Know Her Like I Do,Brantley Gilbert,Brantley Gilbert,country / folk,country,20120218,100,49,23,20120428
 71,70,Give Your Heart A Break,Demi Lovato,Demi Lovato,pop,pop,20120421,70,16,32,20120428
-72,74,Midnight City,M83.,M83.,pop,electronic,20120324,74,72,20,20120428
+72,74,Midnight City,M83.,M83.,electronic,electronic,20120324,74,72,20,20120428
 73,80,Too Close,Alex Clare,Alex Clare,electronic,dubstep,20120407,68,63,5,20120428
 74,66,Can't Get Enough,J. Cole Featuring Trey Songz,J. Cole,hip-hop,hip-hop,20111217,82,52,20,20120428
 75,73,Bangarang,Skrillex Featuring Sirah,Skrillex,electronic,dubstep,20120303,95,72,12,20120428
@@ -3611,7 +3611,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 10,10,Call Me Maybe,Carly Rae Jepsen,Carly Rae Jepsen,pop,pop,20120310,38,1,50,20120421
 11,11,Take Care,Drake Featuring Rihanna,Drake,hip-hop,hip-hop,20111203,9,7,34,20120421
 12,13,Turn Me On,David Guetta Featuring Nicki Minaj,David Guetta,electronic,house,20111231,68,4,25,20120421
-13,14,Feel So Close,Calvin Harris,Calvin Harris,pop,electronic,20120225,90,12,26,20120421
+13,14,Feel So Close,Calvin Harris,Calvin Harris,electronic,electronic,20120225,90,12,26,20120421
 14,15,Drive By,Train,Train,rock,rock,20120128,60,10,36,20120421
 15,12,Set Fire To The Rain,Adele,Adele,rnb / soul,soul,20111126,89,1,33,20120421
 16,17,The Motto,Drake Featuring Lil Wayne,Drake,hip-hop,hip-hop,20111203,18,14,35,20120421
@@ -3626,7 +3626,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 25,24,Domino,Jessie J,Jessie J,pop,pop,20111029,96,6,29,20120421
 26,38,Springsteen,Eric Church,Eric Church,country / folk,country,20120317,79,19,22,20120421
 27,NEW,Dance Again,Jennifer Lopez Featuring Pitbull,Jennifer Lopez,pop,pop,20120421,27,17,18,20120421
-28,25,Sexy And I Know It,Lmfao,Lmfao,pop,electronic,20110917,76,1,42,20120421
+28,25,Sexy And I Know It,Lmfao,Lmfao,electronic,electronic,20110917,76,1,42,20120421
 29,26,Eyes Open,Taylor Swift,Taylor Swift,country / folk,country,20120407,19,19,13,20120421
 30,29,Climax,Usher,Usher,rnb / soul,rnb,20120310,81,17,20,20120421
 31,39,Drunk On You,Luke Bryan,Luke Bryan,country / folk,country,20120324,99,16,23,20120421
@@ -3635,7 +3635,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 34,31,Good Girl,Carrie Underwood,Carrie Underwood,country / folk,country,20120310,24,18,20,20120421
 35,44,Over You,Miranda Lambert,Miranda Lambert,country / folk,country,20120211,87,35,19,20120421
 36,34,A Woman Like You,Lee Brice,Lee Brice,country / folk,country,20120114,96,33,19,20120421
-37,32,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,pop,electronic,20110416,88,1,67,20120421
+37,32,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,electronic,electronic,20110416,88,1,67,20120421
 38,NEW,Mercy,"Kanye West, Big Sean, Pusha T, 2 Chainz","Kanye West, Big Sean, Pusha T, 2 Chainz",hip-hop,hip hop,20120421,38,13,32,20120421
 39,45,Drink On It,Blake Shelton,Blake Shelton,country / folk,country,20120211,81,39,19,20120421
 40,NEW,Feel Like A Rock Star,Kenny Chesney & Tim Mcgraw,Kenny Chesney & Tim Mcgraw,hip-hop,hip-hop,20120421,40,40,7,20120421
@@ -3672,7 +3672,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 71,72,No Hurry,Zac Brown Band,Zac Brown Band,country / folk,country,20120324,96,50,16,20120421
 72,76,Leave You Alone,Young Jeezy Featuring Ne-Yo,Young Jeezy,hip-hop,rap,20120331,95,51,20,20120421
 73,77,Bangarang,Skrillex Featuring Sirah,Skrillex,electronic,dubstep,20120303,95,72,12,20120421
-74,75,Midnight City,M83.,M83.,pop,electronic,20120324,74,72,20,20120421
+74,75,Midnight City,M83.,M83.,electronic,electronic,20120324,74,72,20,20120421
 75,NEW,One Thing,One Direction,One Direction,pop,pop,20120421,75,39,19,20120421
 76,69,Magic,Future Featuring T.I.,Future,hip-hop,hip-hop,20120317,94,69,9,20120421
 77,71,Where I Come From,Montgomery Gentry,Montgomery Gentry,country / folk,country,20120121,94,71,15,20120421
@@ -3687,7 +3687,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 86,80,Sex Ain't Better Than Love,Trey Songz,Trey Songz,rnb / soul,rnb,20120324,97,80,6,20120421
 87,NEW,Fine By Me,Andy Grammer,Andy Grammer,pop,pop,20120421,87,84,10,20120421
 88,92,This Ole Boy,Craig Morgan,Craig Morgan,country / folk,country,20120407,92,87,9,20120421
-89,90,Sorry For Party Rocking,Lmfao,Lmfao,pop,electronic,20120211,92,49,11,20120421
+89,90,Sorry For Party Rocking,Lmfao,Lmfao,electronic,electronic,20120211,92,49,11,20120421
 90,82,Princess Of China,Coldplay Featuring Rihanna,Coldplay,rock,rock,20120225,75,54,9,20120421
 91,94,HYFR (Hell Yeah Fucking Right),Drake Featuring Lil Wayne,Drake,hip-hop,hip-hop,20120331,100,62,19,20120421
 92,NEW,Little Talks,Of Monsters And Men,Of Monsters And Men,rock,indie,20120421,92,49,26,20120421
@@ -3712,7 +3712,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 11,9,Take Care,Drake Featuring Rihanna,Drake,hip-hop,hip-hop,20111203,9,7,34,20120414
 12,6,Set Fire To The Rain,Adele,Adele,rnb / soul,soul,20111126,89,1,33,20120414
 13,10,Turn Me On,David Guetta Featuring Nicki Minaj,David Guetta,electronic,house,20111231,68,4,25,20120414
-14,15,Feel So Close,Calvin Harris,Calvin Harris,pop,electronic,20120225,90,12,26,20120414
+14,15,Feel So Close,Calvin Harris,Calvin Harris,electronic,electronic,20120225,90,12,26,20120414
 15,13,Drive By,Train,Train,rock,rock,20120128,60,10,36,20120414
 16,12,"Young, Wild & Free",Snoop Dogg & Wiz Khalifa Featuring Bruno Mars,Snoop Dogg & Wiz Khalifa,hip-hop,hip-hop,20111029,10,7,32,20120414
 17,17,The Motto,Drake Featuring Lil Wayne,Drake,hip-hop,hip-hop,20111203,18,14,35,20120414
@@ -3723,14 +3723,14 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 22,21,International Love,Pitbull Featuring Chris Brown,Pitbull,hip-hop,hip-hop,20111126,92,13,25,20120414
 23,27,So Good,B.O.B,B.O.B,hip-hop,hip-hop,20120310,11,11,18,20120414
 24,23,Domino,Jessie J,Jessie J,pop,pop,20111029,96,6,29,20120414
-25,24,Sexy And I Know It,Lmfao,Lmfao,pop,electronic,20110917,76,1,42,20120414
+25,24,Sexy And I Know It,Lmfao,Lmfao,electronic,electronic,20110917,76,1,42,20120414
 26,19,Eyes Open,Taylor Swift,Taylor Swift,country / folk,country,20120407,19,19,13,20120414
 27,25,Turn Up The Music,Chris Brown,Chris Brown,rnb / soul,rnb,20120303,10,10,20,20120414
 28,26,It Will Rain,Bruno Mars,Bruno Mars,pop,pop,20111015,28,3,29,20120414
 29,40,Climax,Usher,Usher,rnb / soul,rnb,20120310,81,17,20,20120414
 30,34,Birthday Cake,Rihanna Featuring Chris Brown,Rihanna,pop,pop,20120310,63,24,20,20120414
 31,32,Good Girl,Carrie Underwood,Carrie Underwood,country / folk,country,20120310,24,18,20,20120414
-32,29,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,pop,electronic,20110416,88,1,67,20120414
+32,29,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,electronic,electronic,20110416,88,1,67,20120414
 33,52,Brokenhearted,Karmin,Karmin,pop,pop,20120324,84,16,22,20120414
 34,33,A Woman Like You,Lee Brice,Lee Brice,country / folk,country,20120114,96,33,19,20120414
 35,44,Rumour Has It,Adele,Adele,rnb / soul,soul,20120303,67,16,18,20120414
@@ -3773,7 +3773,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 72,79,No Hurry,Zac Brown Band,Zac Brown Band,country / folk,country,20120324,96,50,16,20120414
 73,82,Even If It Breaks Your Heart,Eli Young Band,Eli Young Band,country / folk,country,20120331,91,29,20,20120414
 74,78,You Don't Know Her Like I Do,Brantley Gilbert,Brantley Gilbert,country / folk,country,20120218,100,49,23,20120414
-75,75,Midnight City,M83.,M83.,pop,electronic,20120324,74,72,20,20120414
+75,75,Midnight City,M83.,M83.,electronic,electronic,20120324,74,72,20,20120414
 76,88,Leave You Alone,Young Jeezy Featuring Ne-Yo,Young Jeezy,hip-hop,rap,20120331,95,51,20,20120414
 77,76,Bangarang,Skrillex Featuring Sirah,Skrillex,electronic,dubstep,20120303,95,72,12,20120414
 78,NEW,She Doesn't Mind,Sean Paul,Sean Paul,electronic,dancehall,20120414,78,78,1,20120414
@@ -3788,7 +3788,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 87,NEW,Give Me All Your Luvin',Madonna Featuring Nicki Minaj & M.I.A.,Madonna,pop,pop,20120414,87,87,1,20120414
 88,100,Crew Love,Drake Featuring The Weekend,Drake,hip-hop,hip-hop,20120407,100,80,20,20120414
 89,84,You Gonna Fly,Keith Urban,Keith Urban,country / folk,country,20120114,95,54,16,20120414
-90,87,Sorry For Party Rocking,Lmfao,Lmfao,pop,electronic,20120211,92,49,11,20120414
+90,87,Sorry For Party Rocking,Lmfao,Lmfao,electronic,electronic,20120211,92,49,11,20120414
 91,NEW,Time Is Love,Josh Turner,Josh Turner,country / folk,country,20120414,91,44,25,20120414
 92,92,This Ole Boy,Craig Morgan,Craig Morgan,country / folk,country,20120407,92,87,9,20120414
 93,99,We Run The Night,Havana Brown Featuring Pitbull,Havana Brown,electronic,dance,20120407,99,93,2,20120414
@@ -3797,7 +3797,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 96,98,I Do,Young Jeezy Featuring Jay-Z & Andre 3000,Young Jeezy,hip-hop,rap,20120107,61,61,15,20120414
 97,95,Mr. Wrong,Mary J. Blige Featuring Drake,Mary J. Blige,rnb / soul,rnb,20120317,95,89,5,20120414
 98,NEW,Got My Country On,Chris Cagle,Chris Cagle,country / folk,country,20120414,98,86,9,20120414
-99,NEW,Naked,Dev & Enrique Iglesias,Dev,pop,electronic,20120414,99,99,1,20120414
+99,NEW,Naked,Dev & Enrique Iglesias,Dev,electronic,electronic,20120414,99,99,1,20120414
 100,68,Too Close,Alex Clare,Alex Clare,electronic,dubstep,20120407,68,63,5,20120414
 1,1,We Are Young,Fun. Featuring Janelle Monae,Fun.,pop,indie pop,20120121,88,1,40,20120407
 2,2,Stronger (What Doesn't Kill You),Kelly Clarkson,Kelly Clarkson,pop,pop,20120121,58,1,35,20120407
@@ -3813,7 +3813,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 12,11,"Young, Wild & Free",Snoop Dogg & Wiz Khalifa Featuring Bruno Mars,Snoop Dogg & Wiz Khalifa,hip-hop,hip-hop,20111029,10,7,32,20120407
 13,15,Drive By,Train,Train,rock,rock,20120128,60,10,36,20120407
 14,12,We Found Love,Rihanna Featuring Calvin Harris,Rihanna,pop,pop,20111008,16,1,41,20120407
-15,18,Feel So Close,Calvin Harris,Calvin Harris,pop,electronic,20120225,90,12,26,20120407
+15,18,Feel So Close,Calvin Harris,Calvin Harris,electronic,electronic,20120225,90,12,26,20120407
 16,13,Ass Back Home,Gym Class Heroes Featuring Neon Hitch,Gym Class Heroes,hip-hop,hip-hop,20111231,100,12,23,20120407
 17,21,The Motto,Drake Featuring Lil Wayne,Drake,hip-hop,hip-hop,20111203,18,14,35,20120407
 18,23,Call Me Maybe,Carly Rae Jepsen,Carly Rae Jepsen,pop,pop,20120310,38,1,50,20120407
@@ -3822,12 +3822,12 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 21,16,International Love,Pitbull Featuring Chris Brown,Pitbull,hip-hop,hip-hop,20111126,92,13,25,20120407
 22,14,Rack City,Tyga,Tyga,hip-hop,hip-hop,20111210,94,7,25,20120407
 23,20,Domino,Jessie J,Jessie J,pop,pop,20111029,96,6,29,20120407
-24,22,Sexy And I Know It,Lmfao,Lmfao,pop,electronic,20110917,76,1,42,20120407
+24,22,Sexy And I Know It,Lmfao,Lmfao,electronic,electronic,20110917,76,1,42,20120407
 25,25,Turn Up The Music,Chris Brown,Chris Brown,rnb / soul,rnb,20120303,10,10,20,20120407
 26,24,It Will Rain,Bruno Mars,Bruno Mars,pop,pop,20111015,28,3,29,20120407
 27,47,So Good,B.O.B,B.O.B,hip-hop,hip-hop,20120310,11,11,18,20120407
 28,26,Ni**as In Paris,Jay-Z & Kanye West,Jay-Z & Kanye West,hip-hop,hip-hop,20110827,75,5,36,20120407
-29,27,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,pop,electronic,20110416,88,1,67,20120407
+29,27,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,electronic,electronic,20110416,88,1,67,20120407
 30,29,Not Over You,Gavin Degraw,Gavin Degraw,country / folk,singer-songwriter,20110903,99,18,34,20120407
 31,28,Moves Like Jagger,Maroon 5 Featuring Christina Aguilera,Maroon 5,rock,rock,20110709,8,1,49,20120407
 32,30,Good Girl,Carrie Underwood,Carrie Underwood,country / folk,country,20120310,24,18,20,20120407
@@ -3873,7 +3873,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 72,77,Where I Come From,Montgomery Gentry,Montgomery Gentry,country / folk,country,20120121,94,71,15,20120407
 73,59,Home,Dierks Bentley,Dierks Bentley,country / folk,country,20111126,70,44,20,20120407
 74,61,Love's Gonna Make It Alright,George Strait,George Strait,country / folk,country,20120204,99,61,11,20120407
-75,78,Midnight City,M83.,M83.,pop,electronic,20120324,74,72,20,20120407
+75,78,Midnight City,M83.,M83.,electronic,electronic,20120324,74,72,20,20120407
 76,75,Bangarang,Skrillex Featuring Sirah,Skrillex,electronic,dubstep,20120303,95,72,12,20120407
 77,66,Princess Of China,Coldplay Featuring Rihanna,Coldplay,rock,rock,20120225,75,54,9,20120407
 78,83,You Don't Know Her Like I Do,Brantley Gilbert,Brantley Gilbert,country / folk,country,20120218,100,49,23,20120407
@@ -3885,7 +3885,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 84,68,You Gonna Fly,Keith Urban,Keith Urban,country / folk,country,20120114,95,54,16,20120407
 85,81,You Da One,Rihanna,Rihanna,pop,pop,20111126,73,14,20,20120407
 86,86,Scary Monsters And Nice Sprites,Skrillex,Skrillex,electronic,dubstep,20120324,83,82,9,20120407
-87,80,Sorry For Party Rocking,Lmfao,Lmfao,pop,electronic,20120211,92,49,11,20120407
+87,80,Sorry For Party Rocking,Lmfao,Lmfao,electronic,electronic,20120211,92,49,11,20120407
 88,95,Leave You Alone,Young Jeezy Featuring Ne-Yo,Young Jeezy,hip-hop,rap,20120331,95,51,20,20120407
 89,85,Lonely Boy,The Black Keys,The Black Keys,rock,blues rock,20111203,94,64,19,20120407
 90,84,Mirror,Lil Wayne Featuring Bruno Mars,Lil Wayne,hip-hop,rap,20120218,57,57,11,20120407
@@ -3916,16 +3916,16 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 15,21,Drive By,Train,Train,rock,rock,20120128,60,10,36,20120331
 16,14,International Love,Pitbull Featuring Chris Brown,Pitbull,hip-hop,hip-hop,20111126,92,13,25,20120331
 17,13,Good Feeling,Flo Rida,Flo Rida,hip-hop,hip-hop,20111022,77,3,36,20120331
-18,22,Feel So Close,Calvin Harris,Calvin Harris,pop,electronic,20120225,90,12,26,20120331
+18,22,Feel So Close,Calvin Harris,Calvin Harris,electronic,electronic,20120225,90,12,26,20120331
 19,33,What Makes You Beautiful,One Direction,One Direction,pop,pop,20120303,28,4,34,20120331
 20,17,Domino,Jessie J,Jessie J,pop,pop,20111029,96,6,29,20120331
 21,19,The Motto,Drake Featuring Lil Wayne,Drake,hip-hop,hip-hop,20111203,18,14,35,20120331
-22,18,Sexy And I Know It,Lmfao,Lmfao,pop,electronic,20110917,76,1,42,20120331
+22,18,Sexy And I Know It,Lmfao,Lmfao,electronic,electronic,20110917,76,1,42,20120331
 23,24,Call Me Maybe,Carly Rae Jepsen,Carly Rae Jepsen,pop,pop,20120310,38,1,50,20120331
 24,20,It Will Rain,Bruno Mars,Bruno Mars,pop,pop,20111015,28,3,29,20120331
 25,28,Turn Up The Music,Chris Brown,Chris Brown,rnb / soul,rnb,20120303,10,10,20,20120331
 26,23,Ni**as In Paris,Jay-Z & Kanye West,Jay-Z & Kanye West,hip-hop,hip-hop,20110827,75,5,36,20120331
-27,26,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,pop,electronic,20110416,88,1,67,20120331
+27,26,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,electronic,electronic,20110416,88,1,67,20120331
 28,27,Moves Like Jagger,Maroon 5 Featuring Christina Aguilera,Maroon 5,rock,rock,20110709,8,1,49,20120331
 29,25,Not Over You,Gavin Degraw,Gavin Degraw,country / folk,singer-songwriter,20110903,99,18,34,20120331
 30,37,Good Girl,Carrie Underwood,Carrie Underwood,country / folk,country,20120310,24,18,20,20120331
@@ -3976,9 +3976,9 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 75,75,Bangarang,Skrillex Featuring Sirah,Skrillex,electronic,dubstep,20120303,95,72,12,20120331
 76,82,Some Nights,Fun.,Fun.,pop,indie pop,20120310,62,3,56,20120331
 77,80,Where I Come From,Montgomery Gentry,Montgomery Gentry,country / folk,country,20120121,94,71,15,20120331
-78,74,Midnight City,M83.,M83.,pop,electronic,20120324,74,72,20,20120331
+78,74,Midnight City,M83.,M83.,electronic,electronic,20120324,74,72,20,20120331
 79,91,Magic,Future Featuring T.I.,Future,hip-hop,hip-hop,20120317,94,69,9,20120331
-80,63,Sorry For Party Rocking,Lmfao,Lmfao,pop,electronic,20120211,92,49,11,20120331
+80,63,Sorry For Party Rocking,Lmfao,Lmfao,electronic,electronic,20120211,92,49,11,20120331
 81,76,You Da One,Rihanna,Rihanna,pop,pop,20111126,73,14,20,20120331
 82,72,Reality,Kenny Chesney,Kenny Chesney,country / folk,country,20120114,92,62,13,20120331
 83,88,You Don't Know Her Like I Do,Brantley Gilbert,Brantley Gilbert,country / folk,country,20120218,100,49,23,20120331
@@ -3994,7 +3994,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 93,89,Mr. Wrong,Mary J. Blige Featuring Drake,Mary J. Blige,rnb / soul,rnb,20120317,95,89,5,20120331
 94,85,Gotta Have It,Jay Z & Kanye West,Jay Z & Kanye West,hip-hop,hip-hop,20120121,98,69,11,20120331
 95,NEW,Leave You Alone,Young Jeezy Featuring Ne-Yo,Young Jeezy,hip-hop,rap,20120331,95,51,20,20120331
-96,93,Blackout,Breathe Carolina,Breathe Carolina,pop,electronic,20111119,92,32,20,20120331
+96,93,Blackout,Breathe Carolina,Breathe Carolina,electronic,electronic,20111119,92,32,20,20120331
 97,98,Don't Stop (Color On The Walls),Foster The People,Foster The People,rock,indie,20120324,98,97,2,20120331
 98,NEW,TTYLXOX,Bella Thorne,Bella Thorne,electronic,dance,20120331,98,97,2,20120331
 99,95,I Do,Young Jeezy Featuring Jay-Z & Andre 3000,Young Jeezy,hip-hop,rap,20120107,61,61,15,20120331
@@ -4016,15 +4016,15 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 15,17,Rack City,Tyga,Tyga,hip-hop,hip-hop,20111210,94,7,25,20120324
 16,20,Ass Back Home,Gym Class Heroes Featuring Neon Hitch,Gym Class Heroes,hip-hop,hip-hop,20111231,100,12,23,20120324
 17,16,Domino,Jessie J,Jessie J,pop,pop,20111029,96,6,29,20120324
-18,14,Sexy And I Know It,Lmfao,Lmfao,pop,electronic,20110917,76,1,42,20120324
+18,14,Sexy And I Know It,Lmfao,Lmfao,electronic,electronic,20110917,76,1,42,20120324
 19,15,The Motto,Drake Featuring Lil Wayne,Drake,hip-hop,hip-hop,20111203,18,14,35,20120324
 20,22,It Will Rain,Bruno Mars,Bruno Mars,pop,pop,20111015,28,3,29,20120324
 21,23,Drive By,Train,Train,rock,rock,20120128,60,10,36,20120324
-22,34,Feel So Close,Calvin Harris,Calvin Harris,pop,electronic,20120225,90,12,26,20120324
+22,34,Feel So Close,Calvin Harris,Calvin Harris,electronic,electronic,20120225,90,12,26,20120324
 23,30,Ni**as In Paris,Jay-Z & Kanye West,Jay-Z & Kanye West,hip-hop,hip-hop,20110827,75,5,36,20120324
 24,31,Call Me Maybe,Carly Rae Jepsen,Carly Rae Jepsen,pop,pop,20120310,38,1,50,20120324
 25,26,Not Over You,Gavin Degraw,Gavin Degraw,country / folk,singer-songwriter,20110903,99,18,34,20120324
-26,25,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,pop,electronic,20110416,88,1,67,20120324
+26,25,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,electronic,electronic,20110416,88,1,67,20120324
 27,28,Moves Like Jagger,Maroon 5 Featuring Christina Aguilera,Maroon 5,rock,rock,20110709,8,1,49,20120324
 28,27,Turn Up The Music,Chris Brown,Chris Brown,rnb / soul,rnb,20120303,10,10,20,20120324
 29,24,Someone Like You,Adele,Adele,rnb / soul,soul,20110730,97,1,38,20120324
@@ -4061,7 +4061,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 60,69,Safe & Sound,Taylor Swift Featuring The Civil Wars,Taylor Swift,country / folk,country,20120303,56,35,12,20120324
 61,64,Fly Over States,Jason Aldean,Jason Aldean,country / folk,country,20120310,92,32,20,20120324
 62,68,Drank In My Cup,Kirko Bangz,Kirko Bangz,hip-hop,rap,20120225,96,28,22,20120324
-63,53,Sorry For Party Rocking,Lmfao,Lmfao,pop,electronic,20120211,92,49,11,20120324
+63,53,Sorry For Party Rocking,Lmfao,Lmfao,electronic,electronic,20120211,92,49,11,20120324
 64,62,You Gonna Fly,Keith Urban,Keith Urban,country / folk,country,20120114,95,54,16,20120324
 65,75,Princess Of China,Coldplay Featuring Rihanna,Coldplay,rock,rock,20120225,75,54,9,20120324
 66,74,Levels,Avicii,Avicii,electronic,house,20111203,66,60,20,20120324
@@ -4072,7 +4072,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 71,65,Better Than I Used To Be,Tim Mcgraw,Tim Mcgraw,country / folk,country,20120211,75,52,19,20120324
 72,63,Reality,Kenny Chesney,Kenny Chesney,country / folk,country,20120114,92,62,13,20120324
 73,71,Banjo,Rascal Flatts,Rascal Flatts,country / folk,country,20120303,63,51,17,20120324
-74,NEW,Midnight City,M83.,M83.,pop,electronic,20120324,74,72,20,20120324
+74,NEW,Midnight City,M83.,M83.,electronic,electronic,20120324,74,72,20,20120324
 75,72,Bangarang,Skrillex Featuring Sirah,Skrillex,electronic,dubstep,20120303,95,72,12,20120324
 76,97,You Da One,Rihanna,Rihanna,pop,pop,20111126,73,14,20,20120324
 77,60,Red Solo Cup,Toby Keith,Toby Keith,country / folk,country,20111112,37,15,20,20120324
@@ -4091,7 +4091,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 90,81,The Trouble With Girls,Scotty Mcgreery,Scotty Mcgreery,pop,unknown,20111210,93,55,16,20120324
 91,94,Magic,Future Featuring T.I.,Future,hip-hop,hip-hop,20120317,94,69,9,20120324
 92,98,Do It Like You,Diggy Featuring Jeremih,Diggy,hip-hop,hip-hop,20120317,98,80,5,20120324
-93,73,Blackout,Breathe Carolina,Breathe Carolina,pop,electronic,20111119,92,32,20,20120324
+93,73,Blackout,Breathe Carolina,Breathe Carolina,electronic,electronic,20111119,92,32,20,20120324
 94,99,Shake It Out,Florence + The Machine,Florence + The Machine,rock,indie,20120310,79,72,4,20120324
 95,91,I Do,Young Jeezy Featuring Jay-Z & Andre 3000,Young Jeezy,hip-hop,rap,20120107,61,61,15,20120324
 96,NEW,No Hurry,Zac Brown Band,Zac Brown Band,country / folk,country,20120324,96,50,16,20120324
@@ -4112,7 +4112,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 11,15,Take Care,Drake Featuring Rihanna,Drake,hip-hop,hip-hop,20111203,9,7,34,20120317
 12,7,Good Feeling,Flo Rida,Flo Rida,hip-hop,hip-hop,20111022,77,3,36,20120317
 13,13,International Love,Pitbull Featuring Chris Brown,Pitbull,hip-hop,hip-hop,20111126,92,13,25,20120317
-14,12,Sexy And I Know It,Lmfao,Lmfao,pop,electronic,20110917,76,1,42,20120317
+14,12,Sexy And I Know It,Lmfao,Lmfao,electronic,electronic,20110917,76,1,42,20120317
 15,17,The Motto,Drake Featuring Lil Wayne,Drake,hip-hop,hip-hop,20111203,18,14,35,20120317
 16,14,Domino,Jessie J,Jessie J,pop,pop,20111029,96,6,29,20120317
 17,18,Rack City,Tyga,Tyga,hip-hop,hip-hop,20111210,94,7,25,20120317
@@ -4123,7 +4123,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 22,20,It Will Rain,Bruno Mars,Bruno Mars,pop,pop,20111015,28,3,29,20120317
 23,32,Drive By,Train,Train,rock,rock,20120128,60,10,36,20120317
 24,21,Someone Like You,Adele,Adele,rnb / soul,soul,20110730,97,1,38,20120317
-25,26,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,pop,electronic,20110416,88,1,67,20120317
+25,26,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,electronic,electronic,20110416,88,1,67,20120317
 26,27,Not Over You,Gavin Degraw,Gavin Degraw,country / folk,singer-songwriter,20110903,99,18,34,20120317
 27,19,Turn Up The Music,Chris Brown,Chris Brown,rnb / soul,rnb,20120303,10,10,20,20120317
 28,28,Moves Like Jagger,Maroon 5 Featuring Christina Aguilera,Maroon 5,rock,rock,20110709,8,1,49,20120317
@@ -4132,7 +4132,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 31,38,Call Me Maybe,Carly Rae Jepsen,Carly Rae Jepsen,pop,pop,20120310,38,1,50,20120317
 32,23,Rolling In The Deep,Adele,Adele,rnb / soul,soul,20110129,97,1,64,20120317
 33,29,The One That Got Away,Katy Perry,Katy Perry,pop,pop,20111029,94,3,24,20120317
-34,46,Feel So Close,Calvin Harris,Calvin Harris,pop,electronic,20120225,90,12,26,20120317
+34,46,Feel So Close,Calvin Harris,Calvin Harris,electronic,electronic,20120225,90,12,26,20120317
 35,31,Paradise,Coldplay,Coldplay,rock,rock,20111001,16,15,29,20120317
 36,34,A Thousand Years,Christina Perri,Christina Perri,pop,female vocalists,20111105,74,31,26,20120317
 37,36,Without You,David Guetta Featuring Usher,David Guetta,electronic,house,20110917,39,4,30,20120317
@@ -4151,7 +4151,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 50,43,I Don't Want To This Night To End,Luke Bryan,Luke Bryan,country / folk,country,20111015,90,22,23,20120317
 51,55,Drink On It,Blake Shelton,Blake Shelton,country / folk,country,20120211,81,39,19,20120317
 52,64,I Won't Give Up,Jason Mraz,Jason Mraz,country / folk,singer-songwriter,20120121,8,8,44,20120317
-53,49,Sorry For Party Rocking,Lmfao,Lmfao,pop,electronic,20120211,92,49,11,20120317
+53,49,Sorry For Party Rocking,Lmfao,Lmfao,electronic,electronic,20120211,92,49,11,20120317
 54,57,Love On Top,Beyonce,Beyonce,rnb / soul,rnb,20111224,98,48,17,20120317
 55,63,Birthday Cake,Rihanna Featuring Chris Brown,Rihanna,pop,pop,20120310,63,24,20,20120317
 56,61,Dancin' Away With My Heart,Lady Antebellum,Lady Antebellum,country / folk,country,20120204,96,46,18,20120317
@@ -4171,7 +4171,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 70,NEW,Roman Reloaded,Nicki Minaj Featuring Lil Wayne,Nicki Minaj,hip-hop,hip-hop,20120317,70,70,1,20120317
 71,82,Banjo,Rascal Flatts,Rascal Flatts,country / folk,country,20120303,63,51,17,20120317
 72,83,Bangarang,Skrillex Featuring Sirah,Skrillex,electronic,dubstep,20120303,95,72,12,20120317
-73,69,Blackout,Breathe Carolina,Breathe Carolina,pop,electronic,20111119,92,32,20,20120317
+73,69,Blackout,Breathe Carolina,Breathe Carolina,electronic,electronic,20111119,92,32,20,20120317
 74,77,Levels,Avicii,Avicii,electronic,house,20111203,66,60,20,20120317
 75,78,Princess Of China,Coldplay Featuring Rihanna,Coldplay,rock,rock,20120225,75,54,9,20120317
 76,94,You Don't Know Her Like I Do,Brantley Gilbert,Brantley Gilbert,country / folk,country,20120218,100,49,23,20120317
@@ -4210,7 +4210,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 9,14,"Young, Wild & Free",Snoop Dogg & Wiz Khalifa Featuring Bruno Mars,Snoop Dogg & Wiz Khalifa,hip-hop,hip-hop,20111029,10,7,32,20120310
 10,9,Starships,Nicki Minaj,Nicki Minaj,hip-hop,hip-hop,20120303,9,5,31,20120310
 11,NEW,So Good,B.O.B,B.O.B,hip-hop,hip-hop,20120310,11,11,18,20120310
-12,13,Sexy And I Know It,Lmfao,Lmfao,pop,electronic,20110917,76,1,42,20120310
+12,13,Sexy And I Know It,Lmfao,Lmfao,electronic,electronic,20110917,76,1,42,20120310
 13,17,International Love,Pitbull Featuring Chris Brown,Pitbull,hip-hop,hip-hop,20111126,92,13,25,20120310
 14,18,Domino,Jessie J,Jessie J,pop,pop,20111029,96,6,29,20120310
 15,21,Take Care,Drake Featuring Rihanna,Drake,hip-hop,hip-hop,20111203,9,7,34,20120310
@@ -4224,7 +4224,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 23,5,Rolling In The Deep,Adele,Adele,rnb / soul,soul,20110129,97,1,64,20120310
 24,NEW,Good Girl,Carrie Underwood,Carrie Underwood,country / folk,country,20120310,24,18,20,20120310
 25,24,Ni**as In Paris,Jay-Z & Kanye West,Jay-Z & Kanye West,hip-hop,hip-hop,20110827,75,5,36,20120310
-26,29,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,pop,electronic,20110416,88,1,67,20120310
+26,29,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,electronic,electronic,20110416,88,1,67,20120310
 27,32,Not Over You,Gavin Degraw,Gavin Degraw,country / folk,singer-songwriter,20110903,99,18,34,20120310
 28,31,Moves Like Jagger,Maroon 5 Featuring Christina Aguilera,Maroon 5,rock,rock,20110709,8,1,49,20120310
 29,30,The One That Got Away,Katy Perry,Katy Perry,pop,pop,20111029,94,3,24,20120310
@@ -4244,10 +4244,10 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 43,40,I Don't Want To This Night To End,Luke Bryan,Luke Bryan,country / folk,country,20111015,90,22,23,20120310
 44,52,A Woman Like You,Lee Brice,Lee Brice,country / folk,country,20120114,96,33,19,20120310
 45,46,Ours,Taylor Swift,Taylor Swift,country / folk,country,20111126,13,13,20,20120310
-46,77,Feel So Close,Calvin Harris,Calvin Harris,pop,electronic,20120225,90,12,26,20120310
+46,77,Feel So Close,Calvin Harris,Calvin Harris,electronic,electronic,20120225,90,12,26,20120310
 47,41,Red Solo Cup,Toby Keith,Toby Keith,country / folk,country,20111112,37,15,20,20120310
 48,55,Alone With You,Jake Owen,Jake Owen,country / folk,country,20111224,90,41,20,20120310
-49,60,Sorry For Party Rocking,Lmfao,Lmfao,pop,electronic,20120211,92,49,11,20120310
+49,60,Sorry For Party Rocking,Lmfao,Lmfao,electronic,electronic,20120211,92,49,11,20120310
 50,28,What Makes You Beautiful,One Direction,One Direction,pop,pop,20120303,28,4,34,20120310
 51,67,Rumour Has It,Adele,Adele,rnb / soul,soul,20120303,67,16,18,20120310
 52,64,Over You,Miranda Lambert,Miranda Lambert,country / folk,country,20120211,87,35,19,20120310
@@ -4267,7 +4267,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 66,NEW,What Doesn't KIll You (Stronger),Glee Cast,Glee Cast,pop,musical,20120310,66,66,1,20120310
 67,71,Can't Get Enough,J. Cole Featuring Trey Songz,J. Cole,hip-hop,hip-hop,20111217,82,52,20,20120310
 68,58,You,Chris Young,Chris Young,country / folk,country,20111105,85,34,20,20120310
-69,53,Blackout,Breathe Carolina,Breathe Carolina,pop,electronic,20111119,92,32,20,20120310
+69,53,Blackout,Breathe Carolina,Breathe Carolina,electronic,electronic,20111119,92,32,20,20120310
 70,56,Safe & Sound,Taylor Swift Featuring The Civil Wars,Taylor Swift,country / folk,country,20120303,56,35,12,20120310
 71,73,Reality,Kenny Chesney,Kenny Chesney,country / folk,country,20120114,92,62,13,20120310
 72,81,When I'm Gone,Wiz Khalifa,Wiz Khalifa,hip-hop,hip-hop,20120303,81,72,3,20120310
@@ -4311,7 +4311,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 10,NEW,Turn Up The Music,Chris Brown,Chris Brown,rnb / soul,rnb,20120303,10,10,20,20120303
 11,8,Turn Me On,David Guetta Featuring Nicki Minaj,David Guetta,electronic,house,20111231,68,4,25,20120303
 12,5,Good Feeling,Flo Rida,Flo Rida,hip-hop,hip-hop,20111022,77,3,36,20120303
-13,4,Sexy And I Know It,Lmfao,Lmfao,pop,electronic,20110917,76,1,42,20120303
+13,4,Sexy And I Know It,Lmfao,Lmfao,electronic,electronic,20110917,76,1,42,20120303
 14,12,"Young, Wild & Free",Snoop Dogg & Wiz Khalifa Featuring Bruno Mars,Snoop Dogg & Wiz Khalifa,hip-hop,hip-hop,20111029,10,7,32,20120303
 15,9,Rack City,Tyga,Tyga,hip-hop,hip-hop,20111210,94,7,25,20120303
 16,13,It Will Rain,Bruno Mars,Bruno Mars,pop,pop,20111015,28,3,29,20120303
@@ -4327,7 +4327,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 26,15,Ass Back Home,Gym Class Heroes Featuring Neon Hitch,Gym Class Heroes,hip-hop,hip-hop,20111231,100,12,23,20120303
 27,26,Somebody That I Used To Know,Gotye Featuring Kimbra,Gotye,rock,indie,20120121,91,1,59,20120303
 28,NEW,What Makes You Beautiful,One Direction,One Direction,pop,pop,20120303,28,4,34,20120303
-29,18,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,pop,electronic,20110416,88,1,67,20120303
+29,18,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,electronic,electronic,20110416,88,1,67,20120303
 30,21,The One That Got Away,Katy Perry,Katy Perry,pop,pop,20111029,94,3,24,20120303
 31,23,Moves Like Jagger,Maroon 5 Featuring Christina Aguilera,Maroon 5,rock,rock,20110709,8,1,49,20120303
 32,24,Not Over You,Gavin Degraw,Gavin Degraw,country / folk,singer-songwriter,20110903,99,18,34,20120303
@@ -4351,14 +4351,14 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 50,NEW,Runaway Baby,Bruno Mars,Bruno Mars,pop,pop,20120303,50,50,1,20120303
 51,48,Tonight Is The Night,Outasight,Outasight,hip-hop,hip-hop,20111210,96,38,20,20120303
 52,52,A Woman Like You,Lee Brice,Lee Brice,country / folk,country,20120114,96,33,19,20120303
-53,45,Blackout,Breathe Carolina,Breathe Carolina,pop,electronic,20111119,92,32,20,20120303
+53,45,Blackout,Breathe Carolina,Breathe Carolina,electronic,electronic,20111119,92,32,20,20120303
 54,75,Princess Of China,Coldplay Featuring Rihanna,Coldplay,rock,rock,20120225,75,54,9,20120303
 55,53,Alone With You,Jake Owen,Jake Owen,country / folk,country,20111224,90,41,20,20120303
 56,NEW,Safe & Sound,Taylor Swift Featuring The Civil Wars,Taylor Swift,country / folk,country,20120303,56,35,12,20120303
 57,44,Home,Dierks Bentley,Dierks Bentley,country / folk,country,20111126,70,44,20,20120303
 58,46,You,Chris Young,Chris Young,country / folk,country,20111105,85,34,20,20120303
 59,71,I Won't Give Up,Jason Mraz,Jason Mraz,country / folk,singer-songwriter,20120121,8,8,44,20120303
-60,62,Sorry For Party Rocking,Lmfao,Lmfao,pop,electronic,20120211,92,49,11,20120303
+60,62,Sorry For Party Rocking,Lmfao,Lmfao,electronic,electronic,20120211,92,49,11,20120303
 61,55,You Gonna Fly,Keith Urban,Keith Urban,country / folk,country,20120114,95,54,16,20120303
 62,59,Talk That Talk,Rihanna Featuring Jay-Z,Rihanna,pop,pop,20120128,100,32,18,20120303
 63,NEW,Banjo,Rascal Flatts,Rascal Flatts,country / folk,country,20120303,63,51,17,20120303
@@ -4375,7 +4375,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 74,68,Dancin' Away With My Heart,Lady Antebellum,Lady Antebellum,country / folk,country,20120204,96,46,18,20120303
 75,60,Levels,Avicii,Avicii,electronic,house,20111203,66,60,20,20120303
 76,67,I'm Gonna Love You Through It,Martina Mcbride,Martina Mcbride,country / folk,country,20111029,71,61,19,20120303
-77,90,Feel So Close,Calvin Harris,Calvin Harris,pop,electronic,20120225,90,12,26,20120303
+77,90,Feel So Close,Calvin Harris,Calvin Harris,electronic,electronic,20120225,90,12,26,20120303
 78,69,Gotta Have It,Jay Z & Kanye West,Jay Z & Kanye West,hip-hop,hip-hop,20120121,98,69,11,20120303
 79,51,Ima Boss,"Meek Mill Feat T.I., Birdman, Lil Wayne, Dj Khaled, Rick Ros",Meek Mill Feat T.I.,pop,unknown,20120225,51,51,2,20120303
 80,74,Better Than I Used To Be,Tim Mcgraw,Tim Mcgraw,country / folk,country,20120211,75,52,19,20120303
@@ -4402,7 +4402,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 1,1,Stronger (What Doesn't Kill You),Kelly Clarkson,Kelly Clarkson,pop,pop,20120121,58,1,35,20120225
 2,2,Set Fire To The Rain,Adele,Adele,rnb / soul,soul,20111126,89,1,33,20120225
 3,41,We Are Young,Fun. Featuring Janelle Monae,Fun.,pop,indie pop,20120121,88,1,40,20120225
-4,9,Sexy And I Know It,Lmfao,Lmfao,pop,electronic,20110917,76,1,42,20120225
+4,9,Sexy And I Know It,Lmfao,Lmfao,electronic,electronic,20110917,76,1,42,20120225
 5,3,Good Feeling,Flo Rida,Flo Rida,hip-hop,hip-hop,20111022,77,3,36,20120225
 6,4,We Found Love,Rihanna Featuring Calvin Harris,Rihanna,pop,pop,20111008,16,1,41,20120225
 7,NEW,I Will Always Love You,Whitney Houston,Whitney Houston,pop,pop,20120225,7,3,3,20120225
@@ -4416,7 +4416,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 15,12,Ass Back Home,Gym Class Heroes Featuring Neon Hitch,Gym Class Heroes,hip-hop,hip-hop,20111231,100,12,23,20120225
 16,15,International Love,Pitbull Featuring Chris Brown,Pitbull,hip-hop,hip-hop,20111126,92,13,25,20120225
 17,44,Rolling In The Deep,Adele,Adele,rnb / soul,soul,20110129,97,1,64,20120225
-18,20,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,pop,electronic,20110416,88,1,67,20120225
+18,20,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,electronic,electronic,20110416,88,1,67,20120225
 19,16,The Motto,Drake Featuring Lil Wayne,Drake,hip-hop,hip-hop,20111203,18,14,35,20120225
 20,11,Ni**as In Paris,Jay-Z & Kanye West,Jay-Z & Kanye West,hip-hop,hip-hop,20110827,75,5,36,20120225
 21,14,The One That Got Away,Katy Perry,Katy Perry,pop,pop,20111029,94,3,24,20120225
@@ -4443,7 +4443,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 42,51,Heartbeat,The Fray,The Fray,rock,alternative,20111119,95,42,16,20120225
 43,55,Drive By,Train,Train,rock,rock,20120128,60,10,36,20120225
 44,58,Home,Dierks Bentley,Dierks Bentley,country / folk,country,20111126,70,44,20,20120225
-45,40,Blackout,Breathe Carolina,Breathe Carolina,pop,electronic,20111119,92,32,20,20120225
+45,40,Blackout,Breathe Carolina,Breathe Carolina,electronic,electronic,20111119,92,32,20,20120225
 46,35,You,Chris Young,Chris Young,country / folk,country,20111105,85,34,20,20120225
 47,42,Ours,Taylor Swift,Taylor Swift,country / folk,country,20111126,13,13,20,20120225
 48,43,Tonight Is The Night,Outasight,Outasight,hip-hop,hip-hop,20111210,96,38,20,20120225
@@ -4460,7 +4460,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 59,65,Talk That Talk,Rihanna Featuring Jay-Z,Rihanna,pop,pop,20120128,100,32,18,20120225
 60,60,Levels,Avicii,Avicii,electronic,house,20111203,66,60,20,20120225
 61,66,Over You,Miranda Lambert,Miranda Lambert,country / folk,country,20120211,87,35,19,20120225
-62,79,Sorry For Party Rocking,Lmfao,Lmfao,pop,electronic,20120211,92,49,11,20120225
+62,79,Sorry For Party Rocking,Lmfao,Lmfao,electronic,electronic,20120211,92,49,11,20120225
 63,57,Mirror,Lil Wayne Featuring Bruno Mars,Lil Wayne,hip-hop,rap,20120218,57,57,11,20120225
 64,73,Drink On It,Blake Shelton,Blake Shelton,country / folk,country,20120211,81,39,19,20120225
 65,63,Love On Top,Beyonce,Beyonce,rnb / soul,rnb,20111224,98,48,17,20120225
@@ -4488,7 +4488,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 87,91,Mr. Wrong,Mary J. Blige Featuring Drake,Mary J. Blige,rnb / soul,rnb,20120204,98,87,4,20120225
 88,74,Strange Clouds,B.O.B Featuring Lil Wayne,B.O.B,hip-hop,hip-hop,20111015,7,7,20,20120225
 89,NEW,Somethin' 'Bout A Truck,Kip Moore,Kip Moore,country / folk,country,20120225,89,29,20,20120225
-90,NEW,Feel So Close,Calvin Harris,Calvin Harris,pop,electronic,20120225,90,12,26,20120225
+90,NEW,Feel So Close,Calvin Harris,Calvin Harris,electronic,electronic,20120225,90,12,26,20120225
 91,97,4 AM,Melanie Fiona,Melanie Fiona,rnb / soul,soul,20120218,97,91,2,20120225
 92,85,You The Boss,Rick Ross Featuring Nicki Minaj,Rick Ross,hip-hop,hip-hop,20111105,84,62,17,20120225
 93,26,Smooth Criminal,Glee Cast Featuring 2Cellos,Glee Cast,pop,musical,20120218,26,26,2,20120225
@@ -4507,7 +4507,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 6,8,Domino,Jessie J,Jessie J,pop,pop,20111029,96,6,29,20120218
 7,10,Rack City,Tyga,Tyga,hip-hop,hip-hop,20111210,94,7,25,20120218
 8,12,"Young, Wild & Free",Snoop Dogg & Wiz Khalifa Featuring Bruno Mars,Snoop Dogg & Wiz Khalifa,hip-hop,hip-hop,20111029,10,7,32,20120218
-9,7,Sexy And I Know It,Lmfao,Lmfao,pop,electronic,20110917,76,1,42,20120218
+9,7,Sexy And I Know It,Lmfao,Lmfao,electronic,electronic,20110917,76,1,42,20120218
 10,6,It Will Rain,Bruno Mars,Bruno Mars,pop,pop,20111015,28,3,29,20120218
 11,11,Ni**as In Paris,Jay-Z & Kanye West,Jay-Z & Kanye West,hip-hop,hip-hop,20110827,75,5,36,20120218
 12,19,Ass Back Home,Gym Class Heroes Featuring Neon Hitch,Gym Class Heroes,hip-hop,hip-hop,20111231,100,12,23,20120218
@@ -4518,7 +4518,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 17,14,Dance (A$$),Big Sean,Big Sean,hip-hop,hip-hop,20111022,93,10,24,20120218
 18,15,Moves Like Jagger,Maroon 5 Featuring Christina Aguilera,Maroon 5,rock,rock,20110709,8,1,49,20120218
 19,18,Not Over You,Gavin Degraw,Gavin Degraw,country / folk,singer-songwriter,20110903,99,18,34,20120218
-20,20,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,pop,electronic,20110416,88,1,67,20120218
+20,20,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,electronic,electronic,20110416,88,1,67,20120218
 21,17,Work Out,J. Cole,J. Cole,hip-hop,hip-hop,20110924,98,13,27,20120218
 22,21,Someone Like You,Adele,Adele,rnb / soul,soul,20110730,97,1,38,20120218
 23,26,Take Care,Drake Featuring Rihanna,Drake,hip-hop,hip-hop,20111203,9,7,34,20120218
@@ -4538,7 +4538,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 37,41,All Your Life,The Band Perry,The Band Perry,country / folk,country,20110924,95,37,23,20120218
 38,51,A Thousand Years,Christina Perri,Christina Perri,pop,female vocalists,20111105,74,31,26,20120218
 39,42,Strip,Chris Brown Featuring Kevin Mccall,Chris Brown,rnb / soul,rnb,20120107,92,37,19,20120218
-40,33,Blackout,Breathe Carolina,Breathe Carolina,pop,electronic,20111119,92,32,20,20120218
+40,33,Blackout,Breathe Carolina,Breathe Carolina,electronic,electronic,20111119,92,32,20,20120218
 41,63,We Are Young,Fun. Featuring Janelle Monae,Fun.,pop,indie pop,20120121,88,1,40,20120218
 42,46,Ours,Taylor Swift,Taylor Swift,country / folk,country,20111126,13,13,20,20120218
 43,38,Tonight Is The Night,Outasight,Outasight,hip-hop,hip-hop,20111210,96,38,20,20120218
@@ -4577,7 +4577,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 76,55,5 O'Clock,T-Pain Featuring Wiz Khalifa & Lily Allen,T-Pain,rnb / soul,rnb,20111015,62,10,20,20120218
 77,100,Wild Ones,Flo Rida Featuring Sia,Flo Rida,hip-hop,hip-hop,20120211,100,5,33,20120218
 78,NEW,Wanna Be Startin' Somethin',Glee Cast,Glee Cast,pop,musical,20120218,78,78,1,20120218
-79,92,Sorry For Party Rocking,Lmfao,Lmfao,pop,electronic,20120211,92,49,11,20120218
+79,92,Sorry For Party Rocking,Lmfao,Lmfao,electronic,electronic,20120211,92,49,11,20120218
 80,NEW,Bad,Glee Cast,Glee Cast,pop,musical,20120218,80,80,1,20120218
 81,78,I Won't Give Up,Jason Mraz,Jason Mraz,country / folk,singer-songwriter,20120121,8,8,44,20120218
 82,71,Lonely Boy,The Black Keys,The Black Keys,rock,blues rock,20111203,94,64,19,20120218
@@ -4605,7 +4605,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 4,3,Good Feeling,Flo Rida,Flo Rida,hip-hop,hip-hop,20111022,77,3,36,20120211
 5,4,Turn Me On,David Guetta Featuring Nicki Minaj,David Guetta,electronic,house,20111231,68,4,25,20120211
 6,6,It Will Rain,Bruno Mars,Bruno Mars,pop,pop,20111015,28,3,29,20120211
-7,7,Sexy And I Know It,Lmfao,Lmfao,pop,electronic,20110917,76,1,42,20120211
+7,7,Sexy And I Know It,Lmfao,Lmfao,electronic,electronic,20110917,76,1,42,20120211
 8,10,Domino,Jessie J,Jessie J,pop,pop,20111029,96,6,29,20120211
 9,5,The One That Got Away,Katy Perry,Katy Perry,pop,pop,20111029,94,3,24,20120211
 10,11,Rack City,Tyga,Tyga,hip-hop,hip-hop,20111210,94,7,25,20120211
@@ -4618,7 +4618,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 17,15,Work Out,J. Cole,J. Cole,hip-hop,hip-hop,20110924,98,13,27,20120211
 18,20,Not Over You,Gavin Degraw,Gavin Degraw,country / folk,singer-songwriter,20110903,99,18,34,20120211
 19,24,Ass Back Home,Gym Class Heroes Featuring Neon Hitch,Gym Class Heroes,hip-hop,hip-hop,20111231,100,12,23,20120211
-20,16,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,pop,electronic,20110416,88,1,67,20120211
+20,16,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,electronic,electronic,20110416,88,1,67,20120211
 21,19,Someone Like You,Adele,Adele,rnb / soul,soul,20110730,97,1,38,20120211
 22,17,Without You,David Guetta Featuring Usher,David Guetta,electronic,house,20110917,39,4,30,20120211
 23,23,Love You Like A Love Song,Selena Gomez & The Scene,Selena Gomez & The Scene,pop,pop,20110709,72,22,38,20120211
@@ -4631,7 +4631,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 30,31,Make Me Proud,Drake Featuring Nicki Minaj,Drake,hip-hop,hip-hop,20111029,97,9,20,20120211
 31,50,Somebody That I Used To Know,Gotye Featuring Kimbra,Gotye,rock,indie,20120121,91,1,59,20120211
 32,35,Paradise,Coldplay,Coldplay,rock,rock,20111001,16,15,29,20120211
-33,32,Blackout,Breathe Carolina,Breathe Carolina,pop,electronic,20111119,92,32,20,20120211
+33,32,Blackout,Breathe Carolina,Breathe Carolina,electronic,electronic,20111119,92,32,20,20120211
 34,37,You,Chris Young,Chris Young,country / folk,country,20111105,85,34,20,20120211
 35,34,Mr. Know It All,Kelly Clarkson,Kelly Clarkson,pop,pop,20110924,18,10,23,20120211
 36,33,Headlines,Drake,Drake,hip-hop,hip-hop,20110827,13,13,25,20120211
@@ -4690,7 +4690,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 89,92,Round Of Applause,Waka Flocka Flame Featuring Drake,Waka Flocka Flame,hip-hop,hip-hop,20120121,97,89,6,20120211
 90,95,Where I Come From,Montgomery Gentry,Montgomery Gentry,country / folk,country,20120121,94,71,15,20120211
 91,90,Countdown,Beyonce,Beyonce,rnb / soul,rnb,20111231,91,80,7,20120211
-92,NEW,Sorry For Party Rocking,Lmfao,Lmfao,pop,electronic,20120211,92,49,11,20120211
+92,NEW,Sorry For Party Rocking,Lmfao,Lmfao,electronic,electronic,20120211,92,49,11,20120211
 93,65,Marry The Night,Lady Gaga,Lady Gaga,pop,pop,20111203,97,29,11,20120211
 94,99,Love's Gonna Make It Alright,George Strait,George Strait,country / folk,country,20120204,99,61,11,20120211
 95,87,Kyoto,Skrillex Featuring Sirah,Skrillex,electronic,dubstep,20120121,74,74,4,20120211
@@ -4705,7 +4705,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 4,10,Turn Me On,David Guetta Featuring Nicki Minaj,David Guetta,electronic,house,20111231,68,4,25,20120204
 5,6,The One That Got Away,Katy Perry,Katy Perry,pop,pop,20111029,94,3,24,20120204
 6,4,It Will Rain,Bruno Mars,Bruno Mars,pop,pop,20111015,28,3,29,20120204
-7,5,Sexy And I Know It,Lmfao,Lmfao,pop,electronic,20110917,76,1,42,20120204
+7,5,Sexy And I Know It,Lmfao,Lmfao,electronic,electronic,20110917,76,1,42,20120204
 8,21,Stronger (What Doesn't Kill You),Kelly Clarkson,Kelly Clarkson,pop,pop,20120121,58,1,35,20120204
 9,7,Ni**as In Paris,Jay-Z & Kanye West,Jay-Z & Kanye West,hip-hop,hip-hop,20110827,75,5,36,20120204
 10,15,Domino,Jessie J,Jessie J,pop,pop,20111029,96,6,29,20120204
@@ -4714,7 +4714,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 13,14,Moves Like Jagger,Maroon 5 Featuring Christina Aguilera,Maroon 5,rock,rock,20110709,8,1,49,20120204
 14,11,Dance (A$$),Big Sean,Big Sean,hip-hop,hip-hop,20111022,93,10,24,20120204
 15,13,Work Out,J. Cole,J. Cole,hip-hop,hip-hop,20110924,98,13,27,20120204
-16,12,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,pop,electronic,20110416,88,1,67,20120204
+16,12,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,electronic,electronic,20110416,88,1,67,20120204
 17,18,Without You,David Guetta Featuring Usher,David Guetta,electronic,house,20110917,39,4,30,20120204
 18,23,International Love,Pitbull Featuring Chris Brown,Pitbull,hip-hop,hip-hop,20111126,92,13,25,20120204
 19,16,Someone Like You,Adele,Adele,rnb / soul,soul,20110730,97,1,38,20120204
@@ -4730,7 +4730,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 29,30,I Like It Like That,Hot Chelle Rae Featuring New Boyz,Hot Chelle Rae,rock,rock,20111022,51,28,20,20120204
 30,39,Take Care,Drake Featuring Rihanna,Drake,hip-hop,hip-hop,20111203,9,7,34,20120204
 31,31,Make Me Proud,Drake Featuring Nicki Minaj,Drake,hip-hop,hip-hop,20111029,97,9,20,20120204
-32,42,Blackout,Breathe Carolina,Breathe Carolina,pop,electronic,20111119,92,32,20,20120204
+32,42,Blackout,Breathe Carolina,Breathe Carolina,electronic,electronic,20111119,92,32,20,20120204
 33,25,Headlines,Drake,Drake,hip-hop,hip-hop,20110827,13,13,25,20120204
 34,32,Mr. Know It All,Kelly Clarkson,Kelly Clarkson,pop,pop,20110924,18,10,23,20120204
 35,38,Paradise,Coldplay,Coldplay,rock,rock,20111001,16,15,29,20120204
@@ -4803,14 +4803,14 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 2,4,Set Fire To The Rain,Adele,Adele,rnb / soul,soul,20111126,89,1,33,20120128
 3,5,Good Feeling,Flo Rida,Flo Rida,hip-hop,hip-hop,20111022,77,3,36,20120128
 4,3,It Will Rain,Bruno Mars,Bruno Mars,pop,pop,20111015,28,3,29,20120128
-5,2,Sexy And I Know It,Lmfao,Lmfao,pop,electronic,20110917,76,1,42,20120128
+5,2,Sexy And I Know It,Lmfao,Lmfao,electronic,electronic,20110917,76,1,42,20120128
 6,6,The One That Got Away,Katy Perry,Katy Perry,pop,pop,20111029,94,3,24,20120128
 7,7,Ni**as In Paris,Jay-Z & Kanye West,Jay-Z & Kanye West,hip-hop,hip-hop,20110827,75,5,36,20120128
 8,23,Rack City,Tyga,Tyga,hip-hop,hip-hop,20111210,94,7,25,20120128
 9,11,"Young, Wild & Free",Snoop Dogg & Wiz Khalifa Featuring Bruno Mars,Snoop Dogg & Wiz Khalifa,hip-hop,hip-hop,20111029,10,7,32,20120128
 10,25,Turn Me On,David Guetta Featuring Nicki Minaj,David Guetta,electronic,house,20111231,68,4,25,20120128
 11,13,Dance (A$$),Big Sean,Big Sean,hip-hop,hip-hop,20111022,93,10,24,20120128
-12,9,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,pop,electronic,20110416,88,1,67,20120128
+12,9,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,electronic,electronic,20110416,88,1,67,20120128
 13,15,Work Out,J. Cole,J. Cole,hip-hop,hip-hop,20110924,98,13,27,20120128
 14,12,Moves Like Jagger,Maroon 5 Featuring Christina Aguilera,Maroon 5,rock,rock,20110709,8,1,49,20120128
 15,17,Domino,Jessie J,Jessie J,pop,pop,20111029,96,6,29,20120128
@@ -4840,7 +4840,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 39,46,Take Care,Drake Featuring Rihanna,Drake,hip-hop,hip-hop,20111203,9,7,34,20120128
 40,36,Rolling In The Deep,Adele,Adele,rnb / soul,soul,20110129,97,1,64,20120128
 41,42,Drink In My Hand,Eric Church,Eric Church,country / folk,country,20111008,96,40,20,20120128
-42,41,Blackout,Breathe Carolina,Breathe Carolina,pop,electronic,20111119,92,32,20,20120128
+42,41,Blackout,Breathe Carolina,Breathe Carolina,electronic,electronic,20111119,92,32,20,20120128
 43,34,Super Bass,Nicki Minaj,Nicki Minaj,hip-hop,hip-hop,20110514,98,3,39,20120128
 44,45,Lotus Flower Bomb,Wale Featuring Miguel,Wale,hip-hop,hip-hop,20111112,87,38,20,20120128
 45,53,You,Chris Young,Chris Young,country / folk,country,20111105,85,34,20,20120128
@@ -4900,14 +4900,14 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 99,NEW,Crawling Back To You,Daughtry,Daughtry,rock,rock,20120128,99,99,1,20120128
 100,NEW,Talk That Talk,Rihanna Featuring Jay-Z,Rihanna,pop,pop,20120128,100,32,18,20120128
 1,2,We Found Love,Rihanna Featuring Calvin Harris,Rihanna,pop,pop,20111008,16,1,41,20120121
-2,1,Sexy And I Know It,Lmfao,Lmfao,pop,electronic,20110917,76,1,42,20120121
+2,1,Sexy And I Know It,Lmfao,Lmfao,electronic,electronic,20110917,76,1,42,20120121
 3,4,It Will Rain,Bruno Mars,Bruno Mars,pop,pop,20111015,28,3,29,20120121
 4,8,Set Fire To The Rain,Adele,Adele,rnb / soul,soul,20111126,89,1,33,20120121
 5,5,Good Feeling,Flo Rida,Flo Rida,hip-hop,hip-hop,20111022,77,3,36,20120121
 6,3,The One That Got Away,Katy Perry,Katy Perry,pop,pop,20111029,94,3,24,20120121
 7,7,Ni**as In Paris,Jay-Z & Kanye West,Jay-Z & Kanye West,hip-hop,hip-hop,20110827,75,5,36,20120121
 8,NEW,I Won't Give Up,Jason Mraz,Jason Mraz,country / folk,singer-songwriter,20120121,8,8,44,20120121
-9,6,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,pop,electronic,20110416,88,1,67,20120121
+9,6,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,electronic,electronic,20110416,88,1,67,20120121
 10,9,Someone Like You,Adele,Adele,rnb / soul,soul,20110730,97,1,38,20120121
 11,14,"Young, Wild & Free",Snoop Dogg & Wiz Khalifa Featuring Bruno Mars,Snoop Dogg & Wiz Khalifa,hip-hop,hip-hop,20111029,10,7,32,20120121
 12,11,Moves Like Jagger,Maroon 5 Featuring Christina Aguilera,Maroon 5,rock,rock,20110709,8,1,49,20120121
@@ -4939,7 +4939,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 38,38,Paradise,Coldplay,Coldplay,rock,rock,20111001,16,15,29,20120121
 39,37,Marry The Night,Lady Gaga,Lady Gaga,pop,pop,20111203,97,29,11,20120121
 40,31,Safe & Sound,Taylor Swift Featuring The Civil Wars,Taylor Swift,country / folk,country,20120107,30,30,5,20120121
-41,46,Blackout,Breathe Carolina,Breathe Carolina,pop,electronic,20111119,92,32,20,20120121
+41,46,Blackout,Breathe Carolina,Breathe Carolina,electronic,electronic,20111119,92,32,20,20120121
 42,47,Drink In My Hand,Eric Church,Eric Church,country / folk,country,20111008,96,40,20,20120121
 43,43,Ours,Taylor Swift,Taylor Swift,country / folk,country,20111126,13,13,20,20120121
 44,41,Strange Clouds,B.O.B Featuring Lil Wayne,B.O.B,hip-hop,hip-hop,20111015,7,7,20,20120121
@@ -4982,7 +4982,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 81,96,A Woman Like You,Lee Brice,Lee Brice,country / folk,country,20120114,96,33,19,20120121
 82,86,Love On Top,Beyonce,Beyonce,rnb / soul,rnb,20111224,98,48,17,20120121
 83,78,Storm Warning,Hunter Hayes,Hunter Hayes,country / folk,country,20111210,98,78,11,20120121
-84,NEW,Set You Free,3Oh!3,3Oh!3,pop,electronic,20120121,84,84,1,20120121
+84,NEW,Set You Free,3Oh!3,3Oh!3,electronic,electronic,20120121,84,84,1,20120121
 85,84,Party On Fifth Ave.,Mac Miller,Mac Miller,hip-hop,hip-hop,20120107,90,84,4,20120121
 86,93,Amen,Edens Edge,Edens Edge,country / folk,country,20120114,93,83,4,20120121
 87,70,Scary Monsters And Nice Sprites,Skrillex,Skrillex,electronic,dubstep,20120107,69,69,4,20120121
@@ -4999,12 +4999,12 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 98,NEW,Gotta Have It,Jay Z & Kanye West,Jay Z & Kanye West,hip-hop,hip-hop,20120121,98,69,11,20120121
 99,NEW,That Way,Wale Featuring Jeremih & Rick Ross,Wale,hip-hop,hip-hop,20120121,99,99,1,20120121
 100,98,Play The Guitar,B.O.B Featuring Andre 3000,B.O.B,hip-hop,hip-hop,20120114,98,98,2,20120121
-1,1,Sexy And I Know It,Lmfao,Lmfao,pop,electronic,20110917,76,1,42,20120114
+1,1,Sexy And I Know It,Lmfao,Lmfao,electronic,electronic,20110917,76,1,42,20120114
 2,2,We Found Love,Rihanna Featuring Calvin Harris,Rihanna,pop,pop,20111008,16,1,41,20120114
 3,3,The One That Got Away,Katy Perry,Katy Perry,pop,pop,20111029,94,3,24,20120114
 4,4,It Will Rain,Bruno Mars,Bruno Mars,pop,pop,20111015,28,3,29,20120114
 5,6,Good Feeling,Flo Rida,Flo Rida,hip-hop,hip-hop,20111022,77,3,36,20120114
-6,9,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,pop,electronic,20110416,88,1,67,20120114
+6,9,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,electronic,electronic,20110416,88,1,67,20120114
 7,5,Ni**as In Paris,Jay-Z & Kanye West,Jay-Z & Kanye West,hip-hop,hip-hop,20110827,75,5,36,20120114
 8,7,Set Fire To The Rain,Adele,Adele,rnb / soul,soul,20111126,89,1,33,20120114
 9,8,Someone Like You,Adele,Adele,rnb / soul,soul,20110730,97,1,38,20120114
@@ -5044,7 +5044,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 43,45,Ours,Taylor Swift,Taylor Swift,country / folk,country,20111126,13,13,20,20120114
 44,36,She Will,Lil Wayne Featuring Drake,Lil Wayne,hip-hop,rap,20110903,3,3,21,20120114
 45,42,Fly,Nicki Minaj Featuring Rihanna,Nicki Minaj,hip-hop,hip-hop,20110917,64,19,19,20120114
-46,47,Blackout,Breathe Carolina,Breathe Carolina,pop,electronic,20111119,92,32,20,20120114
+46,47,Blackout,Breathe Carolina,Breathe Carolina,electronic,electronic,20111119,92,32,20,20120114
 47,51,Drink In My Hand,Eric Church,Eric Church,country / folk,country,20111008,96,40,20,20120114
 48,50,Easy,Rascal Flatts Featuring Natasha Bedingfield,Rascal Flatts,country / folk,country,20110813,87,43,23,20120114
 49,49,Take Care,Drake Featuring Rihanna,Drake,hip-hop,hip-hop,20111203,9,7,34,20120114
@@ -5089,7 +5089,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 88,95,Home,Dierks Bentley,Dierks Bentley,country / folk,country,20111126,70,44,20,20120114
 89,96,Shake It Out,Florence + The Machine,Florence + The Machine,rock,indie,20111112,86,73,16,20120114
 90,NEW,T.H.E (The Hardest Ever),Will.I.Am Featuring  Mick Jagger & Jennifer Lopez,Will.I.Am,hip-hop,hip-hop,20120114,90,61,6,20120114
-91,97,Sail,Awolnation,Awolnation,pop,electronic,20110903,89,82,20,20120114
+91,97,Sail,Awolnation,Awolnation,electronic,electronic,20110903,89,82,20,20120114
 92,NEW,Reality,Kenny Chesney,Kenny Chesney,country / folk,country,20120114,92,62,13,20120114
 93,NEW,Amen,Edens Edge,Edens Edge,country / folk,country,20120114,93,83,4,20120114
 94,94,Wobble Baby Wobble,V.I.C.,V.I.C.,hip-hop,hip-hop,20120107,94,94,2,20120114
@@ -5099,7 +5099,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 98,NEW,Play The Guitar,B.O.B Featuring Andre 3000,B.O.B,hip-hop,hip-hop,20120114,98,98,2,20120114
 99,NEW,Lights,Ellie Goulding,Ellie Goulding,pop,female vocalists,20120114,99,2,56,20120114
 100,93,Good Good Night,Roscoe Dash,Roscoe Dash,hip-hop,hip-hop,20111231,98,93,3,20120114
-1,2,Sexy And I Know It,Lmfao,Lmfao,pop,electronic,20110917,76,1,42,20120107
+1,2,Sexy And I Know It,Lmfao,Lmfao,electronic,electronic,20110917,76,1,42,20120107
 2,1,We Found Love,Rihanna Featuring Calvin Harris,Rihanna,pop,pop,20111008,16,1,41,20120107
 3,5,The One That Got Away,Katy Perry,Katy Perry,pop,pop,20111029,94,3,24,20120107
 4,3,It Will Rain,Bruno Mars,Bruno Mars,pop,pop,20111015,28,3,29,20120107
@@ -5107,7 +5107,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 6,4,Good Feeling,Flo Rida,Flo Rida,hip-hop,hip-hop,20111022,77,3,36,20120107
 7,13,Set Fire To The Rain,Adele,Adele,rnb / soul,soul,20111126,89,1,33,20120107
 8,7,Someone Like You,Adele,Adele,rnb / soul,soul,20110730,97,1,38,20120107
-9,15,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,pop,electronic,20110416,88,1,67,20120107
+9,15,Party Rock Anthem,Lmfao Featuring Lauren Bennett & Goonrock,Lmfao,electronic,electronic,20110416,88,1,67,20120107
 10,12,Dance (A$$),Big Sean,Big Sean,hip-hop,hip-hop,20111022,93,10,24,20120107
 11,11,Stereo Hearts,Gym Class Heroes Featuring Adam Levine,Gym Class Heroes,hip-hop,hip-hop,20110702,85,4,37,20120107
 12,9,Moves Like Jagger,Maroon 5 Featuring Christina Aguilera,Maroon 5,rock,rock,20110709,8,1,49,20120107
@@ -5145,7 +5145,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 44,56,Rack City,Tyga,Tyga,hip-hop,hip-hop,20111210,94,7,25,20120107
 45,47,Ours,Taylor Swift,Taylor Swift,country / folk,country,20111126,13,13,20,20120107
 46,48,God Gave Me You,Blake Shelton,Blake Shelton,country / folk,country,20110730,65,22,25,20120107
-47,49,Blackout,Breathe Carolina,Breathe Carolina,pop,electronic,20111119,92,32,20,20120107
+47,49,Blackout,Breathe Carolina,Breathe Carolina,electronic,electronic,20111119,92,32,20,20120107
 48,38,Lotus Flower Bomb,Wale Featuring Miguel,Wale,hip-hop,hip-hop,20111112,87,38,20,20120107
 49,58,Take Care,Drake Featuring Rihanna,Drake,hip-hop,hip-hop,20111203,9,7,34,20120107
 50,43,Easy,Rascal Flatts Featuring Natasha Bedingfield,Rascal Flatts,country / folk,country,20110813,87,43,23,20120107
@@ -5195,7 +5195,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 94,NEW,Wobble Baby Wobble,V.I.C.,V.I.C.,hip-hop,hip-hop,20120107,94,94,2,20120107
 95,74,Home,Dierks Bentley,Dierks Bentley,country / folk,country,20111126,70,44,20,20120107
 96,82,Shake It Out,Florence + The Machine,Florence + The Machine,rock,indie,20111112,86,73,16,20120107
-97,89,Sail,Awolnation,Awolnation,pop,electronic,20110903,89,82,20,20120107
+97,89,Sail,Awolnation,Awolnation,electronic,electronic,20110903,89,82,20,20120107
 98,88,Camouflage,Brad Paisley,Brad Paisley,country / folk,country,20111217,100,87,9,20120107
 99,73,That Way,Wale Featuring Jeremih & Rick Ross,Wale,hip-hop,hip-hop,20110924,91,49,16,20120107
 100,59,We Are Young,Glee Cast,Glee Cast,pop,musical,20111224,12,12,3,20120107

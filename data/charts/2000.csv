@@ -57,7 +57,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 56,62,Ashes By Now,Lee Ann Womack,Lee Ann Womack,country / folk,country,20001209,74,45,17,20001230
 57,52,The Itch,Vitamin C,Vitamin C,pop,pop,20001202,86,45,9,20001230
 58,60,Burn,Jo Dee Messina,Jo Dee Messina,country / folk,country,20001202,77,42,20,20001230
-59,78,South Side,Moby,Moby,pop,electronic,20001202,94,14,32,20001230
+59,78,South Side,Moby,Moby,electronic,electronic,20001202,94,14,32,20001230
 60,65,Project Chick,Cash Money Millionaires,Cash Money Millionaires,hip-hop,hip-hop,20001216,74,47,13,20001230
 61,61,Loser,3 Doors Down,3 Doors Down,rock,rock,20001021,76,55,20,20001230
 62,63,The Little Girl,John Michael Montgomery,John Michael Montgomery,country / folk,country,20000909,81,35,20,20001230
@@ -176,7 +176,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 75,69,Girls Dem Sugar,Beenie Man Featuring Mya,Beenie Man,electronic,dancehall,20001021,72,54,15,20001223
 76,NEW,This Everyday Love,Rascal Flatts,Rascal Flatts,country / folk,country,20001223,76,56,14,20001223
 77,70,Original Prankster,Offspring,Offspring,rock,punk rock,20001125,74,70,9,20001223
-78,82,South Side,Moby,Moby,pop,electronic,20001202,94,14,32,20001223
+78,82,South Side,Moby,Moby,electronic,electronic,20001202,94,14,32,20001223
 79,NEW,Wild Horses,Garth Brooks,Garth Brooks,country / folk,country,20001223,79,50,14,20001223
 80,80,Meanwhile Back At The Ranch,Clark Family Experience,Clark Family Experience,country / folk,country,20001118,87,80,12,20001223
 81,NEW,But For The Grace Of God,Keith Urban,Keith Urban,country / folk,country,20001223,81,37,20,20001223
@@ -280,7 +280,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 79,76,My Love Goes On And On,Chris Cagle,Chris Cagle,country / folk,country,20001021,99,76,11,20001216
 80,92,Meanwhile Back At The Ranch,Clark Family Experience,Clark Family Experience,country / folk,country,20001118,87,80,12,20001216
 81,68,If I Am,Nine Days,Nine Days,rock,rock,20001202,68,68,5,20001216
-82,93,South Side,Moby,Moby,pop,electronic,20001202,94,14,32,20001216
+82,93,South Side,Moby,Moby,electronic,electronic,20001202,94,14,32,20001216
 83,87,My Baby You,Marc Anthony,Marc Anthony,pop,salsa,20000916,82,70,20,20001216
 84,66,Give Me Just One Night (Una Noche),98 Degrees,98 Degrees,pop,pop,20000819,51,2,20,20001216
 85,84,It's My Life,Bon Jovi,Bon Jovi,rock,rock,20000812,64,33,20,20001216
@@ -391,7 +391,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 90,89,Just Be A Man About It,Toni Braxton,Toni Braxton,rnb / soul,rnb,20000729,76,32,20,20001209
 91,91,Do You,Funkmaster Flex Featuring Dmx,Funkmaster Flex,hip-hop,hip-hop,20001111,92,91,7,20001209
 92,81,Meanwhile Back At The Ranch,Clark Family Experience,Clark Family Experience,country / folk,country,20001118,87,80,12,20001209
-93,94,South Side,Moby,Moby,pop,electronic,20001202,94,14,32,20001209
+93,94,South Side,Moby,Moby,electronic,electronic,20001202,94,14,32,20001209
 94,78,Kiss This,Aaron Tippin,Aaron Tippin,country / folk,country,20000826,74,42,20,20001209
 95,87,What Means The World To You,Cam'Ron,Cam'Ron,hip-hop,hip-hop,20001014,94,83,10,20001209
 96,88,Bad Boyz,Shyne Featuring Barrington Levy,Shyne,hip-hop,rap,20000909,94,57,15,20001209
@@ -492,7 +492,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 91,95,Do You,Funkmaster Flex Featuring Dmx,Funkmaster Flex,hip-hop,hip-hop,20001111,92,91,7,20001202
 92,82,There You Are,Martina Mcbride,Martina Mcbride,country / folk,country,20000909,79,60,13,20001202
 93,93,The Light,Common,Common,hip-hop,hip-hop,20000805,75,44,19,20001202
-94,NEW,South Side,Moby,Moby,pop,electronic,20001202,94,14,32,20001202
+94,NEW,South Side,Moby,Moby,electronic,electronic,20001202,94,14,32,20001202
 95,94,Summer Rain,Carl Thomas,Carl Thomas,rnb / soul,rnb,20000923,82,80,11,20001202
 96,90,Sleepwalker,The Wallflowers,The Wallflowers,rock,rock,20001028,73,73,6,20001202
 97,89,Californication,Red Hot Chilli Peppers,Red Hot Chilli Peppers,rock,rock,20000729,72,69,19,20001202
@@ -1697,7 +1697,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 96,92,Baby U Are,Gerald Levert,Gerald Levert,rnb / soul,rnb,20000819,96,89,5,20000909
 97,NEW,Pull Over,Trina,Trina,hip-hop,rap,20000909,97,93,4,20000909
 98,88,The Real Slim Shady,Eminem,Eminem,hip-hop,rap,20000506,70,4,19,20000909
-99,99,Kernkraft 400,Zombie Nation,Zombie Nation,pop,electronic,20000902,99,99,2,20000909
+99,99,Kernkraft 400,Zombie Nation,Zombie Nation,electronic,electronic,20000902,99,99,2,20000909
 100,97,Ta Da,Lil' Mo,Lil' Mo,rnb / soul,rnb,20000812,100,95,7,20000909
 1,1,Doesn't Really Matter,Janet Jackson,Janet Jackson,pop,pop,20000617,59,1,24,20000902
 2,2,Incomplete,Sisqo,Sisqo,rnb / soul,rnb,20000624,77,1,26,20000902
@@ -1797,7 +1797,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 96,90,Oops! ... I Did It Again,Britney Spears,Britney Spears,pop,pop,20000422,67,9,20,20000902
 97,97,Ta Da,Lil' Mo,Lil' Mo,rnb / soul,rnb,20000812,100,95,7,20000902
 98,94,I Disappear,Metallica,Metallica,rock,thrash metal,20000513,86,76,20,20000902
-99,NEW,Kernkraft 400,Zombie Nation,Zombie Nation,pop,electronic,20000902,99,99,2,20000902
+99,NEW,Kernkraft 400,Zombie Nation,Zombie Nation,electronic,electronic,20000902,99,99,2,20000902
 100,93,The One,Backstreet Boys,Backstreet Boys,pop,pop,20000527,58,30,15,20000902
 1,5,Doesn't Really Matter,Janet Jackson,Janet Jackson,pop,pop,20000617,59,1,24,20000826
 2,1,Incomplete,Sisqo,Sisqo,rnb / soul,rnb,20000624,77,1,26,20000826
@@ -4993,7 +4993,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 92,64,Don't Say You Love Me,M2M,M2M,pop,pop,19991225,44,21,7,20000122
 93,83,Guerrilla Radio,Rage Against The Machine,Rage Against The Machine,rock,rock,19991030,69,69,20,20000122
 94,87,Largen Than Life,Backstreet Boys,Backstreet Boys,pop,pop,19990918,70,25,19,20000122
-95,76,Rockafella Skank,Fatboy Slim,Fatboy Slim,pop,electronic,19991106,94,76,12,20000122
+95,76,Rockafella Skank,Fatboy Slim,Fatboy Slim,electronic,electronic,19991106,94,76,12,20000122
 96,96,Re-Arranged,Limp Bizkit,Limp Bizkit,rock,nu metal,19991204,91,88,18,20000122
 97,80,We Can't Be Friends,Deborah Cox With R.L.,Deborah Cox With R.L.,rnb / soul,rnb,19990911,75,8,20,20000122
 98,93,Music Of My Heart,'N Sync & Gloria Estefan,N Sync,pop,pop,20000115,93,93,2,20000122
@@ -5074,7 +5074,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 73,89,(You Drive Me) Crazy,Britney Spears,Britney Spears,pop,pop,19990918,62,10,20,20000115
 74,69,One Night Stand,J-Shin & Latocha Scott,J-Shin,rnb / soul,rnb,19991225,96,34,16,20000115
 75,79,Chemicals Between Us,Bush,Bush,rock,grunge,19991002,84,67,20,20000115
-76,92,Rockafella Skank,Fatboy Slim,Fatboy Slim,pop,electronic,19991106,94,76,12,20000115
+76,92,Rockafella Skank,Fatboy Slim,Fatboy Slim,electronic,electronic,19991106,94,76,12,20000115
 77,77,G'd Up,Snoop Dogg & Eastsidaz,Snoop Dogg,hip-hop,hip-hop,20000108,77,47,14,20000115
 78,67,15 Minutes,Marc Nelson,Marc Nelson,rnb / soul,rnb,19991120,41,27,9,20000115
 79,49,This Gift,98 Degrees,98 Degrees,pop,pop,20000101,53,49,3,20000115
@@ -5190,7 +5190,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 89,76,(You Drive Me) Crazy,Britney Spears,Britney Spears,pop,pop,19990918,62,10,20,20000108
 90,80,Home To You,John Michael Montgomery,John Michael Montgomery,country / folk,country,19991127,48,45,12,20000108
 91,70,Still D.R.E.,Dr. Dre & Snoop Dogg,Dr. Dre & Snoop Dogg,hip-hop,hip-hop,19991127,93,70,7,20000108
-92,90,Rockafella Skank,Fatboy Slim,Fatboy Slim,pop,electronic,19991106,94,76,12,20000108
+92,90,Rockafella Skank,Fatboy Slim,Fatboy Slim,electronic,electronic,19991106,94,76,12,20000108
 93,86,She Thinks My Tractor's Sexy,Kenny Chesney,Kenny Chesney,country / folk,country,19991120,90,74,12,20000108
 94,NEW,Love Is Blind,Eve Featuring Faith Evans,Eve,hip-hop,hip-hop,20000108,94,34,16,20000108
 95,84,Live Laugh Love,Clay Walker,Clay Walker,country / folk,country,19991204,95,74,11,20000108
@@ -5288,7 +5288,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 87,70,Largen Than Life,Backstreet Boys,Backstreet Boys,pop,pop,19990918,70,25,19,20000101
 88,76,There She Goes,Sixpence None The Richer,Sixpence None The Richer,pop,pop,19990911,63,32,20,20000101
 89,92,Greatest Romance Ever Sold,T.A.F.K.A. Prince,T.A.F.K.A. Prince,pop,unknown,19991023,96,63,13,20000101
-90,82,Rockafella Skank,Fatboy Slim,Fatboy Slim,pop,electronic,19991106,94,76,12,20000101
+90,82,Rockafella Skank,Fatboy Slim,Fatboy Slim,electronic,electronic,19991106,94,76,12,20000101
 91,90,Give Me What You Want,Chico Debarge,Chico Debarge,rnb / soul,rnb,19991023,94,71,13,20000101
 92,85,Music Of My Heart,'N Sync & Gloria Estefan,N Sync,pop,pop,19990904,66,2,18,20000101
 93,NEW,A Country Boy Can Survive,Chad Brock / Hank William Jr / George Jones,Chad Brock / Hank William Jr / George Jones,pop,unknown,20000101,93,75,3,20000101

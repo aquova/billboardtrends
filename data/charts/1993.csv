@@ -1295,7 +1295,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 94,98,World (The Price Of Love),New Order,New Order,rock,new wave,19930911,92,92,4,19931002
 95,91,In The Heart Of A Woman,Billy Ray Cyrus,Billy Ray Cyrus,country / folk,country,19930731,92,76,10,19931002
 96,NEW,Loving Arms,Darden Smith,Darden Smith,country / folk,singer-songwriter,19931002,96,96,2,19931002
-97,86,Step It Up,Stereo Mc'S,Stereo Mc'S,pop,electronic,19930710,92,58,13,19931002
+97,86,Step It Up,Stereo Mc'S,Stereo Mc'S,electronic,electronic,19930710,92,58,13,19931002
 98,94,Stay Forever,Joey Lawrence,Joey Lawrence,pop,pop,19930717,84,52,12,19931002
 99,97,Heaven Knows,Luther Vandross,Luther Vandross,rnb / soul,soul,19930918,94,94,3,19931002
 100,83,The Ways Of The Wind,P.M. Dawn,P.M. Dawn,hip-hop,hip-hop,19930724,88,54,11,19931002
@@ -1384,7 +1384,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 83,80,The Ways Of The Wind,P.M. Dawn,P.M. Dawn,hip-hop,hip-hop,19930724,88,54,11,19930925
 84,NEW,Anniversary,Tony! Toni! Tone!,Tony! Toni! Tone!,rnb / soul,soul,19930925,84,10,20,19930925
 85,79,Streiht Up Menace,Mc Eiht,Mc Eiht,pop,gangsta rap,19930814,84,72,8,19930925
-86,78,Step It Up,Stereo Mc'S,Stereo Mc'S,pop,electronic,19930710,92,58,13,19930925
+86,78,Step It Up,Stereo Mc'S,Stereo Mc'S,electronic,electronic,19930710,92,58,13,19930925
 87,NEW,Let Me Ride,Dr. Dre,Dr. Dre,hip-hop,hip-hop,19930925,87,34,18,19930925
 88,98,Human Wheels,John Mellencamp,John Mellencamp,rock,rock,19930918,98,48,14,19930925
 89,86,For The Cool In You,Babyface,Babyface,rnb / soul,rnb,19930814,94,81,9,19930925
@@ -1476,7 +1476,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 75,82,I'm In Luv,Joe,Joe,rnb / soul,rnb,19930828,99,64,13,19930918
 76,73,Oh Carolina,Shaggy,Shaggy,reggae,reggae,19930814,99,59,17,19930918
 77,84,Delicate,Terence Trent D'Arby,Terence Trent D'Arby,rnb / soul,soul,19930828,96,74,8,19930918
-78,61,Step It Up,Stereo Mc'S,Stereo Mc'S,pop,electronic,19930710,92,58,13,19930918
+78,61,Step It Up,Stereo Mc'S,Stereo Mc'S,electronic,electronic,19930710,92,58,13,19930918
 79,78,Streiht Up Menace,Mc Eiht,Mc Eiht,pop,gangsta rap,19930814,84,72,8,19930918
 80,66,The Ways Of The Wind,P.M. Dawn,P.M. Dawn,hip-hop,hip-hop,19930724,88,54,11,19930918
 81,79,Lick U Up,H-Town,H-Town,rnb / soul,rnb,19930731,90,67,11,19930918
@@ -1559,7 +1559,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 58,84,Hopelessly,Rick Astley,Rick Astley,pop,pop,19930904,84,28,20,19930911
 59,51,Girl U For Me / Lose Control,Silk,Silk,rnb / soul,rnb,19930619,85,26,20,19930911
 60,63,Believe,Lenny Kravitz,Lenny Kravitz,rock,rock,19930703,98,60,17,19930911
-61,58,Step It Up,Stereo Mc'S,Stereo Mc'S,pop,electronic,19930710,92,58,13,19930911
+61,58,Step It Up,Stereo Mc'S,Stereo Mc'S,electronic,electronic,19930710,92,58,13,19930911
 62,53,Can't Get Enough Of Your Love,Taylor Dayne,Taylor Dayne,pop,80s,19930605,62,20,20,19930911
 63,56,"Get It Up (From ""Poetic Justice"")",Tlc,Tlc,rnb / soul,rnb,19930703,66,42,17,19930911
 64,59,Cry No More,Ii D Extreme,Ii D Extreme,pop,90s,19930515,85,48,20,19930911
@@ -1656,7 +1656,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 55,60,Chief Rocka,Lords Of The Underground,Lords Of The Underground,hip-hop,hip-hop,19930710,95,55,20,19930904
 56,52,"Get It Up (From ""Poetic Justice"")",Tlc,Tlc,rnb / soul,rnb,19930703,66,42,17,19930904
 57,62,Mega Medley,Zapp & Roger,Zapp & Roger,rnb / soul,funk,19930807,93,54,15,19930904
-58,58,Step It Up,Stereo Mc'S,Stereo Mc'S,pop,electronic,19930710,92,58,13,19930904
+58,58,Step It Up,Stereo Mc'S,Stereo Mc'S,electronic,electronic,19930710,92,58,13,19930904
 59,56,Cry No More,Ii D Extreme,Ii D Extreme,pop,90s,19930515,85,48,20,19930904
 60,54,More And More,Captain Hollywood Project,Captain Hollywood Project,electronic,eurodance,19930501,76,17,20,19930904
 61,95,Soul To Squeeze,Red Hot Chili Peppers,Red Hot Chili Peppers,rock,rock,19930828,95,22,20,19930904
@@ -1756,7 +1756,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 55,55,The Ways Of The Wind,P.M. Dawn,P.M. Dawn,hip-hop,hip-hop,19930724,88,54,11,19930828
 56,51,Cry No More,Ii D Extreme,Ii D Extreme,pop,90s,19930515,85,48,20,19930828
 57,62,Stay Forever,Joey Lawrence,Joey Lawrence,pop,pop,19930717,84,52,12,19930828
-58,60,Step It Up,Stereo Mc'S,Stereo Mc'S,pop,electronic,19930710,92,58,13,19930828
+58,60,Step It Up,Stereo Mc'S,Stereo Mc'S,electronic,electronic,19930710,92,58,13,19930828
 59,57,It's For You,Shanice,Shanice,rnb / soul,rnb,19930717,92,57,11,19930828
 60,58,Chief Rocka,Lords Of The Underground,Lords Of The Underground,hip-hop,hip-hop,19930710,95,55,20,19930828
 61,61,Believe,Lenny Kravitz,Lenny Kravitz,rock,rock,19930703,98,60,17,19930828
@@ -1858,7 +1858,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 57,61,It's For You,Shanice,Shanice,rnb / soul,rnb,19930717,92,57,11,19930821
 58,64,Chief Rocka,Lords Of The Underground,Lords Of The Underground,hip-hop,hip-hop,19930710,95,55,20,19930821
 59,55,"Bad Boys (Theme From ""Cops"")",Inner Circle,Inner Circle,reggae,reggae,19930501,73,8,20,19930821
-60,65,Step It Up,Stereo Mc'S,Stereo Mc'S,pop,electronic,19930710,92,58,13,19930821
+60,65,Step It Up,Stereo Mc'S,Stereo Mc'S,electronic,electronic,19930710,92,58,13,19930821
 61,69,Believe,Lenny Kravitz,Lenny Kravitz,rock,rock,19930703,98,60,17,19930821
 62,70,Stay Forever,Joey Lawrence,Joey Lawrence,pop,pop,19930717,84,52,12,19930821
 63,57,Hero,David Crosby & Phil Collins,David Crosby & Phil Collins,pop,pop,19930508,90,44,20,19930821
@@ -1963,7 +1963,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 62,63,Don't Take Away My Heaven,Aaron Neville,Aaron Neville,rnb / soul,soul,19930522,98,56,20,19930814
 63,59,Regret,New Order,New Order,rock,new wave,19930501,81,28,19,19930814
 64,68,Chief Rocka,Lords Of The Underground,Lords Of The Underground,hip-hop,hip-hop,19930710,95,55,20,19930814
-65,66,Step It Up,Stereo Mc'S,Stereo Mc'S,pop,electronic,19930710,92,58,13,19930814
+65,66,Step It Up,Stereo Mc'S,Stereo Mc'S,electronic,electronic,19930710,92,58,13,19930814
 66,84,Sweat (A La La La La Long),Inner Circle,Inner Circle,reggae,reggae,19930807,84,16,25,19930814
 67,77,Hey Jealousy,Gin Blossoms,Gin Blossoms,rock,alternative,19930724,94,25,22,19930814
 68,60,ABC-123,Levert,Levert,rnb / soul,soul,19930605,88,46,17,19930814
@@ -2064,7 +2064,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 63,65,Don't Take Away My Heaven,Aaron Neville,Aaron Neville,rnb / soul,soul,19930522,98,56,20,19930807
 64,66,Wide River,Steve Miller Band,Steve Miller Band,rock,classic rock,19930710,93,64,8,19930807
 65,62,Three Little Pigs,Green Jelly,Green Jelly,rock,metal,19930327,79,17,20,19930807
-66,73,Step It Up,Stereo Mc'S,Stereo Mc'S,pop,electronic,19930710,92,58,13,19930807
+66,73,Step It Up,Stereo Mc'S,Stereo Mc'S,electronic,electronic,19930710,92,58,13,19930807
 67,NEW,Boom! Shake The Room,Jazzy Jeff & The Fresh Prince,Jazzy Jeff & The Fresh Prince,hip-hop,hip-hop,19930807,67,13,20,19930807
 68,77,Chief Rocka,Lords Of The Underground,Lords Of The Underground,hip-hop,hip-hop,19930710,95,55,20,19930807
 69,76,It's For You,Shanice,Shanice,rnb / soul,rnb,19930717,92,57,11,19930807
@@ -2078,7 +2078,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 77,87,Hey Jealousy,Gin Blossoms,Gin Blossoms,rock,alternative,19930724,94,25,22,19930807
 78,63,Love No Limit,Mary J. Blige,Mary J. Blige,rnb / soul,rnb,19930515,83,44,16,19930807
 79,69,Killer / Papa Was A Rollin' Stone,George Michael,George Michael,pop,pop,19930703,95,69,7,19930807
-80,71,Connected,Stereo Mc'S,Stereo Mc'S,pop,electronic,19930327,93,20,20,19930807
+80,71,Connected,Stereo Mc'S,Stereo Mc'S,electronic,electronic,19930327,93,20,20,19930807
 81,67,Pets,Porno For Pyros,Porno For Pyros,rock,alternative,19930710,89,67,10,19930807
 82,82,Teddy Bear,G-Wiz,G-Wiz,pop,90s,19930703,92,73,11,19930807
 83,70,Livin' On The Edge,Aerosmith,Aerosmith,rock,rock,19930410,67,18,20,19930807
@@ -2169,9 +2169,9 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 68,49,In These Arms,Bon Jovi,Bon Jovi,rock,rock,19930508,72,27,16,19930731
 69,69,Killer / Papa Was A Rollin' Stone,George Michael,George Michael,pop,pop,19930703,95,69,7,19930731
 70,59,Livin' On The Edge,Aerosmith,Aerosmith,rock,rock,19930410,67,18,20,19930731
-71,58,Connected,Stereo Mc'S,Stereo Mc'S,pop,electronic,19930327,93,20,20,19930731
+71,58,Connected,Stereo Mc'S,Stereo Mc'S,electronic,electronic,19930327,93,20,20,19930731
 72,73,Big Gun,Ac/Dc,Ac/Dc,rock,hard rock,19930703,82,65,11,19930731
-73,74,Step It Up,Stereo Mc'S,Stereo Mc'S,pop,electronic,19930710,92,58,13,19930731
+73,74,Step It Up,Stereo Mc'S,Stereo Mc'S,electronic,electronic,19930710,92,58,13,19930731
 74,68,Even A Fool Can See,Peter Cetera,Peter Cetera,pop,80s,19930717,71,68,13,19930731
 75,88,The Ways Of The Wind,P.M. Dawn,P.M. Dawn,hip-hop,hip-hop,19930724,88,54,11,19930731
 76,76,It's For You,Shanice,Shanice,rnb / soul,rnb,19930717,92,57,11,19930731
@@ -2256,7 +2256,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 55,47,Three Little Pigs,Green Jelly,Green Jelly,rock,metal,19930327,79,17,20,19930724
 56,45,Wannagirl,Jeremy Jordan,Jeremy Jordan,pop,pop,19930501,91,28,14,19930724
 57,NEW,If,Janet Jackson,Janet Jackson,pop,pop,19930724,57,4,27,19930724
-58,52,Connected,Stereo Mc'S,Stereo Mc'S,pop,electronic,19930327,93,20,20,19930724
+58,52,Connected,Stereo Mc'S,Stereo Mc'S,electronic,electronic,19930327,93,20,20,19930724
 59,53,Livin' On The Edge,Aerosmith,Aerosmith,rock,rock,19930410,67,18,20,19930724
 60,58,Love No Limit,Mary J. Blige,Mary J. Blige,rnb / soul,rnb,19930515,83,44,16,19930724
 61,56,Don't Take Away My Heaven,Aaron Neville,Aaron Neville,rnb / soul,soul,19930522,98,56,20,19930724
@@ -2272,7 +2272,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 71,86,Very Special,"Big Daddy Kane Feat. Spinderella, L. Williams & K. Anderson",Big Daddy Kane Feat. Spinderella,hip-hop,hip-hop,19930710,86,31,20,19930724
 72,80,When I Fall In Love,Celine Dion & Clive Griffin,Celine Dion & Clive Griffin,pop,pop,19930717,80,23,20,19930724
 73,65,Big Gun,Ac/Dc,Ac/Dc,rock,hard rock,19930703,82,65,11,19930724
-74,77,Step It Up,Stereo Mc'S,Stereo Mc'S,pop,electronic,19930710,92,58,13,19930724
+74,77,Step It Up,Stereo Mc'S,Stereo Mc'S,electronic,electronic,19930710,92,58,13,19930724
 75,64,Touch My Light,Big Mountain,Big Mountain,reggae,reggae,19930410,84,51,20,19930724
 76,92,It's For You,Shanice,Shanice,rnb / soul,rnb,19930717,92,57,11,19930724
 77,61,Dur dur d'etre bebe! (It's Tough To Be A Baby),Jordy,Jordy,pop,french,19930619,82,58,9,19930724
@@ -2283,7 +2283,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 82,94,Teddy Bear,G-Wiz,G-Wiz,pop,90s,19930703,92,73,11,19930724
 83,73,Six Feet Deep,Geto Boys,Geto Boys,hip-hop,hip-hop,19930508,79,40,15,19930724
 84,69,The Floor,Johnny Gill,Johnny Gill,rnb / soul,rnb,19930522,82,56,10,19930724
-85,70,Walking In My Shoes,Depeche Mode,Depeche Mode,pop,electronic,19930605,84,69,8,19930724
+85,70,Walking In My Shoes,Depeche Mode,Depeche Mode,electronic,electronic,19930605,84,69,8,19930724
 86,NEW,Happy,Legacy Of Sound Featuring Meja,Legacy Of Sound,pop,sweden,19930724,86,68,12,19930724
 87,74,It's On,Naughty By Nature,Naughty By Nature,hip-hop,hip-hop,19930626,96,74,12,19930724
 88,NEW,The Ways Of The Wind,P.M. Dawn,P.M. Dawn,hip-hop,hip-hop,19930724,88,54,11,19930724
@@ -2350,7 +2350,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 49,43,A Bad Goodbye,Clint Black With Wynonna,Clint Black With Wynonna,pop,unknown,19930612,94,43,11,19930717
 50,48,Back Seat (Of My Jeep),Ll Cool J,Ll Cool J,hip-hop,hip-hop,19930619,96,42,13,19930717
 51,56,Cry No More,Ii D Extreme,Ii D Extreme,pop,90s,19930515,85,48,20,19930717
-52,42,Connected,Stereo Mc'S,Stereo Mc'S,pop,electronic,19930327,93,20,20,19930717
+52,42,Connected,Stereo Mc'S,Stereo Mc'S,electronic,electronic,19930327,93,20,20,19930717
 53,41,Livin' On The Edge,Aerosmith,Aerosmith,rock,rock,19930410,67,18,20,19930717
 54,63,Another Sad Love Song,Toni Braxton,Toni Braxton,rnb / soul,rnb,19930703,88,7,26,19930717
 55,NEW,Right Here (Human Nature),Swv,Swv,rnb / soul,rnb,19930717,55,2,22,19930717
@@ -2368,14 +2368,14 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 67,89,Pets,Porno For Pyros,Porno For Pyros,rock,alternative,19930710,89,67,10,19930717
 68,62,Sleeping Satellite,Tasmin Archer,Tasmin Archer,pop,pop,19930417,89,32,15,19930717
 69,64,The Floor,Johnny Gill,Johnny Gill,rnb / soul,rnb,19930522,82,56,10,19930717
-70,72,Walking In My Shoes,Depeche Mode,Depeche Mode,pop,electronic,19930605,84,69,8,19930717
+70,72,Walking In My Shoes,Depeche Mode,Depeche Mode,electronic,electronic,19930605,84,69,8,19930717
 71,NEW,Even A Fool Can See,Peter Cetera,Peter Cetera,pop,80s,19930717,71,68,13,19930717
 72,70,Who Is It,Michael Jackson,Michael Jackson,pop,pop,19930410,44,14,18,19930717
 73,65,Six Feet Deep,Geto Boys,Geto Boys,hip-hop,hip-hop,19930508,79,40,15,19930717
 74,78,It's On,Naughty By Nature,Naughty By Nature,hip-hop,hip-hop,19930626,96,74,12,19930717
 75,93,Wide River,Steve Miller Band,Steve Miller Band,rock,classic rock,19930710,93,64,8,19930717
 76,84,Chattahoochee,Alan Jackson,Alan Jackson,country / folk,country,19930710,84,46,20,19930717
-77,92,Step It Up,Stereo Mc'S,Stereo Mc'S,pop,electronic,19930710,92,58,13,19930717
+77,92,Step It Up,Stereo Mc'S,Stereo Mc'S,electronic,electronic,19930710,92,58,13,19930717
 78,NEW,Break It Down Again,Tears For Fears,Tears For Fears,rock,new wave,19930717,78,25,20,19930717
 79,96,Believe,Lenny Kravitz,Lenny Kravitz,rock,rock,19930703,98,60,17,19930717
 80,NEW,When I Fall In Love,Celine Dion & Clive Griffin,Celine Dion & Clive Griffin,pop,pop,19930717,80,23,20,19930717
@@ -2440,7 +2440,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 39,45,One Woman,Jade,Jade,electronic,drum and bass,19930605,89,22,20,19930710
 40,44,Something's Goin' On,U.N.V.,U.N.V.,rnb / soul,rnb,19930605,94,29,20,19930710
 41,30,Livin' On The Edge,Aerosmith,Aerosmith,rock,rock,19930410,67,18,20,19930710
-42,33,Connected,Stereo Mc'S,Stereo Mc'S,pop,electronic,19930327,93,20,20,19930710
+42,33,Connected,Stereo Mc'S,Stereo Mc'S,electronic,electronic,19930327,93,20,20,19930710
 43,43,A Bad Goodbye,Clint Black With Wynonna,Clint Black With Wynonna,pop,unknown,19930612,94,43,11,19930710
 44,35,It Was A Good Day,Ice Cube,Ice Cube,hip-hop,rap,19930306,89,15,20,19930710
 45,34,"Love Is (From ""Beverly Hills, 90210"")",Vanessa Williams / Brian Mcknight,Vanessa Williams / Brian Mcknight,pop,unknown,19930123,92,3,28,19930710
@@ -2470,7 +2470,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 69,64,Nothin' My Love Can't Fix,Joey Lawrence,Joey Lawrence,pop,pop,19930306,68,19,20,19930710
 70,61,Who Is It,Michael Jackson,Michael Jackson,pop,pop,19930410,44,14,18,19930710
 71,82,Big Gun,Ac/Dc,Ac/Dc,rock,hard rock,19930703,82,65,11,19930710
-72,69,Walking In My Shoes,Depeche Mode,Depeche Mode,pop,electronic,19930605,84,69,8,19930710
+72,69,Walking In My Shoes,Depeche Mode,Depeche Mode,electronic,electronic,19930605,84,69,8,19930710
 73,NEW,Ooh Child,Dino,Dino,pop,pop,19930710,73,27,20,19930710
 74,73,I Love The Way You Love Me,John Michael Montgomery,John Michael Montgomery,country / folk,country,19930508,94,60,13,19930710
 75,70,If I Could,Regina Belle,Regina Belle,rnb / soul,soul,19930403,98,52,17,19930710
@@ -2490,7 +2490,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 89,NEW,Pets,Porno For Pyros,Porno For Pyros,rock,alternative,19930710,89,67,10,19930710
 90,77,Every Little Thing U Do,Christopher Williams,Christopher Williams,rnb / soul,rnb,19930424,92,75,12,19930710
 91,86,I Should Be Laughing,Patty Smyth,Patty Smyth,rock,rock,19930619,98,86,4,19930710
-92,NEW,Step It Up,Stereo Mc'S,Stereo Mc'S,pop,electronic,19930710,92,58,13,19930710
+92,NEW,Step It Up,Stereo Mc'S,Stereo Mc'S,electronic,electronic,19930710,92,58,13,19930710
 93,NEW,Wide River,Steve Miller Band,Steve Miller Band,rock,classic rock,19930710,93,64,8,19930710
 94,93,U Don't Hear Me Tho',Rodney O & Joe Cooley,Rodney O & Joe Cooley,hip-hop,hip-hop,19930703,93,93,5,19930710
 95,NEW,Chief Rocka,Lords Of The Underground,Lords Of The Underground,hip-hop,hip-hop,19930710,95,55,20,19930710
@@ -2531,7 +2531,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 30,28,Livin' On The Edge,Aerosmith,Aerosmith,rock,rock,19930410,67,18,20,19930703
 31,33,Wannagirl,Jeremy Jordan,Jeremy Jordan,pop,pop,19930501,91,28,14,19930703
 32,24,Ditty,Paperboy,Paperboy,hip-hop,rap,19921219,77,10,30,19930703
-33,27,Connected,Stereo Mc'S,Stereo Mc'S,pop,electronic,19930327,93,20,20,19930703
+33,27,Connected,Stereo Mc'S,Stereo Mc'S,electronic,electronic,19930327,93,20,20,19930703
 34,18,"Love Is (From ""Beverly Hills, 90210"")",Vanessa Williams / Brian Mcknight,Vanessa Williams / Brian Mcknight,pop,unknown,19930123,92,3,28,19930703
 35,35,It Was A Good Day,Ice Cube,Ice Cube,hip-hop,rap,19930306,89,15,20,19930703
 36,36,By The Time This Time Is Over,Kenny G With Peabo Bryson,Kenny G With Peabo Bryson,jazz,jazz,19930522,92,25,20,19930703
@@ -2567,7 +2567,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 66,NEW,Get It Up,Tlc,Tlc,rnb / soul,rnb,19930703,66,42,17,19930703
 67,59,Somebody To Love,George Michael,George Michael,pop,pop,19930515,49,30,9,19930703
 68,68,Deeper,Boss,Boss,hip-hop,rap,19930424,95,65,13,19930703
-69,76,Walking In My Shoes,Depeche Mode,Depeche Mode,pop,electronic,19930605,84,69,8,19930703
+69,76,Walking In My Shoes,Depeche Mode,Depeche Mode,electronic,electronic,19930605,84,69,8,19930703
 70,66,If I Could,Regina Belle,Regina Belle,rnb / soul,soul,19930403,98,52,17,19930703
 71,73,Little Miracles (Happen Every Day),Luther Vandross,Luther Vandross,rnb / soul,soul,19930522,83,62,10,19930703
 72,67,Down With The King,Run D.M.C.,Run D.M.C.,hip-hop,hip-hop,19930320,67,21,17,19930703
@@ -2625,7 +2625,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 24,20,Ditty,Paperboy,Paperboy,hip-hop,rap,19921219,77,10,30,19930626
 25,21,Three Little Pigs,Green Jelly,Green Jelly,rock,metal,19930327,79,17,20,19930626
 26,27,Can't Get Enough Of Your Love,Taylor Dayne,Taylor Dayne,pop,80s,19930605,62,20,20,19930626
-27,24,Connected,Stereo Mc'S,Stereo Mc'S,pop,electronic,19930327,93,20,20,19930626
+27,24,Connected,Stereo Mc'S,Stereo Mc'S,electronic,electronic,19930327,93,20,20,19930626
 28,23,Livin' On The Edge,Aerosmith,Aerosmith,rock,rock,19930410,67,18,20,19930626
 29,29,In These Arms,Bon Jovi,Bon Jovi,rock,rock,19930508,72,27,16,19930626
 30,45,Slam,Onyx,Onyx,hip-hop,hip-hop,19930529,79,4,20,19930626
@@ -2674,7 +2674,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 73,62,Little Miracles (Happen Every Day),Luther Vandross,Luther Vandross,rnb / soul,soul,19930522,83,62,10,19930626
 74,60,Love Don't Love You,En Vogue,En Vogue,rnb / soul,rnb,19930327,67,36,16,19930626
 75,82,Dur dur d'etre bebe! (It's Tough To Be A Baby),Jordy,Jordy,pop,french,19930619,82,58,9,19930626
-76,84,Walking In My Shoes,Depeche Mode,Depeche Mode,pop,electronic,19930605,84,69,8,19930626
+76,84,Walking In My Shoes,Depeche Mode,Depeche Mode,electronic,electronic,19930605,84,69,8,19930626
 77,70,So Alone,Men At Large,Men At Large,rnb / soul,rnb,19930220,86,31,20,19930626
 78,79,Don't Take Away My Heaven,Aaron Neville,Aaron Neville,rnb / soul,soul,19930522,98,56,20,19930626
 79,77,If I Ever Lose My Faith In You,Sting,Sting,rock,rock,19930220,77,17,20,19930626
@@ -2686,7 +2686,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 85,95,Humps For The Blvd.,Rodney O & Joe Cooley,Rodney O & Joe Cooley,hip-hop,hip-hop,19930619,95,84,7,19930626
 86,86,Alibis,Tracy Lawrence,Tracy Lawrence,country / folk,country,19930417,84,72,12,19930626
 87,76,Every Little Thing U Do,Christopher Williams,Christopher Williams,rnb / soul,rnb,19930424,92,75,12,19930626
-88,74,Voice Of Freedom,Freedom Williams,Freedom Williams,pop,electronic,19930605,90,74,4,19930626
+88,74,Voice Of Freedom,Freedom Williams,Freedom Williams,electronic,electronic,19930605,90,74,4,19930626
 89,83,Love U More,Sunscreem,Sunscreem,electronic,dance,19930227,85,36,19,19930626
 90,NEW,I'm Free,Jon Secada,Jon Secada,pop,pop,19930626,90,27,20,19930626
 91,NEW,Do Da What,1 Of The Girls,1 Of The Girls,pop,pop,19930626,91,74,4,19930626
@@ -2722,7 +2722,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 21,17,Three Little Pigs,Green Jelly,Green Jelly,rock,metal,19930327,79,17,20,19930619
 22,24,"Girl, I've Been Hurt",Snow,Snow,reggae,reggae,19930515,82,19,17,19930619
 23,18,Livin' On The Edge,Aerosmith,Aerosmith,rock,rock,19930410,67,18,20,19930619
-24,20,Connected,Stereo Mc'S,Stereo Mc'S,pop,electronic,19930327,93,20,20,19930619
+24,20,Connected,Stereo Mc'S,Stereo Mc'S,electronic,electronic,19930327,93,20,20,19930619
 25,34,What's Up,4 Non Blondes,4 Non Blondes,rock,rock,19930424,96,14,26,19930619
 26,23,Two Princes,Spin Doctors,Spin Doctors,rock,rock,19930130,85,7,29,19930619
 27,43,Can't Get Enough Of Your Love,Taylor Dayne,Taylor Dayne,pop,80s,19930605,62,20,20,19930619
@@ -2772,7 +2772,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 71,87,Runaway Train,Soul Asylum,Soul Asylum,rock,rock,19930612,87,5,26,19930619
 72,60,I Love The Way You Love Me,John Michael Montgomery,John Michael Montgomery,country / folk,country,19930508,94,60,13,19930619
 73,90,I'm Gonna Be (500 Miles),Proclaimers,Proclaimers,pop,scottish,19930612,90,3,20,19930619
-74,74,Voice Of Freedom,Freedom Williams,Freedom Williams,pop,electronic,19930605,90,74,4,19930619
+74,74,Voice Of Freedom,Freedom Williams,Freedom Williams,electronic,electronic,19930605,90,74,4,19930619
 75,58,"The Crying Game (From ""The Crying Game"")",Boy George,Boy George,pop,80s,19930313,70,15,17,19930619
 76,75,Every Little Thing U Do,Christopher Williams,Christopher Williams,rnb / soul,rnb,19930424,92,75,12,19930619
 77,61,If I Ever Lose My Faith In You,Sting,Sting,rock,rock,19930220,77,17,20,19930619
@@ -2782,7 +2782,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 81,81,Let's Go Through The Motions,Jodeci,Jodeci,rnb / soul,rnb,19930424,66,65,12,19930619
 82,NEW,Dur dur d'etre bebe! (It's Tough To Be A Baby),Jordy,Jordy,pop,french,19930619,82,58,9,19930619
 83,79,Love U More,Sunscreem,Sunscreem,electronic,dance,19930227,85,36,19,19930619
-84,84,Walking In My Shoes,Depeche Mode,Depeche Mode,pop,electronic,19930605,84,69,8,19930619
+84,84,Walking In My Shoes,Depeche Mode,Depeche Mode,electronic,electronic,19930605,84,69,8,19930619
 85,NEW,Girl U For Me,Silk,Silk,rnb / soul,rnb,19930619,85,26,20,19930619
 86,72,Alibis,Tracy Lawrence,Tracy Lawrence,country / folk,country,19930417,84,72,12,19930619
 87,88,Supermodel (You Better Work),Rupaul,Rupaul,electronic,dance,19930213,91,45,20,19930619
@@ -2818,7 +2818,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 17,20,Three Little Pigs,Green Jelly,Green Jelly,rock,metal,19930327,79,17,20,19930612
 18,18,Livin' On The Edge,Aerosmith,Aerosmith,rock,rock,19930410,67,18,20,19930612
 19,25,More And More,Captain Hollywood Project,Captain Hollywood Project,electronic,eurodance,19930501,76,17,20,19930612
-20,22,Connected,Stereo Mc'S,Stereo Mc'S,pop,electronic,19930327,93,20,20,19930612
+20,22,Connected,Stereo Mc'S,Stereo Mc'S,electronic,electronic,19930327,93,20,20,19930612
 21,26,Dazzey Ducks,Duice,Duice,hip-hop,hip hop,19930109,86,12,40,19930612
 22,43,Whoomp! (There It Is),Tag Team,Tag Team,hip-hop,hip-hop,19930529,65,2,45,19930612
 23,19,Two Princes,Spin Doctors,Spin Doctors,rock,rock,19930130,85,7,29,19930612
@@ -2872,7 +2872,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 71,88,ABC-123,Levert,Levert,rnb / soul,soul,19930605,88,46,17,19930612
 72,74,Alibis,Tracy Lawrence,Tracy Lawrence,country / folk,country,19930417,84,72,12,19930612
 73,67,Tap The Bottle,Young Black Teenagers,Young Black Teenagers,hip-hop,hip-hop,19930306,82,55,20,19930612
-74,90,Voice Of Freedom,Freedom Williams,Freedom Williams,pop,electronic,19930605,90,74,4,19930612
+74,90,Voice Of Freedom,Freedom Williams,Freedom Williams,electronic,electronic,19930605,90,74,4,19930612
 75,80,Every Little Thing U Do,Christopher Williams,Christopher Williams,rnb / soul,rnb,19930424,92,75,12,19930612
 76,58,Tell Me What You Dream,Restless Heart Featuring Warren Hill,Restless Heart,country / folk,country,19930327,82,43,13,19930612
 77,NEW,If I Had No Loot,Tony! Toni! Tone!,Tony! Toni! Tone!,rnb / soul,soul,19930612,77,7,21,19930612
@@ -2882,7 +2882,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 81,73,Let's Go Through The Motions,Jodeci,Jodeci,rnb / soul,rnb,19930424,66,65,12,19930612
 82,71,Silence Is Broken,Damn Yankees,Damn Yankees,rock,hard rock,19930417,87,62,10,19930612
 83,83,Don't Take Away My Heaven,Aaron Neville,Aaron Neville,rnb / soul,soul,19930522,98,56,20,19930612
-84,84,Walking In My Shoes,Depeche Mode,Depeche Mode,pop,electronic,19930605,84,69,8,19930612
+84,84,Walking In My Shoes,Depeche Mode,Depeche Mode,electronic,electronic,19930605,84,69,8,19930612
 85,68,No Ordinary Love,Sade,Sade,rnb / soul,soul,19930508,83,68,7,19930612
 86,72,That's The Way Love Is,Bobby Brown,Bobby Brown,rnb / soul,rnb,19930424,84,57,9,19930612
 87,NEW,Runaway Train,Soul Asylum,Soul Asylum,rock,rock,19930612,87,5,26,19930612
@@ -2920,7 +2920,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 19,17,Two Princes,Spin Doctors,Spin Doctors,rock,rock,19930130,85,7,29,19930605
 20,22,Three Little Pigs,Green Jelly,Green Jelly,rock,metal,19930327,79,17,20,19930605
 21,18,Who Is It,Michael Jackson,Michael Jackson,pop,pop,19930410,44,14,18,19930605
-22,23,Connected,Stereo Mc'S,Stereo Mc'S,pop,electronic,19930327,93,20,20,19930605
+22,23,Connected,Stereo Mc'S,Stereo Mc'S,electronic,electronic,19930327,93,20,20,19930605
 23,16,Informer,Snow,Snow,reggae,reggae,19930109,79,1,25,19930605
 24,20,Nothin' My Love Can't Fix,Joey Lawrence,Joey Lawrence,pop,pop,19930306,68,19,20,19930605
 25,29,More And More,Captain Hollywood Project,Captain Hollywood Project,electronic,eurodance,19930501,76,17,20,19930605
@@ -2982,13 +2982,13 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 81,69,Buddy X,Neneh Cherry,Neneh Cherry,pop,female vocalists,19930327,90,43,12,19930605
 82,63,The Morning Papers,Prince And The New Power Generation,Prince And The New Power Generation,rnb / soul,funk,19930403,77,44,11,19930605
 83,91,Don't Take Away My Heaven,Aaron Neville,Aaron Neville,rnb / soul,soul,19930522,98,56,20,19930605
-84,NEW,Walking In My Shoes,Depeche Mode,Depeche Mode,pop,electronic,19930605,84,69,8,19930605
+84,NEW,Walking In My Shoes,Depeche Mode,Depeche Mode,electronic,electronic,19930605,84,69,8,19930605
 85,NEW,Fields Of Gold,Sting,Sting,rock,rock,19930605,85,23,20,19930605
 86,88,Good Times With Bad Boys,Boy Krazy,Boy Krazy,pop,90s,19930529,88,59,9,19930605
 87,78,Supermodel (You Better Work),Rupaul,Rupaul,electronic,dance,19930213,91,45,20,19930605
 88,NEW,ABC-123,Levert,Levert,rnb / soul,soul,19930605,88,46,17,19930605
 89,NEW,One Woman,Jade,Jade,electronic,drum and bass,19930605,89,22,20,19930605
-90,NEW,Voice Of Freedom,Freedom Williams,Freedom Williams,pop,electronic,19930605,90,74,4,19930605
+90,NEW,Voice Of Freedom,Freedom Williams,Freedom Williams,electronic,electronic,19930605,90,74,4,19930605
 91,87,Give Him A Love He Can Feel,Tene Williams,Tene Williams,pop,female vocalists,19930508,96,87,7,19930605
 92,89,It's My Life,Dr. Alban,Dr. Alban,electronic,dance,19930424,93,88,11,19930605
 93,84,"Tarzan Boy (From ""Teenage Mutant Ninja Turtles III"")",Baltimora,Baltimora,pop,80s,19930327,68,51,12,19930605
@@ -3021,7 +3021,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 20,23,Nothin' My Love Can't Fix,Joey Lawrence,Joey Lawrence,pop,pop,19930306,68,19,20,19930529
 21,29,I'll Never Get Over You (Getting Over Me),Expose,Expose,pop,80s,19930327,92,8,29,19930529
 22,18,Three Little Pigs,Green Jelly,Green Jelly,rock,metal,19930327,79,17,20,19930529
-23,25,Connected,Stereo Mc'S,Stereo Mc'S,pop,electronic,19930327,93,20,20,19930529
+23,25,Connected,Stereo Mc'S,Stereo Mc'S,electronic,electronic,19930327,93,20,20,19930529
 24,24,Angel,Jon Secada,Jon Secada,pop,pop,19930130,83,18,22,19930529
 25,20,Comforter,Shai,Shai,rnb / soul,rnb,19930123,57,10,24,19930529
 26,26,Hip Hop Hooray,Naughty By Nature,Naughty By Nature,hip-hop,hip-hop,19930130,84,8,22,19930529
@@ -3123,7 +3123,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 22,22,Livin' On The Edge,Aerosmith,Aerosmith,rock,rock,19930410,67,18,20,19930522
 23,19,Nothin' My Love Can't Fix,Joey Lawrence,Joey Lawrence,pop,pop,19930306,68,19,20,19930522
 24,20,Angel,Jon Secada,Jon Secada,pop,pop,19930130,83,18,22,19930522
-25,25,Connected,Stereo Mc'S,Stereo Mc'S,pop,electronic,19930327,93,20,20,19930522
+25,25,Connected,Stereo Mc'S,Stereo Mc'S,electronic,electronic,19930327,93,20,20,19930522
 26,17,Hip Hop Hooray,Naughty By Nature,Naughty By Nature,hip-hop,hip-hop,19930130,84,8,22,19930522
 27,15,"The Crying Game (From ""The Crying Game"")",Boy George,Boy George,pop,80s,19930313,70,15,17,19930522
 28,21,Cat's In The Craddle,Ugly Kid Joe,Ugly Kid Joe,rock,hard rock,19930213,79,6,20,19930522
@@ -3194,7 +3194,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 93,90,Give Him A Love He Can Feel,Tene Williams,Tene Williams,pop,female vocalists,19930508,96,87,7,19930522
 94,84,Good Ol' Days,Levert,Levert,rnb / soul,soul,19930320,94,78,11,19930522
 95,99,Feed The Tree,Belly,Belly,rock,alternative,19930515,99,95,4,19930522
-96,72,I Feel You,Depeche Mode,Depeche Mode,pop,electronic,19930306,70,37,12,19930522
+96,72,I Feel You,Depeche Mode,Depeche Mode,electronic,electronic,19930306,70,37,12,19930522
 97,91,Lost In Your Eyes,Jeff Healey Band,Jeff Healey Band,rock,blues rock,19930508,93,91,3,19930522
 98,NEW,Don't Take Away My Heaven,Aaron Neville,Aaron Neville,rnb / soul,soul,19930522,98,56,20,19930522
 99,93,What You Won't Do For Love,Go West,Go West,pop,80s,19930313,92,55,11,19930522
@@ -3223,7 +3223,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 22,24,Livin' On The Edge,Aerosmith,Aerosmith,rock,rock,19930410,67,18,20,19930515
 23,31,Show Me Love,Robin S,Robin S,electronic,house,19930403,95,5,28,19930515
 24,32,Come Undone,Duran Duran,Duran Duran,rock,new wave,19930417,86,7,25,19930515
-25,25,Connected,Stereo Mc'S,Stereo Mc'S,pop,electronic,19930327,93,20,20,19930515
+25,25,Connected,Stereo Mc'S,Stereo Mc'S,electronic,electronic,19930327,93,20,20,19930515
 26,27,Three Little Pigs,Green Jelly,Green Jelly,rock,metal,19930327,79,17,20,19930515
 27,20,If I Ever Lose My Faith In You,Sting,Sting,rock,rock,19930220,77,17,20,19930515
 28,23,Down With The King,Run D.M.C.,Run D.M.C.,hip-hop,hip-hop,19930320,67,21,17,19930515
@@ -3270,7 +3270,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 69,81,Passin' Me By,The Pharcyde,The Pharcyde,hip-hop,hip-hop,19930501,93,52,17,19930515
 70,62,"Tarzan Boy (From ""Teenage Mutant Ninja Turtles III"")",Baltimora,Baltimora,pop,80s,19930327,68,51,12,19930515
 71,70,I See Your Smile,Gloria Estefan,Gloria Estefan,pop,latin,19930220,76,48,17,19930515
-72,59,I Feel You,Depeche Mode,Depeche Mode,pop,electronic,19930306,70,37,12,19930515
+72,59,I Feel You,Depeche Mode,Depeche Mode,electronic,electronic,19930306,70,37,12,19930515
 73,85,Deeper,Boss,Boss,hip-hop,rap,19930424,95,65,13,19930515
 74,67,How I'm Comin',Ll Cool J,Ll Cool J,hip-hop,hip-hop,19930403,57,57,9,19930515
 75,90,Hero,David Crosby & Phil Collins,David Crosby & Phil Collins,pop,pop,19930508,90,44,20,19930515
@@ -3323,7 +3323,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 22,46,Weak,Swv,Swv,rnb / soul,rnb,19930424,58,1,26,19930508
 23,21,Down With The King,Run D.M.C.,Run D.M.C.,hip-hop,hip-hop,19930320,67,21,17,19930508
 24,29,Livin' On The Edge,Aerosmith,Aerosmith,rock,rock,19930410,67,18,20,19930508
-25,31,Connected,Stereo Mc'S,Stereo Mc'S,pop,electronic,19930327,93,20,20,19930508
+25,31,Connected,Stereo Mc'S,Stereo Mc'S,electronic,electronic,19930327,93,20,20,19930508
 26,23,"I'm Every Woman (From ""The Bodyguard"")",Whitney Houston,Whitney Houston,pop,pop,19930109,66,4,23,19930508
 27,35,Three Little Pigs,Green Jelly,Green Jelly,rock,metal,19930327,79,17,20,19930508
 28,27,That's What Love Can Do,Boy Krazy,Boy Krazy,pop,90s,19930123,79,18,20,19930508
@@ -3357,7 +3357,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 56,67,Sleeping Satellite,Tasmin Archer,Tasmin Archer,pop,pop,19930417,89,32,15,19930508
 57,63,Touch My Light,Big Mountain,Big Mountain,reggae,reggae,19930410,84,51,20,19930508
 58,76,More And More,Captain Hollywood Project,Captain Hollywood Project,electronic,eurodance,19930501,76,17,20,19930508
-59,56,I Feel You,Depeche Mode,Depeche Mode,pop,electronic,19930306,70,37,12,19930508
+59,56,I Feel You,Depeche Mode,Depeche Mode,electronic,electronic,19930306,70,37,12,19930508
 60,58,Tap The Bottle,Young Black Teenagers,Young Black Teenagers,hip-hop,hip-hop,19930306,82,55,20,19930508
 61,52,Rebirth Of Slick (Cool Like Dat),Digable Planets,Digable Planets,hip-hop,hip-hop,19930116,85,15,20,19930508
 62,55,"Tarzan Boy (From ""Teenage Mutant Ninja Turtles III"")",Baltimora,Baltimora,pop,80s,19930327,68,51,12,19930508
@@ -3429,7 +3429,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 28,43,Knockin' Da Boots,H-Town,H-Town,rnb / soul,rnb,19930410,91,3,25,19930501
 29,34,Livin' On The Edge,Aerosmith,Aerosmith,rock,rock,19930410,67,18,20,19930501
 30,27,"The Right Kind Of Love (From ""Beverly Hills, 90210"")",Jeremy Jordan,Jeremy Jordan,pop,pop,19921212,88,14,25,19930501
-31,35,Connected,Stereo Mc'S,Stereo Mc'S,pop,electronic,19930327,93,20,20,19930501
+31,35,Connected,Stereo Mc'S,Stereo Mc'S,electronic,electronic,19930327,93,20,20,19930501
 32,23,A Whole New World (Aladdin's Theme),Peabo Bryson,Peabo Bryson,rnb / soul,soul,19921219,54,1,23,19930501
 33,29,Forever In Love,Kenny G,Kenny G,jazz,jazz,19921219,95,18,23,19930501
 34,32,Simple Life,Elton John,Elton John,pop,pop,19930227,90,30,16,19930501
@@ -3454,7 +3454,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 53,52,Supermodel (You Better Work),Rupaul,Rupaul,electronic,dance,19930213,91,45,20,19930501
 54,61,I'll Never Get Over You (Getting Over Me),Expose,Expose,pop,80s,19930327,92,8,29,19930501
 55,51,"Tarzan Boy (From ""Teenage Mutant Ninja Turtles III"")",Baltimora,Baltimora,pop,80s,19930327,68,51,12,19930501
-56,56,I Feel You,Depeche Mode,Depeche Mode,pop,electronic,19930306,70,37,12,19930501
+56,56,I Feel You,Depeche Mode,Depeche Mode,electronic,electronic,19930306,70,37,12,19930501
 57,47,Man On The Moon,R.E.M.,R.E.M.,rock,rock,19930206,93,30,15,19930501
 58,55,Tap The Bottle,Young Black Teenagers,Young Black Teenagers,hip-hop,hip-hop,19930306,82,55,20,19930501
 59,53,Romeo,Dolly Parton,Dolly Parton,country / folk,country,19930313,95,50,14,19930501
@@ -3533,7 +3533,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 32,30,Simple Life,Elton John,Elton John,pop,pop,19930227,90,30,16,19930424
 33,43,Three Little Pigs,Green Jelly,Green Jelly,rock,metal,19930327,79,17,20,19930424
 34,46,Livin' On The Edge,Aerosmith,Aerosmith,rock,rock,19930410,67,18,20,19930424
-35,42,Connected,Stereo Mc'S,Stereo Mc'S,pop,electronic,19930327,93,20,20,19930424
+35,42,Connected,Stereo Mc'S,Stereo Mc'S,electronic,electronic,19930327,93,20,20,19930424
 36,37,Love U More,Sunscreem,Sunscreem,electronic,dance,19930227,85,36,19,19930424
 37,31,Rebirth Of Slick (Cool Like Dat),Digable Planets,Digable Planets,hip-hop,hip-hop,19930116,85,15,20,19930424
 38,40,Dazzey Ducks,Duice,Duice,hip-hop,hip hop,19930109,86,12,40,19930424
@@ -3554,7 +3554,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 53,53,Romeo,Dolly Parton,Dolly Parton,country / folk,country,19930313,95,50,14,19930424
 54,58,Tell Me What You Dream,Restless Heart Featuring Warren Hill,Restless Heart,country / folk,country,19930327,82,43,13,19930424
 55,64,Tap The Bottle,Young Black Teenagers,Young Black Teenagers,hip-hop,hip-hop,19930306,82,55,20,19930424
-56,57,I Feel You,Depeche Mode,Depeche Mode,pop,electronic,19930306,70,37,12,19930424
+56,57,I Feel You,Depeche Mode,Depeche Mode,electronic,electronic,19930306,70,37,12,19930424
 57,55,What You Won't Do For Love,Go West,Go West,pop,80s,19930313,92,55,11,19930424
 58,NEW,Weak,Swv,Swv,rnb / soul,rnb,19930424,58,1,26,19930424
 59,86,Come Undone,Duran Duran,Duran Duran,rock,new wave,19930417,86,7,25,19930424
@@ -3640,7 +3640,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 39,35,Heal The World,Michael Jackson,Michael Jackson,pop,pop,19921212,74,27,20,19930417
 40,40,Dazzey Ducks,Duice,Duice,hip-hop,hip hop,19930109,86,12,40,19930417
 41,49,Dedicated,R. Kelly,R. Kelly,rnb / soul,rnb,19930227,91,31,20,19930417
-42,52,Connected,Stereo Mc'S,Stereo Mc'S,pop,electronic,19930327,93,20,20,19930417
+42,52,Connected,Stereo Mc'S,Stereo Mc'S,electronic,electronic,19930327,93,20,20,19930417
 43,54,Three Little Pigs,Green Jelly,Green Jelly,rock,metal,19930327,79,17,20,19930417
 44,38,Rhythm Is A Dancer,Snap,Snap,electronic,eurodance,19920815,90,5,39,19930417
 45,41,If I Ever Fall In Love,Shai,Shai,rnb / soul,rnb,19921017,54,2,27,19930417
@@ -3655,7 +3655,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 54,65,Buddy X,Neneh Cherry,Neneh Cherry,pop,female vocalists,19930327,90,43,12,19930417
 55,61,What You Won't Do For Love,Go West,Go West,pop,80s,19930313,92,55,11,19930417
 56,46,Beautiful Girl,Inxs,Inxs,rock,rock,19930220,93,46,12,19930417
-57,51,I Feel You,Depeche Mode,Depeche Mode,pop,electronic,19930306,70,37,12,19930417
+57,51,I Feel You,Depeche Mode,Depeche Mode,electronic,electronic,19930306,70,37,12,19930417
 58,69,Tell Me What You Dream,Restless Heart Featuring Warren Hill,Restless Heart,country / folk,country,19930327,82,43,13,19930417
 59,60,Come In Out Of The Rain,Wendy Moten,Wendy Moten,rnb / soul,soul,19930220,82,55,15,19930417
 60,53,Hat 2 Da Back,Tlc,Tlc,rnb / soul,rnb,19930206,92,30,15,19930417
@@ -3749,8 +3749,8 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 48,45,Rump Shaker,Wreckx-N-Effect,Wreckx-N-Effect,hip-hop,hip-hop,19921003,94,2,28,19930410
 49,54,Dedicated,R. Kelly,R. Kelly,rnb / soul,rnb,19930227,91,31,20,19930410
 50,55,Romeo,Dolly Parton,Dolly Parton,country / folk,country,19930313,95,50,14,19930410
-51,46,I Feel You,Depeche Mode,Depeche Mode,pop,electronic,19930306,70,37,12,19930410
-52,69,Connected,Stereo Mc'S,Stereo Mc'S,pop,electronic,19930327,93,20,20,19930410
+51,46,I Feel You,Depeche Mode,Depeche Mode,electronic,electronic,19930306,70,37,12,19930410
+52,69,Connected,Stereo Mc'S,Stereo Mc'S,electronic,electronic,19930327,93,20,20,19930410
 53,42,Hat 2 Da Back,Tlc,Tlc,rnb / soul,rnb,19930206,92,30,15,19930410
 54,66,Three Little Pigs,Green Jelly,Green Jelly,rock,metal,19930327,79,17,20,19930410
 55,48,I See Your Smile,Gloria Estefan,Gloria Estefan,pop,latin,19930220,76,48,17,19930410
@@ -3844,7 +3844,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 43,47,Dazzey Ducks,Duice,Duice,hip-hop,hip hop,19930109,86,12,40,19930403
 44,41,Do You Believe In Us,Jon Secada,Jon Secada,pop,pop,19920926,81,13,30,19930403
 45,40,Rump Shaker,Wreckx-N-Effect,Wreckx-N-Effect,hip-hop,hip-hop,19921003,94,2,28,19930403
-46,44,I Feel You,Depeche Mode,Depeche Mode,pop,electronic,19930306,70,37,12,19930403
+46,44,I Feel You,Depeche Mode,Depeche Mode,electronic,electronic,19930306,70,37,12,19930403
 47,54,Love U More,Sunscreem,Sunscreem,electronic,dance,19930227,85,36,19,19930403
 48,50,I See Your Smile,Gloria Estefan,Gloria Estefan,pop,latin,19930220,76,48,17,19930403
 49,38,"Saving Forever For You (From ""Beverly Hills, 90210"")",Shanice,Shanice,rnb / soul,rnb,19921024,67,4,24,19930403
@@ -3867,7 +3867,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 66,79,Three Little Pigs,Green Jelly,Green Jelly,rock,metal,19930327,79,17,20,19930403
 67,69,Shoop Shoop (Never Stop Givin' You Love),Michael Cooper,Michael Cooper,rnb / soul,soul,19930313,87,67,9,19930403
 68,78,Candy Everybody Wants,"10,000 Maniacs","10,000 Maniacs",pop,female vocalists,19930306,94,67,10,19930403
-69,93,Connected,Stereo Mc'S,Stereo Mc'S,pop,electronic,19930327,93,20,20,19930403
+69,93,Connected,Stereo Mc'S,Stereo Mc'S,electronic,electronic,19930327,93,20,20,19930403
 70,74,She's Not Cryin' Anymore,Billy Ray Cyrus,Billy Ray Cyrus,country / folk,country,19930313,93,70,9,19930403
 71,82,Tell Me What You Dream,Restless Heart Featuring Warren Hill,Restless Heart,country / folk,country,19930327,82,43,13,19930403
 72,76,Somebody Love Me,Michael W. Smith,Michael W. Smith,pop,christian,19930313,96,71,7,19930403
@@ -3942,7 +3942,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 41,41,Do You Believe In Us,Jon Secada,Jon Secada,pop,pop,19920926,81,13,30,19930327
 42,57,"The Crying Game (From ""The Crying Game"")",Boy George,Boy George,pop,80s,19930313,70,15,17,19930327
 43,37,"In The Still Of The Nite (From ""The Jacksons"")",Boyz Ii Men,Boyz Ii Men,rnb / soul,rnb,19921128,15,3,20,19930327
-44,42,I Feel You,Depeche Mode,Depeche Mode,pop,electronic,19930306,70,37,12,19930327
+44,42,I Feel You,Depeche Mode,Depeche Mode,electronic,electronic,19930306,70,37,12,19930327
 45,50,Simple Life,Elton John,Elton John,pop,pop,19930227,90,30,16,19930327
 46,46,So Alone,Men At Large,Men At Large,rnb / soul,rnb,19930220,86,31,20,19930327
 47,44,Dazzey Ducks,Duice,Duice,hip-hop,hip hop,19930109,86,12,40,19930327
@@ -3991,7 +3991,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 90,NEW,Buddy X,Neneh Cherry,Neneh Cherry,pop,female vocalists,19930327,90,43,12,19930327
 91,75,Quality Time,Hi-Five,Hi-Five,rnb / soul,rnb,19921205,96,38,17,19930327
 92,NEW,I'll Never Get Over You (Getting Over Me),Expose,Expose,pop,80s,19930327,92,8,29,19930327
-93,NEW,Connected,Stereo Mc'S,Stereo Mc'S,pop,electronic,19930327,93,20,20,19930327
+93,NEW,Connected,Stereo Mc'S,Stereo Mc'S,electronic,electronic,19930327,93,20,20,19930327
 94,91,Reminisce,Mary J. Blige,Mary J. Blige,rnb / soul,rnb,19921219,63,57,20,19930327
 95,79,Steam,Peter Gabriel,Peter Gabriel,rock,progressive rock,19921219,80,32,15,19930327
 96,86,Who Got The Props,Black Moon,Black Moon,hip-hop,hip-hop,19930227,94,86,6,19930327
@@ -4040,7 +4040,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 39,43,Bad Girl,Madonna,Madonna,pop,pop,19930220,75,36,11,19930320
 40,56,Nothin' My Love Can't Fix,Joey Lawrence,Joey Lawrence,pop,pop,19930306,68,19,20,19930320
 41,40,Do You Believe In Us,Jon Secada,Jon Secada,pop,pop,19920926,81,13,30,19930320
-42,37,I Feel You,Depeche Mode,Depeche Mode,pop,electronic,19930306,70,37,12,19930320
+42,37,I Feel You,Depeche Mode,Depeche Mode,electronic,electronic,19930306,70,37,12,19930320
 43,39,"Give It Up, Turn It Loose",En Vogue,En Vogue,rnb / soul,rnb,19921205,63,15,20,19930320
 44,46,Dazzey Duks,Duice,Duice,hip-hop,hip hop,19930109,86,12,40,19930320
 45,38,Good Enough,Bobby Brown,Bobby Brown,rnb / soul,rnb,19921017,51,7,23,19930320
@@ -4135,7 +4135,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 34,35,Hat 2 Da Back,Tlc,Tlc,rnb / soul,rnb,19930206,92,30,15,19930313
 35,29,Rump Shaker,Wreckx-N-Effect,Wreckx-N-Effect,hip-hop,hip-hop,19921003,94,2,28,19930313
 36,44,Man On The Moon,R.E.M.,R.E.M.,rock,rock,19930206,93,30,15,19930313
-37,70,I Feel You,Depeche Mode,Depeche Mode,pop,electronic,19930306,70,37,12,19930313
+37,70,I Feel You,Depeche Mode,Depeche Mode,electronic,electronic,19930306,70,37,12,19930313
 38,32,Good Enough,Bobby Brown,Bobby Brown,rnb / soul,rnb,19921017,51,7,23,19930313
 39,31,"Give It Up, Turn It Loose",En Vogue,En Vogue,rnb / soul,rnb,19921205,63,15,20,19930313
 40,40,Do You Believe In Us,Jon Secada,Jon Secada,pop,pop,19920926,81,13,30,19930313
@@ -4268,7 +4268,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 67,76,Gangsta Bitch,Apache,Apache,hip-hop,rap,19930130,87,67,10,19930306
 68,NEW,Nothin' My Love Can't Fix,Joey Lawrence,Joey Lawrence,pop,pop,19930306,68,19,20,19930306
 69,78,So Alone,Men At Large,Men At Large,rnb / soul,rnb,19930220,86,31,20,19930306
-70,NEW,I Feel You,Depeche Mode,Depeche Mode,pop,electronic,19930306,70,37,12,19930306
+70,NEW,I Feel You,Depeche Mode,Depeche Mode,electronic,electronic,19930306,70,37,12,19930306
 71,81,Beautiful Girl,Inxs,Inxs,rock,rock,19930220,93,46,12,19930306
 72,71,Homies,A Lighter Shade Of Brown,A Lighter Shade Of Brown,pop,old school,19921212,83,57,19,19930306
 73,67,The Last Song,Elton John,Elton John,pop,pop,19921031,83,23,20,19930306

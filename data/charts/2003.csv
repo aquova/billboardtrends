@@ -4393,7 +4393,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 92,94,All I Need,Fat Joe Feat Tony Sunshine & Armageddon,Fat Joe Feat Tony Sunshine,pop,unknown,20030215,99,86,8,20030301
 93,84,Through The Rain,Mariah Carey,Mariah Carey,pop,pop,20030222,84,84,3,20030301
 94,93,A Lot Of Things Different,Kenny Chesney,Kenny Chesney,country / folk,country,20021130,74,55,15,20030301
-95,86,Breathe,Telepopmusic,Telepopmusic,pop,electronic,20021228,98,78,10,20030301
+95,86,Breathe,Telepopmusic,Telepopmusic,electronic,electronic,20021228,98,78,10,20030301
 96,95,Cochise,Audioslave,Audioslave,rock,rock,20021123,77,69,15,20030301
 97,96,He Is,Heather Headley,Heather Headley,rnb / soul,soul,20030111,97,90,8,20030301
 98,100,Talkin' To Me,Amerie,Amerie,rnb / soul,rnb,20021207,70,51,15,20030301
@@ -4484,7 +4484,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 83,85,B R Right,Trina Featuring Ludacris,Trina,hip-hop,rap,20030111,98,83,14,20030222
 84,NEW,Through The Rain,Mariah Carey,Mariah Carey,pop,pop,20030222,84,84,3,20030222
 85,82,You Know You're Right,Nirvana,Nirvana,rock,grunge,20021019,55,45,20,20030222
-86,78,Breathe,Telepopmusic,Telepopmusic,pop,electronic,20021228,98,78,10,20030222
+86,78,Breathe,Telepopmusic,Telepopmusic,electronic,electronic,20021228,98,78,10,20030222
 87,84,Bother,Stone Sour,Stone Sour,rock,hard rock,20021102,76,56,20,20030222
 88,86,I'm Gonna Getcha Good!,Shania Twain,Shania Twain,country / folk,country,20021019,65,34,20,20030222
 89,91,One Of Those Days,Whitney Houston,Whitney Houston,pop,pop,20021116,96,72,19,20030222
@@ -4576,7 +4576,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 75,65,Come Close To Me,Common Featuring Mary J. Blige,Common,hip-hop,hip-hop,20021221,99,65,15,20030215
 76,NEW,A.D.I.D.A.S.,Killer Mike Featuring Big Boi,Killer Mike,hip-hop,hip-hop,20030215,76,60,9,20030215
 77,NEW,What Happened To That Boy,Baby Featuring Clipse,Baby,hip-hop,rap,20030215,77,45,11,20030215
-78,78,Breathe,Telepopmusic,Telepopmusic,pop,electronic,20021228,98,78,10,20030215
+78,78,Breathe,Telepopmusic,Telepopmusic,electronic,electronic,20021228,98,78,10,20030215
 79,79,Beautiful Goodbye,Jennifer Hanson,Jennifer Hanson,country / folk,country,20030118,97,76,10,20030215
 80,76,Can't Stop Loving You,Phil Collins,Phil Collins,pop,pop,20030201,76,76,20,20030215
 81,75,In A Little While,Uncle Kracker,Uncle Kracker,rock,rock,20021102,70,59,20,20030215
@@ -4676,7 +4676,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 75,69,In A Little While,Uncle Kracker,Uncle Kracker,rock,rock,20021102,70,59,20,20030208
 76,76,Can't Stop Loving You,Phil Collins,Phil Collins,pop,pop,20030201,76,76,20,20030208
 77,75,Bother,Stone Sour,Stone Sour,rock,hard rock,20021102,76,56,20,20030208
-78,80,Breathe,Telepopmusic,Telepopmusic,pop,electronic,20021228,98,78,10,20030208
+78,80,Breathe,Telepopmusic,Telepopmusic,electronic,electronic,20021228,98,78,10,20030208
 79,83,Beautiful Goodbye,Jennifer Hanson,Jennifer Hanson,country / folk,country,20030118,97,76,10,20030208
 80,74,A Lot Of Things Different,Kenny Chesney,Kenny Chesney,country / folk,country,20021130,74,55,15,20030208
 81,72,One Of Those Days,Whitney Houston,Whitney Houston,pop,pop,20021116,96,72,19,20030208
@@ -4778,7 +4778,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 77,68,No Letting Go,Wayne Wonder,Wayne Wonder,reggae,reggae,20030111,75,11,31,20030201
 78,70,Red Rag Top,Tim Mcgraw,Tim Mcgraw,country / folk,country,20021012,70,40,20,20030201
 79,78,I'm Gonna Getcha Good!,Shania Twain,Shania Twain,country / folk,country,20021019,65,34,20,20030201
-80,94,Breathe,Telepopmusic,Telepopmusic,pop,electronic,20021228,98,78,10,20030201
+80,94,Breathe,Telepopmusic,Telepopmusic,electronic,electronic,20021228,98,78,10,20030201
 81,76,Spin,Lifehouse,Lifehouse,rock,rock,20021116,85,71,14,20030201
 82,81,Prayer,Disturbed,Disturbed,rock,metal,20020928,74,58,20,20030201
 83,88,Beautiful Goodbye,Jennifer Hanson,Jennifer Hanson,country / folk,country,20030118,97,76,10,20030201
@@ -4892,7 +4892,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 91,90,Rock The Party,Benzino,Benzino,hip-hop,hip-hop,20021012,99,82,18,20030125
 92,92,Come Into My World,Kylie Minogue,Kylie Minogue,pop,pop,20021214,98,91,8,20030125
 93,89,Thug Lovin',Ja Rule Featuring Bobby Brown,Ja Rule,hip-hop,rap,20021123,72,42,10,20030125
-94,99,Breathe,Telepopmusic,Telepopmusic,pop,electronic,20021228,98,78,10,20030125
+94,99,Breathe,Telepopmusic,Telepopmusic,electronic,electronic,20021228,98,78,10,20030125
 95,NEW,Take You Home,Angie Martinez Featuring Kelis,Angie Martinez,hip-hop,hip-hop,20030125,95,85,5,20030125
 96,91,Girl Talk,Tlc,Tlc,rnb / soul,rnb,20021026,71,28,14,20030125
 97,98,B R Right,Trina Featuring Ludacris,Trina,hip-hop,rap,20030111,98,83,14,20030125
@@ -4997,7 +4997,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 96,NEW,I'd Rather,Luther Vandross,Luther Vandross,rnb / soul,soul,20030118,96,94,8,20030118
 97,NEW,Beautiful Goodbye,Jennifer Hanson,Jennifer Hanson,country / folk,country,20030118,97,76,10,20030118
 98,98,B R Right,Trina Featuring Ludacris,Trina,hip-hop,rap,20030111,98,83,14,20030118
-99,99,Breathe,Telepopmusic,Telepopmusic,pop,electronic,20021228,98,78,10,20030118
+99,99,Breathe,Telepopmusic,Telepopmusic,electronic,electronic,20021228,98,78,10,20030118
 100,95,Hit The Freeway,Toni Braxton Featuring Loon,Toni Braxton,rnb / soul,rnb,20021109,86,86,14,20030118
 1,1,Lose Yourself,Eminem,Eminem,hip-hop,rap,20021005,43,1,23,20030111
 2,2,Work It,"Missy ""Misdemeanor"" Elliott","Missy ""Misdemeanor"" Elliott",hip-hop,hip-hop,20020914,75,2,25,20030111
@@ -5097,7 +5097,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 96,100,My Town,Montgomery Gentry,Montgomery Gentry,country / folk,country,20020928,69,40,20,20030111
 97,NEW,He Is,Heather Headley,Heather Headley,rnb / soul,soul,20030111,97,90,8,20030111
 98,NEW,B R Right,Trina Featuring Ludacris,Trina,hip-hop,rap,20030111,98,83,14,20030111
-99,96,Breathe,Telepopmusic,Telepopmusic,pop,electronic,20021228,98,78,10,20030111
+99,96,Breathe,Telepopmusic,Telepopmusic,electronic,electronic,20021228,98,78,10,20030111
 100,95,Single For The Rest Of My Life,Isyss,Isyss,pop,female vocalists,20021026,97,71,12,20030111
 1,1,Lose Yourself,Eminem,Eminem,hip-hop,rap,20021005,43,1,23,20030104
 2,2,Work It,"Missy ""Misdemeanor"" Elliott","Missy ""Misdemeanor"" Elliott",hip-hop,hip-hop,20020914,75,2,25,20030104
@@ -5194,7 +5194,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 93,95,Hit The Freeway,Toni Braxton Featuring Loon,Toni Braxton,rnb / soul,rnb,20021109,86,86,14,20030104
 94,NEW,Blowin' Me Up (With Her Love),Jc Chasez,Jc Chasez,pop,pop,20030104,94,35,17,20030104
 95,91,Single For The Rest Of My Life,Isyss,Isyss,pop,female vocalists,20021026,97,71,12,20030104
-96,98,Breathe,Telepopmusic,Telepopmusic,pop,electronic,20021228,98,78,10,20030104
+96,98,Breathe,Telepopmusic,Telepopmusic,electronic,electronic,20021228,98,78,10,20030104
 97,99,Goodbye To You,Michelle Branch,Michelle Branch,pop,pop,20020831,69,21,20,20030104
 98,70,These Are The Days,O-Town,O-Town,pop,pop,20021207,64,64,5,20030104
 99,87,Every River,Brooks & Dunn,Brooks & Dunn,country / folk,country,20021207,75,75,5,20030104

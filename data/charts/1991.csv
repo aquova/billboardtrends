@@ -87,10 +87,10 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 86,86,Every Road Leads Back To You,Bette Midler,Bette Midler,pop,female vocalists,19911221,86,78,6,19911228
 87,87,There Will Never Be Another Tonight,Bryan Adams,Bryan Adams,rock,rock,19911221,87,31,15,19911228
 88,88,Insatiable,Prince & The N.P.G.,Prince & The N.P.G.,rnb / soul,funk,19911214,92,77,7,19911228
-89,89,Move Any Mountain,The Shamen,The Shamen,pop,electronic,19911214,100,38,17,19911228
+89,89,Move Any Mountain,The Shamen,The Shamen,electronic,electronic,19911214,100,38,17,19911228
 90,90,Right Down To It,Damien Dame,Damien Dame,pop,unknown,19911214,93,90,6,19911228
 91,91,The Fly,U2,U2,rock,rock,19911109,74,61,11,19911228
-92,92,What Time Is Love?,The Klf,The Klf,pop,electronic,19911026,98,57,12,19911228
+92,92,What Time Is Love?,The Klf,The Klf,electronic,electronic,19911026,98,57,12,19911228
 93,93,Give It Away,Red Hot Chili Peppers,Red Hot Chili Peppers,rock,rock,19911221,93,76,6,19911228
 94,94,Something Got Me Started,Simply Red,Simply Red,pop,pop,19910928,82,23,14,19911228
 95,95,Live And Let Die,Guns N'Roses,Guns N'Roses,rock,hard rock,19911221,95,33,16,19911228
@@ -187,10 +187,10 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 86,NEW,Every Road Leads Back To You,Bette Midler,Bette Midler,pop,female vocalists,19911221,86,78,6,19911221
 87,NEW,There Will Never Be Another Tonight,Bryan Adams,Bryan Adams,rock,rock,19911221,87,31,15,19911221
 88,92,Insatiable,Prince & The N.P.G.,Prince & The N.P.G.,rnb / soul,funk,19911214,92,77,7,19911221
-89,100,Move Any Mountain,The Shamen,The Shamen,pop,electronic,19911214,100,38,17,19911221
+89,100,Move Any Mountain,The Shamen,The Shamen,electronic,electronic,19911214,100,38,17,19911221
 90,93,Right Down To It,Damien Dame,Damien Dame,pop,unknown,19911214,93,90,6,19911221
 91,89,The Fly,U2,U2,rock,rock,19911109,74,61,11,19911221
-92,85,What Time Is Love?,The Klf,The Klf,pop,electronic,19911026,98,57,12,19911221
+92,85,What Time Is Love?,The Klf,The Klf,electronic,electronic,19911026,98,57,12,19911221
 93,NEW,Give It Away,Red Hot Chili Peppers,Red Hot Chili Peppers,rock,rock,19911221,93,76,6,19911221
 94,79,Something Got Me Started,Simply Red,Simply Red,pop,pop,19910928,82,23,14,19911221
 95,NEW,Live And Let Die,Guns N'Roses,Guns N'Roses,rock,hard rock,19911221,95,33,16,19911221
@@ -283,7 +283,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 82,87,Within My Heart,Voyce,Voyce,pop,freestyle,19911130,89,77,13,19911214
 83,NEW,All Through The Night,Tone-Loc,Tone-Loc,hip-hop,hip-hop,19911214,83,80,7,19911214
 84,83,Whispers,Corina,Corina,pop,freestyle,19910928,93,51,20,19911214
-85,85,What Time Is Love?,The Klf,The Klf,pop,electronic,19911026,98,57,12,19911214
+85,85,What Time Is Love?,The Klf,The Klf,electronic,electronic,19911026,98,57,12,19911214
 86,70,Real Real Real,Jesus Jones,Jesus Jones,rock,alternative,19910824,84,4,20,19911214
 87,97,In Paradise,Laissez Faire,Laissez Faire,pop,pop,19911207,97,64,17,19911214
 88,NEW,Uhh Ahh,Boyz Ii Men,Boyz Ii Men,rnb / soul,rnb,19911214,88,16,20,19911214
@@ -298,7 +298,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 97,94,Monsters And Angels,Voice Of The Beehive,Voice Of The Beehive,pop,pop,19911102,99,74,7,19911214
 98,95,Into The Great Wide Open,Tom Petty And The Heartbreakers,Tom Petty And The Heartbreakers,rock,classic rock,19911116,99,92,5,19911214
 99,89,Walk Through Fire,Bad Company,Bad Company,rock,classic rock,19910824,87,28,17,19911214
-100,NEW,Move Any Mountain,The Shamen,The Shamen,pop,electronic,19911214,100,38,17,19911214
+100,NEW,Move Any Mountain,The Shamen,The Shamen,electronic,electronic,19911214,100,38,17,19911214
 1,3,Black Or White,Michael Jackson,Michael Jackson,pop,pop,19911123,35,1,20,19911207
 2,2,When A Man Loves A Woman,Michael Bolton,Michael Bolton,pop,pop,19911012,44,1,20,19911207
 3,1,Set Adrift On Memory Drift,P.M. Dawn,P.M. Dawn,hip-hop,hip-hop,19911019,50,1,20,19911207
@@ -383,7 +383,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 82,80,Conviction Of The Heart,Kenny Loggins,Kenny Loggins,pop,80s,19911026,95,65,13,19911207
 83,72,Whispers,Corina,Corina,pop,freestyle,19910928,93,51,20,19911207
 84,NEW,Addams Groove,Hammer,Hammer,rock,black metal,19911207,84,7,20,19911207
-85,87,What Time Is Love?,The Klf,The Klf,pop,electronic,19911026,98,57,12,19911207
+85,87,What Time Is Love?,The Klf,The Klf,electronic,electronic,19911026,98,57,12,19911207
 86,NEW,The Comfort Zone,Vanessa Williams,Vanessa Williams,pop,pop,19911207,86,62,12,19911207
 87,89,Within My Heart,Voyce,Voyce,pop,freestyle,19911130,89,77,13,19911207
 88,NEW,Diamonds And Pearls,Prince & The N.P.G.,Prince & The N.P.G.,rnb / soul,funk,19911207,88,3,21,19911207
@@ -485,7 +485,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 84,NEW,The Way I Feel About You,Karyn White,Karyn White,rnb / soul,soul,19911130,84,12,20,19911130
 85,NEW,On A Sunday Afternoon,A Lighter Shade Of Brown,A Lighter Shade Of Brown,pop,old school,19911130,85,39,20,19911130
 86,55,My Heart Belongs To You,Russ Irwin,Russ Irwin,rock,rock,19910914,91,28,13,19911130
-87,57,What Time Is Love?,The Klf,The Klf,pop,electronic,19911026,98,57,12,19911130
+87,57,What Time Is Love?,The Klf,The Klf,electronic,electronic,19911026,98,57,12,19911130
 88,97,Just Another Girlfriend,Hi-Five,Hi-Five,rnb / soul,rnb,19911123,97,88,8,19911130
 89,NEW,Within My Heart,Voyce,Voyce,pop,freestyle,19911130,89,77,13,19911130
 90,68,Hey Donna,Rhythm Syndicate,Rhythm Syndicate,electronic,trance,19910907,73,13,14,19911130
@@ -555,7 +555,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 54,61,I've Got A Lot To Learn About Love,The Storm,The Storm,rock,hard rock,19911026,97,26,20,19911123
 55,30,My Heart Belongs To You,Russ Irwin,Russ Irwin,rock,rock,19910914,91,28,13,19911123
 56,44,Running Back To You,Vanessa Williams,Vanessa Williams,pop,pop,19910810,72,18,21,19911123
-57,65,What Time Is Love?,The Klf,The Klf,pop,electronic,19911026,98,57,12,19911123
+57,65,What Time Is Love?,The Klf,The Klf,electronic,electronic,19911026,98,57,12,19911123
 58,63,Pop That Coochie,2 Live Crew,2 Live Crew,hip-hop,rap,19911102,70,58,13,19911123
 59,66,Just A Touch Of Love,C&C Music Factory,C&C Music Factory,electronic,dance,19911109,87,50,14,19911123
 60,74,Tell Me What You Want Me To Do,Tevin Campbell,Tevin Campbell,rnb / soul,rnb,19911109,93,7,24,19911123
@@ -663,7 +663,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 62,50,Motownphilly,Boyz Ii Men,Boyz Ii Men,rnb / soul,rnb,19910615,63,3,24,19911116
 63,65,Pop That Coochie,2 Live Crew,2 Live Crew,hip-hop,rap,19911102,70,58,13,19911116
 64,60,(Everything I Do) I Do It For You,Bryan Adams,Bryan Adams,rock,rock,19910629,53,1,22,19911116
-65,70,What Time Is Love?,The Klf,The Klf,pop,electronic,19911026,98,57,12,19911116
+65,70,What Time Is Love?,The Klf,The Klf,electronic,electronic,19911026,98,57,12,19911116
 66,87,Just A Touch Of Love,C&C Music Factory,C&C Music Factory,electronic,dance,19911109,87,50,14,19911116
 67,71,Conviction Of The Heart,Kenny Loggins,Kenny Loggins,pop,80s,19911026,95,65,13,19911116
 68,74,The Fly,U2,U2,rock,rock,19911109,74,61,11,19911116
@@ -768,7 +768,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 67,63,Wind Of Change,Scorpions,Scorpions,rock,hard rock,19910601,91,4,25,19911109
 68,82,I've Got A Lot To Learn About Love,The Storm,The Storm,rock,hard rock,19911026,97,26,20,19911109
 69,52,Straight To Your Heart,Bad English,Bad English,rock,hard rock,19910831,90,42,13,19911109
-70,87,What Time Is Love?,The Klf,The Klf,pop,electronic,19911026,98,57,12,19911109
+70,87,What Time Is Love?,The Klf,The Klf,electronic,electronic,19911026,98,57,12,19911109
 71,79,Conviction Of The Heart,Kenny Loggins,Kenny Loggins,pop,80s,19911026,95,65,13,19911109
 72,NEW,Home Sweet Home,Motley Crue,Motley Crue,rock,hard rock,19911109,72,37,17,19911109
 73,60,The Devil Came Up To Michigan,K.M.C. Kru,K.M.C. Kru,hip-hop,hip-hop,19910831,97,46,14,19911109
@@ -885,7 +885,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 84,67,The Real Love,Bob Seger,Bob Seger,rock,classic rock,19910824,77,24,11,19911102
 85,92,Stand By My Woman,Lenny Kravitz,Lenny Kravitz,rock,rock,19911019,93,76,8,19911102
 86,88,Thinking Of You,Grandmaster Slice,Grandmaster Slice,hip-hop,hip hop,19911026,88,85,6,19911102
-87,98,What Time Is Love?,The Klf,The Klf,pop,electronic,19911026,98,57,12,19911102
+87,98,What Time Is Love?,The Klf,The Klf,electronic,electronic,19911026,98,57,12,19911102
 88,78,Unforgettable,Natalie Cole & Nat King Cole,Natalie Cole,jazz,jazz,19910713,68,14,17,19911102
 89,NEW,I Wanna Be Your Girl,Icy Blu,Icy Blu,hip-hop,rap,19911102,89,46,20,19911102
 90,99,For Your Mind,Robbie Nevil,Robbie Nevil,pop,80s,19911026,99,86,4,19911102
@@ -981,7 +981,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 80,87,Skat Strut,Mc Skat & The Stray Mob,Mc Skat,pop,unknown,19911012,96,80,4,19911026
 81,86,Cool As Ice (Everybody Get Loose),Vanilla Ice,Vanilla Ice,hip-hop,rap,19911012,94,81,4,19911026
 82,91,Fall At Your Feet,Crowded House,Crowded House,rock,rock,19911019,91,75,6,19911026
-83,71,3am Eternal,Klf,Klf,pop,electronic,19910622,94,5,19,19911026
+83,71,3am Eternal,Klf,Klf,electronic,electronic,19910622,94,5,19,19911026
 84,68,The Motown Song,Rod Stewart,Rod Stewart,rock,classic rock,19910706,73,10,17,19911026
 85,NEW,Spending My Time,Roxette,Roxette,pop,pop,19911026,85,32,20,19911026
 86,82,I'm Not Your Puppet,Hi-C,Hi-C,hip-hop,rap,19910817,80,63,13,19911026
@@ -996,7 +996,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 95,NEW,Conviction Of The Heart,Kenny Loggins,Kenny Loggins,pop,80s,19911026,95,65,13,19911026
 96,NEW,Too Much,Tara Kemp,Tara Kemp,pop,90s,19911026,96,95,2,19911026
 97,NEW,I've Got A Lot To Learn About Love,The Storm,The Storm,rock,hard rock,19911026,97,26,20,19911026
-98,NEW,What Time Is Love?,The Klf,The Klf,pop,electronic,19911026,98,57,12,19911026
+98,NEW,What Time Is Love?,The Klf,The Klf,electronic,electronic,19911026,98,57,12,19911026
 99,NEW,For Your Mind,Robbie Nevil,Robbie Nevil,pop,80s,19911026,99,86,4,19911026
 100,NEW,Forever More,Stevie B,Stevie B,pop,freestyle,19911026,100,96,4,19911026
 1,1,Emotions,Mariah Carey,Mariah Carey,pop,pop,19910831,35,1,20,19911019
@@ -1069,7 +1069,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 68,48,The Motown Song,Rod Stewart,Rod Stewart,rock,classic rock,19910706,73,10,17,19911019
 69,56,Sometimes (It's A Bitch),Stevie Nicks,Stevie Nicks,pop,female vocalists,19910907,86,56,8,19911019
 70,78,Superman's Song,Crash Test Dummies,Crash Test Dummies,rock,rock,19911005,91,56,6,19911019
-71,53,3am Eternal,Klf,Klf,pop,electronic,19910622,94,5,19,19911019
+71,53,3am Eternal,Klf,Klf,electronic,electronic,19910622,94,5,19,19911019
 72,49,Everyotherday,Or-N-More Featuring Father M.C.,Or-N-More,pop,pop,19910831,98,46,8,19911019
 73,85,Live For Loving You,Gloria Estefan,Gloria Estefan,pop,latin,19911012,85,22,20,19911019
 74,79,Ballad Of Youth,Richie Sambora,Richie Sambora,rock,rock,19910928,92,63,7,19911019
@@ -1151,7 +1151,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 50,51,The Devil Came Up To Michigan,K.M.C. Kru,K.M.C. Kru,hip-hop,hip-hop,19910831,97,46,14,19911012
 51,45,I'll Be There,Escape Club,Escape Club,pop,pop,19910525,91,8,25,19911012
 52,38,Crazy,Seal,Seal,rnb / soul,soul,19910622,83,7,19,19911012
-53,43,3am Eternal,Klf,Klf,pop,electronic,19910622,94,5,19,19911012
+53,43,3am Eternal,Klf,Klf,electronic,electronic,19910622,94,5,19,19911012
 54,69,Get A Leg Up,John Mellencamp,John Mellencamp,rock,rock,19911005,69,14,15,19911012
 55,58,Never Stop,Brand New Heavies,Brand New Heavies,pop,acid jazz,19910907,91,54,8,19911012
 56,57,Sometimes (It's A Bitch),Stevie Nicks,Stevie Nicks,pop,female vocalists,19910907,86,56,8,19911012
@@ -1241,7 +1241,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 40,48,I Wonder Why,Curtis Stigers,Curtis Stigers,jazz,jazz,19910907,97,9,20,19911005
 41,41,After The Summer's Gone,Pc Quest,Pc Quest,pop,pop,19910817,93,41,11,19911005
 42,47,Let's Talk About Sex,Salt'N'Pepa,Salt'N'Pepa,hip-hop,hip-hop,19910824,93,13,20,19911005
-43,29,3am Eternal,Klf,Klf,pop,electronic,19910622,94,5,19,19911005
+43,29,3am Eternal,Klf,Klf,electronic,electronic,19910622,94,5,19,19911005
 44,44,Power Windows,Billy Falcon,Billy Falcon,country / folk,singer-songwriter,19910817,84,35,14,19911005
 45,38,I'll Be There,Escape Club,Escape Club,pop,pop,19910525,91,8,25,19911005
 46,53,Everyotherday,Or-N-More Featuring Father M.C.,Or-N-More,pop,pop,19910831,98,46,8,19911005
@@ -1327,7 +1327,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 26,29,The One And Only,Chesney Hawkes,Chesney Hawkes,pop,pop,19910803,79,10,20,19910928
 27,32,The Real Love,Bob Seger,Bob Seger,rock,classic rock,19910824,77,24,11,19910928
 28,31,The Truth,Tami Show,Tami Show,pop,chicago,19910803,72,28,13,19910928
-29,21,3am Eternal,Klf,Klf,pop,electronic,19910622,94,5,19,19910928
+29,21,3am Eternal,Klf,Klf,electronic,electronic,19910622,94,5,19,19910928
 30,34,Don't Want To Be A Fool,Luther Vandross,Luther Vandross,rnb / soul,soul,19910803,92,9,20,19910928
 31,41,Gett Off,Prince & The N.P.G.,Prince & The N.P.G.,rnb / soul,funk,19910817,66,21,14,19910928
 32,38,Running Back To You,Vanessa Williams,Vanessa Williams,pop,pop,19910810,72,18,21,19910928
@@ -1419,7 +1419,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 18,25,Hole Hearted,Extreme,Extreme,rock,hard rock,19910803,75,4,20,19910921
 19,23,Romantic,Karyn White,Karyn White,rnb / soul,soul,19910817,52,1,20,19910921
 20,15,Wind Of Change,Scorpions,Scorpions,rock,hard rock,19910601,91,4,25,19910921
-21,10,3am Eternal,Klf,Klf,pop,electronic,19910622,94,5,19,19910921
+21,10,3am Eternal,Klf,Klf,electronic,electronic,19910622,94,5,19,19910921
 22,26,Everybody Plays The Fool,Aaron Neville,Aaron Neville,rnb / soul,soul,19910720,87,8,20,19910921
 23,21,It Hit Me Like A Hammer,Huey Lewis And The News,Huey Lewis And The News,pop,80s,19910720,80,21,13,19910921
 24,18,Every Heartbeat,Amy Grant,Amy Grant,pop,pop,19910615,53,2,19,19910921
@@ -1508,7 +1508,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 7,9,Time Love And Tenderness,Michael Bolton,Michael Bolton,pop,pop,19910713,59,7,18,19910914
 8,7,Crazy,Seal,Seal,rnb / soul,soul,19910622,83,7,19,19910914
 9,12,Too Many Walls,Cathy Dennis,Cathy Dennis,pop,pop,19910706,65,8,20,19910914
-10,5,3am Eternal,Klf,Klf,pop,electronic,19910622,94,5,19,19910914
+10,5,3am Eternal,Klf,Klf,electronic,electronic,19910622,94,5,19,19910914
 11,16,The Motown Song,Rod Stewart,Rod Stewart,rock,classic rock,19910706,73,10,17,19910914
 12,18,Love Of A Lifetime,Firehouse,Firehouse,rock,hard rock,19910629,81,5,22,19910914
 13,10,I Can't Wait Another Minute,Hi-Five,Hi-Five,rnb / soul,rnb,19910622,77,8,21,19910914
@@ -1603,7 +1603,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 2,5,The Promise Of A New Day,Paula Abdul,Paula Abdul,pop,pop,19910720,40,1,16,19910907
 3,9,Motownphilly,Boyz Ii Men,Boyz Ii Men,rnb / soul,rnb,19910615,63,3,24,19910907
 4,10,Things That Make You Go Hmmmm...,C&C Music Factory Featuring Freedom Williams,C&C Music Factory,electronic,dance,19910720,49,4,16,19910907
-5,7,3am Eternal,Klf,Klf,pop,electronic,19910622,94,5,19,19910907
+5,7,3am Eternal,Klf,Klf,electronic,electronic,19910622,94,5,19,19910907
 6,15,I Adore Mi Amor,Color Me Badd,Color Me Badd,pop,90s,19910727,60,1,20,19910907
 7,12,Crazy,Seal,Seal,rnb / soul,soul,19910622,83,7,19,19910907
 8,4,Wind Of Change,Scorpions,Scorpions,rock,hard rock,19910601,91,4,25,19910907
@@ -1705,7 +1705,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 4,7,Wind Of Change,Scorpions,Scorpions,rock,hard rock,19910601,91,4,25,19910831
 5,8,The Promise Of A New Day,Paula Abdul,Paula Abdul,pop,pop,19910720,40,1,16,19910831
 6,3,Every Heartbeat,Amy Grant,Amy Grant,pop,pop,19910615,53,2,19,19910831
-7,9,3am Eternal,Klf,Klf,pop,electronic,19910622,94,5,19,19910831
+7,9,3am Eternal,Klf,Klf,electronic,electronic,19910622,94,5,19,19910831
 8,10,I Can't Wait Another Minute,Hi-Five,Hi-Five,rnb / soul,rnb,19910622,77,8,21,19910831
 9,11,Motownphilly,Boyz Ii Men,Boyz Ii Men,rnb / soul,rnb,19910615,63,3,24,19910831
 10,12,Things That Make You Go Hmmmm...,C&C Music Factory Featuring Freedom Williams,C&C Music Factory,electronic,dance,19910720,49,4,16,19910831
@@ -1807,7 +1807,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 6,6,Temptation,Corina,Corina,pop,freestyle,19910518,94,6,21,19910824
 7,9,Wind Of Change,Scorpions,Scorpions,rock,hard rock,19910601,91,4,25,19910824
 8,12,The Promise Of A New Day,Paula Abdul,Paula Abdul,pop,pop,19910720,40,1,16,19910824
-9,10,3am Eternal,Klf,Klf,pop,electronic,19910622,94,5,19,19910824
+9,10,3am Eternal,Klf,Klf,electronic,electronic,19910622,94,5,19,19910824
 10,11,I Can't Wait Another Minute,Hi-Five,Hi-Five,rnb / soul,rnb,19910622,77,8,21,19910824
 11,13,Motownphilly,Boyz Ii Men,Boyz Ii Men,rnb / soul,rnb,19910615,63,3,24,19910824
 12,15,Things That Make You Go Hmmmm...,C&C Music Factory Featuring Freedom Williams,C&C Music Factory,electronic,dance,19910720,49,4,16,19910824
@@ -1892,7 +1892,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 91,86,Wishing On The Same Star,Keedy,Keedy,pop,pop,19910817,86,86,4,19910824
 92,72,Power Of Love / Love Power,Luther Vandross,Luther Vandross,rnb / soul,soul,19910427,63,4,18,19910824
 93,NEW,Let's Talk About Sex,Salt'N'Pepa,Salt'N'Pepa,hip-hop,hip-hop,19910824,93,13,20,19910824
-94,64,Elevate My Mind,Stereo Mcs,Stereo Mcs,pop,electronic,19910601,88,39,13,19910824
+94,64,Elevate My Mind,Stereo Mcs,Stereo Mcs,electronic,electronic,19910601,88,39,13,19910824
 95,88,Just Ask To Me,Tevin Campbell,Tevin Campbell,rnb / soul,rnb,19910810,92,88,5,19910824
 96,82,How Can I Ease The Pain,Lisa Fischer,Lisa Fischer,rnb / soul,soul,19910413,98,11,20,19910824
 97,96,Dirty Love,Thunder,Thunder,rock,hard rock,19910601,95,55,13,19910824
@@ -1908,7 +1908,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 7,2,P.A.S.S.I.O.N.,Rhythm Syndicate,Rhythm Syndicate,electronic,trance,19910601,73,2,17,19910817
 8,8,I'll Be There,Escape Club,Escape Club,pop,pop,19910525,91,8,25,19910817
 9,10,Wind Of Change,Scorpions,Scorpions,rock,hard rock,19910601,91,4,25,19910817
-10,11,3am Eternal,Klf,Klf,pop,electronic,19910622,94,5,19,19910817
+10,11,3am Eternal,Klf,Klf,electronic,electronic,19910622,94,5,19,19910817
 11,12,I Can't Wait Another Minute,Hi-Five,Hi-Five,rnb / soul,rnb,19910622,77,8,21,19910817
 12,15,The Promise Of A New Day,Paula Abdul,Paula Abdul,pop,pop,19910720,40,1,16,19910817
 13,14,Motownphilly,Boyz Ii Men,Boyz Ii Men,rnb / soul,rnb,19910615,63,3,24,19910817
@@ -1962,7 +1962,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 61,48,Lily Was Here,David A. Stewart & Candy Dulfer,David A. Stewart & Candy Dulfer,jazz,jazz,19910518,91,11,16,19910817
 62,70,Don't Want To Be A Fool,Luther Vandross,Luther Vandross,rnb / soul,soul,19910803,92,9,20,19910817
 63,73,The One And Only,Chesney Hawkes,Chesney Hawkes,pop,pop,19910803,79,10,20,19910817
-64,51,Elevate My Mind,Stereo Mcs,Stereo Mcs,pop,electronic,19910601,88,39,13,19910817
+64,51,Elevate My Mind,Stereo Mcs,Stereo Mcs,electronic,electronic,19910601,88,39,13,19910817
 65,65,Latin Active,A Lighter Shade Of Brown,A Lighter Shade Of Brown,pop,old school,19910720,92,59,12,19910817
 66,NEW,Gett Off,Prince & The N.P.G.,Prince & The N.P.G.,rnb / soul,funk,19910817,66,21,14,19910817
 67,72,Running Back To You,Vanessa Williams,Vanessa Williams,pop,pop,19910810,72,18,21,19910817
@@ -2009,7 +2009,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 8,10,I'll Be There,Escape Club,Escape Club,pop,pop,19910525,91,8,25,19910810
 9,3,Right Here Right Now,Jesus Jones,Jesus Jones,rock,alternative,19910413,94,2,25,19910810
 10,11,Wind Of Change,Scorpions,Scorpions,rock,hard rock,19910601,91,4,25,19910810
-11,16,3am Eternal,Klf,Klf,pop,electronic,19910622,94,5,19,19910810
+11,16,3am Eternal,Klf,Klf,electronic,electronic,19910622,94,5,19,19910810
 12,15,I Can't Wait Another Minute,Hi-Five,Hi-Five,rnb / soul,rnb,19910622,77,8,21,19910810
 13,7,Unbelievable,Emf,Emf,pop,90s,19910413,87,1,23,19910810
 14,19,Motownphilly,Boyz Ii Men,Boyz Ii Men,rnb / soul,rnb,19910615,63,3,24,19910810
@@ -2049,7 +2049,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 48,22,Lily Was Here,David A. Stewart & Candy Dulfer,David A. Stewart & Candy Dulfer,jazz,jazz,19910518,91,11,16,19910810
 49,58,Everybody Plays The Fool,Aaron Neville,Aaron Neville,rnb / soul,soul,19910720,87,8,20,19910810
 50,57,Got A Love For You,Jomanda,Jomanda,electronic,house,19910706,99,40,15,19910810
-51,49,Elevate My Mind,Stereo Mcs,Stereo Mcs,pop,electronic,19910601,88,39,13,19910810
+51,49,Elevate My Mind,Stereo Mcs,Stereo Mcs,electronic,electronic,19910601,88,39,13,19910810
 52,62,The Sound Of Your Voice,.38 Special,.38 Special,rock,southern rock,19910713,100,33,15,19910810
 53,43,Can't Forget You,Gloria Estefan,Gloria Estefan,pop,latin,19910608,90,43,13,19910810
 54,52,Can You Stop The Rain,Peabo Bryson,Peabo Bryson,rnb / soul,soul,19910622,100,52,15,19910810
@@ -2114,7 +2114,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 13,6,Rush Rush,Paula Abdul,Paula Abdul,pop,pop,19910511,36,1,19,19910803
 14,7,Piece Of My Heart,Tara Kemp,Tara Kemp,pop,90s,19910511,98,7,18,19910803
 15,19,I Can't Wait Another Minute,Hi-Five,Hi-Five,rnb / soul,rnb,19910622,77,8,21,19910803
-16,21,3am Eternal,Klf,Klf,pop,electronic,19910622,94,5,19,19910803
+16,21,3am Eternal,Klf,Klf,electronic,electronic,19910622,94,5,19,19910803
 17,20,Love And Understanding,Cher,Cher,pop,pop,19910615,60,17,15,19910803
 18,22,Crazy,Seal,Seal,rnb / soul,soul,19910622,83,7,19,19910803
 19,23,Motownphilly,Boyz Ii Men,Boyz Ii Men,rnb / soul,rnb,19910615,63,3,24,19910803
@@ -2147,7 +2147,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 46,67,My Name Is Not Susan,Whitney Houston,Whitney Houston,pop,pop,19910727,67,20,10,19910803
 47,59,Pop Goes The Weasel,3Rd Bass,3Rd Bass,hip-hop,hip-hop,19910713,82,29,13,19910803
 48,35,I'll Never Let You Go,Steelheart,Steelheart,rock,hard rock,19910316,77,23,27,19910803
-49,42,Elevate My Mind,Stereo Mcs,Stereo Mcs,pop,electronic,19910601,88,39,13,19910803
+49,42,Elevate My Mind,Stereo Mcs,Stereo Mcs,electronic,electronic,19910601,88,39,13,19910803
 50,58,It Hit Me Like A Hammer,Huey Lewis And The News,Huey Lewis And The News,pop,80s,19910720,80,21,13,19910803
 51,71,Shiny Happy People,R.E.M.,R.E.M.,rock,rock,19910727,71,10,15,19910803
 52,54,Can You Stop The Rain,Peabo Bryson,Peabo Bryson,rnb / soul,soul,19910622,100,52,15,19910803
@@ -2219,7 +2219,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 18,10,Here I Am (Come And Take Me),Ub40,Ub40,reggae,reggae,19910323,97,7,25,19910727
 19,24,I Can't Wait Another Minute,Hi-Five,Hi-Five,rnb / soul,rnb,19910622,77,8,21,19910727
 20,25,Love And Understanding,Cher,Cher,pop,pop,19910615,60,17,15,19910727
-21,29,3am Eternal,Klf,Klf,pop,electronic,19910622,94,5,19,19910727
+21,29,3am Eternal,Klf,Klf,electronic,electronic,19910622,94,5,19,19910727
 22,34,Crazy,Seal,Seal,rnb / soul,soul,19910622,83,7,19,19910727
 23,30,Motownphilly,Boyz Ii Men,Boyz Ii Men,rnb / soul,rnb,19910615,63,3,24,19910727
 24,31,Nights Like This,After 7,After 7,rnb / soul,rnb,19910525,78,24,15,19910727
@@ -2240,7 +2240,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 39,22,Walking In Memphis,Marc Cohn,Marc Cohn,country / folk,singer-songwriter,19910330,87,13,23,19910727
 40,45,Only Time Will Tell,Nelson,Nelson,rock,hard rock,19910622,90,28,14,19910727
 41,48,Let The Beat Hit 'Em,Lisa Lisa And Cult Jam,Lisa Lisa And Cult Jam,pop,80s,19910622,98,37,16,19910727
-42,39,Elevate My Mind,Stereo Mcs,Stereo Mcs,pop,electronic,19910601,88,39,13,19910727
+42,39,Elevate My Mind,Stereo Mcs,Stereo Mcs,electronic,electronic,19910601,88,39,13,19910727
 43,28,A Better Love,Londonbeat,Londonbeat,electronic,dance,19910511,86,18,15,19910727
 44,47,Can't Forget You,Gloria Estefan,Gloria Estefan,pop,latin,19910608,90,43,13,19910727
 45,51,Love Of A Lifetime,Firehouse,Firehouse,rock,hard rock,19910629,81,5,22,19910727
@@ -2327,7 +2327,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 26,29,Do You Want Me,Salt-N-Pepa,Salt-N-Pepa,hip-hop,hip-hop,19910323,91,21,26,19910720
 27,16,How Can I Ease The Pain,Lisa Fischer,Lisa Fischer,rnb / soul,soul,19910413,98,11,20,19910720
 28,20,A Better Love,Londonbeat,Londonbeat,electronic,dance,19910511,86,18,15,19910720
-29,36,3am Eternal,Klf,Klf,pop,electronic,19910622,94,5,19,19910720
+29,36,3am Eternal,Klf,Klf,electronic,electronic,19910622,94,5,19,19910720
 30,34,Motownphilly,Boyz Ii Men,Boyz Ii Men,rnb / soul,rnb,19910615,63,3,24,19910720
 31,32,Nights Like This,After 7,After 7,rnb / soul,rnb,19910525,78,24,15,19910720
 32,21,Losing My Religion,R.E.M.,R.E.M.,rock,rock,19910406,73,4,21,19910720
@@ -2337,7 +2337,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 36,45,Hard To Handle,Black Crowes,Black Crowes,rock,rock,19910622,84,26,14,19910720
 37,64,You Could Be Mine,Guns N'Roses,Guns N'Roses,rock,hard rock,19910713,64,29,15,19910720
 38,47,Now That We've Found Love,Heavy D And The Boyz,Heavy D And The Boyz,hip-hop,hip-hop,19910629,93,11,22,19910720
-39,41,Elevate My Mind,Stereo Mcs,Stereo Mcs,pop,electronic,19910601,88,39,13,19910720
+39,41,Elevate My Mind,Stereo Mcs,Stereo Mcs,electronic,electronic,19910601,88,39,13,19910720
 40,NEW,The Promise Of A New Day,Paula Abdul,Paula Abdul,pop,pop,19910720,40,1,16,19910720
 41,50,The Motown Song,Rod Stewart,Rod Stewart,rock,classic rock,19910706,73,10,17,19910720
 42,59,Time Love And Tenderness,Michael Bolton,Michael Bolton,pop,pop,19910713,59,7,18,19910720
@@ -2434,12 +2434,12 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 33,43,I Can't Wait Another Minute,Hi-Five,Hi-Five,rnb / soul,rnb,19910622,77,8,21,19910713
 34,39,Motownphilly,Boyz Ii Men,Boyz Ii Men,rnb / soul,rnb,19910615,63,3,24,19910713
 35,29,I Don't Wanna Cry,Mariah Carey,Mariah Carey,pop,pop,19910406,50,1,19,19910713
-36,46,3am Eternal,Klf,Klf,pop,electronic,19910622,94,5,19,19910713
+36,46,3am Eternal,Klf,Klf,electronic,electronic,19910622,94,5,19,19910713
 37,36,You Can't Play With My Yo-Yo,Yo-Yo Featuring Ice Cube,Yo-Yo,hip-hop,rap,19910525,87,36,12,19910713
 38,50,Crazy,Seal,Seal,rnb / soul,soul,19910622,83,7,19,19910713
 39,27,Love Is A Wonderful Thing,Michael Bolton,Michael Bolton,pop,pop,19910420,36,4,17,19910713
 40,41,Kissing You,Keith Washington,Keith Washington,rnb / soul,rnb,19910525,88,40,13,19910713
-41,44,Elevate My Mind,Stereo Mcs,Stereo Mcs,pop,electronic,19910601,88,39,13,19910713
+41,44,Elevate My Mind,Stereo Mcs,Stereo Mcs,electronic,electronic,19910601,88,39,13,19910713
 42,45,My Body Says Yes,Titiyo,Titiyo,pop,pop,19910608,85,42,11,19910713
 43,42,Exclusivity,Damian Dame,Damian Dame,rnb / soul,new jack swing,19910518,97,42,12,19910713
 44,34,I Like The Way,Hi-Five,Hi-Five,rnb / soul,rnb,19910223,90,1,23,19910713
@@ -2542,9 +2542,9 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 41,41,Kissing You,Keith Washington,Keith Washington,rnb / soul,rnb,19910525,88,40,13,19910706
 42,42,Exclusivity,Damian Dame,Damian Dame,rnb / soul,new jack swing,19910518,97,42,12,19910706
 43,58,I Can't Wait Another Minute,Hi-Five,Hi-Five,rnb / soul,rnb,19910622,77,8,21,19910706
-44,50,Elevate My Mind,Stereo Mcs,Stereo Mcs,pop,electronic,19910601,88,39,13,19910706
+44,50,Elevate My Mind,Stereo Mcs,Stereo Mcs,electronic,electronic,19910601,88,39,13,19910706
 45,54,My Body Says Yes,Titiyo,Titiyo,pop,pop,19910608,85,42,11,19910706
-46,71,3am Eternal,Klf,Klf,pop,electronic,19910622,94,5,19,19910706
+46,71,3am Eternal,Klf,Klf,electronic,electronic,19910622,94,5,19,19910706
 47,55,Higher Than Hope,Daryl Braithwaite,Daryl Braithwaite,pop,80s,19910601,78,47,10,19910706
 48,56,Can't Forget You,Gloria Estefan,Gloria Estefan,pop,latin,19910608,90,43,13,19910706
 49,40,See The Lights,Simple Minds,Simple Minds,rock,new wave,19910518,82,40,10,19910706
@@ -2648,7 +2648,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 47,58,Nights Like This,After 7,After 7,rnb / soul,rnb,19910525,78,24,15,19910629
 48,33,Touch Me,Cathy Dennis,Cathy Dennis,pop,pop,19910302,78,2,20,19910629
 49,30,Rhythm Of My Heart,Rod Stewart,Rod Stewart,rock,classic rock,19910316,53,5,18,19910629
-50,60,Elevate My Mind,Stereo Mcs,Stereo Mcs,pop,electronic,19910601,88,39,13,19910629
+50,60,Elevate My Mind,Stereo Mcs,Stereo Mcs,electronic,electronic,19910601,88,39,13,19910629
 51,31,Baby Baby,Amy Grant,Amy Grant,pop,pop,19910223,75,1,21,19910629
 52,34,Silent Lucidity,Queensryche,Queensryche,rock,progressive metal,19910323,67,9,17,19910629
 53,NEW,(Everything I Do) I Do It For You,Bryan Adams,Bryan Adams,rock,rock,19910629,53,1,22,19910629
@@ -2669,7 +2669,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 68,90,Only Time Will Tell,Nelson,Nelson,rock,hard rock,19910622,90,28,14,19910629
 69,84,Hard To Handle,Black Crowes,Black Crowes,rock,rock,19910622,84,26,14,19910629
 70,46,I Touch Myself,Divinyls,Divinyls,rock,new wave,19910309,78,4,18,19910629
-71,94,3am Eternal,Klf,Klf,pop,electronic,19910622,94,5,19,19910629
+71,94,3am Eternal,Klf,Klf,electronic,electronic,19910622,94,5,19,19910629
 72,93,Love On A Rooftop,Desmond Child,Desmond Child,rock,rock,19910622,93,40,12,19910629
 73,70,Going Through The Motions,Aftershock,Aftershock,rock,metalcore,19910330,94,52,16,19910629
 74,67,Kisses In The Night,Brandon,Brandon,pop,seen live,19910511,88,64,10,19910629
@@ -2758,7 +2758,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 57,54,This Time Make It Funky,Tracie Spencer,Tracie Spencer,rnb / soul,rnb,19910518,89,54,7,19910622
 58,67,Nights Like This,After 7,After 7,rnb / soul,rnb,19910525,78,24,15,19910622
 59,61,Higher Than Hope,Daryl Braithwaite,Daryl Braithwaite,pop,80s,19910601,78,47,10,19910622
-60,66,Elevate My Mind,Stereo Mcs,Stereo Mcs,pop,electronic,19910601,88,39,13,19910622
+60,66,Elevate My Mind,Stereo Mcs,Stereo Mcs,electronic,electronic,19910601,88,39,13,19910622
 61,55,Part Of Me Part Of You,Glenn Frey,Glenn Frey,pop,80s,19910511,83,55,13,19910622
 62,73,Can't Forget You,Gloria Estefan,Gloria Estefan,pop,latin,19910608,90,43,13,19910622
 63,76,My Body Says Yes,Titiyo,Titiyo,pop,pop,19910608,85,42,11,19910622
@@ -2792,7 +2792,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 91,69,Come Again,Damn Yankees,Damn Yankees,rock,hard rock,19910420,81,50,10,19910622
 92,81,Round And Round,Tevin Campbell,Tevin Campbell,rnb / soul,rnb,19901208,78,12,29,19910622
 93,NEW,Love On A Rooftop,Desmond Child,Desmond Child,rock,rock,19910622,93,40,12,19910622
-94,NEW,3am Eternal,Klf,Klf,pop,electronic,19910622,94,5,19,19910622
+94,NEW,3am Eternal,Klf,Klf,electronic,electronic,19910622,94,5,19,19910622
 95,NEW,Break Up To Make Up,Cynthia,Cynthia,pop,freestyle,19910622,95,70,8,19910622
 96,77,Save Some Love,Keedy,Keedy,pop,pop,19910316,91,15,15,19910622
 97,97,Let's Get Rough,Troy Newman,Troy Newman,country / folk,singer-songwriter,19910615,97,92,4,19910622
@@ -2864,13 +2864,13 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 63,NEW,Motownphilly,Boyz Ii Men,Boyz Ii Men,rnb / soul,rnb,19910615,63,3,24,19910615
 64,65,Kisses In The Night,Brandon,Brandon,pop,seen live,19910511,88,64,10,19910615
 65,47,More Than Ever,Nelson,Nelson,rock,hard rock,19910309,81,14,17,19910615
-66,77,Elevate My Mind,Stereo Mcs,Stereo Mcs,pop,electronic,19910601,88,39,13,19910615
+66,77,Elevate My Mind,Stereo Mcs,Stereo Mcs,electronic,electronic,19910601,88,39,13,19910615
 67,73,Nights Like This,After 7,After 7,rnb / soul,rnb,19910525,78,24,15,19910615
 68,79,Wind Of Change,Scorpions,Scorpions,rock,hard rock,19910601,91,4,25,19910615
 69,57,Come Again,Damn Yankees,Damn Yankees,rock,hard rock,19910420,81,50,10,19910615
 70,58,It's A Shame,Monie Love,Monie Love,hip-hop,hip-hop,19910316,81,26,16,19910615
 71,42,My Heart Is Failing Me,Riff,Riff,rock,hard rock,19910323,83,25,14,19910615
-72,45,People Are Still Having Sex,Latour,Latour,pop,electronic,19910406,92,35,11,19910615
+72,45,People Are Still Having Sex,Latour,Latour,electronic,electronic,19910406,92,35,11,19910615
 73,90,Can't Forget You,Gloria Estefan,Gloria Estefan,pop,latin,19910608,90,43,13,19910615
 74,81,Ooh La La,David Hallyday,David Hallyday,rock,rock,19910525,92,51,10,19910615
 75,75,Can I Call You My Girl,Pc Quest,Pc Quest,pop,pop,19910504,96,58,15,19910615
@@ -2943,7 +2943,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 42,28,My Heart Is Failing Me,Riff,Riff,rock,hard rock,19910323,83,25,14,19910608
 43,49,Does Anybody Really Fall In Love Anymore?,Kane Roberts,Kane Roberts,rock,hard rock,19910427,95,38,13,19910608
 44,47,Dream Lover,The Rebel Pebbles,The Rebel Pebbles,pop,girl groups,19910420,94,42,10,19910608
-45,43,People Are Still Having Sex,Latour,Latour,pop,electronic,19910406,92,35,11,19910608
+45,43,People Are Still Having Sex,Latour,Latour,electronic,electronic,19910406,92,35,11,19910608
 46,41,Cry For Help,Rick Astley,Rick Astley,pop,pop,19910216,86,7,20,19910608
 47,36,More Than Ever,Nelson,Nelson,rock,hard rock,19910309,81,14,17,19910608
 48,38,She Talks To Angels,Black Crowes,Black Crowes,rock,rock,19910316,92,30,16,19910608
@@ -2975,7 +2975,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 74,78,Higher Than Hope,Daryl Braithwaite,Daryl Braithwaite,pop,80s,19910601,78,47,10,19910608
 75,77,Can I Call You My Girl,Pc Quest,Pc Quest,pop,pop,19910504,96,58,15,19910608
 76,83,Where The Streets Have No Name,Pet Shop Boys,Pet Shop Boys,pop,synthpop,19910525,90,72,7,19910608
-77,88,Elevate My Mind,Stereo Mcs,Stereo Mcs,pop,electronic,19910601,88,39,13,19910608
+77,88,Elevate My Mind,Stereo Mcs,Stereo Mcs,electronic,electronic,19910601,88,39,13,19910608
 78,75,Feel The Groove,Cartouche,Cartouche,electronic,eurodance,19910413,97,66,10,19910608
 79,91,Wind Of Change,Scorpions,Scorpions,rock,hard rock,19910601,91,4,25,19910608
 80,62,Iesha,Another Bad Creation,Another Bad Creation,hip-hop,hip-hop,19910112,78,9,23,19910608
@@ -3041,7 +3041,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 40,46,Never Gonna Let You Down,Surface,Surface,pop,japanese,19910427,88,17,17,19910601
 41,30,Cry For Help,Rick Astley,Rick Astley,pop,pop,19910216,86,7,20,19910601
 42,47,Place In The World,Michael W. Smith,Michael W. Smith,pop,christian,19910504,84,6,21,19910601
-43,35,People Are Still Having Sex,Latour,Latour,pop,electronic,19910406,92,35,11,19910601
+43,35,People Are Still Having Sex,Latour,Latour,electronic,electronic,19910406,92,35,11,19910601
 44,22,Save Some Love,Keedy,Keedy,pop,pop,19910316,91,15,15,19910601
 45,52,A Better Love,Londonbeat,Londonbeat,electronic,dance,19910511,86,18,15,19910601
 46,34,It's A Shame,Monie Love,Monie Love,hip-hop,hip-hop,19910316,81,26,16,19910601
@@ -3086,7 +3086,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 85,92,Ooh La La,David Hallyday,David Hallyday,rock,rock,19910525,92,51,10,19910601
 86,69,One More Try,Timmy T,Timmy T,pop,90s,19901222,92,1,25,19910601
 87,79,Together Forever,Lisette Melendez,Lisette Melendez,pop,freestyle,19910202,92,35,24,19910601
-88,NEW,Elevate My Mind,Stereo Mcs,Stereo Mcs,pop,electronic,19910601,88,39,13,19910601
+88,NEW,Elevate My Mind,Stereo Mcs,Stereo Mcs,electronic,electronic,19910601,88,39,13,19910601
 89,NEW,Love Desire,Sandee,Sandee,pop,swiss,19910601,89,49,11,19910601
 90,NEW,Lift Me Up,Yes,Yes,rock,progressive rock,19910601,90,86,5,19910601
 91,NEW,Wind Of Change,Scorpions,Scorpions,rock,hard rock,19910601,91,4,25,19910601
@@ -3133,7 +3133,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 32,39,Here I Am (Come And Take Me),Ub40,Ub40,reggae,reggae,19910323,97,7,25,19910525
 33,35,Do You Want Me,Salt-N-Pepa,Salt-N-Pepa,hip-hop,hip-hop,19910323,91,21,26,19910525
 34,29,It's A Shame,Monie Love,Monie Love,hip-hop,hip-hop,19910316,81,26,16,19910525
-35,36,People Are Still Having Sex,Latour,Latour,pop,electronic,19910406,92,35,11,19910525
+35,36,People Are Still Having Sex,Latour,Latour,electronic,electronic,19910406,92,35,11,19910525
 36,40,Love At First Sight,Styx,Styx,rock,classic rock,19910406,91,25,16,19910525
 37,44,Right Here Right Now,Jesus Jones,Jesus Jones,rock,alternative,19910413,94,2,25,19910525
 38,42,Walking In Memphis,Marc Cohn,Marc Cohn,country / folk,singer-songwriter,19910330,87,13,23,19910525
@@ -3234,7 +3234,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 33,39,Mama Said Knock You Out,Ll Cool J,Ll Cool J,hip-hop,hip-hop,19910413,74,17,16,19910518
 34,22,Hold You Tight,Tara Kemp,Tara Kemp,pop,90s,19910119,84,3,22,19910518
 35,40,Do You Want Me,Salt-N-Pepa,Salt-N-Pepa,hip-hop,hip-hop,19910323,91,21,26,19910518
-36,38,People Are Still Having Sex,Latour,Latour,pop,electronic,19910406,92,35,11,19910518
+36,38,People Are Still Having Sex,Latour,Latour,electronic,electronic,19910406,92,35,11,19910518
 37,35,How Much Is Enough,Fixx,Fixx,rock,new wave,19910330,70,35,11,19910518
 38,44,Playground,Another Bad Creation,Another Bad Creation,hip-hop,hip-hop,19910427,66,10,17,19910518
 39,41,Here I Am (Come And Take Me),Ub40,Ub40,reggae,reggae,19910323,97,7,25,19910518
@@ -3336,7 +3336,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 35,39,How Much Is Enough,Fixx,Fixx,rock,new wave,19910330,70,35,11,19910511
 36,NEW,Rush Rush,Paula Abdul,Paula Abdul,pop,pop,19910511,36,1,19,19910511
 37,22,Just The Way It Is Baby,Rembrandts,Rembrandts,rock,rock,19910209,89,14,19,19910511
-38,40,People Are Still Having Sex,Latour,Latour,pop,electronic,19910406,92,35,11,19910511
+38,40,People Are Still Having Sex,Latour,Latour,electronic,electronic,19910406,92,35,11,19910511
 39,46,Mama Said Knock You Out,Ll Cool J,Ll Cool J,hip-hop,hip-hop,19910413,74,17,16,19910511
 40,45,Do You Want Me,Salt-N-Pepa,Salt-N-Pepa,hip-hop,hip-hop,19910323,91,21,26,19910511
 41,44,Here I Am (Come And Take Me),Ub40,Ub40,reggae,reggae,19910323,97,7,25,19910511
@@ -3438,7 +3438,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 37,40,Strike It Up,Black Box,Black Box,electronic,dance,19910406,87,8,18,19910504
 38,28,Coming Out Of The Dark,Gloria Estefan,Gloria Estefan,pop,latin,19910126,55,1,19,19910504
 39,41,How Much Is Enough,Fixx,Fixx,rock,new wave,19910330,70,35,11,19910504
-40,47,People Are Still Having Sex,Latour,Latour,pop,electronic,19910406,92,35,11,19910504
+40,47,People Are Still Having Sex,Latour,Latour,electronic,electronic,19910406,92,35,11,19910504
 41,56,Couple Days Off,Huey Lewis And The News,Huey Lewis And The News,pop,80s,19910427,56,11,13,19910504
 42,63,Power Of Love / Love Power,Luther Vandross,Luther Vandross,rnb / soul,soul,19910427,63,4,18,19910504
 43,54,Unbelievable,Emf,Emf,pop,90s,19910413,87,1,23,19910504
@@ -3545,7 +3545,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 44,54,Heartbreak Station,Cinderella,Cinderella,rock,hard rock,19910316,99,44,11,19910427
 45,31,How To Dance,Bingo Boys Featuring Princessa,Bingo Boys,pop,pop,19910216,85,25,14,19910427
 46,63,Here I Am (Come And Take Me),Ub40,Ub40,reggae,reggae,19910323,97,7,25,19910427
-47,65,People Are Still Having Sex,Latour,Latour,pop,electronic,19910406,92,35,11,19910427
+47,65,People Are Still Having Sex,Latour,Latour,electronic,electronic,19910406,92,35,11,19910427
 48,59,Bitter Tears,Inxs,Inxs,rock,rock,19910406,80,46,10,19910427
 49,67,Mama Said Knock You Out,Ll Cool J,Ll Cool J,hip-hop,hip-hop,19910413,74,17,16,19910427
 50,44,Something In My Heart,Michel'Le,Michel'Le,rnb / soul,rnb,19910112,92,31,22,19910427
@@ -3663,7 +3663,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 62,70,Any Other Way,Celine Dion,Celine Dion,pop,pop,19910406,84,35,12,19910420
 63,66,Here I Am (Come And Take Me),Ub40,Ub40,reggae,reggae,19910323,97,7,25,19910420
 64,72,Love At First Sight,Styx,Styx,rock,classic rock,19910406,91,25,16,19910420
-65,76,People Are Still Having Sex,Latour,Latour,pop,electronic,19910406,92,35,11,19910420
+65,76,People Are Still Having Sex,Latour,Latour,electronic,electronic,19910406,92,35,11,19910420
 66,68,Step On,Happy Mondays,Happy Mondays,pop,madchester,19910316,95,57,10,19910420
 67,74,Mama Said Knock You Out,Ll Cool J,Ll Cool J,hip-hop,hip-hop,19910413,74,17,16,19910420
 68,51,I'll Do 4 You,Father Mc,Father Mc,hip-hop,hip-hop,19910112,87,20,17,19910420
@@ -3774,7 +3774,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 73,74,I'll Never Let You Go,Steelheart,Steelheart,rock,hard rock,19910316,77,23,27,19910413
 74,NEW,Mama Said Knock You Out,Ll Cool J,Ll Cool J,hip-hop,hip-hop,19910413,74,17,16,19910413
 75,78,Crazy,Daisy Dee,Daisy Dee,electronic,eurodance,19910330,83,73,11,19910413
-76,92,People Are Still Having Sex,Latour,Latour,pop,electronic,19910406,92,35,11,19910413
+76,92,People Are Still Having Sex,Latour,Latour,electronic,electronic,19910406,92,35,11,19910413
 77,82,Walking In Memphis,Marc Cohn,Marc Cohn,country / folk,singer-songwriter,19910330,87,13,23,19910413
 78,83,Word Of Mouth,Mike And The Mechanics,Mike And The Mechanics,pop,80s,19910406,83,78,6,19910413
 79,75,One In A Million,Trixter,Trixter,rock,hard rock,19910316,97,75,8,19910413
@@ -3890,7 +3890,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 89,79,Love Will Never Do,Janet Jackson,Janet Jackson,pop,pop,19901117,89,1,22,19910406
 90,94,Going Through The Motions,Aftershock,Aftershock,rock,metalcore,19910330,94,52,16,19910406
 91,NEW,Love At First Sight,Styx,Styx,rock,classic rock,19910406,91,25,16,19910406
-92,NEW,People Are Still Having Sex,Latour,Latour,pop,electronic,19910406,92,35,11,19910406
+92,NEW,People Are Still Having Sex,Latour,Latour,electronic,electronic,19910406,92,35,11,19910406
 93,74,Chasin' The Wind,Chicago,Chicago,rock,classic rock,19910126,82,39,11,19910406
 94,68,High Enough,Damn Yankees,Damn Yankees,rock,hard rock,19900922,89,3,29,19910406
 95,82,Love Makes Things Happen,Pebbles,Pebbles,pop,80s,19901201,91,13,19,19910406
@@ -4892,7 +4892,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 91,77,Ice Ice Baby,Vanilla Ice,Vanilla Ice,hip-hop,rap,19900908,72,1,21,19910126
 92,NEW,Night And Day,Bette Midler,Bette Midler,pop,female vocalists,19910126,92,62,7,19910126
 93,93,Use It Up And Wear It Out,Pat & Mick,Pat & Mick,pop,80s,19901215,86,81,7,19910126
-94,83,World In My Eyes,Depeche Mode,Depeche Mode,pop,electronic,19901124,71,52,10,19910126
+94,83,World In My Eyes,Depeche Mode,Depeche Mode,electronic,electronic,19901124,71,52,10,19910126
 95,96,Jealousy,Adventures Of Stevie V,Adventures Of Stevie V,electronic,dance,19910119,96,94,6,19910126
 96,75,Give It To Me Good,Trixter,Trixter,rock,hard rock,19901201,95,65,9,19910126
 97,99,Close To Me,Cure,Cure,pop,post-punk,19910119,99,97,3,19910126
@@ -4981,7 +4981,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 80,70,House Full Of Reasons,Jude Cole,Jude Cole,country / folk,singer-songwriter,19901201,82,69,15,19910119
 81,52,Pray,M.C. Hammer,M.C. Hammer,hip-hop,hip-hop,19900929,44,2,18,19910119
 82,96,Power Of Love,Deee-Lite,Deee-Lite,electronic,dance,19910105,96,47,10,19910119
-83,57,World In My Eyes,Depeche Mode,Depeche Mode,pop,electronic,19901124,71,52,10,19910119
+83,57,World In My Eyes,Depeche Mode,Depeche Mode,electronic,electronic,19901124,71,52,10,19910119
 84,NEW,Hold You Tight,Tara Kemp,Tara Kemp,pop,90s,19910119,84,3,22,19910119
 85,68,Knockin' Boots,Candyman,Candyman,hip-hop,hip-hop,19900901,91,9,23,19910119
 86,74,Go For It,Joey B Ellis & Tynetta Hare,Joey B Ellis,hip-hop,rap,19901208,92,66,8,19910119
@@ -5055,7 +5055,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 54,54,New York Minute,Don Henley,Don Henley,rock,classic rock,19901110,82,48,16,19910112
 55,52,Ice Ice Baby,Vanilla Ice,Vanilla Ice,hip-hop,rap,19900908,72,1,21,19910112
 56,58,No Matter What,George Lamont,George Lamont,pop,unknown,19901201,86,49,16,19910112
-57,56,World In My Eyes,Depeche Mode,Depeche Mode,pop,electronic,19901124,71,52,10,19910112
+57,56,World In My Eyes,Depeche Mode,Depeche Mode,electronic,electronic,19901124,71,52,10,19910112
 58,60,Shelter Me,Cinderella,Cinderella,rock,hard rock,19901208,89,36,13,19910112
 59,59,So Close,Daryl Hall & John Oates,Daryl Hall & John Oates,pop,80s,19900929,69,11,19,19910112
 60,61,My Love Is A Fire,Donny Osmond,Donny Osmond,pop,pop,19901013,80,21,16,19910112
@@ -5154,7 +5154,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 53,68,I Don't Know Anybody Else,Black Box,Black Box,electronic,dance,19901208,86,23,14,19910105
 54,48,New York Minute,Don Henley,Don Henley,rock,classic rock,19901110,82,48,16,19910105
 55,60,Money Talks,Ac/Dc,Ac/Dc,rock,hard rock,19901208,76,23,16,19910105
-56,52,World In My Eyes,Depeche Mode,Depeche Mode,pop,electronic,19901124,71,52,10,19910105
+56,52,World In My Eyes,Depeche Mode,Depeche Mode,electronic,electronic,19901124,71,52,10,19910105
 57,38,Knockin' Boots,Candyman,Candyman,hip-hop,hip-hop,19900901,91,9,23,19910105
 58,58,No Matter What,George Lamont,George Lamont,pop,unknown,19901201,86,49,16,19910105
 59,42,So Close,Daryl Hall & John Oates,Daryl Hall & John Oates,pop,80s,19900929,69,11,19,19910105

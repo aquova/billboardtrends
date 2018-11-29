@@ -778,7 +778,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 77,92,Better Days,Goo Goo Dolls,Goo Goo Dolls,rock,rock,20051008,57,36,20,20051112
 78,60,Somebody's Hero,Jamie O'Neal,Jamie O'Neal,country / folk,country,20050730,99,51,17,20051112
 79,73,Hustler's Ambition,50 Cent,50 Cent,hip-hop,rap,20051105,73,65,5,20051112
-80,71,Precious,Depeche Mode,Depeche Mode,pop,electronic,20051029,99,71,3,20051112
+80,71,Precious,Depeche Mode,Depeche Mode,electronic,electronic,20051029,99,71,3,20051112
 81,90,I'm Feeling You,Santana Featuring Michelle Branch & The Wreckers,Santana,rock,rock,20051105,90,55,7,20051112
 82,NEW,Window Shopper,50 Cent,50 Cent,hip-hop,rap,20051112,82,20,11,20051112
 83,84,Presidential,Youngbloodz,Youngbloodz,hip-hop,rap,20051029,97,81,8,20051112
@@ -869,7 +869,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 68,69,Doesn't Remind Me,Audioslave,Audioslave,rock,rock,20050917,95,68,11,20051105
 69,78,Tequila Makes Her Clothes Fall Off,Joe Nichols,Joe Nichols,country / folk,country,20051015,96,32,19,20051105
 70,86,Must Be Doin' Somethin' Right,Billy Currington,Billy Currington,country / folk,country,20051022,100,39,20,20051105
-71,99,Precious,Depeche Mode,Depeche Mode,pop,electronic,20051029,99,71,3,20051105
+71,99,Precious,Depeche Mode,Depeche Mode,electronic,electronic,20051029,99,71,3,20051105
 72,75,Big Blue Note,Toby Keith,Toby Keith,country / folk,country,20051015,94,55,12,20051105
 73,NEW,Hustler's Ambition,50 Cent,50 Cent,hip-hop,rap,20051105,73,65,5,20051105
 74,NEW,Don't Bother,Shakira,Shakira,pop,pop,20051105,74,74,1,20051105
@@ -997,7 +997,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 96,NEW,And I,Ciara,Ciara,rnb / soul,rnb,20051029,96,96,1,20051029
 97,NEW,Presidential,Youngbloodz,Youngbloodz,hip-hop,rap,20051029,97,81,8,20051029
 98,71,All Jacked Up,Gretchen Wilson,Gretchen Wilson,country / folk,country,20050820,97,42,11,20051029
-99,NEW,Precious,Depeche Mode,Depeche Mode,pop,electronic,20051029,99,71,3,20051029
+99,NEW,Precious,Depeche Mode,Depeche Mode,electronic,electronic,20051029,99,71,3,20051029
 100,NEW,Hear 'Em Say,Kanye West Featuring Adam Levine,Kanye West,hip-hop,hip-hop,20051029,100,26,16,20051029
 1,1,Gold Digger,Kanye West Featuring Jamie Foxx,Kanye West,hip-hop,hip-hop,20050730,92,1,39,20051022
 2,3,Photograph,Nickelback,Nickelback,rock,rock,20050910,75,2,33,20051022
@@ -3583,7 +3583,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 82,81,"Sitting, Waiting, Wishing",Jack Johnson,Jack Johnson,pop,acoustic,20050305,87,66,14,20050430
 83,70,B.Y.O.B.,System Of A Down,System Of A Down,rock,metal,20050416,74,27,20,20050430
 84,96,You'll Be There,George Strait,George Strait,country / folk,country,20050423,96,54,17,20050430
-85,NEW,Hello Tomorrow,Squeak E. Clean,Squeak E. Clean,pop,electronic,20050430,85,85,1,20050430
+85,NEW,Hello Tomorrow,Squeak E. Clean,Squeak E. Clean,electronic,electronic,20050430,85,85,1,20050430
 86,NEW,MVP,Mary J. Blige,Mary J. Blige,rnb / soul,rnb,20050430,86,75,8,20050430
 87,88,God's Will,Martina Mcbride,Martina Mcbride,country / folk,country,20050312,96,85,8,20050430
 88,79,Baby Mama,Fantasia,Fantasia,rnb / soul,rnb,20050212,99,60,12,20050430
@@ -4320,7 +4320,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 19,27,Daughters,John Mayer,John Mayer,country / folk,singer-songwriter,20041106,68,19,23,20050305
 20,19,It's Like That,Mariah Carey,Mariah Carey,pop,pop,20050129,53,16,20,20050305
 21,23,She Will Be Loved,Maroon5,Maroon5,rock,rock,20040724,50,5,41,20050305
-22,NEW,Across The Universe,Various Artists,Various Artists,pop,electronic,20050305,22,22,1,20050305
+22,NEW,Across The Universe,Various Artists,Various Artists,electronic,electronic,20050305,22,22,1,20050305
 23,20,Over & Over,Nelly Feat. Tim Mcgraw,Nelly Feat. Tim Mcgraw,hip-hop,hip-hop,20041016,58,3,24,20050305
 24,26,Truth Is,Fantasia,Fantasia,rnb / soul,rnb,20050122,73,21,20,20050305
 25,24,Numb / Encore,Jay-Z / Linkin Park,Jay-Z / Linkin Park,hip-hop,hip-hop,20041127,86,20,20,20050305

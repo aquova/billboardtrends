@@ -3565,7 +3565,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 44,45,I Want To Be Free,Ohio Players,Ohio Players,rnb / soul,funk,19750412,77,44,7,19750517
 45,56,Good Lovin' Gone Bad,Bad Company,Bad Company,rock,classic rock,19750419,89,36,8,19750517
 46,28,Young Americans,David Bowie,David Bowie,rock,rock,19750315,84,28,11,19750517
-47,29,Autobahn,Kraftwerk,Kraftwerk,pop,electronic,19750315,87,25,10,19750517
+47,29,Autobahn,Kraftwerk,Kraftwerk,electronic,electronic,19750315,87,25,10,19750517
 48,59,Misty,Ray Stevens,Ray Stevens,country / folk,country,19750426,81,14,16,19750517
 49,22,L.O.V.E. (Love),Al Green,Al Green,rnb / soul,soul,19750301,69,13,12,19750517
 50,35,Lovin' You,Minnie Riperton,Minnie Riperton,rnb / soul,soul,19750111,107,1,19,19750517
@@ -3657,7 +3657,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 26,34,I'm Not Lisa,Jessi Colter,Jessi Colter,country / folk,country,19750405,88,4,17,19750510
 27,35,Don't Tell Me Goodnight,Lobo,Lobo,pop,70s,19750329,86,27,9,19750510
 28,29,Young Americans,David Bowie,David Bowie,rock,rock,19750315,84,28,11,19750510
-29,25,Autobahn,Kraftwerk,Kraftwerk,pop,electronic,19750315,87,25,10,19750510
+29,25,Autobahn,Kraftwerk,Kraftwerk,electronic,electronic,19750315,87,25,10,19750510
 30,36,Only Women Bleed,Alice Cooper,Alice Cooper,rock,hard rock,19750405,83,12,16,19750510
 31,37,Rainy Day People,Gordon Lightfoot,Gordon Lightfoot,country / folk,folk,19750329,84,26,11,19750510
 32,40,Wildfire,Michael Murphey,Michael Murphey,pop,classic,19750322,109,3,20,19750510
@@ -3763,7 +3763,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 22,9,What Am I Gonna Do With You,Barry White,Barry White,rnb / soul,soul,19750308,76,8,11,19750503
 23,25,Shoeshine Boy,Eddie Kendricks,Eddie Kendricks,rnb / soul,soul,19750215,97,18,18,19750503
 24,28,Bad Time,Grand Funk,Grand Funk,rock,classic rock,19750405,69,4,15,19750503
-25,26,Autobahn,Kraftwerk,Kraftwerk,pop,electronic,19750315,87,25,10,19750503
+25,26,Autobahn,Kraftwerk,Kraftwerk,electronic,electronic,19750315,87,25,10,19750503
 26,34,Hijack,Herbie Mann,Herbie Mann,jazz,jazz,19750322,108,14,12,19750503
 27,31,Love Won't Let Me Wait,Major Harris,Major Harris,rnb / soul,soul,19750315,107,5,20,19750503
 28,32,Sister Golden Hair,America,America,rock,classic rock,19750405,71,1,16,19750503
@@ -3874,7 +3874,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 23,11,Lady Marmalade,Labelle,Labelle,rnb / soul,soul,19741221,104,1,20,19750426
 24,4,No No Song / Snookeroo,Ringo Starr,Ringo Starr,rock,classic rock,19750208,78,3,14,19750426
 25,27,Shoeshine Boy,Eddie Kendricks,Eddie Kendricks,rnb / soul,soul,19750215,97,18,18,19750426
-26,29,Autobahn,Kraftwerk,Kraftwerk,pop,electronic,19750315,87,25,10,19750426
+26,29,Autobahn,Kraftwerk,Kraftwerk,electronic,electronic,19750315,87,25,10,19750426
 27,30,Aime,Pure Prairie League,Pure Prairie League,rock,country rock,19750222,109,27,14,19750426
 28,35,Bad Time,Grand Funk,Grand Funk,rock,classic rock,19750405,69,4,15,19750426
 29,34,Young Americans,David Bowie,David Bowie,rock,rock,19750315,84,28,11,19750426
@@ -3987,7 +3987,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 26,33,Thank God I'm A Country Boy,John Denver,John Denver,country / folk,country,19750322,82,1,19,19750419
 27,32,Shoeshine Boy,Eddie Kendricks,Eddie Kendricks,rnb / soul,soul,19750215,97,18,18,19750419
 28,34,Only Yesterday,Carpenters,Carpenters,pop,pop,19750329,74,4,13,19750419
-29,38,Autobahn,Kraftwerk,Kraftwerk,pop,electronic,19750315,87,25,10,19750419
+29,38,Autobahn,Kraftwerk,Kraftwerk,electronic,electronic,19750315,87,25,10,19750419
 30,36,Aime,Pure Prairie League,Pure Prairie League,rock,country rock,19750222,109,27,14,19750419
 31,19,Have You Never Been Mellow,Olivia Newton-John,Olivia Newton-John,pop,pop,19750125,63,1,16,19750419
 32,18,You Are So Beautiful,Joe Cocker,Joe Cocker,rock,classic rock,19741221,102,5,20,19750419
@@ -4106,7 +4106,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 35,24,Shame Shame Shame,Shirley & Co.,Shirley,pop,soundtrack,19750111,98,12,16,19750412
 36,44,Aime,Pure Prairie League,Pure Prairie League,rock,country rock,19750222,109,27,14,19750412
 37,37,Living A Little Laughing A Little,Spinners,Spinners,rnb / soul,soul,19750308,77,37,7,19750412
-38,46,Autobahn,Kraftwerk,Kraftwerk,pop,electronic,19750315,87,25,10,19750412
+38,46,Autobahn,Kraftwerk,Kraftwerk,electronic,electronic,19750315,87,25,10,19750412
 39,21,Don't Call Us We'll Call You,Sugarloaf,Sugarloaf,rock,classic rock,19741130,102,9,22,19750412
 40,40,Who's Sorry Now,Marie Osmond,Marie Osmond,country / folk,country,19750308,83,40,6,19750412
 41,51,Young Americans,David Bowie,David Bowie,rock,rock,19750315,84,28,11,19750412
@@ -4224,7 +4224,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 43,29,The South's Gonna Do It,Charlie Daniels Band,Charlie Daniels Band,country / folk,country,19750208,86,29,10,19750405
 44,54,Aime,Pure Prairie League,Pure Prairie League,rock,country rock,19750222,109,27,14,19750405
 45,55,Shaving Cream,Benny Bell,Benny Bell,rnb / soul,soul,19750308,95,30,11,19750405
-46,64,Autobahn,Kraftwerk,Kraftwerk,pop,electronic,19750315,87,25,10,19750405
+46,64,Autobahn,Kraftwerk,Kraftwerk,electronic,electronic,19750315,87,25,10,19750405
 47,74,Only Yesterday,Carpenters,Carpenters,pop,pop,19750329,74,4,13,19750405
 48,51,Love Finds Its Own Way,Gladys Knight And The Pips,Gladys Knight And The Pips,rnb / soul,soul,19750222,88,47,8,19750405
 49,41,Wolf Creek Pass,C.W. Mccall,C.W. Mccall,country / folk,country,19750201,83,40,11,19750405
@@ -4352,7 +4352,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 61,72,Young Americans,David Bowie,David Bowie,rock,rock,19750315,84,28,11,19750329
 62,62,Linda On My Mind,Conway Twitty,Conway Twitty,country / folk,country,19750222,96,61,8,19750329
 63,75,Beer Barrel Polka,Bobby Vinton,Bobby Vinton,pop,oldies,19750315,86,33,9,19750329
-64,74,Autobahn,Kraftwerk,Kraftwerk,pop,electronic,19750315,87,25,10,19750329
+64,74,Autobahn,Kraftwerk,Kraftwerk,electronic,electronic,19750315,87,25,10,19750329
 65,87,Sneaky Snake,Tom T. Hall,Tom T. Hall,country / folk,country,19750315,98,55,6,19750329
 66,41,Pick Up The Pieces,Average White Band,Average White Band,rnb / soul,funk,19741207,81,1,17,19750329
 67,43,Roll On Down The Highway,Bachman-Turner Overdrive,Bachman-Turner Overdrive,rock,classic rock,19750118,67,14,11,19750329
@@ -4472,7 +4472,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 71,34,Never Let Her Go,David Gates,David Gates,pop,sentimental,19750118,94,29,10,19750322
 72,84,Young Americans,David Bowie,David Bowie,rock,rock,19750315,84,28,11,19750322
 73,93,Shaving Cream,Benny Bell,Benny Bell,rnb / soul,soul,19750308,95,30,11,19750322
-74,87,Autobahn,Kraftwerk,Kraftwerk,pop,electronic,19750315,87,25,10,19750322
+74,87,Autobahn,Kraftwerk,Kraftwerk,electronic,electronic,19750315,87,25,10,19750322
 75,86,Beer Barrel Polka,Bobby Vinton,Bobby Vinton,pop,oldies,19750315,86,33,9,19750322
 76,83,Showdown,Odia Coates,Odia Coates,rnb / soul,soul,19750301,94,71,6,19750322
 77,42,I Get Lifted / I Can't Leave You Alone,George Mccrae,George Mccrae,disco,disco,19750125,90,37,9,19750322
@@ -4595,7 +4595,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 84,NEW,Young Americans,David Bowie,David Bowie,rock,rock,19750315,84,28,11,19750315
 85,87,I'll Be Holding On,Al Downing,Al Downing,rock,rockabilly,19750208,109,85,6,19750315
 86,NEW,Beer Barrel Polka,Bobby Vinton,Bobby Vinton,pop,oldies,19750315,86,33,9,19750315
-87,NEW,Autobahn,Kraftwerk,Kraftwerk,pop,electronic,19750315,87,25,10,19750315
+87,NEW,Autobahn,Kraftwerk,Kraftwerk,electronic,electronic,19750315,87,25,10,19750315
 88,75,I Fought The Law,Sam Neely,Sam Neely,pop,unknown,19750125,102,54,8,19750315
 89,96,Live Your Life Before You Die,Pointer Sisters,Pointer Sisters,disco,disco,19750308,96,89,5,19750315
 90,103,Runaway,Charlie Kulis,Charlie Kulis,pop,unknown,19750301,104,46,10,19750315

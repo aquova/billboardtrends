@@ -376,7 +376,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 75,NEW,Flashing Lights,Kanye West Featuring Dwele,Kanye West,hip-hop,hip-hop,20071208,75,29,20,20071208
 76,66,Online,Brad Paisley,Brad Paisley,country / folk,country,20070804,99,39,20,20071208
 77,81,Never Too Late,Three Days Grace,Three Days Grace,rock,alternative rock,20070908,100,71,17,20071208
-78,63,Music Is My Hot Hot Sex,Css,Css,pop,electronic,20071124,84,63,3,20071208
+78,63,Music Is My Hot Hot Sex,Css,Css,electronic,electronic,20071124,84,63,3,20071208
 79,75,Nothin' Better To Do,Leann Rimes,Leann Rimes,country / folk,country,20071013,97,73,13,20071208
 80,83,Watching Airplanes,Gary Allan,Gary Allan,country / folk,country,20071110,89,43,20,20071208
 81,77,Pictures Of You,The Last Goodnight,The Last Goodnight,rock,rock,20071027,95,70,18,20071208
@@ -461,7 +461,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 60,58,LoveStoned,Justin Timberlake,Justin Timberlake,pop,pop,20070721,85,17,20,20071201
 61,62,Take Me There,Rascal Flatts,Rascal Flatts,country / folk,country,20070811,84,19,20,20071201
 62,69,Girlfriend,Bow Wow & Omarion,Bow Wow & Omarion,rnb / soul,rnb,20071117,82,33,15,20071201
-63,84,Music Is My Hot Hot Sex,Css,Css,pop,electronic,20071124,84,63,3,20071201
+63,84,Music Is My Hot Hot Sex,Css,Css,electronic,electronic,20071124,84,63,3,20071201
 64,77,Roc Boys (And The Winner Is)...,Jay-Z,Jay-Z,hip-hop,hip-hop,20071117,90,63,7,20071201
 65,72,"Ready, Set, Don't Go",Billy Ray Cyrus With Miley Cyrus,Billy Ray Cyrus With Miley Cyrus,country / folk,country,20071027,96,37,20,20071201
 66,64,Online,Brad Paisley,Brad Paisley,country / folk,country,20070804,99,39,20,20071201
@@ -582,7 +582,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 81,75,Me Enamora,Juanes,Juanes,pop,latin,20071103,87,69,10,20071124
 82,89,Winner At A Losing Game,Rascal Flatts,Rascal Flatts,country / folk,country,20071110,94,52,20,20071124
 83,86,"1, 2, 3, 4",Feist,Feist,pop,female vocalists,20070929,61,8,11,20071124
-84,NEW,Music Is My Hot Hot Sex,Css,Css,pop,electronic,20071124,84,63,3,20071124
+84,NEW,Music Is My Hot Hot Sex,Css,Css,electronic,electronic,20071124,84,63,3,20071124
 85,69,Do It Well,Jennifer Lopez,Jennifer Lopez,pop,pop,20071006,53,31,10,20071124
 86,78,The Hand Clap,Hurricane Chris Featuring Big Poppa,Hurricane Chris,hip-hop,rap,20071103,96,72,6,20071124
 87,87,Watching Airplanes,Gary Allan,Gary Allan,country / folk,country,20071110,89,43,20,20071124
@@ -3582,7 +3582,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 81,89,Like This,Kelly Rowland Featuring Eve,Kelly Rowland,rnb / soul,rnb,20070414,98,30,19,20070428
 82,82,Moments,Emerson Drive,Emerson Drive,country / folk,country,20070407,97,56,20,20070428
 83,74,Stupid Boy,Keith Urban,Keith Urban,country / folk,country,20061223,95,43,20,20070428
-84,NEW,Earth Intruders,Bjork,Bjork,pop,electronic,20070428,84,84,1,20070428
+84,NEW,Earth Intruders,Bjork,Bjork,electronic,electronic,20070428,84,84,1,20070428
 85,76,Upgrade U,Beyonce Featuring Jay-Z,Beyonce,rnb / soul,rnb,20070414,80,76,5,20070428
 86,NEW,Que Hiciste,Jennifer Lopez,Jennifer Lopez,pop,pop,20070428,86,86,1,20070428
 87,77,I'll Wait For You,Joe Nichols,Joe Nichols,country / folk,country,20070217,98,71,12,20070428

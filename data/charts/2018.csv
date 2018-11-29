@@ -43,7 +43,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 42,45,I'm A Mess,Bebe Rexha,Bebe Rexha,pop,pop,20180728,92,36,13,20181020
 43,NEW,Venom,Eminem,Eminem,hip-hop,rap,20181020,43,43,1,20181020
 44,43,No Tears Left To Cry,Ariana Grande,Ariana Grande,pop,pop,20180505,3,3,25,20181020
-45,46,The Middle,"Zedd, Maren Morris & Grey",Zedd,pop,electronic,20180210,23,5,37,20181020
+45,46,The Middle,"Zedd, Maren Morris & Grey",Zedd,electronic,electronic,20180210,23,5,37,20181020
 46,51,Wake Up In The Sky,Gucci Mane & Bruno Mars & Kodak Black,Gucci Mane,hip-hop,hip-hop,20180929,30,30,4,20181020
 47,52,Beautiful,Bazzi Featuring Camila Cabello,Bazzi,rnb / soul,rnb,20180818,60,42,10,20181020
 48,53,Simple,Florida Georgia Line,Florida Georgia Line,country / folk,country,20180616,55,32,19,20181020
@@ -77,23 +77,23 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 76,87,Better,Khalid,Khalid,pop,pop,20180929,45,45,4,20181020
 77,67,Africa,Weezer,Weezer,rock,rock,20180804,86,51,12,20181020
 78,14,Dedicate,Lil Wayne,Lil Wayne,hip-hop,rap,20181013,14,14,2,20181020
-79,NEW,Jumpsuit,Twenty One Pilots,Twenty One Pilots,pop,electronic,20181020,79,79,1,20181020
+79,NEW,Jumpsuit,Twenty One Pilots,Twenty One Pilots,electronic,electronic,20181020,79,79,1,20181020
 80,NEW,Belly,Lil Baby & Gunna,Lil Baby,hip-hop,hip-hop,20181020,80,80,1,20181020
-81,NEW,My Blood,Twenty One Pilots,Twenty One Pilots,pop,electronic,20181020,81,81,1,20181020
+81,NEW,My Blood,Twenty One Pilots,Twenty One Pilots,electronic,electronic,20181020,81,81,1,20181020
 82,99,Lost In Japan,Shawn Mendes X Zedd,Shawn Mendes,pop,pop,20181013,99,82,2,20181020
-83,85,Promises,Calvin Harris & Sam Smith,Calvin Harris,pop,electronic,20180901,65,65,8,20181020
+83,85,Promises,Calvin Harris & Sam Smith,Calvin Harris,electronic,electronic,20180901,65,65,8,20181020
 84,77,The Way I Am,Charlie Puth,Charlie Puth,pop,pop,20180908,87,61,7,20181020
 85,94,No Stylist,French Montana Featuring Drake,French Montana,hip-hop,hip-hop,20181006,47,47,3,20181020
 86,89,Medicine,Queen Naija,Queen Naija,hip-hop,hip-hop,20180630,100,54,17,20181020
 87,95,Best Shot,Jimmie Allen,Jimmie Allen,pop,under 2000 listeners,20180929,97,86,4,20181020
 88,91,W O R K I N M E,Quavo,Quavo,hip-hop,rap,20180825,72,52,9,20181020
 89,96,Hangin' On,Chris Young,Chris Young,country / folk,country,20180915,97,85,6,20181020
-90,88,That's On Me,Yella Beezy,Yella Beezy,pop,trap rap,20180811,92,69,11,20181020
+90,88,That's On Me,Yella Beezy,Yella Beezy,hip-hop,hip-hop,20180811,92,69,11,20181020
 91,17,Can't Be Broken,Lil Wayne,Lil Wayne,hip-hop,rap,20181013,17,17,2,20181020
 92,92,Best Part,Daniel Caesar Featuring H.E.R.,Daniel Caesar,rnb / soul,rnb,20180804,81,75,12,20181020
 93,NEW,Maybe It's Time,Bradley Cooper,Bradley Cooper,rock,rock,20181020,93,93,1,20181020
 94,98,Leave Me Alone,Flipp Dinero,Flipp Dinero,hip-hop,trap,20180929,96,81,4,20181020
-95,NEW,Nico And The Niners,Twenty One Pilots,Twenty One Pilots,pop,electronic,20181020,95,95,1,20181020
+95,NEW,Nico And The Niners,Twenty One Pilots,Twenty One Pilots,electronic,electronic,20181020,95,95,1,20181020
 96,97,Drunk Girl,Chris Janson,Chris Janson,country / folk,country,20180908,86,82,7,20181020
 97,NEW,Deep End,Lil Baby,Lil Baby,hip-hop,hip-hop,20181020,97,97,1,20181020
 98,NEW,I Am,Lil Baby & Gunna,Lil Baby,hip-hop,hip-hop,20181020,98,98,1,20181020
@@ -144,7 +144,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 43,32,No Tears Left To Cry,Ariana Grande,Ariana Grande,pop,pop,20180505,3,3,25,20181013
 44,35,Psycho,Post Malone Featuring Ty Dolla $Ign,Post Malone,hip-hop,hip-hop,20180310,2,1,33,20181013
 45,36,I'm A Mess,Bebe Rexha,Bebe Rexha,pop,pop,20180728,92,36,13,20181013
-46,37,The Middle,"Zedd, Maren Morris & Grey",Zedd,pop,electronic,20180210,23,5,37,20181013
+46,37,The Middle,"Zedd, Maren Morris & Grey",Zedd,electronic,electronic,20180210,23,5,37,20181013
 47,NEW,Open Letter,Lil Wayne,Lil Wayne,hip-hop,rap,20181013,47,47,1,20181013
 48,41,Broken,Lovelytheband,Lovelytheband,rock,alternative,20180728,84,39,13,20181013
 49,46,High Hopes,Panic! At The Disco,Panic! At The Disco,rock,rock,20180901,90,35,8,20181013
@@ -183,10 +183,10 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 82,77,Speechless,Dan + Shay,Dan + Shay,country / folk,country,20180922,95,69,5,20181013
 83,59,"Sunrise, Sunburn, Sunset",Luke Bryan,Luke Bryan,country / folk,country,20180714,86,35,15,20181013
 84,76,Dangerous,Meek Mill Featuring Jeremih & Pnb Rock,Meek Mill,hip-hop,hip-hop,20180908,88,75,7,20181013
-85,68,Promises,Calvin Harris & Sam Smith,Calvin Harris,pop,electronic,20180901,65,65,8,20181013
+85,68,Promises,Calvin Harris & Sam Smith,Calvin Harris,electronic,electronic,20180901,65,65,8,20181013
 86,NEW,Perfect Strangers,Lil Wayne,Lil Wayne,hip-hop,rap,20181013,86,86,1,20181013
 87,57,Better,Khalid,Khalid,pop,pop,20180929,45,45,4,20181013
-88,69,That's On Me,Yella Beezy,Yella Beezy,pop,trap rap,20180811,92,69,11,20181013
+88,69,That's On Me,Yella Beezy,Yella Beezy,hip-hop,hip-hop,20180811,92,69,11,20181013
 89,66,Medicine,Queen Naija,Queen Naija,hip-hop,hip-hop,20180630,100,54,17,20181013
 90,NEW,Dope New Gospel,Lil Wayne Featuring Nivea,Lil Wayne,hip-hop,rap,20181013,90,90,1,20181013
 91,65,W O R K I N M E,Quavo,Quavo,hip-hop,rap,20180825,72,52,9,20181013
@@ -235,7 +235,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 34,34,I Like Me Better,Lauv,Lauv,pop,indie pop,20180224,96,27,35,20181006
 35,32,Psycho,Post Malone Featuring Ty Dolla $Ign,Post Malone,hip-hop,hip-hop,20180310,2,1,33,20181006
 36,36,I'm A Mess,Bebe Rexha,Bebe Rexha,pop,pop,20180728,92,36,13,20181006
-37,35,The Middle,"Zedd, Maren Morris & Grey",Zedd,pop,electronic,20180210,23,5,37,20181006
+37,35,The Middle,"Zedd, Maren Morris & Grey",Zedd,electronic,electronic,20180210,23,5,37,20181006
 38,30,Wake Up In The Sky,Gucci Mane & Bruno Mars & Kodak Black,Gucci Mane,hip-hop,hip-hop,20180929,30,30,4,20181006
 39,37,Nice For What,Drake,Drake,hip-hop,hip-hop,20180421,1,1,25,20181006
 40,22,Rap Devil,Machine Gun Kelly,Machine Gun Kelly,hip-hop,hip-hop,20180922,13,13,4,20181006
@@ -266,13 +266,13 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 65,70,W O R K I N M E,Quavo,Quavo,hip-hop,rap,20180825,72,52,9,20181006
 66,60,Medicine,Queen Naija,Queen Naija,hip-hop,hip-hop,20180630,100,54,17,20181006
 67,74,Drunk Me,Mitchell Tenpenny,Mitchell Tenpenny,pop,pop,20180901,83,67,8,20181006
-68,77,Promises,Calvin Harris & Sam Smith,Calvin Harris,pop,electronic,20180901,65,65,8,20181006
-69,69,That's On Me,Yella Beezy,Yella Beezy,pop,trap rap,20180811,92,69,11,20181006
+68,77,Promises,Calvin Harris & Sam Smith,Calvin Harris,electronic,electronic,20180901,65,65,8,20181006
+69,69,That's On Me,Yella Beezy,Yella Beezy,hip-hop,hip-hop,20180811,92,69,11,20181006
 70,57,Barbie Dreams,Nicki Minaj,Nicki Minaj,hip-hop,hip-hop,20180825,18,18,7,20181006
-71,67,Thunderclouds,"Labrinth, Sia & Diplo Present... Lsd",Labrinth,pop,electronic,20180915,94,67,4,20181006
+71,67,Thunderclouds,"Labrinth, Sia & Diplo Present... Lsd",Labrinth,electronic,electronic,20180915,94,67,4,20181006
 72,79,All Girls Are The Same,Juice Wrld,Juice Wrld,hip-hop,hip-hop,20180526,92,41,20,20181006
 73,46,Fall,Eminem,Eminem,hip-hop,rap,20180915,12,12,4,20181006
-74,NEW,This Feeling,The Chainsmokers Featuring Kelsea Ballerini,The Chainsmokers,pop,electronic,20181006,74,74,1,20181006
+74,NEW,This Feeling,The Chainsmokers Featuring Kelsea Ballerini,The Chainsmokers,electronic,electronic,20181006,74,74,1,20181006
 75,81,Best Part,Daniel Caesar Featuring H.E.R.,Daniel Caesar,rnb / soul,rnb,20180804,81,75,12,20181006
 76,82,Dangerous,Meek Mill Featuring Jeremih & Pnb Rock,Meek Mill,hip-hop,hip-hop,20180908,88,75,7,20181006
 77,87,Speechless,Dan + Shay,Dan + Shay,country / folk,country,20180922,95,69,5,20181006
@@ -291,13 +291,13 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 90,66,Self Care,Mac Miller,Mac Miller,hip-hop,hip-hop,20180922,33,33,3,20181006
 91,95,OTW,"Khalid, Ty Dolla $Ign & 6Lack",Khalid,pop,pop,20180922,99,91,3,20181006
 92,NEW,Backin' It Up,Pardison Fontaine Featuring Cardi B,Pardison Fontaine,hip-hop,hip-hop,20181006,92,92,1,20181006
-93,75,Remind Me To Forget,Kygo Featuring Miguel,Kygo,pop,electronic,20180728,94,63,11,20181006
+93,75,Remind Me To Forget,Kygo Featuring Miguel,Kygo,electronic,electronic,20180728,94,63,11,20181006
 94,89,Desperate Man,Eric Church,Eric Church,country / folk,country,20180901,94,85,6,20181006
 95,59,The Ringer,Eminem,Eminem,hip-hop,rap,20180915,8,8,4,20181006
 96,NEW,Rich,Maren Morris,Maren Morris,country / folk,country,20181006,96,96,1,20181006
 97,83,Apeshit,The Carters,The Carters,hip-hop,hip-hop,20180630,13,13,15,20181006
 98,98,Hopeless Romantic,Wiz Khalifa Featuring Swae Lee,Wiz Khalifa,hip-hop,hip-hop,20180908,96,96,5,20181006
-99,91,Solo,Clean Bandit Featuring Demi Lovato,Clean Bandit,pop,electronic,20180721,98,58,12,20181006
+99,91,Solo,Clean Bandit Featuring Demi Lovato,Clean Bandit,electronic,electronic,20180721,98,58,12,20181006
 100,NEW,Vaina Loca,Ozuna X Manuel Turizo,Ozuna,pop,reggaeton,20181006,100,100,1,20181006
 1,2,Girls Like You,Maroon 5 Featuring Cardi B,Maroon 5,rock,rock,20180609,94,1,20,20180929
 2,1,In My Feelings,Drake,Drake,hip-hop,hip-hop,20180714,6,1,15,20180929
@@ -333,7 +333,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 32,26,Psycho,Post Malone Featuring Ty Dolla $Ign,Post Malone,hip-hop,hip-hop,20180310,2,1,33,20180929
 33,29,Sad!,Xxxtentacion,Xxxtentacion,hip-hop,hip-hop,20180317,17,1,32,20180929
 34,32,I Like Me Better,Lauv,Lauv,pop,indie pop,20180224,96,27,35,20180929
-35,31,The Middle,"Zedd, Maren Morris & Grey",Zedd,pop,electronic,20180210,23,5,37,20180929
+35,31,The Middle,"Zedd, Maren Morris & Grey",Zedd,electronic,electronic,20180210,23,5,37,20180929
 36,43,I'm A Mess,Bebe Rexha,Bebe Rexha,pop,pop,20180728,92,36,13,20180929
 37,30,Nice For What,Drake,Drake,hip-hop,hip-hop,20180421,1,1,25,20180929
 38,NEW,New Patek,Lil Uzi Vert,Lil Uzi Vert,hip-hop,hip-hop,20180929,38,24,4,20180929
@@ -365,17 +365,17 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 64,44,You Say,Lauren Daigle,Lauren Daigle,pop,pop,20180728,53,44,13,20180929
 65,68,Break Up In The End,Cole Swindell,Cole Swindell,country / folk,country,20180728,91,49,13,20180929
 66,33,Self Care,Mac Miller,Mac Miller,hip-hop,hip-hop,20180922,33,33,3,20180929
-67,78,Thunderclouds,"Labrinth, Sia & Diplo Present... Lsd",Labrinth,pop,electronic,20180915,94,67,4,20180929
+67,78,Thunderclouds,"Labrinth, Sia & Diplo Present... Lsd",Labrinth,electronic,electronic,20180915,94,67,4,20180929
 68,69,The Way I Am,Charlie Puth,Charlie Puth,pop,pop,20180908,87,61,7,20180929
-69,81,That's On Me,Yella Beezy,Yella Beezy,pop,trap rap,20180811,92,69,11,20180929
+69,81,That's On Me,Yella Beezy,Yella Beezy,hip-hop,hip-hop,20180811,92,69,11,20180929
 70,63,W O R K I N M E,Quavo,Quavo,hip-hop,rap,20180825,72,52,9,20180929
 71,58,Life Changes,Thomas Rhett,Thomas Rhett,country / folk,country,20180707,92,36,14,20180929
 72,55,Drowns The Whiskey,Jason Aldean Featuring Miranda Lambert,Jason Aldean,country / folk,country,20180630,85,32,16,20180929
 73,82,Lie,Nf,Nf,hip-hop,hip-hop,20180825,96,62,9,20180929
 74,79,Drunk Me,Mitchell Tenpenny,Mitchell Tenpenny,pop,pop,20180901,83,67,8,20180929
-75,75,Remind Me To Forget,Kygo Featuring Miguel,Kygo,pop,electronic,20180728,94,63,11,20180929
+75,75,Remind Me To Forget,Kygo Featuring Miguel,Kygo,electronic,electronic,20180728,94,63,11,20180929
 76,NEW,Pretty Little Fears,6Lack Featuring J. Cole,6Lack,rnb / soul,rnb,20180929,76,76,1,20180929
-77,72,Promises,Calvin Harris & Sam Smith,Calvin Harris,pop,electronic,20180901,65,65,8,20180929
+77,72,Promises,Calvin Harris & Sam Smith,Calvin Harris,electronic,electronic,20180901,65,65,8,20180929
 78,65,Mercy,Brett Young,Brett Young,country / folk,country,20180519,97,29,20,20180929
 79,74,All Girls Are The Same,Juice Wrld,Juice Wrld,hip-hop,hip-hop,20180526,92,41,20,20180929
 80,71,Stargazing,Travis Scott,Travis Scott,hip-hop,hip-hop,20180818,8,8,8,20180929
@@ -386,10 +386,10 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 85,86,Yosemite,Travis Scott,Travis Scott,hip-hop,hip-hop,20180818,25,25,8,20180929
 86,53,BEBE,6Ix9Ine Featuring Anuel Aa,6Ix9Ine,hip-hop,hip-hop,20180915,30,30,4,20180929
 87,95,Speechless,Dan + Shay,Dan + Shay,country / folk,country,20180922,95,69,5,20180929
-88,76,Side Effects,The Chainsmokers Featuring Emily Warren,The Chainsmokers,pop,electronic,20180901,81,66,5,20180929
+88,76,Side Effects,The Chainsmokers Featuring Emily Warren,The Chainsmokers,electronic,electronic,20180901,81,66,5,20180929
 89,90,Desperate Man,Eric Church,Eric Church,country / folk,country,20180901,94,85,6,20180929
 90,NEW,Cry Pretty,Carrie Underwood,Carrie Underwood,country / folk,country,20180929,90,90,1,20180929
-91,80,Solo,Clean Bandit Featuring Demi Lovato,Clean Bandit,pop,electronic,20180721,98,58,12,20180929
+91,80,Solo,Clean Bandit Featuring Demi Lovato,Clean Bandit,electronic,electronic,20180721,98,58,12,20180929
 92,89,Hangin' On,Chris Young,Chris Young,country / folk,country,20180915,97,85,6,20180929
 93,85,Lean Wit Me,Juice Wrld,Juice Wrld,hip-hop,hip-hop,20180818,87,68,8,20180929
 94,64,Not Alike,"Eminem Featuring Royce Da 5'9""",Eminem,hip-hop,rap,20180915,24,24,3,20180929
@@ -429,7 +429,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 28,34,Eastside,"Benny Blanco, Halsey & Khalid",Benny Blanco,pop,pop,20180728,56,20,13,20180922
 29,36,Sad!,Xxxtentacion,Xxxtentacion,hip-hop,hip-hop,20180317,17,1,32,20180922
 30,31,Nice For What,Drake,Drake,hip-hop,hip-hop,20180421,1,1,25,20180922
-31,35,The Middle,"Zedd, Maren Morris & Grey",Zedd,pop,electronic,20180210,23,5,37,20180922
+31,35,The Middle,"Zedd, Maren Morris & Grey",Zedd,electronic,electronic,20180210,23,5,37,20180922
 32,33,I Like Me Better,Lauv,Lauv,pop,indie pop,20180224,96,27,35,20180922
 33,NEW,Self Care,Mac Miller,Mac Miller,hip-hop,hip-hop,20180922,33,33,3,20180922
 34,12,Fall,Eminem,Eminem,hip-hop,rap,20180915,12,12,4,20180922
@@ -470,16 +470,16 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 69,88,The Way I Am,Charlie Puth,Charlie Puth,pop,pop,20180908,87,61,7,20180922
 70,NEW,Hurt Feelings,Mac Miller,Mac Miller,hip-hop,hip-hop,20180922,70,70,1,20180922
 71,61,Stargazing,Travis Scott,Travis Scott,hip-hop,hip-hop,20180818,8,8,8,20180922
-72,86,Promises,Calvin Harris & Sam Smith,Calvin Harris,pop,electronic,20180901,65,65,8,20180922
+72,86,Promises,Calvin Harris & Sam Smith,Calvin Harris,electronic,electronic,20180901,65,65,8,20180922
 73,59,Apeshit,The Carters,The Carters,hip-hop,hip-hop,20180630,13,13,15,20180922
 74,75,All Girls Are The Same,Juice Wrld,Juice Wrld,hip-hop,hip-hop,20180526,92,41,20,20180922
-75,71,Remind Me To Forget,Kygo Featuring Miguel,Kygo,pop,electronic,20180728,94,63,11,20180922
-76,77,Side Effects,The Chainsmokers Featuring Emily Warren,The Chainsmokers,pop,electronic,20180901,81,66,5,20180922
+75,71,Remind Me To Forget,Kygo Featuring Miguel,Kygo,electronic,electronic,20180728,94,63,11,20180922
+76,77,Side Effects,The Chainsmokers Featuring Emily Warren,The Chainsmokers,electronic,electronic,20180901,81,66,5,20180922
 77,16,Kamikaze,Eminem,Eminem,hip-hop,rap,20180915,16,16,3,20180922
-78,94,Thunderclouds,"Labrinth, Sia & Diplo Present... Lsd",Labrinth,pop,electronic,20180915,94,67,4,20180922
+78,94,Thunderclouds,"Labrinth, Sia & Diplo Present... Lsd",Labrinth,electronic,electronic,20180915,94,67,4,20180922
 79,83,Drunk Me,Mitchell Tenpenny,Mitchell Tenpenny,pop,pop,20180901,83,67,8,20180922
-80,76,Solo,Clean Bandit Featuring Demi Lovato,Clean Bandit,pop,electronic,20180721,98,58,12,20180922
-81,78,That's On Me,Yella Beezy,Yella Beezy,pop,trap rap,20180811,92,69,11,20180922
+80,76,Solo,Clean Bandit Featuring Demi Lovato,Clean Bandit,electronic,electronic,20180721,98,58,12,20180922
+81,78,That's On Me,Yella Beezy,Yella Beezy,hip-hop,hip-hop,20180811,92,69,11,20180922
 82,85,Lie,Nf,Nf,hip-hop,hip-hop,20180825,96,62,9,20180922
 83,89,Best Part,Daniel Caesar Featuring H.E.R.,Daniel Caesar,rnb / soul,rnb,20180804,81,75,12,20180922
 84,23,Greatest,Eminem,Eminem,hip-hop,rap,20180915,23,23,2,20180922
@@ -533,7 +533,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 32,54,Trip,Ella Mai,Ella Mai,rnb / soul,rnb,20180818,79,16,10,20180915
 33,27,I Like Me Better,Lauv,Lauv,pop,indie pop,20180224,96,27,35,20180915
 34,28,Eastside,"Benny Blanco, Halsey & Khalid",Benny Blanco,pop,pop,20180728,56,20,13,20180915
-35,26,The Middle,"Zedd, Maren Morris & Grey",Zedd,pop,electronic,20180210,23,5,37,20180915
+35,26,The Middle,"Zedd, Maren Morris & Grey",Zedd,electronic,electronic,20180210,23,5,37,20180915
 36,29,Sad!,Xxxtentacion,Xxxtentacion,hip-hop,hip-hop,20180317,17,1,32,20180915
 37,30,God's Plan,Drake,Drake,hip-hop,hip-hop,20180203,1,1,36,20180915
 38,31,Tequila,Dan + Shay,Dan + Shay,country / folk,country,20180331,87,21,30,20180915
@@ -569,14 +569,14 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 68,68,Blue Tacoma,Russell Dickerson,Russell Dickerson,country / folk,country,20180901,77,52,8,20180915
 69,70,Medicine,Queen Naija,Queen Naija,hip-hop,hip-hop,20180630,100,54,17,20180915
 70,62,Break Up In The End,Cole Swindell,Cole Swindell,country / folk,country,20180728,91,49,13,20180915
-71,63,Remind Me To Forget,Kygo Featuring Miguel,Kygo,pop,electronic,20180728,94,63,11,20180915
+71,63,Remind Me To Forget,Kygo Featuring Miguel,Kygo,electronic,electronic,20180728,94,63,11,20180915
 72,55,You Say,Lauren Daigle,Lauren Daigle,pop,pop,20180728,53,44,13,20180915
 73,82,Mo Bamba,Sheck Wes,Sheck Wes,hip-hop,hip-hop,20180908,82,24,7,20180915
 74,76,High Hopes,Panic! At The Disco,Panic! At The Disco,rock,rock,20180901,90,35,8,20180915
 75,64,All Girls Are The Same,Juice Wrld,Juice Wrld,hip-hop,hip-hop,20180526,92,41,20,20180915
-76,61,Solo,Clean Bandit Featuring Demi Lovato,Clean Bandit,pop,electronic,20180721,98,58,12,20180915
-77,66,Side Effects,The Chainsmokers Featuring Emily Warren,The Chainsmokers,pop,electronic,20180901,81,66,5,20180915
-78,73,That's On Me,Yella Beezy,Yella Beezy,pop,trap rap,20180811,92,69,11,20180915
+76,61,Solo,Clean Bandit Featuring Demi Lovato,Clean Bandit,electronic,electronic,20180721,98,58,12,20180915
+77,66,Side Effects,The Chainsmokers Featuring Emily Warren,The Chainsmokers,electronic,electronic,20180901,81,66,5,20180915
+78,73,That's On Me,Yella Beezy,Yella Beezy,hip-hop,hip-hop,20180811,92,69,11,20180915
 79,58,Yosemite,Travis Scott,Travis Scott,hip-hop,hip-hop,20180818,25,25,8,20180915
 80,83,Smile (Living My Best Life),Lil' Duval Featuring Snoop Dogg & Ball Greezy,Lil Duval,hip-hop,hip-hop,20180908,83,56,7,20180915
 81,11,IDOL,Bts Featuring Nicki Minaj,Bts,pop,k-pop,20180908,11,11,3,20180915
@@ -584,7 +584,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 83,74,Drunk Me,Mitchell Tenpenny,Mitchell Tenpenny,pop,pop,20180901,83,67,8,20180915
 84,71,Lean Wit Me,Juice Wrld,Juice Wrld,hip-hop,hip-hop,20180818,87,68,8,20180915
 85,80,Lie,Nf,Nf,hip-hop,hip-hop,20180825,96,62,9,20180915
-86,93,Promises,Calvin Harris & Sam Smith,Calvin Harris,pop,electronic,20180901,65,65,8,20180915
+86,93,Promises,Calvin Harris & Sam Smith,Calvin Harris,electronic,electronic,20180901,65,65,8,20180915
 87,69,I Am Who They Say I Am,Youngboy Never Broke Again Featuring Kevin Gates & Quando Ro,Youngboy Never Broke Again,hip-hop,rap,20180908,69,69,2,20180915
 88,87,The Way I Am,Charlie Puth,Charlie Puth,pop,pop,20180908,87,61,7,20180915
 89,84,Best Part,Daniel Caesar Featuring H.E.R.,Daniel Caesar,rnb / soul,rnb,20180804,81,75,12,20180915
@@ -592,7 +592,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 91,88,Dangerous,Meek Mill Featuring Jeremih & Pnb Rock,Meek Mill,hip-hop,hip-hop,20180908,88,75,7,20180915
 92,86,Drunk Girl,Chris Janson,Chris Janson,country / folk,country,20180908,86,82,7,20180915
 93,85,Desperate Man,Eric Church,Eric Church,country / folk,country,20180901,94,85,6,20180915
-94,NEW,Thunderclouds,"Labrinth, Sia & Diplo Present... Lsd",Labrinth,pop,electronic,20180915,94,67,4,20180915
+94,NEW,Thunderclouds,"Labrinth, Sia & Diplo Present... Lsd",Labrinth,electronic,electronic,20180915,94,67,4,20180915
 95,77,I'm Upset,Drake,Drake,hip-hop,hip-hop,20180609,19,7,16,20180915
 96,79,1942,G-Eazy Featuring Yo Gotti & Ybn Nahmir,G-Eazy,hip-hop,hip-hop,20180728,90,70,8,20180915
 97,NEW,Hangin' On,Chris Young,Chris Young,country / folk,country,20180915,97,85,6,20180915
@@ -624,7 +624,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 23,17,Nice For What,Drake,Drake,hip-hop,hip-hop,20180421,1,1,25,20180908
 24,29,Natural,Imagine Dragons,Imagine Dragons,rock,indie,20180804,37,13,12,20180908
 25,19,Delicate,Taylor Swift,Taylor Swift,country / folk,country,20180324,84,12,31,20180908
-26,25,The Middle,"Zedd, Maren Morris & Grey",Zedd,pop,electronic,20180210,23,5,37,20180908
+26,25,The Middle,"Zedd, Maren Morris & Grey",Zedd,electronic,electronic,20180210,23,5,37,20180908
 27,28,I Like Me Better,Lauv,Lauv,pop,indie pop,20180224,96,27,35,20180908
 28,31,Eastside,"Benny Blanco, Halsey & Khalid",Benny Blanco,pop,pop,20180728,56,20,13,20180908
 29,26,Sad!,Xxxtentacion,Xxxtentacion,hip-hop,hip-hop,20180317,17,1,32,20180908
@@ -641,7 +641,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 40,35,Stargazing,Travis Scott,Travis Scott,hip-hop,hip-hop,20180818,8,8,8,20180908
 41,37,Friends,Marshmello & Anne-Marie,Marshmello,electronic,dance,20180224,72,11,29,20180908
 42,41,Never Be The Same,Camila Cabello,Camila Cabello,pop,pop,20180113,71,6,35,20180908
-43,39,One Kiss,Calvin Harris & Dua Lipa,Calvin Harris,pop,electronic,20180421,62,26,21,20180908
+43,39,One Kiss,Calvin Harris & Dua Lipa,Calvin Harris,electronic,electronic,20180421,62,26,21,20180908
 44,50,Beautiful,Bazzi Featuring Camila Cabello,Bazzi,rnb / soul,rnb,20180818,60,42,10,20180908
 45,38,Barbie Dreams,Nicki Minaj,Nicki Minaj,hip-hop,hip-hop,20180825,18,18,7,20180908
 46,57,Drew Barrymore,Bryce Vine,Bryce Vine,hip-hop,hip-hop,20180825,91,46,9,20180908
@@ -659,19 +659,19 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 58,53,Yosemite,Travis Scott,Travis Scott,hip-hop,hip-hop,20180818,25,25,8,20180908
 59,63,Happier,Marshmello & Bastille,Marshmello,electronic,dance,20180901,63,8,8,20180908
 60,60,Hooked,Dylan Scott,Dylan Scott,country / folk,country,20180728,85,48,11,20180908
-61,59,Solo,Clean Bandit Featuring Demi Lovato,Clean Bandit,pop,electronic,20180721,98,58,12,20180908
+61,59,Solo,Clean Bandit Featuring Demi Lovato,Clean Bandit,electronic,electronic,20180721,98,58,12,20180908
 62,49,Break Up In The End,Cole Swindell,Cole Swindell,country / folk,country,20180728,91,49,13,20180908
-63,66,Remind Me To Forget,Kygo Featuring Miguel,Kygo,pop,electronic,20180728,94,63,11,20180908
+63,66,Remind Me To Forget,Kygo Featuring Miguel,Kygo,electronic,electronic,20180728,94,63,11,20180908
 64,61,All Girls Are The Same,Juice Wrld,Juice Wrld,hip-hop,hip-hop,20180526,92,41,20,20180908
 65,74,She Got The Best Of Me,Luke Combs,Luke Combs,country / folk,country,20180825,95,48,9,20180908
-66,81,Side Effects,The Chainsmokers Featuring Emily Warren,The Chainsmokers,pop,electronic,20180901,81,66,5,20180908
+66,81,Side Effects,The Chainsmokers Featuring Emily Warren,The Chainsmokers,electronic,electronic,20180901,81,66,5,20180908
 67,85,Ring,Cardi B Featuring Kehlani,Cardi B,hip-hop,hip-hop,20180901,85,49,8,20180908
 68,77,Blue Tacoma,Russell Dickerson,Russell Dickerson,country / folk,country,20180901,77,52,8,20180908
 69,NEW,I Am Who They Say I Am,Youngboy Never Broke Again Featuring Kevin Gates & Quando Ro,Youngboy Never Broke Again,hip-hop,rap,20180908,69,69,2,20180908
 70,64,Medicine,Queen Naija,Queen Naija,hip-hop,hip-hop,20180630,100,54,17,20180908
 71,68,Lean Wit Me,Juice Wrld,Juice Wrld,hip-hop,hip-hop,20180818,87,68,8,20180908
 72,NEW,Unica,Ozuna,Ozuna,pop,reggaeton,20180908,72,72,1,20180908
-73,73,That's On Me,Yella Beezy,Yella Beezy,pop,trap rap,20180811,92,69,11,20180908
+73,73,That's On Me,Yella Beezy,Yella Beezy,hip-hop,hip-hop,20180811,92,69,11,20180908
 74,83,Drunk Me,Mitchell Tenpenny,Mitchell Tenpenny,pop,pop,20180901,83,67,8,20180908
 75,75,Lose It,Kane Brown,Kane Brown,country / folk,country,20180804,98,61,12,20180908
 76,90,High Hopes,Panic! At The Disco,Panic! At The Disco,rock,rock,20180901,90,35,8,20180908
@@ -688,10 +688,10 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 87,NEW,The Way I Am,Charlie Puth,Charlie Puth,pop,pop,20180908,87,61,7,20180908
 88,NEW,Dangerous,Meek Mill Featuring Jeremih & Pnb Rock,Meek Mill,hip-hop,hip-hop,20180908,88,75,7,20180908
 89,NEW,Narcos,Migos,Migos,hip-hop,hip-hop,20180908,89,89,3,20180908
-90,NEW,Happy Now,Zedd & Elley Duhe,Zedd,pop,electronic,20180908,90,90,1,20180908
+90,NEW,Happy Now,Zedd & Elley Duhe,Zedd,electronic,electronic,20180908,90,90,1,20180908
 91,69,Level Up,Ciara,Ciara,rnb / soul,rnb,20180804,77,59,6,20180908
 92,80,Taking A Walk,Trippie Redd,Trippie Redd,hip-hop,hip-hop,20180825,46,46,3,20180908
-93,65,Promises,Calvin Harris & Sam Smith,Calvin Harris,pop,electronic,20180901,65,65,8,20180908
+93,65,Promises,Calvin Harris & Sam Smith,Calvin Harris,electronic,electronic,20180901,65,65,8,20180908
 94,76,Don't Go Breaking My Heart,Backstreet Boys,Backstreet Boys,pop,pop,20180714,84,63,9,20180908
 95,NEW,Mob Ties,Drake,Drake,hip-hop,hip-hop,20180908,95,95,1,20180908
 96,NEW,Hopeless Romantic,Wiz Khalifa Featuring Swae Lee,Wiz Khalifa,hip-hop,hip-hop,20180908,96,96,5,20180908
@@ -723,7 +723,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 22,NEW,Breathin',Ariana Grande,Ariana Grande,pop,pop,20180901,22,22,8,20180901
 23,25,Back To You,Selena Gomez,Selena Gomez,pop,pop,20180526,50,18,22,20180901
 24,23,Big Bank,"Yg Featuring 2 Chainz, Big Sean & Nicki  Minaj",Yg,hip-hop,hip-hop,20180707,56,16,16,20180901
-25,22,The Middle,"Zedd, Maren Morris & Grey",Zedd,pop,electronic,20180210,23,5,37,20180901
+25,22,The Middle,"Zedd, Maren Morris & Grey",Zedd,electronic,electronic,20180210,23,5,37,20180901
 26,26,Sad!,Xxxtentacion,Xxxtentacion,hip-hop,hip-hop,20180317,17,1,32,20180901
 27,24,God's Plan,Drake,Drake,hip-hop,hip-hop,20180203,1,1,36,20180901
 28,39,I Like Me Better,Lauv,Lauv,pop,indie pop,20180224,96,27,35,20180901
@@ -737,7 +737,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 36,35,Simple,Florida Georgia Line,Florida Georgia Line,country / folk,country,20180616,55,32,19,20180901
 37,33,Friends,Marshmello & Anne-Marie,Marshmello,electronic,dance,20180224,72,11,29,20180901
 38,18,Barbie Dreams,Nicki Minaj,Nicki Minaj,hip-hop,hip-hop,20180825,18,18,7,20180901
-39,32,One Kiss,Calvin Harris & Dua Lipa,Calvin Harris,pop,electronic,20180421,62,26,21,20180901
+39,32,One Kiss,Calvin Harris & Dua Lipa,Calvin Harris,electronic,electronic,20180421,62,26,21,20180901
 40,47,"Sunrise, Sunburn, Sunset",Luke Bryan,Luke Bryan,country / folk,country,20180714,86,35,15,20180901
 41,37,Never Be The Same,Camila Cabello,Camila Cabello,pop,pop,20180113,71,6,35,20180901
 42,38,In My Blood,Shawn Mendes,Shawn Mendes,pop,pop,20180331,72,11,23,20180901
@@ -757,21 +757,21 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 56,77,You Say,Lauren Daigle,Lauren Daigle,pop,pop,20180728,53,44,13,20180901
 57,91,Drew Barrymore,Bryce Vine,Bryce Vine,hip-hop,hip-hop,20180825,91,46,9,20180901
 58,63,Jackie Chan,Tiesto & Dzeko Featuring Preme & Post Malone,Tiesto,electronic,trance,20180721,88,52,14,20180901
-59,62,Solo,Clean Bandit Featuring Demi Lovato,Clean Bandit,pop,electronic,20180721,98,58,12,20180901
+59,62,Solo,Clean Bandit Featuring Demi Lovato,Clean Bandit,electronic,electronic,20180721,98,58,12,20180901
 60,68,Hooked,Dylan Scott,Dylan Scott,country / folk,country,20180728,85,48,11,20180901
 61,59,All Girls Are The Same,Juice Wrld,Juice Wrld,hip-hop,hip-hop,20180526,92,41,20,20180901
 62,NEW,Everytime,Ariana Grande,Ariana Grande,pop,pop,20180901,62,62,1,20180901
 63,NEW,Happier,Marshmello & Bastille,Marshmello,electronic,dance,20180901,63,8,8,20180901
 64,65,Medicine,Queen Naija,Queen Naija,hip-hop,hip-hop,20180630,100,54,17,20180901
-65,NEW,Promises,Calvin Harris & Sam Smith,Calvin Harris,pop,electronic,20180901,65,65,8,20180901
-66,70,Remind Me To Forget,Kygo Featuring Miguel,Kygo,pop,electronic,20180728,94,63,11,20180901
+65,NEW,Promises,Calvin Harris & Sam Smith,Calvin Harris,electronic,electronic,20180901,65,65,8,20180901
+66,70,Remind Me To Forget,Kygo Featuring Miguel,Kygo,electronic,electronic,20180728,94,63,11,20180901
 67,76,Trip,Ella Mai,Ella Mai,rnb / soul,rnb,20180818,79,16,10,20180901
 68,84,Lean Wit Me,Juice Wrld,Juice Wrld,hip-hop,hip-hop,20180818,87,68,8,20180901
 69,67,Level Up,Ciara,Ciara,rnb / soul,rnb,20180804,77,59,6,20180901
 70,74,I'm Upset,Drake,Drake,hip-hop,hip-hop,20180609,19,7,16,20180901
 71,85,1942,G-Eazy Featuring Yo Gotti & Ybn Nahmir,G-Eazy,hip-hop,hip-hop,20180728,90,70,8,20180901
 72,NEW,R.E.M.,Ariana Grande,Ariana Grande,pop,pop,20180901,72,72,1,20180901
-73,86,That's On Me,Yella Beezy,Yella Beezy,pop,trap rap,20180811,92,69,11,20180901
+73,86,That's On Me,Yella Beezy,Yella Beezy,hip-hop,hip-hop,20180811,92,69,11,20180901
 74,95,She Got The Best Of Me,Luke Combs,Luke Combs,country / folk,country,20180825,95,48,9,20180901
 75,82,Lose It,Kane Brown,Kane Brown,country / folk,country,20180804,98,61,12,20180901
 76,73,Don't Go Breaking My Heart,Backstreet Boys,Backstreet Boys,pop,pop,20180714,84,63,9,20180901
@@ -779,7 +779,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 78,NEW,Chanel (Go Get It),Young Thug Featuring Gunna & Lil Baby,Young Thug,hip-hop,hip-hop,20180901,78,78,3,20180901
 79,80,Changes,Xxxtentacion,Xxxtentacion,hip-hop,hip-hop,20180630,18,18,11,20180901
 80,46,Taking A Walk,Trippie Redd,Trippie Redd,hip-hop,hip-hop,20180825,46,46,3,20180901
-81,NEW,Side Effects,The Chainsmokers Featuring Emily Warren,The Chainsmokers,pop,electronic,20180901,81,66,5,20180901
+81,NEW,Side Effects,The Chainsmokers Featuring Emily Warren,The Chainsmokers,electronic,electronic,20180901,81,66,5,20180901
 82,94,Best Part,Daniel Caesar Featuring H.E.R.,Daniel Caesar,rnb / soul,rnb,20180804,81,75,12,20180901
 83,NEW,Drunk Me,Mitchell Tenpenny,Mitchell Tenpenny,pop,pop,20180901,83,67,8,20180901
 84,92,Cry Pretty,Carrie Underwood,Carrie Underwood,country / folk,country,20180714,87,81,8,20180901
@@ -820,7 +820,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 19,20,Meant To Be,Bebe Rexha & Florida Georgia Line,Bebe Rexha,pop,pop,20171111,61,2,51,20180825
 20,21,Perfect,Ed Sheeran,Ed Sheeran,pop,acoustic,20171007,89,1,54,20180825
 21,29,Nonstop,Drake,Drake,hip-hop,hip-hop,20180714,2,2,15,20180825
-22,19,The Middle,"Zedd, Maren Morris & Grey",Zedd,pop,electronic,20180210,23,5,37,20180825
+22,19,The Middle,"Zedd, Maren Morris & Grey",Zedd,electronic,electronic,20180210,23,5,37,20180825
 23,16,Big Bank,"Yg Featuring 2 Chainz, Big Sean & Nicki  Minaj",Yg,hip-hop,hip-hop,20180707,56,16,16,20180825
 24,23,God's Plan,Drake,Drake,hip-hop,hip-hop,20180203,1,1,36,20180825
 25,33,Back To You,Selena Gomez,Selena Gomez,pop,pop,20180526,50,18,22,20180825
@@ -830,7 +830,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 29,34,Mercy,Brett Young,Brett Young,country / folk,country,20180519,97,29,20,20180825
 30,39,God Is A Woman,Ariana Grande,Ariana Grande,pop,pop,20180728,11,8,13,20180825
 31,35,Mine,Bazzi,Bazzi,rnb / soul,rnb,20180203,56,11,34,20180825
-32,40,One Kiss,Calvin Harris & Dua Lipa,Calvin Harris,pop,electronic,20180421,62,26,21,20180825
+32,40,One Kiss,Calvin Harris & Dua Lipa,Calvin Harris,electronic,electronic,20180421,62,26,21,20180825
 33,32,Friends,Marshmello & Anne-Marie,Marshmello,electronic,dance,20180224,72,11,29,20180825
 34,54,Natural,Imagine Dragons,Imagine Dragons,rock,indie,20180804,37,13,12,20180825
 35,45,Simple,Florida Georgia Line,Florida Georgia Line,country / folk,country,20180616,55,32,19,20180825
@@ -860,7 +860,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 59,69,All Girls Are The Same,Juice Wrld,Juice Wrld,hip-hop,hip-hop,20180526,92,41,20,20180825
 60,NEW,Ganja Burns,Nicki Minaj,Nicki Minaj,hip-hop,hip-hop,20180825,60,60,1,20180825
 61,67,Take Back Home Girl,Chris Lane Featuring Tori Kelly,Chris Lane,country / folk,country,20180707,98,55,9,20180825
-62,66,Solo,Clean Bandit Featuring Demi Lovato,Clean Bandit,pop,electronic,20180721,98,58,12,20180825
+62,66,Solo,Clean Bandit Featuring Demi Lovato,Clean Bandit,electronic,electronic,20180721,98,58,12,20180825
 63,72,Jackie Chan,Tiesto & Dzeko Featuring Preme & Post Malone,Tiesto,electronic,trance,20180721,88,52,14,20180825
 64,61,Be Careful,Cardi B,Cardi B,hip-hop,hip-hop,20180414,16,11,20,20180825
 65,71,Medicine,Queen Naija,Queen Naija,hip-hop,hip-hop,20180630,100,54,17,20180825
@@ -868,7 +868,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 67,63,Level Up,Ciara,Ciara,rnb / soul,rnb,20180804,77,59,6,20180825
 68,82,Hooked,Dylan Scott,Dylan Scott,country / folk,country,20180728,85,48,11,20180825
 69,38,Can't Say,Travis Scott,Travis Scott,hip-hop,hip-hop,20180818,38,38,2,20180825
-70,81,Remind Me To Forget,Kygo Featuring Miguel,Kygo,pop,electronic,20180728,94,63,11,20180825
+70,81,Remind Me To Forget,Kygo Featuring Miguel,Kygo,electronic,electronic,20180728,94,63,11,20180825
 71,30,Wake Up,Travis Scott,Travis Scott,hip-hop,hip-hop,20180818,30,30,2,20180825
 72,NEW,W O R K I N M E,Quavo,Quavo,hip-hop,rap,20180825,72,52,9,20180825
 73,75,Don't Go Breaking My Heart,Backstreet Boys,Backstreet Boys,pop,pop,20180714,84,63,9,20180825
@@ -884,7 +884,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 83,83,Growing Pains,Alessia Cara,Alessia Cara,pop,pop,20180714,99,65,8,20180825
 84,87,Lean Wit Me,Juice Wrld,Juice Wrld,hip-hop,hip-hop,20180818,87,68,8,20180825
 85,70,1942,G-Eazy Featuring Yo Gotti & Ybn Nahmir,G-Eazy,hip-hop,hip-hop,20180728,90,70,8,20180825
-86,95,That's On Me,Yella Beezy,Yella Beezy,pop,trap rap,20180811,92,69,11,20180825
+86,95,That's On Me,Yella Beezy,Yella Beezy,hip-hop,hip-hop,20180811,92,69,11,20180825
 87,NEW,Album Of The Year (Freestyle),J. Cole,J. Cole,hip-hop,hip-hop,20180825,87,87,1,20180825
 88,80,This Is America,Childish Gambino,Childish Gambino,hip-hop,hip-hop,20180519,1,1,17,20180825
 89,36,5% Tint,Travis Scott,Travis Scott,hip-hop,hip-hop,20180818,36,36,2,20180825
@@ -917,7 +917,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 16,25,Big Bank,"Yg Featuring 2 Chainz, Big Sean & Nicki  Minaj",Yg,hip-hop,hip-hop,20180707,56,16,16,20180818
 17,13,Delicate,Taylor Swift,Taylor Swift,country / folk,country,20180324,84,12,31,20180818
 18,14,Yes Indeed,Lil Baby & Drake,Lil Baby,hip-hop,hip-hop,20180526,49,6,22,20180818
-19,17,The Middle,"Zedd, Maren Morris & Grey",Zedd,pop,electronic,20180210,23,5,37,20180818
+19,17,The Middle,"Zedd, Maren Morris & Grey",Zedd,electronic,electronic,20180210,23,5,37,20180818
 20,19,Meant To Be,Bebe Rexha & Florida Georgia Line,Bebe Rexha,pop,pop,20171111,61,2,51,20180818
 21,18,Perfect,Ed Sheeran,Ed Sheeran,pop,acoustic,20171007,89,1,54,20180818
 22,23,Youngblood,5 Seconds Of Summer,5 Seconds Of Summer,rock,pop rock,20180616,96,7,19,20180818
@@ -938,7 +938,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 37,28,Tequila,Dan + Shay,Dan + Shay,country / folk,country,20180331,87,21,30,20180818
 38,NEW,Can't Say,Travis Scott,Travis Scott,hip-hop,hip-hop,20180818,38,38,2,20180818
 39,27,God Is A Woman,Ariana Grande,Ariana Grande,pop,pop,20180728,11,8,13,20180818
-40,30,One Kiss,Calvin Harris & Dua Lipa,Calvin Harris,pop,electronic,20180421,62,26,21,20180818
+40,30,One Kiss,Calvin Harris & Dua Lipa,Calvin Harris,electronic,electronic,20180421,62,26,21,20180818
 41,NEW,NC-17,Travis Scott,Travis Scott,hip-hop,hip-hop,20180818,41,41,1,20180818
 42,31,In My Blood,Shawn Mendes,Shawn Mendes,pop,pop,20180331,72,11,23,20180818
 43,NEW,Who? What!,Travis Scott,Travis Scott,hip-hop,hip-hop,20180818,43,43,1,20180818
@@ -964,7 +964,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 63,59,Level Up,Ciara,Ciara,rnb / soul,rnb,20180804,77,59,6,20180818
 64,60,Hotel Key,Old Dominion,Old Dominion,country / folk,country,20180714,93,48,15,20180818
 65,45,I'm Upset,Drake,Drake,hip-hop,hip-hop,20180609,19,7,16,20180818
-66,58,Solo,Clean Bandit Featuring Demi Lovato,Clean Bandit,pop,electronic,20180721,98,58,12,20180818
+66,58,Solo,Clean Bandit Featuring Demi Lovato,Clean Bandit,electronic,electronic,20180721,98,58,12,20180818
 67,55,Take Back Home Girl,Chris Lane Featuring Tori Kelly,Chris Lane,country / folk,country,20180707,98,55,9,20180818
 68,NEW,Coffee Bean,Travis Scott,Travis Scott,hip-hop,hip-hop,20180818,68,68,1,20180818
 69,57,All Girls Are The Same,Juice Wrld,Juice Wrld,hip-hop,hip-hop,20180526,92,41,20,20180818
@@ -979,7 +979,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 78,56,Changes,Xxxtentacion,Xxxtentacion,hip-hop,hip-hop,20180630,18,18,11,20180818
 79,NEW,Trip,Ella Mai,Ella Mai,rnb / soul,rnb,20180818,79,16,10,20180818
 80,52,This Is America,Childish Gambino,Childish Gambino,hip-hop,hip-hop,20180519,1,1,17,20180818
-81,74,Remind Me To Forget,Kygo Featuring Miguel,Kygo,pop,electronic,20180728,94,63,11,20180818
+81,74,Remind Me To Forget,Kygo Featuring Miguel,Kygo,electronic,electronic,20180728,94,63,11,20180818
 82,72,Hooked,Dylan Scott,Dylan Scott,country / folk,country,20180728,85,48,11,20180818
 83,71,Growing Pains,Alessia Cara,Alessia Cara,pop,pop,20180714,99,65,8,20180818
 84,63,Bed,Nicki Minaj Featuring Ariana Grande,Nicki Minaj,hip-hop,hip-hop,20180630,43,42,10,20180818
@@ -993,7 +993,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 92,82,Best Part,Daniel Caesar Featuring H.E.R.,Daniel Caesar,rnb / soul,rnb,20180804,81,75,12,20180818
 93,70,Sin Pijama,Becky G + Natti Natasha,Becky G + Natti Natasha,pop,unknown,20180707,83,70,10,20180818
 94,64,Mob Ties,Drake,Drake,hip-hop,hip-hop,20180714,13,13,7,20180818
-95,92,That's On Me,Yella Beezy,Yella Beezy,pop,trap rap,20180811,92,69,11,20180818
+95,92,That's On Me,Yella Beezy,Yella Beezy,hip-hop,hip-hop,20180811,92,69,11,20180818
 96,51,Coming Home,Keith Urban Featuring Julia Michaels,Keith Urban,country / folk,country,20180707,88,50,7,20180818
 97,75,Wasted,Juice Wrld Featuring Lil Uzi Vert,Juice Wrld,hip-hop,hip-hop,20180728,68,67,5,20180818
 98,99,Handgun,Yg Featuring A$Ap Rocky,Yg,hip-hop,hip-hop,20180811,99,98,2,20180818
@@ -1015,7 +1015,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 14,14,Yes Indeed,Lil Baby & Drake,Lil Baby,hip-hop,hip-hop,20180526,49,6,22,20180811
 15,18,Love Lies,Khalid & Normani,Khalid,pop,pop,20180303,43,9,34,20180811
 16,13,God's Plan,Drake,Drake,hip-hop,hip-hop,20180203,1,1,36,20180811
-17,15,The Middle,"Zedd, Maren Morris & Grey",Zedd,pop,electronic,20180210,23,5,37,20180811
+17,15,The Middle,"Zedd, Maren Morris & Grey",Zedd,electronic,electronic,20180210,23,5,37,20180811
 18,17,Perfect,Ed Sheeran,Ed Sheeran,pop,acoustic,20171007,89,1,54,20180811
 19,20,Meant To Be,Bebe Rexha & Florida Georgia Line,Bebe Rexha,pop,pop,20171111,61,2,51,20180811
 20,16,Friends,Marshmello & Anne-Marie,Marshmello,electronic,dance,20180224,72,11,29,20180811
@@ -1028,7 +1028,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 27,21,God Is A Woman,Ariana Grande,Ariana Grande,pop,pop,20180728,11,8,13,20180811
 28,24,Tequila,Dan + Shay,Dan + Shay,country / folk,country,20180331,87,21,30,20180811
 29,29,Nonstop,Drake,Drake,hip-hop,hip-hop,20180714,2,2,15,20180811
-30,27,One Kiss,Calvin Harris & Dua Lipa,Calvin Harris,pop,electronic,20180421,62,26,21,20180811
+30,27,One Kiss,Calvin Harris & Dua Lipa,Calvin Harris,electronic,electronic,20180421,62,26,21,20180811
 31,23,In My Blood,Shawn Mendes,Shawn Mendes,pop,pop,20180331,72,11,23,20180811
 32,33,Mercy,Brett Young,Brett Young,country / folk,country,20180519,97,29,20,20180811
 33,31,I Like Me Better,Lauv,Lauv,pop,indie pop,20180224,96,27,35,20180811
@@ -1056,7 +1056,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 55,57,Take Back Home Girl,Chris Lane Featuring Tori Kelly,Chris Lane,country / folk,country,20180707,98,55,9,20180811
 56,51,Changes,Xxxtentacion,Xxxtentacion,hip-hop,hip-hop,20180630,18,18,11,20180811
 57,58,All Girls Are The Same,Juice Wrld,Juice Wrld,hip-hop,hip-hop,20180526,92,41,20,20180811
-58,61,Solo,Clean Bandit Featuring Demi Lovato,Clean Bandit,pop,electronic,20180721,98,58,12,20180811
+58,61,Solo,Clean Bandit Featuring Demi Lovato,Clean Bandit,electronic,electronic,20180721,98,58,12,20180811
 59,77,Level Up,Ciara,Ciara,rnb / soul,rnb,20180804,77,59,6,20180811
 60,63,Hotel Key,Old Dominion,Old Dominion,country / folk,country,20180714,93,48,15,20180811
 61,62,Jackie Chan,Tiesto & Dzeko Featuring Preme & Post Malone,Tiesto,electronic,trance,20180721,88,52,14,20180811
@@ -1072,7 +1072,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 71,66,Growing Pains,Alessia Cara,Alessia Cara,pop,pop,20180714,99,65,8,20180811
 72,76,Hooked,Dylan Scott,Dylan Scott,country / folk,country,20180728,85,48,11,20180811
 73,70,Up Down,Morgan Wallen Featuring Florida Georgia Line,Morgan Wallen,country / folk,country,20180407,86,49,20,20180811
-74,79,Remind Me To Forget,Kygo Featuring Miguel,Kygo,pop,electronic,20180728,94,63,11,20180811
+74,79,Remind Me To Forget,Kygo Featuring Miguel,Kygo,electronic,electronic,20180728,94,63,11,20180811
 75,67,Wasted,Juice Wrld Featuring Lil Uzi Vert,Juice Wrld,hip-hop,hip-hop,20180728,68,67,5,20180811
 76,78,Ocean,Tk Kravitz Featuring Jacqueez,Tk Kravitz,hip-hop,rap,20180728,87,76,3,20180811
 77,82,1942,G-Eazy Featuring Yo Gotti & Ybn Nahmir,G-Eazy,hip-hop,hip-hop,20180728,90,70,8,20180811
@@ -1085,12 +1085,12 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 84,96,Praise The Lord (Da Shine),A$Ap Rocky Featuring Skepta,A$Ap Rocky,hip-hop,hip-hop,20180728,96,84,3,20180811
 85,87,Break Up In The End,Cole Swindell,Cole Swindell,country / folk,country,20180728,91,49,13,20180811
 86,90,Nevermind,Dennis Lloyd,Dennis Lloyd,rock,indie,20180804,90,86,4,20180811
-87,NEW,Side Effects,The Chainsmokers Featuring Emily Warren,The Chainsmokers,pop,electronic,20180811,87,87,1,20180811
+87,NEW,Side Effects,The Chainsmokers Featuring Emily Warren,The Chainsmokers,electronic,electronic,20180811,87,87,1,20180811
 88,80,OTW,Khalid & Ty Dolla $Ign & 6Lack,Khalid,pop,pop,20180721,97,75,4,20180811
 89,83,Ball For Me,Post Malone Featuring Nicki Minaj,Post Malone,hip-hop,hip-hop,20180512,16,16,14,20180811
 90,97,Lie,Nf,Nf,hip-hop,hip-hop,20180804,97,90,2,20180811
 91,92,Narcos,Migos,Migos,hip-hop,hip-hop,20180728,93,91,3,20180811
-92,NEW,That's On Me,Yella Beezy,Yella Beezy,pop,trap rap,20180811,92,69,11,20180811
+92,NEW,That's On Me,Yella Beezy,Yella Beezy,hip-hop,hip-hop,20180811,92,69,11,20180811
 93,94,Desperate Man,Eric Church,Eric Church,country / folk,country,20180728,71,71,3,20180811
 94,98,Lose It,Kane Brown,Kane Brown,country / folk,country,20180804,98,61,12,20180811
 95,89,Call Out My Name,The Weeknd,The Weeknd,rnb / soul,rnb,20180414,4,4,18,20180811
@@ -1113,7 +1113,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 12,12,Delicate,Taylor Swift,Taylor Swift,country / folk,country,20180324,84,12,31,20180804
 13,10,God's Plan,Drake,Drake,hip-hop,hip-hop,20180203,1,1,36,20180804
 14,16,Yes Indeed,Lil Baby & Drake,Lil Baby,hip-hop,hip-hop,20180526,49,6,22,20180804
-15,14,The Middle,"Zedd, Maren Morris & Grey",Zedd,pop,electronic,20180210,23,5,37,20180804
+15,14,The Middle,"Zedd, Maren Morris & Grey",Zedd,electronic,electronic,20180210,23,5,37,20180804
 16,18,Friends,Marshmello & Anne-Marie,Marshmello,electronic,dance,20180224,72,11,29,20180804
 17,19,Perfect,Ed Sheeran,Ed Sheeran,pop,acoustic,20171007,89,1,54,20180804
 18,21,Love Lies,Khalid & Normani,Khalid,pop,pop,20180303,43,9,34,20180804
@@ -1125,7 +1125,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 24,25,Tequila,Dan + Shay,Dan + Shay,country / folk,country,20180331,87,21,30,20180804
 25,32,Youngblood,5 Seconds Of Summer,5 Seconds Of Summer,rock,pop rock,20180616,96,7,19,20180804
 26,27,Back To You,Selena Gomez,Selena Gomez,pop,pop,20180526,50,18,22,20180804
-27,26,One Kiss,Calvin Harris & Dua Lipa,Calvin Harris,pop,electronic,20180421,62,26,21,20180804
+27,26,One Kiss,Calvin Harris & Dua Lipa,Calvin Harris,electronic,electronic,20180421,62,26,21,20180804
 28,39,Big Bank,"Yg Featuring 2 Chainz, Big Sean & Nicki  Minaj",Yg,hip-hop,hip-hop,20180707,56,16,16,20180804
 29,20,Nonstop,Drake,Drake,hip-hop,hip-hop,20180714,2,2,15,20180804
 30,28,Apeshit,The Carters,The Carters,hip-hop,hip-hop,20180630,13,13,15,20180804
@@ -1159,7 +1159,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 58,55,All Girls Are The Same,Juice Wrld,Juice Wrld,hip-hop,hip-hop,20180526,92,41,20,20180804
 59,64,"Sunrise, Sunburn, Sunset",Luke Bryan,Luke Bryan,country / folk,country,20180714,86,35,15,20180804
 60,NEW,I Might Need Security,Chance The Rapper,Chance The Rapper,hip-hop,hip-hop,20180804,60,60,1,20180804
-61,66,Solo,Clean Bandit Featuring Demi Lovato,Clean Bandit,pop,electronic,20180721,98,58,12,20180804
+61,66,Solo,Clean Bandit Featuring Demi Lovato,Clean Bandit,electronic,electronic,20180721,98,58,12,20180804
 62,60,Jackie Chan,Tiesto & Dzeko Featuring Preme & Post Malone,Tiesto,electronic,trance,20180721,88,52,14,20180804
 63,70,Hotel Key,Old Dominion,Old Dominion,country / folk,country,20180714,93,48,15,20180804
 64,92,I'm A Mess,Bebe Rexha,Bebe Rexha,pop,pop,20180728,92,36,13,20180804
@@ -1177,7 +1177,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 76,85,Hooked,Dylan Scott,Dylan Scott,country / folk,country,20180728,85,48,11,20180804
 77,NEW,Level Up,Ciara,Ciara,rnb / soul,rnb,20180804,77,59,6,20180804
 78,87,Ocean,Tk Kravitz Featuring Jacqueez,Tk Kravitz,hip-hop,rap,20180728,87,76,3,20180804
-79,94,Remind Me To Forget,Kygo Featuring Miguel,Kygo,pop,electronic,20180728,94,63,11,20180804
+79,94,Remind Me To Forget,Kygo Featuring Miguel,Kygo,electronic,electronic,20180728,94,63,11,20180804
 80,75,OTW,Khalid & Ty Dolla $Ign & 6Lack,Khalid,pop,pop,20180721,97,75,4,20180804
 81,NEW,Best Part,Daniel Caesar Featuring H.E.R.,Daniel Caesar,rnb / soul,rnb,20180804,81,75,12,20180804
 82,90,1942,G-Eazy Featuring Yo Gotti & Ybn Nahmir,G-Eazy,hip-hop,hip-hop,20180728,90,70,8,20180804
@@ -1186,7 +1186,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 85,88,Ocean,Martin Garrix Featuring Khalid,Martin Garrix,electronic,house,20180721,92,85,4,20180804
 86,NEW,Africa,Weezer,Weezer,rock,rock,20180804,86,51,12,20180804
 87,91,Break Up In The End,Cole Swindell,Cole Swindell,country / folk,country,20180728,91,49,13,20180804
-88,50,Jumpsuit,Twenty One Pilots,Twenty One Pilots,pop,electronic,20180721,60,50,3,20180804
+88,50,Jumpsuit,Twenty One Pilots,Twenty One Pilots,electronic,electronic,20180721,60,50,3,20180804
 89,95,Call Out My Name,The Weeknd,The Weeknd,rnb / soul,rnb,20180414,4,4,18,20180804
 90,NEW,Nevermind,Dennis Lloyd,Dennis Lloyd,rock,indie,20180804,90,86,4,20180804
 91,77,All Mine,Kanye West,Kanye West,hip-hop,hip-hop,20180616,11,11,9,20180804
@@ -1212,7 +1212,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 11,NEW,God Is A Woman,Ariana Grande,Ariana Grande,pop,pop,20180728,11,8,13,20180728
 12,15,Delicate,Taylor Swift,Taylor Swift,country / folk,country,20180324,84,12,31,20180728
 13,18,Taste,Tyga Featuring Offset,Tyga,hip-hop,hip-hop,20180609,82,8,20,20180728
-14,13,The Middle,"Zedd, Maren Morris & Grey",Zedd,pop,electronic,20180210,23,5,37,20180728
+14,13,The Middle,"Zedd, Maren Morris & Grey",Zedd,electronic,electronic,20180210,23,5,37,20180728
 15,10,Sad!,Xxxtentacion,Xxxtentacion,hip-hop,hip-hop,20180317,17,1,32,20180728
 16,17,Yes Indeed,Lil Baby & Drake,Lil Baby,hip-hop,hip-hop,20180526,49,6,22,20180728
 17,14,Meant To Be,Bebe Rexha & Florida Georgia Line,Bebe Rexha,pop,pop,20171111,61,2,51,20180728
@@ -1224,7 +1224,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 23,23,In My Blood,Shawn Mendes,Shawn Mendes,pop,pop,20180331,72,11,23,20180728
 24,16,I'm Upset,Drake,Drake,hip-hop,hip-hop,20180609,19,7,16,20180728
 25,24,Tequila,Dan + Shay,Dan + Shay,country / folk,country,20180331,87,21,30,20180728
-26,29,One Kiss,Calvin Harris & Dua Lipa,Calvin Harris,pop,electronic,20180421,62,26,21,20180728
+26,29,One Kiss,Calvin Harris & Dua Lipa,Calvin Harris,electronic,electronic,20180421,62,26,21,20180728
 27,31,Back To You,Selena Gomez,Selena Gomez,pop,pop,20180526,50,18,22,20180728
 28,30,Apeshit,The Carters,The Carters,hip-hop,hip-hop,20180630,13,13,15,20180728
 29,33,I Like Me Better,Lauv,Lauv,pop,indie pop,20180224,96,27,35,20180728
@@ -1248,7 +1248,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 47,51,X,Nicky Jam X J Balvin,Nicky Jam,pop,reggaeton,20180317,80,41,21,20180728
 48,52,Drowns The Whiskey,Jason Aldean Featuring Miranda Lambert,Jason Aldean,country / folk,country,20180630,85,32,16,20180728
 49,49,One Number Away,Luke Combs,Luke Combs,country / folk,country,20180331,84,34,20,20180728
-50,60,Jumpsuit,Twenty One Pilots,Twenty One Pilots,pop,electronic,20180721,60,50,3,20180728
+50,60,Jumpsuit,Twenty One Pilots,Twenty One Pilots,electronic,electronic,20180721,60,50,3,20180728
 51,47,Changes,Xxxtentacion,Xxxtentacion,hip-hop,hip-hop,20180630,18,18,11,20180728
 52,48,Bed,Nicki Minaj Featuring Ariana Grande,Nicki Minaj,hip-hop,hip-hop,20180630,43,42,10,20180728
 53,NEW,You Say,Lauren Daigle,Lauren Daigle,pop,pop,20180728,53,44,13,20180728
@@ -1264,7 +1264,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 63,82,Don't Go Breaking My Heart,Backstreet Boys,Backstreet Boys,pop,pop,20180714,84,63,9,20180728
 64,81,"Sunrise, Sunburn, Sunset",Luke Bryan,Luke Bryan,country / folk,country,20180714,86,35,15,20180728
 65,86,Growing Pains,Alessia Cara,Alessia Cara,pop,pop,20180714,99,65,8,20180728
-66,98,Solo,Clean Bandit Featuring Demi Lovato,Clean Bandit,pop,electronic,20180721,98,58,12,20180728
+66,98,Solo,Clean Bandit Featuring Demi Lovato,Clean Bandit,electronic,electronic,20180721,98,58,12,20180728
 67,44,Elevate,Drake,Drake,hip-hop,hip-hop,20180714,14,14,3,20180728
 68,NEW,Wasted,Juice Wrld Featuring Lil Uzi Vert,Juice Wrld,hip-hop,hip-hop,20180728,68,67,5,20180728
 69,72,Freaky Friday,Lil Dicky Featuring Chris Brown,Lil Dicky,hip-hop,hip-hop,20180331,9,8,20,20180728
@@ -1277,7 +1277,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 76,75,Ball For Me,Post Malone Featuring Nicki Minaj,Post Malone,hip-hop,hip-hop,20180512,16,16,14,20180728
 77,85,All Mine,Kanye West,Kanye West,hip-hop,hip-hop,20180616,11,11,9,20180728
 78,90,Medicine,Queen Naija,Queen Naija,hip-hop,hip-hop,20180630,100,54,17,20180728
-79,NEW,Nico And The Niners,Twenty One Pilots,Twenty One Pilots,pop,electronic,20180728,79,79,1,20180728
+79,NEW,Nico And The Niners,Twenty One Pilots,Twenty One Pilots,electronic,electronic,20180728,79,79,1,20180728
 80,55,Blue Tint,Drake,Drake,hip-hop,hip-hop,20180714,30,30,3,20180728
 81,91,Cry Pretty,Carrie Underwood,Carrie Underwood,country / folk,country,20180714,87,81,8,20180728
 82,56,After Dark,Drake Featuring Static Major & Ty Dolla $Ign,Drake,hip-hop,hip-hop,20180714,41,41,3,20180728
@@ -1292,7 +1292,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 91,NEW,Break Up In The End,Cole Swindell,Cole Swindell,country / folk,country,20180728,91,49,13,20180728
 92,NEW,I'm A Mess,Bebe Rexha,Bebe Rexha,pop,pop,20180728,92,36,13,20180728
 93,NEW,Narcos,Migos,Migos,hip-hop,hip-hop,20180728,93,91,3,20180728
-94,NEW,Remind Me To Forget,Kygo Featuring Miguel,Kygo,pop,electronic,20180728,94,63,11,20180728
+94,NEW,Remind Me To Forget,Kygo Featuring Miguel,Kygo,electronic,electronic,20180728,94,63,11,20180728
 95,95,Call Out My Name,The Weeknd,The Weeknd,rnb / soul,rnb,20180414,4,4,18,20180728
 96,NEW,Praise The Lord (Da Shine),A$Ap Rocky Featuring Skepta,A$Ap Rocky,hip-hop,hip-hop,20180728,96,84,3,20180728
 97,NEW,Zombie,Bad Wolves,Bad Wolves,rock,groove metal,20180728,97,97,1,20180728
@@ -1311,7 +1311,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 10,10,Sad!,Xxxtentacion,Xxxtentacion,hip-hop,hip-hop,20180317,17,1,32,20180721
 11,2,Nonstop,Drake,Drake,hip-hop,hip-hop,20180714,2,2,15,20180721
 12,24,Better Now,Post Malone,Post Malone,hip-hop,hip-hop,20180512,7,3,24,20180721
-13,19,The Middle,"Zedd, Maren Morris & Grey",Zedd,pop,electronic,20180210,23,5,37,20180721
+13,19,The Middle,"Zedd, Maren Morris & Grey",Zedd,electronic,electronic,20180210,23,5,37,20180721
 14,22,Meant To Be,Bebe Rexha & Florida Georgia Line,Bebe Rexha,pop,pop,20171111,61,2,51,20180721
 15,23,Delicate,Taylor Swift,Taylor Swift,country / folk,country,20180324,84,12,31,20180721
 16,7,I'm Upset,Drake,Drake,hip-hop,hip-hop,20180609,19,7,16,20180721
@@ -1327,7 +1327,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 26,35,Never Be The Same,Camila Cabello,Camila Cabello,pop,pop,20180113,71,6,35,20180721
 27,40,Whatever It Takes,Imagine Dragons,Imagine Dragons,rock,indie,20180217,87,12,26,20180721
 28,13,Mob Ties,Drake,Drake,hip-hop,hip-hop,20180714,13,13,7,20180721
-29,45,One Kiss,Calvin Harris & Dua Lipa,Calvin Harris,pop,electronic,20180421,62,26,21,20180721
+29,45,One Kiss,Calvin Harris & Dua Lipa,Calvin Harris,electronic,electronic,20180421,62,26,21,20180721
 30,43,Apeshit,The Carters,The Carters,hip-hop,hip-hop,20180630,13,13,15,20180721
 31,49,Back To You,Selena Gomez,Selena Gomez,pop,pop,20180526,50,18,22,20180721
 32,44,Look Alive,Blocboy Jb Featuring Drake,Blocboy Jb,pop,memphis,20180224,6,5,25,20180721
@@ -1358,7 +1358,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 57,60,All Girls Are The Same,Juice Wrld,Juice Wrld,hip-hop,hip-hop,20180526,92,41,20,20180721
 58,20,Talk Up,Drake Featuring Jay-Z,Drake,hip-hop,hip-hop,20180714,20,20,3,20180721
 59,21,8 Out Of 10,Drake,Drake,hip-hop,hip-hop,20180714,21,21,3,20180721
-60,NEW,Jumpsuit,Twenty One Pilots,Twenty One Pilots,pop,electronic,20180721,60,50,3,20180721
+60,NEW,Jumpsuit,Twenty One Pilots,Twenty One Pilots,electronic,electronic,20180721,60,50,3,20180721
 61,75,Life Changes,Thomas Rhett,Thomas Rhett,country / folk,country,20180707,92,36,14,20180721
 62,68,Jocelyn Flores,Xxxtentacion,Xxxtentacion,hip-hop,hip-hop,20180630,19,19,4,20180721
 63,27,Sandra's Rose,Drake,Drake,hip-hop,hip-hop,20180714,27,27,2,20180721
@@ -1396,7 +1396,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 95,90,Call Out My Name,The Weeknd,The Weeknd,rnb / soul,rnb,20180414,4,4,18,20180721
 96,NEW,Kream,Iggy Azalea Featuring Tyga,Iggy Azalea,hip-hop,hip-hop,20180721,96,96,1,20180721
 97,NEW,OTW,Khalid & Ty Dolla $Ign & 6Lack,Khalid,pop,pop,20180721,97,75,4,20180721
-98,NEW,Solo,Clean Bandit Featuring Demi Lovato,Clean Bandit,pop,electronic,20180721,98,58,12,20180721
+98,NEW,Solo,Clean Bandit Featuring Demi Lovato,Clean Bandit,electronic,electronic,20180721,98,58,12,20180721
 99,89,Sin Pijama,Becky G + Natti Natasha,Becky G + Natti Natasha,pop,unknown,20180707,83,70,10,20180721
 100,36,Is There More,Drake,Drake,hip-hop,hip-hop,20180714,36,36,2,20180721
 1,6,Nice For What,Drake,Drake,hip-hop,hip-hop,20180421,1,1,25,20180714
@@ -1417,7 +1417,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 16,3,Lucid Dreams,Juice Wrld,Juice Wrld,hip-hop,hip-hop,20180526,74,2,22,20180714
 17,NEW,Survival,Drake,Drake,hip-hop,hip-hop,20180714,17,17,2,20180714
 18,NEW,Can't Take A Joke,Drake,Drake,hip-hop,hip-hop,20180714,18,18,4,20180714
-19,12,The Middle,"Zedd, Maren Morris & Grey",Zedd,pop,electronic,20180210,23,5,37,20180714
+19,12,The Middle,"Zedd, Maren Morris & Grey",Zedd,electronic,electronic,20180210,23,5,37,20180714
 20,NEW,Talk Up,Drake Featuring Jay-Z,Drake,hip-hop,hip-hop,20180714,20,20,3,20180714
 21,NEW,8 Out Of 10,Drake,Drake,hip-hop,hip-hop,20180714,21,21,3,20180714
 22,10,Meant To Be,Bebe Rexha & Florida Georgia Line,Bebe Rexha,pop,pop,20171111,61,2,51,20180714
@@ -1443,7 +1443,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 42,NEW,Finesse,Drake,Drake,hip-hop,hip-hop,20180714,42,42,2,20180714
 43,19,Apeshit,The Carters,The Carters,hip-hop,hip-hop,20180630,13,13,15,20180714
 44,27,Look Alive,Blocboy Jb Featuring Drake,Blocboy Jb,pop,memphis,20180224,6,5,25,20180714
-45,36,One Kiss,Calvin Harris & Dua Lipa,Calvin Harris,pop,electronic,20180421,62,26,21,20180714
+45,36,One Kiss,Calvin Harris & Dua Lipa,Calvin Harris,electronic,electronic,20180421,62,26,21,20180714
 46,37,Love Lies,Khalid & Normani,Khalid,pop,pop,20180303,43,9,34,20180714
 47,13,Moonlight,Xxxtentacion,Xxxtentacion,hip-hop,hip-hop,20180630,16,13,11,20180714
 48,32,Be Careful,Cardi B,Cardi B,hip-hop,hip-hop,20180414,16,11,20,20180714
@@ -1510,7 +1510,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 9,8,God's Plan,Drake,Drake,hip-hop,hip-hop,20180203,1,1,36,20180707
 10,11,Meant To Be,Bebe Rexha & Florida Georgia Line,Bebe Rexha,pop,pop,20171111,61,2,51,20180707
 11,12,Yes Indeed,Lil Baby & Drake,Lil Baby,hip-hop,hip-hop,20180526,49,6,22,20180707
-12,10,The Middle,"Zedd, Maren Morris & Grey",Zedd,pop,electronic,20180210,23,5,37,20180707
+12,10,The Middle,"Zedd, Maren Morris & Grey",Zedd,electronic,electronic,20180210,23,5,37,20180707
 13,16,Moonlight,Xxxtentacion,Xxxtentacion,hip-hop,hip-hop,20180630,16,13,11,20180707
 14,23,Better Now,Post Malone,Post Malone,hip-hop,hip-hop,20180512,7,3,24,20180707
 15,32,Plug Walk,Rich The Kid,Rich The Kid,hip-hop,hip-hop,20180224,62,13,20,20180707
@@ -1534,7 +1534,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 33,31,Rockstar,Post Malone Featuring 21 Savage,Post Malone,hip-hop,hip-hop,20171007,2,1,41,20180707
 34,28,Fuck Love,Xxxtentacion Featuring Trippie Redd,Xxxtentacion,hip-hop,hip-hop,20180630,28,28,2,20180707
 35,33,Back To You,Selena Gomez,Selena Gomez,pop,pop,20180526,50,18,22,20180707
-36,37,One Kiss,Calvin Harris & Dua Lipa,Calvin Harris,pop,electronic,20180421,62,26,21,20180707
+36,37,One Kiss,Calvin Harris & Dua Lipa,Calvin Harris,electronic,electronic,20180421,62,26,21,20180707
 37,36,Love Lies,Khalid & Normani,Khalid,pop,pop,20180303,43,9,34,20180707
 38,35,Heaven,Kane Brown,Kane Brown,country / folk,country,20180113,82,15,26,20180707
 39,39,Havana,Camila Cabello Featuring Young Thug,Camila Cabello,pop,pop,20170909,94,1,45,20180707
@@ -1592,10 +1592,10 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 91,90,Overdose,Youngboy Never Broke Again,Youngboy Never Broke Again,hip-hop,rap,20180512,77,42,9,20180707
 92,NEW,Life Changes,Thomas Rhett,Thomas Rhett,country / folk,country,20180707,92,36,14,20180707
 93,88,"Woman, Amen",Dierks Bentley,Dierks Bentley,country / folk,country,20180428,81,53,11,20180707
-94,74,Born To Be Yours,Kygo & Imagine Dragons,Kygo,pop,electronic,20180630,74,74,2,20180707
+94,74,Born To Be Yours,Kygo & Imagine Dragons,Kygo,electronic,electronic,20180630,74,74,2,20180707
 95,NEW,The Light Is Coming,Ariana Grande Featuring Nicki Minaj,Ariana Grande,pop,pop,20180707,95,95,1,20180707
 96,97,OTW,Khalid & Ty Dolla $Ign & 6Lack,Khalid,pop,pop,20180505,57,57,10,20180707
-97,NEW,Solo,Clean Bandit Featuring Demi Lovato,Clean Bandit,pop,electronic,20180707,97,97,1,20180707
+97,NEW,Solo,Clean Bandit Featuring Demi Lovato,Clean Bandit,electronic,electronic,20180707,97,97,1,20180707
 98,NEW,Take Back Home Girl,Chris Lane Featuring Tori Kelly,Chris Lane,country / folk,country,20180707,98,55,9,20180707
 99,77,Boss,The Carters,The Carters,hip-hop,hip-hop,20180630,77,77,2,20180707
 100,98,Sativa,Jhene Aiko Featurning Swae Lee Or Rae Sremmurd,Jhene Aiko Featurning Swae Lee Or Rae Sremmurd,pop,unknown,20180331,91,74,15,20180707
@@ -1608,7 +1608,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 7,7,Boo'd Up,Ella Mai,Ella Mai,rnb / soul,rnb,20180414,78,5,28,20180630
 8,4,God's Plan,Drake,Drake,hip-hop,hip-hop,20180203,1,1,36,20180630
 9,9,No Tears Left To Cry,Ariana Grande,Ariana Grande,pop,pop,20180505,3,3,25,20180630
-10,8,The Middle,"Zedd, Maren Morris & Grey",Zedd,pop,electronic,20180210,23,5,37,20180630
+10,8,The Middle,"Zedd, Maren Morris & Grey",Zedd,electronic,electronic,20180210,23,5,37,20180630
 11,10,Meant To Be,Bebe Rexha & Florida Georgia Line,Bebe Rexha,pop,pop,20171111,61,2,51,20180630
 12,11,Yes Indeed,Lil Baby & Drake,Lil Baby,hip-hop,hip-hop,20180526,49,6,22,20180630
 13,NEW,Apeshit,The Carters,The Carters,hip-hop,hip-hop,20180630,13,13,15,20180630
@@ -1635,7 +1635,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 34,32,Tequila,Dan + Shay,Dan + Shay,country / folk,country,20180331,87,21,30,20180630
 35,26,Heaven,Kane Brown,Kane Brown,country / folk,country,20180113,82,15,26,20180630
 36,34,Love Lies,Khalid & Normani,Khalid,pop,pop,20180303,43,9,34,20180630
-37,30,One Kiss,Calvin Harris & Dua Lipa,Calvin Harris,pop,electronic,20180421,62,26,21,20180630
+37,30,One Kiss,Calvin Harris & Dua Lipa,Calvin Harris,electronic,electronic,20180421,62,26,21,20180630
 38,38,Taste,Tyga Featuring Offset,Tyga,hip-hop,hip-hop,20180609,82,8,20,20180630
 39,27,Havana,Camila Cabello Featuring Young Thug,Camila Cabello,pop,pop,20170909,94,1,45,20180630
 40,36,Te Bote,Casper Magico & Nio Garcia & Darell & Nicky Jam & Ozuna & Ba,Casper Magico,pop,unknown,20180505,74,36,21,20180630
@@ -1672,7 +1672,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 71,65,KOD,J. Cole,J. Cole,hip-hop,hip-hop,20180505,10,10,12,20180630
 72,66,Everything's Gonna Be Alright,David Lee Murphy & Kenny Chesney,David Lee Murphy,country / folk,country,20180505,95,66,13,20180630
 73,54,Call Out My Name,The Weeknd,The Weeknd,rnb / soul,rnb,20180414,4,4,18,20180630
-74,NEW,Born To Be Yours,Kygo & Imagine Dragons,Kygo,pop,electronic,20180630,74,74,2,20180630
+74,NEW,Born To Be Yours,Kygo & Imagine Dragons,Kygo,electronic,electronic,20180630,74,74,2,20180630
 75,74,Alone,Halsey Featuring Big Sean & Stefflon Don,Halsey,pop,pop,20180505,92,66,13,20180630
 76,68,Esskeetit,Lil Pump,Lil Pump,hip-hop,hip-hop,20180428,24,24,12,20180630
 77,NEW,Boss,The Carters,The Carters,hip-hop,hip-hop,20180630,77,77,2,20180630
@@ -1685,7 +1685,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 84,NEW,Summer,The Carters,The Carters,hip-hop,hip-hop,20180630,84,84,1,20180630
 85,NEW,Drowns The Whiskey,Jason Aldean Featuring Miranda Lambert,Jason Aldean,country / folk,country,20180630,85,32,16,20180630
 86,89,Life Goes On,Lil Baby Featuring Gunna & Lil Uzi Vert,Lil Baby,hip-hop,hip-hop,20180602,80,74,6,20180630
-87,100,Welcome To The Party,"Diplo, French Montana & Lil Pump Featuring Zhavia Ward","Diplo, French Montana & Lil Pump",pop,electronic,20180616,78,78,3,20180630
+87,100,Welcome To The Party,"Diplo, French Montana & Lil Pump Featuring Zhavia Ward","Diplo, French Montana & Lil Pump",electronic,electronic,20180616,78,78,3,20180630
 88,53,"Woman, Amen",Dierks Bentley,Dierks Bentley,country / folk,country,20180428,81,53,11,20180630
 89,80,Dame Tu Cosita,El Chombo,El Chombo,rock,brutal death metal,20180505,81,36,9,20180630
 90,77,Overdose,Youngboy Never Broke Again,Youngboy Never Broke Again,hip-hop,rap,20180512,77,42,9,20180630
@@ -1706,7 +1706,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 5,4,Girls Like You,Maroon 5 Featuring Cardi B,Maroon 5,rock,rock,20180609,94,1,20,20180623
 6,9,Lucid Dreams,Juice Wrld,Juice Wrld,hip-hop,hip-hop,20180526,74,2,22,20180623
 7,6,Boo'd Up,Ella Mai,Ella Mai,rnb / soul,rnb,20180414,78,5,28,20180623
-8,10,The Middle,"Zedd, Maren Morris & Grey",Zedd,pop,electronic,20180210,23,5,37,20180623
+8,10,The Middle,"Zedd, Maren Morris & Grey",Zedd,electronic,electronic,20180210,23,5,37,20180623
 9,13,No Tears Left To Cry,Ariana Grande,Ariana Grande,pop,pop,20180505,3,3,25,20180623
 10,12,Meant To Be,Bebe Rexha & Florida Georgia Line,Bebe Rexha,pop,pop,20171111,61,2,51,20180623
 11,15,Yes Indeed,Lil Baby & Drake,Lil Baby,hip-hop,hip-hop,20180526,49,6,22,20180623
@@ -1728,7 +1728,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 27,33,Havana,Camila Cabello Featuring Young Thug,Camila Cabello,pop,pop,20170909,94,1,45,20180623
 28,32,I'm Upset,Drake,Drake,hip-hop,hip-hop,20180609,19,7,16,20180623
 29,26,Wait,Maroon 5,Maroon 5,rock,rock,20180203,88,24,23,20180623
-30,38,One Kiss,Calvin Harris & Dua Lipa,Calvin Harris,pop,electronic,20180421,62,26,21,20180623
+30,38,One Kiss,Calvin Harris & Dua Lipa,Calvin Harris,electronic,electronic,20180421,62,26,21,20180623
 31,11,All Mine,Kanye West,Kanye West,hip-hop,hip-hop,20180616,11,11,9,20180623
 32,41,Tequila,Dan + Shay,Dan + Shay,country / folk,country,20180331,87,21,30,20180623
 33,35,Plug Walk,Rich The Kid,Rich The Kid,hip-hop,hip-hop,20180224,62,13,20,20180623
@@ -1798,7 +1798,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 97,91,Big Bank,"Yg Featuring 2 Chainz, Big Sean & Nicki Minaj",Yg,hip-hop,hip-hop,20180609,66,66,3,20180623
 98,95,Singles You Up,Jordan Davis,Jordan Davis,rock,rock,20180217,94,50,19,20180623
 99,100,Take Back Home Girl,Chris Lane Featuring Tori Kelly,Chris Lane,country / folk,country,20180616,100,99,2,20180623
-100,78,Welcome To The Party,"Diplo, French Montana & Lil Pump Featuring Zhavia Ward","Diplo, French Montana & Lil Pump",pop,electronic,20180616,78,78,3,20180623
+100,78,Welcome To The Party,"Diplo, French Montana & Lil Pump Featuring Zhavia Ward","Diplo, French Montana & Lil Pump",electronic,electronic,20180616,78,78,3,20180623
 1,2,Psycho,Post Malone Featuring Ty Dolla $Ign,Post Malone,hip-hop,hip-hop,20180310,2,1,33,20180616
 2,1,Nice For What,Drake,Drake,hip-hop,hip-hop,20180421,1,1,25,20180616
 3,7,I Like It,"Cardi B, Bad Bunny & J Balvin","Cardi B, Bad Bunny & J Balvin",hip-hop,hip-hop,20180421,8,1,27,20180616
@@ -1808,7 +1808,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 7,4,This Is America,Childish Gambino,Childish Gambino,hip-hop,hip-hop,20180519,1,1,17,20180616
 8,NEW,Yikes,Kanye West,Kanye West,hip-hop,hip-hop,20180616,8,8,5,20180616
 9,15,Lucid Dreams,Juice Wrld,Juice Wrld,hip-hop,hip-hop,20180526,74,2,22,20180616
-10,5,The Middle,"Zedd, Maren Morris & Grey",Zedd,pop,electronic,20180210,23,5,37,20180616
+10,5,The Middle,"Zedd, Maren Morris & Grey",Zedd,electronic,electronic,20180210,23,5,37,20180616
 11,NEW,All Mine,Kanye West,Kanye West,hip-hop,hip-hop,20180616,11,11,9,20180616
 12,9,Meant To Be,Bebe Rexha & Florida Georgia Line,Bebe Rexha,pop,pop,20171111,61,2,51,20180616
 13,10,No Tears Left To Cry,Ariana Grande,Ariana Grande,pop,pop,20180505,3,3,25,20180616
@@ -1836,7 +1836,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 35,27,Plug Walk,Rich The Kid,Rich The Kid,hip-hop,hip-hop,20180224,62,13,20,20180616
 36,NEW,No Mistakes,Kanye West,Kanye West,hip-hop,hip-hop,20180616,36,36,1,20180616
 37,28,Delicate,Taylor Swift,Taylor Swift,country / folk,country,20180324,84,12,31,20180616
-38,32,One Kiss,Calvin Harris & Dua Lipa,Calvin Harris,pop,electronic,20180421,62,26,21,20180616
+38,32,One Kiss,Calvin Harris & Dua Lipa,Calvin Harris,electronic,electronic,20180421,62,26,21,20180616
 39,26,Freaky Friday,Lil Dicky Featuring Chris Brown,Lil Dicky,hip-hop,hip-hop,20180331,9,8,20,20180616
 40,31,New Rules,Dua Lipa,Dua Lipa,pop,pop,20170819,90,6,48,20180616
 41,37,Tequila,Dan + Shay,Dan + Shay,country / folk,country,20180331,87,21,30,20180616
@@ -1876,7 +1876,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 75,61,Dame Tu Cosita,El Chombo,El Chombo,rock,brutal death metal,20180505,81,36,9,20180616
 76,71,I Lived It,Blake Shelton,Blake Shelton,country / folk,country,20180317,99,63,18,20180616
 77,NEW,Beautiful Crazy,Luke Combs,Luke Combs,country / folk,country,20180616,77,77,2,20180616
-78,NEW,Welcome To The Party,"Diplo, French Montana & Lil Pump Featuring Zhavia Ward","Diplo, French Montana & Lil Pump",pop,electronic,20180616,78,78,3,20180616
+78,NEW,Welcome To The Party,"Diplo, French Montana & Lil Pump Featuring Zhavia Ward","Diplo, French Montana & Lil Pump",electronic,electronic,20180616,78,78,3,20180616
 79,89,Lovely,Billie Eilish & Khalid,Billie Eilish,pop,pop,20180609,89,78,5,20180616
 80,77,OTW,Khalid & Ty Dolla $Ign & 6Lack,Khalid,pop,pop,20180505,57,57,10,20180616
 81,NEW,Must've Never Met You,Luke Combs,Luke Combs,country / folk,country,20180616,81,81,1,20180616
@@ -1903,7 +1903,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 2,4,Psycho,Post Malone Featuring Ty Dolla $Ign,Post Malone,hip-hop,hip-hop,20180310,2,1,33,20180609
 3,3,God's Plan,Drake,Drake,hip-hop,hip-hop,20180203,1,1,36,20180609
 4,2,This Is America,Childish Gambino,Childish Gambino,hip-hop,hip-hop,20180519,1,1,17,20180609
-5,5,The Middle,"Zedd, Maren Morris & Grey",Zedd,pop,electronic,20180210,23,5,37,20180609
+5,5,The Middle,"Zedd, Maren Morris & Grey",Zedd,electronic,electronic,20180210,23,5,37,20180609
 6,6,Yes Indeed,Lil Baby & Drake,Lil Baby,hip-hop,hip-hop,20180526,49,6,22,20180609
 7,19,I Like It,"Cardi B, Bad Bunny & J Balvin","Cardi B, Bad Bunny & J Balvin",hip-hop,hip-hop,20180421,8,1,27,20180609
 8,8,Boo'd Up,Ella Mai,Ella Mai,rnb / soul,rnb,20180414,78,5,28,20180609
@@ -1930,7 +1930,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 29,25,Pray For Me,The Weeknd & Kendrick Lamar,The Weeknd,rnb / soul,rnb,20180217,7,7,20,20180609
 30,29,Better Now,Post Malone,Post Malone,hip-hop,hip-hop,20180512,7,3,24,20180609
 31,31,New Rules,Dua Lipa,Dua Lipa,pop,pop,20170819,90,6,48,20180609
-32,43,One Kiss,Calvin Harris & Dua Lipa,Calvin Harris,pop,electronic,20180421,62,26,21,20180609
+32,43,One Kiss,Calvin Harris & Dua Lipa,Calvin Harris,electronic,electronic,20180421,62,26,21,20180609
 33,28,Chun-Li,Nicki Minaj,Nicki Minaj,hip-hop,hip-hop,20180421,92,10,14,20180609
 34,38,One Number Away,Luke Combs,Luke Combs,country / folk,country,20180331,84,34,20,20180609
 35,36,Love Lies,Khalid & Normani,Khalid,pop,pop,20180303,43,9,34,20180609
@@ -2003,7 +2003,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 2,1,This Is America,Childish Gambino,Childish Gambino,hip-hop,hip-hop,20180519,1,1,17,20180602
 3,3,God's Plan,Drake,Drake,hip-hop,hip-hop,20180203,1,1,36,20180602
 4,4,Psycho,Post Malone Featuring Ty Dolla $Ign,Post Malone,hip-hop,hip-hop,20180310,2,1,33,20180602
-5,6,The Middle,"Zedd, Maren Morris & Grey",Zedd,pop,electronic,20180210,23,5,37,20180602
+5,6,The Middle,"Zedd, Maren Morris & Grey",Zedd,electronic,electronic,20180210,23,5,37,20180602
 6,49,Yes Indeed,Lil Baby & Drake,Lil Baby,hip-hop,hip-hop,20180526,49,6,22,20180602
 7,5,Meant To Be,Bebe Rexha & Florida Georgia Line,Bebe Rexha,pop,pop,20171111,61,2,51,20180602
 8,11,Boo'd Up,Ella Mai,Ella Mai,rnb / soul,rnb,20180414,78,5,28,20180602
@@ -2041,7 +2041,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 40,38,Te Bote,Casper Magico & Nio Garcia & Darell & Nicky Jam & Ozuna & Ba,Casper Magico,pop,unknown,20180505,74,36,21,20180602
 41,31,Powerglide,Rae Sremmurd & Juicy J,Rae Sremmurd,hip-hop,hip-hop,20180317,76,28,17,20180602
 42,52,Overdose,Youngboy Never Broke Again,Youngboy Never Broke Again,hip-hop,rap,20180512,77,42,9,20180602
-43,39,One Kiss,Calvin Harris & Dua Lipa,Calvin Harris,pop,electronic,20180421,62,26,21,20180602
+43,39,One Kiss,Calvin Harris & Dua Lipa,Calvin Harris,electronic,electronic,20180421,62,26,21,20180602
 44,48,Tequila,Dan + Shay,Dan + Shay,country / folk,country,20180331,87,21,30,20180602
 45,37,Ric Flair Drip,Offset & Metro Boomin,Offset,pop,ambient,20171118,71,13,31,20180602
 46,50,Back To You,Selena Gomez,Selena Gomez,pop,pop,20180526,50,18,22,20180602
@@ -2082,7 +2082,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 81,75,Most People Are Good,Luke Bryan,Luke Bryan,country / folk,country,20180210,94,43,18,20180602
 82,NEW,Let It Sing,Kevin Gates,Kevin Gates,hip-hop,hip-hop,20180602,82,82,1,20180602
 83,NEW,Sangria Wine,Pharrell Williams X Camila Cabello,Pharrell Williams,hip-hop,hip-hop,20180602,83,83,1,20180602
-84,NEW,Welcome To The Party,"Diplo, French Montana & Lil Pump Featuring Zhavia Ward","Diplo, French Montana & Lil Pump",pop,electronic,20180602,84,84,1,20180602
+84,NEW,Welcome To The Party,"Diplo, French Montana & Lil Pump Featuring Zhavia Ward","Diplo, French Montana & Lil Pump",electronic,electronic,20180602,84,84,1,20180602
 85,76,Zombie,Bad Wolves,Bad Wolves,rock,groove metal,20180324,54,54,17,20180602
 86,NEW,Champion,Nav Featuring Travis Scott,Nav,rock,black metal,20180602,86,86,1,20180602
 87,87,Red Roses,Lil Skies Featuring Landon Cure,Lil Skies,hip-hop,hip-hop,20180120,98,69,20,20180602
@@ -2104,7 +2104,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 3,3,God's Plan,Drake,Drake,hip-hop,hip-hop,20180203,1,1,36,20180526
 4,4,Psycho,Post Malone Featuring Ty Dolla $Ign,Post Malone,hip-hop,hip-hop,20180310,2,1,33,20180526
 5,5,Meant To Be,Bebe Rexha & Florida Georgia Line,Bebe Rexha,pop,pop,20171111,61,2,51,20180526
-6,6,The Middle,"Zedd, Maren Morris & Grey",Zedd,pop,electronic,20180210,23,5,37,20180526
+6,6,The Middle,"Zedd, Maren Morris & Grey",Zedd,electronic,electronic,20180210,23,5,37,20180526
 7,10,No Tears Left To Cry,Ariana Grande,Ariana Grande,pop,pop,20180505,3,3,25,20180526
 8,7,Look Alive,Blocboy Jb Featuring Drake,Blocboy Jb,pop,memphis,20180224,6,5,25,20180526
 9,8,Never Be The Same,Camila Cabello,Camila Cabello,pop,pop,20180113,71,6,35,20180526
@@ -2137,7 +2137,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 36,46,Delicate,Taylor Swift,Taylor Swift,country / folk,country,20180324,84,12,31,20180526
 37,37,Ric Flair Drip,Offset & Metro Boomin,Offset,pop,ambient,20171118,71,13,31,20180526
 38,41,Te Bote,Casper Magico & Nio Garcia & Darell & Nicky Jam & Ozuna & Ba,Casper Magico,pop,unknown,20180505,74,36,21,20180526
-39,49,One Kiss,Calvin Harris & Dua Lipa,Calvin Harris,pop,electronic,20180421,62,26,21,20180526
+39,49,One Kiss,Calvin Harris & Dua Lipa,Calvin Harris,electronic,electronic,20180421,62,26,21,20180526
 40,48,Japan,Famous Dex,Famous Dex,pop,drill,20180407,70,28,15,20180526
 41,42,X,Nicky Jam X J Balvin,Nicky Jam,pop,reggaeton,20180317,80,41,21,20180526
 42,16,Watch,Travis Scott Featuring Lil Uzi Vert & Kanye West,Travis Scott,hip-hop,hip-hop,20180519,16,16,5,20180526
@@ -2204,7 +2204,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 3,3,God's Plan,Drake,Drake,hip-hop,hip-hop,20180203,1,1,36,20180519
 4,2,Psycho,Post Malone Featuring Ty Dolla $Ign,Post Malone,hip-hop,hip-hop,20180310,2,1,33,20180519
 5,4,Meant To Be,Bebe Rexha & Florida Georgia Line,Bebe Rexha,pop,pop,20171111,61,2,51,20180519
-6,5,The Middle,"Zedd, Maren Morris & Grey",Zedd,pop,electronic,20180210,23,5,37,20180519
+6,5,The Middle,"Zedd, Maren Morris & Grey",Zedd,electronic,electronic,20180210,23,5,37,20180519
 7,9,Look Alive,Blocboy Jb Featuring Drake,Blocboy Jb,pop,memphis,20180224,6,5,25,20180519
 8,6,Never Be The Same,Camila Cabello,Camila Cabello,pop,pop,20180113,71,6,35,20180519
 9,12,Perfect,Ed Sheeran,Ed Sheeran,pop,acoustic,20171007,89,1,54,20180519
@@ -2247,7 +2247,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 46,56,Delicate,Taylor Swift,Taylor Swift,country / folk,country,20180324,84,12,31,20180519
 47,77,Overdose,Youngboy Never Broke Again,Youngboy Never Broke Again,hip-hop,rap,20180512,77,42,9,20180519
 48,55,Japan,Famous Dex,Famous Dex,pop,drill,20180407,70,28,15,20180519
-49,61,One Kiss,Calvin Harris & Dua Lipa,Calvin Harris,pop,electronic,20180421,62,26,21,20180519
+49,61,One Kiss,Calvin Harris & Dua Lipa,Calvin Harris,electronic,electronic,20180421,62,26,21,20180519
 50,53,Stir Fry,Migos,Migos,hip-hop,hip-hop,20180106,94,8,21,20180519
 51,15,Spoil My Night,Post Malone Featuring Swae Lee,Post Malone,hip-hop,hip-hop,20180512,15,15,5,20180519
 52,44,KOD,J. Cole,J. Cole,hip-hop,hip-hop,20180505,10,10,12,20180519
@@ -2303,7 +2303,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 2,5,Psycho,Post Malone Featuring Ty Dolla $Ign,Post Malone,hip-hop,hip-hop,20180310,2,1,33,20180512
 3,2,God's Plan,Drake,Drake,hip-hop,hip-hop,20180203,1,1,36,20180512
 4,4,Meant To Be,Bebe Rexha & Florida Georgia Line,Bebe Rexha,pop,pop,20171111,61,2,51,20180512
-5,7,The Middle,"Zedd, Maren Morris & Grey",Zedd,pop,electronic,20180210,23,5,37,20180512
+5,7,The Middle,"Zedd, Maren Morris & Grey",Zedd,electronic,electronic,20180210,23,5,37,20180512
 6,13,Never Be The Same,Camila Cabello,Camila Cabello,pop,pop,20180113,71,6,35,20180512
 7,NEW,Better Now,Post Malone,Post Malone,hip-hop,hip-hop,20180512,7,3,24,20180512
 8,32,Rockstar,Post Malone Featuring 21 Savage,Post Malone,hip-hop,hip-hop,20171007,2,1,41,20180512
@@ -2359,7 +2359,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 58,51,Drip,Cardi B Featuring Migos,Cardi B,hip-hop,hip-hop,20180421,21,21,10,20180512
 59,58,No Excuses,Meghan Trainor,Meghan Trainor,pop,pop,20180317,46,46,12,20180512
 60,31,Sad!,Xxxtentacion,Xxxtentacion,hip-hop,hip-hop,20180317,17,1,32,20180512
-61,64,One Kiss,Calvin Harris & Dua Lipa,Calvin Harris,pop,electronic,20180421,62,26,21,20180512
+61,64,One Kiss,Calvin Harris & Dua Lipa,Calvin Harris,electronic,electronic,20180421,62,26,21,20180512
 62,NEW,Famous,Mason Ramsey,Mason Ramsey,country / folk,country,20180512,62,62,2,20180512
 63,59,Love Lies,Khalid & Normani,Khalid,pop,pop,20180303,43,9,34,20180512
 64,74,Te Bote,Casper Magico & Nio Garcia & Darell & Nicky Jam & Ozuna & Ba,Casper Magico,pop,unknown,20180505,74,36,21,20180512
@@ -2405,7 +2405,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 4,3,Meant To Be,Bebe Rexha & Florida Georgia Line,Bebe Rexha,pop,pop,20171111,61,2,51,20180505
 5,4,Psycho,Post Malone Featuring Ty Dolla $Ign,Post Malone,hip-hop,hip-hop,20180310,2,1,33,20180505
 6,NEW,ATM,J. Cole,J. Cole,hip-hop,hip-hop,20180505,6,6,5,20180505
-7,5,The Middle,"Zedd, Maren Morris & Grey",Zedd,pop,electronic,20180210,23,5,37,20180505
+7,5,The Middle,"Zedd, Maren Morris & Grey",Zedd,electronic,electronic,20180210,23,5,37,20180505
 8,NEW,Kevin's Heart,J. Cole,J. Cole,hip-hop,hip-hop,20180505,8,8,5,20180505
 9,6,Look Alive,Blocboy Jb Featuring Drake,Blocboy Jb,pop,memphis,20180224,6,5,25,20180505
 10,NEW,KOD,J. Cole,J. Cole,hip-hop,hip-hop,20180505,10,10,12,20180505
@@ -2462,7 +2462,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 61,52,New Freezer,Rich The Kid Featuring Kendrick Lamar,Rich The Kid,hip-hop,hip-hop,20180210,75,41,19,20180505
 62,43,Most People Are Good,Luke Bryan,Luke Bryan,country / folk,country,20180210,94,43,18,20180505
 63,57,Tequila,Dan + Shay,Dan + Shay,country / folk,country,20180331,87,21,30,20180505
-64,64,One Kiss,Calvin Harris & Dua Lipa,Calvin Harris,pop,electronic,20180421,62,26,21,20180505
+64,64,One Kiss,Calvin Harris & Dua Lipa,Calvin Harris,electronic,electronic,20180421,62,26,21,20180505
 65,41,Say Something,Justin Timberlake Featuring Chris Stapleton,Justin Timberlake,pop,pop,20180210,9,9,16,20180505
 66,63,Everyday,Logic & Marshmello,Logic,hip-hop,hip-hop,20180317,43,29,13,20180505
 67,59,Singles You Up,Jordan Davis,Jordan Davis,rock,rock,20180217,94,50,19,20180505
@@ -2503,7 +2503,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 2,2,God's Plan,Drake,Drake,hip-hop,hip-hop,20180203,1,1,36,20180428
 3,3,Meant To Be,Bebe Rexha & Florida Georgia Line,Bebe Rexha,pop,pop,20171111,61,2,51,20180428
 4,4,Psycho,Post Malone Featuring Ty Dolla $Ign,Post Malone,hip-hop,hip-hop,20180310,2,1,33,20180428
-5,6,The Middle,"Zedd, Maren Morris & Grey",Zedd,pop,electronic,20180210,23,5,37,20180428
+5,6,The Middle,"Zedd, Maren Morris & Grey",Zedd,electronic,electronic,20180210,23,5,37,20180428
 6,5,Look Alive,Blocboy Jb Featuring Drake,Blocboy Jb,pop,memphis,20180224,6,5,25,20180428
 7,7,Perfect,Ed Sheeran,Ed Sheeran,pop,acoustic,20171007,89,1,54,20180428
 8,9,Freaky Friday,Lil Dicky Featuring Chris Brown,Lil Dicky,hip-hop,hip-hop,20180331,9,8,20,20180428
@@ -2562,7 +2562,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 61,59,Diamond Teeth Samurai,Youngboy Never Broke Again,Youngboy Never Broke Again,hip-hop,rap,20180421,59,59,5,20180428
 62,72,Boo'd Up,Ella Mai,Ella Mai,rnb / soul,rnb,20180414,78,5,28,20180428
 63,76,Everyday,Logic & Marshmello,Logic,hip-hop,hip-hop,20180317,43,29,13,20180428
-64,62,One Kiss,Calvin Harris & Dua Lipa,Calvin Harris,pop,electronic,20180421,62,26,21,20180428
+64,62,One Kiss,Calvin Harris & Dua Lipa,Calvin Harris,electronic,electronic,20180421,62,26,21,20180428
 65,71,The Long Way,Brett Eldredge,Brett Eldredge,country / folk,country,20180217,93,65,12,20180428
 66,95,I Lived It,Blake Shelton,Blake Shelton,country / folk,country,20180317,99,63,18,20180428
 67,39,Best Life,Cardi B Featuring Chance The Rapper,Cardi B,hip-hop,hip-hop,20180421,39,39,3,20180428
@@ -2604,7 +2604,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 3,2,Meant To Be,Bebe Rexha & Florida Georgia Line,Bebe Rexha,pop,pop,20171111,61,2,51,20180421
 4,3,Psycho,Post Malone Featuring Ty Dolla $Ign,Post Malone,hip-hop,hip-hop,20180310,2,1,33,20180421
 5,5,Look Alive,Blocboy Jb Featuring Drake,Blocboy Jb,pop,memphis,20180224,6,5,25,20180421
-6,6,The Middle,"Zedd, Maren Morris & Grey",Zedd,pop,electronic,20180210,23,5,37,20180421
+6,6,The Middle,"Zedd, Maren Morris & Grey",Zedd,electronic,electronic,20180210,23,5,37,20180421
 7,7,Perfect,Ed Sheeran,Ed Sheeran,pop,acoustic,20171007,89,1,54,20180421
 8,NEW,I Like It,"Cardi B, Bad Bunny & J Balvin","Cardi B, Bad Bunny & J Balvin",hip-hop,hip-hop,20180421,8,1,27,20180421
 9,9,Freaky Friday,Lil Dicky Featuring Chris Brown,Lil Dicky,hip-hop,hip-hop,20180331,9,8,20,20180421
@@ -2660,7 +2660,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 59,NEW,Diamond Teeth Samurai,Youngboy Never Broke Again,Youngboy Never Broke Again,hip-hop,rap,20180421,59,59,5,20180421
 60,49,Most People Are Good,Luke Bryan,Luke Bryan,country / folk,country,20180210,94,43,18,20180421
 61,47,X,Nicky Jam X J Balvin,Nicky Jam,pop,reggaeton,20180317,80,41,21,20180421
-62,NEW,One Kiss,Calvin Harris & Dua Lipa,Calvin Harris,pop,electronic,20180421,62,26,21,20180421
+62,NEW,One Kiss,Calvin Harris & Dua Lipa,Calvin Harris,electronic,electronic,20180421,62,26,21,20180421
 63,27,Wasted Times,The Weeknd,The Weeknd,rnb / soul,rnb,20180414,27,27,3,20180421
 64,57,IDGAF,Dua Lipa,Dua Lipa,pop,pop,20180127,92,49,23,20180421
 65,NEW,A$AP Forever,A$Ap Rocky Featuring Moby,A$Ap Rocky,hip-hop,hip-hop,20180421,65,65,1,20180421
@@ -2704,7 +2704,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 3,4,Psycho,Post Malone Featuring Ty Dolla $Ign,Post Malone,hip-hop,hip-hop,20180310,2,1,33,20180414
 4,NEW,Call Out My Name,The Weeknd,The Weeknd,rnb / soul,rnb,20180414,4,4,18,20180414
 5,6,Look Alive,Blocboy Jb Featuring Drake,Blocboy Jb,pop,memphis,20180224,6,5,25,20180414
-6,7,The Middle,"Zedd, Maren Morris & Grey",Zedd,pop,electronic,20180210,23,5,37,20180414
+6,7,The Middle,"Zedd, Maren Morris & Grey",Zedd,electronic,electronic,20180210,23,5,37,20180414
 7,5,Perfect,Ed Sheeran,Ed Sheeran,pop,acoustic,20171007,89,1,54,20180414
 8,3,Finesse,Bruno Mars & Cardi B,Bruno Mars,pop,pop,20180113,35,3,23,20180414
 9,8,Freaky Friday,Lil Dicky Featuring Chris Brown,Lil Dicky,hip-hop,hip-hop,20180331,9,8,20,20180414
@@ -2805,7 +2805,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 4,5,Psycho,Post Malone Featuring Ty Dolla $Ign,Post Malone,hip-hop,hip-hop,20180310,2,1,33,20180407
 5,3,Perfect,Ed Sheeran,Ed Sheeran,pop,acoustic,20171007,89,1,54,20180407
 6,11,Look Alive,Blocboy Jb Featuring Drake,Blocboy Jb,pop,memphis,20180224,6,5,25,20180407
-7,6,The Middle,"Zedd, Maren Morris & Grey",Zedd,pop,electronic,20180210,23,5,37,20180407
+7,6,The Middle,"Zedd, Maren Morris & Grey",Zedd,electronic,electronic,20180210,23,5,37,20180407
 8,9,Freaky Friday,Lil Dicky Featuring Chris Brown,Lil Dicky,hip-hop,hip-hop,20180331,9,8,20,20180407
 9,7,Sad!,Xxxtentacion,Xxxtentacion,hip-hop,hip-hop,20180317,17,1,32,20180407
 10,8,Havana,Camila Cabello Featuring Young Thug,Camila Cabello,pop,pop,20170909,94,1,45,20180407
@@ -2904,7 +2904,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 3,2,Perfect,Ed Sheeran,Ed Sheeran,pop,acoustic,20171007,89,1,54,20180331
 4,3,Finesse,Bruno Mars & Cardi B,Bruno Mars,pop,pop,20180113,35,3,23,20180331
 5,5,Psycho,Post Malone Featuring Ty Dolla $Ign,Post Malone,hip-hop,hip-hop,20180310,2,1,33,20180331
-6,6,The Middle,"Zedd, Maren Morris & Grey",Zedd,pop,electronic,20180210,23,5,37,20180331
+6,6,The Middle,"Zedd, Maren Morris & Grey",Zedd,electronic,electronic,20180210,23,5,37,20180331
 7,19,Sad!,Xxxtentacion,Xxxtentacion,hip-hop,hip-hop,20180317,17,1,32,20180331
 8,7,Havana,Camila Cabello Featuring Young Thug,Camila Cabello,pop,pop,20170909,94,1,45,20180331
 9,NEW,Freaky Friday,Lil Dicky Featuring Chris Brown,Lil Dicky,hip-hop,hip-hop,20180331,9,8,20,20180331
@@ -2998,13 +2998,13 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 97,99,Echame La Culpa,Luis Fonsi & Demi Lovato,Luis Fonsi,pop,pop,20171209,47,47,20,20180331
 98,NEW,La Modelo,Ozuna X Cardi B,Ozuna,pop,reggaeton,20180331,98,94,3,20180331
 99,100,Dark Knight Dummo,Trippie Redd Featuring Travis Scott,Trippie Redd,hip-hop,hip-hop,20180310,82,82,5,20180331
-100,NEW,Everybody Hates Me,The Chainsmokers,The Chainsmokers,pop,electronic,20180331,100,100,1,20180331
+100,NEW,Everybody Hates Me,The Chainsmokers,The Chainsmokers,electronic,electronic,20180331,100,100,1,20180331
 1,1,God's Plan,Drake,Drake,hip-hop,hip-hop,20180203,1,1,36,20180324
 2,2,Perfect,Ed Sheeran,Ed Sheeran,pop,acoustic,20171007,89,1,54,20180324
 3,3,Finesse,Bruno Mars & Cardi B,Bruno Mars,pop,pop,20180113,35,3,23,20180324
 4,5,Meant To Be,Bebe Rexha & Florida Georgia Line,Bebe Rexha,pop,pop,20171111,61,2,51,20180324
 5,4,Psycho,Post Malone Featuring Ty Dolla $Ign,Post Malone,hip-hop,hip-hop,20180310,2,1,33,20180324
-6,8,The Middle,"Zedd, Maren Morris & Grey",Zedd,pop,electronic,20180210,23,5,37,20180324
+6,8,The Middle,"Zedd, Maren Morris & Grey",Zedd,electronic,electronic,20180210,23,5,37,20180324
 7,6,Havana,Camila Cabello Featuring Young Thug,Camila Cabello,pop,pop,20170909,94,1,45,20180324
 8,9,Pray For Me,The Weeknd & Kendrick Lamar,The Weeknd,rnb / soul,rnb,20180217,7,7,20,20180324
 9,7,Look Alive,Blocboy Jb Featuring Drake,Blocboy Jb,pop,memphis,20180224,6,5,25,20180324
@@ -3106,7 +3106,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 5,7,Meant To Be,Bebe Rexha & Florida Georgia Line,Bebe Rexha,pop,pop,20171111,61,2,51,20180317
 6,5,Havana,Camila Cabello Featuring Young Thug,Camila Cabello,pop,pop,20170909,94,1,45,20180317
 7,6,Look Alive,Blocboy Jb Featuring Drake,Blocboy Jb,pop,memphis,20180224,6,5,25,20180317
-8,11,The Middle,"Zedd, Maren Morris & Grey",Zedd,pop,electronic,20180210,23,5,37,20180317
+8,11,The Middle,"Zedd, Maren Morris & Grey",Zedd,electronic,electronic,20180210,23,5,37,20180317
 9,9,Pray For Me,The Weeknd & Kendrick Lamar,The Weeknd,rnb / soul,rnb,20180217,7,7,20,20180317
 10,12,Stir Fry,Migos,Migos,hip-hop,hip-hop,20180106,94,8,21,20180317
 11,10,All The Stars,Kendrick Lamar & Sza,Kendrick Lamar & Sza,pop,kendrick lamar,20180120,43,7,21,20180317
@@ -3209,7 +3209,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 8,6,Rockstar,Post Malone Featuring 21 Savage,Post Malone,hip-hop,hip-hop,20171007,2,1,41,20180310
 9,9,Pray For Me,The Weeknd & Kendrick Lamar,The Weeknd,rnb / soul,rnb,20180217,7,7,20,20180310
 10,7,All The Stars,Kendrick Lamar & Sza,Kendrick Lamar & Sza,pop,kendrick lamar,20180120,43,7,21,20180310
-11,13,The Middle,"Zedd, Maren Morris & Grey",Zedd,pop,electronic,20180210,23,5,37,20180310
+11,13,The Middle,"Zedd, Maren Morris & Grey",Zedd,electronic,electronic,20180210,23,5,37,20180310
 12,10,Stir Fry,Migos,Migos,hip-hop,hip-hop,20180106,94,8,21,20180310
 13,12,Let You Down,Nf,Nf,hip-hop,hip-hop,20171104,87,12,28,20180310
 14,11,New Rules,Dua Lipa,Dua Lipa,pop,pop,20170819,90,6,48,20180310
@@ -3311,7 +3311,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 10,10,Stir Fry,Migos,Migos,hip-hop,hip-hop,20180106,94,8,21,20180303
 11,8,New Rules,Dua Lipa,Dua Lipa,pop,pop,20170819,90,6,48,20180303
 12,12,Let You Down,Nf,Nf,hip-hop,hip-hop,20171104,87,12,28,20180303
-13,17,The Middle,"Zedd, Maren Morris & Grey",Zedd,pop,electronic,20180210,23,5,37,20180303
+13,17,The Middle,"Zedd, Maren Morris & Grey",Zedd,electronic,electronic,20180210,23,5,37,20180303
 14,14,Him & I,G-Eazy & Halsey,G-Eazy,hip-hop,hip-hop,20171223,21,14,20,20180303
 15,13,Love.,Kendrick Lamar Featuring Zacari,Kendrick Lamar,hip-hop,hip-hop,20171202,41,11,20,20180303
 16,15,Thunder,Imagine Dragons,Imagine Dragons,rock,indie,20170520,70,4,52,20180303
@@ -3415,7 +3415,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 14,15,Him & I,G-Eazy & Halsey,G-Eazy,hip-hop,hip-hop,20171223,21,14,20,20180224
 15,11,Thunder,Imagine Dragons,Imagine Dragons,rock,indie,20170520,70,4,52,20180224
 16,10,Bad At Love,Halsey,Halsey,pop,pop,20170923,81,5,33,20180224
-17,22,The Middle,"Zedd, Maren Morris & Grey",Zedd,pop,electronic,20180210,23,5,37,20180224
+17,22,The Middle,"Zedd, Maren Morris & Grey",Zedd,electronic,electronic,20180210,23,5,37,20180224
 18,14,MotorSport,"Migos, Nicki Minaj & Cardi B",Migos,hip-hop,hip-hop,20171118,14,6,22,20180224
 19,18,I Fall Apart,Post Malone,Post Malone,hip-hop,hip-hop,20171014,65,16,30,20180224
 20,16,No Limit,G-Eazy Featuring A$Ap Rocky & Cardi B,G-Eazy,hip-hop,hip-hop,20170930,85,4,29,20180224
@@ -3520,7 +3520,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 19,25,Bodak Yellow,Cardi B,Cardi B,hip-hop,hip-hop,20170722,85,1,35,20180217
 20,19,Bartier Cardi,Cardi B Featuring 21 Savage,Cardi B,hip-hop,hip-hop,20180106,14,14,20,20180217
 21,21,How Long,Charlie Puth,Charlie Puth,pop,pop,20171028,60,21,24,20180217
-22,23,The Middle,"Zedd, Maren Morris & Grey",Zedd,pop,electronic,20180210,23,5,37,20180217
+22,23,The Middle,"Zedd, Maren Morris & Grey",Zedd,electronic,electronic,20180210,23,5,37,20180217
 23,22,Shape Of You,Ed Sheeran,Ed Sheeran,pop,acoustic,20170128,1,1,59,20180217
 24,24,Gummo,6Ix9Ine,6Ix9Ine,hip-hop,hip-hop,20171202,58,12,20,20180217
 25,30,Wolves,Selena Gomez X Marshmello,Selena Gomez,pop,pop,20171111,88,20,23,20180217
@@ -3595,7 +3595,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 94,NEW,Singles You Up,Jordan Davis,Jordan Davis,rock,rock,20180217,94,50,19,20180217
 95,NEW,Criminal,Natti Natasha X Ozuna,Natti Natasha,pop,pop,20180217,95,95,2,20180217
 96,100,Corazon,Maluma X Nego Do Borel,Maluma,pop,mierda,20180113,92,87,6,20180217
-97,90,Sick Boy,The Chainsmokers,The Chainsmokers,pop,electronic,20180203,65,65,3,20180217
+97,90,Sick Boy,The Chainsmokers,The Chainsmokers,electronic,electronic,20180203,65,65,3,20180217
 98,NEW,A Girl Like You,Easton Corbin,Easton Corbin,country / folk,country,20180217,98,98,1,20180217
 99,NEW,Rock,Plies,Plies,hip-hop,rap,20180217,99,95,4,20180217
 100,NEW,Supplies,Justin Timberlake,Justin Timberlake,pop,pop,20180217,100,100,1,20180217
@@ -3621,7 +3621,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 20,13,Too Good At Goodbyes,Sam Smith,Sam Smith,rnb / soul,soul,20170930,5,4,24,20180210
 21,21,How Long,Charlie Puth,Charlie Puth,pop,pop,20171028,60,21,24,20180210
 22,22,Shape Of You,Ed Sheeran,Ed Sheeran,pop,acoustic,20170128,1,1,59,20180210
-23,NEW,The Middle,"Zedd, Maren Morris & Grey",Zedd,pop,electronic,20180210,23,5,37,20180210
+23,NEW,The Middle,"Zedd, Maren Morris & Grey",Zedd,electronic,electronic,20180210,23,5,37,20180210
 24,18,Gummo,6Ix9Ine,6Ix9Ine,hip-hop,hip-hop,20171202,58,12,20,20180210
 25,23,Bodak Yellow,Cardi B,Cardi B,hip-hop,hip-hop,20170722,85,1,35,20180210
 26,17,Gucci Gang,Lil Pump,Lil Pump,hip-hop,hip-hop,20170930,81,3,24,20180210
@@ -3688,14 +3688,14 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 87,NEW,Emoji A Chain,Migos,Migos,hip-hop,hip-hop,20180210,87,87,1,20180210
 88,91,Beautiful Trauma,P!Nk,P!Nk,pop,pop,20180120,95,78,13,20180210
 89,80,Round Here Buzz,Eric Church,Eric Church,country / folk,country,20171014,97,56,19,20180210
-90,65,Sick Boy,The Chainsmokers,The Chainsmokers,pop,electronic,20180203,65,65,3,20180210
+90,65,Sick Boy,The Chainsmokers,The Chainsmokers,electronic,electronic,20180203,65,65,3,20180210
 91,69,Rubbin Off The Paint,Ybn Nahmir,Ybn Nahmir,hip-hop,hip-hop,20171125,79,46,13,20180210
 92,NEW,El Farsante,Ozuna,Ozuna,pop,reggaeton,20180210,92,49,20,20180210
 93,92,IDGAF,Dua Lipa,Dua Lipa,pop,pop,20180127,92,49,23,20180210
 94,NEW,Most People Are Good,Luke Bryan,Luke Bryan,country / folk,country,20180210,94,43,18,20180210
 95,94,Mayores,Becky G Featuring Bad Bunny,Becky G,pop,pop,20171118,83,74,15,20180210
 96,NEW,CC,Migos Featuring Gucci Mane,Migos,hip-hop,hip-hop,20180210,96,96,1,20180210
-97,89,Best Friend,"Sofi Tukker Featuring Nervo, The Knocks & Alisa Ueno",Sofi Tukker,pop,electronic,20180113,100,81,5,20180210
+97,89,Best Friend,"Sofi Tukker Featuring Nervo, The Knocks & Alisa Ueno",Sofi Tukker,electronic,electronic,20180113,100,81,5,20180210
 98,84,MIC Drop,Bts Featuring Desiigner,Bts,pop,k-pop,20171216,28,28,10,20180210
 99,83,King's Dead,"Jay Rock, Kendrick Lamar, Future & James Blake",Jay Rock,hip-hop,hip-hop,20180127,91,21,20,20180210
 100,93,Corazon,Maluma X Nego Do Borel,Maluma,pop,mierda,20180113,92,87,6,20180210
@@ -3763,7 +3763,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 62,61,Losing Sleep,Chris Young,Chris Young,country / folk,country,20171014,94,60,20,20180203
 63,52,Like I Loved You,Brett Young,Brett Young,country / folk,country,20171014,95,46,20,20180203
 64,83,Five More Minutes,Scotty Mccreery,Scotty Mccreery,country / folk,country,20171223,98,44,20,20180203
-65,NEW,Sick Boy,The Chainsmokers,The Chainsmokers,pop,electronic,20180203,65,65,3,20180203
+65,NEW,Sick Boy,The Chainsmokers,The Chainsmokers,electronic,electronic,20180203,65,65,3,20180203
 66,58,This Is Me,Keala Settle & The Greatest Showman Ensemble,Keala Settle,pop,soundtrack,20180113,83,58,11,20180203
 67,76,Heaven,Kane Brown,Kane Brown,country / folk,country,20180113,82,15,26,20180203
 68,57,Echame La Culpa,Luis Fonsi & Demi Lovato,Luis Fonsi,pop,pop,20171209,47,47,20,20180203
@@ -3787,7 +3787,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 86,73,Kooda,6Ix9Ine,6Ix9Ine,hip-hop,hip-hop,20171223,61,50,8,20180203
 87,85,Legends,Kelsea Ballerini,Kelsea Ballerini,country / folk,country,20171230,99,68,11,20180203
 88,NEW,Wait,Maroon 5,Maroon 5,rock,rock,20180203,88,24,23,20180203
-89,81,Best Friend,"Sofi Tukker Featuring Nervo, The Knocks & Alisa Ueno",Sofi Tukker,pop,electronic,20180113,100,81,5,20180203
+89,81,Best Friend,"Sofi Tukker Featuring Nervo, The Knocks & Alisa Ueno",Sofi Tukker,electronic,electronic,20180113,100,81,5,20180203
 90,86,Ice Tray,Quavo & Lil Yachty,Quavo,hip-hop,rap,20180103,82,74,6,20180203
 91,99,Beautiful Trauma,P!Nk,P!Nk,pop,pop,20180120,95,78,13,20180203
 92,92,IDGAF,Dua Lipa,Dua Lipa,pop,pop,20180127,92,49,23,20180203
@@ -3879,7 +3879,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 78,75,No Smoke,Youngboy Never Broke Again,Youngboy Never Broke Again,hip-hop,rap,20171230,93,61,17,20180127
 79,74,MIC Drop,Bts Featuring Desiigner,Bts,pop,k-pop,20171216,28,28,10,20180127
 80,NEW,My My My!,Troye Sivan,Troye Sivan,pop,pop,20180127,80,80,1,20180127
-81,86,Best Friend,"Sofi Tukker Featuring Nervo, The Knocks & Alisa Ueno",Sofi Tukker,pop,electronic,20180113,100,81,5,20180127
+81,86,Best Friend,"Sofi Tukker Featuring Nervo, The Knocks & Alisa Ueno",Sofi Tukker,electronic,electronic,20180113,100,81,5,20180127
 82,66,I'll Name The Dogs,Blake Shelton,Blake Shelton,country / folk,country,20170930,73,56,20,20180127
 83,77,Five More Minutes,Scotty Mccreery,Scotty Mccreery,country / folk,country,20171223,98,44,20,20180127
 84,NEW,Tequila,Dan & Shay,Dan & Shay,country / folk,country,20180127,84,84,1,20180127
@@ -3984,13 +3984,13 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 83,79,Legends,Kelsea Ballerini,Kelsea Ballerini,country / folk,country,20171230,99,68,11,20180120
 84,80,One Foot,Walk The Moon,Walk The Moon,rock,indie rock,20180113,80,65,8,20180120
 85,NEW,Nowadays,Lil Skies Featuring Landon Cure,Lil Skies,hip-hop,hip-hop,20180120,85,55,13,20180120
-86,100,Best Friend,"Sofi Tukker Featuring Nervo, The Knocks & Alisa Ueno",Sofi Tukker,pop,electronic,20180113,100,81,5,20180120
+86,100,Best Friend,"Sofi Tukker Featuring Nervo, The Knocks & Alisa Ueno",Sofi Tukker,electronic,electronic,20180113,100,81,5,20180120
 87,84,My Dawg,Lil Baby,Lil Baby,hip-hop,hip-hop,20171230,77,71,7,20180120
 88,95,The Greatest Show,"Hugh Jackman, Keala Settle, Zac Efron, Zendaya & The Greates",Hugh Jackman,pop,actors,20180113,95,88,4,20180120
 89,75,Krippy Kush,"Farruko, Nicki Minaj, Bad Bunny, 21 Savage & Rvssian",Farruko,pop,reggaeton,20180106,88,75,4,20180120
 90,92,Corazon,Maluma X Nego Do Borel,Maluma,pop,mierda,20180113,92,87,6,20180120
 91,91,Broken Halos,Chris Stapleton,Chris Stapleton,country / folk,country,20180113,91,45,15,20180120
-92,NEW,I Miss You,Clean Bandit Featuring Julia Michaels,Clean Bandit,pop,electronic,20180120,92,92,1,20180120
+92,NEW,I Miss You,Clean Bandit Featuring Julia Michaels,Clean Bandit,electronic,electronic,20180120,92,92,1,20180120
 93,86,Too Much To Ask,Niall Horan,Niall Horan,pop,pop,20171202,99,86,9,20180120
 94,81,Mayores,Becky G Featuring Bad Bunny,Becky G,pop,pop,20171118,83,74,15,20180120
 95,NEW,Beautiful Trauma,P!Nk,P!Nk,pop,pop,20180120,95,78,13,20180120
@@ -4098,7 +4098,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 97,NEW,Wanted You,Nav Featuring Lil Uzi Vert,Nav,rock,black metal,20180113,97,97,1,20180113
 98,96,Fuck Love,Xxxtentacion Featuring Trippie Redd,Xxxtentacion,hip-hop,hip-hop,20170916,41,41,19,20180113
 99,95,Home,"Machine Gun Kelly, X Ambassadors & Bebe Rexha",Machine Gun Kelly,hip-hop,hip-hop,20180103,90,90,4,20180113
-100,NEW,Best Friend,"Sofi Tukker Featuring Nervo, The Knocks & Alisa Ueno",Sofi Tukker,pop,electronic,20180113,100,81,5,20180113
+100,NEW,Best Friend,"Sofi Tukker Featuring Nervo, The Knocks & Alisa Ueno",Sofi Tukker,electronic,electronic,20180113,100,81,5,20180113
 1,1,Perfect,Ed Sheeran,Ed Sheeran,pop,acoustic,20171007,89,1,54,20180106
 2,2,Rockstar,Post Malone Featuring 21 Savage,Post Malone,hip-hop,hip-hop,20171007,2,1,41,20180106
 3,3,Havana,Camila Cabello Featuring Young Thug,Camila Cabello,pop,pop,20170909,94,1,45,20180106

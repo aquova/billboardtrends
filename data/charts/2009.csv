@@ -3,7 +3,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 2,3,TiK ToK,Ke$Ha,Ke$Ha,pop,pop,20091024,79,1,38,20091226
 3,2,Bad Romance,Lady Gaga,Lady Gaga,pop,pop,20091114,9,2,34,20091226
 4,4,Replay,Iyaz,Iyaz,rnb / soul,rnb,20090905,96,2,34,20091226
-5,5,Fireflies,Owl City,Owl City,pop,electronic,20090905,97,1,31,20091226
+5,5,Fireflies,Owl City,Owl City,electronic,electronic,20090905,97,1,31,20091226
 6,7,Sexy Bitch,David Guetta Featuring Akon,David Guetta,electronic,house,20090905,92,5,38,20091226
 7,6,Whatcha Say,Jason Derulo,Jason Derulo,rnb / soul,rnb,20090829,54,1,32,20091226
 8,8,Meet Me Halfway,The Black Eyed Peas,The Black Eyed Peas,hip-hop,hip-hop,20091003,75,7,24,20091226
@@ -103,7 +103,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 2,2,Bad Romance,Lady Gaga,Lady Gaga,pop,pop,20091114,9,2,34,20091219
 3,3,TiK ToK,Ke$Ha,Ke$Ha,pop,pop,20091024,79,1,38,20091219
 4,5,Replay,Iyaz,Iyaz,rnb / soul,rnb,20090905,96,2,34,20091219
-5,4,Fireflies,Owl City,Owl City,pop,electronic,20090905,97,1,31,20091219
+5,4,Fireflies,Owl City,Owl City,electronic,electronic,20090905,97,1,31,20091219
 6,6,Whatcha Say,Jason Derulo,Jason Derulo,rnb / soul,rnb,20090829,54,1,32,20091219
 7,8,Sexy Bitch,David Guetta Featuring Akon,David Guetta,electronic,house,20090905,92,5,38,20091219
 8,7,Meet Me Halfway,The Black Eyed Peas,The Black Eyed Peas,hip-hop,hip-hop,20091003,75,7,24,20091219
@@ -202,7 +202,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 1,1,Empire State Of Mind,Jay-Z & Alicia Keys,Jay-Z & Alicia Keys,hip-hop,hip-hop,20090926,50,1,30,20091212
 2,2,Bad Romance,Lady Gaga,Lady Gaga,pop,pop,20091114,9,2,34,20091212
 3,5,TiK ToK,Ke$Ha,Ke$Ha,pop,pop,20091024,79,1,38,20091212
-4,3,Fireflies,Owl City,Owl City,pop,electronic,20090905,97,1,31,20091212
+4,3,Fireflies,Owl City,Owl City,electronic,electronic,20090905,97,1,31,20091212
 5,6,Replay,Iyaz,Iyaz,rnb / soul,rnb,20090905,96,2,34,20091212
 6,4,Whatcha Say,Jason Derulo,Jason Derulo,rnb / soul,rnb,20090829,54,1,32,20091212
 7,12,Meet Me Halfway,The Black Eyed Peas,The Black Eyed Peas,hip-hop,hip-hop,20091003,75,7,24,20091212
@@ -301,7 +301,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 100,NEW,That's How Country Boys Roll,Billy Currington,Billy Currington,country / folk,country,20091212,100,85,4,20091212
 1,1,Empire State Of Mind,Jay-Z & Alicia Keys,Jay-Z & Alicia Keys,hip-hop,hip-hop,20090926,50,1,30,20091205
 2,11,Bad Romance,Lady Gaga,Lady Gaga,pop,pop,20091114,9,2,34,20091205
-3,2,Fireflies,Owl City,Owl City,pop,electronic,20090905,97,1,31,20091205
+3,2,Fireflies,Owl City,Owl City,electronic,electronic,20090905,97,1,31,20091205
 4,3,Whatcha Say,Jason Derulo,Jason Derulo,rnb / soul,rnb,20090829,54,1,32,20091205
 5,10,TiK ToK,Ke$Ha,Ke$Ha,pop,pop,20091024,79,1,38,20091205
 6,4,Replay,Iyaz,Iyaz,rnb / soul,rnb,20090905,96,2,34,20091205
@@ -400,7 +400,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 99,NEW,First Dance,Justin Bieber Featuring Usher,Justin Bieber,pop,pop,20091205,99,99,1,20091205
 100,NEW,Heartbreak Warfare,John Mayer,John Mayer,country / folk,singer-songwriter,20091205,100,100,1,20091205
 1,2,Empire State Of Mind,Jay-Z & Alicia Keys,Jay-Z & Alicia Keys,hip-hop,hip-hop,20090926,50,1,30,20091128
-2,1,Fireflies,Owl City,Owl City,pop,electronic,20090905,97,1,31,20091128
+2,1,Fireflies,Owl City,Owl City,electronic,electronic,20090905,97,1,31,20091128
 3,3,Whatcha Say,Jason Derulo,Jason Derulo,rnb / soul,rnb,20090829,54,1,32,20091128
 4,4,Replay,Iyaz,Iyaz,rnb / soul,rnb,20090905,96,2,34,20091128
 5,22,Need You Now,Lady Antebellum,Lady Antebellum,country / folk,country,20090829,85,2,60,20091128
@@ -499,7 +499,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 98,NEW,I Get It In,Omarion Featuring Gucci Mane,Omarion,rnb / soul,rnb,20091128,98,83,6,20091128
 99,NEW,Why Don't We Just Dance,Josh Turner,Josh Turner,country / folk,country,20091128,99,35,20,20091128
 100,NEW,Undertow,Timbaland Featuring The Fray & Esthero,Timbaland,hip-hop,hip-hop,20091128,100,100,1,20091128
-1,2,Fireflies,Owl City,Owl City,pop,electronic,20090905,97,1,31,20091121
+1,2,Fireflies,Owl City,Owl City,electronic,electronic,20090905,97,1,31,20091121
 2,3,Empire State Of Mind,Jay-Z & Alicia Keys,Jay-Z & Alicia Keys,hip-hop,hip-hop,20090926,50,1,30,20091121
 3,1,Whatcha Say,Jason Derulo,Jason Derulo,rnb / soul,rnb,20090829,54,1,32,20091121
 4,12,Replay,Iyaz,Iyaz,rnb / soul,rnb,20090905,96,2,34,20091121
@@ -580,7 +580,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 79,77,I Will Not Bow,Breaking Benjamin,Breaking Benjamin,rock,alternative rock,20090919,40,40,20,20091121
 80,78,Regret,Letoya Featuring Ludacris,Letoya,rnb / soul,rnb,20091031,96,78,6,20091121
 81,NEW,(If You're Wondering If I Want You To) I Want You To,Weezer,Weezer,rock,rock,20091121,81,81,7,20091121
-82,66,Starstrukk,3Oh!3 Featuring Katy Perry,3Oh!3,pop,electronic,20090905,95,66,12,20091121
+82,66,Starstrukk,3Oh!3 Featuring Katy Perry,3Oh!3,electronic,electronic,20090905,95,66,12,20091121
 83,84,All The Right Moves,Onerepublic,Onerepublic,rock,rock,20091024,58,18,34,20091121
 84,59,Number One,R. Kelly Featuring Keri Hilson,R. Kelly,rnb / soul,rnb,20090912,96,59,11,20091121
 85,62,American Ride,Toby Keith,Toby Keith,country / folk,country,20090815,54,35,16,20091121
@@ -600,7 +600,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 99,NEW,Defying Gravity,Glee Cast Featuring Chris Colfer & Lea Michele,Glee Cast,pop,musical,20091121,99,31,3,20091121
 100,34,Forever & Always,Taylor Swift,Taylor Swift,country / folk,country,20091114,34,34,2,20091121
 1,2,Whatcha Say,Jason Derulo,Jason Derulo,rnb / soul,rnb,20090829,54,1,32,20091114
-2,1,Fireflies,Owl City,Owl City,pop,electronic,20090905,97,1,31,20091114
+2,1,Fireflies,Owl City,Owl City,electronic,electronic,20090905,97,1,31,20091114
 3,13,Empire State Of Mind,Jay-Z & Alicia Keys,Jay-Z & Alicia Keys,hip-hop,hip-hop,20090926,50,1,30,20091114
 4,3,Down,Jay Sean Featuring Lil Wayne,Jay Sean,rnb / soul,rnb,20090718,72,1,40,20091114
 5,4,Party In The U.S.A.,Miley Cyrus,Miley Cyrus,pop,pop,20090829,2,2,28,20091114
@@ -664,7 +664,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 63,67,Consider Me Gone,Reba,Reba,country / folk,country,20091017,96,38,19,20091114
 64,60,Doesn't Mean Anything,Alicia Keys,Alicia Keys,rnb / soul,soul,20091010,61,60,10,20091114
 65,66,Uprising,Muse,Muse,rock,alternative rock,20091003,37,37,19,20091114
-66,70,Starstrukk,3Oh!3 Featuring Katy Perry,3Oh!3,pop,electronic,20090905,95,66,12,20091114
+66,70,Starstrukk,3Oh!3 Featuring Katy Perry,3Oh!3,electronic,electronic,20090905,95,66,12,20091114
 67,61,Southern Voice,Tim Mcgraw,Tim Mcgraw,country / folk,country,20091107,61,49,18,20091114
 68,44,Who Says,John Mayer,John Mayer,country / folk,singer-songwriter,20091031,17,17,8,20091114
 69,73,I Wanna Make You Close Your Eyes,Dierks Bentley,Dierks Bentley,country / folk,country,20091017,91,52,20,20091114
@@ -686,7 +686,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 85,59,Be On You,Flo Rida Featuring Ne-Yo,Flo Rida,hip-hop,hip-hop,20090808,90,19,15,20091114
 86,82,One Less Lonely Girl,Justin Bieber,Justin Bieber,pop,pop,20091024,16,16,6,20091114
 87,NEW,Undo It,Carrie Underwood,Carrie Underwood,country / folk,country,20091114,87,87,1,20091114
-88,79,La La La,Lmfao,Lmfao,pop,electronic,20091003,61,55,7,20091114
+88,79,La La La,Lmfao,Lmfao,electronic,electronic,20091003,61,55,7,20091114
 89,78,Haven't Met You Yet,Michael Buble,Michael Buble,jazz,jazz,20091024,90,24,43,20091114
 90,83,Ain't No Rest For The Wicked,Cage The Elephant,Cage The Elephant,rock,indie rock,20091107,83,83,3,20091114
 91,84,Under,Pleasure P,Pleasure P,rnb / soul,rnb,20090912,87,78,10,20091114
@@ -695,11 +695,11 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 94,63,Good Morning,Chamillionaire,Chamillionaire,hip-hop,rap,20091031,40,40,3,20091114
 95,88,Break,Three Days Grace,Three Days Grace,rock,alternative rock,20090926,91,73,20,20091114
 96,89,Wheels,Foo Fighters,Foo Fighters,rock,rock,20091017,73,72,10,20091114
-97,NEW,Shots,Lmfao Featuring Lil Jon,Lmfao,pop,electronic,20091114,97,97,1,20091114
+97,NEW,Shots,Lmfao Featuring Lil Jon,Lmfao,electronic,electronic,20091114,97,97,1,20091114
 98,98,Happy,Leona Lewis,Leona Lewis,pop,pop,20091107,98,31,7,20091114
 99,94,You're A Jerk,New Boyz,New Boyz,hip-hop,hip-hop,20090704,32,24,20,20091114
 100,NEW,I Get It In,Omarion Featuring Gucci Mane,Omarion,rnb / soul,rnb,20091114,100,100,1,20091114
-1,7,Fireflies,Owl City,Owl City,pop,electronic,20090905,97,1,31,20091107
+1,7,Fireflies,Owl City,Owl City,electronic,electronic,20090905,97,1,31,20091107
 2,2,Whatcha Say,Jason Derulo,Jason Derulo,rnb / soul,rnb,20090829,54,1,32,20091107
 3,1,Down,Jay Sean Featuring Lil Wayne,Jay Sean,rnb / soul,rnb,20090718,72,1,40,20091107
 4,3,Party In The U.S.A.,Miley Cyrus,Miley Cyrus,pop,pop,20090829,2,2,28,20091107
@@ -768,7 +768,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 67,80,Consider Me Gone,Reba,Reba,country / folk,country,20091017,96,38,19,20091107
 68,85,All The Right Moves,Onerepublic,Onerepublic,rock,rock,20091024,58,18,34,20091107
 69,75,Number One,R. Kelly Featuring Keri Hilson,R. Kelly,rnb / soul,rnb,20090912,96,59,11,20091107
-70,66,Starstrukk,3Oh!3 Featuring Katy Perry,3Oh!3,pop,electronic,20090905,95,66,12,20091107
+70,66,Starstrukk,3Oh!3 Featuring Katy Perry,3Oh!3,electronic,electronic,20090905,95,66,12,20091107
 71,73,Runaway,Love And Theft,Love And Theft,country / folk,country,20090912,65,65,11,20091107
 72,74,I'm Going In,Drake Featuring Lil Wayne & Young Jeezy,Drake,hip-hop,hip-hop,20091003,40,40,17,20091107
 73,81,I Wanna Make You Close Your Eyes,Dierks Bentley,Dierks Bentley,country / folk,country,20091017,91,52,20,20091107
@@ -777,7 +777,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 76,86,Bonfire,Craig Morgan,Craig Morgan,country / folk,country,20091010,98,57,14,20091107
 77,78,I Will Not Bow,Breaking Benjamin,Breaking Benjamin,rock,alternative rock,20090919,40,40,20,20091107
 78,57,Haven't Met You Yet,Michael Buble,Michael Buble,jazz,jazz,20091024,90,24,43,20091107
-79,72,La La La,Lmfao,Lmfao,pop,electronic,20091003,61,55,7,20091107
+79,72,La La La,Lmfao,Lmfao,electronic,electronic,20091003,61,55,7,20091107
 80,NEW,Take Your Shirt Off,T-Pain,T-Pain,rnb / soul,rnb,20091107,80,80,1,20091107
 81,87,Bad Habits,Maxwell,Maxwell,rnb / soul,soul,20091010,96,71,13,20091107
 82,52,One Less Lonely Girl,Justin Bieber,Justin Bieber,pop,pop,20091024,16,16,6,20091107
@@ -793,7 +793,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 92,NEW,Temporary Home,Carrie Underwood,Carrie Underwood,country / folk,country,20091107,92,92,1,20091107
 93,NEW,Bust A Move,Glee Cast Featuring Matthew Morrison,Glee Cast,pop,musical,20091107,93,93,1,20091107
 94,89,You're A Jerk,New Boyz,New Boyz,hip-hop,hip-hop,20090704,32,24,20,20091107
-95,NEW,Vanilla Twilight,Owl City,Owl City,pop,electronic,20091107,95,95,1,20091107
+95,NEW,Vanilla Twilight,Owl City,Owl City,electronic,electronic,20091107,95,95,1,20091107
 96,100,Honky Tonk Stomp,Brooks & Dunn Featuring Billy Gibbons,Brooks & Dunn,country / folk,country,20091024,97,96,3,20091107
 97,91,I Want To Know What Love Is,Mariah Carey,Mariah Carey,pop,pop,20091003,66,60,6,20091107
 98,NEW,Happy,Leona Lewis,Leona Lewis,pop,pop,20091107,98,31,7,20091107
@@ -805,7 +805,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 4,5,Run This Town,"Jay-Z, Rihanna & Kanye West","Jay-Z, Rihanna & Kanye West",hip-hop,hip-hop,20090815,88,2,23,20091031
 5,1,3,Britney Spears,Britney Spears,pop,pop,20091024,1,1,20,20091031
 6,7,Paparazzi,Lady Gaga,Lady Gaga,pop,pop,20090912,74,6,27,20091031
-7,9,Fireflies,Owl City,Owl City,pop,electronic,20090905,97,1,31,20091031
+7,9,Fireflies,Owl City,Owl City,electronic,electronic,20090905,97,1,31,20091031
 8,6,I Gotta Feeling,The Black Eyed Peas,The Black Eyed Peas,hip-hop,hip-hop,20090627,2,1,56,20091031
 9,17,Meet Me Halfway,The Black Eyed Peas,The Black Eyed Peas,hip-hop,hip-hop,20091003,75,7,24,20091031
 10,8,You Belong With Me,Taylor Swift,Taylor Swift,country / folk,country,20090516,87,2,49,20091031
@@ -864,13 +864,13 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 63,61,Face Drop,Sean Kingston,Sean Kingston,rnb / soul,rnb,20091010,70,61,7,20091031
 64,70,Uprising,Muse,Muse,rock,alternative rock,20091003,37,37,19,20091031
 65,NEW,No Air,Glee Cast,Glee Cast,pop,musical,20091031,65,65,1,20091031
-66,72,Starstrukk,3Oh!3 Featuring Katy Perry,3Oh!3,pop,electronic,20090905,95,66,12,20091031
+66,72,Starstrukk,3Oh!3 Featuring Katy Perry,3Oh!3,electronic,electronic,20090905,95,66,12,20091031
 67,77,Fifteen,Taylor Swift,Taylor Swift,country / folk,country,20091003,94,23,19,20091031
 68,63,Small Town USA,Justin Moore,Justin Moore,country / folk,country,20090620,88,44,20,20091031
 69,59,LOL:-),Trey Songz Featuring Gucci Mane & Soulja Boy Tell'Em,Trey Songz,rnb / soul,rnb,20090919,51,51,8,20091031
 70,69,God In Me,Mary Mary Featuring Kierra Sheard,Mary Mary,pop,gospel,20090718,91,68,20,20091031
 71,30,It's My Life / Confessions Pt. 2,Glee Cast,Glee Cast,pop,musical,20091024,30,30,2,20091031
-72,64,La La La,Lmfao,Lmfao,pop,electronic,20091003,61,55,7,20091031
+72,64,La La La,Lmfao,Lmfao,electronic,electronic,20091003,61,55,7,20091031
 73,75,Runaway,Love And Theft,Love And Theft,country / folk,country,20090912,65,65,11,20091031
 74,74,I'm Going In,Drake Featuring Lil Wayne & Young Jeezy,Drake,hip-hop,hip-hop,20091003,40,40,17,20091031
 75,68,Number One,R. Kelly Featuring Keri Hilson,R. Kelly,rnb / soul,rnb,20090912,96,59,11,20091031
@@ -907,7 +907,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 6,5,I Gotta Feeling,The Black Eyed Peas,The Black Eyed Peas,hip-hop,hip-hop,20090627,2,1,56,20091024
 7,6,Paparazzi,Lady Gaga,Lady Gaga,pop,pop,20090912,74,6,27,20091024
 8,7,You Belong With Me,Taylor Swift,Taylor Swift,country / folk,country,20090516,87,2,49,20091024
-9,11,Fireflies,Owl City,Owl City,pop,electronic,20090905,97,1,31,20091024
+9,11,Fireflies,Owl City,Owl City,electronic,electronic,20090905,97,1,31,20091024
 10,9,Use Somebody,Kings Of Leon,Kings Of Leon,rock,rock,20090221,100,4,56,20091024
 11,8,Obsessed,Mariah Carey,Mariah Carey,pop,pop,20090725,11,7,21,20091024
 12,12,Sweet Dreams,Beyonce,Beyonce,rnb / soul,rnb,20090808,97,10,29,20091024
@@ -962,7 +962,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 61,64,Face Drop,Sean Kingston,Sean Kingston,rnb / soul,rnb,20091010,70,61,7,20091024
 62,62,Smile,Uncle Kracker,Uncle Kracker,rock,rock,20090829,93,43,23,20091024
 63,54,Small Town USA,Justin Moore,Justin Moore,country / folk,country,20090620,88,44,20,20091024
-64,56,La La La,Lmfao,Lmfao,pop,electronic,20091003,61,55,7,20091024
+64,56,La La La,Lmfao,Lmfao,electronic,electronic,20091003,61,55,7,20091024
 65,65,Doesn't Mean Anything,Alicia Keys,Alicia Keys,rnb / soul,soul,20091010,61,60,10,20091024
 66,74,Funhouse,Pink,Pink,pop,pop,20091010,97,44,11,20091024
 67,60,I Want To Know What Love Is,Mariah Carey,Mariah Carey,pop,pop,20091003,66,60,6,20091024
@@ -970,7 +970,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 69,70,God In Me,Mary Mary Featuring Kierra Sheard,Mary Mary,pop,gospel,20090718,91,68,20,20091024
 70,67,Uprising,Muse,Muse,rock,alternative rock,20091003,37,37,19,20091024
 71,NEW,Body Language,Jesse Mccartney Featuring T-Pain,Jesse Mccartney,pop,pop,20091024,71,35,14,20091024
-72,69,Starstrukk,3Oh!3 Featuring Katy Perry,3Oh!3,pop,electronic,20090905,95,66,12,20091024
+72,69,Starstrukk,3Oh!3 Featuring Katy Perry,3Oh!3,electronic,electronic,20090905,95,66,12,20091024
 73,77,I Will Not Bow,Breaking Benjamin,Breaking Benjamin,rock,alternative rock,20090919,40,40,20,20091024
 74,68,I'm Going In,Drake Featuring Lil Wayne & Young Jeezy,Drake,hip-hop,hip-hop,20091003,40,40,17,20091024
 75,75,Runaway,Love And Theft,Love And Theft,country / folk,country,20090912,65,65,11,20091024
@@ -994,9 +994,9 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 93,66,The Fixer,Pearl Jam,Pearl Jam,rock,grunge,20090912,56,56,7,20091024
 94,83,Young Forever,Jay-Z & Mr. Hudson,Jay-Z,hip-hop,hip-hop,20090926,75,41,5,20091024
 95,76,Don't Stop Believin',Glee Cast,Glee Cast,pop,musical,20091017,76,76,2,20091024
-96,87,I'm In Miami Trick,Lmfao,Lmfao,pop,electronic,20090627,86,51,18,20091024
+96,87,I'm In Miami Trick,Lmfao,Lmfao,electronic,electronic,20090627,86,51,18,20091024
 97,NEW,Honky Tonk Stomp,Brooks & Dunn Featuring Billy Gibbons,Brooks & Dunn,country / folk,country,20091024,97,96,3,20091024
-98,NEW,Shots,Lmfao Featuring Lil Jon,Lmfao,pop,electronic,20091024,98,98,1,20091024
+98,NEW,Shots,Lmfao Featuring Lil Jon,Lmfao,electronic,electronic,20091024,98,98,1,20091024
 99,92,Check My Brain,Alice In Chains,Alice In Chains,rock,grunge,20091003,99,92,4,20091024
 100,NEW,Money To Blow,Birdman Featuring Lil Wayne & Drake,Birdman,hip-hop,hip-hop,20091024,100,26,20,20091024
 1,2,Down,Jay Sean Featuring Lil Wayne,Jay Sean,rnb / soul,rnb,20090718,72,1,40,20091017
@@ -1009,7 +1009,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 8,9,Obsessed,Mariah Carey,Mariah Carey,pop,pop,20090725,11,7,21,20091017
 9,8,Use Somebody,Kings Of Leon,Kings Of Leon,rock,rock,20090221,100,4,56,20091017
 10,10,Empire State Of Mind,Jay-Z & Alicia Keys,Jay-Z & Alicia Keys,hip-hop,hip-hop,20090926,50,1,30,20091017
-11,24,Fireflies,Owl City,Owl City,pop,electronic,20090905,97,1,31,20091017
+11,24,Fireflies,Owl City,Owl City,electronic,electronic,20090905,97,1,31,20091017
 12,15,Sweet Dreams,Beyonce,Beyonce,rnb / soul,rnb,20090808,97,10,29,20091017
 13,12,Forever,"Drake Featuring Kanye West, Lil Wayne & Eminem",Drake,hip-hop,hip-hop,20091003,8,8,24,20091017
 14,11,Cowboy Casanova,Carrie Underwood,Carrie Underwood,country / folk,country,20091003,96,11,20,20091017
@@ -1054,7 +1054,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 53,62,Welcome To The Future,Brad Paisley,Brad Paisley,country / folk,country,20090822,98,42,16,20091017
 54,53,Small Town USA,Justin Moore,Justin Moore,country / folk,country,20090620,88,44,20,20091017
 55,64,I'm Alive,Kenny Chesney With Dave Matthews,Kenny Chesney With Dave Matthews,country / folk,country,20090905,90,32,16,20091017
-56,55,La La La,Lmfao,Lmfao,pop,electronic,20091003,61,55,7,20091017
+56,55,La La La,Lmfao,Lmfao,electronic,electronic,20091003,61,55,7,20091017
 57,52,Ice Cream Paint Job,Dorrough Music,Dorrough Music,hip-hop,hip-hop,20090613,92,27,20,20091017
 58,63,LOL:-),Trey Songz Featuring Gucci Mane & Soulja Boy Tell'Em,Trey Songz,rnb / soul,rnb,20090919,51,51,8,20091017
 59,65,Do I,Luke Bryan,Luke Bryan,country / folk,country,20090919,86,34,20,20091017
@@ -1067,7 +1067,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 66,57,The Fixer,Pearl Jam,Pearl Jam,rock,grunge,20090912,56,56,7,20091017
 67,66,Uprising,Muse,Muse,rock,alternative rock,20091003,37,37,19,20091017
 68,60,I'm Going In,Drake Featuring Lil Wayne & Young Jeezy,Drake,hip-hop,hip-hop,20091003,40,40,17,20091017
-69,73,Starstrukk,3Oh!3 Featuring Katy Perry,3Oh!3,pop,electronic,20090905,95,66,12,20091017
+69,73,Starstrukk,3Oh!3 Featuring Katy Perry,3Oh!3,electronic,electronic,20090905,95,66,12,20091017
 70,68,God In Me,Mary Mary Featuring Kierra Sheard,Mary Mary,pop,gospel,20090718,91,68,20,20091017
 71,69,Love Your Love The Most,Eric Church,Eric Church,country / folk,country,20090711,90,63,16,20091017
 72,80,Number One,R. Kelly Featuring Keri Hilson,R. Kelly,rnb / soul,rnb,20090912,96,59,11,20091017
@@ -1085,7 +1085,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 84,84,Sounds Like Life To Me,Darryl Worley,Darryl Worley,country / folk,country,20090829,100,84,9,20091017
 85,95,Red Light,David Nail,David Nail,country / folk,country,20091010,95,54,16,20091017
 86,93,Break,Three Days Grace,Three Days Grace,rock,alternative rock,20090926,91,73,20,20091017
-87,81,I'm In Miami Trick,Lmfao,Lmfao,pop,electronic,20090627,86,51,18,20091017
+87,81,I'm In Miami Trick,Lmfao,Lmfao,electronic,electronic,20090627,86,51,18,20091017
 88,NEW,Maybe This Time,Glee Cast,Glee Cast,pop,musical,20091017,88,88,1,20091017
 89,NEW,Live Like We're Dying,Kris Allen,Kris Allen,pop,american idol,20091017,89,89,1,20091017
 90,98,Bonfire,Craig Morgan,Craig Morgan,country / folk,country,20091010,98,57,14,20091017
@@ -1122,7 +1122,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 21,17,Successful,Drake Featuring Trey Songz,Drake,hip-hop,hip-hop,20090801,89,17,18,20091010
 22,24,Say Hey (I Love You),Michael Franti & Spearhead Featuring Cherine Anderson,Michael Franti & Spearhead,pop,seen live,20090808,82,18,20,20091010
 23,23,Be On You,Flo Rida Featuring Ne-Yo,Flo Rida,hip-hop,hip-hop,20090808,90,19,15,20091010
-24,46,Fireflies,Owl City,Owl City,pop,electronic,20090905,97,1,31,20091010
+24,46,Fireflies,Owl City,Owl City,electronic,electronic,20090905,97,1,31,20091010
 25,21,Battlefield,Jordin Sparks,Jordin Sparks,pop,pop,20090530,32,10,22,20091010
 26,27,One Time,Justin Bieber,Justin Bieber,pop,pop,20090815,78,17,24,20091010
 27,31,Already Gone,Kelly Clarkson,Kelly Clarkson,pop,pop,20090822,89,13,30,20091010
@@ -1153,7 +1153,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 52,44,Ice Cream Paint Job,Dorrough Music,Dorrough Music,hip-hop,hip-hop,20090613,92,27,20,20091010
 53,53,Small Town USA,Justin Moore,Justin Moore,country / folk,country,20090620,88,44,20,20091010
 54,58,Imma Star (Everywhre We Are),Jeremih,Jeremih,rnb / soul,rnb,20090808,96,51,20,20091010
-55,61,La La La,Lmfao,Lmfao,pop,electronic,20091003,61,55,7,20091010
+55,61,La La La,Lmfao,Lmfao,electronic,electronic,20091003,61,55,7,20091010
 56,57,Her Diamonds,Rob Thomas,Rob Thomas,pop,pop,20090606,42,23,20,20091010
 57,76,The Fixer,Pearl Jam,Pearl Jam,rock,grunge,20090912,56,56,7,20091010
 58,56,New Divide,Linkin Park,Linkin Park,rock,rock,20090606,6,6,20,20091010
@@ -1171,7 +1171,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 70,NEW,Face Drop,Sean Kingston,Sean Kingston,rnb / soul,rnb,20091010,70,61,7,20091010
 71,NEW,Taking Chances,Glee Cast,Glee Cast,pop,musical,20091010,71,71,1,20091010
 72,41,Young Forever,Jay-Z & Mr. Hudson,Jay-Z,hip-hop,hip-hop,20090926,75,41,5,20091010
-73,85,Starstrukk,3Oh!3 Featuring Katy Perry,3Oh!3,pop,electronic,20090905,95,66,12,20091010
+73,85,Starstrukk,3Oh!3 Featuring Katy Perry,3Oh!3,electronic,electronic,20090905,95,66,12,20091010
 74,60,Living For The Night,George Strait,George Strait,country / folk,country,20090627,92,53,17,20091010
 75,66,I Want To Know What Love Is,Mariah Carey,Mariah Carey,pop,pop,20091003,66,60,6,20091010
 76,71,Alright,Darius Rucker,Darius Rucker,country / folk,country,20090530,91,30,20,20091010
@@ -1179,7 +1179,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 78,78,I'll Just Hold On,Blake Shelton,Blake Shelton,country / folk,country,20090718,98,76,14,20091010
 79,87,Runaway,Love And Theft,Love And Theft,country / folk,country,20090912,65,65,11,20091010
 80,86,Number One,R. Kelly Featuring Keri Hilson,R. Kelly,rnb / soul,rnb,20090912,96,59,11,20091010
-81,81,I'm In Miami Trick,Lmfao,Lmfao,pop,electronic,20090627,86,51,18,20091010
+81,81,I'm In Miami Trick,Lmfao,Lmfao,electronic,electronic,20090627,86,51,18,20091010
 82,84,Under,Pleasure P,Pleasure P,rnb / soul,rnb,20090912,87,78,10,20091010
 83,50,Happy,Leona Lewis,Leona Lewis,pop,pop,20091003,50,50,2,20091010
 84,91,Sounds Like Life To Me,Darryl Worley,Darryl Worley,country / folk,country,20090829,100,84,9,20091010
@@ -1244,7 +1244,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 43,49,Poker Face,Lady Gaga,Lady Gaga,pop,pop,20090103,92,1,40,20091003
 44,30,Ice Cream Paint Job,Dorrough Music,Dorrough Music,hip-hop,hip-hop,20090613,92,27,20,20091003
 45,43,Only You Can Love Me This Way,Keith Urban,Keith Urban,country / folk,country,20090808,99,34,18,20091003
-46,58,Fireflies,Owl City,Owl City,pop,electronic,20090905,97,1,31,20091003
+46,58,Fireflies,Owl City,Owl City,electronic,electronic,20090905,97,1,31,20091003
 47,39,Evacuate The Dancefloor,Cascada,Cascada,electronic,dance,20090829,80,25,26,20091003
 48,47,Smile,Uncle Kracker,Uncle Kracker,rock,rock,20090829,93,43,23,20091003
 49,38,I'm Yours,Jason Mraz,Jason Mraz,country / folk,singer-songwriter,20080503,93,6,76,20091003
@@ -1259,7 +1259,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 58,51,Imma Star (Everywhre We Are),Jeremih,Jeremih,rnb / soul,rnb,20090808,96,51,20,20091003
 59,NEW,Pursuit Of Happiness (Nightmare),Kid Cudi Featuring Mgmt & Ratatat,Kid Cudi,hip-hop,hip-hop,20091003,59,59,2,20091003
 60,53,Living For The Night,George Strait,George Strait,country / folk,country,20090627,92,53,17,20091003
-61,NEW,La La La,Lmfao,Lmfao,pop,electronic,20091003,61,55,7,20091003
+61,NEW,La La La,Lmfao,Lmfao,electronic,electronic,20091003,61,55,7,20091003
 62,56,LOL:-),Trey Songz Featuring Gucci Mane & Soulja Boy Tell'Em,Trey Songz,rnb / soul,rnb,20090919,51,51,8,20091003
 63,94,Drop It Low,Ester Dean Featuring Chris Brown,Ester Dean,rnb / soul,rnb,20090926,94,38,17,20091003
 64,65,I'm Alive,Kenny Chesney With Dave Matthews,Kenny Chesney With Dave Matthews,country / folk,country,20090905,90,32,16,20091003
@@ -1279,11 +1279,11 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 78,77,I'll Just Hold On,Blake Shelton,Blake Shelton,country / folk,country,20090718,98,76,14,20091003
 79,64,Every Girl,Young Money,Young Money,hip-hop,hip-hop,20090523,96,10,20,20091003
 80,69,Boots On,Randy Houser,Randy Houser,country / folk,country,20090613,83,53,19,20091003
-81,73,I'm In Miami Trick,Lmfao,Lmfao,pop,electronic,20090627,86,51,18,20091003
+81,73,I'm In Miami Trick,Lmfao,Lmfao,electronic,electronic,20090627,86,51,18,20091003
 82,62,Summer Nights,Rascal Flatts,Rascal Flatts,country / folk,country,20090613,80,37,18,20091003
 83,88,I Look To You,Whitney Houston,Whitney Houston,pop,pop,20090905,99,70,5,20091003
 84,81,Under,Pleasure P,Pleasure P,rnb / soul,rnb,20090912,87,78,10,20091003
-85,80,Starstrukk,3Oh!3 Featuring Katy Perry,3Oh!3,pop,electronic,20090905,95,66,12,20091003
+85,80,Starstrukk,3Oh!3 Featuring Katy Perry,3Oh!3,electronic,electronic,20090905,95,66,12,20091003
 86,85,Number One,R. Kelly Featuring Keri Hilson,R. Kelly,rnb / soul,rnb,20090912,96,59,11,20091003
 87,79,Runaway,Love And Theft,Love And Theft,country / folk,country,20090912,65,65,11,20091003
 88,91,Break,Three Days Grace,Three Days Grace,rock,alternative rock,20090926,91,73,20,20091003
@@ -1356,7 +1356,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 55,61,Gettin' You Home (The Black Dress Song),Chris Young,Chris Young,country / folk,country,20090829,91,33,19,20090926
 56,51,LOL:-),Trey Songz Featuring Gucci Mane & Soulja Boy Tell'Em,Trey Songz,rnb / soul,rnb,20090919,51,51,8,20090926
 57,40,I Will Not Bow,Breaking Benjamin,Breaking Benjamin,rock,alternative rock,20090919,40,40,20,20090926
-58,82,Fireflies,Owl City,Owl City,pop,electronic,20090905,97,1,31,20090926
+58,82,Fireflies,Owl City,Owl City,electronic,electronic,20090905,97,1,31,20090926
 59,72,Need You Now,Lady Antebellum,Lady Antebellum,country / folk,country,20090829,85,2,60,20090926
 60,71,Sexy Bitch,David Guetta Featuring Akon,David Guetta,electronic,house,20090905,92,5,38,20090926
 61,52,Alright,Darius Rucker,Darius Rucker,country / folk,country,20090530,91,30,20,20090926
@@ -1371,14 +1371,14 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 70,74,The One,Mary J. Blige Featuring Drake,Mary J. Blige,rnb / soul,rnb,20090808,63,63,10,20090926
 71,64,Love Your Love The Most,Eric Church,Eric Church,country / folk,country,20090711,90,63,16,20090926
 72,66,Ego,Beyonce,Beyonce,rnb / soul,rnb,20090620,77,39,17,20090926
-73,62,I'm In Miami Trick,Lmfao,Lmfao,pop,electronic,20090627,86,51,18,20090926
+73,62,I'm In Miami Trick,Lmfao,Lmfao,electronic,electronic,20090627,86,51,18,20090926
 74,76,God In Me,Mary Mary Featuring Kierra Sheard,Mary Mary,pop,gospel,20090718,91,68,20,20090926
 75,NEW,Young Forever,Jay-Z & Mr. Hudson,Jay-Z,hip-hop,hip-hop,20090926,75,41,5,20090926
 76,86,Do I,Luke Bryan,Luke Bryan,country / folk,country,20090919,86,34,20,20090926
 77,78,I'll Just Hold On,Blake Shelton,Blake Shelton,country / folk,country,20090718,98,76,14,20090926
 78,NEW,Don't Stop Believin',Glee Cast,Glee Cast,pop,musical,20090926,78,78,1,20090926
 79,68,Runaway,Love And Theft,Love And Theft,country / folk,country,20090912,65,65,11,20090926
-80,94,Starstrukk,3Oh!3 Featuring Katy Perry,3Oh!3,pop,electronic,20090905,95,66,12,20090926
+80,94,Starstrukk,3Oh!3 Featuring Katy Perry,3Oh!3,electronic,electronic,20090905,95,66,12,20090926
 81,87,Under,Pleasure P,Pleasure P,rnb / soul,rnb,20090912,87,78,10,20090926
 82,67,Barefoot And Crazy,Jack Ingram,Jack Ingram,country / folk,country,20090711,98,64,12,20090926
 83,63,Send It On,Disney'S Friends For Change,Disney'S Friends For Change,pop,pop,20090829,20,20,5,20090926
@@ -1460,7 +1460,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 59,51,Make Her Say,Kid Cudi Featuring Kanye West & Common,Kid Cudi,hip-hop,hip-hop,20090627,51,43,15,20090919
 60,62,Smile,Uncle Kracker,Uncle Kracker,rock,rock,20090829,93,43,23,20090919
 61,67,Gettin' You Home (The Black Dress Song),Chris Young,Chris Young,country / folk,country,20090829,91,33,19,20090919
-62,59,I'm In Miami Trick,Lmfao,Lmfao,pop,electronic,20090627,86,51,18,20090919
+62,59,I'm In Miami Trick,Lmfao,Lmfao,electronic,electronic,20090627,86,51,18,20090919
 63,43,Send It On,Disney'S Friends For Change,Disney'S Friends For Change,pop,pop,20090829,20,20,5,20090919
 64,63,Love Your Love The Most,Eric Church,Eric Church,country / folk,country,20090711,90,63,16,20090919
 65,NEW,Haven't Met You Yet,Michael Buble,Michael Buble,jazz,jazz,20090919,65,65,1,20090919
@@ -1480,7 +1480,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 79,66,She Is Love,Parachute,Parachute,pop,pop,20090815,98,66,7,20090919
 80,69,It's A Business Doing Pleasure,Tim Mcgraw,Tim Mcgraw,country / folk,country,20090815,73,59,7,20090919
 81,61,Wetter (Calling You Daddy),Twista,Twista,hip-hop,rap,20090620,72,44,15,20090919
-82,94,Fireflies,Owl City,Owl City,pop,electronic,20090905,97,1,31,20090919
+82,94,Fireflies,Owl City,Owl City,electronic,electronic,20090905,97,1,31,20090919
 83,76,Last Chance,Ginuwine,Ginuwine,rnb / soul,rnb,20090620,95,63,16,20090919
 84,NEW,Body Language,Jesse Mccartney Featuring T-Pain,Jesse Mccartney,pop,pop,20090919,84,84,1,20090919
 85,56,The Fixer,Pearl Jam,Pearl Jam,rock,grunge,20090912,56,56,7,20090919
@@ -1492,7 +1492,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 91,83,Come Back To Me,David Cook,David Cook,rock,rock,20090606,84,73,18,20090919
 92,89,Sounds Like Life To Me,Darryl Worley,Darryl Worley,country / folk,country,20090829,100,84,9,20090919
 93,72,Wild At Heart,Gloriana,Gloriana,country / folk,country,20090613,82,53,15,20090919
-94,88,Starstrukk,3Oh!3 Featuring Katy Perry,3Oh!3,pop,electronic,20090905,95,66,12,20090919
+94,88,Starstrukk,3Oh!3 Featuring Katy Perry,3Oh!3,electronic,electronic,20090905,95,66,12,20090919
 95,NEW,Wasted,Gucci Mane Featuring Plies,Gucci Mane,hip-hop,hip-hop,20090919,95,36,19,20090919
 96,86,I Need A Girl,Trey Songz,Trey Songz,rnb / soul,rnb,20090613,85,59,15,20090919
 97,93,Falling Down,Selena Gomez & The Scene,Selena Gomez & The Scene,pop,pop,20090912,93,82,6,20090919
@@ -1557,7 +1557,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 56,NEW,The Fixer,Pearl Jam,Pearl Jam,rock,grunge,20090912,56,56,7,20090912
 57,65,Already Gone,Kelly Clarkson,Kelly Clarkson,pop,pop,20090822,89,13,30,20090912
 58,61,Living For The Night,George Strait,George Strait,country / folk,country,20090627,92,53,17,20090912
-59,55,I'm In Miami Trick,Lmfao,Lmfao,pop,electronic,20090627,86,51,18,20090912
+59,55,I'm In Miami Trick,Lmfao,Lmfao,electronic,electronic,20090627,86,51,18,20090912
 60,58,Ego,Beyonce,Beyonce,rnb / soul,rnb,20090620,77,39,17,20090912
 61,59,Wetter (Calling You Daddy),Twista,Twista,hip-hop,rap,20090620,72,44,15,20090912
 62,74,Smile,Uncle Kracker,Uncle Kracker,rock,rock,20090829,93,43,23,20090912
@@ -1586,13 +1586,13 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 85,NEW,Shake My,Three 6 Mafia Featuring Kalenna,Three 6 Mafia,hip-hop,rap,20090912,85,75,3,20090912
 86,75,I Need A Girl,Trey Songz,Trey Songz,rnb / soul,rnb,20090613,85,59,15,20090912
 87,NEW,Under,Pleasure P,Pleasure P,rnb / soul,rnb,20090912,87,78,10,20090912
-88,95,Starstrukk,3Oh!3 Featuring Katy Perry,3Oh!3,pop,electronic,20090905,95,66,12,20090912
+88,95,Starstrukk,3Oh!3 Featuring Katy Perry,3Oh!3,electronic,electronic,20090905,95,66,12,20090912
 89,87,Sounds Like Life To Me,Darryl Worley,Darryl Worley,country / folk,country,20090829,100,84,9,20090912
 90,86,Need You Now,Lady Antebellum,Lady Antebellum,country / folk,country,20090829,85,2,60,20090912
 91,84,Magic,Selena Gomez,Selena Gomez,pop,pop,20090822,61,61,4,20090912
 92,83,Out Last Night,Kenny Chesney,Kenny Chesney,country / folk,country,20090502,100,16,20,20090912
 93,NEW,Falling Down,Selena Gomez & The Scene,Selena Gomez & The Scene,pop,pop,20090912,93,82,6,20090912
-94,97,Fireflies,Owl City,Owl City,pop,electronic,20090905,97,1,31,20090912
+94,97,Fireflies,Owl City,Owl City,electronic,electronic,20090905,97,1,31,20090912
 95,91,Closer To Love,Mat Kearney,Mat Kearney,country / folk,singer-songwriter,20090829,96,91,4,20090912
 96,NEW,Number One,R. Kelly Featuring Keri Hilson,R. Kelly,rnb / soul,rnb,20090912,96,59,11,20090912
 97,88,Radar,Britney Spears,Britney Spears,pop,pop,20090829,90,88,3,20090912
@@ -1646,14 +1646,14 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 45,63,One Time,Justin Bieber,Justin Bieber,pop,pop,20090815,78,17,24,20090905
 46,53,Falling For You,Colbie Caillat,Colbie Caillat,pop,female vocalists,20090718,12,12,31,20090905
 47,47,Make Her Say,Kid Cudi Featuring Kanye West & Common,Kid Cudi,hip-hop,hip-hop,20090627,51,43,15,20090905
-48,31,Don't Trust Me,3Oh!3,3Oh!3,pop,electronic,20090103,95,7,36,20090905
+48,31,Don't Trust Me,3Oh!3,3Oh!3,electronic,electronic,20090103,95,7,36,20090905
 49,56,Toes,Zac Brown Band,Zac Brown Band,country / folk,country,20090808,95,25,20,20090905
 50,68,Sweet Dreams,Beyonce,Beyonce,rnb / soul,rnb,20090808,97,10,29,20090905
 51,52,Small Town USA,Justin Moore,Justin Moore,country / folk,country,20090620,88,44,20,20090905
 52,58,American Ride,Toby Keith,Toby Keith,country / folk,country,20090815,54,35,16,20090905
 53,65,Be On You,Flo Rida Featuring Ne-Yo,Flo Rida,hip-hop,hip-hop,20090808,90,19,15,20090905
 54,60,So Fine,Sean Paul,Sean Paul,electronic,dancehall,20090718,61,50,9,20090905
-55,55,I'm In Miami Trick,Lmfao,Lmfao,pop,electronic,20090627,86,51,18,20090905
+55,55,I'm In Miami Trick,Lmfao,Lmfao,electronic,electronic,20090627,86,51,18,20090905
 56,57,Boots On,Randy Houser,Randy Houser,country / folk,country,20090613,83,53,19,20090905
 57,80,Evacuate The Dancefloor,Cascada,Cascada,electronic,dance,20090829,80,25,26,20090905
 58,50,Ego,Beyonce,Beyonce,rnb / soul,rnb,20090620,77,39,17,20090905
@@ -1693,9 +1693,9 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 92,NEW,Sexy Bitch,David Guetta Featuring Akon,David Guetta,electronic,house,20090905,92,5,38,20090905
 93,84,Hush Hush,The Pussycat Dolls Featuring Nicole Scherzinger,The Pussycat Dolls,pop,pop,20090718,73,73,8,20090905
 94,95,Sound Of Madness,Shinedown,Shinedown,rock,rock,20090711,95,85,9,20090905
-95,NEW,Starstrukk,3Oh!3 Featuring Katy Perry,3Oh!3,pop,electronic,20090905,95,66,12,20090905
+95,NEW,Starstrukk,3Oh!3 Featuring Katy Perry,3Oh!3,electronic,electronic,20090905,95,66,12,20090905
 96,NEW,Replay,Iyaz,Iyaz,rnb / soul,rnb,20090905,96,2,34,20090905
-97,NEW,Fireflies,Owl City,Owl City,pop,electronic,20090905,97,1,31,20090905
+97,NEW,Fireflies,Owl City,Owl City,electronic,electronic,20090905,97,1,31,20090905
 98,NEW,Joey,Sugarland,Sugarland,country / folk,country,20090905,98,98,1,20090905
 99,NEW,I Look To You,Whitney Houston,Whitney Houston,pop,pop,20090905,99,70,5,20090905
 100,NEW,When Love Takes Over,David Guetta Featuring Kelly Rowland,David Guetta,electronic,house,20090905,100,100,1,20090905
@@ -1729,7 +1729,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 28,19,Birthday Sex,Jeremih,Jeremih,rnb / soul,rnb,20090425,91,4,20,20090829
 29,23,I'm Yours,Jason Mraz,Jason Mraz,country / folk,singer-songwriter,20080503,93,6,76,20090829
 30,28,The Climb,Miley Cyrus,Miley Cyrus,pop,pop,20090321,6,4,28,20090829
-31,26,Don't Trust Me,3Oh!3,3Oh!3,pop,electronic,20090103,95,7,36,20090829
+31,26,Don't Trust Me,3Oh!3,3Oh!3,electronic,electronic,20090103,95,7,36,20090829
 32,25,You're A Jerk,New Boyz,New Boyz,hip-hop,hip-hop,20090704,32,24,20,20090829
 33,37,Love Drunk,Boys Like Girls,Boys Like Girls,pop,pop punk,20090718,46,22,20,20090829
 34,30,Alright,Darius Rucker,Darius Rucker,country / folk,country,20090530,91,30,20,20090829
@@ -1753,7 +1753,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 52,56,Small Town USA,Justin Moore,Justin Moore,country / folk,country,20090620,88,44,20,20090829
 53,44,Falling For You,Colbie Caillat,Colbie Caillat,pop,female vocalists,20090718,12,12,31,20090829
 54,NEW,Whatcha Say,Jason Derulo,Jason Derulo,rnb / soul,rnb,20090829,54,1,32,20090829
-55,51,I'm In Miami Trick,Lmfao,Lmfao,pop,electronic,20090627,86,51,18,20090829
+55,51,I'm In Miami Trick,Lmfao,Lmfao,electronic,electronic,20090627,86,51,18,20090829
 56,52,Toes,Zac Brown Band,Zac Brown Band,country / folk,country,20090808,95,25,20,20090829
 57,55,Boots On,Randy Houser,Randy Houser,country / folk,country,20090613,83,53,19,20090829
 58,58,American Ride,Toby Keith,Toby Keith,country / folk,country,20090815,54,35,16,20090829
@@ -1824,7 +1824,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 23,35,I'm Yours,Jason Mraz,Jason Mraz,country / folk,singer-songwriter,20080503,93,6,76,20090822
 24,26,21 Guns,Green Day,Green Day,rock,punk rock,20090711,55,22,20,20090822
 25,24,You're A Jerk,New Boyz,New Boyz,hip-hop,hip-hop,20090704,32,24,20,20090822
-26,20,Don't Trust Me,3Oh!3,3Oh!3,pop,electronic,20090103,95,7,36,20090822
+26,20,Don't Trust Me,3Oh!3,3Oh!3,electronic,electronic,20090103,95,7,36,20090822
 27,32,No Surprise,Daughtry,Daughtry,rock,rock,20090523,15,15,24,20090822
 28,22,The Climb,Miley Cyrus,Miley Cyrus,pop,pop,20090321,6,4,28,20090822
 29,25,Second Chance,Shinedown,Shinedown,rock,rock,20081213,98,7,41,20090822
@@ -1849,7 +1849,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 48,41,That's Not My Name,The Ting Tings,The Ting Tings,rock,indie,20090718,45,39,6,20090822
 49,40,I Run To You,Lady Antebellum,Lady Antebellum,country / folk,country,20090404,100,27,21,20090822
 50,51,So Fine,Sean Paul,Sean Paul,electronic,dancehall,20090718,61,50,9,20090822
-51,58,I'm In Miami Trick,Lmfao,Lmfao,pop,electronic,20090627,86,51,18,20090822
+51,58,I'm In Miami Trick,Lmfao,Lmfao,electronic,electronic,20090627,86,51,18,20090822
 52,79,Toes,Zac Brown Band,Zac Brown Band,country / folk,country,20090808,95,25,20,20090822
 53,69,Wild At Heart,Gloriana,Gloriana,country / folk,country,20090613,82,53,15,20090822
 54,57,Jump,Flo Rida Featuring Nelly Furtado,Flo Rida,hip-hop,hip-hop,20090808,76,54,5,20090822
@@ -1918,7 +1918,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 17,13,Birthday Sex,Jeremih,Jeremih,rnb / soul,rnb,20090425,91,4,20,20090815
 18,19,Please Don't Leave Me,Pink,Pink,pop,pop,20090502,97,17,26,20090815
 19,18,New Divide,Linkin Park,Linkin Park,rock,rock,20090606,6,6,20,20090815
-20,16,Don't Trust Me,3Oh!3,3Oh!3,pop,electronic,20090103,95,7,36,20090815
+20,16,Don't Trust Me,3Oh!3,3Oh!3,electronic,electronic,20090103,95,7,36,20090815
 21,41,She Wolf,Shakira,Shakira,pop,pop,20090801,34,11,20,20090815
 22,21,The Climb,Miley Cyrus,Miley Cyrus,pop,pop,20090321,6,4,28,20090815
 23,20,Halo,Beyonce,Beyonce,rnb / soul,rnb,20090207,93,5,31,20090815
@@ -1956,7 +1956,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 55,58,Boots On,Randy Houser,Randy Houser,country / folk,country,20090613,83,53,19,20090815
 56,NEW,Sexy Bitch,David Guetta Featuring Akon,David Guetta,electronic,house,20090815,56,56,2,20090815
 57,76,Jump,Flo Rida Featuring Nelly Furtado,Flo Rida,hip-hop,hip-hop,20090808,76,54,5,20090815
-58,53,I'm In Miami Trick,Lmfao,Lmfao,pop,electronic,20090627,86,51,18,20090815
+58,53,I'm In Miami Trick,Lmfao,Lmfao,electronic,electronic,20090627,86,51,18,20090815
 59,65,Goodbye,Kristinia Debarge,Kristinia Debarge,pop,pop,20090509,75,15,16,20090815
 60,62,I Need A Girl,Trey Songz,Trey Songz,rnb / soul,rnb,20090613,85,59,15,20090815
 61,54,Then,Brad Paisley,Brad Paisley,country / folk,country,20090404,35,28,20,20090815
@@ -2014,7 +2014,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 13,9,Birthday Sex,Jeremih,Jeremih,rnb / soul,rnb,20090425,91,4,20,20090808
 14,13,Every Girl,Young Money,Young Money,hip-hop,hip-hop,20090523,96,10,20,20090808
 15,24,Here We Go Again,Demi Lovato,Demi Lovato,pop,pop,20090711,51,15,9,20090808
-16,14,Don't Trust Me,3Oh!3,3Oh!3,pop,electronic,20090103,95,7,36,20090808
+16,14,Don't Trust Me,3Oh!3,3Oh!3,electronic,electronic,20090103,95,7,36,20090808
 17,20,Obsessed,Mariah Carey,Mariah Carey,pop,pop,20090725,11,7,21,20090808
 18,15,New Divide,Linkin Park,Linkin Park,rock,rock,20090606,6,6,20,20090808
 19,17,Please Don't Leave Me,Pink,Pink,pop,pop,20090502,97,17,26,20090808
@@ -2051,7 +2051,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 50,52,Best Days Of Your Life,Kellie Pickler,Kellie Pickler,country / folk,country,20090425,50,46,20,20090808
 51,75,Make Her Say,Kid Cudi Featuring Kanye West & Common,Kid Cudi,hip-hop,hip-hop,20090627,51,43,15,20090808
 52,35,Love Drunk,Boys Like Girls,Boys Like Girls,pop,pop punk,20090718,46,22,20,20090808
-53,60,I'm In Miami Trick,Lmfao,Lmfao,pop,electronic,20090627,86,51,18,20090808
+53,60,I'm In Miami Trick,Lmfao,Lmfao,electronic,electronic,20090627,86,51,18,20090808
 54,55,Then,Brad Paisley,Brad Paisley,country / folk,country,20090404,35,28,20,20090808
 55,56,Out Last Night,Kenny Chesney,Kenny Chesney,country / folk,country,20090502,100,16,20,20090808
 56,57,Sideways,Dierks Bentley,Dierks Bentley,country / folk,country,20090418,90,35,20,20090808
@@ -2112,7 +2112,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 11,21,Use Somebody,Kings Of Leon,Kings Of Leon,rock,rock,20090221,100,4,56,20090801
 12,24,Good Girls Go Bad,Cobra Starship Featuring Leighton Meester,Cobra Starship,pop,pop punk,20090620,91,7,24,20090801
 13,16,Every Girl,Young Money,Young Money,hip-hop,hip-hop,20090523,96,10,20,20090801
-14,14,Don't Trust Me,3Oh!3,3Oh!3,pop,electronic,20090103,95,7,36,20090801
+14,14,Don't Trust Me,3Oh!3,3Oh!3,electronic,electronic,20090103,95,7,36,20090801
 15,13,New Divide,Linkin Park,Linkin Park,rock,rock,20090606,6,6,20,20090801
 16,15,Halo,Beyonce,Beyonce,rnb / soul,rnb,20090207,93,5,31,20090801
 17,20,Please Don't Leave Me,Pink,Pink,pop,pop,20090502,97,17,26,20090801
@@ -2158,7 +2158,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 57,53,Sideways,Dierks Bentley,Dierks Bentley,country / folk,country,20090418,90,35,20,20090801
 58,43,Goodbye,Kristinia Debarge,Kristinia Debarge,pop,pop,20090509,75,15,16,20090801
 59,62,So Fine,Sean Paul,Sean Paul,electronic,dancehall,20090718,61,50,9,20090801
-60,71,I'm In Miami Trick,Lmfao,Lmfao,pop,electronic,20090627,86,51,18,20090801
+60,71,I'm In Miami Trick,Lmfao,Lmfao,electronic,electronic,20090627,86,51,18,20090801
 61,59,Not Meant To Be,Theory Of A Deadman,Theory Of A Deadman,rock,rock,20090425,90,55,21,20090801
 62,35,Falling For You,Colbie Caillat,Colbie Caillat,pop,female vocalists,20090718,12,12,31,20090801
 63,78,Down,Jay Sean Featuring Lil Wayne,Jay Sean,rnb / soul,rnb,20090718,72,1,40,20090801
@@ -2212,7 +2212,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 11,NEW,Obsessed,Mariah Carey,Mariah Carey,pop,pop,20090725,11,7,21,20090725
 12,13,Waking Up In Vegas,Katy Perry,Katy Perry,pop,pop,20090516,65,9,23,20090725
 13,10,New Divide,Linkin Park,Linkin Park,rock,rock,20090606,6,6,20,20090725
-14,11,Don't Trust Me,3Oh!3,3Oh!3,pop,electronic,20090103,95,7,36,20090725
+14,11,Don't Trust Me,3Oh!3,3Oh!3,electronic,electronic,20090103,95,7,36,20090725
 15,16,Halo,Beyonce,Beyonce,rnb / soul,rnb,20090207,93,5,31,20090725
 16,14,Every Girl,Young Money,Young Money,hip-hop,hip-hop,20090523,96,10,20,20090725
 17,17,The Climb,Miley Cyrus,Miley Cyrus,pop,pop,20090321,6,4,28,20090725
@@ -2269,7 +2269,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 68,67,Boots On,Randy Houser,Randy Houser,country / folk,country,20090613,83,53,19,20090725
 69,59,Kiss A Girl,Keith Urban,Keith Urban,country / folk,country,20090328,51,16,20,20090725
 70,78,Last Chance,Ginuwine,Ginuwine,rnb / soul,rnb,20090620,95,63,16,20090725
-71,83,I'm In Miami Trick,Lmfao,Lmfao,pop,electronic,20090627,86,51,18,20090725
+71,83,I'm In Miami Trick,Lmfao,Lmfao,electronic,electronic,20090627,86,51,18,20090725
 72,70,Wanted,Jessie James,Jessie James,pop,pop,20090627,98,40,11,20090725
 73,69,Wild At Heart,Gloriana,Gloriana,country / folk,country,20090613,82,53,15,20090725
 74,NEW,I Wanna Know You,Hannah Montana & David Archuleta,Hannah Montana & David Archuleta,pop,pop,20090725,74,74,1,20090725
@@ -2309,7 +2309,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 8,6,I Know You Want Me (Calle Ocho),Pitbull,Pitbull,hip-hop,hip-hop,20090314,66,2,35,20090718
 9,11,You Belong With Me,Taylor Swift,Taylor Swift,country / folk,country,20090516,87,2,49,20090718
 10,9,New Divide,Linkin Park,Linkin Park,rock,rock,20090606,6,6,20,20090718
-11,12,Don't Trust Me,3Oh!3,3Oh!3,pop,electronic,20090103,95,7,36,20090718
+11,12,Don't Trust Me,3Oh!3,3Oh!3,electronic,electronic,20090103,95,7,36,20090718
 12,NEW,Falling For You,Colbie Caillat,Colbie Caillat,pop,female vocalists,20090718,12,12,31,20090718
 13,10,Waking Up In Vegas,Katy Perry,Katy Perry,pop,pop,20090516,65,9,23,20090718
 14,17,Every Girl,Young Money,Young Money,hip-hop,hip-hop,20090523,96,10,20,20090718
@@ -2381,7 +2381,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 80,93,Trust,Keyshia Cole & Monica,Keyshia Cole & Monica,rnb / soul,rnb,20090711,93,70,15,20090718
 81,85,Small Town USA,Justin Moore,Justin Moore,country / folk,country,20090620,88,44,20,20090718
 82,NEW,One And The Same,Demi Lovato & Selena Gomez,Demi Lovato & Selena Gomez,pop,pop,20090718,82,82,1,20090718
-83,80,I'm In Miami Trick,Lmfao,Lmfao,pop,electronic,20090627,86,51,18,20090718
+83,80,I'm In Miami Trick,Lmfao,Lmfao,electronic,electronic,20090627,86,51,18,20090718
 84,87,Throw It In The Bag,Fabolous Featuring The-Dream,Fabolous,hip-hop,hip-hop,20090620,94,14,23,20090718
 85,69,Lost You Anyway,Toby Keith,Toby Keith,country / folk,country,20090516,97,69,10,20090718
 86,90,Love Your Love The Most,Eric Church,Eric Church,country / folk,country,20090711,90,63,16,20090718
@@ -2410,7 +2410,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 9,30,New Divide,Linkin Park,Linkin Park,rock,rock,20090606,6,6,20,20090711
 10,11,Waking Up In Vegas,Katy Perry,Katy Perry,pop,pop,20090516,65,9,23,20090711
 11,16,You Belong With Me,Taylor Swift,Taylor Swift,country / folk,country,20090516,87,2,49,20090711
-12,14,Don't Trust Me,3Oh!3,3Oh!3,pop,electronic,20090103,95,7,36,20090711
+12,14,Don't Trust Me,3Oh!3,3Oh!3,electronic,electronic,20090103,95,7,36,20090711
 13,9,Second Chance,Shinedown,Shinedown,rock,rock,20081213,98,7,41,20090711
 14,13,Halo,Beyonce,Beyonce,rnb / soul,rnb,20090207,93,5,31,20090711
 15,12,Poker Face,Lady Gaga,Lady Gaga,pop,pop,20090103,92,1,40,20090711
@@ -2478,7 +2478,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 77,71,Show Me What I'm Looking For,Carolina Liar,Carolina Liar,rock,indie rock,20090516,80,67,16,20090711
 78,64,I'm On The Boat,The Lonely Island Featuring T-Pain,The Lonely Island,pop,comedy,20090228,86,56,20,20090711
 79,81,Strange,Reba Mcentire,Reba Mcentire,country / folk,country,20090613,91,76,9,20090711
-80,86,I'm In Miami Trick,Lmfao,Lmfao,pop,electronic,20090627,86,51,18,20090711
+80,86,I'm In Miami Trick,Lmfao,Lmfao,electronic,electronic,20090627,86,51,18,20090711
 81,NEW,Take Me On The Floor,The Veronicas,The Veronicas,rock,pop rock,20090711,81,81,1,20090711
 82,90,Living For The Night,George Strait,George Strait,country / folk,country,20090627,92,53,17,20090711
 83,60,Halle Berry (She's Fine),Hurricane Chris Featuring Superstarr,Hurricane Chris,hip-hop,rap,20090516,91,52,10,20090711
@@ -2512,7 +2512,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 11,11,Waking Up In Vegas,Katy Perry,Katy Perry,pop,pop,20090516,65,9,23,20090704
 12,7,Poker Face,Lady Gaga,Lady Gaga,pop,pop,20090103,92,1,40,20090704
 13,10,Halo,Beyonce,Beyonce,rnb / soul,rnb,20090207,93,5,31,20090704
-14,13,Don't Trust Me,3Oh!3,3Oh!3,pop,electronic,20090103,95,7,36,20090704
+14,13,Don't Trust Me,3Oh!3,3Oh!3,electronic,electronic,20090103,95,7,36,20090704
 15,12,The Climb,Miley Cyrus,Miley Cyrus,pop,pop,20090321,6,4,28,20090704
 16,18,You Belong With Me,Taylor Swift,Taylor Swift,country / folk,country,20090516,87,2,49,20090704
 17,15,Day'N'Nite,Kid Cudi,Kid Cudi,hip-hop,hip-hop,20090131,88,3,27,20090704
@@ -2584,7 +2584,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 83,NEW,Fly With Me,Jonas Brothers,Jonas Brothers,pop,pop,20090704,83,83,1,20090704
 84,93,Last Chance,Ginuwine,Ginuwine,rnb / soul,rnb,20090620,95,63,16,20090704
 85,56,We Made You,Eminem,Eminem,hip-hop,rap,20090502,9,9,10,20090704
-86,86,I'm In Miami Trick,Lmfao,Lmfao,pop,electronic,20090627,86,51,18,20090704
+86,86,I'm In Miami Trick,Lmfao,Lmfao,electronic,electronic,20090627,86,51,18,20090704
 87,66,Funny The Way It Is,Dave Matthews Band,Dave Matthews Band,rock,rock,20090620,46,46,4,20090704
 88,NEW,Imma Be,The Black Eyed Peas,The Black Eyed Peas,hip-hop,hip-hop,20090704,88,88,1,20090704
 89,83,Small Town USA,Justin Moore,Justin Moore,country / folk,country,20090620,88,44,20,20090704
@@ -2611,7 +2611,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 10,8,Halo,Beyonce,Beyonce,rnb / soul,rnb,20090207,93,5,31,20090627
 11,12,Waking Up In Vegas,Katy Perry,Katy Perry,pop,pop,20090516,65,9,23,20090627
 12,13,The Climb,Miley Cyrus,Miley Cyrus,pop,pop,20090321,6,4,28,20090627
-13,14,Don't Trust Me,3Oh!3,3Oh!3,pop,electronic,20090103,95,7,36,20090627
+13,14,Don't Trust Me,3Oh!3,3Oh!3,electronic,electronic,20090103,95,7,36,20090627
 14,10,Blame It,Jamie Foxx Featuring T-Pain,Jamie Foxx,rnb / soul,rnb,20090131,98,2,27,20090627
 15,11,Day'N'Nite,Kid Cudi,Kid Cudi,hip-hop,hip-hop,20090131,88,3,27,20090627
 16,15,Goodbye,Kristinia Debarge,Kristinia Debarge,pop,pop,20090509,75,15,16,20090627
@@ -2684,7 +2684,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 83,88,Small Town USA,Justin Moore,Justin Moore,country / folk,country,20090620,88,44,20,20090627
 84,89,Sobeautiful,Musiq Soulchild,Musiq Soulchild,rnb / soul,soul,20090613,84,84,3,20090627
 85,NEW,Big Green Tractor,Jason Aldean,Jason Aldean,country / folk,country,20090627,85,18,20,20090627
-86,NEW,I'm In Miami Trick,Lmfao,Lmfao,pop,electronic,20090627,86,51,18,20090627
+86,NEW,I'm In Miami Trick,Lmfao,Lmfao,electronic,electronic,20090627,86,51,18,20090627
 87,93,Walkin' On The Moon,The-Dream Featuring Kanye West,The-Dream,rnb / soul,rnb,20090613,100,87,9,20090627
 88,83,It's America,Rodney Atkins,Rodney Atkins,country / folk,country,20090307,98,44,20,20090627
 89,85,Beggin',Madcon,Madcon,hip-hop,hip-hop,20090502,95,79,10,20090627
@@ -2712,7 +2712,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 11,8,Day'N'Nite,Kid Cudi,Kid Cudi,hip-hop,hip-hop,20090131,88,3,27,20090620
 12,14,Waking Up In Vegas,Katy Perry,Katy Perry,pop,pop,20090516,65,9,23,20090620
 13,12,The Climb,Miley Cyrus,Miley Cyrus,pop,pop,20090321,6,4,28,20090620
-14,13,Don't Trust Me,3Oh!3,3Oh!3,pop,electronic,20090103,95,7,36,20090620
+14,13,Don't Trust Me,3Oh!3,3Oh!3,electronic,electronic,20090103,95,7,36,20090620
 15,20,Goodbye,Kristinia Debarge,Kristinia Debarge,pop,pop,20090509,75,15,16,20090620
 16,60,Out Last Night,Kenny Chesney,Kenny Chesney,country / folk,country,20090502,100,16,20,20090620
 17,15,Sugar,Flo Rida Featuring Wynter,Flo Rida,hip-hop,hip-hop,20090404,25,5,18,20090620
@@ -2811,7 +2811,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 10,22,Lovegame,Lady Gaga,Lady Gaga,pop,pop,20090509,99,5,21,20090613
 11,18,Second Chance,Shinedown,Shinedown,rock,rock,20081213,98,7,41,20090613
 12,15,The Climb,Miley Cyrus,Miley Cyrus,pop,pop,20090321,6,4,28,20090613
-13,14,Don't Trust Me,3Oh!3,3Oh!3,pop,electronic,20090103,95,7,36,20090613
+13,14,Don't Trust Me,3Oh!3,3Oh!3,electronic,electronic,20090103,95,7,36,20090613
 14,10,Waking Up In Vegas,Katy Perry,Katy Perry,pop,pop,20090516,65,9,23,20090613
 15,17,Sugar,Flo Rida Featuring Wynter,Flo Rida,hip-hop,hip-hop,20090404,25,5,18,20090613
 16,20,Kiss A Girl,Keith Urban,Keith Urban,country / folk,country,20090328,51,16,20,20090613
@@ -2912,7 +2912,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 11,NEW,No Boundaries,Kris Allen,Kris Allen,pop,american idol,20090606,11,11,3,20090606
 12,18,Fire Burning,Sean Kingston,Sean Kingston,rnb / soul,rnb,20090523,29,5,21,20090606
 13,14,Knock You Down,Keri Hilson Featuring Kanye West & Ne-Yo,Keri Hilson,rnb / soul,rnb,20090411,65,3,31,20090606
-14,7,Don't Trust Me,3Oh!3,3Oh!3,pop,electronic,20090103,95,7,36,20090606
+14,7,Don't Trust Me,3Oh!3,3Oh!3,electronic,electronic,20090103,95,7,36,20090606
 15,11,The Climb,Miley Cyrus,Miley Cyrus,pop,pop,20090321,6,4,28,20090606
 16,NEW,Heartless,Kris Allen,Kris Allen,pop,american idol,20090606,16,16,3,20090606
 17,8,Sugar,Flo Rida Featuring Wynter,Flo Rida,hip-hop,hip-hop,20090404,25,5,18,20090606
@@ -3005,7 +3005,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 4,11,I Know You Want Me (Calle Ocho),Pitbull,Pitbull,hip-hop,hip-hop,20090314,66,2,35,20090530
 5,4,Day'N'Nite,Kid Cudi,Kid Cudi,hip-hop,hip-hop,20090131,88,3,27,20090530
 6,5,Halo,Beyonce,Beyonce,rnb / soul,rnb,20090207,93,5,31,20090530
-7,8,Don't Trust Me,3Oh!3,3Oh!3,pop,electronic,20090103,95,7,36,20090530
+7,8,Don't Trust Me,3Oh!3,3Oh!3,electronic,electronic,20090103,95,7,36,20090530
 8,6,Sugar,Flo Rida Featuring Wynter,Flo Rida,hip-hop,hip-hop,20090404,25,5,18,20090530
 9,13,Birthday Sex,Jeremih,Jeremih,rnb / soul,rnb,20090425,91,4,20,20090530
 10,7,Kiss Me Thru The Phone,Soulja Boy Tell'Em Featuring Sammie,Soulja Boy Tell'Em,hip-hop,hip-hop,20090110,71,3,27,20090530
@@ -3106,7 +3106,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 5,8,Halo,Beyonce,Beyonce,rnb / soul,rnb,20090207,93,5,31,20090523
 6,5,Sugar,Flo Rida Featuring Wynter,Flo Rida,hip-hop,hip-hop,20090404,25,5,18,20090523
 7,7,Kiss Me Thru The Phone,Soulja Boy Tell'Em Featuring Sammie,Soulja Boy Tell'Em,hip-hop,hip-hop,20090110,71,3,27,20090523
-8,9,Don't Trust Me,3Oh!3,3Oh!3,pop,electronic,20090103,95,7,36,20090523
+8,9,Don't Trust Me,3Oh!3,3Oh!3,electronic,electronic,20090103,95,7,36,20090523
 9,6,Right Round,Flo Rida,Flo Rida,hip-hop,hip-hop,20090214,74,1,26,20090523
 10,11,The Climb,Miley Cyrus,Miley Cyrus,pop,pop,20090321,6,4,28,20090523
 11,12,I Know You Want Me (Calle Ocho),Pitbull,Pitbull,hip-hop,hip-hop,20090314,66,2,35,20090523
@@ -3207,7 +3207,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 6,5,Right Round,Flo Rida,Flo Rida,hip-hop,hip-hop,20090214,74,1,26,20090516
 7,6,Kiss Me Thru The Phone,Soulja Boy Tell'Em Featuring Sammie,Soulja Boy Tell'Em,hip-hop,hip-hop,20090110,71,3,27,20090516
 8,10,Halo,Beyonce,Beyonce,rnb / soul,rnb,20090207,93,5,31,20090516
-9,13,Don't Trust Me,3Oh!3,3Oh!3,pop,electronic,20090103,95,7,36,20090516
+9,13,Don't Trust Me,3Oh!3,3Oh!3,electronic,electronic,20090103,95,7,36,20090516
 10,8,Dead And Gone,T.I. Featuring Justin Timberlake,T.I.,hip-hop,hip-hop,20081227,99,2,28,20090516
 11,9,The Climb,Miley Cyrus,Miley Cyrus,pop,pop,20090321,6,4,28,20090516
 12,16,I Know You Want Me (Calle Ocho),Pitbull,Pitbull,hip-hop,hip-hop,20090314,66,2,35,20090516
@@ -3311,7 +3311,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 10,12,Halo,Beyonce,Beyonce,rnb / soul,rnb,20090207,93,5,31,20090509
 11,9,We Made You,Eminem,Eminem,hip-hop,rap,20090502,9,9,10,20090509
 12,11,Gives You Hell,The All-American Rejects,The All-American Rejects,rock,rock,20081129,69,4,36,20090509
-13,19,Don't Trust Me,3Oh!3,3Oh!3,pop,electronic,20090103,95,7,36,20090509
+13,19,Don't Trust Me,3Oh!3,3Oh!3,electronic,electronic,20090103,95,7,36,20090509
 14,14,Just Dance,Lady Gaga Featuring Colby O'Donis,Lady Gaga,pop,pop,20080906,74,1,47,20090509
 15,10,You Found Me,The Fray,The Fray,rock,alternative,20081206,28,7,39,20090509
 16,23,I Know You Want Me (Calle Ocho),Pitbull,Pitbull,hip-hop,hip-hop,20090314,66,2,35,20090509
@@ -3417,7 +3417,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 16,14,Love Story,Taylor Swift,Taylor Swift,country / folk,country,20080927,16,4,49,20090502
 17,38,Crazier,Taylor Swift,Taylor Swift,country / folk,country,20090411,72,17,8,20090502
 18,28,Hoedown Throwdown,Miley Cyrus,Miley Cyrus,pop,pop,20090328,56,18,13,20090502
-19,25,Don't Trust Me,3Oh!3,3Oh!3,pop,electronic,20090103,95,7,36,20090502
+19,25,Don't Trust Me,3Oh!3,3Oh!3,electronic,electronic,20090103,95,7,36,20090502
 20,22,Second Chance,Shinedown,Shinedown,rock,rock,20081213,98,7,41,20090502
 21,15,Turnin' Me On,Keri Hilson Featuring Lil Wayne,Keri Hilson,rnb / soul,rnb,20090103,90,15,22,20090502
 22,21,If U Seek Amy,Britney Spears,Britney Spears,pop,pop,20090307,94,19,19,20090502
@@ -3523,7 +3523,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 22,27,Second Chance,Shinedown,Shinedown,rock,rock,20081213,98,7,41,20090425
 23,22,Sober,Pink,Pink,pop,pop,20081213,53,15,25,20090425
 24,20,Beautiful,Akon Featuring Colby O'Donis & Kardinal Offishall,Akon,hip-hop,hip-hop,20081220,19,19,22,20090425
-25,29,Don't Trust Me,3Oh!3,3Oh!3,pop,electronic,20090103,95,7,36,20090425
+25,29,Don't Trust Me,3Oh!3,3Oh!3,electronic,electronic,20090103,95,7,36,20090425
 26,23,I'm Yours,Jason Mraz,Jason Mraz,country / folk,singer-songwriter,20080503,93,6,76,20090425
 27,32,I Know You Want Me (Calle Ocho),Pitbull,Pitbull,hip-hop,hip-hop,20090314,66,2,35,20090425
 28,62,Hoedown Throwdown,Miley Cyrus,Miley Cyrus,pop,pop,20090328,56,18,13,20090425
@@ -3594,7 +3594,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 93,86,You Complete Me,Keyshia Cole,Keyshia Cole,rnb / soul,rnb,20090221,97,62,10,20090425
 94,91,Prom Queen,Lil Wayne,Lil Wayne,hip-hop,rap,20090214,17,15,11,20090425
 95,94,Always The Love Songs,Eli Young Band,Eli Young Band,country / folk,country,20090404,97,69,11,20090425
-96,99,Kids,Mgmt,Mgmt,pop,electronic,20090321,91,91,6,20090425
+96,99,Kids,Mgmt,Mgmt,electronic,electronic,20090321,91,91,6,20090425
 97,100,My Love,The Dream Featuring Mariah Carey,The Dream,pop,the-dream,20090418,100,97,2,20090425
 98,NEW,Marry For Money,Trace Adkins,Trace Adkins,country / folk,country,20090425,98,98,1,20090425
 99,93,Just Like Me,Jamie Foxx Featuring T.I.,Jamie Foxx,rnb / soul,rnb,20081227,75,49,18,20090425
@@ -3627,7 +3627,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 26,27,How Do You Sleep?,Jesse Mccartney Featuring Ludacris,Jesse Mccartney,pop,pop,20090221,94,26,20,20090418
 27,33,Second Chance,Shinedown,Shinedown,rock,rock,20081213,98,7,41,20090418
 28,26,Rockin' That Thang,The Dream,The Dream,pop,the-dream,20090117,95,22,19,20090418
-29,34,Don't Trust Me,3Oh!3,3Oh!3,pop,electronic,20090103,95,7,36,20090418
+29,34,Don't Trust Me,3Oh!3,3Oh!3,electronic,electronic,20090103,95,7,36,20090418
 30,29,Let It Rock,Kevin Rudolf Featuring Lil Wayne,Kevin Rudolf,hip-hop,hip-hop,20080913,85,5,35,20090418
 31,20,Sugar,Flo Rida Featuring Wynter,Flo Rida,hip-hop,hip-hop,20090404,25,5,18,20090418
 32,37,I Know You Want Me (Calle Ocho),Pitbull,Pitbull,hip-hop,hip-hop,20090314,66,2,35,20090418
@@ -3697,7 +3697,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 96,NEW,Sobeautiful,Musiq Soulchild,Musiq Soulchild,rnb / soul,soul,20090418,96,89,6,20090418
 97,87,You'll Always Find Your Way Back Home,Hannah Montana,Hannah Montana,pop,pop,20090411,87,81,4,20090418
 98,95,Down The Road,Kenny Chesney With Mac Mcanally,Kenny Chesney With Mac Mcanally,country / folk,country,20081220,85,47,18,20090418
-99,93,Kids,Mgmt,Mgmt,pop,electronic,20090321,91,91,6,20090418
+99,93,Kids,Mgmt,Mgmt,electronic,electronic,20090321,91,91,6,20090418
 100,NEW,My Love,The Dream Featuring Mariah Carey,The Dream,pop,the-dream,20090418,100,97,2,20090418
 1,2,Poker Face,Lady Gaga,Lady Gaga,pop,pop,20090103,92,1,40,20090411
 2,1,Right Round,Flo Rida,Flo Rida,hip-hop,hip-hop,20090214,74,1,26,20090411
@@ -3732,7 +3732,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 31,30,Single Ladies (Put A Ring On It),Beyonce,Beyonce,rnb / soul,rnb,20081101,72,1,27,20090411
 32,32,White Horse,Taylor Swift,Taylor Swift,country / folk,country,20081129,13,13,22,20090411
 33,40,Second Chance,Shinedown,Shinedown,rock,rock,20081213,98,7,41,20090411
-34,42,Don't Trust Me,3Oh!3,3Oh!3,pop,electronic,20090103,95,7,36,20090411
+34,42,Don't Trust Me,3Oh!3,3Oh!3,electronic,electronic,20090103,95,7,36,20090411
 35,34,Hot'n'Cold,Katy Perry,Katy Perry,pop,pop,20080823,88,3,38,20090411
 36,21,Here Comes Goodbye,Rascal Flatts,Rascal Flatts,country / folk,country,20090314,89,11,16,20090411
 37,44,I Know You Want Me (Calle Ocho),Pitbull,Pitbull,hip-hop,hip-hop,20090314,66,2,35,20090411
@@ -3791,7 +3791,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 90,91,Boyfriend #2,Pleasure P,Pleasure P,rnb / soul,rnb,20090404,91,42,18,20090411
 91,88,If This Isn't Love,Jennifer Hudson,Jennifer Hudson,rnb / soul,rnb,20090314,92,63,12,20090411
 92,90,Just Like Me,Jamie Foxx Featuring T.I.,Jamie Foxx,rnb / soul,rnb,20081227,75,49,18,20090411
-93,99,Kids,Mgmt,Mgmt,pop,electronic,20090321,91,91,6,20090411
+93,99,Kids,Mgmt,Mgmt,electronic,electronic,20090321,91,91,6,20090411
 94,98,One In Every Crowd,Montgomery Gentry,Montgomery Gentry,country / folk,country,20090328,100,53,17,20090411
 95,79,Down The Road,Kenny Chesney With Mac Mcanally,Kenny Chesney With Mac Mcanally,country / folk,country,20081220,85,47,18,20090411
 96,82,"Lions, Tigers & Bears",Jazmine Sullivan,Jazmine Sullivan,rnb / soul,rnb,20090221,99,74,8,20090411
@@ -3840,7 +3840,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 39,31,Live Your Life,T.I. Featuring Rihanna,T.I.,hip-hop,hip-hop,20081011,80,1,28,20090404
 40,39,Second Chance,Shinedown,Shinedown,rock,rock,20081213,98,7,41,20090404
 41,36,It Won't Be Like This For Long,Darius Rucker,Darius Rucker,country / folk,country,20090131,76,36,18,20090404
-42,45,Don't Trust Me,3Oh!3,3Oh!3,pop,electronic,20090103,95,7,36,20090404
+42,45,Don't Trust Me,3Oh!3,3Oh!3,electronic,electronic,20090103,95,7,36,20090404
 43,42,She's Country,Jason Aldean,Jason Aldean,country / folk,country,20090207,88,29,19,20090404
 44,50,I Know You Want Me (Calle Ocho),Pitbull,Pitbull,hip-hop,hip-hop,20090314,66,2,35,20090404
 45,37,Gotta Be Somebody,Nickelback,Nickelback,rock,rock,20081018,10,10,27,20090404
@@ -3897,7 +3897,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 96,95,Lost,Gorilla Zoe Featuring Lil Wayne,Gorilla Zoe,hip-hop,rap,20090124,93,71,11,20090404
 97,NEW,Always The Love Songs,Eli Young Band,Eli Young Band,country / folk,country,20090404,97,69,11,20090404
 98,100,One In Every Crowd,Montgomery Gentry,Montgomery Gentry,country / folk,country,20090328,100,53,17,20090404
-99,92,Kids,Mgmt,Mgmt,pop,electronic,20090321,91,91,6,20090404
+99,92,Kids,Mgmt,Mgmt,electronic,electronic,20090321,91,91,6,20090404
 100,NEW,I Run To You,Lady Antebellum,Lady Antebellum,country / folk,country,20090404,100,27,21,20090404
 1,1,Right Round,Flo Rida,Flo Rida,hip-hop,hip-hop,20090214,74,1,26,20090328
 2,2,Dead And Gone,T.I. Featuring Justin Timberlake,T.I.,hip-hop,hip-hop,20081227,99,2,28,20090328
@@ -3943,7 +3943,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 42,46,She's Country,Jason Aldean,Jason Aldean,country / folk,country,20090207,88,29,19,20090328
 43,39,All The Above,Maino Featuring T-Pain,Maino,hip-hop,rap,20090314,54,39,20,20090328
 44,34,Thinking Of You,Katy Perry,Katy Perry,pop,pop,20090131,79,29,15,20090328
-45,51,Don't Trust Me,3Oh!3,3Oh!3,pop,electronic,20090103,95,7,36,20090328
+45,51,Don't Trust Me,3Oh!3,3Oh!3,electronic,electronic,20090103,95,7,36,20090328
 46,42,So What,Pink,Pink,pop,pop,20080906,9,1,31,20090328
 47,48,Ain't I,Yung L.A. Featuring Young Dro & T.I.,Yung L.A.,hip-hop,hip-hop,20090214,100,47,19,20090328
 48,36,Jai Ho! (You Are My Destiny),A.R. Rahman & The Pussycat Dolls Feat Nicole Scherzinger,A.R. Rahman,pop,soundtrack,20090307,100,15,13,20090328
@@ -3983,14 +3983,14 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 82,72,Never Ever,Ciara Featuring Young Jeezy,Ciara,rnb / soul,rnb,20090307,96,66,15,20090328
 83,77,Last Call,Lee Ann Womack,Lee Ann Womack,country / folk,country,20090131,93,77,9,20090328
 84,85,If This Isn't Love,Jennifer Hudson,Jennifer Hudson,rnb / soul,rnb,20090314,92,63,12,20090328
-85,73,I'm In Miami Trick,Lmfao,Lmfao,pop,electronic,20090321,73,73,2,20090328
+85,73,I'm In Miami Trick,Lmfao,Lmfao,electronic,electronic,20090321,73,73,2,20090328
 86,NEW,Love Sex Magic,Ciara Featuring Justin Timberlake,Ciara,rnb / soul,rnb,20090328,86,10,12,20090328
 87,88,Magnificent,Rick Ross Featuring John Legend,Rick Ross,hip-hop,hip-hop,20090321,88,62,11,20090328
 88,89,Ride,Martina Mcbride,Martina Mcbride,country / folk,country,20090314,98,82,8,20090328
 89,82,My Love,The-Dream Featuring Mariah Carey,The-Dream,rnb / soul,rnb,20090321,82,82,2,20090328
 90,84,Angels On The Moon,Thriving Ivory,Thriving Ivory,rock,alternative rock,20090131,92,75,9,20090328
 91,95,Lollipop,Framing Hanley,Framing Hanley,rock,alternative rock,20090314,100,91,3,20090328
-92,91,Kids,Mgmt,Mgmt,pop,electronic,20090321,91,91,6,20090328
+92,91,Kids,Mgmt,Mgmt,electronic,electronic,20090321,91,91,6,20090328
 93,78,Freeze,T-Pain Featuring Chris Brown,T-Pain,rnb / soul,rnb,20090214,82,61,7,20090328
 94,NEW,Whatever It Is,Zac Brown Band,Zac Brown Band,country / folk,country,20090328,94,26,20,20090328
 95,81,Lost,Gorilla Zoe Featuring Lil Wayne,Gorilla Zoe,hip-hop,rap,20090124,93,71,11,20090328
@@ -4049,7 +4049,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 48,53,Ain't I,Yung L.A. Featuring Young Dro & T.I.,Yung L.A.,hip-hop,hip-hop,20090214,100,47,19,20090321
 49,55,Stanky Legg,Gs Boyz,Gs Boyz,hip-hop,rap,20090221,86,49,14,20090321
 50,43,Chicken Fried,Zac Brown Band,Zac Brown Band,country / folk,country,20081004,60,20,25,20090321
-51,65,Don't Trust Me,3Oh!3,3Oh!3,pop,electronic,20090103,95,7,36,20090321
+51,65,Don't Trust Me,3Oh!3,3Oh!3,electronic,electronic,20090103,95,7,36,20090321
 52,83,It's America,Rodney Atkins,Rodney Atkins,country / folk,country,20090307,98,44,20,20090321
 53,72,If U Seek Amy,Britney Spears,Britney Spears,pop,pop,20090307,94,19,19,20090321
 54,66,I Know You Want Me (Calle Ocho),Pitbull,Pitbull,hip-hop,hip-hop,20090314,66,2,35,20090321
@@ -4071,7 +4071,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 70,64,She Got Her Own,Ne-Yo Featuring Jamie Foxx & Fabulous,Ne-Yo,rnb / soul,rnb,20081227,93,54,20,20090321
 71,73,Just Like Me,Jamie Foxx Featuring T.I.,Jamie Foxx,rnb / soul,rnb,20081227,75,49,18,20090321
 72,79,Never Ever,Ciara Featuring Young Jeezy,Ciara,rnb / soul,rnb,20090307,96,66,15,20090321
-73,NEW,I'm In Miami Trick,Lmfao,Lmfao,pop,electronic,20090321,73,73,2,20090321
+73,NEW,I'm In Miami Trick,Lmfao,Lmfao,electronic,electronic,20090321,73,73,2,20090321
 74,86,"Lions, Tigers & Bears",Jazmine Sullivan,Jazmine Sullivan,rnb / soul,rnb,20090221,99,74,8,20090321
 75,90,Shuttin' Detroit Down,John Rich,John Rich,country / folk,country,20090314,90,75,8,20090321
 76,89,Here Comes Goodbye,Rascal Flatts,Rascal Flatts,country / folk,country,20090314,89,11,16,20090321
@@ -4089,7 +4089,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 88,NEW,Magnificent,Rick Ross Featuring John Legend,Rick Ross,hip-hop,hip-hop,20090321,88,62,11,20090321
 89,98,Ride,Martina Mcbride,Martina Mcbride,country / folk,country,20090314,98,82,8,20090321
 90,NEW,You Can Get It All,Bow Wow Featuring Johnta Austin,Bow Wow,hip-hop,hip-hop,20090321,90,55,10,20090321
-91,NEW,Kids,Mgmt,Mgmt,pop,electronic,20090321,91,91,6,20090321
+91,NEW,Kids,Mgmt,Mgmt,electronic,electronic,20090321,91,91,6,20090321
 92,94,Country Boy,Alan Jackson,Alan Jackson,country / folk,country,20090110,70,49,11,20090321
 93,NEW,Candle (Sick And Tired),The White Tie Affair,The White Tie Affair,pop,powerpop,20090321,93,57,8,20090321
 94,NEW,The Fear,Lily Allen,Lily Allen,pop,pop,20090321,94,94,2,20090321
@@ -4163,7 +4163,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 62,62,Sex On Fire,Kings Of Leon,Kings Of Leon,rock,rock,20081108,87,56,20,20090314
 63,66,Move (If You 'W'anna),Mims,Mims,hip-hop,hip-hop,20090207,96,61,13,20090314
 64,54,She Got Her Own,Ne-Yo Featuring Jamie Foxx & Fabulous,Ne-Yo,rnb / soul,rnb,20081227,93,54,20,20090314
-65,74,Don't Trust Me,3Oh!3,3Oh!3,pop,electronic,20090103,95,7,36,20090314
+65,74,Don't Trust Me,3Oh!3,3Oh!3,electronic,electronic,20090103,95,7,36,20090314
 66,NEW,I Know You Want Me (Calle Ocho),Pitbull,Pitbull,hip-hop,hip-hop,20090314,66,2,35,20090314
 67,59,She Wouldn't Be Gone,Blake Shelton,Blake Shelton,country / folk,country,20081108,99,43,20,20090314
 68,77,I Told You So,Carrie Underwood,Carrie Underwood,country / folk,country,20090228,92,9,18,20090314
@@ -4272,7 +4272,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 71,81,Lost,Gorilla Zoe Featuring Lil Wayne,Gorilla Zoe,hip-hop,rap,20090124,93,71,11,20090307
 72,21,Chasing Pavements,Adele,Adele,rnb / soul,soul,20090221,64,21,3,20090307
 73,87,Don't Think I Can't Love You,Jake Owen,Jake Owen,country / folk,country,20090214,98,57,15,20090307
-74,84,Don't Trust Me,3Oh!3,3Oh!3,pop,electronic,20090103,95,7,36,20090307
+74,84,Don't Trust Me,3Oh!3,3Oh!3,electronic,electronic,20090103,95,7,36,20090307
 75,78,That's Not My Name,The Ting Tings,The Ting Tings,rock,indie,20090214,64,52,17,20090307
 76,83,Angels On The Moon,Thriving Ivory,Thriving Ivory,rock,alternative rock,20090131,92,75,9,20090307
 77,92,I Told You So,Carrie Underwood,Carrie Underwood,country / folk,country,20090228,92,9,18,20090307
@@ -4382,7 +4382,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 81,82,Lost,Gorilla Zoe Featuring Lil Wayne,Gorilla Zoe,hip-hop,rap,20090124,93,71,11,20090228
 82,71,Country Boy,Alan Jackson,Alan Jackson,country / folk,country,20090110,70,49,11,20090228
 83,77,Angels On The Moon,Thriving Ivory,Thriving Ivory,rock,alternative rock,20090131,92,75,9,20090228
-84,80,Don't Trust Me,3Oh!3,3Oh!3,pop,electronic,20090103,95,7,36,20090228
+84,80,Don't Trust Me,3Oh!3,3Oh!3,electronic,electronic,20090103,95,7,36,20090228
 85,67,Chopped'N'Skrewed,T-Pain Featuring Ludacris,T-Pain,rnb / soul,rnb,20081108,77,27,18,20090228
 86,NEW,I'm On The Boat,The Lonely Island Featuring T-Pain,The Lonely Island,pop,comedy,20090228,86,56,20,20090228
 87,93,Don't Think I Can't Love You,Jake Owen,Jake Owen,country / folk,country,20090214,98,57,15,20090228
@@ -4478,7 +4478,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 77,75,Angels On The Moon,Thriving Ivory,Thriving Ivory,rock,alternative rock,20090131,92,75,9,20090221
 78,69,Trading Places,Usher,Usher,rnb / soul,rnb,20081115,100,45,17,20090221
 79,NEW,Top Of The World,The Pussycat Dolls,The Pussycat Dolls,pop,pop,20090221,79,79,1,20090221
-80,79,Don't Trust Me,3Oh!3,3Oh!3,pop,electronic,20090103,95,7,36,20090221
+80,79,Don't Trust Me,3Oh!3,3Oh!3,electronic,electronic,20090103,95,7,36,20090221
 81,100,Ain't I,Yung L.A. Featuring Young Dro & T.I.,Yung L.A.,hip-hop,hip-hop,20090214,100,47,19,20090221
 82,86,Lost,Gorilla Zoe Featuring Lil Wayne,Gorilla Zoe,hip-hop,rap,20090124,93,71,11,20090221
 83,82,Freeze,T-Pain Featuring Chris Brown,T-Pain,rnb / soul,rnb,20090214,82,61,7,20090221
@@ -4577,7 +4577,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 76,83,Krazy,Pitbull Featuring Lil Jon,Pitbull,hip-hop,hip-hop,20081011,63,30,19,20090214
 77,88,She's Country,Jason Aldean,Jason Aldean,country / folk,country,20090207,88,29,19,20090214
 78,78,Crack A Bottle,Eminem Featuring Dr. Dre & 50 Cent,Eminem,hip-hop,rap,20090131,78,1,17,20090214
-79,70,Don't Trust Me,3Oh!3,3Oh!3,pop,electronic,20090103,95,7,36,20090214
+79,70,Don't Trust Me,3Oh!3,3Oh!3,electronic,electronic,20090103,95,7,36,20090214
 80,89,Beep,Bobby Valentino Featuring Yung Joc,Bobby Valentino,rnb / soul,rnb,20090124,94,55,11,20090214
 81,99,Let Me,Pat Green,Pat Green,country / folk,country,20090207,99,81,2,20090214
 82,NEW,Freeze,T-Pain Featuring Chris Brown,T-Pain,rnb / soul,rnb,20090214,82,61,7,20090214
@@ -4668,7 +4668,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 67,NEW,At Last,Beyonce,Beyonce,rnb / soul,rnb,20090207,67,67,1,20090207
 68,67,Trading Places,Usher,Usher,rnb / soul,rnb,20081115,100,45,17,20090207
 69,58,Start A Band,Brad Paisley Featuring Keith Urban,Brad Paisley,country / folk,country,20081101,66,55,16,20090207
-70,71,Don't Trust Me,3Oh!3,3Oh!3,pop,electronic,20090103,95,7,36,20090207
+70,71,Don't Trust Me,3Oh!3,3Oh!3,electronic,electronic,20090103,95,7,36,20090207
 71,76,It Won't Be Like This For Long,Darius Rucker,Darius Rucker,country / folk,country,20090131,76,36,18,20090207
 72,63,Already Gone,Sugarland,Sugarland,country / folk,country,20081011,99,41,19,20090207
 73,88,Day'N'Nite,Kid Cudi,Kid Cudi,hip-hop,hip-hop,20090131,88,3,27,20090207
@@ -4769,7 +4769,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 68,67,Just Like Me,Jamie Foxx Featuring T.I.,Jamie Foxx,rnb / soul,rnb,20081227,75,49,18,20090131
 69,68,"You're Gonna Go Far, Kid",The Offspring,The Offspring,rock,punk rock,20081025,96,63,18,20090131
 70,63,Keeps Gettin' Better,Christina Aguilera,Christina Aguilera,pop,pop,20081018,7,7,18,20090131
-71,81,Don't Trust Me,3Oh!3,3Oh!3,pop,electronic,20090103,95,7,36,20090131
+71,81,Don't Trust Me,3Oh!3,3Oh!3,electronic,electronic,20090103,95,7,36,20090131
 72,73,Krazy,Pitbull Featuring Lil Jon,Pitbull,hip-hop,hip-hop,20081011,63,30,19,20090131
 73,65,Here,Rascal Flatts,Rascal Flatts,country / folk,country,20081018,94,50,17,20090131
 74,80,IfULeave,Musiq Soulchild Featuring Mary J Blige,Musiq Soulchild,rnb / soul,soul,20090117,92,74,7,20090131
@@ -4785,7 +4785,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 84,NEW,Lucky,Jason Mraz Featuring Colbie Cailat,Jason Mraz,country / folk,singer-songwriter,20090131,84,48,19,20090131
 85,85,I Don't Care,Apocalyptica Featuring Adam Gontier Of Three Days Grace,Apocalyptica,rock,symphonic metal,20081101,92,78,16,20090131
 86,79,Bust Your Windows,Jazmine Sullivan,Jazmine Sullivan,rnb / soul,rnb,20081025,81,31,15,20090131
-87,77,Seventeen Forever,Metro Station,Metro Station,pop,electronic,20081227,82,42,6,20090131
+87,77,Seventeen Forever,Metro Station,Metro Station,electronic,electronic,20081227,82,42,6,20090131
 88,NEW,Day'N'Nite,Kid Cudi,Kid Cudi,hip-hop,hip-hop,20090131,88,3,27,20090131
 89,93,Lost,Gorilla Zoe Featuring Lil Wayne,Gorilla Zoe,hip-hop,rap,20090124,93,71,11,20090131
 90,84,About You Now,Miranda Cosgrove,Miranda Cosgrove,pop,pop,20090110,51,47,4,20090131
@@ -4875,11 +4875,11 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 74,90,She Got Her Own,Ne-Yo Featuring Jamie Foxx & Fabulous,Ne-Yo,rnb / soul,rnb,20081227,93,54,20,20090124
 75,NEW,Pen & Paper,The Red Jumpsuit Apparatus,The Red Jumpsuit Apparatus,rock,alternative,20090124,75,75,1,20090124
 76,95,Rockin' That Thang,The Dream,The Dream,pop,the-dream,20090117,95,22,19,20090124
-77,51,Seventeen Forever,Metro Station,Metro Station,pop,electronic,20081227,82,42,6,20090124
+77,51,Seventeen Forever,Metro Station,Metro Station,electronic,electronic,20081227,82,42,6,20090124
 78,67,Come On Get Higher,Matt Nathanson,Matt Nathanson,country / folk,singer-songwriter,20080913,89,59,20,20090124
 79,76,Bust Your Windows,Jazmine Sullivan,Jazmine Sullivan,rnb / soul,rnb,20081025,81,31,15,20090124
 80,92,IfULeave,Musiq Soulchild Featuring Mary J Blige,Musiq Soulchild,rnb / soul,soul,20090117,92,74,7,20090124
-81,77,Don't Trust Me,3Oh!3,3Oh!3,pop,electronic,20090103,95,7,36,20090124
+81,77,Don't Trust Me,3Oh!3,3Oh!3,electronic,electronic,20090103,95,7,36,20090124
 82,86,Playa Cardz Right,Keyshia Cole Featuring 2Pac,Keyshia Cole,rnb / soul,rnb,20081129,99,63,13,20090124
 83,71,Lookin' For A Good Time,Lady Antebellum,Lady Antebellum,country / folk,country,20081025,91,67,15,20090124
 84,47,About You Now,Miranda Cosgrove,Miranda Cosgrove,pop,pop,20090110,51,47,4,20090124
@@ -4949,7 +4949,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 48,46,Keeps Gettin' Better,Christina Aguilera,Christina Aguilera,pop,pop,20081018,7,7,18,20090117
 49,61,Mad,Ne-Yo,Ne-Yo,rnb / soul,rnb,20081220,97,11,24,20090117
 50,47,Swagga Like Us,Jay-Z & T.I. Featuring Kanye West & Lil Wayne,Jay-Z & T.I.,hip-hop,hip-hop,20080927,5,5,20,20090117
-51,42,Seventeen Forever,Metro Station,Metro Station,pop,electronic,20081227,82,42,6,20090117
+51,42,Seventeen Forever,Metro Station,Metro Station,electronic,electronic,20081227,82,42,6,20090117
 52,58,Roll With Me,Montgomery Gentry,Montgomery Gentry,country / folk,country,20080927,96,33,20,20090117
 53,52,Cowgirls Don't Cry,Brooks & Dunn Featuring Reba Mcentire,Brooks & Dunn,country / folk,country,20081129,85,44,20,20090117
 54,55,In Color,Jamey Johnson,Jamey Johnson,country / folk,country,20081018,99,52,18,20090117
@@ -4975,7 +4975,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 74,53,All Summer Long,The Rock Heroes,The Rock Heroes,rock,kid rock,20090110,53,53,4,20090117
 75,73,Sex On Fire,Kings Of Leon,Kings Of Leon,rock,rock,20081108,87,56,20,20090117
 76,77,Bust Your Windows,Jazmine Sullivan,Jazmine Sullivan,rnb / soul,rnb,20081025,81,31,15,20090117
-77,56,Don't Trust Me,3Oh!3,3Oh!3,pop,electronic,20090103,95,7,36,20090117
+77,56,Don't Trust Me,3Oh!3,3Oh!3,electronic,electronic,20090103,95,7,36,20090117
 78,82,Diva,Beyonce,Beyonce,rnb / soul,rnb,20090103,96,19,20,20090117
 79,71,Kiss Me Thru The Phone,Soulja Boy Tell'Em Featuring Sammie,Soulja Boy Tell'Em,hip-hop,hip-hop,20090110,71,3,27,20090117
 80,93,Sweet Thing,Keith Urban,Keith Urban,country / folk,country,20081129,43,30,20,20090117
@@ -5040,7 +5040,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 39,30,Better In Time,Leona Lewis,Leona Lewis,pop,pop,20080802,75,11,30,20090110
 40,40,Light On,David Cook,David Cook,rock,rock,20081108,60,23,18,20090110
 41,48,White Horse,Taylor Swift,Taylor Swift,country / folk,country,20081129,13,13,22,20090110
-42,62,Seventeen Forever,Metro Station,Metro Station,pop,electronic,20081227,82,42,6,20090110
+42,62,Seventeen Forever,Metro Station,Metro Station,electronic,electronic,20081227,82,42,6,20090110
 43,31,Put It On Ya,Plies Featuring Chris J,Plies,hip-hop,rap,20081206,92,31,13,20090110
 44,37,Shattered (Turn The Car Around),O.A.R.,O.A.R.,rock,rock,20080823,92,36,24,20090110
 45,42,Closer,Ne-Yo,Ne-Yo,rnb / soul,rnb,20080503,95,7,39,20090110
@@ -5054,7 +5054,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 53,NEW,All Summer Long,The Rock Heroes,The Rock Heroes,rock,kid rock,20090110,53,53,4,20090110
 54,68,Beautiful,Akon Featuring Colby O'Donis & Kardinal Offishall,Akon,hip-hop,hip-hop,20081220,19,19,22,20090110
 55,52,In Color,Jamey Johnson,Jamey Johnson,country / folk,country,20081018,99,52,18,20090110
-56,95,Don't Trust Me,3Oh!3,3Oh!3,pop,electronic,20090103,95,7,36,20090110
+56,95,Don't Trust Me,3Oh!3,3Oh!3,electronic,electronic,20090103,95,7,36,20090110
 57,49,Just Like Me,Jamie Foxx Featuring T.I.,Jamie Foxx,rnb / soul,rnb,20081227,75,49,18,20090110
 58,38,Roll With Me,Montgomery Gentry,Montgomery Gentry,country / folk,country,20080927,96,33,20,20090110
 59,78,Come On Get Higher,Matt Nathanson,Matt Nathanson,country / folk,singer-songwriter,20080913,89,59,20,20090110
@@ -5160,7 +5160,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 59,55,Start A Band,Brad Paisley Featuring Keith Urban,Brad Paisley,country / folk,country,20081101,66,55,16,20090103
 60,34,Right Here (Departed),Brandy,Brandy,rnb / soul,rnb,20080927,83,34,18,20090103
 61,79,Mad,Ne-Yo,Ne-Yo,rnb / soul,rnb,20081220,97,11,24,20090103
-62,82,Seventeen Forever,Metro Station,Metro Station,pop,electronic,20081227,82,42,6,20090103
+62,82,Seventeen Forever,Metro Station,Metro Station,electronic,electronic,20081227,82,42,6,20090103
 63,67,Playa Cardz Right,Keyshia Cole Featuring 2Pac,Keyshia Cole,rnb / soul,rnb,20081129,99,63,13,20090103
 64,63,Don't,Billy Currington,Billy Currington,country / folk,country,20081108,89,52,20,20090103
 65,66,God Love Her,Toby Keith,Toby Keith,country / folk,country,20081206,89,36,20,20090103
@@ -5193,7 +5193,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 92,NEW,Poker Face,Lady Gaga,Lady Gaga,pop,pop,20090103,92,1,40,20090103
 93,91,When It Hurts,Avant,Avant,rnb / soul,rnb,20081227,91,91,2,20090103
 94,95,Bad Girlfriend,Theory Of A Deadman,Theory Of A Deadman,rock,rock,20081213,100,89,9,20090103
-95,NEW,Don't Trust Me,3Oh!3,3Oh!3,pop,electronic,20090103,95,7,36,20090103
+95,NEW,Don't Trust Me,3Oh!3,3Oh!3,electronic,electronic,20090103,95,7,36,20090103
 96,NEW,Diva,Beyonce,Beyonce,rnb / soul,rnb,20090103,96,19,20,20090103
 97,NEW,Beep,Bobby Valentino Featuring Yung Joc,Bobby Valentino,rnb / soul,rnb,20090103,97,97,1,20090103
 98,92,Anything Goes,Randy Houser,Randy Houser,country / folk,country,20081206,100,92,5,20090103

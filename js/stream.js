@@ -10,7 +10,7 @@ var margin = {
 var colorScale = d3.scaleOrdinal().range(d3.schemeCategory20c);
 
 var widthy = $(window).width() - margin.left - margin.right;
-var heighty = 500 - margin.top - margin.bottom;
+var heighty = 800 - margin.top - margin.bottom;
 var dataset = [];
 var genreset = [];
 
@@ -97,6 +97,7 @@ function createPercDataset(dataset) {
 }
 
 function constructStream() {
+
     console.log(dataset);
 
     percDataset = createPercDataset(dataset);
@@ -111,9 +112,9 @@ function constructStream() {
 
 
     var yScale = d3.scaleLinear()
-        .range([0, heighty]);
+        .range([0, heighty - 300]);
 
-    var xAxis = d3.axisBottom(xScale);
+    var xAxis = d3.axisBottom(xScale).tickFormat(d3.format("d"));;
     var yAxis = d3.axisLeft(yScale);
 
     var stack = d3.stack()
@@ -121,16 +122,16 @@ function constructStream() {
         .keys(genreset);
 
     var area = d3.area()
-        .curve(d3.curveBasis)
+        .curve(d3.curveCardinal.tension(.2))
         .x(function(d) { return xScale(d.data['year']); })
         .y0(function(d) { return yScale(d[0]); })
         .y1(function(d) { return yScale(d[1]); });
 
     var svg = stream.append("svg")
         .attr("width", widthy)
-        .attr("height", heighty)
-      .append("g")
-        .attr("transform", "translate(" + margin.left + "," + heighty/2 + ")");
+        .attr("height", heighty);
+    var pathg = svg.append("g")
+        .attr("transform", "translate(" + margin.left + "," + (heighty+200)/2 + ")");
 
     var layers = stack(dataset);
 
@@ -139,13 +140,44 @@ function constructStream() {
 
     yScale.domain([0, 100]);
 
-    svg.selectAll(".layer")
+    pathg.selectAll(".layer")
       .data(layers)
     .enter().append("path")
       .attr("class", "layer")
       .attr("d", function(d) { return area(d); })
       .style("fill", function(d, i) { return colorScale(i); })
       .on("mouseover", (d) => { console.log(d.key) });
+
+    var brush = svg.append("g")
+    .attr("class", "brush")
+    .call(d3.brushX().extent([[margin.left,margin.top],[widthy - 2*margin.left - 2*margin.right,100 + margin.top]])
+        .on("brush", ()=>{
+        leftYear = Math.floor(d3.event.selection[0] * (3/73) + 1940);
+        rightYear = Math.floor(d3.event.selection[1] * (3/73) + 1940);
+        layers = stack(dataset.slice(leftYear-1942, rightYear-1942));
+
+        xScale
+        .domain(d3.extent(dataset.slice(leftYear-1942, rightYear-1942), function(d) { return +d['year']; }))
+        .range([0, widthy - 2*margin.left - 2*margin.right]);
+
+        pathg.selectAll(".layer")
+            .data(layers)
+
+            .attr("d", function(d) { return area(d); })
+              .style("fill", function(d, i) { return colorScale(i); })
+              .on("mouseover", (d) => { console.log(d.key) });
+
+    }));
+    brush.select('.overlay')
+        .attr('height', 100)
+        .attr('x', margin.left)
+        .attr('y', margin.top)
+        .attr('width', widthy - 2*margin.left - 2*margin.right)
+        .attr('fill', '#ddd');
+
+    brushAx = brush.append('g');
+    brushAx.call(xAxis);
+    brushAx.attr('transform','translate('+margin.left+','+(margin.top+110)+')');
 
 }
 

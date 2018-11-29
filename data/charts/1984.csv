@@ -75,7 +75,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 74,74,Treat Her Like A Lady,Temptations,Temptations,rnb / soul,soul,19841215,90,48,14,19841229
 75,75,Eat My Shorts,Rick Dees,Rick Dees,disco,disco,19841215,77,75,5,19841229
 76,76,Naughty Naughty,John Parr,John Parr,rock,rock,19841215,87,23,20,19841229
-77,77,Lonely School,Tommy Shaw,Tommy Shaw,rock,hard rock,19841215,89,60,9,19841229
+77,77,Lonely School,Tommy Shaw,Tommy Shaw,rock,rock,19841215,89,60,9,19841229
 78,78,Eyes On You,Billy Squier,Billy Squier,rock,classic rock,19841208,89,71,8,19841229
 79,79,Mr. Telephone Man,New Edition,New Edition,rnb / soul,rnb,19841222,79,12,16,19841229
 80,80,All Right Now,Rod Stewart,Rod Stewart,rock,classic rock,19841215,88,72,6,19841229
@@ -175,7 +175,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 74,90,Treat Her Like A Lady,Temptations,Temptations,rnb / soul,soul,19841215,90,48,14,19841222
 75,77,Eat My Shorts,Rick Dees,Rick Dees,disco,disco,19841215,77,75,5,19841222
 76,87,Naughty Naughty,John Parr,John Parr,rock,rock,19841215,87,23,20,19841222
-77,89,Lonely School,Tommy Shaw,Tommy Shaw,rock,hard rock,19841215,89,60,9,19841222
+77,89,Lonely School,Tommy Shaw,Tommy Shaw,rock,rock,19841215,89,60,9,19841222
 78,82,Eyes On You,Billy Squier,Billy Squier,rock,classic rock,19841208,89,71,8,19841222
 79,NEW,Mr. Telephone Man,New Edition,New Edition,rnb / soul,rnb,19841222,79,12,16,19841222
 80,88,All Right Now,Rod Stewart,Rod Stewart,rock,classic rock,19841215,88,72,6,19841222
@@ -287,11 +287,11 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 86,87,Thief Of Hearts,Melissa Manchester,Melissa Manchester,pop,female vocalists,19841124,88,86,6,19841215
 87,NEW,Naughty Naughty,John Parr,John Parr,rock,rock,19841215,87,23,20,19841215
 88,NEW,All Right Now,Rod Stewart,Rod Stewart,rock,classic rock,19841215,88,72,6,19841215
-89,NEW,Lonely School,Tommy Shaw,Tommy Shaw,rock,hard rock,19841215,89,60,9,19841215
+89,NEW,Lonely School,Tommy Shaw,Tommy Shaw,rock,rock,19841215,89,60,9,19841215
 90,NEW,Treat Her Like A Lady,Temptations,Temptations,rnb / soul,soul,19841215,90,48,14,19841215
 91,68,I'm So Excited,Pointer Sisters,Pointer Sisters,disco,disco,19840804,87,9,20,19841215
 92,83,Heaven's On Fire,Kiss,Kiss,rock,hard rock,19841013,81,49,10,19841215
-93,74,Girls With Guns,Tommy Shaw,Tommy Shaw,rock,hard rock,19840929,76,33,12,19841215
+93,74,Girls With Guns,Tommy Shaw,Tommy Shaw,rock,rock,19840929,76,33,12,19841215
 94,75,Concealed Weapons,J. Geils Band,J. Geils Band,rock,classic rock,19841103,85,63,7,19841215
 95,93,Let's Go Crazy,Prince,Prince,rnb / soul,funk,19840804,45,1,20,19841215
 96,79,Some Guys Have All The Luck,Rod Stewart,Rod Stewart,rock,classic rock,19840825,57,10,17,19841215
@@ -372,7 +372,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 71,84,Operator,Midnight Star,Midnight Star,rnb / soul,funk,19841201,84,18,17,19841208
 72,82,Missing You,Diana Ross,Diana Ross,rnb / soul,soul,19841201,82,10,27,19841208
 73,55,On The Dark Side,John Cafferty & The Beaver Brown Band,John Cafferty & The Beaver Brown Band,rock,rock,19840818,86,7,22,19841208
-74,58,Girls With Guns,Tommy Shaw,Tommy Shaw,rock,hard rock,19840929,76,33,12,19841208
+74,58,Girls With Guns,Tommy Shaw,Tommy Shaw,rock,rock,19840929,76,33,12,19841208
 75,63,Concealed Weapons,J. Geils Band,J. Geils Band,rock,classic rock,19841103,85,63,7,19841208
 76,79,Amnesia,Shalamar,Shalamar,disco,disco,19841117,88,73,9,19841208
 77,73,Sugar Don't Bite,Sam Harris,Sam Harris,pop,samharris-com,19840915,82,36,14,19841208
@@ -456,7 +456,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 55,31,On The Dark Side,John Cafferty & The Beaver Brown Band,John Cafferty & The Beaver Brown Band,rock,rock,19840818,86,7,22,19841201
 56,NEW,Loverboy,Billy Ocean,Billy Ocean,pop,80s,19841201,56,2,21,19841201
 57,66,Ti Amo,Laura Branigan,Laura Branigan,pop,80s,19841103,90,55,12,19841201
-58,42,Girls With Guns,Tommy Shaw,Tommy Shaw,rock,hard rock,19840929,76,33,12,19841201
+58,42,Girls With Guns,Tommy Shaw,Tommy Shaw,rock,rock,19840929,76,33,12,19841201
 59,83,Foolish Heart,Steve Perry,Steve Perry,rock,classic rock,19841124,83,18,19,19841201
 60,68,Taxi Driving,Rick Springfield & Randy Crawford,Rick Springfield & Randy Crawford,pop,80s,19841117,83,59,10,19841201
 61,65,Jungle Love,Time,Time,rock,psychedelic rock,19841027,88,20,25,19841201
@@ -540,7 +540,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 39,46,All I Need,Jack Wagner,Jack Wagner,pop,pop,19841020,88,2,22,19841124
 40,41,Stranger In Town,Toto,Toto,rock,rock,19841027,70,30,15,19841124
 41,45,Misunderstanding,Bob Seger,Bob Seger,rock,classic rock,19841110,54,17,15,19841124
-42,33,Girls With Guns,Tommy Shaw,Tommy Shaw,rock,hard rock,19840929,76,33,12,19841124
+42,33,Girls With Guns,Tommy Shaw,Tommy Shaw,rock,rock,19840929,76,33,12,19841124
 43,44,Hands Tied,Scandal,Scandal,rock,j-rock,19841020,69,41,13,19841124
 44,36,Sugar Don't Bite,Sam Harris,Sam Harris,pop,samharris-com,19840915,82,36,14,19841124
 45,50,Pride (In The Name Of Love),U2,U2,rock,rock,19841027,85,33,15,19841124
@@ -631,7 +631,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 30,17,Lucky Star,Madonna,Madonna,pop,pop,19840825,49,4,16,19841117
 31,38,Hello Again,The Cars,The Cars,rock,new wave,19841027,60,20,15,19841117
 32,43,Do What You Do,Jermaine Jackson,Jermaine Jackson,rnb / soul,soul,19841027,64,13,20,19841117
-33,35,Girls With Guns,Tommy Shaw,Tommy Shaw,rock,hard rock,19840929,76,33,12,19841117
+33,35,Girls With Guns,Tommy Shaw,Tommy Shaw,rock,rock,19840929,76,33,12,19841117
 34,37,We Are Young,Dan Hartmann,Dan Hartmann,disco,disco,19841006,81,25,17,19841117
 35,21,Who Wears These Shoes?,Elton John,Elton John,pop,pop,19840908,54,16,14,19841117
 36,36,Sugar Don't Bite,Sam Harris,Sam Harris,pop,samharris-com,19840915,82,36,14,19841117
@@ -733,7 +733,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 32,17,Let's Go Crazy,Prince,Prince,rnb / soul,funk,19840804,45,1,20,19841110
 33,42,Valotte,Julian Lennon,Julian Lennon,pop,pop,19841020,64,9,19,19841110
 34,21,Drive,The Cars,The Cars,rock,new wave,19840804,51,3,19,19841110
-35,37,Girls With Guns,Tommy Shaw,Tommy Shaw,rock,hard rock,19840929,76,33,12,19841110
+35,37,Girls With Guns,Tommy Shaw,Tommy Shaw,rock,rock,19840929,76,33,12,19841110
 36,39,Sugar Don't Bite,Sam Harris,Sam Harris,pop,samharris-com,19840915,82,36,14,19841110
 37,40,We Are Young,Dan Hartmann,Dan Hartmann,disco,disco,19841006,81,25,17,19841110
 38,46,Hello Again,The Cars,The Cars,rock,new wave,19841027,60,20,15,19841110
@@ -835,7 +835,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 34,23,Missing You,John Waite,John Waite,pop,80s,19840623,89,1,24,19841103
 35,45,We Belong,Pat Benatar,Pat Benatar,pop,80s,19841027,45,5,20,19841103
 36,25,Bop 'Til You Drop,Rick Springfield,Rick Springfield,pop,80s,19840818,67,20,22,19841103
-37,42,Girls With Guns,Tommy Shaw,Tommy Shaw,rock,hard rock,19840929,76,33,12,19841103
+37,42,Girls With Guns,Tommy Shaw,Tommy Shaw,rock,rock,19840929,76,33,12,19841103
 38,NEW,Wild Boys,Duran Duran,Duran Duran,rock,new wave,19841103,38,2,18,19841103
 39,43,Sugar Don't Bite,Sam Harris,Sam Harris,pop,samharris-com,19840915,82,36,14,19841103
 40,46,We Are Young,Dan Hartmann,Dan Hartmann,disco,disco,19841006,81,25,17,19841103
@@ -940,7 +940,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 39,53,Walking On A Thin Line,Huey Lewis And The News,Huey Lewis And The News,pop,80s,19841020,53,18,15,19841027
 40,41,Strung Out,Steve Perry,Steve Perry,rock,classic rock,19840908,79,40,13,19841027
 41,27,Cruel Summer,Bananarama,Bananarama,pop,80s,19840721,76,9,18,19841027
-42,47,Girls With Guns,Tommy Shaw,Tommy Shaw,rock,hard rock,19840929,76,33,12,19841027
+42,47,Girls With Guns,Tommy Shaw,Tommy Shaw,rock,rock,19840929,76,33,12,19841027
 43,51,Sugar Don't Bite,Sam Harris,Sam Harris,pop,samharris-com,19840915,82,36,14,19841027
 44,29,What's Love Got To Do With It,Tina Turner,Tina Turner,pop,pop,19840519,92,1,28,19841027
 45,NEW,We Belong,Pat Benatar,Pat Benatar,pop,80s,19841027,45,5,20,19841027
@@ -1045,7 +1045,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 44,39,The Lucky One,Laura Branigan,Laura Branigan,pop,80s,19840804,62,20,15,19841020
 45,55,Cool It Now,New Edition,New Edition,rnb / soul,rnb,19840922,84,4,25,19841020
 46,62,Sea Of Love,Honeydrippers,Honeydrippers,rock,classic rock,19841013,62,3,20,19841020
-47,58,Girls With Guns,Tommy Shaw,Tommy Shaw,rock,hard rock,19840929,76,33,12,19841020
+47,58,Girls With Guns,Tommy Shaw,Tommy Shaw,rock,rock,19840929,76,33,12,19841020
 48,49,Body Rock,Maria Vidal,Maria Vidal,pop,pop,19840908,89,48,12,19841020
 49,36,When You Close Your Eyes,Night Ranger,Night Ranger,rock,hard rock,19840714,72,14,17,19841020
 50,52,Left In The Dark,Barbra Streisand,Barbra Streisand,pop,female vocalists,19840922,68,50,12,19841020
@@ -1156,7 +1156,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 55,64,Cool It Now,New Edition,New Edition,rnb / soul,rnb,19840922,84,4,25,19841013
 56,59,Sugar Don't Bite,Sam Harris,Sam Harris,pop,samharris-com,19840915,82,36,14,19841013
 57,36,Stuck On You,Lionel Richie,Lionel Richie,rnb / soul,soul,19840623,72,3,19,19841013
-58,65,Girls With Guns,Tommy Shaw,Tommy Shaw,rock,hard rock,19840929,76,33,12,19841013
+58,65,Girls With Guns,Tommy Shaw,Tommy Shaw,rock,rock,19840929,76,33,12,19841013
 59,61,Bouncing Off The Wall,Matthew Wilder,Matthew Wilder,pop,80s,19840922,78,52,9,19841013
 60,70,The Allnighter,Glenn Frey,Glenn Frey,pop,80s,19840929,81,54,6,19841013
 61,44,You Take Me Up,Thompson Twins,Thompson Twins,pop,80s,19840825,80,44,9,19841013
@@ -1263,7 +1263,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 62,71,"Teacher, Teacher",.38 Special,.38 Special,rock,southern rock,19840929,71,25,11,19841006
 63,46,When Doves Cry,Prince,Prince,rnb / soul,funk,19840602,57,1,21,19841006
 64,74,Cool It Now,New Edition,New Edition,rnb / soul,rnb,19840922,84,4,25,19841006
-65,76,Girls With Guns,Tommy Shaw,Tommy Shaw,rock,hard rock,19840929,76,33,12,19841006
+65,76,Girls With Guns,Tommy Shaw,Tommy Shaw,rock,rock,19840929,76,33,12,19841006
 66,66,Layin' It On The Line,Jefferson Starship,Jefferson Starship,rock,classic rock,19840908,82,66,6,19841006
 67,47,If Ever You're In My Arms Again,Peabo Bryson,Peabo Bryson,rnb / soul,soul,19840512,90,10,25,19841006
 68,36,Rock Me Tonite,Billy Squier,Billy Squier,rock,classic rock,19840707,51,15,16,19841006
@@ -1374,7 +1374,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 73,62,17,Rick James,Rick James,rnb / soul,funk,19840714,75,36,14,19840929
 74,84,Cool It Now,New Edition,New Edition,rnb / soul,rnb,19840922,84,4,25,19840929
 75,76,Pretty Mess,Vanity,Vanity,pop,80s,19840908,87,75,7,19840929
-76,NEW,Girls With Guns,Tommy Shaw,Tommy Shaw,rock,hard rock,19840929,76,33,12,19840929
+76,NEW,Girls With Guns,Tommy Shaw,Tommy Shaw,rock,rock,19840929,76,33,12,19840929
 77,NEW,I Can't Drive 55,Sammy Hagar,Sammy Hagar,rock,hard rock,19840929,77,26,16,19840929
 78,82,Midnite Maniac,Krokus,Krokus,rock,hard rock,19840915,94,71,6,19840929
 79,60,State Of Shock,Jacksons,Jacksons,rnb / soul,soul,19840630,30,3,15,19840929

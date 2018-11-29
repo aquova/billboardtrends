@@ -2401,7 +2401,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 100,98,I.O.U.,Lee Greenwood,Lee Greenwood,country / folk,country,19830528,77,53,11,19830806
 101,109,Cum On Feel The Noize,Quiet Riot,Quiet Riot,rock,heavy metal,19830730,109,5,28,19830806
 102,105,Bad Boys,Wham U.K.,Wham U.K.,pop,unknown,19830730,105,60,12,19830806
-103,103,I Love You,Yello,Yello,pop,electronic,19830716,106,103,4,19830806
+103,103,I Love You,Yello,Yello,electronic,electronic,19830716,106,103,4,19830806
 104,107,Teenage Idol,Blackfoot,Blackfoot,rock,southern rock,19830730,107,103,4,19830806
 105,NEW,Message Is You,Gary Myrick,Gary Myrick,rock,new wave,19830806,105,103,2,19830806
 106,NEW,I Love Rocky Road,Weird Al Yankovic,Weird Al Yankovic,pop,comedy,19830806,106,106,2,19830806
@@ -2511,7 +2511,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 100,71,The Metro,Berlin,Berlin,rock,new wave,19830521,102,58,11,19830730
 101,103,All The Love In The World,Dionne Warwick,Dionne Warwick,rnb / soul,soul,19830716,103,101,3,19830730
 102,NEW,We Live So Fast,Heaven 17,Heaven 17,rock,new wave,19830730,102,102,1,19830730
-103,105,I Love You,Yello,Yello,pop,electronic,19830716,106,103,4,19830730
+103,105,I Love You,Yello,Yello,electronic,electronic,19830716,106,103,4,19830730
 104,107,Holiday Road,Lindsey Buckingham,Lindsey Buckingham,country / folk,singer-songwriter,19830723,107,82,7,19830730
 105,NEW,Bad Boys,Wham U.K.,Wham U.K.,pop,unknown,19830730,105,60,12,19830730
 106,108,Scatterlings Of Africa,Juluka,Juluka,pop,south africa,19830716,110,106,4,19830730
@@ -2623,7 +2623,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 102,109,A Million Miles Away,The Plimsouls,The Plimsouls,pop,power pop,19830716,109,82,5,19830723
 103,103,All The Love In The World,Dionne Warwick,Dionne Warwick,rnb / soul,soul,19830716,103,101,3,19830723
 104,101,Two Hearts Beat As One,U2,U2,rock,rock,19830702,109,101,4,19830723
-105,106,I Love You,Yello,Yello,pop,electronic,19830716,106,103,4,19830723
+105,106,I Love You,Yello,Yello,electronic,electronic,19830716,106,103,4,19830723
 106,107,Nights Are Forever,Jennifer Warnes,Jennifer Warnes,pop,female vocalists,19830702,108,105,4,19830723
 107,NEW,Holiday Road,Lindsey Buckingham,Lindsey Buckingham,country / folk,singer-songwriter,19830723,107,82,7,19830723
 108,110,Scatterlings Of Africa,Juluka,Juluka,pop,south africa,19830716,110,106,4,19830723
@@ -2734,7 +2734,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 103,NEW,All The Love In The World,Dionne Warwick,Dionne Warwick,rnb / soul,soul,19830716,103,101,3,19830716
 104,104,Threw It Away,Joe Cocker,Joe Cocker,rock,classic rock,19830618,105,104,5,19830716
 105,NEW,Sharp Dressed Man,Zz Top,Zz Top,rock,classic rock,19830716,105,56,10,19830716
-106,NEW,I Love You,Yello,Yello,pop,electronic,19830716,106,103,4,19830716
+106,NEW,I Love You,Yello,Yello,electronic,electronic,19830716,106,103,4,19830716
 107,105,Nights Are Forever,Jennifer Warnes,Jennifer Warnes,pop,female vocalists,19830702,108,105,4,19830716
 108,NEW,Loverboy,Shor Patrol,Shor Patrol,pop,unknown,19830716,108,108,3,19830716
 109,NEW,A Million Miles Away,The Plimsouls,The Plimsouls,pop,power pop,19830716,109,82,5,19830716

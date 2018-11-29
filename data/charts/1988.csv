@@ -38,7 +38,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 37,37,Wild Thing,Tone-Loc,Tone-Loc,hip-hop,hip-hop,19881203,92,2,25,19881231
 38,38,Kokomo,The Beach Boys,The Beach Boys,rock,classic rock,19880903,96,1,28,19881231
 39,39,"Wild, Wild West",The Escape Club,The Escape Club,pop,80s,19880820,94,1,27,19881231
-40,40,Kiss,The Art Of Noise Featuring Tom Jones,The Art Of Noise,pop,electronic,19881203,80,31,11,19881231
+40,40,Kiss,The Art Of Noise Featuring Tom Jones,The Art Of Noise,electronic,electronic,19881203,80,31,11,19881231
 41,41,Walking Away,Information Society,Information Society,pop,synthpop,19881126,98,9,19,19881231
 42,42,Back On Holiday,Robbie Nevil,Robbie Nevil,pop,80s,19881112,87,34,14,19881231
 43,43,Bad Medicine,Bon Jovi,Bon Jovi,rock,rock,19880924,43,1,20,19881231
@@ -81,7 +81,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 80,80,Surrender To Me,Ann Wilson & Robin Zander,Ann Wilson & Robin Zander,pop,soundtrack,19881224,80,6,19,19881231
 81,81,Wild Again,Starship,Starship,pop,80s,19881217,98,73,8,19881231
 82,82,Killing Me Softly,Al B. Sure!,Al B. Sure!,rnb / soul,rnb,19881119,88,80,11,19881231
-83,83,Doctorin' The Tardis,Timelords,Timelords,pop,electronic,19881217,94,66,13,19881231
+83,83,Doctorin' The Tardis,Timelords,Timelords,electronic,electronic,19881217,94,66,13,19881231
 84,84,Never Tear Us Apart,Inxs,Inxs,rock,rock,19880813,86,7,23,19881231
 85,85,All She Wants Is,Duran Duran,Duran Duran,rock,new wave,19881224,85,22,13,19881231
 86,86,Perfect,Fairground Attraction,Fairground Attraction,pop,pop,19881217,95,80,6,19881231
@@ -138,7 +138,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 37,52,Wild Thing,Tone Loc,Tone Loc,hip-hop,hip-hop,19881203,92,2,25,19881224
 38,29,Kokomo,The Beach Boys,The Beach Boys,rock,classic rock,19880903,96,1,28,19881224
 39,28,"Wild, Wild West",The Escape Club,The Escape Club,pop,80s,19880820,94,1,27,19881224
-40,49,Kiss,The Art Of Noise Featuring Tom Jones,The Art Of Noise,pop,electronic,19881203,80,31,11,19881224
+40,49,Kiss,The Art Of Noise Featuring Tom Jones,The Art Of Noise,electronic,electronic,19881203,80,31,11,19881224
 41,48,Walking Away,Information Society,Information Society,pop,synthpop,19881126,98,9,19,19881224
 42,45,Back On Holiday,Robbie Nevil,Robbie Nevil,pop,80s,19881112,87,34,14,19881224
 43,26,Bad Medicine,Bon Jovi,Bon Jovi,rock,rock,19880924,43,1,20,19881224
@@ -181,7 +181,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 80,NEW,Surrender To Me,Ann Wilson & Robin Zander,Ann Wilson & Robin Zander,pop,soundtrack,19881224,80,6,19,19881224
 81,98,Wild Again,Starship,Starship,pop,80s,19881217,98,73,8,19881224
 82,84,Killing Me Softly,Al B. Sure!,Al B. Sure!,rnb / soul,rnb,19881119,88,80,11,19881224
-83,94,Doctorin' The Tardis,Timelords,Timelords,pop,electronic,19881217,94,66,13,19881224
+83,94,Doctorin' The Tardis,Timelords,Timelords,electronic,electronic,19881217,94,66,13,19881224
 84,78,Never Tear Us Apart,Inxs,Inxs,rock,rock,19880813,86,7,23,19881224
 85,NEW,All She Wants Is,Duran Duran,Duran Duran,rock,new wave,19881224,85,22,13,19881224
 86,95,Perfect,Fairground Attraction,Fairground Attraction,pop,pop,19881217,95,80,6,19881224
@@ -247,7 +247,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 46,45,Handle With Care,Traveling Wilburys,Traveling Wilburys,rock,classic rock,19881029,83,45,14,19881217
 47,59,Straight Up,Paula Abdul,Paula Abdul,pop,pop,19881203,79,1,25,19881217
 48,57,Walking Away,Information Society,Information Society,pop,synthpop,19881126,98,9,19,19881217
-49,65,Kiss,Art Of Noise & Tom Jones,Art Of Noise & Tom Jones,pop,electronic,19881203,80,31,11,19881217
+49,65,Kiss,Art Of Noise & Tom Jones,Art Of Noise & Tom Jones,electronic,electronic,19881203,80,31,11,19881217
 50,27,Domino Dancing,Pet Shop Boys,Pet Shop Boys,pop,synthpop,19881008,71,18,14,19881217
 51,55,Baby Can I Hold You,Tracy Chapman,Tracy Chapman,pop,female vocalists,19881105,84,48,12,19881217
 52,77,Wild Thing,Tone Loc,Tone Loc,hip-hop,hip-hop,19881203,92,2,25,19881217
@@ -292,7 +292,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 91,NEW,If We Never Meet Again,Tommy Conwell & The Young Rumblers,Tommy Conwell,pop,unknown,19881217,91,48,11,19881217
 92,85,Please Don't Go Girl,New Kids On The Block,New Kids On The Block,pop,pop,19880625,92,10,28,19881217
 93,97,Is It Love,J.J. Fad,J.J. Fad,hip-hop,hip-hop,19881210,97,92,5,19881217
-94,NEW,Doctorin' The Tardis,Timelords,Timelords,pop,electronic,19881217,94,66,13,19881217
+94,NEW,Doctorin' The Tardis,Timelords,Timelords,electronic,electronic,19881217,94,66,13,19881217
 95,NEW,Perfect,Fairground Attraction,Fairground Attraction,pop,pop,19881217,95,80,6,19881217
 96,71,Any Love,Luther Vandross,Luther Vandross,rnb / soul,soul,19881008,78,44,13,19881217
 97,NEW,Posse On Broadway,Sir Mix-A-Lot,Sir Mix-A-Lot,hip-hop,rap,19881217,97,70,9,19881217
@@ -363,7 +363,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 62,51,Never Tear Us Apart,Inxs,Inxs,rock,rock,19880813,86,7,23,19881210
 63,64,Nobody's Perfect,Mike And The Mechanics,Mike And The Mechanics,pop,80s,19881105,98,63,11,19881210
 64,55,Red Red Wine,Ub40,Ub40,reggae,reggae,19880813,85,1,25,19881210
-65,80,Kiss,Art Of Noise & Tom Jones,Art Of Noise & Tom Jones,pop,electronic,19881203,80,31,11,19881210
+65,80,Kiss,Art Of Noise & Tom Jones,Art Of Noise & Tom Jones,electronic,electronic,19881203,80,31,11,19881210
 66,59,Best Of Times,Peter Cetera,Peter Cetera,pop,80s,19881029,88,59,8,19881210
 67,70,Forever Young,Alphaville,Alphaville,pop,80s,19881029,91,65,14,19881210
 68,67,Forever Young,Rod Stewart,Rod Stewart,rock,classic rock,19880806,92,12,24,19881210
@@ -478,7 +478,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 77,76,Please Don't Go Girl,New Kids On The Block,New Kids On The Block,pop,pop,19880625,92,10,28,19881203
 78,86,Cross My Heart,Eighth Wonder,Eighth Wonder,pop,pop,19881119,96,56,16,19881203
 79,NEW,Straight Up,Paula Abdul,Paula Abdul,pop,pop,19881203,79,1,25,19881203
-80,NEW,Kiss,Art Of Noise & Tom Jones,Art Of Noise & Tom Jones,pop,electronic,19881203,80,31,11,19881203
+80,NEW,Kiss,Art Of Noise & Tom Jones,Art Of Noise & Tom Jones,electronic,electronic,19881203,80,31,11,19881203
 81,NEW,As Long As You Follow,Fleetwood Mac,Fleetwood Mac,rock,classic rock,19881203,81,43,14,19881203
 82,63,Chains Of Love,Erasure,Erasure,pop,80s,19880730,91,12,20,19881203
 83,80,Killing Me Softly,Al B. Sure!,Al B. Sure!,rnb / soul,rnb,19881119,88,80,11,19881203
@@ -873,7 +873,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 72,57,Simply Irresistible,Robert Palmer,Robert Palmer,pop,80s,19880702,59,2,20,19881105
 73,88,Best Of Times,Peter Cetera,Peter Cetera,pop,80s,19881029,88,59,8,19881105
 74,79,Don't Break My Heart,Romeo'S Daughter,Romeo'S Daughter,rock,melodic rock,19881015,94,73,7,19881105
-75,64,Strangelove,Depeche Mode,Depeche Mode,pop,electronic,19880910,95,50,9,19881105
+75,64,Strangelove,Depeche Mode,Depeche Mode,electronic,electronic,19880910,95,50,9,19881105
 76,85,Put This Love To The Test,Jon Astley,Jon Astley,pop,80s,19881015,95,74,8,19881105
 77,49,Fallen Angel,Poison,Poison,rock,hard rock,19880730,73,12,16,19881105
 78,95,Wild World,Maxi Priest,Maxi Priest,reggae,reggae,19881029,95,25,18,19881105
@@ -962,7 +962,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 61,78,My Prerogative,Bobby Brown,Bobby Brown,rnb / soul,rnb,19881022,78,1,24,19881029
 62,79,I Remember Holding You,Boys Club,Boys Club,pop,punk,19881022,79,8,21,19881029
 63,70,Didn't Know It Was Love,Survivor,Survivor,rock,rock,19881008,95,61,10,19881029
-64,50,Strangelove,Depeche Mode,Depeche Mode,pop,electronic,19880910,95,50,9,19881029
+64,50,Strangelove,Depeche Mode,Depeche Mode,electronic,electronic,19880910,95,50,9,19881029
 65,61,Way Out,J.J. Fad,J.J. Fad,hip-hop,hip-hop,19880917,98,61,9,19881029
 66,68,I Can't Wait,Deniece Williams,Deniece Williams,rnb / soul,soul,19880924,98,66,8,19881029
 67,77,The Way You Love Me,Karyn White,Karyn White,rnb / soul,soul,19881015,83,7,25,19881029
@@ -1048,7 +1048,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 47,58,Domino Dancing,Pet Shop Boys,Pet Shop Boys,pop,synthpop,19881008,71,18,14,19881022
 48,36,Superstitious,Europe,Europe,rock,hard rock,19880813,80,31,13,19881022
 49,31,What You See Is What You Get,Brenda K. Starr,Brenda K. Starr,pop,female vocalists,19880806,79,24,13,19881022
-50,53,Strangelove,Depeche Mode,Depeche Mode,pop,electronic,19880910,95,50,9,19881022
+50,53,Strangelove,Depeche Mode,Depeche Mode,electronic,electronic,19880910,95,50,9,19881022
 51,73,In Your Room,Bangles,Bangles,pop,80s,19881015,73,5,20,19881022
 52,66,Spy In The House Of Love,Was Not Was,Was Not Was,rnb / soul,funk,19881001,93,16,17,19881022
 53,40,A Nightmare On My Street,Dj Jazzy Jeff & The Fresh Prince,Dj Jazzy Jeff & The Fresh Prince,hip-hop,hip-hop,19880730,74,15,16,19881022
@@ -1151,7 +1151,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 50,59,Downtown Life,Daryl Hall & John Oates,Daryl Hall & John Oates,pop,80s,19881001,76,31,9,19881015
 51,40,When It's Love,Van Halen,Van Halen,rock,hard rock,19880702,69,5,19,19881015
 52,29,Staying Together,Debbie Gibson,Debbie Gibson,pop,pop,19880806,84,22,12,19881015
-53,55,Strangelove,Depeche Mode,Depeche Mode,pop,electronic,19880910,95,50,9,19881015
+53,55,Strangelove,Depeche Mode,Depeche Mode,electronic,electronic,19880910,95,50,9,19881015
 54,66,Small World,Huey Lewis And The News,Huey Lewis And The News,pop,80s,19881008,66,25,11,19881015
 55,61,Edge Of A Broken Heart,Vixen,Vixen,rock,hard rock,19880917,96,26,21,19881015
 56,38,Perfect World,Huey Lewis And The News,Huey Lewis And The News,pop,80s,19880716,51,3,15,19881015
@@ -1253,7 +1253,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 52,67,Walk On Water,Eddie Money,Eddie Money,rock,classic rock,19881001,67,9,21,19881008
 53,41,I Don't Wanna Live Without Your Love,Chicago,Chicago,rock,classic rock,19880604,71,3,21,19881008
 54,39,Fast Car,Tracy Chapman,Tracy Chapman,pop,female vocalists,19880604,95,6,21,19881008
-55,58,Strangelove,Depeche Mode,Depeche Mode,pop,electronic,19880910,95,50,9,19881008
+55,58,Strangelove,Depeche Mode,Depeche Mode,electronic,electronic,19880910,95,50,9,19881008
 56,54,Spring Love (Come Back To Me),Stevie B,Stevie B,pop,freestyle,19880709,89,43,18,19881008
 57,44,Here With Me,Reo Speedwagon,Reo Speedwagon,rock,classic rock,19880625,80,20,19,19881008
 58,47,Hands To Heaven,Breathe,Breathe,pop,80s,19880416,90,2,29,19881008
@@ -1356,7 +1356,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 55,45,Off On Your Own (Girl),Al B Sure!,Al B Sure!,rnb / soul,rnb,19880806,93,45,12,19881001
 56,77,Look Away,Chicago,Chicago,rock,classic rock,19880924,77,1,24,19881001
 57,58,Inside A Dream,Jane Wiedlin,Jane Wiedlin,pop,pop,19880903,86,57,7,19881001
-58,69,Strangelove,Depeche Mode,Depeche Mode,pop,electronic,19880910,95,50,9,19881001
+58,69,Strangelove,Depeche Mode,Depeche Mode,electronic,electronic,19880910,95,50,9,19881001
 59,73,You Came,Kim Wilde,Kim Wilde,pop,80s,19880917,84,41,10,19881001
 60,48,All Fired Up,Pat Benatar,Pat Benatar,pop,80s,19880702,75,19,17,19881001
 61,85,Giving You The Best That I Got,Anita Baker,Anita Baker,rnb / soul,soul,19880924,85,3,22,19881001
@@ -1467,7 +1467,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 66,86,A Word In Spanish,Elton John,Elton John,pop,pop,19880917,86,19,13,19880924
 67,51,Look Out Any Window,Bruce Hornsby And The Range,Bruce Hornsby And The Range,pop,80s,19880723,77,35,12,19880924
 68,74,Long And Lasting Love (Once In A Lifetime),Glenn Medeiros,Glenn Medeiros,pop,pop,19880813,97,68,10,19880924
-69,81,Strangelove,Depeche Mode,Depeche Mode,pop,electronic,19880910,95,50,9,19880924
+69,81,Strangelove,Depeche Mode,Depeche Mode,electronic,electronic,19880910,95,50,9,19880924
 70,79,Heart Don't Fail Me Now,Holly Knight,Holly Knight,rock,rock,19880903,93,59,9,19880924
 71,60,Sayin' Sorry (Don't Make It Right),Denise Lopez,Denise Lopez,electronic,dance,19880611,96,31,17,19880924
 72,62,Pour Some Sugar On Me,Def Leppard,Def Leppard,rock,hard rock,19880423,93,2,24,19880924
@@ -1579,7 +1579,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 78,97,"Baby, I Love Your Way / Freebird",Will To Power,Will To Power,pop,80s,19880910,97,1,24,19880917
 79,86,Heart Don't Fail Me Now,Holly Knight,Holly Knight,rock,rock,19880903,93,59,9,19880917
 80,61,The Right Stuff,Vanessa Williams,Vanessa Williams,pop,pop,19880723,82,44,10,19880917
-81,95,Strangelove,Depeche Mode,Depeche Mode,pop,electronic,19880910,95,50,9,19880917
+81,95,Strangelove,Depeche Mode,Depeche Mode,electronic,electronic,19880910,95,50,9,19880917
 82,66,Missed Opportunity,Daryl Hall & John Oates,Daryl Hall & John Oates,pop,80s,19880709,75,29,11,19880917
 83,88,What's The Matter Here,"10,000 Maniacs","10,000 Maniacs",pop,female vocalists,19880903,94,80,8,19880917
 84,NEW,You Came,Kim Wilde,Kim Wilde,pop,80s,19880917,84,41,10,19880917
@@ -1693,7 +1693,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 92,70,Knocked Out,Paula Abdul,Paula Abdul,pop,pop,19880618,93,41,13,19880910
 93,90,Pretty Boys And Pretty Girls,Book Of Love,Book Of Love,rock,new wave,19880903,90,90,4,19880910
 94,82,Tell Me,White Lion,White Lion,rock,hard rock,19880702,89,58,11,19880910
-95,NEW,Strangelove,Depeche Mode,Depeche Mode,pop,electronic,19880910,95,50,9,19880910
+95,NEW,Strangelove,Depeche Mode,Depeche Mode,electronic,electronic,19880910,95,50,9,19880910
 96,85,Love Changes (Everything),Climie Fisher,Climie Fisher,pop,80s,19880514,92,23,18,19880910
 97,NEW,"Baby, I Love Your Way / Freebird",Will To Power,Will To Power,pop,80s,19880910,97,1,24,19880910
 98,NEW,Button Off My Shirt,Paul Carrack,Paul Carrack,rock,soft rock,19880910,98,91,3,19880910
@@ -2496,7 +2496,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 95,71,Under The Milky Way,The Church,The Church,rock,new wave,19880409,91,24,15,19880716
 96,91,Too Much Ain't Enough Love,Jimmy Barnes,Jimmy Barnes,rock,rock,19880709,91,91,2,19880716
 97,NEW,K.I.S.S.I.N.G.,Siedah Garrett,Siedah Garrett,pop,pop,19880716,97,97,1,19880716
-98,90,Route 66 - Behind The Wheel,Depeche Mode,Depeche Mode,pop,electronic,19880507,91,61,11,19880716
+98,90,Route 66 - Behind The Wheel,Depeche Mode,Depeche Mode,electronic,electronic,19880507,91,61,11,19880716
 99,88,Wait,White Lion,White Lion,rock,hard rock,19880227,88,8,21,19880716
 100,79,We All Sleep Alone,Cher,Cher,pop,pop,19880409,84,14,15,19880716
 1,3,The Flame,Cheap Trick,Cheap Trick,rock,classic rock,19880409,92,1,27,19880709
@@ -2588,7 +2588,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 87,87,When Will I Be Famous?,Bros,Bros,pop,pop,19880625,96,83,5,19880709
 88,65,Wait,White Lion,White Lion,rock,hard rock,19880227,88,8,21,19880709
 89,NEW,Spring Love (Come Back To Me),Stevie B,Stevie B,pop,freestyle,19880709,89,43,18,19880709
-90,84,Route 66 - Behind The Wheel,Depeche Mode,Depeche Mode,pop,electronic,19880507,91,61,11,19880709
+90,84,Route 66 - Behind The Wheel,Depeche Mode,Depeche Mode,electronic,electronic,19880507,91,61,11,19880709
 91,NEW,Too Much Ain't Enough Love,Jimmy Barnes,Jimmy Barnes,rock,rock,19880709,91,91,2,19880709
 92,NEW,My Obsession,Icehouse,Icehouse,rock,new wave,19880709,92,88,4,19880709
 93,NEW,Cecilia,Times Two,Times Two,rock,rock,19880709,93,79,6,19880709
@@ -2682,7 +2682,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 81,71,When We Kiss,Bardeux,Bardeux,pop,hi-nrg,19880416,67,36,13,19880702
 82,89,Forever Yours,Tony Terry,Tony Terry,rnb / soul,soul,19880625,89,80,5,19880702
 83,66,Wishing Well,Terence Trent D'Arby,Terence Trent D'Arby,rnb / soul,soul,19880116,79,1,25,19880702
-84,72,Route 66 - Behind The Wheel,Depeche Mode,Depeche Mode,pop,electronic,19880507,91,61,11,19880702
+84,72,Route 66 - Behind The Wheel,Depeche Mode,Depeche Mode,electronic,electronic,19880507,91,61,11,19880702
 85,65,Electric Blue,Icehouse,Icehouse,rock,new wave,19880213,88,7,21,19880702
 86,75,Rhythm Of Love,Scorpions,Scorpions,rock,hard rock,19880604,89,75,6,19880702
 87,96,When Will I Be Famous?,Bros,Bros,pop,pop,19880625,96,83,5,19880702
@@ -2770,7 +2770,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 69,53,Dreaming,Orchestral Manoeuvres In The Dark,Orchestral Manoeuvres In The Dark,rock,new wave,19880312,82,16,17,19880625
 70,75,Colors,Ice-T,Ice-T,hip-hop,hip-hop,19880611,86,70,7,19880625
 71,54,When We Kiss,Bardeux,Bardeux,pop,hi-nrg,19880416,67,36,13,19880625
-72,68,Route 66 - Behind The Wheel,Depeche Mode,Depeche Mode,pop,electronic,19880507,91,61,11,19880625
+72,68,Route 66 - Behind The Wheel,Depeche Mode,Depeche Mode,electronic,electronic,19880507,91,61,11,19880625
 73,69,Most Of All,Jody Watley,Jody Watley,rnb / soul,soul,19880430,92,60,11,19880625
 74,85,Say It's Gonna Rain,Will To Power,Will To Power,pop,80s,19880618,85,49,14,19880625
 75,81,Rhythm Of Love,Scorpions,Scorpions,rock,hard rock,19880604,89,75,6,19880625
@@ -2866,7 +2866,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 65,73,You Have Placed A Chill In My Heart,Eurythmics,Eurythmics,pop,80s,19880528,95,64,7,19880618
 66,61,Rooty Tooty Toot,John Cougar Mellencamp,John Cougar Mellencamp,rock,rock,19880514,93,61,8,19880618
 67,54,Pink Cadillac,Natalie Cole,Natalie Cole,jazz,jazz,19880305,67,5,17,19880618
-68,66,Route 66 - Behind The Wheel,Depeche Mode,Depeche Mode,pop,electronic,19880507,91,61,11,19880618
+68,66,Route 66 - Behind The Wheel,Depeche Mode,Depeche Mode,electronic,electronic,19880507,91,61,11,19880618
 69,64,Most Of All,Jody Watley,Jody Watley,rnb / soul,soul,19880430,92,60,11,19880618
 70,77,Wishing I Was Lucky,Wet Wet Wet,Wet Wet Wet,pop,pop,19880528,92,58,8,19880618
 71,78,I Know You're Out There Somewhere,Moody Blues,Moody Blues,rock,classic rock,19880604,98,30,16,19880618
@@ -2964,7 +2964,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 63,49,Where Do Broken Hearts Go,Whitney Houston,Whitney Houston,pop,pop,19880227,47,1,18,19880611
 64,60,Most Of All,Jody Watley,Jody Watley,rnb / soul,soul,19880430,92,60,11,19880611
 65,39,I'm Still Searching,Glass Tiger,Glass Tiger,pop,80s,19880409,67,31,11,19880611
-66,65,Route 66 - Behind The Wheel,Depeche Mode,Depeche Mode,pop,electronic,19880507,91,61,11,19880611
+66,65,Route 66 - Behind The Wheel,Depeche Mode,Depeche Mode,electronic,electronic,19880507,91,61,11,19880611
 67,62,"Wild, Wild West",Kool Moe Dee,Kool Moe Dee,hip-hop,hip-hop,19880430,94,62,11,19880611
 68,68,Like The Weather,"10,000 Maniacs","10,000 Maniacs",pop,female vocalists,19880507,94,68,8,19880611
 69,73,Darlin' Danielle,Henry Lee Summer,Henry Lee Summer,rock,rock,19880528,85,57,8,19880611
@@ -3063,7 +3063,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 62,63,"Wild, Wild West",Kool Moe Dee,Kool Moe Dee,hip-hop,hip-hop,19880430,94,62,11,19880604
 63,69,Rooty Tooty Toot,John Cougar Mellencamp,John Cougar Mellencamp,rock,rock,19880514,93,61,8,19880604
 64,66,Tomorrow People,Ziggy Marley & The Melody Makers,Ziggy Marley & The Melody Makers,reggae,reggae,19880514,89,39,13,19880604
-65,61,Route 66 - Behind The Wheel,Depeche Mode,Depeche Mode,pop,electronic,19880507,91,61,11,19880604
+65,61,Route 66 - Behind The Wheel,Depeche Mode,Depeche Mode,electronic,electronic,19880507,91,61,11,19880604
 66,48,"Get Outta My Dreams, Get Into My Car",Billy Ocean,Billy Ocean,pop,80s,19880213,49,1,20,19880604
 67,57,Take It While It's Hot,Sweet Sensation,Sweet Sensation,pop,freestyle,19880409,87,57,13,19880604
 68,75,Like The Weather,"10,000 Maniacs","10,000 Maniacs",pop,female vocalists,19880507,94,68,8,19880604
@@ -3095,7 +3095,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 94,80,Get It,Stevie Wonder & Michael Jackson,Stevie Wonder & Michael Jackson,pop,pop,19880507,89,80,6,19880604
 95,NEW,Fast Car,Tracy Chapman,Tracy Chapman,pop,female vocalists,19880604,95,6,21,19880604
 96,82,Stand Up,David Lee Roth,David Lee Roth,rock,hard rock,19880416,94,64,8,19880604
-97,81,Underneath The Radar,Underworld,Underworld,pop,electronic,19880416,88,74,8,19880604
+97,81,Underneath The Radar,Underworld,Underworld,electronic,electronic,19880416,88,74,8,19880604
 98,NEW,I Know You're Out There Somewhere,Moody Blues,Moody Blues,rock,classic rock,19880604,98,30,16,19880604
 99,90,Turn Off The Lights,World Class Wreckin' Kru,World Class Wreckin Kru,pop,unknown,19880326,93,84,11,19880604
 100,84,Say It Again,Jermaine Stewart,Jermaine Stewart,pop,80s,19880319,72,27,12,19880604
@@ -3159,7 +3159,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 58,66,Black And Blue,Van Halen,Van Halen,rock,hard rock,19880521,66,34,10,19880528
 59,75,Parents Just Don't Understand,Dj Jazzy Jeff & The Fresh Prince,Dj Jazzy Jeff & The Fresh Prince,hip-hop,hip-hop,19880521,75,12,19,19880528
 60,79,Just Got Paid,Johnny Kemp,Johnny Kemp,rnb / soul,rnb,19880514,96,10,21,19880528
-61,61,Route 66 - Behind The Wheel,Depeche Mode,Depeche Mode,pop,electronic,19880507,91,61,11,19880528
+61,61,Route 66 - Behind The Wheel,Depeche Mode,Depeche Mode,electronic,electronic,19880507,91,61,11,19880528
 62,64,I Should Be So Lucky,Kylie Minogue,Kylie Minogue,pop,pop,19880507,86,28,14,19880528
 63,62,"Wild, Wild West",Kool Moe Dee,Kool Moe Dee,hip-hop,hip-hop,19880430,94,62,11,19880528
 64,67,Most Of All,Jody Watley,Jody Watley,rnb / soul,soul,19880430,92,60,11,19880528
@@ -3179,7 +3179,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 78,56,I Saw Him Standing There,Tiffany,Tiffany,pop,80s,19880227,56,7,14,19880528
 79,88,Something Just Ain't Right,Keith Sweat,Keith Sweat,rnb / soul,rnb,19880514,97,79,5,19880528
 80,83,Get It,Stevie Wonder & Michael Jackson,Stevie Wonder & Michael Jackson,pop,pop,19880507,89,80,6,19880528
-81,76,Underneath The Radar,Underworld,Underworld,pop,electronic,19880416,88,74,8,19880528
+81,76,Underneath The Radar,Underworld,Underworld,electronic,electronic,19880416,88,74,8,19880528
 82,65,Stand Up,David Lee Roth,David Lee Roth,rock,hard rock,19880416,94,64,8,19880528
 83,80,Dreamin' Of Love,Stevie B,Stevie B,pop,freestyle,19880423,91,80,10,19880528
 84,54,Say It Again,Jermaine Stewart,Jermaine Stewart,pop,80s,19880319,72,27,12,19880528
@@ -3259,7 +3259,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 58,49,Rocket 2 U,The Jets,The Jets,pop,80s,19880123,68,6,22,19880521
 59,62,Take It While It's Hot,Sweet Sensation,Sweet Sensation,pop,freestyle,19880409,87,57,13,19880521
 60,51,Endless Summer Nights,Richard Marx,Richard Marx,pop,80s,19880123,53,2,21,19880521
-61,73,Route 66 - Behind The Wheel,Depeche Mode,Depeche Mode,pop,electronic,19880507,91,61,11,19880521
+61,73,Route 66 - Behind The Wheel,Depeche Mode,Depeche Mode,electronic,electronic,19880507,91,61,11,19880521
 62,70,"Wild, Wild West",Kool Moe Dee,Kool Moe Dee,hip-hop,hip-hop,19880430,94,62,11,19880521
 63,44,One Step Up,Bruce Springsteen,Bruce Springsteen,rock,rock,19880227,64,13,15,19880521
 64,81,I Should Be So Lucky,Kylie Minogue,Kylie Minogue,pop,pop,19880507,86,28,14,19880521
@@ -3274,7 +3274,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 73,85,Forgive Me For Dreaming,Elisa Fiorillo,Elisa Fiorillo,pop,pop,19880507,96,49,12,19880521
 74,88,Trouble,Nia Peeples,Nia Peeples,pop,female artists,19880514,88,35,15,19880521
 75,NEW,Parents Just Don't Understand,Dj Jazzy Jeff & The Fresh Prince,Dj Jazzy Jeff & The Fresh Prince,hip-hop,hip-hop,19880521,75,12,19,19880521
-76,77,Underneath The Radar,Underworld,Underworld,pop,electronic,19880416,88,74,8,19880521
+76,77,Underneath The Radar,Underworld,Underworld,electronic,electronic,19880416,88,74,8,19880521
 77,89,Tomorrow People,Ziggy Marley & The Melody Makers,Ziggy Marley & The Melody Makers,reggae,reggae,19880514,89,39,13,19880521
 78,NEW,Make Me Lose Control,Eric Carmen,Eric Carmen,pop,pop,19880521,78,3,20,19880521
 79,96,Just Got Paid,Johnny Kemp,Johnny Kemp,rnb / soul,rnb,19880514,96,10,21,19880521
@@ -3371,11 +3371,11 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 70,79,"Wild, Wild West",Kool Moe Dee,Kool Moe Dee,hip-hop,hip-hop,19880430,94,62,11,19880514
 71,84,Blue Monday 1988,New Order,New Order,rock,new wave,19880430,89,68,10,19880514
 72,63,Breakaway,Big Pig,Big Pig,electronic,dance,19880319,91,60,10,19880514
-73,91,Route 66 - Behind The Wheel,Depeche Mode,Depeche Mode,pop,electronic,19880507,91,61,11,19880514
+73,91,Route 66 - Behind The Wheel,Depeche Mode,Depeche Mode,electronic,electronic,19880507,91,61,11,19880514
 74,80,Most Of All,Jody Watley,Jody Watley,rnb / soul,soul,19880430,92,60,11,19880514
 75,57,Love In The First Degree,Bananarama,Bananarama,pop,80s,19880319,82,48,10,19880514
 76,64,"Going Back To Cali (From ""Less Than Zero"")",Ll Cool J,Ll Cool J,hip-hop,hip-hop,19880220,87,31,14,19880514
-77,74,Underneath The Radar,Underworld,Underworld,pop,electronic,19880416,88,74,8,19880514
+77,74,Underneath The Radar,Underworld,Underworld,electronic,electronic,19880416,88,74,8,19880514
 78,82,Love Struck,Jesse Johnson,Jesse Johnson,rnb / soul,funk,19880423,98,78,8,19880514
 79,65,You Don't Know,Scarlett & Black,Scarlett & Black,pop,80s,19880130,69,20,18,19880514
 80,81,Dreamin' Of Love,Stevie B,Stevie B,pop,freestyle,19880423,91,80,10,19880514
@@ -3472,7 +3472,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 71,42,Check It Out,John Mellencamp,John Mellencamp,rock,rock,19880206,66,14,15,19880507
 72,67,Like A Child,Noel,Noel,pop,freestyle,19880409,94,67,8,19880507
 73,81,Hands To Heaven,Breath,Breath,pop,japanese,19880416,90,2,29,19880507
-74,82,Underneath The Radar,Underworld,Underworld,pop,electronic,19880416,88,74,8,19880507
+74,82,Underneath The Radar,Underworld,Underworld,electronic,electronic,19880416,88,74,8,19880507
 75,65,I Found Someone,Cher,Cher,pop,pop,19871121,79,10,26,19880507
 76,NEW,Lost In You,Rod Stewart,Rod Stewart,rock,classic rock,19880507,76,12,18,19880507
 77,NEW,Mercedes Boy,Pebbles,Pebbles,pop,80s,19880507,77,2,18,19880507
@@ -3489,7 +3489,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 88,74,Father Figure,George Michael,George Michael,pop,pop,19880116,49,1,17,19880507
 89,NEW,Get It,Stevie Wonder & Michael Jackson,Stevie Wonder & Michael Jackson,pop,pop,19880507,89,80,6,19880507
 90,NEW,Rush Hour,Jane Wiedlin,Jane Wiedlin,pop,pop,19880507,90,9,19,19880507
-91,NEW,Route 66 - Behind The Wheel,Depeche Mode,Depeche Mode,pop,electronic,19880507,91,61,11,19880507
+91,NEW,Route 66 - Behind The Wheel,Depeche Mode,Depeche Mode,electronic,electronic,19880507,91,61,11,19880507
 92,77,Hysteria,Def Leppard,Def Leppard,rock,hard rock,19880123,66,10,16,19880507
 93,91,Love Changes Everything,Honeymoon Suite,Honeymoon Suite,rock,rock,19880430,91,91,2,19880507
 94,NEW,Like The Weather,"10,000 Maniacs","10,000 Maniacs",pop,female vocalists,19880507,94,68,8,19880507
@@ -3580,7 +3580,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 79,63,Rock Of Life,Rick Springfield,Rick Springfield,pop,80s,19880206,72,22,15,19880430
 80,60,Just Like Paradise,David Lee Roth,David Lee Roth,rock,hard rock,19880116,56,6,16,19880430
 81,88,Hands To Heaven,Breath,Breath,pop,japanese,19880416,90,2,29,19880430
-82,87,Underneath The Radar,Underworld,Underworld,pop,electronic,19880416,88,74,8,19880430
+82,87,Underneath The Radar,Underworld,Underworld,electronic,electronic,19880416,88,74,8,19880430
 83,NEW,Heart Of Mine,Boz Scaggs,Boz Scaggs,rock,classic rock,19880430,83,35,14,19880430
 84,84,Englishman In New York,Sting,Sting,rock,rock,19880416,89,84,4,19880430
 85,91,Dreamin' Of Love,Stevie B,Stevie B,pop,freestyle,19880423,91,80,10,19880430
@@ -3685,7 +3685,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 84,89,Englishman In New York,Sting,Sting,rock,rock,19880416,89,84,4,19880423
 85,52,Never Knew Love Like This,Alexander O'Neal Featuring Cherrelle,Alexander O'Neal,rnb / soul,soul,19880123,82,28,14,19880423
 86,83,Century's End,Donald Fagen,Donald Fagen,rock,jazz-rock,19880402,92,83,5,19880423
-87,88,Underneath The Radar,Underworld,Underworld,pop,electronic,19880416,88,74,8,19880423
+87,88,Underneath The Radar,Underworld,Underworld,electronic,electronic,19880416,88,74,8,19880423
 88,90,Hands To Heaven,Breath,Breath,pop,japanese,19880416,90,2,29,19880423
 89,76,Give Me All Your Love,Whitesnake,Whitesnake,rock,hard rock,19880213,80,48,11,19880423
 90,70,Can't Stay Away From You,Gloria Estefan & Miami Sound Machine,Gloria Estefan & Miami Sound Machine,pop,pop,19871121,89,6,23,19880423
@@ -3786,7 +3786,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 85,NEW,Tall Cool One,Robert Plant,Robert Plant,rock,classic rock,19880416,85,25,18,19880416
 86,93,Turn Off The Lights,World Class Wreckin' Kru,World Class Wreckin Kru,pop,unknown,19880326,93,84,11,19880416
 87,NEW,Should I Say Yes?,Nu Shooz,Nu Shooz,pop,80s,19880416,87,41,16,19880416
-88,NEW,Underneath The Radar,Underworld,Underworld,pop,electronic,19880416,88,74,8,19880416
+88,NEW,Underneath The Radar,Underworld,Underworld,electronic,electronic,19880416,88,74,8,19880416
 89,NEW,Englishman In New York,Sting,Sting,rock,rock,19880416,89,84,4,19880416
 90,NEW,Hands To Heaven,Breath,Breath,pop,japanese,19880416,90,2,29,19880416
 91,74,Don't Shed A Tear,Paul Carrack,Paul Carrack,rock,soft rock,19871114,72,9,24,19880416
@@ -3887,7 +3887,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 86,NEW,Nite And Day,Al B. Sure!,Al B. Sure!,rnb / soul,rnb,19880409,86,7,21,19880409
 87,NEW,Take It While It's Hot,Sweet Sensation,Sweet Sensation,pop,freestyle,19880409,87,57,13,19880409
 88,67,Say You Will,Foreigner,Foreigner,rock,classic rock,19871205,59,6,19,19880409
-89,84,Ever Since The World Began,Tommy Shaw,Tommy Shaw,rock,hard rock,19880213,93,75,9,19880409
+89,84,Ever Since The World Began,Tommy Shaw,Tommy Shaw,rock,rock,19880213,93,75,9,19880409
 90,95,Family Man,Fleetwood Mac,Fleetwood Mac,rock,classic rock,19880402,95,90,4,19880409
 91,NEW,Under The Milky Way,The Church,The Church,rock,new wave,19880409,91,24,15,19880409
 92,NEW,The Flame,Cheap Trick,Cheap Trick,rock,classic rock,19880409,92,1,27,19880409
@@ -3982,7 +3982,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 81,75,Save Your Love,Great White,Great White,rock,hard rock,19880123,81,57,12,19880402
 82,86,Magic Carpet Ride,Bardeux,Bardeux,pop,hi-nrg,19880227,93,81,7,19880402
 83,76,I Live For Your Love,Natalie Cole,Natalie Cole,jazz,jazz,19871107,90,13,22,19880402
-84,79,Ever Since The World Began,Tommy Shaw,Tommy Shaw,rock,hard rock,19880213,93,75,9,19880402
+84,79,Ever Since The World Began,Tommy Shaw,Tommy Shaw,rock,rock,19880213,93,75,9,19880402
 85,90,Presence Of Love,The Alarm,The Alarm,pop,80s,19880326,90,77,6,19880402
 86,NEW,Beds Are Burning,Midnight Oil,Midnight Oil,rock,rock,19880402,86,17,22,19880402
 87,85,Ooo La La La,Teena Marie,Teena Marie,rnb / soul,soul,19880312,89,85,5,19880402
@@ -4077,7 +4077,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 76,69,I Live For Your Love,Natalie Cole,Natalie Cole,jazz,jazz,19871107,90,13,22,19880326
 77,84,Play That Funky Music,Roxanne,Roxanne,pop,italo disco,19880312,87,63,7,19880326
 78,79,Samantha (What You Gonna Do?),Cellarful Of Noise,Cellarful Of Noise,pop,80s,19880305,94,69,7,19880326
-79,77,Ever Since The World Began,Tommy Shaw,Tommy Shaw,rock,hard rock,19880213,93,75,9,19880326
+79,77,Ever Since The World Began,Tommy Shaw,Tommy Shaw,rock,rock,19880213,93,75,9,19880326
 80,60,I Want To Be Your Man,Roger,Roger,rnb / soul,funk,19871114,88,3,21,19880326
 81,91,Breakaway,Big Pig,Big Pig,electronic,dance,19880319,91,60,10,19880326
 82,NEW,Promise Me,The Cover Girls,The Cover Girls,pop,freestyle,19880326,82,40,19,19880326
@@ -4175,7 +4175,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 74,78,Yes,Merry Clayton,Merry Clayton,rnb / soul,soul,19880305,91,45,11,19880319
 75,68,Save Your Love,Great White,Great White,rock,hard rock,19880123,81,57,12,19880319
 76,67,Thinking Of You,"Earth, Wind & Fire","Earth, Wind & Fire",rnb / soul,funk,19880213,79,67,8,19880319
-77,75,Ever Since The World Began,Tommy Shaw,Tommy Shaw,rock,hard rock,19880213,93,75,9,19880319
+77,75,Ever Since The World Began,Tommy Shaw,Tommy Shaw,rock,rock,19880213,93,75,9,19880319
 78,85,Ritual,Dan Reed Network,Dan Reed Network,rock,rock,19880312,85,38,11,19880319
 79,79,Samantha (What You Gonna Do?),Cellarful Of Noise,Cellarful Of Noise,pop,80s,19880305,94,69,7,19880319
 80,60,Everywhere,Fleetwood Mac,Fleetwood Mac,rock,classic rock,19871128,65,14,18,19880319
@@ -4273,7 +4273,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 72,55,Never Can Say Goodbye,Communards,Communards,pop,80s,19880130,68,51,9,19880312
 73,78,Savin' Myself,Eria Fachin,Eria Fachin,pop,pop,19880227,87,50,10,19880312
 74,70,Hot Thing,Prince,Prince,rnb / soul,funk,19880206,80,63,9,19880312
-75,81,Ever Since The World Began,Tommy Shaw,Tommy Shaw,rock,hard rock,19880213,93,75,9,19880312
+75,81,Ever Since The World Began,Tommy Shaw,Tommy Shaw,rock,rock,19880213,93,75,9,19880312
 76,82,I Want To Be Your Property,Blue Mercedes,Blue Mercedes,pop,80s,19880305,82,66,6,19880312
 77,89,Hot Hot Hot!!!,The Cure,The Cure,pop,post-punk,19880305,89,65,7,19880312
 78,91,Yes,Merry Clayton,Merry Clayton,rnb / soul,soul,19880305,91,45,11,19880312
@@ -4379,7 +4379,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 78,87,Savin' Myself,Eria Fachin,Eria Fachin,pop,pop,19880227,87,50,10,19880305
 79,82,All Right Now,Pepsi & Shirlie,Pepsi & Shirlie,pop,pop,19880220,89,66,6,19880305
 80,79,It's The End Of The World As We Know It,R.E.M.,R.E.M.,rock,rock,19880130,83,69,9,19880305
-81,83,Ever Since The World Began,Tommy Shaw,Tommy Shaw,rock,hard rock,19880213,93,75,9,19880305
+81,83,Ever Since The World Began,Tommy Shaw,Tommy Shaw,rock,rock,19880213,93,75,9,19880305
 82,NEW,I Want To Be Your Property,Blue Mercedes,Blue Mercedes,pop,80s,19880305,82,66,6,19880305
 83,43,853-5937,Squeeze,Squeeze,rock,new wave,19871219,79,32,12,19880305
 84,71,How Can I Forget You,Elisa Fiorillo,Elisa Fiorillo,pop,pop,19880123,78,60,8,19880305
@@ -4481,7 +4481,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 80,92,Piano In The Dark,Brenda Russell Featuring Joe Esposito,Brenda Russell,pop,female vocalists,19880220,92,6,25,19880227
 81,64,There's The Girl,Heart,Heart,rock,classic rock,19871107,70,12,19,19880227
 82,89,All Right Now,Pepsi & Shirlie,Pepsi & Shirlie,pop,pop,19880220,89,66,6,19880227
-83,86,Ever Since The World Began,Tommy Shaw,Tommy Shaw,rock,hard rock,19880213,93,75,9,19880227
+83,86,Ever Since The World Began,Tommy Shaw,Tommy Shaw,rock,rock,19880213,93,75,9,19880227
 84,55,Hot Hot Hot,Buster Poindexter,Buster Poindexter,jazz,swing,19871212,95,45,13,19880227
 85,NEW,Don't Make A Fool Of Yourself,Stacey Q,Stacey Q,pop,80s,19880227,85,66,8,19880227
 86,NEW,Two Occasions,The Deele,The Deele,rnb / soul,funk,19880227,86,10,21,19880227
@@ -4494,7 +4494,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 93,NEW,Magic Carpet Ride,Bardeux,Bardeux,pop,hi-nrg,19880227,93,81,7,19880227
 94,75,Don't You Want Me,Jody Watley,Jody Watley,rnb / soul,soul,19871003,80,6,23,19880227
 95,NEW,Kiss And Tell,Bryan Ferry,Bryan Ferry,rock,glam rock,19880227,95,31,13,19880227
-96,76,Never Let Me Down Again,Depeche Mode,Depeche Mode,pop,electronic,19871226,96,63,10,19880227
+96,76,Never Let Me Down Again,Depeche Mode,Depeche Mode,electronic,electronic,19871226,96,63,10,19880227
 97,83,Lonely Won't Leave Me Alone,Glenn Medeiros,Glenn Medeiros,pop,pop,19871219,94,67,11,19880227
 98,78,Is This Love,Whitesnake,Whitesnake,rock,hard rock,19871024,53,2,19,19880227
 99,82,Catch Me (I'm Falling),Pretty Poison,Pretty Poison,pop,80s,19870926,84,8,23,19880227
@@ -4574,7 +4574,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 73,NEW,Prove Your Love,Taylor Dayne,Taylor Dayne,pop,80s,19880220,73,7,18,19880220
 74,66,Cherry Bomb,John Mellencamp,John Mellencamp,rock,rock,19871024,78,8,21,19880220
 75,64,Don't You Want Me,Jody Watley,Jody Watley,rnb / soul,soul,19871003,80,6,23,19880220
-76,63,Never Let Me Down Again,Depeche Mode,Depeche Mode,pop,electronic,19871226,96,63,10,19880220
+76,63,Never Let Me Down Again,Depeche Mode,Depeche Mode,electronic,electronic,19871226,96,63,10,19880220
 77,78,You Will Know,Stevie Wonder,Stevie Wonder,rnb / soul,soul,19880206,83,77,6,19880220
 78,61,Is This Love,Whitesnake,Whitesnake,rock,hard rock,19871024,53,2,19,19880220
 79,69,Shake Your Love,Debbie Gibson,Debbie Gibson,pop,pop,19871003,77,4,22,19880220
@@ -4584,7 +4584,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 83,77,Lonely Won't Leave Me Alone,Glenn Medeiros,Glenn Medeiros,pop,pop,19871219,94,67,11,19880220
 84,NEW,Pamela,Toto,Toto,rock,rock,19880220,84,22,19,19880220
 85,74,Coming Up You,Cars,Cars,rock,new wave,19880123,80,74,5,19880220
-86,93,Ever Since The World Began,Tommy Shaw,Tommy Shaw,rock,hard rock,19880213,93,75,9,19880220
+86,93,Ever Since The World Began,Tommy Shaw,Tommy Shaw,rock,rock,19880213,93,75,9,19880220
 87,NEW,Going Back To Cali,L.L. Cool J,L.L. Cool J,hip-hop,hip-hop,19880220,87,31,14,19880220
 88,76,In God's Country,U2,U2,rock,rock,19871205,84,44,12,19880220
 89,NEW,All Right Now,Pepsi & Shirlie,Pepsi & Shirlie,pop,pop,19880220,89,66,6,19880220
@@ -4661,7 +4661,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 60,61,You Don't Know,Scarlett & Black,Scarlett & Black,pop,80s,19880130,69,20,18,19880213
 61,42,Is This Love,Whitesnake,Whitesnake,rock,hard rock,19871024,53,2,19,19880213
 62,65,How Can I Forget You,Elisa Fiorillo,Elisa Fiorillo,pop,pop,19880123,78,60,8,19880213
-63,64,Never Let Me Down Again,Depeche Mode,Depeche Mode,pop,electronic,19871226,96,63,10,19880213
+63,64,Never Let Me Down Again,Depeche Mode,Depeche Mode,electronic,electronic,19871226,96,63,10,19880213
 64,52,Don't You Want Me,Jody Watley,Jody Watley,rnb / soul,soul,19871003,80,6,23,19880213
 65,NEW,Devil Inside,Inxs,Inxs,rock,rock,19880213,65,2,17,19880213
 66,53,Cherry Bomb,John Mellencamp,John Mellencamp,rock,rock,19871024,78,8,21,19880213
@@ -4691,7 +4691,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 90,NEW,I Wish I Had A Girl,Henry Lee Summer,Henry Lee Summer,rock,rock,19880213,90,20,18,19880213
 91,77,(I've Had) he Time Of My Life,Bill Medley & Jennifer Warnes,Bill Medley & Jennifer Warnes,pop,pop,19870926,73,1,21,19880213
 92,76,Just Like Heaven,The Cure,The Cure,pop,post-punk,19871010,94,40,19,19880213
-93,NEW,Ever Since The World Began,Tommy Shaw,Tommy Shaw,rock,hard rock,19880213,93,75,9,19880213
+93,NEW,Ever Since The World Began,Tommy Shaw,Tommy Shaw,rock,rock,19880213,93,75,9,19880213
 94,85,Animal,Def Leppard,Def Leppard,rock,hard rock,19871010,84,19,19,19880213
 95,71,Hot In The City,Billy Idol,Billy Idol,rock,rock,19871212,81,48,10,19880213
 96,92,Should've Known Better,Richard Marx,Richard Marx,pop,80s,19870926,64,3,21,19880213
@@ -4762,7 +4762,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 61,69,You Don't Know,Scarlett & Black,Scarlett & Black,pop,80s,19880130,69,20,18,19880206
 62,70,Never Knew Love Like This,Alexander O'Neal Featuring Cherrelle,Alexander O'Neal,rnb / soul,soul,19880123,82,28,14,19880206
 63,NEW,When We Was Fab,George Harrison,George Harrison,rock,classic rock,19880206,63,23,11,19880206
-64,65,Never Let Me Down Again,Depeche Mode,Depeche Mode,pop,electronic,19871226,96,63,10,19880206
+64,65,Never Let Me Down Again,Depeche Mode,Depeche Mode,electronic,electronic,19871226,96,63,10,19880206
 65,71,How Can I Forget You,Elisa Fiorillo,Elisa Fiorillo,pop,pop,19880123,78,60,8,19880206
 66,NEW,Check It Out,John Cougar Mellencamp,John Cougar Mellencamp,rock,rock,19880206,66,14,15,19880206
 67,45,Power Of Love,Laura Branigan,Laura Branigan,pop,80s,19871024,97,26,18,19880206
@@ -4863,7 +4863,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 62,43,Dude (Looks Like A Lady),Aerosmith,Aerosmith,rock,rock,19871003,84,14,20,19880130
 63,74,Wishing Well,Terence Trent D'Arby,Terence Trent D'Arby,rnb / soul,soul,19880116,79,1,25,19880130
 64,67,Reason To Live,Kiss,Kiss,rock,hard rock,19871205,98,64,12,19880130
-65,69,Never Let Me Down Again,Depeche Mode,Depeche Mode,pop,electronic,19871226,96,63,10,19880130
+65,69,Never Let Me Down Again,Depeche Mode,Depeche Mode,electronic,electronic,19871226,96,63,10,19880130
 66,60,That's What Love Is All About,Michael Bolton,Michael Bolton,pop,pop,19870905,91,19,25,19880130
 67,70,Lonely Won't Leave Me Alone,Glenn Medeiros,Glenn Medeiros,pop,pop,19871219,94,67,11,19880130
 68,NEW,Never Can Say Goodbye,Communards,Communards,pop,80s,19880130,68,51,9,19880130
@@ -4967,7 +4967,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 66,NEW,Hysteria,Def Leppard,Def Leppard,rock,hard rock,19880123,66,10,16,19880123
 67,68,Reason To Live,Kiss,Kiss,rock,hard rock,19871205,98,64,12,19880123
 68,NEW,Rocket 2 You,Jets,Jets,rock,rockabilly,19880123,68,6,22,19880123
-69,78,Never Let Me Down Again,Depeche Mode,Depeche Mode,pop,electronic,19871226,96,63,10,19880123
+69,78,Never Let Me Down Again,Depeche Mode,Depeche Mode,electronic,electronic,19871226,96,63,10,19880123
 70,73,Lonely Won't Leave Me Alone,Glenn Medeiros,Glenn Medeiros,pop,pop,19871219,94,67,11,19880123
 71,71,Rain In The Summertime,The Alarm,The Alarm,pop,80s,19871219,96,71,8,19880123
 72,NEW,(Sittin' On) The Dock Of The Bay,Michael Bolton,Michael Bolton,pop,pop,19880123,72,11,17,19880123
@@ -5076,7 +5076,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 75,58,Mony Mony,Billy Idol,Billy Idol,rock,rock,19870905,72,1,22,19880116
 76,60,I've Been In Love Before,Cutting Crew,Cutting Crew,pop,80s,19870905,75,9,21,19880116
 77,NEW,I Want Her,Keith Sweat,Keith Sweat,rnb / soul,rnb,19880116,77,5,20,19880116
-78,83,Never Let Me Down Again,Depeche Mode,Depeche Mode,pop,electronic,19871226,96,63,10,19880116
+78,83,Never Let Me Down Again,Depeche Mode,Depeche Mode,electronic,electronic,19871226,96,63,10,19880116
 79,NEW,Wishing Well,Terence Trent D'Arby,Terence Trent D'Arby,rnb / soul,soul,19880116,79,1,25,19880116
 80,78,Love Will Find A Way,Yes,Yes,rock,progressive rock,19871003,76,30,19,19880116
 81,65,(Baby Tell Me) Can You Dance,Shanice Wilson,Shanice Wilson,rnb / soul,rnb,19871107,81,50,13,19880116
@@ -5181,7 +5181,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 80,83,She's Fly,Tony Terry,Tony Terry,rnb / soul,soul,19871128,92,80,9,19880109
 81,78,Brilliant Disguise,Bruce Springsteen,Bruce Springsteen,rock,rock,19871003,40,5,16,19880109
 82,NEW,Love Overboard,Gladys Knight And The Pips,Gladys Knight And The Pips,rnb / soul,soul,19880109,82,13,14,19880109
-83,96,Never Let Me Down Again,Depeche Mode,Depeche Mode,pop,electronic,19871226,96,63,10,19880109
+83,96,Never Let Me Down Again,Depeche Mode,Depeche Mode,electronic,electronic,19871226,96,63,10,19880109
 84,86,Someone To Love Me For Me,Lisa Lisa And Cult Jam Featuring Full Force,Lisa Lisa And Cult Jam,pop,80s,19871114,92,78,10,19880109
 85,85,Cherokee,Europe,Europe,rock,hard rock,19871128,91,72,10,19880109
 86,66,System Of Survival,"Earth, Wind & Fire","Earth, Wind & Fire",rnb / soul,funk,19871031,93,60,13,19880109
@@ -5294,7 +5294,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 93,93,Eagles Fly,Sammy Hagar,Sammy Hagar,rock,hard rock,19871024,90,82,13,19880102
 94,94,It's A Sin,Pet Shop Boys,Pet Shop Boys,pop,synthpop,19870905,70,9,19,19880102
 95,95,Who Will You Run To,Heart,Heart,rock,classic rock,19870815,64,7,22,19880102
-96,96,Never Let Me Down Again,Depeche Mode,Depeche Mode,pop,electronic,19871226,96,63,10,19880102
+96,96,Never Let Me Down Again,Depeche Mode,Depeche Mode,electronic,electronic,19871226,96,63,10,19880102
 97,97,Causing A Commotion,Madonna,Madonna,pop,pop,19870912,41,2,18,19880102
 98,98,Here I Go Again,Whitesnake,Whitesnake,rock,hard rock,19870704,80,1,28,19880102
 99,99,Don't Tell Me The Time,Martha Davis,Martha Davis,pop,female vocalists,19871121,93,80,8,19880102

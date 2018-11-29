@@ -890,7 +890,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 89,55,Weird Science,Oingo Boingo,Oingo Boingo,rock,new wave,19850831,93,45,12,19851102
 90,69,You Wear It Well,El Debarge With Debarge,El Debarge With Debarge,rnb / soul,soul,19850831,76,46,10,19851102
 91,95,Home Sweet Home,Motley Crue,Motley Crue,rock,hard rock,19851026,95,89,6,19851102
-92,81,Remo's Theme (What If),Tommy Shaw,Tommy Shaw,rock,hard rock,19851005,90,81,5,19851102
+92,81,Remo's Theme (What If),Tommy Shaw,Tommy Shaw,rock,rock,19851005,90,81,5,19851102
 93,78,Screams Of Passion,Family,Family,rock,progressive rock,19850928,75,63,6,19851102
 94,76,The Power Of Love,Huey Lewis And The News,Huey Lewis And The News,pop,80s,19850629,46,1,19,19851102
 95,85,Blue Kiss,Jane Wiedlin,Jane Wiedlin,pop,pop,19850928,90,77,9,19851102
@@ -979,7 +979,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 78,63,Screams Of Passion,Family,Family,rock,progressive rock,19850928,75,63,6,19851026
 79,NEW,Charm The Snake,Christopher Cross,Christopher Cross,rock,soft rock,19851026,79,68,5,19851026
 80,NEW,You're A Friend Of Mine,Clarence Clemons & Jackson Browne,Clarence Clemons & Jackson Browne,rock,rock,19851026,80,18,19,19851026
-81,81,Remo's Theme (What If),Tommy Shaw,Tommy Shaw,rock,hard rock,19851005,90,81,5,19851026
+81,81,Remo's Theme (What If),Tommy Shaw,Tommy Shaw,rock,rock,19851005,90,81,5,19851026
 82,84,Hold Me,Laura Branigan,Laura Branigan,pop,80s,19851019,84,82,4,19851026
 83,90,Talk To Me,Quarterflash,Quarterflash,pop,80s,19851019,90,83,6,19851026
 84,95,Conga,Miami Sound Machine,Miami Sound Machine,pop,pop,19851019,95,10,27,19851026
@@ -1079,7 +1079,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 78,75,Lover Come Back To Me,Dead Or Alive,Dead Or Alive,rock,new wave,19850921,94,75,7,19851019
 79,77,Eaten Alive,Diana Ross,Diana Ross,rnb / soul,soul,19850921,88,77,7,19851019
 80,NEW,Tarzan Boy,Baltimora,Baltimora,pop,80s,19851019,80,13,26,19851019
-81,83,Remo's Theme (What If),Tommy Shaw,Tommy Shaw,rock,hard rock,19851005,90,81,5,19851019
+81,83,Remo's Theme (What If),Tommy Shaw,Tommy Shaw,rock,rock,19851005,90,81,5,19851019
 82,87,Everybody Dance,Ta Mara & The Seen,Ta Mara & The Seen,pop,minneapolis sound,19851012,87,24,21,19851019
 83,55,Invincible,Pat Benatar,Pat Benatar,pop,80s,19850706,61,10,17,19851019
 84,NEW,Hold Me,Laura Branigan,Laura Branigan,pop,80s,19851019,84,82,4,19851019
@@ -1181,7 +1181,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 80,57,There Must Be An Angel,Eurythmics,Eurythmics,pop,80s,19850803,64,22,11,19851012
 81,61,Never Surrender,Corey Hart,Corey Hart,pop,80s,19850608,68,3,20,19851012
 82,89,Kayleigh,Marillion,Marillion,rock,progressive rock,19851005,89,74,8,19851012
-83,90,Remo's Theme (What If),Tommy Shaw,Tommy Shaw,rock,hard rock,19851005,90,81,5,19851012
+83,90,Remo's Theme (What If),Tommy Shaw,Tommy Shaw,rock,rock,19851005,90,81,5,19851012
 84,NEW,To Live And Die In L.A.,Wang Chung,Wang Chung,pop,80s,19851012,84,41,18,19851012
 85,NEW,Que te quiero,Katrina And The Waves,Katrina And The Waves,pop,pop,19851012,85,71,6,19851012
 86,74,Life In One Day,Howard Jones,Howard Jones,pop,80s,19850706,72,19,16,19851012
@@ -1288,7 +1288,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 87,60,Mystery Lady,Billy Ocean,Billy Ocean,pop,80s,19850706,66,24,15,19851005
 88,67,First Night,Survivor,Survivor,rock,rock,19850817,76,53,9,19851005
 89,NEW,Kayleigh,Marillion,Marillion,rock,progressive rock,19851005,89,74,8,19851005
-90,NEW,Remo's Theme (What If),Tommy Shaw,Tommy Shaw,rock,hard rock,19851005,90,81,5,19851005
+90,NEW,Remo's Theme (What If),Tommy Shaw,Tommy Shaw,rock,rock,19851005,90,81,5,19851005
 91,88,You Look Marvellous,Billy Crystal,Billy Crystal,pop,comedy,19850727,82,58,12,19851005
 92,87,Janet,Commodores,Commodores,rnb / soul,soul,19850921,89,87,4,19851005
 93,73,Test Of Time,Romantics,Romantics,rock,new wave,19850831,90,71,6,19851005
@@ -1485,7 +1485,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 84,NEW,Broken Wings,Mr Mister,Mr Mister,pop,80s,19850921,84,1,22,19850921
 85,68,Live Every Moment,Reo Speedwagon,Reo Speedwagon,rock,classic rock,19850713,78,34,11,19850921
 86,89,And She Was,Talking Heads,Talking Heads,rock,new wave,19850907,94,54,20,19850921
-87,87,Master And Servant,Depeche Mode,Depeche Mode,pop,electronic,19850907,92,87,3,19850921
+87,87,Master And Servant,Depeche Mode,Depeche Mode,electronic,electronic,19850907,92,87,3,19850921
 88,NEW,Eaten Alive,Diana Ross,Diana Ross,rnb / soul,soul,19850921,88,77,7,19850921
 89,NEW,Janet,Commodores,Commodores,rnb / soul,soul,19850921,89,87,4,19850921
 90,NEW,One In A Million,Eddie And The Tide,Eddie And The Tide,rock,rock,19850921,90,85,2,19850921
@@ -1498,7 +1498,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 97,84,Hangin' On A String,Loose Ends,Loose Ends,rnb / soul,soul,19850720,77,43,10,19850921
 98,71,Dancin' In The Key Of Life,Steve Arrington,Steve Arrington,rnb / soul,funk,19850817,77,68,6,19850921
 99,93,Wild And Crazy Love,Mary Jane Girls,Mary Jane Girls,rnb / soul,funk,19850720,71,42,10,19850921
-100,72,People Are People,Depeche Mode,Depeche Mode,pop,electronic,19850525,79,13,18,19850921
+100,72,People Are People,Depeche Mode,Depeche Mode,electronic,electronic,19850525,79,13,18,19850921
 1,1,St Elmo's Fire (Man In Motion),John Parr,John Parr,rock,rock,19850622,90,1,22,19850914
 2,3,We Don't Need Another Hero,Tina Turner,Tina Turner,pop,pop,19850706,52,2,16,19850914
 3,6,Money For Nothing,Dire Straits,Dire Straits,rock,classic rock,19850713,87,1,22,19850914
@@ -1570,7 +1570,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 69,NEW,Boy In The Box,Corey Hart,Corey Hart,pop,80s,19850914,69,26,12,19850914
 70,NEW,Never,Heart,Heart,rock,classic rock,19850914,70,4,24,19850914
 71,68,Dancin' In The Key Of Life,Steve Arrington,Steve Arrington,rnb / soul,funk,19850817,77,68,6,19850914
-72,57,People Are People,Depeche Mode,Depeche Mode,pop,electronic,19850525,79,13,18,19850914
+72,57,People Are People,Depeche Mode,Depeche Mode,electronic,electronic,19850525,79,13,18,19850914
 73,82,Weird Science,Oingo Boingo,Oingo Boingo,rock,new wave,19850831,93,45,12,19850914
 74,79,Test Of Time,Romantics,Romantics,rock,new wave,19850831,90,71,6,19850914
 75,45,Glory Days,Bruce Springsteen,Bruce Springsteen,rock,rock,19850601,48,5,18,19850914
@@ -1585,7 +1585,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 84,62,Hangin' On A String,Loose Ends,Loose Ends,rnb / soul,soul,19850720,77,43,10,19850914
 85,90,A Little Bit Of Heaven,Natalie Cole,Natalie Cole,jazz,jazz,19850907,90,81,6,19850914
 86,NEW,I Miss You,Klymaxx,Klymaxx,pop,80s,19850914,86,5,29,19850914
-87,92,Master And Servant,Depeche Mode,Depeche Mode,pop,electronic,19850907,92,87,3,19850914
+87,92,Master And Servant,Depeche Mode,Depeche Mode,electronic,electronic,19850907,92,87,3,19850914
 88,69,Get It On,Power Station,Power Station,pop,80s,19850608,58,9,15,19850914
 89,94,And She Was,Talking Heads,Talking Heads,rock,new wave,19850907,94,54,20,19850914
 90,95,Running Up That Hill,Kate Bush,Kate Bush,pop,female vocalists,19850907,95,30,20,19850914
@@ -1655,7 +1655,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 54,NEW,I'm Gonna Tear Your Playhouse Down,Paul Young,Paul Young,pop,80s,19850907,54,13,14,19850907
 55,57,Love And Pride,King,King,pop,80s,19850720,87,55,11,19850907
 56,58,Down On Love,Foreigner,Foreigner,rock,classic rock,19850817,74,54,8,19850907
-57,46,People Are People,Depeche Mode,Depeche Mode,pop,electronic,19850525,79,13,18,19850907
+57,46,People Are People,Depeche Mode,Depeche Mode,electronic,electronic,19850525,79,13,18,19850907
 58,69,Love Theme From St Elmo's Fire,David Foster,David Foster,pop,instrumental,19850824,92,15,22,19850907
 59,NEW,Miami Vice Theme,Jan Hammer,Jan Hammer,pop,soundtrack,19850907,59,1,22,19850907
 60,62,Tonight It's You,Cheap Trick,Cheap Trick,rock,classic rock,19850727,93,44,17,19850907
@@ -1690,7 +1690,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 89,80,Not Enough Love In The World,Don Henley,Don Henley,rock,classic rock,19850525,80,34,17,19850907
 90,NEW,A Little Bit Of Heaven,Natalie Cole,Natalie Cole,jazz,jazz,19850907,90,81,6,19850907
 91,89,I Want My Girl,Jesse Johnson'S Revue,Jesse Johnsons Revue,pop,unknown,19850720,88,76,8,19850907
-92,NEW,Master And Servant,Depeche Mode,Depeche Mode,pop,electronic,19850907,92,87,3,19850907
+92,NEW,Master And Servant,Depeche Mode,Depeche Mode,electronic,electronic,19850907,92,87,3,19850907
 93,81,In And Out Of Love,Bon Jovi,Bon Jovi,rock,rock,19850803,88,69,6,19850907
 94,NEW,And She Was,Talking Heads,Talking Heads,rock,new wave,19850907,94,54,20,19850907
 95,NEW,Running Up That Hill,Kate Bush,Kate Bush,pop,female vocalists,19850907,95,30,20,19850907
@@ -1744,7 +1744,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 43,45,Spanish Eddie,Laura Branigan,Laura Branigan,pop,80s,19850727,84,40,11,19850831
 44,48,I Got You Babe,Ub 40 & Chrissie Hynde,Ub 40,reggae,reggae,19850727,89,28,14,19850831
 45,28,Get It On,Power Station,Power Station,pop,80s,19850608,58,9,15,19850831
-46,27,People Are People,Depeche Mode,Depeche Mode,pop,electronic,19850525,79,13,18,19850831
+46,27,People Are People,Depeche Mode,Depeche Mode,electronic,electronic,19850525,79,13,18,19850831
 47,NEW,Dancing In The Street,Mick Jagger & David Bowie,Mick Jagger & David Bowie,rock,classic rock,19850831,47,7,14,19850831
 48,59,Lovin' Every Minute Of It,Loverboy,Loverboy,pop,80s,19850824,59,9,21,19850831
 49,43,Hangin' On A String,Loose Ends,Loose Ends,rnb / soul,soul,19850720,77,43,10,19850831
@@ -1825,7 +1825,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 24,21,Rock Me Tonight,Freddie Jackson,Freddie Jackson,rnb / soul,soul,19850525,85,18,19,19850824
 25,28,Mystery Lady,Billy Ocean,Billy Ocean,pop,80s,19850706,66,24,15,19850824
 26,22,State Of The Heart,Rick Springfield,Rick Springfield,pop,80s,19850608,82,22,15,19850824
-27,16,People Are People,Depeche Mode,Depeche Mode,pop,electronic,19850525,79,13,18,19850824
+27,16,People Are People,Depeche Mode,Depeche Mode,electronic,electronic,19850525,79,13,18,19850824
 28,14,Get It On,Power Station,Power Station,pop,80s,19850608,58,9,15,19850824
 29,33,Shame,Motels,Motels,rock,new wave,19850720,65,21,13,19850824
 30,20,You Give Good Love,Whitney Houston,Whitney Houston,pop,pop,19850511,67,3,21,19850824
@@ -1914,7 +1914,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 13,7,Glory Days,Bruce Springsteen,Bruce Springsteen,rock,rock,19850601,48,5,18,19850817
 14,9,Get It On,Power Station,Power Station,pop,80s,19850608,58,9,15,19850817
 15,22,Cherish,Kool And The Gang,Kool And The Gang,rnb / soul,funk,19850706,70,2,25,19850817
-16,13,People Are People,Depeche Mode,Depeche Mode,pop,electronic,19850525,79,13,18,19850817
+16,13,People Are People,Depeche Mode,Depeche Mode,electronic,electronic,19850525,79,13,18,19850817
 17,25,Invincible,Pat Benatar,Pat Benatar,pop,80s,19850706,61,10,17,19850817
 18,20,You're Only Human,Billy Joel,Billy Joel,rock,classic rock,19850713,50,9,16,19850817
 19,24,Don't Lose My Number,Phil Collins,Phil Collins,pop,pop,19850720,46,4,18,19850817
@@ -2011,7 +2011,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 10,4,You Give Good Love,Whitney Houston,Whitney Houston,pop,pop,19850511,67,3,21,19850810
 11,18,St Elmo's Fire (Man In Motion),John Parr,John Parr,rock,rock,19850622,90,1,22,19850810
 12,15,Summer Of '69,Bryan Adams,Bryan Adams,rock,rock,19850629,55,5,17,19850810
-13,13,People Are People,Depeche Mode,Depeche Mode,pop,electronic,19850525,79,13,18,19850810
+13,13,People Are People,Depeche Mode,Depeche Mode,electronic,electronic,19850525,79,13,18,19850810
 14,20,We Don't Need Another Hero,Tina Turner,Tina Turner,pop,pop,19850706,52,2,16,19850810
 15,17,What About Love,Heart,Heart,rock,classic rock,19850601,73,10,21,19850810
 16,16,You Spin Me Round (Like A Record),Dead Or Alive,Dead Or Alive,rock,new wave,19850601,88,11,18,19850810
@@ -2111,7 +2111,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 10,14,Who's Holding Donna Now,Debarge,Debarge,pop,80s,19850601,75,6,19,19850803
 11,4,A View To A Kill,Duran Duran,Duran Duran,rock,new wave,19850518,43,1,17,19850803
 12,19,Freeway Of Love,Aretha Franklin,Aretha Franklin,rnb / soul,soul,19850622,54,3,19,19850803
-13,17,People Are People,Depeche Mode,Depeche Mode,pop,electronic,19850525,79,13,18,19850803
+13,17,People Are People,Depeche Mode,Depeche Mode,electronic,electronic,19850525,79,13,18,19850803
 14,7,Raspberry Beret,Prince,Prince,rnb / soul,funk,19850518,37,2,17,19850803
 15,23,Summer Of '69,Bryan Adams,Bryan Adams,rock,rock,19850629,55,5,17,19850803
 16,20,You Spin Me Round (Like A Record),Dead Or Alive,Dead Or Alive,rock,new wave,19850601,88,11,18,19850803
@@ -2215,7 +2215,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 14,17,Who's Holding Donna Now,Debarge,Debarge,pop,80s,19850601,75,6,19,19850727
 15,15,19,Paul Hardcastle,Paul Hardcastle,pop,smooth jazz,19850601,78,15,14,19850727
 16,6,The Search Is Over,Survivor,Survivor,rock,rock,19850420,70,4,21,19850727
-17,18,People Are People,Depeche Mode,Depeche Mode,pop,electronic,19850525,79,13,18,19850727
+17,18,People Are People,Depeche Mode,Depeche Mode,electronic,electronic,19850525,79,13,18,19850727
 18,10,Would I Lie To You?,Eurythmics,Eurythmics,pop,80s,19850427,62,5,19,19850727
 19,24,Freeway Of Love,Aretha Franklin,Aretha Franklin,rnb / soul,soul,19850622,54,3,19,19850727
 20,22,You Spin Me Round (Like A Record),Dead Or Alive,Dead Or Alive,rock,new wave,19850601,88,11,18,19850727
@@ -2316,7 +2316,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 15,16,19,Paul Hardcastle,Paul Hardcastle,pop,smooth jazz,19850601,78,15,14,19850720
 16,10,The Goonies 'R' Good Enough,Cyndi Lauper,Cyndi Lauper,pop,80s,19850518,45,10,15,19850720
 17,21,Who's Holding Donna Now,Debarge,Debarge,pop,80s,19850601,75,6,19,19850720
-18,22,People Are People,Depeche Mode,Depeche Mode,pop,electronic,19850525,79,13,18,19850720
+18,22,People Are People,Depeche Mode,Depeche Mode,electronic,electronic,19850525,79,13,18,19850720
 19,19,Just As I Am,Air Supply,Air Supply,pop,80s,19850525,63,19,15,19850720
 20,12,Heaven,Bryan Adams,Bryan Adams,rock,rock,19850420,52,1,19,19850720
 21,29,The Power Of Love,Huey Lewis And The News,Huey Lewis And The News,pop,80s,19850629,46,1,19,19850720
@@ -2420,7 +2420,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 19,24,Just As I Am,Air Supply,Air Supply,pop,80s,19850525,63,19,15,19850713
 20,29,Never Surrender,Corey Hart,Corey Hart,pop,80s,19850608,68,3,20,19850713
 21,31,Who's Holding Donna Now,Debarge,Debarge,pop,80s,19850601,75,6,19,19850713
-22,27,People Are People,Depeche Mode,Depeche Mode,pop,electronic,19850525,79,13,18,19850713
+22,27,People Are People,Depeche Mode,Depeche Mode,electronic,electronic,19850525,79,13,18,19850713
 23,22,Tough All Over,John Cafferty & The Beaver Brown Band,John Cafferty & The Beaver Brown Band,rock,rock,19850511,53,22,15,19850713
 24,16,Things Can Only Get Better,Howard Jones,Howard Jones,pop,80s,19850323,75,5,23,19850713
 25,14,Everybody Wants To Rule The World,Tears For Fears,Tears For Fears,rock,new wave,19850316,70,1,24,19850713
@@ -2525,7 +2525,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 24,28,Just As I Am,Air Supply,Air Supply,pop,80s,19850525,63,19,15,19850706
 25,30,Get It On,Power Station,Power Station,pop,80s,19850608,58,9,15,19850706
 26,26,Getcha Back,Beach Boys,Beach Boys,rock,classic rock,19850601,41,26,11,19850706
-27,32,People Are People,Depeche Mode,Depeche Mode,pop,electronic,19850525,79,13,18,19850706
+27,32,People Are People,Depeche Mode,Depeche Mode,electronic,electronic,19850525,79,13,18,19850706
 28,29,Cannonball,Supertramp,Supertramp,rock,classic rock,19850525,75,28,12,19850706
 29,34,Never Surrender,Corey Hart,Corey Hart,pop,80s,19850608,68,3,20,19850706
 30,31,Posession Obsession,Daryl Hall & John Oates,Daryl Hall & John Oates,pop,80s,19850601,66,30,12,19850706
@@ -2630,7 +2630,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 29,30,Cannonball,Supertramp,Supertramp,rock,classic rock,19850525,75,28,12,19850629
 30,35,Get It On,Power Station,Power Station,pop,80s,19850608,58,9,15,19850629
 31,31,Posession Obsession,Daryl Hall & John Oates,Daryl Hall & John Oates,pop,80s,19850601,66,30,12,19850629
-32,33,People Are People,Depeche Mode,Depeche Mode,pop,electronic,19850525,79,13,18,19850629
+32,33,People Are People,Depeche Mode,Depeche Mode,electronic,electronic,19850525,79,13,18,19850629
 33,34,Who's Holding Donna Now,Debarge,Debarge,pop,80s,19850601,75,6,19,19850629
 34,36,Never Surrender,Corey Hart,Corey Hart,pop,80s,19850608,68,3,20,19850629
 35,45,Shout,Tears For Fears,Tears For Fears,rock,new wave,19850615,66,1,19,19850629
@@ -2731,7 +2731,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 30,34,Cannonball,Supertramp,Supertramp,rock,classic rock,19850525,75,28,12,19850622
 31,38,Posession Obsession,Daryl Hall & John Oates,Daryl Hall & John Oates,pop,80s,19850601,66,30,12,19850622
 32,46,19,Paul Hardcastle,Paul Hardcastle,pop,smooth jazz,19850601,78,15,14,19850622
-33,42,People Are People,Depeche Mode,Depeche Mode,pop,electronic,19850525,79,13,18,19850622
+33,42,People Are People,Depeche Mode,Depeche Mode,electronic,electronic,19850525,79,13,18,19850622
 34,41,Who's Holding Donna Now,Debarge,Debarge,pop,80s,19850601,75,6,19,19850622
 35,43,Get It On,Power Station,Power Station,pop,80s,19850608,58,9,15,19850622
 36,45,Never Surrender,Corey Hart,Corey Hart,pop,80s,19850608,68,3,20,19850622
@@ -2840,7 +2840,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 39,48,Little By Little,Robert Plant,Robert Plant,rock,classic rock,19850518,80,36,11,19850615
 40,43,Wake Up (Next To You),Graham Parker & The Shot,Graham Parker,rock,new wave,19850504,82,39,12,19850615
 41,54,Who's Holding Donna Now,Debarge,Debarge,pop,80s,19850601,75,6,19,19850615
-42,51,People Are People,Depeche Mode,Depeche Mode,pop,electronic,19850525,79,13,18,19850615
+42,51,People Are People,Depeche Mode,Depeche Mode,electronic,electronic,19850525,79,13,18,19850615
 43,58,Get It On,Power Station,Power Station,pop,80s,19850608,58,9,15,19850615
 44,29,We Are The World,Usa For Africa,Usa For Africa,pop,pop,19850323,21,1,18,19850615
 45,68,Never Surrender,Corey Hart,Corey Hart,pop,80s,19850608,68,3,20,19850615
@@ -2949,7 +2949,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 48,54,Little By Little,Robert Plant,Robert Plant,rock,classic rock,19850518,80,36,11,19850608
 49,66,Posession Obsession,Daryl Hall & John Oates,Daryl Hall & John Oates,pop,80s,19850601,66,30,12,19850608
 50,57,Animal Instinct,Commodores,Commodores,rnb / soul,soul,19850525,69,43,9,19850608
-51,61,People Are People,Depeche Mode,Depeche Mode,pop,electronic,19850525,79,13,18,19850608
+51,61,People Are People,Depeche Mode,Depeche Mode,electronic,electronic,19850525,79,13,18,19850608
 52,53,Black Cars,Gino Vannelli,Gino Vannelli,pop,pop,19850504,85,42,16,19850608
 53,56,Centerfield,John Fogerty,John Fogerty,rock,classic rock,19850525,71,44,13,19850608
 54,75,Who's Holding Donna Now,Debarge,Debarge,pop,80s,19850601,75,6,19,19850608
@@ -3059,7 +3059,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 58,58,Dangerous,Natalie Cole,Natalie Cole,jazz,jazz,19850504,77,57,10,19850601
 59,74,Everything I Need,Men At Work,Men At Work,pop,80s,19850525,74,47,9,19850601
 60,49,Do You Wanna Get Away,Shannon,Shannon,pop,celtic,19850406,77,49,15,19850601
-61,79,People Are People,Depeche Mode,Depeche Mode,pop,electronic,19850525,79,13,18,19850601
+61,79,People Are People,Depeche Mode,Depeche Mode,electronic,electronic,19850525,79,13,18,19850601
 62,70,Meeting In The Ladies Room,Klymaxx,Klymaxx,pop,80s,19850511,89,59,11,19850601
 63,66,Hold Me,Menudo,Menudo,pop,latin pop,19850511,85,62,11,19850601
 64,78,Find A Way,Amy Grant,Amy Grant,pop,pop,19850518,85,29,16,19850601
@@ -3177,7 +3177,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 76,78,(Come On) Shout,Alex Brown,Alex Brown,rnb / soul,soul,19850504,93,76,6,19850525
 77,79,Save The Night For Me,Maureen Steele,Maureen Steele,pop,motown label,19850504,89,77,5,19850525
 78,85,Find A Way,Amy Grant,Amy Grant,pop,pop,19850518,85,29,16,19850525
-79,NEW,People Are People,Depeche Mode,Depeche Mode,pop,electronic,19850525,79,13,18,19850525
+79,NEW,People Are People,Depeche Mode,Depeche Mode,electronic,electronic,19850525,79,13,18,19850525
 80,NEW,Not Enough Love In The World,Don Henley,Don Henley,rock,classic rock,19850525,80,34,17,19850525
 81,NEW,Forever,Kenny Loggins,Kenny Loggins,pop,80s,19850525,81,40,22,19850525
 82,84,Square Rooms,Al Corley,Al Corley,pop,80s,19850511,96,80,5,19850525
@@ -4693,7 +4693,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 92,77,Wake Me Up Before You Go Go,Wham!,Wham!,pop,80s,19840908,80,1,24,19850209
 93,74,Bruce,Rick Springfield,Rick Springfield,pop,80s,19841117,81,27,13,19850209
 94,75,I Can't Hold Back,Survivor,Survivor,rock,rock,19840915,85,13,23,19850209
-95,79,Lonely School,Tommy Shaw,Tommy Shaw,rock,hard rock,19841215,89,60,9,19850209
+95,79,Lonely School,Tommy Shaw,Tommy Shaw,rock,rock,19841215,89,60,9,19850209
 96,88,All Through The Night,Cyndi Lauper,Cyndi Lauper,pop,80s,19841006,49,5,19,19850209
 97,86,No More Lonely Nights,Paul Mccartney,Paul Mccartney,rock,classic rock,19841013,48,6,18,19850209
 98,85,Centipede,Rebbie Jackson,Rebbie Jackson,pop,pop,19841006,88,24,19,19850209
@@ -4777,7 +4777,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 76,90,Obsession,Animotion,Animotion,rock,new wave,19850126,90,6,24,19850202
 77,69,Wake Me Up Before You Go Go,Wham!,Wham!,pop,80s,19840908,80,1,24,19850202
 78,88,Restless Heart,John Waite,John Waite,pop,80s,19850126,88,59,8,19850202
-79,60,Lonely School,Tommy Shaw,Tommy Shaw,rock,hard rock,19841215,89,60,9,19850202
+79,60,Lonely School,Tommy Shaw,Tommy Shaw,rock,rock,19841215,89,60,9,19850202
 80,85,Rain Forest,Paul Hardcastle,Paul Hardcastle,pop,smooth jazz,19850112,95,57,18,19850202
 81,86,Crazy,Kenny Rogers,Kenny Rogers,country / folk,country,19850126,86,79,8,19850202
 82,NEW,The Word Is Out,Jermaine Stewart,Jermaine Stewart,pop,80s,19850202,82,41,15,19850202
@@ -4858,7 +4858,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 57,NEW,Keeping The Faith,Billy Joel,Billy Joel,rock,classic rock,19850126,57,18,16,19850126
 58,61,Turn Up The Radio,Autograph,Autograph,rock,hard rock,19841222,89,29,19,19850126
 59,63,Smalltown Boy,Bronski Beat,Bronski Beat,pop,80s,19841222,86,48,16,19850126
-60,60,Lonely School,Tommy Shaw,Tommy Shaw,rock,hard rock,19841215,89,60,9,19850126
+60,60,Lonely School,Tommy Shaw,Tommy Shaw,rock,rock,19841215,89,60,9,19850126
 61,62,Knocking At Your Back Door,Deep Purple,Deep Purple,rock,hard rock,19850105,76,61,7,19850126
 62,31,Bruce,Rick Springfield,Rick Springfield,pop,80s,19841117,81,27,13,19850126
 63,NEW,High On You,Survivor,Survivor,rock,rock,19850126,63,8,17,19850126
@@ -4958,7 +4958,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 57,46,Centipede,Rebbie Jackson,Rebbie Jackson,pop,pop,19841006,88,24,19,19850119
 58,NEW,Private Dancer,Tina Turner,Tina Turner,pop,pop,19850119,58,7,18,19850119
 59,NEW,Ooh Ooh Song,Pat Benatar,Pat Benatar,pop,80s,19850119,59,36,9,19850119
-60,61,Lonely School,Tommy Shaw,Tommy Shaw,rock,hard rock,19841215,89,60,9,19850119
+60,61,Lonely School,Tommy Shaw,Tommy Shaw,rock,rock,19841215,89,60,9,19850119
 61,63,Turn Up The Radio,Autograph,Autograph,rock,hard rock,19841222,89,29,19,19850119
 62,64,Knocking At Your Back Door,Deep Purple,Deep Purple,rock,hard rock,19850105,76,61,7,19850119
 63,67,Smalltown Boy,Bronski Beat,Bronski Beat,pop,80s,19841222,86,48,16,19850119
@@ -5059,7 +5059,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 58,51,Stranger In Town,Toto,Toto,rock,rock,19841027,70,30,15,19850112
 59,66,Naughty Naughty,John Parr,John Parr,rock,rock,19841215,87,23,20,19850112
 60,65,Treat Her Like A Lady,Temptations,Temptations,rnb / soul,soul,19841215,90,48,14,19850112
-61,69,Lonely School,Tommy Shaw,Tommy Shaw,rock,hard rock,19841215,89,60,9,19850112
+61,69,Lonely School,Tommy Shaw,Tommy Shaw,rock,rock,19841215,89,60,9,19850112
 62,56,Walking On A Thin Line,Huey Lewis And The News,Huey Lewis And The News,pop,80s,19841020,53,18,15,19850112
 63,74,Turn Up The Radio,Autograph,Autograph,rock,hard rock,19841222,89,29,19,19850112
 64,76,Knocking At Your Back Door,Deep Purple,Deep Purple,rock,hard rock,19850105,76,61,7,19850112
@@ -5167,7 +5167,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 66,76,Naughty Naughty,John Parr,John Parr,rock,rock,19841215,87,23,20,19850105
 67,44,It Ain't Enough,Corey Hart,Corey Hart,pop,80s,19840929,65,17,19,19850105
 68,71,Big In Japan,Alphaville,Alphaville,pop,80s,19841124,90,66,10,19850105
-69,77,Lonely School,Tommy Shaw,Tommy Shaw,rock,hard rock,19841215,89,60,9,19850105
+69,77,Lonely School,Tommy Shaw,Tommy Shaw,rock,rock,19841215,89,60,9,19850105
 70,63,I Just Called To Say I Love You,Stevie Wonder,Stevie Wonder,rnb / soul,soul,19840818,58,1,26,19850105
 71,62,Caribbean Queen,Billy Ocean,Billy Ocean,pop,80s,19840811,85,1,26,19850105
 72,54,Purple Rain,Prince,Prince,rnb / soul,funk,19841006,28,2,16,19850105

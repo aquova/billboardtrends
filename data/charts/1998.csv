@@ -483,7 +483,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 82,84,Let Me Return The Favor,Andrea Martin,Andrea Martin,rnb / soul,rnb,19981031,92,82,5,19981128
 83,93,Strawberry,Nicole Renee,Nicole Renee,rnb / soul,soul,19981121,93,83,2,19981128
 84,96,Suavemente,Elvis Crespo,Elvis Crespo,pop,merengue,19981121,96,84,2,19981128
-85,86,Only When I Lose Myself,Depeche Mode,Depeche Mode,pop,electronic,19981003,61,61,9,19981128
+85,86,Only When I Lose Myself,Depeche Mode,Depeche Mode,electronic,electronic,19981003,61,61,9,19981128
 86,87,If I Had A Chance,Cynthia,Cynthia,pop,freestyle,19981017,95,83,7,19981128
 87,89,If I Lost You,Travis Tritt,Travis Tritt,country / folk,country,19981017,89,86,11,19981128
 88,80,Touch Me,Solo,Solo,pop,seen live,19980912,77,59,12,19981128
@@ -496,7 +496,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 95,95,Someone You Used To Know,Collin Raye,Collin Raye,country / folk,country,19981121,95,37,14,19981128
 96,92,Wide Open Spaces,Dixie Chicks,Dixie Chicks,country / folk,country,19980905,93,41,20,19981128
 97,98,I Should Cheat On You,J'Son,J'Son,pop,pop,19980905,81,72,13,19981128
-98,91,The Rockafeller Skank,Fatboy Slim,Fatboy Slim,pop,electronic,19981017,83,78,7,19981128
+98,91,The Rockafeller Skank,Fatboy Slim,Fatboy Slim,electronic,electronic,19981017,83,78,7,19981128
 99,99,Gotta Be,Jagged Edge,Jagged Edge,rnb / soul,rnb,19980815,23,23,16,19981128
 100,100,The Street Mix,Mag 7,Mag 7,pop,unknown,19981031,93,93,5,19981128
 1,1,Doo Wop (That Thing),Lauryn Hill,Lauryn Hill,rnb / soul,soul,19981114,1,1,21,19981121
@@ -584,12 +584,12 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 83,83,Whenever You're Near Me,Ace Of Base,Ace Of Base,pop,pop,19981031,76,76,5,19981121
 84,84,Let Me Return The Favor,Andrea Martin,Andrea Martin,rnb / soul,rnb,19981031,92,82,5,19981121
 85,80,Yesterday,Debelah Morgan,Debelah Morgan,rnb / soul,rnb,19980919,79,56,11,19981121
-86,86,Only When I Lose Myself,Depeche Mode,Depeche Mode,pop,electronic,19981003,61,61,9,19981121
+86,86,Only When I Lose Myself,Depeche Mode,Depeche Mode,electronic,electronic,19981003,61,61,9,19981121
 87,89,If I Had A Chance,Cynthia,Cynthia,pop,freestyle,19981017,95,83,7,19981121
 88,92,No Fool No More,En Vogue,En Vogue,rnb / soul,rnb,19981010,63,57,8,19981121
 89,95,If I Lost You,Travis Tritt,Travis Tritt,country / folk,country,19981017,89,86,11,19981121
 90,91,Deadly Zone,Bounty Killer Featuring Mobb Deep & Rappin' Noyd,Bounty Killer,electronic,dancehall,19981010,93,79,7,19981121
-91,88,The Rockafeller Skank,Fatboy Slim,Fatboy Slim,pop,electronic,19981017,83,78,7,19981121
+91,88,The Rockafeller Skank,Fatboy Slim,Fatboy Slim,electronic,electronic,19981017,83,78,7,19981121
 92,96,Wide Open Spaces,Dixie Chicks,Dixie Chicks,country / folk,country,19980905,93,41,20,19981121
 93,NEW,Strawberry,Nicole Renee,Nicole Renee,rnb / soul,soul,19981121,93,83,2,19981121
 94,94,Here We Go,Funkmaster Flex Presents Khadejia Featuring Product,Funkmaster Flex Presents Khadejia,pop,unknown,19980822,77,72,14,19981121
@@ -684,9 +684,9 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 83,76,Whenever You're Near Me,Ace Of Base,Ace Of Base,pop,pop,19981031,76,76,5,19981114
 84,85,Let Me Return The Favor,Andrea Martin,Andrea Martin,rnb / soul,rnb,19981031,92,82,5,19981114
 85,82,Touch Me,Solo,Solo,pop,seen live,19980912,77,59,12,19981114
-86,72,Only When I Lose Myself,Depeche Mode,Depeche Mode,pop,electronic,19981003,61,61,9,19981114
+86,72,Only When I Lose Myself,Depeche Mode,Depeche Mode,electronic,electronic,19981003,61,61,9,19981114
 87,91,If I Can't Have You,L.F.O. Featuring Kayo,L.F.O.,pop,techno,19981107,91,70,4,19981114
-88,78,The Rockafeller Skank,Fatboy Slim,Fatboy Slim,pop,electronic,19981017,83,78,7,19981114
+88,78,The Rockafeller Skank,Fatboy Slim,Fatboy Slim,electronic,electronic,19981017,83,78,7,19981114
 89,98,If I Had A Chance,Cynthia,Cynthia,pop,freestyle,19981017,95,83,7,19981114
 90,97,Can't We Try,Rockell & Collage,Rockell,pop,freestyle,19980704,78,59,20,19981114
 91,84,Deadly Zone,Bounty Killer Featuring Mobb Deep & Rappin' Noyd,Bounty Killer,electronic,dancehall,19981010,93,79,7,19981114
@@ -770,13 +770,13 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 69,NEW,Can't Get Enough,Willie Max Featuring Raphael Saadiq,Willie Max,pop,pop,19981107,69,49,10,19981107
 70,69,Yesterday,Debelah Morgan,Debelah Morgan,rnb / soul,rnb,19980919,79,56,11,19981107
 71,71,Money Ain't A Thang,Jd Featuring Jay-Z,Jd,rock,indie,19980704,77,52,20,19981107
-72,72,Only When I Lose Myself,Depeche Mode,Depeche Mode,pop,electronic,19981003,61,61,9,19981107
+72,72,Only When I Lose Myself,Depeche Mode,Depeche Mode,electronic,electronic,19981003,61,61,9,19981107
 73,77,How's It Goin',Dmx Featuring Faith Evans,Dmx,hip-hop,rap,19980926,74,70,10,19981107
 74,67,Come With Me,Puff Daddy Featuring Jimmy Page,Puff Daddy,hip-hop,hip-hop,19980627,10,4,20,19981107
 75,66,No Fool No More,En Vogue,En Vogue,rnb / soul,rnb,19981010,63,57,8,19981107
 76,76,Whenever You're Near Me,Ace Of Base,Ace Of Base,pop,pop,19981031,76,76,5,19981107
 77,73,Landslide,Fleetwood Mac,Fleetwood Mac,rock,classic rock,19980718,59,51,20,19981107
-78,78,The Rockafeller Skank,Fatboy Slim,Fatboy Slim,pop,electronic,19981017,83,78,7,19981107
+78,78,The Rockafeller Skank,Fatboy Slim,Fatboy Slim,electronic,electronic,19981017,83,78,7,19981107
 79,75,For You I Will,Aaron Tippin,Aaron Tippin,country / folk,country,19981010,76,49,20,19981107
 80,NEW,Let The Music Heal Your Soul,Bravo All Stars,Bravo All Stars,pop,pop,19981107,80,60,4,19981107
 81,89,Life Ain't Easy,Cleopatra,Cleopatra,pop,pop,19981031,89,81,5,19981107
@@ -870,13 +870,13 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 69,66,Yesterday,Debelah Morgan,Debelah Morgan,rnb / soul,rnb,19980919,79,56,11,19981031
 70,71,Music Sounds Better With You,Stardust,Stardust,electronic,house,19981010,84,62,8,19981031
 71,69,Money Ain't A Thang,Jd Featuring Jay-Z,Jd,rock,indie,19980704,77,52,20,19981031
-72,76,Only When I Lose Myself,Depeche Mode,Depeche Mode,pop,electronic,19981003,61,61,9,19981031
+72,76,Only When I Lose Myself,Depeche Mode,Depeche Mode,electronic,electronic,19981003,61,61,9,19981031
 73,67,Landslide,Fleetwood Mac,Fleetwood Mac,rock,classic rock,19980718,59,51,20,19981031
 74,70,Can't We Try,Rockell & Collage,Rockell,pop,freestyle,19980704,78,59,20,19981031
 75,75,For You I Will,Aaron Tippin,Aaron Tippin,country / folk,country,19981010,76,49,20,19981031
 76,NEW,Whenever You're Near Me,Ace Of Base,Ace Of Base,pop,pop,19981031,76,76,5,19981031
 77,73,How's It Goin',Dmx Featuring Faith Evans,Dmx,hip-hop,rap,19980926,74,70,10,19981031
-78,78,The Rockafeller Skank,Fatboy Slim,Fatboy Slim,pop,electronic,19981017,83,78,7,19981031
+78,78,The Rockafeller Skank,Fatboy Slim,Fatboy Slim,electronic,electronic,19981017,83,78,7,19981031
 79,72,Touch Me,Solo,Solo,pop,seen live,19980912,77,59,12,19981031
 80,85,Horse & Carriage,Cam'Ron Featuring Mase,Cam'Ron,hip-hop,hip-hop,19980718,68,41,17,19981031
 81,84,Dr. Greenthumb / Tequila Sunrise,Cypress Hill,Cypress Hill,hip-hop,hip-hop,19980919,72,70,11,19981031
@@ -974,9 +974,9 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 73,80,How's It Goin',Dmx Featuring Faith Evans,Dmx,hip-hop,rap,19980926,74,70,10,19981024
 74,67,Jackie's Strength,Tori Amos,Tori Amos,pop,female vocalists,19981003,54,54,5,19981024
 75,74,For You I Will,Aaron Tippin,Aaron Tippin,country / folk,country,19981010,76,49,20,19981024
-76,78,Only When I Lose Myself,Depeche Mode,Depeche Mode,pop,electronic,19981003,61,61,9,19981024
+76,78,Only When I Lose Myself,Depeche Mode,Depeche Mode,electronic,electronic,19981003,61,61,9,19981024
 77,72,Cleopatra's Theme,Cleopatra,Cleopatra,pop,pop,19980704,60,26,19,19981024
-78,83,The Rockafeller Skank,Fatboy Slim,Fatboy Slim,pop,electronic,19981017,83,78,7,19981024
+78,83,The Rockafeller Skank,Fatboy Slim,Fatboy Slim,electronic,electronic,19981017,83,78,7,19981024
 79,92,Deadly Zone,Bounty Killer Featuring Mobb Deep & Rappin' Noyd,Bounty Killer,electronic,dancehall,19981010,93,79,7,19981024
 80,98,Paper,Queen Latifah,Queen Latifah,hip-hop,hip-hop,19980815,64,50,15,19981024
 81,70,You Only Have To Say You Love Me,Hannah Jones,Hannah Jones,disco,disco,19980613,92,65,20,19981024
@@ -1076,12 +1076,12 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 75,75,Here We Go,Funkmaster Flex Presents Khadejia Featuring Product,Funkmaster Flex Presents Khadejia,pop,unknown,19980822,77,72,14,19981017
 76,70,Gotta Be,Jagged Edge,Jagged Edge,rnb / soul,rnb,19980815,23,23,16,19981017
 77,71,Nobody Does It Better,Nate Dogg Featuring Warren G,Nate Dogg,rnb / soul,g-funk,19980711,54,18,18,19981017
-78,74,Only When I Lose Myself,Depeche Mode,Depeche Mode,pop,electronic,19981003,61,61,9,19981017
+78,74,Only When I Lose Myself,Depeche Mode,Depeche Mode,electronic,electronic,19981003,61,61,9,19981017
 79,78,Dr. Greenthumb / Tequila Sunrise,Cypress Hill,Cypress Hill,hip-hop,hip-hop,19980919,72,70,11,19981017
 80,72,How's It Goin',Dmx Featuring Faith Evans,Dmx,hip-hop,rap,19980926,74,70,10,19981017
 81,80,Woof Woof,69 Boyz,69 Boyz,hip-hop,hip-hop,19980718,61,31,16,19981017
 82,81,You Won't Forget Me,La Bouche,La Bouche,electronic,eurodance,19980606,56,48,20,19981017
-83,NEW,The Rockafeller Skank,Fatboy Slim,Fatboy Slim,pop,electronic,19981017,83,78,7,19981017
+83,NEW,The Rockafeller Skank,Fatboy Slim,Fatboy Slim,electronic,electronic,19981017,83,78,7,19981017
 84,82,I Should Cheat On You,J'Son,J'Son,pop,pop,19980905,81,72,13,19981017
 85,79,Stop,Spice Girls,Spice Girls,pop,pop,19980620,36,16,19,19981017
 86,88,Ava Adore,The Smashing Pumpkins,The Smashing Pumpkins,rock,alternative rock,19980704,42,42,20,19981017
@@ -1172,7 +1172,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 71,65,Nobody Does It Better,Nate Dogg Featuring Warren G,Nate Dogg,rnb / soul,g-funk,19980711,54,18,18,19981010
 72,74,How's It Goin',Dmx Featuring Faith Evans,Dmx,hip-hop,rap,19980926,74,70,10,19981010
 73,71,Definition,Mos Def & Kweli Are Black Star,Mos Def,hip-hop,hip-hop,19980822,94,60,10,19981010
-74,61,Only When I Lose Myself,Depeche Mode,Depeche Mode,pop,electronic,19981003,61,61,9,19981010
+74,61,Only When I Lose Myself,Depeche Mode,Depeche Mode,electronic,electronic,19981003,61,61,9,19981010
 75,80,Here We Go,Funkmaster Flex Presents Khadejia Featuring Product,Funkmaster Flex Presents Khadejia,pop,unknown,19980822,77,72,14,19981010
 76,NEW,For You I Will,Aaron Tippin,Aaron Tippin,country / folk,country,19981010,76,49,20,19981010
 77,83,It's Alright,Memphis Bleak & Jay-Z,Memphis Bleak,hip-hop,hip-hop,19980808,66,61,12,19981010
@@ -1198,7 +1198,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 97,91,Whatcha Gonna Do?,Link,Link,pop,crust,19980606,45,23,19,19981010
 98,88,I Ain't Havin' That,Heltah Skeltah Feat Starang Wondah Of O.G.C. & Doc Holiday,Heltah Skeltah Feat Starang Wondah Of O.G.C.,pop,unknown,19981003,88,88,2,19981010
 99,98,The Cup Of Life,Ricky Martin,Ricky Martin,pop,latin,19980627,90,60,16,19981010
-100,100,One Heart At A Time,Various Artists,Various Artists,pop,electronic,19980530,93,56,20,19981010
+100,100,One Heart At A Time,Various Artists,Various Artists,electronic,electronic,19980530,93,56,20,19981010
 1,2,The First Night,Monica,Monica,rnb / soul,rnb,19980815,14,1,23,19981003
 2,1,I Don't Want To Miss A Thing,Aerosmith,Aerosmith,rock,rock,19980905,1,1,20,19981003
 3,NEW,One Week,Barenaked Ladies,Barenaked Ladies,rock,rock,19981003,3,1,20,19981003
@@ -1259,7 +1259,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 58,54,Landslide,Fleetwood Mac,Fleetwood Mac,rock,classic rock,19980718,59,51,20,19981003
 59,59,Touch Me,Solo,Solo,pop,seen live,19980912,77,59,12,19981003
 60,64,Yesterday,Debelah Morgan,Debelah Morgan,rnb / soul,rnb,19980919,79,56,11,19981003
-61,NEW,Only When I Lose Myself,Depeche Mode,Depeche Mode,pop,electronic,19981003,61,61,9,19981003
+61,NEW,Only When I Lose Myself,Depeche Mode,Depeche Mode,electronic,electronic,19981003,61,61,9,19981003
 62,55,Cleopatra's Theme,Cleopatra,Cleopatra,pop,pop,19980704,60,26,19,19981003
 63,63,Can't We Try,Rockell & Collage,Rockell,pop,freestyle,19980704,78,59,20,19981003
 64,62,What U See Is What U Get,Xzibit,Xzibit,hip-hop,rap,19980801,69,50,14,19981003
@@ -1298,7 +1298,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 97,94,Wishlist,Pearl Jam,Pearl Jam,rock,grunge,19980523,48,47,20,19981003
 98,99,The Cup Of Life,Ricky Martin,Ricky Martin,pop,latin,19980627,90,60,16,19981003
 99,88,Black Ice (Sky High),Goodie Mob Featuring Outkast,Goodie Mob,hip-hop,hip-hop,19980627,91,50,15,19981003
-100,90,One Heart At A Time,Various Artists,Various Artists,pop,electronic,19980530,93,56,20,19981003
+100,90,One Heart At A Time,Various Artists,Various Artists,electronic,electronic,19980530,93,56,20,19981003
 1,1,I Don't Want To Miss A Thing,Aerosmith,Aerosmith,rock,rock,19980905,1,1,20,19980926
 2,2,The First Night,Monica,Monica,rnb / soul,rnb,19980815,14,1,23,19980926
 3,3,Crush,Jennifer Paige,Jennifer Paige,pop,pop,19980704,69,3,25,19980926
@@ -1388,9 +1388,9 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 87,NEW,Invasion Of The Flat Booty B*****s (Bitches),Too Short,Too Short,hip-hop,rap,19980926,87,51,10,19980926
 88,87,Black Ice (Sky High),Goodie Mob Featuring Outkast,Goodie Mob,hip-hop,hip-hop,19980627,91,50,15,19980926
 89,80,How Do I Say I'm Sorry,Tami Davis,Tami Davis,rnb / soul,soul,19980704,94,63,14,19980926
-90,82,One Heart At A Time,Various Artists,Various Artists,pop,electronic,19980530,93,56,20,19980926
+90,82,One Heart At A Time,Various Artists,Various Artists,electronic,electronic,19980530,93,56,20,19980926
 91,88,Stepping Stone,Lari White,Lari White,country / folk,country,19980711,94,73,12,19980926
-92,89,The Rockafeller Skank,Fatboy Slim,Fatboy Slim,pop,electronic,19980808,91,84,8,19980926
+92,89,The Rockafeller Skank,Fatboy Slim,Fatboy Slim,electronic,electronic,19980808,91,84,8,19980926
 93,94,Here We Go Again,Aretha Franklin,Aretha Franklin,rnb / soul,soul,19980718,94,76,11,19980926
 94,97,Wishlist,Pearl Jam,Pearl Jam,rock,grunge,19980523,48,47,20,19980926
 95,98,Cover You In Kisses,John Michael Montgomery,John Michael Montgomery,country / folk,country,19980801,91,91,9,19980926
@@ -1480,14 +1480,14 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 79,NEW,Yesterday,Debelah Morgan,Debelah Morgan,rnb / soul,rnb,19980919,79,56,11,19980919
 80,79,How Do I Say I'm Sorry,Tami Davis,Tami Davis,rnb / soul,soul,19980704,94,63,14,19980919
 81,89,Wide Open Spaces,Dixie Chicks,Dixie Chicks,country / folk,country,19980905,93,41,20,19980919
-82,92,One Heart At A Time,Various Artists,Various Artists,pop,electronic,19980530,93,56,20,19980919
+82,92,One Heart At A Time,Various Artists,Various Artists,electronic,electronic,19980530,93,56,20,19980919
 83,83,Remember When,Color Me Badd,Color Me Badd,pop,90s,19980725,71,48,13,19980919
 84,86,What I Didn't Know,Athenaeum,Athenaeum,rock,rock,19980801,65,58,14,19980919
 85,75,You Won't Forget Me,La Bouche,La Bouche,electronic,eurodance,19980606,56,48,20,19980919
 86,87,I Wasn't With It,Jesse Powell,Jesse Powell,rnb / soul,rnb,19980822,87,85,9,19980919
 87,74,Black Ice (Sky High),Goodie Mob Featuring Outkast,Goodie Mob,hip-hop,hip-hop,19980627,91,50,15,19980919
 88,88,Stepping Stone,Lari White,Lari White,country / folk,country,19980711,94,73,12,19980919
-89,84,The Rockafeller Skank,Fatboy Slim,Fatboy Slim,pop,electronic,19980808,91,84,8,19980919
+89,84,The Rockafeller Skank,Fatboy Slim,Fatboy Slim,electronic,electronic,19980808,91,84,8,19980919
 90,85,Stop Being Creedy,Dmx,Dmx,hip-hop,rap,19980815,89,79,6,19980919
 91,90,What's Clef / Chickenhead / Cheated (To All The Girls),Wyclef Jean Featuring Queen Pen & The Product,Wyclef Jean,hip-hop,hip-hop,19980808,61,61,8,19980919
 92,93,If You Ever Have Forever In Mind,Vince Gill,Vince Gill,country / folk,country,19980704,75,60,13,19980919
@@ -1582,7 +1582,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 81,81,I Should Cheat On You,J'Son,J'Son,pop,pop,19980905,81,72,13,19980912
 82,NEW,Find A Way,A Tribe Called Quest,A Tribe Called Quest,hip-hop,hip-hop,19980912,82,71,7,19980912
 83,75,Remember When,Color Me Badd,Color Me Badd,pop,90s,19980725,71,48,13,19980912
-84,86,The Rockafeller Skank,Fatboy Slim,Fatboy Slim,pop,electronic,19980808,91,84,8,19980912
+84,86,The Rockafeller Skank,Fatboy Slim,Fatboy Slim,electronic,electronic,19980808,91,84,8,19980912
 85,79,Stop Being Creedy,Dmx,Dmx,hip-hop,rap,19980815,89,79,6,19980912
 86,80,What I Didn't Know,Athenaeum,Athenaeum,rock,rock,19980801,65,58,14,19980912
 87,85,I Wasn't With It,Jesse Powell,Jesse Powell,rnb / soul,rnb,19980822,87,85,9,19980912
@@ -1590,7 +1590,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 89,93,Wide Open Spaces,Dixie Chicks,Dixie Chicks,country / folk,country,19980905,93,41,20,19980912
 90,74,What's Clef / Chickenhead / Cheated (To All The Girls),Wyclef Jean Featuring Queen Pen & The Product,Wyclef Jean,hip-hop,hip-hop,19980808,61,61,8,19980912
 91,82,Stand By Me,4 The Cause,4 The Cause,pop,90s,19980822,86,82,5,19980912
-92,90,One Heart At A Time,Various Artists,Various Artists,pop,electronic,19980530,93,56,20,19980912
+92,90,One Heart At A Time,Various Artists,Various Artists,electronic,electronic,19980530,93,56,20,19980912
 93,78,If You Ever Have Forever In Mind,Vince Gill,Vince Gill,country / folk,country,19980704,75,60,13,19980912
 94,84,Spark,Tori Amos,Tori Amos,pop,female vocalists,19980627,53,49,14,19980912
 95,92,Wishlist,Pearl Jam,Pearl Jam,rock,grunge,19980523,48,47,20,19980912
@@ -1684,11 +1684,11 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 83,87,Stepping Stone,Lari White,Lari White,country / folk,country,19980711,94,73,12,19980905
 84,79,Spark,Tori Amos,Tori Amos,pop,female vocalists,19980627,53,49,14,19980905
 85,88,I Wasn't With It,Jesse Powell,Jesse Powell,rnb / soul,rnb,19980822,87,85,9,19980905
-86,86,The Rockafeller Skank,Fatboy Slim,Fatboy Slim,pop,electronic,19980808,91,84,8,19980905
+86,86,The Rockafeller Skank,Fatboy Slim,Fatboy Slim,electronic,electronic,19980808,91,84,8,19980905
 87,78,The Arms Of The One Who Loves You,Xscape,Xscape,rnb / soul,rnb,19980502,24,7,20,19980905
 88,84,Here We Go Again,Aretha Franklin,Aretha Franklin,rnb / soul,soul,19980718,94,76,11,19980905
 89,77,The Cup Of Life,Ricky Martin,Ricky Martin,pop,latin,19980627,90,60,16,19980905
-90,85,One Heart At A Time,Various Artists,Various Artists,pop,electronic,19980530,93,56,20,19980905
+90,85,One Heart At A Time,Various Artists,Various Artists,electronic,electronic,19980530,93,56,20,19980905
 91,80,Ninety Nine (Flash The Message),John Forte,John Forte,hip-hop,hip-hop,19980530,74,59,16,19980905
 92,90,Wishlist,Pearl Jam,Pearl Jam,rock,grunge,19980523,48,47,20,19980905
 93,NEW,Wide Open Spaces,Dixie Chicks,Dixie Chicks,country / folk,country,19980905,93,41,20,19980905
@@ -1783,8 +1783,8 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 82,85,Recover Your Soul,Elton John,Elton John,pop,pop,19980418,67,55,20,19980829
 83,86,Stand By Me,4 The Cause,4 The Cause,pop,90s,19980822,86,82,5,19980829
 84,83,Here We Go Again,Aretha Franklin,Aretha Franklin,rnb / soul,soul,19980718,94,76,11,19980829
-85,79,One Heart At A Time,Various Artists,Various Artists,pop,electronic,19980530,93,56,20,19980829
-86,91,The Rockafeller Skank,Fatboy Slim,Fatboy Slim,pop,electronic,19980808,91,84,8,19980829
+85,79,One Heart At A Time,Various Artists,Various Artists,electronic,electronic,19980530,93,56,20,19980829
+86,91,The Rockafeller Skank,Fatboy Slim,Fatboy Slim,electronic,electronic,19980808,91,84,8,19980829
 87,73,Stepping Stone,Lari White,Lari White,country / folk,country,19980711,94,73,12,19980829
 88,87,I Wasn't With It,Jesse Powell,Jesse Powell,rnb / soul,rnb,19980822,87,85,9,19980829
 89,93,Push It,Garbage,Garbage,rock,rock,19980509,52,52,18,19980829
@@ -1877,7 +1877,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 76,71,Ninety Nine (Flash The Message),John Forte,John Forte,hip-hop,hip-hop,19980530,74,59,16,19980822
 77,NEW,Here We Go,Funkmaster Flex Presents Khadejia Featuring Product,Funkmaster Flex Presents Khadejia,pop,unknown,19980822,77,72,14,19980822
 78,57,There's Your Trouble,Dixie Chicks,Dixie Chicks,country / folk,country,19980516,85,36,16,19980822
-79,85,One Heart At A Time,Various Artists,Various Artists,pop,electronic,19980530,93,56,20,19980822
+79,85,One Heart At A Time,Various Artists,Various Artists,electronic,electronic,19980530,93,56,20,19980822
 80,77,The Cup Of Life,Ricky Martin,Ricky Martin,pop,latin,19980627,90,60,16,19980822
 81,80,Spark,Tori Amos,Tori Amos,pop,female vocalists,19980627,53,49,14,19980822
 82,83,2 Way Street,Missjones,Missjones,rnb / soul,soul,19980704,82,62,13,19980822
@@ -1889,7 +1889,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 88,86,There You Are,Sam Salter,Sam Salter,rnb / soul,rnb,19980620,95,57,12,19980822
 89,88,Wishlist,Pearl Jam,Pearl Jam,rock,grunge,19980523,48,47,20,19980822
 90,90,I Can Do That,Montell Jordan,Montell Jordan,rnb / soul,rnb,19980815,90,14,16,19980822
-91,93,The Rockafeller Skank,Fatboy Slim,Fatboy Slim,pop,electronic,19980808,91,84,8,19980822
+91,93,The Rockafeller Skank,Fatboy Slim,Fatboy Slim,electronic,electronic,19980808,91,84,8,19980822
 92,81,Freak Out,Nutta Butta Featuring Teddy Riley & Anonymous,Nutta Butta,hip-hop,hip-hop,19980620,84,63,11,19980822
 93,91,Push It,Garbage,Garbage,rock,rock,19980509,52,52,18,19980822
 94,NEW,Definition,Mos Def & Kweli Are Black Star,Mos Def,hip-hop,hip-hop,19980822,94,60,10,19980822
@@ -1983,7 +1983,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 82,68,Ding-A-Ling,Hi-Town Dj'S,Hi-Town Djs,hip-hop,hip-hop,19980502,93,56,19,19980815
 83,62,2 Way Street,Missjones,Missjones,rnb / soul,soul,19980704,82,62,13,19980815
 84,83,Recover Your Soul,Elton John,Elton John,pop,pop,19980418,67,55,20,19980815
-85,84,One Heart At A Time,Various Artists,Various Artists,pop,electronic,19980530,93,56,20,19980815
+85,84,One Heart At A Time,Various Artists,Various Artists,electronic,electronic,19980530,93,56,20,19980815
 86,78,There You Are,Sam Salter,Sam Salter,rnb / soul,rnb,19980620,95,57,12,19980815
 87,87,Do Your Thing,7 Mile,7 Mile,rnb / soul,soul,19980425,98,50,19,19980815
 88,80,Wishlist,Pearl Jam,Pearl Jam,rock,grunge,19980523,48,47,20,19980815
@@ -1991,7 +1991,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 90,NEW,I Can Do That,Montell Jordan,Montell Jordan,rnb / soul,rnb,19980815,90,14,16,19980815
 91,85,Push It,Garbage,Garbage,rock,rock,19980509,52,52,18,19980815
 92,86,Love For Free,Rell Featuring Jay-Z,Rell,rnb / soul,rnb,19980801,88,86,3,19980815
-93,91,The Rockafeller Skank,Fatboy Slim,Fatboy Slim,pop,electronic,19980808,91,84,8,19980815
+93,91,The Rockafeller Skank,Fatboy Slim,Fatboy Slim,electronic,electronic,19980808,91,84,8,19980815
 94,93,Love The Way,Eol,Eol,pop,contemporary classical,19980711,89,79,6,19980815
 95,95,Cover You In Kisses,John Michael Montgomery,John Michael Montgomery,country / folk,country,19980801,91,91,9,19980815
 96,88,Now That I Found You,Terri Clark,Terri Clark,country / folk,country,19980523,89,72,13,19980815
@@ -2082,14 +2082,14 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 81,63,Freak Out,Nutta Butta Featuring Teddy Riley & Anonymous,Nutta Butta,hip-hop,hip-hop,19980620,84,63,11,19980808
 82,NEW,Touch It,Monifah,Monifah,rnb / soul,rnb,19980808,82,9,26,19980808
 83,86,Recover Your Soul,Elton John,Elton John,pop,pop,19980418,67,55,20,19980808
-84,82,One Heart At A Time,Various Artists,Various Artists,pop,electronic,19980530,93,56,20,19980808
+84,82,One Heart At A Time,Various Artists,Various Artists,electronic,electronic,19980530,93,56,20,19980808
 85,73,Push It,Garbage,Garbage,rock,rock,19980509,52,52,18,19980808
 86,88,Love For Free,Rell Featuring Jay-Z,Rell,rnb / soul,rnb,19980801,88,86,3,19980808
 87,79,Do Your Thing,7 Mile,7 Mile,rnb / soul,soul,19980425,98,50,19,19980808
 88,81,Now That I Found You,Terri Clark,Terri Clark,country / folk,country,19980523,89,72,13,19980808
 89,NEW,Delicious,Pure Sugar,Pure Sugar,pop,pop,19980808,89,66,12,19980808
 90,80,I Honestly Love You,Olivia Newton-John,Olivia Newton-John,pop,pop,19980530,71,67,12,19980808
-91,NEW,The Rockafeller Skank,Fatboy Slim,Fatboy Slim,pop,electronic,19980808,91,84,8,19980808
+91,NEW,The Rockafeller Skank,Fatboy Slim,Fatboy Slim,electronic,electronic,19980808,91,84,8,19980808
 92,93,Not About Romance,Inner Circle,Inner Circle,reggae,reggae,19980801,93,92,6,19980808
 93,95,Love The Way,Eol,Eol,pop,contemporary classical,19980711,89,79,6,19980808
 94,94,I Just Want To Dance With You,George Strait,George Strait,country / folk,country,19980425,90,61,19,19980808
@@ -2180,7 +2180,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 79,51,Do Your Thing,7 Mile,7 Mile,rnb / soul,soul,19980425,98,50,19,19980801
 80,85,I Honestly Love You,Olivia Newton-John,Olivia Newton-John,pop,pop,19980530,71,67,12,19980801
 81,91,Now That I Found You,Terri Clark,Terri Clark,country / folk,country,19980523,89,72,13,19980801
-82,68,One Heart At A Time,Various Artists,Various Artists,pop,electronic,19980530,93,56,20,19980801
+82,68,One Heart At A Time,Various Artists,Various Artists,electronic,electronic,19980530,93,56,20,19980801
 83,92,There You Are,Sam Salter,Sam Salter,rnb / soul,rnb,19980620,95,57,12,19980801
 84,NEW,26 Cents,The Wilkinsons,The Wilkinsons,country / folk,country,19980801,84,55,18,19980801
 85,83,"Money, Power & Respect",The Lox Featuring Dmx & Lil' Kim,The Lox,hip-hop,rap,19980404,41,17,20,19980801
@@ -2266,7 +2266,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 65,64,If You Ever Have Forever In Mind,Vince Gill,Vince Gill,country / folk,country,19980704,75,60,13,19980725
 66,76,2 Way Street,Missjones,Missjones,rnb / soul,soul,19980704,82,62,13,19980725
 67,63,Freak Out,Nutta Butta Featuring Teddy Riley & Anonymous,Nutta Butta,hip-hop,hip-hop,19980620,84,63,11,19980725
-68,69,One Heart At A Time,Various Artists,Various Artists,pop,electronic,19980530,93,56,20,19980725
+68,69,One Heart At A Time,Various Artists,Various Artists,electronic,electronic,19980530,93,56,20,19980725
 69,67,Ninety Nine (Flash The Message),John Forte,John Forte,hip-hop,hip-hop,19980530,74,59,16,19980725
 70,71,Can't We Try,Rockell & Collage,Rockell,pop,freestyle,19980704,78,59,20,19980725
 71,NEW,Remember When,Color Me Badd,Color Me Badd,pop,90s,19980725,71,48,13,19980725
@@ -2367,7 +2367,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 66,58,Spark,Tori Amos,Tori Amos,pop,female vocalists,19980627,53,49,14,19980718
 67,69,Ninety Nine (Flash The Message),John Forte,John Forte,hip-hop,hip-hop,19980530,74,59,16,19980718
 68,NEW,Horse And Carriage,Cam'Ron Featuring Mase,Cam'Ron,hip-hop,hip-hop,19980718,68,41,17,19980718
-69,71,One Heart At A Time,Various Artists,Various Artists,pop,electronic,19980530,93,56,20,19980718
+69,71,One Heart At A Time,Various Artists,Various Artists,electronic,electronic,19980530,93,56,20,19980718
 70,65,"Money, Power & Respect",The Lox Featuring Dmx & Lil' Kim,The Lox,hip-hop,rap,19980404,41,17,20,19980718
 71,73,Can't We Try,Rockell & Collage,Rockell,pop,freestyle,19980704,78,59,20,19980718
 72,67,Wishlist,Pearl Jam,Pearl Jam,rock,grunge,19980523,48,47,20,19980718
@@ -2469,7 +2469,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 68,58,Imagination,Tamia,Tamia,rnb / soul,rnb,19980321,68,37,20,19980711
 69,66,Ninety Nine (Flash The Message),John Forte,John Forte,hip-hop,hip-hop,19980530,74,59,16,19980711
 70,70,There You Are,Sam Salter,Sam Salter,rnb / soul,rnb,19980620,95,57,12,19980711
-71,61,One Heart At A Time,Various Artists,Various Artists,pop,electronic,19980530,93,56,20,19980711
+71,61,One Heart At A Time,Various Artists,Various Artists,electronic,electronic,19980530,93,56,20,19980711
 72,65,Recover Your Soul,Elton John,Elton John,pop,pop,19980418,67,55,20,19980711
 73,78,Can't We Try,Rockell & Collage,Rockell,pop,freestyle,19980704,78,59,20,19980711
 74,59,Bitter Sweet Symphony,The Verve,The Verve,pop,britpop,19980328,13,12,20,19980711
@@ -2559,7 +2559,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 58,51,Imagination,Tamia,Tamia,rnb / soul,rnb,19980321,68,37,20,19980704
 59,56,Bitter Sweet Symphony,The Verve,The Verve,pop,britpop,19980328,13,12,20,19980704
 60,NEW,Cleopatra's Theme,Cleopatra,Cleopatra,pop,pop,19980704,60,26,19,19980704
-61,61,One Heart At A Time,Various Artists,Various Artists,pop,electronic,19980530,93,56,20,19980704
+61,61,One Heart At A Time,Various Artists,Various Artists,electronic,electronic,19980530,93,56,20,19980704
 62,90,The Cup Of Life,Ricky Martin,Ricky Martin,pop,latin,19980627,90,60,16,19980704
 63,91,Black Ice (Sky High),Goodie Mob Featuring Outkast,Goodie Mob,hip-hop,hip-hop,19980627,91,50,15,19980704
 64,64,I'm Alright,Jo Dee Messina,Jo Dee Messina,country / folk,country,19980314,61,43,20,19980704
@@ -2659,7 +2659,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 58,66,Do Your Thing,7 Mile,7 Mile,rnb / soul,soul,19980425,98,50,19,19980627
 59,62,Ninety Nine (Flash The Message),John Forte,John Forte,hip-hop,hip-hop,19980530,74,59,16,19980627
 60,51,Romeo And Juliet,Sylk-E Fyne Featuring Chill,Sylk-E Fyne,pop,westcoast,19980214,87,6,20,19980627
-61,58,One Heart At A Time,Various Artists,Various Artists,pop,electronic,19980530,93,56,20,19980627
+61,58,One Heart At A Time,Various Artists,Various Artists,electronic,electronic,19980530,93,56,20,19980627
 62,56,Second Round K.O.,Canibus,Canibus,hip-hop,hip-hop,19980411,35,28,15,19980627
 63,59,Recover Your Soul,Elton John,Elton John,pop,pop,19980418,67,55,20,19980627
 64,61,I'm Alright,Jo Dee Messina,Jo Dee Messina,country / folk,country,19980314,61,43,20,19980627
@@ -2756,7 +2756,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 55,53,Push It,Garbage,Garbage,rock,rock,19980509,52,52,18,19980620
 56,51,Second Round K.O.,Canibus,Canibus,hip-hop,hip-hop,19980411,35,28,15,19980620
 57,54,Clock Strikes,Timbaland,Timbaland,hip-hop,hip-hop,19980502,38,37,14,19980620
-58,56,One Heart At A Time,Various Artists,Various Artists,pop,electronic,19980530,93,56,20,19980620
+58,56,One Heart At A Time,Various Artists,Various Artists,electronic,electronic,19980530,93,56,20,19980620
 59,59,Recover Your Soul,Elton John,Elton John,pop,pop,19980418,67,55,20,19980620
 60,65,There's Your Trouble,Dixie Chicks,Dixie Chicks,country / folk,country,19980516,85,36,16,19980620
 61,58,I'm Alright,Jo Dee Messina,Jo Dee Messina,country / folk,country,19980314,61,43,20,19980620
@@ -2854,7 +2854,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 53,54,Push It,Garbage,Garbage,rock,rock,19980509,52,52,18,19980613
 54,52,Clock Strikes,Timbaland,Timbaland,hip-hop,hip-hop,19980502,38,37,14,19980613
 55,53,This Is How We Party,S.O.A.P.,S.O.A.P.,pop,pop,19980418,82,51,12,19980613
-56,63,One Heart At A Time,Various Artists,Various Artists,pop,electronic,19980530,93,56,20,19980613
+56,63,One Heart At A Time,Various Artists,Various Artists,electronic,electronic,19980530,93,56,20,19980613
 57,64,When The Lights Go Out,Five,Five,pop,pop,19980606,64,10,26,19980613
 58,61,I'm Alright,Jo Dee Messina,Jo Dee Messina,country / folk,country,19980314,61,43,20,19980613
 59,58,Recover Your Soul,Elton John,Elton John,pop,pop,19980418,67,55,20,19980613
@@ -2961,7 +2961,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 60,55,The Mummers' Dance,Loreena Mckennitt,Loreena Mckennitt,pop,celtic,19980307,19,18,20,19980606
 61,57,I'm Alright,Jo Dee Messina,Jo Dee Messina,country / folk,country,19980314,61,43,20,19980606
 62,58,The Party Continues,Jd Featuring Da Brat,Jd,rock,indie,19980307,39,29,19,19980606
-63,93,One Heart At A Time,Various Artists,Various Artists,pop,electronic,19980530,93,56,20,19980606
+63,93,One Heart At A Time,Various Artists,Various Artists,electronic,electronic,19980530,93,56,20,19980606
 64,NEW,When The Lights Go Out,Five,Five,pop,pop,19980606,64,10,26,19980606
 65,61,I Just Want To Dance With You,George Strait,George Strait,country / folk,country,19980425,90,61,19,19980606
 66,60,Gitty Up,Salt-N-Pepa,Salt-N-Pepa,hip-hop,hip-hop,19980328,66,50,14,19980606
@@ -3091,7 +3091,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 90,81,Come Over To My Place,Davina,Davina,rnb / soul,soul,19980418,96,81,9,19980530
 91,79,Light In Your Eyes,Blessid Union Of Souls,Blessid Union Of Souls,pop,pop,19980214,48,48,19,19980530
 92,86,"Have Fun, Go Mad",Blair,Blair,rock,indie,19980523,86,86,4,19980530
-93,NEW,One Heart At A Time,Various Artists,Various Artists,pop,electronic,19980530,93,56,20,19980530
+93,NEW,One Heart At A Time,Various Artists,Various Artists,electronic,electronic,19980530,93,56,20,19980530
 94,76,Moan & Groan,Mark Morrison,Mark Morrison,rnb / soul,rnb,19980418,94,76,7,19980530
 95,75,It's Your Love,She Moves,She Moves,pop,pop,19980321,89,67,15,19980530
 96,88,Superhero,Daze,Daze,electronic,eurodance,19980523,88,88,3,19980530
@@ -4792,7 +4792,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 91,91,Spin Spin Sugar,Sneaker Pimps,Sneaker Pimps,pop,trip-hop,19980117,93,91,4,19980131
 92,84,In Harm's Way,Bebe Winans,Bebe Winans,pop,gospel,19971122,89,80,17,19980131
 93,89,Mourn Till I Joing You,Naughty By Nature,Naughty By Nature,hip-hop,hip-hop,19971115,51,51,12,19980131
-94,93,Smack My Bitch Up,Prodigy,Prodigy,pop,electronic,19971220,90,89,7,19980131
+94,93,Smack My Bitch Up,Prodigy,Prodigy,electronic,electronic,19971220,90,89,7,19980131
 95,95,Much Better,Club 69 Featuring Suzanne Palmer,Club 69,electronic,house,19980124,95,95,3,19980131
 96,79,"Too Gone, Too Long",En Vogue,En Vogue,rnb / soul,rnb,19971011,44,33,17,19980131
 97,87,Doin' Time,Sublime,Sublime,pop,ska,19971220,96,87,7,19980131
@@ -4891,7 +4891,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 90,NEW,Tha Hop,Kinsu,Kinsu,hip-hop,rap,19980124,90,88,8,19980124
 91,93,Spin Spin Sugar,Sneaker Pimps,Sneaker Pimps,pop,trip-hop,19980117,93,91,4,19980124
 92,92,Up & Down,Billy Lawrence,Billy Lawrence,pop,chillout,19980117,92,92,3,19980124
-93,89,Smack My Bitch Up,Prodigy,Prodigy,pop,electronic,19971220,90,89,7,19980124
+93,89,Smack My Bitch Up,Prodigy,Prodigy,electronic,electronic,19971220,90,89,7,19980124
 94,90,Something That We Do,Clint Black,Clint Black,country / folk,country,19971220,76,76,7,19980124
 95,NEW,Much Better,Club 69 Featuring Suzanne Palmer,Club 69,electronic,house,19980124,95,95,3,19980124
 96,96,Rhythm Of Love,Dj Company,Dj Company,electronic,eurodance,19980117,96,96,2,19980124
@@ -4987,7 +4987,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 86,99,"4,3,2,1","Ll Cool J Feat Method Man, Redman, Dmx, Canibus & Master P",Ll Cool J Feat Method Man,pop,unknown,19971227,75,75,12,19980117
 87,97,Doin' Time,Sublime,Sublime,pop,ska,19971220,96,87,7,19980117
 88,88,Man Behind The Music,Queen Pen Featuring Teddy Riley,Queen Pen,hip-hop,rap,19971213,92,84,9,19980117
-89,96,Smack My Bitch Up,Prodigy,Prodigy,pop,electronic,19971220,90,89,7,19980117
+89,96,Smack My Bitch Up,Prodigy,Prodigy,electronic,electronic,19971220,90,89,7,19980117
 90,82,Something That We Do,Clint Black,Clint Black,country / folk,country,19971220,76,76,7,19980117
 91,74,Santa's A Fat Bitch,Insane Clown Posse,Insane Clown Posse,pop,horrorcore,19971227,67,67,5,19980117
 92,NEW,Up & Down,Billy Lawrence,Billy Lawrence,pop,chillout,19980117,92,92,3,19980117
@@ -5077,7 +5077,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 76,74,One More Night,Amber,Amber,electronic,dance,19971018,89,58,20,19980110
 77,77,I Wonder If Heaven Got A Ghetto,2 Pac,2 Pac,hip-hop,rap,19971213,73,67,11,19980110
 78,78,Deja Vu (Uptown Baby),Lord Tariq & Peter Gunz,Lord Tariq & Peter Gunz,hip-hop,hip-hop,19971227,80,9,26,19980110
-79,75,Around The World,Daft Punk,Daft Punk,pop,electronic,19970830,68,61,20,19980110
+79,75,Around The World,Daft Punk,Daft Punk,electronic,electronic,19970830,68,61,20,19980110
 80,81,Mourn Till I Joing You,Naughty By Nature,Naughty By Nature,hip-hop,hip-hop,19971115,51,51,12,19980110
 81,80,L-L-Lies,Diana King,Diana King,reggae,reggae,19971122,96,71,15,19980110
 82,76,Something That We Do,Clint Black,Clint Black,country / folk,country,19971220,76,76,7,19980110
@@ -5094,7 +5094,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 93,NEW,"Young, Sad And Blue",Lysette,Lysette,pop,electronica,19980110,93,75,10,19980110
 94,90,All Of My Days,Changing Faces Featuring Jay-Z,Changing Faces,rnb / soul,rnb,19971108,88,65,12,19980110
 95,100,Brian Wilson,Barenaked Ladies,Barenaked Ladies,rock,rock,19971122,92,68,20,19980110
-96,96,Smack My Bitch Up,Prodigy,Prodigy,pop,electronic,19971220,90,89,7,19980110
+96,96,Smack My Bitch Up,Prodigy,Prodigy,electronic,electronic,19971220,90,89,7,19980110
 97,99,Doin' Time,Sublime,Sublime,pop,ska,19971220,96,87,7,19980110
 98,88,Only If...,Enya,Enya,pop,new age,19980103,88,88,3,19980110
 99,86,"4,3,2,1","Ll Cool J Feat Method Man, Redman, Dmx, Canibus & Master P",Ll Cool J Feat Method Man,pop,unknown,19971227,75,75,12,19980110
@@ -5173,7 +5173,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 72,70,Last Night's Letter,K-Ci & Jojo,K-Ci & Jojo,rnb / soul,rnb,19971004,84,46,20,19980103
 73,73,Don't Stop The Music,Playa,Playa,rnb / soul,rnb,19971115,93,73,15,19980103
 74,72,One More Night,Amber,Amber,electronic,dance,19971018,89,58,20,19980103
-75,81,Around The World,Daft Punk,Daft Punk,pop,electronic,19970830,68,61,20,19980103
+75,81,Around The World,Daft Punk,Daft Punk,electronic,electronic,19970830,68,61,20,19980103
 76,76,Something That We Do,Clint Black,Clint Black,country / folk,country,19971220,76,76,7,19980103
 77,79,I Wonder If Heaven Got A Ghetto,2 Pac,2 Pac,hip-hop,rap,19971213,73,67,11,19980103
 78,80,Deja Vu (Uptown Baby),Lord Tariq & Peter Gunz,Lord Tariq & Peter Gunz,hip-hop,hip-hop,19971227,80,9,26,19980103
@@ -5194,7 +5194,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 93,NEW,What If I Said,Anita Cochran & Steve Wariner,Anita Cochran,country / folk,country,19980103,93,59,15,19980103
 94,89,Man Behind The Music,Queen Pen Featuring Teddy Riley,Queen Pen,hip-hop,rap,19971213,92,84,9,19980103
 95,97,I'm So Happy I Can't Stop Crying,Toby Keith & Sting,Toby Keith & Sting,country / folk,country,19971206,93,84,5,19980103
-96,90,Smack My Bitch Up,Prodigy,Prodigy,pop,electronic,19971220,90,89,7,19980103
+96,90,Smack My Bitch Up,Prodigy,Prodigy,electronic,electronic,19971220,90,89,7,19980103
 97,94,Don't Go,Le Click Featuring Kayo,Le Click,electronic,dance,19970927,79,62,15,19980103
 98,99,Up & Down,Billy Lawrence,Billy Lawrence,pop,chillout,19971213,93,92,4,19980103
 99,96,Doin' Time,Sublime,Sublime,pop,ska,19971220,96,87,7,19980103
