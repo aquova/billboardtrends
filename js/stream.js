@@ -148,6 +148,10 @@ function constructStream() {
       .style("fill", function(d, i) { return colorScale(i); })
       .on("mouseover", (d) => { console.log(d.key) });
 
+    pathAx = pathg.append('g');
+    pathAx.call(xAxis);
+    pathAx.attr('transform','translate(0,230)');
+
     var brush = svg.append("g")
     .attr("class", "brush")
     .call(d3.brushX().extent([[margin.left,margin.top],[widthy - 2*margin.left - 2*margin.right,100 + margin.top]])
@@ -166,6 +170,12 @@ function constructStream() {
             .attr("d", function(d) { return area(d); })
               .style("fill", function(d, i) { return colorScale(i); })
               .on("mouseover", (d) => { console.log(d.key) });
+
+        var xAxis = d3.axisBottom(xScale).tickFormat(d3.format("d"));;
+        pathAx.remove();
+        pathAx = pathg.append('g');
+        pathAx.call(xAxis);
+        pathAx.attr('transform','translate(0,230)');
 
     }));
     brush.select('.overlay')
