@@ -5,25 +5,31 @@
 const tileWidth = 100
 const tileHeight = 100
 const tileScale = d3.scaleOrdinal().range(d3.schemeCategory20c)
+var loadedWidth
 
 var tileXscale = d3.scaleLinear().domain([0, tileWidth]).range([0, tileWidth])
 var tileYscale = d3.scaleLinear().domain([0, tileHeight]).range([0, tileHeight])
 var div = d3.select("#tilegraph")
 
-var brushSection = d3.select("#tilebrush").append("svg").attr("height", 50).attr("width", "100%")
-// This needs to be made dynamic
-var brushScale = d3.scaleLinear().domain([0, 1000]).range([1941, 2018])
+window.onload = function() {
+    var brushSection = d3.select("#tilebrush").append("svg").attr("height", 50).attr("width", "100%")
+    // This needs to be made dynamic
+    loadedWidth = document.getElementById("tilegraph").clientWidth
+    var brushScale = d3.scaleLinear().domain([0, loadedWidth]).range([1941, 2018])
 
-var brush = d3.brushX()
-.extent([[0,0],[1000,50]])
-.on("end", function() {
-    var selection = d3.event.selection[0]
-    var new_year = Math.floor(brushScale(selection)).toString()
-    readData(new_year)
-})
+    var brush = d3.brushX()
+    .extent([[0, 0],[loadedWidth, 50]])
+    .on("end", function() {
+        var selection = d3.event.selection[0]
+        var new_year = Math.floor(brushScale(selection)).toString()
+        readData(new_year)
+    })
 
-var g = brushSection.append("g").attr("class", "brush tileBrush").call(brush)
-brush.move(g, [10, 30])
+    var g = brushSection.append("g").attr("class", "brush tileBrush").call(brush)
+    brush.move(g, [brushScale.invert(2012), brushScale.invert(2013)])
+
+    readData("2012")
+}
 
 function readData(year) {
     var filepath = "data/charts/" + year + ".csv"
@@ -199,4 +205,3 @@ function mainTile(year, raw_data) {
     }
 }
 
-readData("2012")
