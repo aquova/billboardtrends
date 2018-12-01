@@ -80,7 +80,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 79,41,You'll Never Never Know,The Platters,The Platters,pop,oldies,19560919,54,14,18,19561226
 80,99,Crazy With Love,Guy Mitchell,Guy Mitchell,country / folk,country,19561121,53,53,13,19561226
 81,60,Blueberry Hill,Louis Armstrong & Gordon Jenkins And His Orchestra & Chorus,Louis Armstrong,jazz,jazz,19561219,60,60,4,19561226
-82,34,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,orchestra,19560704,63,2,29,19561226
+82,34,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,50s,19560704,63,2,29,19561226
 83,72,In The Still Of The Nite,The Five Satins,The Five Satins,pop,doo wop,19560829,95,29,18,19561226
 84,63,Canadian Sunset,Andy Williams,Andy Williams,pop,oldies,19560801,77,8,22,19561226
 85,NEW,I Wouldn't Know Where To Begin,Eddy Arnold,Eddy Arnold,country / folk,country,19561226,85,85,2,19561226
@@ -132,7 +132,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 31,40,I Dreamed,Betty Johnson,Betty Johnson,rock,rockabilly,19561114,66,13,21,19561219
 32,29,Auctioneer,Leroy Van Dyke,Leroy Van Dyke,country / folk,country,19561114,83,29,15,19561219
 33,34,Baby Doll,Andy Williams,Andy Williams,pop,oldies,19561128,54,33,13,19561219
-34,26,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,orchestra,19560704,63,2,29,19561219
+34,26,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,50s,19560704,63,2,29,19561219
 35,37,Petticoats Of Portugal,Dick Jacobs And His Chorus And Orchestra,Dick Jacobs And His Chorus And Orchestra,pop,unknown,19561017,45,20,13,19561219
 36,32,Priscilla,Eddie Cooley And The Dimples,Eddie Cooley And The Dimples,pop,unknown,19561017,73,26,13,19561219
 37,NEW,Jim Dandy,Lavern Baker And The Gliders,Lavern Baker And The Gliders,pop,rhythm and blues,19561219,37,22,20,19561219
@@ -224,7 +224,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 23,40,Jamaica Farewell,Harry Belafonte,Harry Belafonte,pop,calypso,19561010,63,17,25,19561212
 24,21,Moonlight Gambler,Frankie Laine,Frankie Laine,country / folk,country,19561121,51,4,22,19561212
 25,25,Mutual Admiration Society,Teresa Brewer,Teresa Brewer,pop,50s,19561031,78,21,14,19561212
-26,22,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,orchestra,19560704,63,2,29,19561212
+26,22,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,50s,19560704,63,2,29,19561212
 27,27,I Walk The Line,Johnny Cash,Johnny Cash,country / folk,country,19560905,64,19,19,19561212
 28,24,Slow Walk,Sil Austin,Sil Austin,jazz,jazz,19561031,53,19,14,19561212
 29,31,Auctioneer,Leroy Van Dyke,Leroy Van Dyke,country / folk,country,19561114,83,29,15,19561212
@@ -320,7 +320,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 19,24,Two Different Worlds,Don Rondo,Don Rondo,pop,50s,19561017,51,19,18,19561205
 20,27,Confidential,Sonny Knight,Sonny Knight,rock,rock and roll,19561107,46,20,13,19561205
 21,31,Moonlight Gambler,Frankie Laine,Frankie Laine,country / folk,country,19561121,51,4,22,19561205
-22,18,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,orchestra,19560704,63,2,29,19561205
+22,18,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,50s,19560704,63,2,29,19561205
 23,29,Rock-A-Bye Your Baby With A Dixie Melody,Jerry Lee Lewis,Jerry Lee Lewis,rock,rockabilly,19561114,63,12,19,19561205
 24,19,Slow Walk,Sil Austin,Sil Austin,jazz,jazz,19561031,53,19,14,19561205
 25,21,Mutual Admiration Society,Teresa Brewer,Teresa Brewer,pop,50s,19561031,78,21,14,19561205
@@ -416,7 +416,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 15,14,"Cindy, Oh Cindy",Vince Martin And The Tarriers,Vince Martin And The Tarriers,pop,unknown,19561003,49,12,19,19561128
 16,18,Night Lights,Nat King Cole,Nat King Cole,jazz,jazz,19561017,50,16,17,19561128
 17,25,Love Me (From The Elvis (Part1) EP),Elvis Presley,Elvis Presley,rock,rock n roll,19561107,85,6,18,19561128
-18,11,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,orchestra,19560704,63,2,29,19561128
+18,11,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,50s,19560704,63,2,29,19561128
 19,44,Slow Walk,Sil Austin,Sil Austin,jazz,jazz,19561031,53,19,14,19561128
 20,21,Petticoats Of Portugal,Dick Jacobs And His Chorus And Orchestra,Dick Jacobs And His Chorus And Orchestra,pop,unknown,19561017,45,20,13,19561128
 21,22,Mutual Admiration Society,Teresa Brewer,Teresa Brewer,pop,50s,19561031,78,21,14,19561128
@@ -509,7 +509,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 8,8,Friendly Persuasion (Thee I Love),Pat Boone,Pat Boone,pop,oldies,19560905,88,8,24,19561121
 9,9,Honky Tonk (Parts 1 And 2),Bill Doggett,Bill Doggett,jazz,jazz,19560808,54,2,29,19561121
 10,11,Hey Jealous Lover,Frank Sinatra,Frank Sinatra,jazz,jazz,19561017,44,6,19,19561121
-11,10,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,orchestra,19560704,63,2,29,19561121
+11,10,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,50s,19560704,63,2,29,19561121
 12,15,A Rose And A Baby Ruth,George Hamilton Iv,George Hamilton Iv,country / folk,country,19561024,74,7,18,19561121
 13,14,"Cindy, Oh Cindy",Eddie Fisher,Eddie Fisher,jazz,jazz,19561010,40,10,19,19561121
 14,12,"Cindy, Oh Cindy",Vince Martin And The Tarriers,Vince Martin And The Tarriers,pop,unknown,19561003,49,12,19,19561121
@@ -608,7 +608,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 7,6,True Love,Bing Crosby & Grace Kelly,Bing Crosby & Grace Kelly,pop,soundtrack,19560829,67,4,29,19561114
 8,10,Friendly Persuasion (Thee I Love),Pat Boone,Pat Boone,pop,oldies,19560905,88,8,24,19561114
 9,8,Honky Tonk (Parts 1 And 2),Bill Doggett,Bill Doggett,jazz,jazz,19560808,54,2,29,19561114
-10,9,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,orchestra,19560704,63,2,29,19561114
+10,9,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,50s,19560704,63,2,29,19561114
 11,15,Hey Jealous Lover,Frank Sinatra,Frank Sinatra,jazz,jazz,19561017,44,6,19,19561114
 12,13,"Cindy, Oh Cindy",Vince Martin And The Tarriers,Vince Martin And The Tarriers,pop,unknown,19561003,49,12,19,19561114
 13,11,Tonight You Belong To Me,Patience And Prudence,Patience And Prudence,pop,female vocalists,19560725,68,6,25,19561114
@@ -707,7 +707,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 6,8,True Love,Bing Crosby & Grace Kelly,Bing Crosby & Grace Kelly,pop,soundtrack,19560829,67,4,29,19561107
 7,6,Blueberry Hill,Fats Domino,Fats Domino,rock,blues,19560926,73,4,27,19561107
 8,5,Honky Tonk (Parts 1 And 2),Bill Doggett,Bill Doggett,jazz,jazz,19560808,54,2,29,19561107
-9,7,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,orchestra,19560704,63,2,29,19561107
+9,7,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,50s,19560704,63,2,29,19561107
 10,9,Friendly Persuasion (Thee I Love),Pat Boone,Pat Boone,pop,oldies,19560905,88,8,24,19561107
 11,11,Tonight You Belong To Me,Patience And Prudence,Patience And Prudence,pop,female vocalists,19560725,68,6,25,19561107
 12,17,"Cindy, Oh Cindy",Eddie Fisher,Eddie Fisher,jazz,jazz,19561010,40,10,19,19561107
@@ -805,7 +805,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 4,3,Just Walking In The Rain,Johnnie Ray,Johnnie Ray,pop,50s,19560822,96,2,28,19561031
 5,6,Honky Tonk (Parts 1 And 2),Bill Doggett,Bill Doggett,jazz,jazz,19560808,54,2,29,19561031
 6,8,Blueberry Hill,Fats Domino,Fats Domino,rock,blues,19560926,73,4,27,19561031
-7,5,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,orchestra,19560704,63,2,29,19561031
+7,5,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,50s,19560704,63,2,29,19561031
 8,11,True Love,Bing Crosby & Grace Kelly,Bing Crosby & Grace Kelly,pop,soundtrack,19560829,67,4,29,19561031
 9,9,Friendly Persuasion (Thee I Love),Pat Boone,Pat Boone,pop,oldies,19560905,88,8,24,19561031
 10,19,Singing The Blues,Guy Mitchell,Guy Mitchell,country / folk,country,19561017,72,1,25,19561031
@@ -903,7 +903,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 2,1,Don't Be Cruel,Elvis Presley,Elvis Presley,rock,rock n roll,19560801,28,1,27,19561024
 3,2,Just Walking In The Rain,Johnnie Ray,Johnnie Ray,pop,50s,19560822,96,2,28,19561024
 4,6,Love Me Tender,Elvis Presley,Elvis Presley,rock,rock n roll,19561010,12,1,22,19561024
-5,5,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,orchestra,19560704,63,2,29,19561024
+5,5,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,50s,19560704,63,2,29,19561024
 6,4,Honky Tonk (Parts 1 And 2),Bill Doggett,Bill Doggett,jazz,jazz,19560808,54,2,29,19561024
 7,7,Tonight You Belong To Me,Patience And Prudence,Patience And Prudence,pop,female vocalists,19560725,68,6,25,19561024
 8,12,Blueberry Hill,Fats Domino,Fats Domino,rock,blues,19560926,73,4,27,19561024
@@ -1003,7 +1003,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 2,5,Just Walking In The Rain,Johnnie Ray,Johnnie Ray,pop,50s,19560822,96,2,28,19561017
 3,4,The Green Door,Jim Lowe,Jim Lowe,pop,50s,19560912,54,1,26,19561017
 4,3,Honky Tonk (Parts 1 And 2),Bill Doggett,Bill Doggett,jazz,jazz,19560808,54,2,29,19561017
-5,2,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,orchestra,19560704,63,2,29,19561017
+5,2,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,50s,19560704,63,2,29,19561017
 6,12,Love Me Tender,Elvis Presley,Elvis Presley,rock,rock n roll,19561010,12,1,22,19561017
 7,6,Tonight You Belong To Me,Patience And Prudence,Patience And Prudence,pop,female vocalists,19560725,68,6,25,19561017
 8,8,"Whatever Will Be, Will Be (Que Sera, Sera)",Doris Day,Doris Day,jazz,jazz,19560613,78,2,27,19561017
@@ -1100,7 +1100,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 99,NEW,Heaven On Earth,The Platters,The Platters,pop,oldies,19561017,99,99,1,19561017
 100,76,It's Yours,The Decastro Sisters,The Decastro Sisters,pop,vocal,19561010,76,76,2,19561017
 1,1,Don't Be Cruel,Elvis Presley,Elvis Presley,rock,rock n roll,19560801,28,1,27,19561010
-2,3,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,orchestra,19560704,63,2,29,19561010
+2,3,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,50s,19560704,63,2,29,19561010
 3,2,Honky Tonk (Parts 1 And 2),Bill Doggett,Bill Doggett,jazz,jazz,19560808,54,2,29,19561010
 4,9,The Green Door,Jim Lowe,Jim Lowe,pop,50s,19560912,54,1,26,19561010
 5,5,Just Walking In The Rain,Johnnie Ray,Johnnie Ray,pop,50s,19560822,96,2,28,19561010
@@ -1201,7 +1201,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 100,50,The Wayward Wind,Gogi Grant,Gogi Grant,pop,female vocalists,19560418,58,1,28,19561010
 1,1,Don't Be Cruel,Elvis Presley,Elvis Presley,rock,rock n roll,19560801,28,1,27,19561003
 2,7,Honky Tonk (Parts 1 And 2),Bill Doggett,Bill Doggett,jazz,jazz,19560808,54,2,29,19561003
-3,4,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,orchestra,19560704,63,2,29,19561003
+3,4,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,50s,19560704,63,2,29,19561003
 4,3,My Prayer,The Platters,The Platters,pop,oldies,19560627,38,1,22,19561003
 5,8,Just Walking In The Rain,Johnnie Ray,Johnnie Ray,pop,50s,19560822,96,2,28,19561003
 6,2,Hound Dog,Elvis Presley,Elvis Presley,rock,rock n roll,19560725,24,2,25,19561003
@@ -1302,7 +1302,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 1,1,Don't Be Cruel,Elvis Presley,Elvis Presley,rock,rock n roll,19560801,28,1,27,19560926
 2,3,Hound Dog,Elvis Presley,Elvis Presley,rock,rock n roll,19560725,24,2,25,19560926
 3,2,My Prayer,The Platters,The Platters,pop,oldies,19560627,38,1,22,19560926
-4,4,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,orchestra,19560704,63,2,29,19560926
+4,4,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,50s,19560704,63,2,29,19560926
 5,5,"Whatever Will Be, Will Be (Que Sera, Sera)",Doris Day,Doris Day,jazz,jazz,19560613,78,2,27,19560926
 6,6,Tonight You Belong To Me,Patience And Prudence,Patience And Prudence,pop,female vocalists,19560725,68,6,25,19560926
 7,7,Honky Tonk (Parts 1 And 2),Bill Doggett,Bill Doggett,jazz,jazz,19560808,54,2,29,19560926
@@ -1402,7 +1402,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 1,1,Don't Be Cruel,Elvis Presley,Elvis Presley,rock,rock n roll,19560801,28,1,27,19560919
 2,2,My Prayer,The Platters,The Platters,pop,oldies,19560627,38,1,22,19560919
 3,3,Hound Dog,Elvis Presley,Elvis Presley,rock,rock n roll,19560725,24,2,25,19560919
-4,5,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,orchestra,19560704,63,2,29,19560919
+4,5,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,50s,19560704,63,2,29,19560919
 5,4,"Whatever Will Be, Will Be (Que Sera, Sera)",Doris Day,Doris Day,jazz,jazz,19560613,78,2,27,19560919
 6,6,Tonight You Belong To Me,Patience And Prudence,Patience And Prudence,pop,female vocalists,19560725,68,6,25,19560919
 7,10,Honky Tonk (Parts 1 And 2),Bill Doggett,Bill Doggett,jazz,jazz,19560808,54,2,29,19560919
@@ -1503,7 +1503,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 2,2,My Prayer,The Platters,The Platters,pop,oldies,19560627,38,1,22,19560912
 3,3,Hound Dog,Elvis Presley,Elvis Presley,rock,rock n roll,19560725,24,2,25,19560912
 4,4,"Whatever Will Be, Will Be (Que Sera, Sera)",Doris Day,Doris Day,jazz,jazz,19560613,78,2,27,19560912
-5,5,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,orchestra,19560704,63,2,29,19560912
+5,5,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,50s,19560704,63,2,29,19560912
 6,7,Tonight You Belong To Me,Patience And Prudence,Patience And Prudence,pop,female vocalists,19560725,68,6,25,19560912
 7,6,Allegheny Moon,Patti Page,Patti Page,jazz,jazz,19560606,37,2,27,19560912
 8,9,Canadian Sunset,Andy Williams,Andy Williams,pop,oldies,19560801,77,8,22,19560912
@@ -1603,7 +1603,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 2,1,My Prayer,The Platters,The Platters,pop,oldies,19560627,38,1,22,19560905
 3,2,Hound Dog,Elvis Presley,Elvis Presley,rock,rock n roll,19560725,24,2,25,19560905
 4,4,"Whatever Will Be, Will Be (Que Sera, Sera)",Doris Day,Doris Day,jazz,jazz,19560613,78,2,27,19560905
-5,6,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,orchestra,19560704,63,2,29,19560905
+5,6,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,50s,19560704,63,2,29,19560905
 6,5,Allegheny Moon,Patti Page,Patti Page,jazz,jazz,19560606,37,2,27,19560905
 7,10,Tonight You Belong To Me,Patience And Prudence,Patience And Prudence,pop,female vocalists,19560725,68,6,25,19560905
 8,7,The Flying Saucer (Parts 1 And 2),Buchannan And Goodman,Buchannan And Goodman,pop,unknown,19560725,84,7,13,19560905
@@ -1704,7 +1704,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 3,4,Don't Be Cruel,Elvis Presley,Elvis Presley,rock,rock n roll,19560801,28,1,27,19560829
 4,3,"Whatever Will Be, Will Be (Que Sera, Sera)",Doris Day,Doris Day,jazz,jazz,19560613,78,2,27,19560829
 5,5,Allegheny Moon,Patti Page,Patti Page,jazz,jazz,19560606,37,2,27,19560829
-6,7,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,orchestra,19560704,63,2,29,19560829
+6,7,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,50s,19560704,63,2,29,19560829
 7,8,The Flying Saucer (Parts 1 And 2),Buchannan And Goodman,Buchannan And Goodman,pop,unknown,19560725,84,7,13,19560829
 8,6,I Almost Lost My Mind,Pat Boone,Pat Boone,pop,oldies,19560523,68,1,22,19560829
 9,9,The Wayward Wind,Gogi Grant,Gogi Grant,pop,female vocalists,19560418,58,1,28,19560829
@@ -1805,7 +1805,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 4,6,Don't Be Cruel,Elvis Presley,Elvis Presley,rock,rock n roll,19560801,28,1,27,19560822
 5,3,Allegheny Moon,Patti Page,Patti Page,jazz,jazz,19560606,37,2,27,19560822
 6,5,I Almost Lost My Mind,Pat Boone,Pat Boone,pop,oldies,19560523,68,1,22,19560822
-7,11,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,orchestra,19560704,63,2,29,19560822
+7,11,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,50s,19560704,63,2,29,19560822
 8,9,The Flying Saucer (Parts 1 And 2),Buchannan And Goodman,Buchannan And Goodman,pop,unknown,19560725,84,7,13,19560822
 9,7,The Wayward Wind,Gogi Grant,Gogi Grant,pop,female vocalists,19560418,58,1,28,19560822
 10,8,"I Want You, I Need You, I Love You",Elvis Presley,Elvis Presley,rock,rock n roll,19560516,90,3,24,19560822
@@ -1909,7 +1909,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 8,7,"I Want You, I Need You, I Love You",Elvis Presley,Elvis Presley,rock,rock n roll,19560516,90,3,24,19560815
 9,13,The Flying Saucer (Parts 1 And 2),Buchannan And Goodman,Buchannan And Goodman,pop,unknown,19560725,84,7,13,19560815
 10,8,Born To Be With You,The Chordettes,The Chordettes,pop,50s,19560523,61,5,20,19560815
-11,12,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,orchestra,19560704,63,2,29,19560815
+11,12,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,50s,19560704,63,2,29,19560815
 12,10,More,Perry Como,Perry Como,jazz,jazz,19560606,46,9,18,19560815
 13,9,A Sweet Old Fashioned Girl,Teresa Brewer,Teresa Brewer,pop,50s,19560530,70,9,20,19560815
 14,14,Be-Bop-A-Lula,Gene Vincent And His Blue Caps,Gene Vincent And His Blue Caps,rock,rockabilly,19560606,80,9,20,19560815
@@ -2010,7 +2010,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 9,13,A Sweet Old Fashioned Girl,Teresa Brewer,Teresa Brewer,pop,50s,19560530,70,9,20,19560808
 10,9,More,Perry Como,Perry Como,jazz,jazz,19560606,46,9,18,19560808
 11,8,On The Street Where You Live,Vic Damone,Vic Damone,jazz,swing,19560411,82,8,24,19560808
-12,18,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,orchestra,19560704,63,2,29,19560808
+12,18,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,50s,19560704,63,2,29,19560808
 13,33,The Flying Saucer (Parts 1 And 2),Buchannan And Goodman,Buchannan And Goodman,pop,unknown,19560725,84,7,13,19560808
 14,10,Be-Bop-A-Lula,Gene Vincent And His Blue Caps,Gene Vincent And His Blue Caps,rock,rockabilly,19560606,80,9,20,19560808
 15,12,"Moonglow And Theme From ""Picnic""",Morris Stoloff,Morris Stoloff,pop,soundtrack,19560404,61,2,27,19560808
@@ -2116,7 +2116,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 15,15,Standing On The Corner,The Four Lads,The Four Lads,pop,50s,19560418,40,3,20,19560801
 16,16,It Only Hurts For A Little While,The Ames Brothers,The Ames Brothers,pop,50s,19560425,76,15,24,19560801
 17,14,Glendora,Perry Como,Perry Como,jazz,jazz,19560530,99,14,17,19560801
-18,29,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,orchestra,19560704,63,2,29,19560801
+18,29,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,50s,19560704,63,2,29,19560801
 19,17,"Moonglow And Theme From ""Picnic""",George Cates And His Orchestra,George Cates And His Orchestra,pop,spotify,19560404,66,4,22,19560801
 20,18,That's All There Is To That,Nat King Cole & The Four Knights,Nat King Cole,jazz,jazz,19560627,64,18,19,19560801
 21,19,Stranded In The Jungle,The Cadets,The Cadets,pop,doo wop,19560704,47,19,11,19560801
@@ -2227,7 +2227,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 26,27,Portuguese Washerwoman,"Joe ""Fingers"" Carr (Lou Busch)","Joe ""Fingers"" Carr (Lou Busch)",pop,unknown,19560509,61,25,16,19560725
 27,36,In A Shanty In Old Shanty Town,Somethin' Smith And The Redheads,Somethin Smith And The Redheads,pop,unknown,19560523,94,27,15,19560725
 28,29,Fever,Little Willie John,Little Willie John,rnb / soul,soul,19560627,50,28,15,19560725
-29,38,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,orchestra,19560704,63,2,29,19560725
+29,38,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,50s,19560704,63,2,29,19560725
 30,24,Picnic,The Mcguire Sisters,The Mcguire Sisters,pop,oldies,19560425,100,13,19,19560725
 31,25,Walk Hand In Hand,Tony Martin,Tony Martin,rock,heavy metal,19560411,91,10,20,19560725
 32,30,"Love, Love, Love",The Clovers,The Clovers,pop,doo wop,19560613,74,30,13,19560725
@@ -2336,7 +2336,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 35,39,Rip It Up,Little Richard,Little Richard,rock,rock and roll,19560627,56,27,18,19560718
 36,48,In A Shanty In Old Shanty Town,Somethin' Smith And The Redheads,Somethin Smith And The Redheads,pop,unknown,19560523,94,27,15,19560718
 37,65,Can You Find It In Your Heart,Tony Bennett,Tony Bennett,jazz,jazz,19560404,79,19,19,19560718
-38,46,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,orchestra,19560704,63,2,29,19560718
+38,46,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,50s,19560704,63,2,29,19560718
 39,30,(How Little It Matters) How Little We Know,Frank Sinatra,Frank Sinatra,jazz,jazz,19560509,87,30,14,19560718
 40,54,Soft Summer Breeze,Eddie Heywood,Eddie Heywood,jazz,jazz,19560620,51,12,25,19560718
 41,41,I Could Have Danced All Night,Sylvia Syms,Sylvia Syms,jazz,jazz,19560502,82,35,14,19560718
@@ -2444,7 +2444,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 43,64,You Don't Know Me,Jerry Vale,Jerry Vale,pop,oldies,19560627,62,14,22,19560711
 44,62,Ready Teddy,Little Richard,Little Richard,rock,rock and roll,19560627,80,44,8,19560711
 45,44,Standing On The Corner,Dean Martin,Dean Martin,jazz,jazz,19560509,51,29,15,19560711
-46,63,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,orchestra,19560704,63,2,29,19560711
+46,63,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,50s,19560704,63,2,29,19560711
 47,48,"Love, Love, Love",The Clovers,The Clovers,pop,doo wop,19560613,74,30,13,19560711
 48,39,In A Shanty In Old Shanty Town,Somethin' Smith And The Redheads,Somethin Smith And The Redheads,pop,unknown,19560523,94,27,15,19560711
 49,38,I'm In Love Again,The Fontane Sisters,The Fontane Sisters,jazz,swing,19560516,65,38,14,19560711
@@ -2561,7 +2561,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 60,40,Free,Tommy Leonetti,Tommy Leonetti,pop,spotify,19560530,73,40,10,19560704
 61,58,"Love, Love, Love",The Diamonds,The Diamonds,pop,oldies,19560627,58,31,13,19560704
 62,80,Ready Teddy,Little Richard,Little Richard,rock,rock and roll,19560627,80,44,8,19560704
-63,NEW,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,orchestra,19560704,63,2,29,19560704
+63,NEW,Canadian Sunset,Hugo Winterhalter & His Orchestra With Eddie Heywood,Hugo Winterhalter,pop,50s,19560704,63,2,29,19560704
 64,62,You Don't Know Me,Jerry Vale,Jerry Vale,pop,oldies,19560627,62,14,22,19560704
 65,60,Hot Dog Buddy Buddy,Bill Haley And His Comets,Bill Haley And His Comets,rock,rockabilly,19560606,82,60,6,19560704
 66,77,Tell Me Why,Gale Storm,Gale Storm,pop,50s,19560620,52,52,5,19560704

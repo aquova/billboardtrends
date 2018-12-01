@@ -205,7 +205,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 69,53,Mother Nature Father Time,Brook Benton,Brook Benton,rnb / soul,soul,19651106,130,53,8,19651218
 70,71,Our World,Johnny Tillotson,Johnny Tillotson,pop,oldies,19651113,117,70,7,19651218
 71,74,A Well Respected Man,Kinks,Kinks,rock,classic rock,19651127,109,13,15,19651218
-72,70,The Revolution Kind,Sonny,Sonny,pop,electronic,19651127,76,70,4,19651218
+72,70,The Revolution Kind,Sonny,Sonny,electronic,electronic,19651127,76,70,4,19651218
 73,88,Michael,Cods,Cods,rock,alternative,19651127,100,41,12,19651218
 74,76,All Or Nothing,Patti Labelle & The Blue Belles,Patti Labelle & The Blue Belles,rnb / soul,soul,19651204,86,68,6,19651218
 75,100,Jenny Take A Ride,Mitch Ryder And The Detroit Wheels,Mitch Ryder And The Detroit Wheels,rock,rock,19651211,100,10,12,19651218
@@ -338,7 +338,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 67,71,Everybody Do The Sloopy,Johnny Thunder,Johnny Thunder,rnb / soul,soul,19651120,132,67,6,19651211
 68,83,I've Got To Be Somebody,Billy Joe Royal,Billy Joe Royal,pop,60s,19651204,83,38,8,19651211
 69,85,Just Like Me,Paul Revere And The Raiders,Paul Revere And The Raiders,pop,60s,19651127,116,11,16,19651211
-70,70,The Revolution Kind,Sonny,Sonny,pop,electronic,19651127,76,70,4,19651211
+70,70,The Revolution Kind,Sonny,Sonny,electronic,electronic,19651127,76,70,4,19651211
 71,73,Our World,Johnny Tillotson,Johnny Tillotson,pop,oldies,19651113,117,70,7,19651211
 72,76,I Want To Meet Him,Royalettes,Royalettes,rnb / soul,soul,19651030,131,72,7,19651211
 73,80,Sandy,Ronny And The Daytonas,Ronny And The Daytonas,pop,surf,19651127,117,27,12,19651211
@@ -473,7 +473,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 67,94,Five O'Clock World,Vogues,Vogues,pop,60s,19651127,94,4,14,19651204
 68,113,Spanish Eyes,Al Martino,Al Martino,jazz,swing,19651120,125,15,14,19651204
 69,78,You've Been Cheatin',The Impressions,The Impressions,rnb / soul,soul,19651113,115,33,10,19651204
-70,76,The Revolution Kind,Sonny,Sonny,pop,electronic,19651127,76,70,4,19651204
+70,76,The Revolution Kind,Sonny,Sonny,electronic,electronic,19651127,76,70,4,19651204
 71,90,Everybody Do The Sloopy,Johnny Thunder,Johnny Thunder,rnb / soul,soul,19651120,132,67,6,19651204
 72,81,Jealous Heart,Connie Francis,Connie Francis,pop,oldies,19651120,134,47,9,19651204
 73,79,Our World,Johnny Tillotson,Johnny Tillotson,pop,oldies,19651113,117,70,7,19651204
@@ -614,7 +614,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 73,79,I Want To Meet Him,Royalettes,Royalettes,rnb / soul,soul,19651030,131,72,7,19651127
 74,72,Child Of Our Times,Barry Mcguire,Barry Mcguire,rock,classic rock,19651106,82,72,4,19651127
 75,105,You Didn't Have To Be So Nice,The Lovin' Spoonful,The Lovin' Spoonful,pop,60s,19651120,105,10,13,19651127
-76,NEW,The Revolution Kind,Sonny,Sonny,pop,electronic,19651127,76,70,4,19651127
+76,NEW,The Revolution Kind,Sonny,Sonny,electronic,electronic,19651127,76,70,4,19651127
 77,100,The Duck,Jackie Lee,Jackie Lee,pop,northern soul,19651120,100,14,14,19651127
 78,97,You've Been Cheatin',The Impressions,The Impressions,rnb / soul,soul,19651113,115,33,10,19651127
 79,90,Our World,Johnny Tillotson,Johnny Tillotson,pop,oldies,19651113,117,70,7,19651127
@@ -1250,7 +1250,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 34,37,Hungry For Love,San Remo Golden Strings,San Remo Golden Strings,rnb / soul,soul,19650911,97,27,10,19651023
 35,58,Ain't That Peculiar,Marvin Gaye,Marvin Gaye,rnb / soul,soul,19651009,71,8,12,19651023
 36,32,My Town My Guy And Me,Leslie Gore,Leslie Gore,pop,60s,19650904,135,32,9,19651023
-37,26,Laugh At Me,Sonny,Sonny,pop,electronic,19650814,107,10,11,19651023
+37,26,Laugh At Me,Sonny,Sonny,electronic,electronic,19650814,107,10,11,19651023
 38,46,Respect,Otis Redding,Otis Redding,rnb / soul,soul,19650828,101,35,12,19651023
 39,43,Cara-Lin,Strangeloves,Strangeloves,rock,psychedelic rock,19650911,111,39,9,19651023
 40,36,Dawn Of Correction,Spokesmen,Spokesmen,pop,all,19650911,112,36,8,19651023
@@ -1374,7 +1374,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 23,17,We Gotta Get Out Of This Place,Animals,Animals,rock,rock,19650807,107,13,12,19651016
 24,37,Make Me Your Baby,Barbara Lewis,Barbara Lewis,rnb / soul,soul,19650911,92,11,12,19651016
 25,28,Home Of The Brave,Jody Miller,Jody Miller,country / folk,country,19650828,89,25,9,19651016
-26,16,Laugh At Me,Sonny,Sonny,pop,electronic,19650814,107,10,11,19651016
+26,16,Laugh At Me,Sonny,Sonny,electronic,electronic,19650814,107,10,11,19651016
 27,21,I'll Make All Your Dreams Come True,Ronnie Dove,Ronnie Dove,pop,oldies,19650828,70,21,9,19651016
 28,36,I Knew You When,Billy Joe Royal,Billy Joe Royal,pop,60s,19650911,107,14,12,19651016
 29,20,Just You,Sonny & Cher,Sonny & Cher,pop,60s,19650828,72,20,9,19651016
@@ -1499,7 +1499,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 13,15,Some Enchanted Evening,Jay & The Americans,Jay & The Americans,pop,oldies,19650904,80,13,10,19651009
 14,19,Keep On Dancing,Gentrys,Gentrys,pop,60s,19650904,101,4,14,19651009
 15,11,Help,Beatles,Beatles,rock,classic rock,19650731,110,1,14,19651009
-16,10,Laugh At Me,Sonny,Sonny,pop,electronic,19650814,107,10,11,19651009
+16,10,Laugh At Me,Sonny,Sonny,electronic,electronic,19650814,107,10,11,19651009
 17,13,We Gotta Get Out Of This Place,Animals,Animals,rock,rock,19650807,107,13,12,19651009
 18,20,Liar Liar,Castaways,Castaways,rock,garage rock,19650814,96,12,14,19651009
 19,38,A Lover's Concerto,The Toys,The Toys,pop,60s,19650911,98,2,15,19651009
@@ -1628,7 +1628,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 7,12,Treat Her Right,Roy Head,Roy Head,pop,blue-eyed soul,19650904,83,2,11,19651002
 8,11,You've Got Your Troubles,Fortunes,Fortunes,pop,60s,19650814,116,7,12,19651002
 9,14,Baby Don't Go,Sonny & Cher,Sonny & Cher,pop,60s,19650821,70,8,12,19651002
-10,10,Laugh At Me,Sonny,Sonny,pop,electronic,19650814,107,10,11,19651002
+10,10,Laugh At Me,Sonny,Sonny,electronic,electronic,19650814,107,10,11,19651002
 11,5,Help,Beatles,Beatles,rock,classic rock,19650731,110,1,14,19651002
 12,17,Do You Believe In Magic,Lovin' Spoonful,Lovin' Spoonful,pop,60s,19650821,96,9,13,19651002
 13,13,We Gotta Get Out Of This Place,Animals,Animals,rock,rock,19650807,107,13,12,19651002
@@ -1763,7 +1763,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 7,3,Like A Rolling Stone,Bob Dylan,Bob Dylan,country / folk,folk,19650724,91,2,12,19650925
 8,8,It Ain't Me Baby,Turtles,Turtles,pop,60s,19650731,116,8,12,19650925
 9,10,Heart Full Of Soul,Yardbirds,Yardbirds,rock,classic rock,19650731,86,9,12,19650925
-10,14,Laugh At Me,Sonny,Sonny,pop,electronic,19650814,107,10,11,19650925
+10,14,Laugh At Me,Sonny,Sonny,electronic,electronic,19650814,107,10,11,19650925
 11,16,You've Got Your Troubles,Fortunes,Fortunes,pop,60s,19650814,116,7,12,19650925
 12,26,Treat Her Right,Roy Head,Roy Head,pop,blue-eyed soul,19650904,83,2,11,19650925
 13,18,We Gotta Get Out Of This Place,Animals,Animals,rock,rock,19650807,107,13,12,19650925
@@ -1902,7 +1902,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 11,6,Unchained Melody,Righteous Brothers,Righteous Brothers,pop,oldies,19650710,102,4,14,19650918
 12,8,Papa's Got A Brand New Bag,James Brown & The Famous Flames,James Brown & The Famous Flames,rnb / soul,funk,19650717,80,8,13,19650918
 13,18,Action,Freddy Cannon,Freddy Cannon,pop,oldies,19650807,103,13,10,19650918
-14,19,Laugh At Me,Sonny,Sonny,pop,electronic,19650814,107,10,11,19650918
+14,19,Laugh At Me,Sonny,Sonny,electronic,electronic,19650814,107,10,11,19650918
 15,5,California Girls,Beach Boys,Beach Boys,rock,classic rock,19650717,109,3,12,19650918
 16,31,You've Got Your Troubles,Fortunes,Fortunes,pop,60s,19650814,116,7,12,19650918
 17,15,Hold Me Thrill Me Kiss Me,Mel Carter,Mel Carter,pop,oldies,19650605,133,8,18,19650918
@@ -2042,7 +2042,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 16,11,Nothing But Heartaches,Supremes,Supremes,rnb / soul,soul,19650731,88,11,9,19650911
 17,13,Down In The Boondocks,Billy Joe Royal,Billy Joe Royal,pop,60s,19650626,127,9,14,19650911
 18,23,Action,Freddy Cannon,Freddy Cannon,pop,oldies,19650807,103,13,10,19650911
-19,27,Laugh At Me,Sonny,Sonny,pop,electronic,19650814,107,10,11,19650911
+19,27,Laugh At Me,Sonny,Sonny,electronic,electronic,19650814,107,10,11,19650911
 20,16,Tracks Of My Tears,Miracles,Miracles,rnb / soul,soul,19650710,103,16,13,19650911
 21,24,Houston,Dean Martin,Dean Martin,jazz,jazz,19650807,79,21,9,19650911
 22,17,Since I Lost My Baby,Temptations,Temptations,rnb / soul,soul,19650724,68,17,10,19650911
@@ -2185,7 +2185,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 24,29,Houston,Dean Martin,Dean Martin,jazz,jazz,19650807,79,21,9,19650904
 25,42,Catch Us If You Can,Dave Clark Five,Dave Clark Five,pop,60s,19650821,62,4,11,19650904
 26,26,Ju Ju Hand,Sam The Sham And The Pharaohs,Sam The Sham And The Pharaohs,pop,60s,19650731,80,26,7,19650904
-27,52,Laugh At Me,Sonny,Sonny,pop,electronic,19650814,107,10,11,19650904
+27,52,Laugh At Me,Sonny,Sonny,electronic,electronic,19650814,107,10,11,19650904
 28,28,Looking Through The Eyes Of Love,Gene Pitney,Gene Pitney,pop,60s,19650724,86,28,8,19650904
 29,32,Shake And Finger Pop,Junior Walker And The All Stars,Junior Walker And The All Stars,rnb / soul,soul,19650731,81,29,8,19650904
 30,41,Agent OO Soul,Edwin Starr,Edwin Starr,rnb / soul,soul,19650807,85,21,11,19650904
@@ -2345,7 +2345,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 49,67,Hang On Sloopy,Mccoys,Mccoys,pop,60s,19650814,99,1,14,19650828
 50,57,You've Been In Love Too Long,Martha And The Vandellas,Martha And The Vandellas,rnb / soul,soul,19650814,75,36,7,19650828
 51,35,I'll Always Love You,Spinners,Spinners,rnb / soul,soul,19650710,101,35,8,19650828
-52,83,Laugh At Me,Sonny,Sonny,pop,electronic,19650814,107,10,11,19650828
+52,83,Laugh At Me,Sonny,Sonny,electronic,electronic,19650814,107,10,11,19650828
 53,49,It's Gonna Take A Miracle,Royalettes,Royalettes,rnb / soul,soul,19650717,83,41,11,19650828
 54,60,If I Didn't Love You,Chuck Jackson,Chuck Jackson,rnb / soul,soul,19650731,106,46,8,19650828
 55,66,I'm A Happy Man,Jive Five,Jive Five,pop,doo wop,19650724,101,36,11,19650828
@@ -2511,7 +2511,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 80,85,Summer Wind,Wayne Newton,Wayne Newton,jazz,swing,19650731,125,78,5,19650821
 81,83,You Better Go,Derek Martin,Derek Martin,rnb / soul,soul,19650717,105,78,8,19650821
 82,70,Tickle Me,Elvis Presley,Elvis Presley,rock,rock n roll,19650710,98,70,7,19650821
-83,107,Laugh At Me,Sonny,Sonny,pop,electronic,19650814,107,10,11,19650821
+83,107,Laugh At Me,Sonny,Sonny,electronic,electronic,19650814,107,10,11,19650821
 84,95,Colours,Donovan,Donovan,country / folk,folk,19650731,121,61,9,19650821
 85,88,Is It Really Over,Jim Reeves,Jim Reeves,country / folk,country,19650731,123,79,8,19650821
 86,98,Give All Your Love To Me,Gerry And The Pacemakers,Gerry And The Pacemakers,pop,60s,19650814,98,68,6,19650821
@@ -2670,7 +2670,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 104,129,I'm Alive,The Hollies,The Hollies,pop,60s,19650807,129,103,4,19650814
 105,118,I'm Down,The Beatles,The Beatles,rock,classic rock,19650807,118,101,7,19650814
 106,96,We're Doing Fine,Dee Dee Warwick,Dee Dee Warwick,rnb / soul,soul,19650717,120,96,8,19650814
-107,NEW,Laugh At Me,Sonny,Sonny,pop,electronic,19650814,107,10,11,19650814
+107,NEW,Laugh At Me,Sonny,Sonny,electronic,electronic,19650814,107,10,11,19650814
 108,122,Out In The Sun (Hey-O),The Beach-Nuts,The Beach-Nuts,pop,all,19650731,129,106,5,19650814
 109,105,The Tracker,The Sir Douglas Quintet,The Sir Douglas Quintet,pop,oldies,19650724,118,105,4,19650814
 110,95,After Loving You,Della Reese,Della Reese,jazz,jazz,19650710,130,95,7,19650814

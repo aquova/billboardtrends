@@ -293,7 +293,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 12,NEW,Harbour Lights,Sammy Kaye / Tony Alamo / Kaydets,Sammy Kaye / Tony Alamo / Kaydets,pop,unknown,19500920,12,1,21,19500920
 13,10,Mona Lisa,Victor Young / Don Cherry,Victor Young / Don Cherry,pop,unknown,19500809,19,10,7,19500920
 14,NEW,I'm Forever Blowing Bubbles,Artie Shaw / Gordon Jenkins / Chorus,Artie Shaw / Gordon Jenkins / Chorus,pop,unknown,19500920,14,14,3,19500920
-15,NEW,Count Every Star,Hugo Winterhalter,Hugo Winterhalter,pop,orchestra,19500920,15,15,1,19500920
+15,NEW,Count Every Star,Hugo Winterhalter,Hugo Winterhalter,pop,50s,19500920,15,15,1,19500920
 16,20,"Music, Maestro, Please",Frankie Laine,Frankie Laine,country / folk,country,19500913,20,14,6,19500920
 17,NEW,Tzena Tzena Tzena,Vic Damone,Vic Damone,jazz,swing,19500920,17,17,1,19500920
 18,NEW,La Vie En Rose,Bing Crosby,Bing Crosby,jazz,jazz,19500920,18,18,1,19500920
@@ -328,7 +328,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 7,9,Can Anyone Explain,Ames Brothers,Ames Brothers,pop,50s,19500816,15,7,14,19500906
 8,17,No Other Love,Jo Stafford,Jo Stafford,jazz,jazz,19500823,15,8,11,19500906
 9,10,Nola,Les Paul,Les Paul,jazz,jazz,19500705,18,9,13,19500906
-10,13,Count Every Star,Hugo Winterhalter,Hugo Winterhalter,pop,orchestra,19500823,14,10,3,19500906
+10,13,Count Every Star,Hugo Winterhalter,Hugo Winterhalter,pop,50s,19500823,14,10,3,19500906
 11,NEW,Our Lady Of Fatima,Kitty Kallen / Richard Hayes,Kitty Kallen / Richard Hayes,pop,unknown,19500906,11,11,2,19500906
 12,NEW,I'll Never Be Free,Kay Starr / Tennessee Ernie Ford,Kay Starr / Tennessee Ernie Ford,pop,unknown,19500906,12,3,15,19500906
 13,7,I Wanna Be Loved,Andrews Sisters / Gordon Jenkins,Andrews Sisters / Gordon Jenkins,pop,unknown,19500510,18,3,18,19500906
@@ -351,7 +351,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 10,12,Nola,Les Paul,Les Paul,jazz,jazz,19500705,18,9,13,19500830
 11,18,Mona Lisa,Victor Young / Don Cherry,Victor Young / Don Cherry,pop,unknown,19500809,19,10,7,19500830
 12,13,"Goodnight, Irene",Frank Sinatra,Frank Sinatra,jazz,jazz,19500816,18,12,4,19500830
-13,14,Count Every Star,Hugo Winterhalter,Hugo Winterhalter,pop,orchestra,19500823,14,10,3,19500830
+13,14,Count Every Star,Hugo Winterhalter,Hugo Winterhalter,pop,50s,19500823,14,10,3,19500830
 14,11,Tzena Tzena Tzena,Mitch Miller,Mitch Miller,pop,oldies,19500809,13,10,4,19500830
 15,NEW,I Wanna Be Loved,Billy Eckstine,Billy Eckstine,jazz,jazz,19500830,15,15,1,19500830
 16,16,Sometime,Mariners,Mariners,rock,indie,19500823,16,16,2,19500830
@@ -372,7 +372,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 11,10,Tzena Tzena Tzena,Mitch Miller,Mitch Miller,pop,oldies,19500809,13,10,4,19500823
 12,9,Nola,Les Paul,Les Paul,jazz,jazz,19500705,18,9,13,19500823
 13,18,"Goodnight, Irene",Frank Sinatra,Frank Sinatra,jazz,jazz,19500816,18,12,4,19500823
-14,NEW,Count Every Star,Hugo Winterhalter,Hugo Winterhalter,pop,orchestra,19500823,14,10,3,19500823
+14,NEW,Count Every Star,Hugo Winterhalter,Hugo Winterhalter,pop,50s,19500823,14,10,3,19500823
 15,NEW,No Other Love,Jo Stafford,Jo Stafford,jazz,jazz,19500823,15,8,11,19500823
 16,NEW,Sometime,Mariners,Mariners,rock,indie,19500823,16,16,2,19500823
 17,14,Bewitched,Gordon Jenkins / Bonnie Lou Williams,Gordon Jenkins / Bonnie Lou Williams,pop,unknown,19500510,12,6,16,19500823
@@ -408,7 +408,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 7,7,Third Man Theme,Anton Karas,Anton Karas,pop,soundtrack,19500322,12,1,23,19500809
 8,9,Bewitched,Gordon Jenkins / Bonnie Lou Williams,Gordon Jenkins / Bonnie Lou Williams,pop,unknown,19500510,12,6,16,19500809
 9,10,Bonaparte's Retreat,Kay Starr,Kay Starr,jazz,jazz,19500705,17,5,20,19500809
-10,13,Count Every Star,Hugo Winterhalter,Hugo Winterhalter,pop,orchestra,19500719,15,10,4,19500809
+10,13,Count Every Star,Hugo Winterhalter,Hugo Winterhalter,pop,50s,19500719,15,10,4,19500809
 11,17,Nola,Les Paul,Les Paul,jazz,jazz,19500705,18,9,13,19500809
 12,11,Tzena Tzena Tzena,Vic Damone,Vic Damone,jazz,swing,19500802,11,11,2,19500809
 13,NEW,Tzena Tzena Tzena,Mitch Miller,Mitch Miller,pop,oldies,19500809,13,10,4,19500809
@@ -431,7 +431,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 10,9,Bonaparte's Retreat,Kay Starr,Kay Starr,jazz,jazz,19500705,17,5,20,19500802
 11,NEW,Tzena Tzena Tzena,Vic Damone,Vic Damone,jazz,swing,19500802,11,11,2,19500802
 12,12,I Wanna Be Loved,Billy Eckstine,Billy Eckstine,jazz,jazz,19500621,15,9,9,19500802
-13,13,Count Every Star,Hugo Winterhalter,Hugo Winterhalter,pop,orchestra,19500719,15,10,4,19500802
+13,13,Count Every Star,Hugo Winterhalter,Hugo Winterhalter,pop,50s,19500719,15,10,4,19500802
 14,15,Hoop-Dee-Doo,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,unknown,19500503,13,4,15,19500802
 15,NEW,Bewitched,Bill Snyder,Bill Snyder,pop,instrumental,19500802,15,15,1,19500802
 16,18,Sentimental Me,Ames Brothers,Ames Brothers,pop,50s,19500315,13,3,23,19500802
@@ -451,7 +451,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 10,NEW,Sam's Song,Bing Crosby / Gary Crosby,Bing Crosby / Gary Crosby,pop,unknown,19500726,10,3,17,19500726
 11,14,Nola,Les Paul,Les Paul,jazz,jazz,19500705,18,9,13,19500726
 12,11,I Wanna Be Loved,Billy Eckstine,Billy Eckstine,jazz,jazz,19500621,15,9,9,19500726
-13,15,Count Every Star,Hugo Winterhalter,Hugo Winterhalter,pop,orchestra,19500719,15,10,4,19500726
+13,15,Count Every Star,Hugo Winterhalter,Hugo Winterhalter,pop,50s,19500719,15,10,4,19500726
 14,NEW,Mona Lisa,Art Lund,Art Lund,jazz,jazz,19500726,14,14,1,19500726
 15,7,Hoop-Dee-Doo,Perry Como / Fontane Sisters,Perry Como / Fontane Sisters,pop,unknown,19500503,13,4,15,19500726
 16,12,Bewitched,Doris Day,Doris Day,jazz,jazz,19500531,10,10,9,19500726
@@ -473,7 +473,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 12,12,Bewitched,Doris Day,Doris Day,jazz,jazz,19500531,10,10,9,19500719
 13,14,Sentimental Me,Russ Morgan / Morganaires,Russ Morgan / Morganaires,pop,unknown,19500503,18,10,12,19500719
 14,20,Nola,Les Paul,Les Paul,jazz,jazz,19500705,18,9,13,19500719
-15,NEW,Count Every Star,Hugo Winterhalter,Hugo Winterhalter,pop,orchestra,19500719,15,10,4,19500719
+15,NEW,Count Every Star,Hugo Winterhalter,Hugo Winterhalter,pop,50s,19500719,15,10,4,19500719
 16,16,Bonaparte's Retreat,Kay Starr,Kay Starr,jazz,jazz,19500705,17,5,20,19500719
 17,9,My Foolish Heart,Gordon Jenkins / Sandy Evans,Gordon Jenkins / Sandy Evans,pop,unknown,19500329,19,3,19,19500719
 18,11,My Foolish Heart,Billy Eckstine,Billy Eckstine,jazz,jazz,19500419,20,6,15,19500719
@@ -493,7 +493,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 12,13,Bewitched,Doris Day,Doris Day,jazz,jazz,19500531,10,10,9,19500712
 13,10,I Wanna Be Loved,Billy Eckstine,Billy Eckstine,jazz,jazz,19500621,15,9,9,19500712
 14,16,Sentimental Me,Russ Morgan / Morganaires,Russ Morgan / Morganaires,pop,unknown,19500503,18,10,12,19500712
-15,12,Count Every Star,Hugo Winterhalter,Hugo Winterhalter,pop,orchestra,19500524,19,12,8,19500712
+15,12,Count Every Star,Hugo Winterhalter,Hugo Winterhalter,pop,50s,19500524,19,12,8,19500712
 16,17,Bonaparte's Retreat,Kay Starr,Kay Starr,jazz,jazz,19500705,17,5,20,19500712
 17,NEW,Goodnight Irene,Weavers & Gordon Jenkins,Weavers,country / folk,folk,19500712,17,1,23,19500712
 18,NEW,Vagabond Shoes,Vic Damone,Vic Damone,jazz,swing,19500712,18,18,1,19500712
@@ -510,7 +510,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 9,3,Sentimental Me,Ames Brothers,Ames Brothers,pop,50s,19500315,13,3,23,19500705
 10,9,I Wanna Be Loved,Billy Eckstine,Billy Eckstine,jazz,jazz,19500621,15,9,9,19500705
 11,NEW,Tzena Tzena Tzena,Weavers / Gordon Jenkins,Weavers / Gordon Jenkins,pop,unknown,19500705,11,2,15,19500705
-12,14,Count Every Star,Hugo Winterhalter,Hugo Winterhalter,pop,orchestra,19500524,19,12,8,19500705
+12,14,Count Every Star,Hugo Winterhalter,Hugo Winterhalter,pop,50s,19500524,19,12,8,19500705
 13,13,Bewitched,Doris Day,Doris Day,jazz,jazz,19500531,10,10,9,19500705
 14,10,My Foolish Heart,Billy Eckstine,Billy Eckstine,jazz,jazz,19500419,20,6,15,19500705
 15,19,Bewitched,Larry Green / Honeydreamers,Larry Green / Honeydreamers,pop,unknown,19500628,19,15,3,19500705
@@ -532,7 +532,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 11,8,My Foolish Heart,Gordon Jenkins / Sandy Evans,Gordon Jenkins / Sandy Evans,pop,unknown,19500329,19,3,19,19500628
 12,13,Sentimental Me,Russ Morgan / Morganaires,Russ Morgan / Morganaires,pop,unknown,19500503,18,10,12,19500628
 13,12,Bewitched,Doris Day,Doris Day,jazz,jazz,19500531,10,10,9,19500628
-14,14,Count Every Star,Hugo Winterhalter,Hugo Winterhalter,pop,orchestra,19500524,19,12,8,19500628
+14,14,Count Every Star,Hugo Winterhalter,Hugo Winterhalter,pop,50s,19500524,19,12,8,19500628
 15,18,The Old Piano Roll Blues,Hoagy Carmichael / Cass Daley,Hoagy Carmichael / Cass Daley,pop,unknown,19500607,20,15,5,19500628
 16,17,Roses,Sammy Kaye / Kaydets,Sammy Kaye / Kaydets,pop,unknown,19500524,14,13,6,19500628
 17,19,Bewitched,Jan August / Jerry Murad'S Harmonicats,Jan August / Jerry Murads Harmonicats,pop,unknown,19500621,19,17,2,19500628
@@ -552,7 +552,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 11,10,It Isn't Fair,Sammy Kaye / Don Cornell,Sammy Kaye / Don Cornell,pop,unknown,19500215,9,3,21,19500621
 12,12,Bewitched,Doris Day,Doris Day,jazz,jazz,19500531,10,10,9,19500621
 13,11,Sentimental Me,Russ Morgan / Morganaires,Russ Morgan / Morganaires,pop,unknown,19500503,18,10,12,19500621
-14,15,Count Every Star,Hugo Winterhalter,Hugo Winterhalter,pop,orchestra,19500524,19,12,8,19500621
+14,15,Count Every Star,Hugo Winterhalter,Hugo Winterhalter,pop,50s,19500524,19,12,8,19500621
 15,NEW,I Wanna Be Loved,Billy Eckstine,Billy Eckstine,jazz,jazz,19500621,15,9,9,19500621
 16,17,My Foolish Heart,Mindy Carson,Mindy Carson,pop,female vocalists,19500524,17,13,6,19500621
 17,13,Roses,Sammy Kaye / Kaydets,Sammy Kaye / Kaydets,pop,unknown,19500524,14,13,6,19500621
@@ -573,7 +573,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 12,11,Bewitched,Doris Day,Doris Day,jazz,jazz,19500531,10,10,9,19500614
 13,19,Roses,Sammy Kaye / Kaydets,Sammy Kaye / Kaydets,pop,unknown,19500524,14,13,6,19500614
 14,14,Mona Lisa,Nat King Cole,Nat King Cole,jazz,jazz,19500607,14,1,26,19500614
-15,15,Count Every Star,Hugo Winterhalter,Hugo Winterhalter,pop,orchestra,19500524,19,12,8,19500614
+15,15,Count Every Star,Hugo Winterhalter,Hugo Winterhalter,pop,50s,19500524,19,12,8,19500614
 16,NEW,Hoop-Dee-Doo,Kay Starr,Kay Starr,jazz,jazz,19500614,16,16,1,19500614
 17,13,My Foolish Heart,Mindy Carson,Mindy Carson,pop,female vocalists,19500524,17,13,6,19500614
 18,NEW,Bewitched,Larry Green / Honeydreamers,Larry Green / Honeydreamers,pop,unknown,19500614,18,18,1,19500614
@@ -593,7 +593,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 12,13,Sentimental Me,Russ Morgan / Morganaires,Russ Morgan / Morganaires,pop,unknown,19500503,18,10,12,19500607
 13,17,My Foolish Heart,Mindy Carson,Mindy Carson,pop,female vocalists,19500524,17,13,6,19500607
 14,NEW,Mona Lisa,Nat King Cole,Nat King Cole,jazz,jazz,19500607,14,1,26,19500607
-15,18,Count Every Star,Hugo Winterhalter,Hugo Winterhalter,pop,orchestra,19500524,19,12,8,19500607
+15,18,Count Every Star,Hugo Winterhalter,Hugo Winterhalter,pop,50s,19500524,19,12,8,19500607
 16,19,Daddy's Little Girl,Mills Brothers,Mills Brothers,jazz,jazz,19500315,17,9,13,19500607
 17,16,Wanderin',Sammy Kaye / Tony Alamo,Sammy Kaye / Tony Alamo,pop,unknown,19500510,14,11,5,19500607
 18,NEW,Hoop-Dee-Doo,Doris Day,Doris Day,jazz,jazz,19500607,18,18,1,19500607
@@ -616,7 +616,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 15,14,Roses,Sammy Kaye / Kaydets,Sammy Kaye / Kaydets,pop,unknown,19500524,14,13,6,19500531
 16,11,Wanderin',Sammy Kaye / Tony Alamo,Sammy Kaye / Tony Alamo,pop,unknown,19500510,14,11,5,19500531
 17,17,My Foolish Heart,Mindy Carson,Mindy Carson,pop,female vocalists,19500524,17,13,6,19500531
-18,19,Count Every Star,Hugo Winterhalter,Hugo Winterhalter,pop,orchestra,19500524,19,12,8,19500531
+18,19,Count Every Star,Hugo Winterhalter,Hugo Winterhalter,pop,50s,19500524,19,12,8,19500531
 19,13,Daddy's Little Girl,Mills Brothers,Mills Brothers,jazz,jazz,19500315,17,9,13,19500531
 20,NEW,Cross Your Fingers,Percy Faith,Percy Faith,pop,easy listening,19500531,20,20,1,19500531
 1,1,Third Man Theme,Anton Karas,Anton Karas,pop,soundtrack,19500322,12,1,23,19500524
@@ -637,7 +637,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 16,20,Dearie,Guy Lombardo / Kenny Gardner,Guy Lombardo / Kenny Gardner,pop,unknown,19500426,20,11,5,19500524
 17,NEW,My Foolish Heart,Mindy Carson,Mindy Carson,pop,female vocalists,19500524,17,13,6,19500524
 18,NEW,Valencia,Tony Martin,Tony Martin,rock,heavy metal,19500524,18,18,1,19500524
-19,NEW,Count Every Star,Hugo Winterhalter,Hugo Winterhalter,pop,orchestra,19500524,19,12,8,19500524
+19,NEW,Count Every Star,Hugo Winterhalter,Hugo Winterhalter,pop,50s,19500524,19,12,8,19500524
 20,15,Dearie,Jo Stafford & Gordon Macrae,Jo Stafford,jazz,jazz,19500503,12,12,4,19500524
 1,1,Third Man Theme,Anton Karas,Anton Karas,pop,soundtrack,19500322,12,1,23,19500517
 2,4,Third Man Theme,Guy Lombardo,Guy Lombardo,jazz,jazz,19500405,7,2,20,19500517

@@ -108,7 +108,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 107,111,Riverboat,Faron Young,Faron Young,country / folk,country,19591207,113,83,7,19591228
 108,NEW,Too Much Tequila,The Champs,The Champs,pop,oldies,19591228,108,30,14,19591228
 109,NEW,Since I Made You Cry,The Rivieras,The Rivieras,pop,60s,19591228,109,109,1,19591228
-110,NEW,The Happy Muleteer,Ivo Robic,Ivo Robic,pop,oldies,19591228,110,58,9,19591228
+110,NEW,The Happy Muleteer,Ivo Robic,Ivo Robic,pop,schlager,19591228,110,58,9,19591228
 111,NEW,Bulldog,The Fireballs,The Fireballs,pop,surf,19591228,111,24,14,19591228
 112,NEW,I Was A Such A Fool (To Fall In Love With You),The Flamingos,The Flamingos,pop,doo wop,19591228,112,112,1,19591228
 113,114,Wintertime,The Four Coachmen,The Four Coachmen,pop,unknown,19591221,114,113,2,19591228
@@ -2046,7 +2046,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 90,NEW,Betty My Angel,Jerry Fuller,Jerry Fuller,rock,rock and roll,19590831,90,90,2,19590831
 91,94,Twice As Nice,Clyde Mcphatter,Clyde Mcphatter,rnb / soul,soul,19590810,103,91,4,19590831
 92,NEW,I Cried,Joe Damianco,Joe Damianco,pop,unknown,19590831,92,91,2,19590831
-93,64,You're So Fine,Falcons,Falcons,pop,electronic,19590420,88,17,20,19590831
+93,64,You're So Fine,Falcons,Falcons,electronic,electronic,19590420,88,17,20,19590831
 94,98,Poco Loco,Gene & Eunice,Gene,pop,britpop,19590824,98,90,3,19590831
 95,95,Twixt Twelve & Twenty,Pat Boone,Pat Boone,pop,oldies,19590615,61,17,16,19590831
 96,NEW,Sweet Bird Of Youth,Nat King Cole,Nat King Cole,jazz,jazz,19590831,96,96,2,19590831
@@ -2132,7 +2132,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 61,53,Cry,Knightbridge Strings,Knightbridge Strings,pop,unknown,19590713,110,53,8,19590824
 62,55,Since You've Been Gone,Clyde Mcphatter,Clyde Mcphatter,rnb / soul,soul,19590615,62,38,13,19590824
 63,78,Mary Lou,Ronnie Hawkins And The Hawks,Ronnie Hawkins And The Hawks,pop,60s,19590810,112,26,17,19590824
-64,50,You're So Fine,Falcons,Falcons,pop,electronic,19590420,88,17,20,19590824
+64,50,You're So Fine,Falcons,Falcons,electronic,electronic,19590420,88,17,20,19590824
 65,39,I Only Have Eyes For You,Flamingos,Flamingos,pop,doo wop,19590601,60,11,13,19590824
 66,80,Midnight Flyer,Nat King Cole,Nat King Cole,jazz,jazz,19590803,94,51,12,19590824
 67,46,Frankie,Connie Francis,Connie Francis,pop,oldies,19590518,66,9,15,19590824
@@ -2233,7 +2233,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 47,49,Angel Face,Jimmy Darren,Jimmy Darren,pop,doo wop,19590720,115,47,10,19590817
 48,53,Tennessee Stud,Eddy Arnold,Eddy Arnold,country / folk,country,19590713,88,48,10,19590817
 49,68,Caribbean,Mitchell Torok,Mitchell Torok,rock,rockabilly,19590727,114,27,15,19590817
-50,29,You're So Fine,Falcons,Falcons,pop,electronic,19590420,88,17,20,19590817
+50,29,You're So Fine,Falcons,Falcons,electronic,electronic,19590420,88,17,20,19590817
 51,78,I Love You Porgy,Nina Simone,Nina Simone,jazz,jazz,19590803,91,18,15,19590817
 52,41,M.T.A.,Kingston Trio,Kingston Trio,country / folk,folk,19590615,74,15,11,19590817
 53,54,Cry,Knightbridge Strings,Knightbridge Strings,pop,unknown,19590713,110,53,8,19590817
@@ -2327,7 +2327,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 26,11,Lipstick On Your Collar,Connie Francis,Connie Francis,pop,oldies,19590518,57,5,17,19590810
 27,19,Personality,Lloyd Price,Lloyd Price,rnb / soul,soul,19590427,65,2,19,19590810
 28,31,Robbin' The Cradle,Tony Bellus,Tony Bellus,pop,pop,19590427,87,25,26,19590810
-29,29,You're So Fine,Falcons,Falcons,pop,electronic,19590420,88,17,20,19590810
+29,29,You're So Fine,Falcons,Falcons,electronic,electronic,19590420,88,17,20,19590810
 30,20,I'll Be Satisfied,Jackie Wilson,Jackie Wilson,rnb / soul,soul,19590615,106,20,13,19590810
 31,33,Till There Was You,Anita Bryant,Anita Bryant,pop,female vocalists,19590622,102,30,14,19590810
 32,36,Hushabye,Mystics,Mystics,pop,all,19590525,81,20,15,19590810
@@ -2442,7 +2442,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 26,30,Small World,Johnny Mathis,Johnny Mathis,pop,oldies,19590615,97,20,15,19590803
 27,24,Frankie,Connie Francis,Connie Francis,pop,oldies,19590518,66,9,15,19590803
 28,47,Thank You Pretty Baby,Brook Benton,Brook Benton,rnb / soul,soul,19590713,76,16,14,19590803
-29,21,You're So Fine,Falcons,Falcons,pop,electronic,19590420,88,17,20,19590803
+29,21,You're So Fine,Falcons,Falcons,electronic,electronic,19590420,88,17,20,19590803
 30,19,M.T.A.,Kingston Trio,Kingston Trio,country / folk,folk,19590615,74,15,11,19590803
 31,34,Robbin' The Cradle,Tony Bellus,Tony Bellus,pop,pop,19590427,87,25,26,19590803
 32,63,Three Bells,The Browns,The Browns,pop,horror punk,19590720,112,1,18,19590803
@@ -2549,7 +2549,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 18,25,Ragtime Cowboy Joe,David Seville & The Chipmunks,David Seville & The Chipmunks,pop,comedy,19590629,101,16,10,19590727
 19,19,M.T.A.,Kingston Trio,Kingston Trio,country / folk,folk,19590615,74,15,11,19590727
 20,17,Twixt Twelve & Twenty,Pat Boone,Pat Boone,pop,oldies,19590615,61,17,16,19590727
-21,20,You're So Fine,Falcons,Falcons,pop,electronic,19590420,88,17,20,19590727
+21,20,You're So Fine,Falcons,Falcons,electronic,electronic,19590420,88,17,20,19590727
 22,27,My Wish Came True,Elvis Presley,Elvis Presley,rock,rock n roll,19590713,39,12,11,19590727
 23,21,Hushabye,Mystics,Mystics,pop,all,19590525,81,20,15,19590727
 24,15,Frankie,Connie Francis,Connie Francis,pop,oldies,19590518,66,9,15,19590727
@@ -2620,9 +2620,9 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 89,NEW,Sweet Someone,Eddie And Betty,Eddie And Betty,pop,unknown,19590727,89,87,2,19590727
 90,95,Linda Lu,Ray Sharpe,Ray Sharpe,rock,rockabilly,19590720,95,46,13,19590727
 91,94,Bells Bells Bells,Billy & Lillie,Billy & Lillie,pop,all,19590629,112,88,6,19590727
-92,59,Velvet Waters,Megatrons,Megatrons,pop,electronic,19590601,74,51,9,19590727
+92,59,Velvet Waters,Megatrons,Megatrons,electronic,electronic,19590601,74,51,9,19590727
 93,100,Summer's Love,Richard Barrett & The Chantels,Richard Barrett,pop,contemporary classical,19590720,100,93,2,19590727
-94,78,Rockin' In The Jungle,Eternals,Eternals,pop,electronic,19590629,104,78,5,19590727
+94,78,Rockin' In The Jungle,Eternals,Eternals,electronic,electronic,19590629,104,78,5,19590727
 95,NEW,Sleep Walk,Santo & Johnny,Santo & Johnny,pop,oldies,19590727,95,1,18,19590727
 96,114,So High So Low,Lavern Baker,Lavern Baker,pop,rhythm and blues,19590720,114,52,11,19590727
 97,NEW,With Open Arms,Jane Morgan,Jane Morgan,pop,50s,19590727,97,39,11,19590727
@@ -2663,7 +2663,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 17,18,Twixt Twelve & Twenty,Pat Boone,Pat Boone,pop,oldies,19590615,61,17,16,19590720
 18,24,Sweeter Than You,Ricky Nelson,Ricky Nelson,rock,rockabilly,19590706,53,9,12,19590720
 19,15,M.T.A.,Kingston Trio,Kingston Trio,country / folk,folk,19590615,74,15,11,19590720
-20,17,You're So Fine,Falcons,Falcons,pop,electronic,19590420,88,17,20,19590720
+20,17,You're So Fine,Falcons,Falcons,electronic,electronic,19590420,88,17,20,19590720
 21,27,Hushabye,Mystics,Mystics,pop,all,19590525,81,20,15,19590720
 22,23,What A Difference A Day Makes,Dinah Washington,Dinah Washington,jazz,jazz,19590525,77,8,20,19590720
 23,32,Just A Little Too Much,Ricky Nelson,Ricky Nelson,rock,rockabilly,19590629,63,9,13,19590720
@@ -2702,7 +2702,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 56,45,So Fine,Fiestas,Fiestas,pop,doo wop,19590406,77,11,16,19590720
 57,84,Lonely Guitar,Annette,Annette,pop,acid house,19590629,110,50,12,19590720
 58,37,Back In The U.S.A.,Chuck Berry,Chuck Berry,rock,rock and roll,19590622,56,37,8,19590720
-59,68,Velvet Waters,Megatrons,Megatrons,pop,electronic,19590601,74,51,9,19590720
+59,68,Velvet Waters,Megatrons,Megatrons,electronic,electronic,19590601,74,51,9,19590720
 60,76,Thank You Pretty Baby,Brook Benton,Brook Benton,rnb / soul,soul,19590713,76,16,14,19590720
 61,47,I Know,Perry Como,Perry Como,jazz,jazz,19590608,92,47,9,19590720
 62,72,The Whistling Organ,Dave 'Baby' Cortez,Dave Baby Cortez,pop,instrumental,19590608,100,61,8,19590720
@@ -2721,7 +2721,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 75,92,Crackin' Up,Bo Diddley,Bo Diddley,rock,blues,19590706,98,62,5,19590720
 76,93,To A Soldier Boy,Tassels,Tassels,pop,noise,19590713,93,55,7,19590720
 77,99,I Still Get Jealous,Joni James,Joni James,jazz,jazz,19590706,109,63,7,19590720
-78,95,Rockin' In The Jungle,Eternals,Eternals,pop,electronic,19590629,104,78,5,19590720
+78,95,Rockin' In The Jungle,Eternals,Eternals,electronic,electronic,19590629,104,78,5,19590720
 79,105,Sugaree,Rusty York,Rusty York,rock,rockabilly,19590713,105,77,4,19590720
 80,88,Tennessee Stud,Eddy Arnold,Eddy Arnold,country / folk,country,19590713,88,48,10,19590720
 81,85,See You In September,Tempos,Tempos,rnb / soul,soul,19590629,90,23,14,19590720
@@ -2775,7 +2775,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 14,9,Frankie,Connie Francis,Connie Francis,pop,oldies,19590518,66,9,15,19590713
 15,18,M.T.A.,Kingston Trio,Kingston Trio,country / folk,folk,19590615,74,15,11,19590713
 16,11,Along Came Jones,Coasters,Coasters,pop,oldies,19590518,88,9,12,19590713
-17,20,You're So Fine,Falcons,Falcons,pop,electronic,19590420,88,17,20,19590713
+17,20,You're So Fine,Falcons,Falcons,electronic,electronic,19590420,88,17,20,19590713
 18,24,Twixt Twelve & Twenty,Pat Boone,Pat Boone,pop,oldies,19590615,61,17,16,19590713
 19,15,Bongo Rock,Preston Epps,Preston Epps,pop,instrumental,19590518,80,14,13,19590713
 20,28,There Goes My Baby,Drifters,Drifters,rnb / soul,soul,19590601,98,2,19,19590713
@@ -2826,7 +2826,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 65,75,Till There Was You,Anita Bryant,Anita Bryant,pop,female vocalists,19590622,102,30,14,19590713
 66,45,Cap & Gown,Marty Robbins,Marty Robbins,country / folk,country,19590615,100,45,6,19590713
 67,89,What Is Love,Playmates,Playmates,pop,punk,19590706,89,15,13,19590713
-68,63,Velvet Waters,Megatrons,Megatrons,pop,electronic,19590601,74,51,9,19590713
+68,63,Velvet Waters,Megatrons,Megatrons,electronic,electronic,19590601,74,51,9,19590713
 69,74,It Was I,Skip & Flip,Skip & Flip,pop,oldies,19590622,98,11,16,19590713
 70,66,I Love An Angel,Little Bill & The Bluetones,Little Bill,rock,rockabilly,19590622,84,66,6,19590713
 71,78,Bei mir bist du schon,Louis Prima & Keely Smith,Louis Prima & Keely Smith,jazz,jazz,19590706,78,69,6,19590713
@@ -2853,7 +2853,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 92,98,Crackin' Up,Bo Diddley,Bo Diddley,rock,blues,19590706,98,62,5,19590713
 93,NEW,To A Soldier Boy,Tassels,Tassels,pop,noise,19590713,93,55,7,19590713
 94,102,I'm Coming Home,Marv Johnson,Marv Johnson,rnb / soul,soul,19590706,102,82,5,19590713
-95,108,Rockin' In The Jungle,The Eternals,The Eternals,pop,electronic,19590629,104,78,5,19590713
+95,108,Rockin' In The Jungle,The Eternals,The Eternals,electronic,electronic,19590629,104,78,5,19590713
 96,NEW,Dedicated To The One I Love,Shirelles,Shirelles,pop,60s,19590713,96,83,4,19590713
 97,103,Little Girl,Ritchie Valens,Ritchie Valens,rock,rock and roll,19590706,103,92,3,19590713
 98,113,"Bells, Bells, Bells (The Bell Song)",Billy And Lillie,Billy And Lillie,pop,all,19590629,112,88,6,19590713
@@ -2893,7 +2893,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 17,7,Kansas City,Wilbert Harrison,Wilbert Harrison,pop,50s,19590413,100,1,16,19590706
 18,28,M.T.A.,Kingston Trio,Kingston Trio,country / folk,folk,19590615,74,15,11,19590706
 19,10,A Teenager In Love,Dion And The Belmonts,Dion And The Belmonts,pop,doo wop,19590420,69,5,15,19590706
-20,21,You're So Fine,Falcons,Falcons,pop,electronic,19590420,88,17,20,19590706
+20,21,You're So Fine,Falcons,Falcons,electronic,electronic,19590420,88,17,20,19590706
 21,18,Just Keep It Up,Dee Clark,Dee Clark,rnb / soul,soul,19590504,81,18,15,19590706
 22,20,Hushabye,Mystics,Mystics,pop,all,19590525,81,20,15,19590706
 23,31,Forthy Miles Of Bad Road,Duane Eddy,Duane Eddy,rock,rockabilly,19590615,96,9,15,19590706
@@ -2936,7 +2936,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 60,64,With My Eyes Wide Open I'm Dreaming,Patti Page,Patti Page,jazz,jazz,19590608,111,59,8,19590706
 61,62,The Whistling Organ,Dave 'Baby' Cortez,Dave Baby Cortez,pop,instrumental,19590608,100,61,8,19590706
 62,78,Cherrystone,Addrisi Brothers,Addrisi Brothers,pop,pop,19590622,85,62,4,19590706
-63,51,Velvet Waters,Megatrons,Megatrons,pop,electronic,19590601,74,51,9,19590706
+63,51,Velvet Waters,Megatrons,Megatrons,electronic,electronic,19590601,74,51,9,19590706
 64,72,There Is Something On Your Mind,Big Jay Neeley Band,Big Jay Neeley Band,pop,unknown,19590525,89,44,16,19590706
 65,101,Ragtime Cowboy Joe,David Seville And The Chipmunks,David Seville And The Chipmunks,pop,unknown,19590629,101,16,10,19590706
 66,71,I Love An Angel,Little Bill & The Bluetones,Little Bill,rock,rockabilly,19590622,84,66,6,19590706
@@ -2981,7 +2981,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 105,NEW,Martinique,Martin Denny,Martin Denny,pop,exotica,19590706,105,88,4,19590706
 106,NEW,With All Of My Heart,Brook Benton,Brook Benton,rnb / soul,soul,19590706,106,106,1,19590706
 107,103,Time Has A Way,Sammy Fletcher,Sammy Fletcher,pop,unknown,19590622,106,103,3,19590706
-108,104,Rockin' In The Jungle,The Eternals,The Eternals,pop,electronic,19590629,104,78,5,19590706
+108,104,Rockin' In The Jungle,The Eternals,The Eternals,electronic,electronic,19590629,104,78,5,19590706
 109,NEW,I Still Get Jealous,Joni James,Joni James,jazz,jazz,19590706,109,63,7,19590706
 110,108,Katy Too,Johnny Cash And The Tennessee Two,Johnny Cash And The Tennessee Two,country / folk,country,19590629,108,66,10,19590706
 111,109,Baby Talk,Jan And Dean,Jan And Dean,pop,surf,19590629,109,103,4,19590706
@@ -3009,7 +3009,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 18,22,Just Keep It Up,Dee Clark,Dee Clark,rnb / soul,soul,19590504,81,18,15,19590629
 19,34,Tiger,Fabian,Fabian,pop,50s,19590608,115,3,14,19590629
 20,33,Hushabye,Mystics,Mystics,pop,all,19590525,81,20,15,19590629
-21,31,You're So Fine,Falcons,Falcons,pop,electronic,19590420,88,17,20,19590629
+21,31,You're So Fine,Falcons,Falcons,electronic,electronic,19590420,88,17,20,19590629
 22,15,So Fine,Fiestas,Fiestas,pop,doo wop,19590406,77,11,16,19590629
 23,12,Only You,Frank Pourcel'S French Fiddles,Frank Pourcels French Fiddles,pop,unknown,19590406,95,9,16,19590629
 24,14,Kookie Kookie,Ed Byrnes & Connie Stevens,Ed Byrnes,pop,unknown,19590420,72,4,13,19590629
@@ -3039,7 +3039,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 48,63,I'll Be Satisfied,Jackie Wilson,Jackie Wilson,rnb / soul,soul,19590615,106,20,13,19590629
 49,60,Lavender Blue,Sammy Turner,Sammy Turner,pop,60s,19590622,60,3,18,19590629
 50,46,Mona Lisa,Carl Mann,Carl Mann,rock,rockabilly,19590601,82,25,16,19590629
-51,57,Velvet Waters,Megatrons,Megatrons,pop,electronic,19590601,74,51,9,19590629
+51,57,Velvet Waters,Megatrons,Megatrons,electronic,electronic,19590601,74,51,9,19590629
 52,56,Back In The U.S.A.,Chuck Berry,Chuck Berry,rock,rock and roll,19590622,56,37,8,19590629
 53,55,Since You've Been Gone,Clyde Mcphatter,Clyde Mcphatter,rnb / soul,soul,19590615,62,38,13,19590629
 54,48,Gidget,Jimmy Darren,Jimmy Darren,pop,doo wop,19590427,89,41,12,19590629
@@ -3092,7 +3092,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 101,NEW,Ragtime Cowboy Joe,David Seville And The Chipmunks,David Seville And The Chipmunks,pop,unknown,19590629,101,16,10,19590629
 102,NEW,A Big Hunk O'Love,Elvis Presley,Elvis Presley,rock,rock n roll,19590629,102,1,15,19590629
 103,106,Time Has A Way,Sammy Fletcher,Sammy Fletcher,pop,unknown,19590622,106,103,3,19590629
-104,NEW,Rockin' In The Jungle,The Eternals,The Eternals,pop,electronic,19590629,104,78,5,19590629
+104,NEW,Rockin' In The Jungle,The Eternals,The Eternals,electronic,electronic,19590629,104,78,5,19590629
 105,104,I Know It's Hard But It's Fair,"The ""5"" Royales","The ""5"" Royales",pop,doo wop,19590608,103,103,4,19590629
 106,113,Tennessee Stud,Eddy Arnold,Eddy Arnold,country / folk,country,19590622,113,106,2,19590629
 107,NEW,Pure Love,Sonny James With The Eligibles,Sonny James With The Eligibles,pop,unknown,19590629,107,107,1,19590629
@@ -3134,7 +3134,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 28,38,The Wonder Of You,Ray Peterson,Ray Peterson,pop,60s,19590518,94,25,16,19590622
 29,26,My Melancholy Baby,Tommy Edwards,Tommy Edwards,pop,50s,19590518,64,26,8,19590622
 30,36,This I Swear,Skyliners,Skyliners,pop,doo wop,19590601,87,26,12,19590622
-31,25,You're So Fine,Falcons,Falcons,pop,electronic,19590420,88,17,20,19590622
+31,25,You're So Fine,Falcons,Falcons,electronic,electronic,19590420,88,17,20,19590622
 32,35,Little Dipper,Mickey Mozart Quintet,Mickey Mozart Quintet,pop,unknown,19590601,71,30,9,19590622
 33,31,Hushabye,Mystics,Mystics,pop,all,19590525,81,20,15,19590622
 34,55,Tiger,Fabian,Fabian,pop,50s,19590608,115,3,14,19590622
@@ -3160,7 +3160,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 54,61,Twixt Twelve & Twenty,Pat Boone,Pat Boone,pop,oldies,19590615,61,17,16,19590622
 55,62,Since You've Been Gone,Clyde Mcphatter,Clyde Mcphatter,rnb / soul,soul,19590615,62,38,13,19590622
 56,NEW,Back In The U.S.A.,Chuck Berry,Chuck Berry,rock,rock and roll,19590622,56,37,8,19590622
-57,65,Velvet Waters,Megatrons,Megatrons,pop,electronic,19590601,74,51,9,19590622
+57,65,Velvet Waters,Megatrons,Megatrons,electronic,electronic,19590601,74,51,9,19590622
 58,53,You Made Me Love You,Nat King Cole,Nat King Cole,jazz,jazz,19590504,87,45,9,19590622
 59,64,Danny Boy,Sil Austin,Sil Austin,jazz,jazz,19590601,73,59,12,19590622
 60,NEW,Lavender Blue,Sammy Turner,Sammy Turner,pop,60s,19590622,60,3,18,19590622
@@ -3243,7 +3243,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 22,20,Just Keep It Up,Dee Clark,Dee Clark,rnb / soul,soul,19590504,81,18,15,19590615
 23,23,Crossfire,Johnny And The Hurricanes,Johnny And The Hurricanes,rock,rockabilly,19590427,88,23,14,19590615
 24,39,Waterloo,Stonewall Jackson,Stonewall Jackson,country / folk,country,19590525,98,4,16,19590615
-25,32,You're So Fine,Falcons,Falcons,pop,electronic,19590420,88,17,20,19590615
+25,32,You're So Fine,Falcons,Falcons,electronic,electronic,19590420,88,17,20,19590615
 26,26,My Melancholy Baby,Tommy Edwards,Tommy Edwards,pop,50s,19590518,64,26,8,19590615
 27,31,My Heart Is An Open Book,Carl Dobkins Jnr.,Carl Dobkins Jnr.,pop,unknown,19590427,83,3,23,19590615
 28,69,A Boy Without A Girl,Frankie Avalon,Frankie Avalon,pop,oldies,19590525,63,10,14,19590615
@@ -3283,7 +3283,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 62,NEW,Since You've Been Gone,Clyde Mcphatter,Clyde Mcphatter,rnb / soul,soul,19590615,62,38,13,19590615
 63,67,I'm Gonna Change Him,Cathy Carr,Cathy Carr,pop,60s,19590601,103,63,5,19590615
 64,78,Danny Boy,Sil Austin,Sil Austin,jazz,jazz,19590601,73,59,12,19590615
-65,79,Velvet Waters,Megatrons,Megatrons,pop,electronic,19590601,74,51,9,19590615
+65,79,Velvet Waters,Megatrons,Megatrons,electronic,electronic,19590601,74,51,9,19590615
 66,60,Come Softly To Me,Fleetwoods,Fleetwoods,pop,oldies,19590309,55,1,16,19590615
 67,44,Poor Jenny,Everly Brothers,Everly Brothers,pop,oldies,19590330,69,22,12,19590615
 68,64,A String Of Trumpets,Trumpeteers,Trumpeteers,pop,gospel,19590427,96,64,9,19590615
@@ -3365,7 +3365,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 29,21,Guitar Boogie Shuffle,Virtues,Virtues,rock,metalcore,19590309,81,5,16,19590608
 30,20,Pink Shoelaces,Dodie Stevens,Dodie Stevens,pop,50s,19590216,96,3,19,19590608
 31,31,My Heart Is An Open Book,Carl Dobkins Jnr.,Carl Dobkins Jnr.,pop,unknown,19590427,83,3,23,19590608
-32,44,You're So Fine,Falcons,Falcons,pop,electronic,19590420,88,17,20,19590608
+32,44,You're So Fine,Falcons,Falcons,electronic,electronic,19590420,88,17,20,19590608
 33,18,Take A Message To Mary,Everly Brothers,Everly Brothers,pop,oldies,19590330,61,16,13,19590608
 34,28,I've Come Of Age,Billy Storm,Billy Storm,rock,rock n roll,19590413,91,28,14,19590608
 35,60,I Only Have Eyes For You,Flamingos,Flamingos,pop,doo wop,19590601,60,11,13,19590608
@@ -3412,7 +3412,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 76,77,I Can't Get You Out Of My Heart,Al Martino,Al Martino,jazz,swing,19590518,100,44,9,19590608
 77,98,There Goes My Baby,Drifters,Drifters,rnb / soul,soul,19590601,98,2,19,19590608
 78,73,Danny Boy,Sil Austin,Sil Austin,jazz,jazz,19590601,73,59,12,19590608
-79,74,Velvet Waters,Megatrons,Megatrons,pop,electronic,19590601,74,51,9,19590608
+79,74,Velvet Waters,Megatrons,Megatrons,electronic,electronic,19590601,74,51,9,19590608
 80,72,Lonely Saturday Night,Don French,Don French,rock,rockabilly,19590525,92,72,3,19590608
 81,90,Sweet Chile,Sheb Wooley,Sheb Wooley,pop,comedy,19590601,90,70,6,19590608
 82,62,Only Love Me,Steve Lawrence,Steve Lawrence,pop,easy listening,19590518,92,62,4,19590608
@@ -3443,7 +3443,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 107,NEW,Smiles,Art Mooney And His Orchestra,Art Mooney And His Orchestra,pop,unknown,19590608,107,107,2,19590608
 108,105,Getting Nearer,John Lester And Mello-Queens,John Lester And Mello-Queens,pop,unknown,19590601,105,105,3,19590608
 109,108,I'm Confessin' (That I Love You),Terri Dean,Terri Dean,rock,rock n roll,19590601,108,107,3,19590608
-110,102,Rockin' In The Jungle,The Eternals,The Eternals,pop,electronic,19590601,102,102,2,19590608
+110,102,Rockin' In The Jungle,The Eternals,The Eternals,electronic,electronic,19590601,102,102,2,19590608
 111,NEW,With My Eyes Wide Open I'm Dreaming,Patti Page,Patti Page,jazz,jazz,19590608,111,59,8,19590608
 112,NEW,With My Eyes Wide Open I'm Dreaming,Enoch Light And The Light Brigade,Enoch Light And The Light Brigade,pop,easy listening,19590608,112,99,2,19590608
 113,114,Crying My Heart Out For You,Neil Sedaka,Neil Sedaka,pop,oldies,19590601,114,111,4,19590608
@@ -3492,7 +3492,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 41,26,Poor Jenny,Everly Brothers,Everly Brothers,pop,oldies,19590330,69,22,12,19590601
 42,32,Six Nights A Week,Crests,Crests,rnb / soul,soul,19590323,96,28,13,19590601
 43,27,The Tijuana Jail,Kingston Trio,Kingston Trio,country / folk,folk,19590323,72,12,13,19590601
-44,53,You're So Fine,Falcons,Falcons,pop,electronic,19590420,88,17,20,19590601
+44,53,You're So Fine,Falcons,Falcons,electronic,electronic,19590420,88,17,20,19590601
 45,46,You Made Me Love You,Nat King Cole,Nat King Cole,jazz,jazz,19590504,87,45,9,19590601
 46,25,Since I Don't Have You,Skyliners,Skyliners,pop,doo wop,19590216,94,12,19,19590601
 47,67,The Wonder Of You,Ray Peterson,Ray Peterson,pop,60s,19590518,94,25,16,19590601
@@ -3522,7 +3522,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 71,NEW,Little Dipper,Mickey Mozart Quintet,Mickey Mozart Quintet,pop,unknown,19590601,71,30,9,19590601
 72,92,Lonely Saturday Night,Don French,Don French,rock,rockabilly,19590525,92,72,3,19590601
 73,NEW,Danny Boy,Sil Austin,Sil Austin,jazz,jazz,19590601,73,59,12,19590601
-74,NEW,Velvet Waters,Megatrons,Megatrons,pop,electronic,19590601,74,51,9,19590601
+74,NEW,Velvet Waters,Megatrons,Megatrons,electronic,electronic,19590601,74,51,9,19590601
 75,88,White Ligthning,George Jones,George Jones,country / folk,country,19590525,88,73,3,19590601
 76,NEW,Old Spanish Town,Bell Notes,Bell Notes,pop,oldies,19590601,76,76,3,19590601
 77,94,I Can't Get You Out Of My Heart,Al Martino,Al Martino,jazz,swing,19590518,100,44,9,19590601
@@ -3550,7 +3550,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 99,NEW,Cherrystone,Addrisi Brothers,Addrisi Brothers,pop,pop,19590601,99,94,2,19590601
 100,NEW,Jack O'Diamonds,Ruth Brown,Ruth Brown,rock,blues,19590601,100,96,2,19590601
 101,NEW,A Prayer And A Juke Box,Little Anthony And The Imperials,Little Anthony And The Imperials,rnb / soul,soul,19590601,101,81,6,19590601
-102,NEW,Rockin' In The Jungle,The Eternals,The Eternals,pop,electronic,19590601,102,102,2,19590601
+102,NEW,Rockin' In The Jungle,The Eternals,The Eternals,electronic,electronic,19590601,102,102,2,19590601
 103,NEW,I'm Gonna Change Him,Cathy Carr,Cathy Carr,pop,60s,19590601,103,63,5,19590601
 104,NEW,Mama's Place,Bing Day,Bing Day,rock,rockabilly,19590601,104,104,3,19590601
 105,NEW,Getting Nearer,John Lester And Mello-Queens,John Lester And Mello-Queens,pop,unknown,19590601,105,105,3,19590601
@@ -3616,7 +3616,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 50,38,This Should Go On Forever,Rod Bernard,Rod Bernard,rock,rockabilly,19590309,86,20,12,19590525
 51,74,Tall Cool One,Wailers,Wailers,rock,garage rock,19590518,74,36,13,19590525
 52,43,As Time Goes By,Johnny Nash,Johnny Nash,reggae,reggae,19590316,87,43,11,19590525
-53,50,You're So Fine,Falcons,Falcons,pop,electronic,19590420,88,17,20,19590525
+53,50,You're So Fine,Falcons,Falcons,electronic,electronic,19590420,88,17,20,19590525
 54,52,Castin' My Spell,Johnny Otis Show,Johnny Otis Show,rock,blues,19590427,80,52,5,19590525
 55,64,My Melancholy Baby,Tommy Edwards,Tommy Edwards,pop,50s,19590518,64,26,8,19590525
 56,54,Crossfire,Johnny And The Hurricanes,Johnny And The Hurricanes,rock,rockabilly,19590427,88,23,14,19590525
@@ -3713,7 +3713,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 47,40,I Miss You So,Paul Anka,Paul Anka,jazz,swing,19590330,97,33,9,19590518
 48,54,I've Waited Too Long,Lavern Baker,Lavern Baker,pop,rhythm and blues,19590420,95,33,11,19590518
 49,39,It's Just A Matter Of Time,Brook Benton,Brook Benton,rnb / soul,soul,19590126,92,3,18,19590518
-50,64,You're So Fine,Falcons,Falcons,pop,electronic,19590420,88,17,20,19590518
+50,64,You're So Fine,Falcons,Falcons,electronic,electronic,19590420,88,17,20,19590518
 51,50,Bonaparte's Retreat,Billy Grammer,Billy Grammer,country / folk,country,19590413,87,50,9,19590518
 52,57,Castin' My Spell,Johnny Otis Show,Johnny Otis Show,rock,blues,19590427,80,52,5,19590518
 53,96,Tallahassie Lassie,Freddy Cannon,Freddy Cannon,pop,oldies,19590511,96,6,15,19590518
@@ -3827,7 +3827,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 61,54,No Other Arms No Other Lips,Chordettes,Chordettes,pop,50s,19590302,70,27,11,19590511
 62,88,Summer Dreams,Mcguire Sisters,Mcguire Sisters,pop,jazz vocal,19590427,99,55,7,19590511
 63,44,Please Mr. Sun,Tommy Edwards,Tommy Edwards,pop,50s,19590216,73,11,13,19590511
-64,59,You're So Fine,Falcons,Falcons,pop,electronic,19590420,88,17,20,19590511
+64,59,You're So Fine,Falcons,Falcons,electronic,electronic,19590420,88,17,20,19590511
 65,78,The Kissing Tree,Billy Grammer,Billy Grammer,country / folk,country,19590413,76,60,7,19590511
 66,43,Charlie Brown,Coasters,Coasters,pop,oldies,19590202,69,2,15,19590511
 67,62,I Need Your Lovin',Roy Hamilton,Roy Hamilton,rnb / soul,soul,19590420,78,62,5,19590511
@@ -3922,7 +3922,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 56,61,I've Come Of Age,Billy Storm,Billy Storm,rock,rock n roll,19590413,91,28,14,19590504
 57,45,If I Didn't Care,Connie Francis,Connie Francis,pop,oldies,19590302,75,22,11,19590504
 58,41,Where Were You On Our Wedding Day,Lloyd Price,Lloyd Price,rnb / soul,soul,19590302,72,23,11,19590504
-59,72,You're So Fine,Falcons,Falcons,pop,electronic,19590420,88,17,20,19590504
+59,72,You're So Fine,Falcons,Falcons,electronic,electronic,19590420,88,17,20,19590504
 60,57,Bonaparte's Retreat,Billy Grammer,Billy Grammer,country / folk,country,19590413,87,50,9,19590504
 61,60,Lonely For You,Gary Stites,Gary Stites,pop,doo wop,19590413,94,24,14,19590504
 62,63,I Need Your Lovin',Roy Hamilton,Roy Hamilton,rnb / soul,soul,19590420,78,62,5,19590504
@@ -4035,7 +4035,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 69,76,77 Sunset Strip,Don Ralke,Don Ralke,pop,lounge,19590406,96,69,5,19590427
 70,58,I Cried A Tear,Lavern Baker,Lavern Baker,pop,rhythm and blues,19581208,93,5,21,19590427
 71,74,Who's That Knockin',Genies,Genies,pop,doo wop,19590330,88,71,6,19590427
-72,88,You're So Fine,Falcons,Falcons,pop,electronic,19590420,88,17,20,19590427
+72,88,You're So Fine,Falcons,Falcons,electronic,electronic,19590420,88,17,20,19590427
 73,80,Jo-Jo The Dog-Faced Boy,Annette,Annette,pop,acid house,19590413,90,73,4,19590427
 74,54,Peter Gunn,Ray Anthony,Ray Anthony,jazz,jazz,19590105,78,8,17,19590427
 75,92,You Can't Be True Dear,Mary Kaye Trio,Mary Kaye Trio,pop,unknown,19590413,99,75,3,19590427
@@ -4151,7 +4151,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 85,91,I've Come Of Age,Billy Storm,Billy Storm,rock,rock n roll,19590413,91,28,14,19590420
 86,56,May You Always,Mcguire Sisters,Mcguire Sisters,pop,jazz vocal,19590105,84,11,16,19590420
 87,94,Lonely For You,Gary Stites,Gary Stites,pop,doo wop,19590413,94,24,14,19590420
-88,NEW,You're So Fine,Falcons,Falcons,pop,electronic,19590420,88,17,20,19590420
+88,NEW,You're So Fine,Falcons,Falcons,electronic,electronic,19590420,88,17,20,19590420
 89,93,I Never Felt Like This,Jack Scott,Jack Scott,rock,rockabilly,19590406,99,78,4,19590420
 90,NEW,Dream Lover,Bobby Darin,Bobby Darin,jazz,jazz,19590420,90,2,17,19590420
 91,83,Boom-A-Dip-Dip,Stan Robinson,Stan Robinson,pop,unknown,19590330,98,83,4,19590420

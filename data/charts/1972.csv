@@ -830,7 +830,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 29,30,Loving You Just Crossed My Mind,Sam Neely,Sam Neely,pop,unknown,19720902,88,29,12,19721104
 30,34,American City Suite (Sweet City Song/All Around The Town/A F,Cashman And West,Cashman And West,rock,rock,19720923,90,27,11,19721104
 31,59,You Ought To Be With Me,Al Green,Al Green,rnb / soul,soul,19721021,91,3,15,19721104
-32,24,Popcorn,Hot Butter,Hot Butter,pop,electronic,19720708,89,9,18,19721104
+32,24,Popcorn,Hot Butter,Hot Butter,electronic,electronic,19720708,89,9,18,19721104
 33,23,Don't Ever Be Lonely (A Poor Little Fool Like Me),Cornelius Brothers And Sister Rose,Cornelius Brothers And Sister Rose,rnb / soul,soul,19720902,80,23,11,19721104
 34,35,Don't Do It,The Band,The Band,rock,classic rock,19720916,86,34,11,19721104
 35,46,Operator (That's Not The Way It Feels),Jim Croce,Jim Croce,country / folk,folk,19721014,78,17,12,19721104
@@ -922,7 +922,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 21,7,Baby Don't Get Hooked On Me,Mac Davis,Mac Davis,country / folk,country,19720701,77,1,18,19721028
 22,25,Thunder And Lightning,Chi Coltrane,Chi Coltrane,pop,singer-songwriters,19720902,86,17,13,19721028
 23,24,Don't Ever Be Lonely (A Poor Little Fool Like Me),Cornelius Brothers And Sister Rose,Cornelius Brothers And Sister Rose,rnb / soul,soul,19720902,80,23,11,19721028
-24,9,Popcorn,Hot Butter,Hot Butter,pop,electronic,19720708,89,9,18,19721028
+24,9,Popcorn,Hot Butter,Hot Butter,electronic,electronic,19720708,89,9,18,19721028
 25,32,Spaceman,Nilsson,Nilsson,country / folk,singer-songwriter,19720916,90,23,10,19721028
 26,26,I Believe In Music,Gallery,Gallery,pop,sludge,19720812,97,22,16,19721028
 27,29,Midnight Rider / Woman To Woman,Joe Cocker & The Chris Stainton Band,Joe Cocker,rock,classic rock,19720916,70,27,8,19721028
@@ -1007,7 +1007,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 6,1,Ben,Michael Jackson,Michael Jackson,pop,pop,19720805,85,1,16,19721021
 7,6,Baby Don't Get Hooked On Me,Mac Davis,Mac Davis,country / folk,country,19720701,77,1,18,19721021
 8,12,Garden Party,Rick Nelson And The Stone Canyon Band,Rick Nelson And The Stone Canyon Band,country / folk,folk,19720729,99,6,19,19721021
-9,10,Popcorn,Hot Butter,Hot Butter,pop,electronic,19720708,89,9,18,19721021
+9,10,Popcorn,Hot Butter,Hot Butter,electronic,electronic,19720708,89,9,18,19721021
 10,5,Go All The Way,The Raspberries,The Raspberries,pop,power pop,19720701,88,5,18,19721021
 11,15,Tight Rope,Leon Russell,Leon Russell,rock,classic rock,19720826,82,11,12,19721021
 12,17,"Freddie's Dead (Theme From ""Superfly"")",Curtis Mayfield,Curtis Mayfield,rnb / soul,soul,19720819,95,4,16,19721021
@@ -1108,7 +1108,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 7,9,My Ding-A-Ling,Chuck Berry,Chuck Berry,rock,rock and roll,19720805,99,1,17,19721014
 8,12,Nights In White Satin,The Moody Blues,The Moody Blues,rock,classic rock,19720805,100,2,18,19721014
 9,3,Back Stabbers,The O'Jays,The O'Jays,rnb / soul,soul,19720722,77,3,15,19721014
-10,10,Popcorn,Hot Butter,Hot Butter,pop,electronic,19720708,89,9,18,19721014
+10,10,Popcorn,Hot Butter,Hot Butter,electronic,electronic,19720708,89,9,18,19721014
 11,11,Play Me,Neil Diamond,Neil Diamond,country / folk,singer-songwriter,19720812,87,11,11,19721014
 12,15,Garden Party,Rick Nelson And The Stone Canyon Band,Rick Nelson And The Stone Canyon Band,country / folk,folk,19720729,99,6,19,19721014
 13,17,You Wear It Well,Rod Stewart,Rod Stewart,rock,classic rock,19720826,87,13,10,19721014
@@ -1208,7 +1208,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 7,9,Burning Love / It's A Matter Of Time,Elvis Presley,Elvis Presley,rock,rock n roll,19720819,90,2,15,19721007
 8,2,Black & White,Three Dog Night,Three Dog Night,rock,classic rock,19720812,61,1,11,19721007
 9,13,My Ding-A-Ling,Chuck Berry,Chuck Berry,rock,rock and roll,19720805,99,1,17,19721007
-10,10,Popcorn,Hot Butter,Hot Butter,pop,electronic,19720708,89,9,18,19721007
+10,10,Popcorn,Hot Butter,Hot Butter,electronic,electronic,19720708,89,9,18,19721007
 11,12,Play Me,Neil Diamond,Neil Diamond,country / folk,singer-songwriter,19720812,87,11,11,19721007
 12,14,Nights In White Satin,The Moody Blues,The Moody Blues,rock,classic rock,19720805,100,2,18,19721007
 13,3,Saturday In The Park,Chicago,Chicago,rock,classic rock,19720805,60,3,12,19721007
@@ -1308,7 +1308,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 7,9,Go All The Way,The Raspberries,The Raspberries,pop,power pop,19720701,88,5,18,19720930
 8,13,Use Me,Bill Withers,Bill Withers,rnb / soul,soul,19720826,80,2,12,19720930
 9,18,Burning Love / It's A Matter Of Time,Elvis Presley,Elvis Presley,rock,rock n roll,19720819,90,2,15,19720930
-10,14,Popcorn,Hot Butter,Hot Butter,pop,electronic,19720708,89,9,18,19720930
+10,14,Popcorn,Hot Butter,Hot Butter,electronic,electronic,19720708,89,9,18,19720930
 11,11,Power Of Love,Joe Simon,Joe Simon,rnb / soul,soul,19720708,94,11,15,19720930
 12,12,Play Me,Neil Diamond,Neil Diamond,country / folk,singer-songwriter,19720812,87,11,11,19720930
 13,20,My Ding-A-Ling,Chuck Berry,Chuck Berry,rock,rock and roll,19720805,99,1,17,19720930
@@ -1412,7 +1412,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 11,14,Power Of Love,Joe Simon,Joe Simon,rnb / soul,soul,19720708,94,11,15,19720923
 12,17,Play Me,Neil Diamond,Neil Diamond,country / folk,singer-songwriter,19720812,87,11,11,19720923
 13,25,Use Me,Bill Withers,Bill Withers,rnb / soul,soul,19720826,80,2,12,19720923
-14,18,Popcorn,Hot Butter,Hot Butter,pop,electronic,19720708,89,9,18,19720923
+14,18,Popcorn,Hot Butter,Hot Butter,electronic,electronic,19720708,89,9,18,19720923
 15,15,Beautiful Sunday,Daniel Boone,Daniel Boone,pop,70s,19720603,100,15,20,19720923
 16,19,Run To Me,The Bee Gees,The Bee Gees,disco,disco,19720729,83,16,12,19720923
 17,20,Nights In White Satin,The Moody Blues,The Moody Blues,rock,classic rock,19720805,100,2,18,19720923
@@ -1516,7 +1516,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 15,16,Beautiful Sunday,Daniel Boone,Daniel Boone,pop,70s,19720603,100,15,20,19720916
 16,22,Everybody Plays The Fool,The Main Ingredient,The Main Ingredient,rnb / soul,soul,19720715,94,3,18,19720916
 17,21,Play Me,Neil Diamond,Neil Diamond,country / folk,singer-songwriter,19720812,87,11,11,19720916
-18,23,Popcorn,Hot Butter,Hot Butter,pop,electronic,19720708,89,9,18,19720916
+18,23,Popcorn,Hot Butter,Hot Butter,electronic,electronic,19720708,89,9,18,19720916
 19,20,Run To Me,The Bee Gees,The Bee Gees,disco,disco,19720729,83,16,12,19720916
 20,28,Nights In White Satin,The Moody Blues,The Moody Blues,rock,classic rock,19720805,100,2,18,19720916
 21,8,You Don't Mess Around With Jim,Jim Croce,Jim Croce,country / folk,folk,19720701,60,8,13,19720916
@@ -1621,7 +1621,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 20,27,Run To Me,The Bee Gees,The Bee Gees,disco,disco,19720729,83,16,12,19720909
 21,33,Play Me,Neil Diamond,Neil Diamond,country / folk,singer-songwriter,19720812,87,11,11,19720909
 22,32,Everybody Plays The Fool,The Main Ingredient,The Main Ingredient,rnb / soul,soul,19720715,94,3,18,19720909
-23,28,Popcorn,Hot Butter,Hot Butter,pop,electronic,19720708,89,9,18,19720909
+23,28,Popcorn,Hot Butter,Hot Butter,electronic,electronic,19720708,89,9,18,19720909
 24,13,(If Loving You Is Wrong) I Don't Want To Be Right,Luther Ingram,Luther Ingram,rnb / soul,soul,19720603,64,3,16,19720909
 25,30,Pop That Thang,The Isley Brothers,The Isley Brothers,rnb / soul,soul,19720701,87,24,15,19720909
 26,43,Ben,Michael Jackson,Michael Jackson,pop,pop,19720805,85,1,16,19720909
@@ -1726,7 +1726,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 25,15,Daddy Don't You Walk So Fast,Wayne Newton,Wayne Newton,jazz,swing,19720422,100,4,20,19720902
 26,19,Sealed With A Kiss,Bobby Vinton,Bobby Vinton,pop,oldies,19720610,73,19,14,19720902
 27,37,Run To Me,The Bee Gees,The Bee Gees,disco,disco,19720729,83,16,12,19720902
-28,33,Popcorn,Hot Butter,Hot Butter,pop,electronic,19720708,89,9,18,19720902
+28,33,Popcorn,Hot Butter,Hot Butter,electronic,electronic,19720708,89,9,18,19720902
 29,29,Small Beginnings,Flash,Flash,rock,progressive rock,19720624,95,29,12,19720902
 30,34,Pop That Thang,The Isley Brothers,The Isley Brothers,rnb / soul,soul,19720701,87,24,15,19720902
 31,18,Where Is The Love,Roberta Flack & Donny Hathaway,Roberta Flack & Donny Hathaway,rnb / soul,soul,19720610,68,5,13,19720902
@@ -1831,7 +1831,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 30,13,Too Late To Turn Back Now,Cornelius Brothers And Sister Rose,Cornelius Brothers And Sister Rose,rnb / soul,soul,19720527,73,2,14,19720826
 31,25,Lean On Me,Bill Withers,Bill Withers,rnb / soul,soul,19720422,83,1,19,19720826
 32,32,When You Say Love,Sonny And Cher,Sonny And Cher,pop,60s,19720708,99,32,10,19720826
-33,39,Popcorn,Hot Butter,Hot Butter,pop,electronic,19720708,89,9,18,19720826
+33,39,Popcorn,Hot Butter,Hot Butter,electronic,electronic,19720708,89,9,18,19720826
 34,36,Pop That Thang,The Isley Brothers,The Isley Brothers,rnb / soul,soul,19720701,87,24,15,19720826
 35,24,Gone,Joey Heatherton,Joey Heatherton,pop,pop,19720527,97,24,15,19720826
 36,41,You're Still A Young Man,The Tower Of Power,The Tower Of Power,rnb / soul,funk,19720715,81,29,12,19720826
@@ -1937,7 +1937,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 36,41,Pop That Thang,The Isley Brothers,The Isley Brothers,rnb / soul,soul,19720701,87,24,15,19720819
 37,42,Power Of Love,Joe Simon,Joe Simon,rnb / soul,soul,19720708,94,11,15,19720819
 38,39,Sweet Inspiration / Where You Lead (Medley),Barbra Streisand,Barbra Streisand,pop,female vocalists,19720624,81,37,12,19720819
-39,44,Popcorn,Hot Butter,Hot Butter,pop,electronic,19720708,89,9,18,19720819
+39,44,Popcorn,Hot Butter,Hot Butter,electronic,electronic,19720708,89,9,18,19720819
 40,45,Go All The Way,The Raspberries,The Raspberries,pop,power pop,19720701,88,5,18,19720819
 41,47,You're Still A Young Man,The Tower Of Power,The Tower Of Power,rnb / soul,funk,19720715,81,29,12,19720819
 42,43,I'm Coming Home,Stories,Stories,rock,metalcore,19720617,83,42,12,19720819
@@ -2042,7 +2042,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 41,42,Pop That Thang,The Isley Brothers,The Isley Brothers,rnb / soul,soul,19720701,87,24,15,19720812
 42,51,Power Of Love,Joe Simon,Joe Simon,rnb / soul,soul,19720708,94,11,15,19720812
 43,43,I'm Coming Home,Stories,Stories,rock,metalcore,19720617,83,42,12,19720812
-44,47,Popcorn,Hot Butter,Hot Butter,pop,electronic,19720708,89,9,18,19720812
+44,47,Popcorn,Hot Butter,Hot Butter,electronic,electronic,19720708,89,9,18,19720812
 45,57,Go All The Way,The Raspberries,The Raspberries,pop,power pop,19720701,88,5,18,19720812
 46,46,We've Came Too Far To End It Now,Smokey Robinson And The Miracles,Smokey Robinson And The Miracles,rnb / soul,soul,19720624,88,46,10,19720812
 47,52,You're Still A Young Man,The Tower Of Power,The Tower Of Power,rnb / soul,funk,19720715,81,29,12,19720812
@@ -2145,7 +2145,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 44,44,Honky Tonk (Part 1),The James Brown Soul Train,The James Brown Soul Train,rnb / soul,funk,19720624,74,44,8,19720805
 45,39,The Runway,The Grass Roots,The Grass Roots,rock,classic rock,19720617,81,39,9,19720805
 46,48,We've Came Too Far To End It Now,Smokey Robinson And The Miracles,Smokey Robinson And The Miracles,rnb / soul,soul,19720624,88,46,10,19720805
-47,52,Popcorn,Hot Butter,Hot Butter,pop,electronic,19720708,89,9,18,19720805
+47,52,Popcorn,Hot Butter,Hot Butter,electronic,electronic,19720708,89,9,18,19720805
 48,40,We're Free,Beverly Bremers,Beverly Bremers,pop,ballad,19720429,98,40,15,19720805
 49,54,In The Ghetto,Candi Staton,Candi Staton,rnb / soul,soul,19720624,86,48,11,19720805
 50,55,Back Stabbers,The O'Jays,The O'Jays,rnb / soul,soul,19720722,77,3,15,19720805
@@ -2250,7 +2250,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 49,70,Join Together,The Who,The Who,rock,classic rock,19720722,70,17,10,19720729
 50,84,Rock And Roll (Part 2),Gary Glitter,Gary Glitter,rock,glam rock,19720722,84,7,11,19720729
 51,46,Brown Eyed Girl,El Chicano,El Chicano,pop,latin,19720617,90,45,7,19720729
-52,66,Popcorn,Hot Butter,Hot Butter,pop,electronic,19720708,89,9,18,19720729
+52,66,Popcorn,Hot Butter,Hot Butter,electronic,electronic,19720708,89,9,18,19720729
 53,57,Pop That Thang,The Isley Brothers,The Isley Brothers,rnb / soul,soul,19720701,87,24,15,19720729
 54,55,In The Ghetto,Candi Staton,Candi Staton,rnb / soul,soul,19720624,86,48,11,19720729
 55,77,Back Stabbers,The O'Jays,The O'Jays,rnb / soul,soul,19720722,77,3,15,19720729
@@ -2364,7 +2364,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 63,67,I Miss You (Part 1),Harold Melvin And The Blue Notes,Harold Melvin And The Blue Notes,rnb / soul,soul,19720701,80,58,9,19720722
 64,71,Power Of Love,Joe Simon,Joe Simon,rnb / soul,soul,19720708,94,11,15,19720722
 65,65,Men Of Learning,Vigrass And Osborne,Vigrass And Osborne,rock,classic rock,19720617,89,65,7,19720722
-66,74,Popcorn,Hot Butter,Hot Butter,pop,electronic,19720708,89,9,18,19720722
+66,74,Popcorn,Hot Butter,Hot Butter,electronic,electronic,19720708,89,9,18,19720722
 67,72,A Simple Man,Lobo,Lobo,pop,70s,19720708,90,56,9,19720722
 68,75,Go All The Way,The Raspberries,The Raspberries,pop,power pop,19720701,88,5,18,19720722
 69,76,"Look What They've Done To My Song, Ma",Ray Charles,Ray Charles,jazz,jazz,19720708,79,65,6,19720722
@@ -2472,7 +2472,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 71,94,Power Of Love,Joe Simon,Joe Simon,rnb / soul,soul,19720708,94,11,15,19720715
 72,90,A Simple Man,Lobo,Lobo,pop,70s,19720708,90,56,9,19720715
 73,75,Rip Off,Laura Lee,Laura Lee,rnb / soul,soul,19720610,90,68,11,19720715
-74,89,Popcorn,Hot Butter,Hot Butter,pop,electronic,19720708,89,9,18,19720715
+74,89,Popcorn,Hot Butter,Hot Butter,electronic,electronic,19720708,89,9,18,19720715
 75,84,Go All The Way,The Raspberries,The Raspberries,pop,power pop,19720701,88,5,18,19720715
 76,79,"Look What They've Done To My Song, Ma",Ray Charles,Ray Charles,jazz,jazz,19720708,79,65,6,19720715
 77,77,Eddie's Love,Eddie Kendricks,Eddie Kendricks,rnb / soul,soul,19720610,91,77,8,19720715
@@ -2587,7 +2587,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 86,91,Tell Me This Is A Dream,The Delfonics,The Delfonics,rnb / soul,soul,19720624,96,86,3,19720708
 87,94,If I Were A Carpenter,Bob Seger,Bob Seger,rock,classic rock,19720701,94,76,9,19720708
 88,92,Delta Dawn,Tanya Tucker,Tanya Tucker,country / folk,country,19720701,92,72,7,19720708
-89,NEW,Popcorn,Hot Butter,Hot Butter,pop,electronic,19720708,89,9,18,19720708
+89,NEW,Popcorn,Hot Butter,Hot Butter,electronic,electronic,19720708,89,9,18,19720708
 90,NEW,A Simple Man,Lobo,Lobo,pop,70s,19720708,90,56,9,19720708
 91,90,Cat's Eye In The Window,Tommy James,Tommy James,rock,classic rock,19720617,100,90,4,19720708
 92,NEW,Zing Went The Strings Of My Heart,The Trammps,The Trammps,disco,disco,19720708,92,64,11,19720708

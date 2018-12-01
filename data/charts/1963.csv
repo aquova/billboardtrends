@@ -3480,7 +3480,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 61,83,Be True To Yourself,Bobby Vee,Bobby Vee,pop,oldies,19630615,116,34,8,19630629
 62,75,Shake A Tail Feather,The Five Du-Tones,The Five Du-Tones,rnb / soul,soul,19630518,90,51,12,19630629
 63,59,There Goes (My Heart Again),Fats Domino,Fats Domino,rock,blues,19630518,89,59,7,19630629
-64,56,I'm Movin' On,Matt Lucas,Matt Lucas,pop,electronic,19630413,118,56,12,19630629
+64,56,I'm Movin' On,Matt Lucas,Matt Lucas,electronic,electronic,19630413,118,56,12,19630629
 65,68,Gypsy Woman,Rick Nelson,Rick Nelson,rock,rockabilly,19630518,88,62,9,19630629
 66,60,Sting Ray,The Routers,The Routers,pop,60s,19630420,107,50,11,19630629
 67,73,Not Too Young To Get Married,Bobb B. Soxx And The Blue Jeans,Bobb B. Soxx And The Blue Jeans,pop,60s,19630601,115,63,7,19630629
@@ -3602,7 +3602,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 53,35,Let's Go Steady Again,Neil Sedaka,Neil Sedaka,pop,oldies,19630427,89,26,9,19630622
 54,66,Goodnight My Love,The Fleetwoods,The Fleetwoods,pop,oldies,19630601,84,32,11,19630622
 55,67,"Don't Try To Fight It, Baby",Eydie Gorme,Eydie Gorme,jazz,jazz,19630601,83,53,7,19630622
-56,60,I'm Movin' On,Matt Lucas,Matt Lucas,pop,electronic,19630413,118,56,12,19630622
+56,60,I'm Movin' On,Matt Lucas,Matt Lucas,electronic,electronic,19630413,118,56,12,19630622
 57,63,If You Need Me,Solomon Burke,Solomon Burke,rnb / soul,soul,19630420,91,37,11,19630622
 58,27,I Will Follow Him,Little Peggy March,Little Peggy March,pop,60s,19630323,90,1,14,19630622
 59,64,There Goes (My Heart Again),Fats Domino,Fats Domino,rock,blues,19630518,89,59,7,19630622
@@ -3738,7 +3738,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 57,90,Memphis,Lonnie Mack,Lonnie Mack,rock,blues,19630601,110,5,14,19630615
 58,88,"Tie Me Kangeroo Down, Sport",Rolf Harris,Rolf Harris,pop,seen live,19630608,88,3,11,19630615
 59,76,Falling,Roy Orbison,Roy Orbison,rock,classic rock,19630601,127,22,9,19630615
-60,62,I'm Movin' On,Matt Lucas,Matt Lucas,pop,electronic,19630413,118,56,12,19630615
+60,62,I'm Movin' On,Matt Lucas,Matt Lucas,electronic,electronic,19630413,118,56,12,19630615
 61,61,"Shame, Shame, Shame",Jimmy Reed,Jimmy Reed,rock,blues,19630413,95,52,10,19630615
 62,60,Teenage Heaven,Johnny Cymbal,Johnny Cymbal,rock,rockabilly,19630504,106,58,7,19630615
 63,43,If You Need Me,Solomon Burke,Solomon Burke,rnb / soul,soul,19630420,91,37,11,19630615
@@ -3875,7 +3875,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 59,72,Ring Of Fire,Johnny Cash,Johnny Cash,country / folk,country,19630525,124,17,14,19630608
 60,58,Teenage Heaven,Johnny Cymbal,Johnny Cymbal,rock,rockabilly,19630504,106,58,7,19630608
 61,63,"Shame, Shame, Shame",Jimmy Reed,Jimmy Reed,rock,blues,19630413,95,52,10,19630608
-62,77,I'm Movin' On,Matt Lucas,Matt Lucas,pop,electronic,19630413,118,56,12,19630608
+62,77,I'm Movin' On,Matt Lucas,Matt Lucas,electronic,electronic,19630413,118,56,12,19630608
 63,56,Two Kind Of Teardrops,Del Shannon,Del Shannon,pop,60s,19630413,78,50,9,19630608
 64,75,Swinging On A Star,Big Dee Irwin With Little Eva,Big Dee Irwin With Little Eva,pop,unknown,19630518,105,38,11,19630608
 65,65,Patty Baby,Freddy Cannon,Freddy Cannon,pop,oldies,19630427,101,65,8,19630608
@@ -4020,7 +4020,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 74,86,Hobo Flats (Part 1),Jimmy Smith,Jimmy Smith,jazz,jazz,19630511,100,69,7,19630601
 75,90,Swinging On A Star,Big Dee Irwin With Little Eva,Big Dee Irwin With Little Eva,pop,unknown,19630518,105,38,11,19630601
 76,80,A Stranger In Your Town,The Shacklefords,The Shacklefords,pop,pop,19630511,99,70,6,19630601
-77,81,I'm Movin' On,Matt Lucas,Matt Lucas,pop,electronic,19630413,118,56,12,19630601
+77,81,I'm Movin' On,Matt Lucas,Matt Lucas,electronic,electronic,19630413,118,56,12,19630601
 78,84,Forever,The Marvelettes,The Marvelettes,rnb / soul,motown,19630504,100,78,7,19630601
 79,82,Shake A Tail Feather,The Five Du-Tones,The Five Du-Tones,rnb / soul,soul,19630518,90,51,12,19630601
 80,85,Gypsy Woman,Rick Nelson,Rick Nelson,rock,rockabilly,19630518,88,62,9,19630601
@@ -4156,7 +4156,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 78,78,Call Me Irresponsible,Frank Sinatra,Frank Sinatra,jazz,jazz,19630323,107,78,10,19630525
 79,95,If My Pillow Could Talk,Connie Francis,Connie Francis,pop,oldies,19630518,95,23,9,19630525
 80,84,A Stranger In Your Town,The Shacklefords,The Shacklefords,pop,pop,19630511,99,70,6,19630525
-81,75,I'm Movin' On,Matt Lucas,Matt Lucas,pop,electronic,19630413,118,56,12,19630525
+81,75,I'm Movin' On,Matt Lucas,Matt Lucas,electronic,electronic,19630413,118,56,12,19630525
 82,90,Shake A Tail Feather,The Five Du-Tones,The Five Du-Tones,rnb / soul,soul,19630518,90,51,12,19630525
 83,77,"Ronnie, Call Me When You Get A Chance",Shelley Fabares,Shelley Fabares,pop,pop,19630427,85,72,5,19630525
 84,86,Forever,The Marvelettes,The Marvelettes,rnb / soul,motown,19630504,100,78,7,19630525
@@ -4279,7 +4279,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 72,132,My Summer Love,Ruby And The Romantics,Ruby And The Romantics,jazz,jazz,19630511,132,16,12,19630518
 73,90,Little Latin Lupe Lu,The Righteous Brothers,The Righteous Brothers,pop,oldies,19630504,108,49,8,19630518
 74,80,If You Need Me,Wilson Pickett,Wilson Pickett,rnb / soul,soul,19630420,127,64,8,19630518
-75,85,I'm Movin' On,Matt Lucas,Matt Lucas,pop,electronic,19630413,118,56,12,19630518
+75,85,I'm Movin' On,Matt Lucas,Matt Lucas,electronic,electronic,19630413,118,56,12,19630518
 76,89,Gravy Waltz,Steve Allen,Steve Allen,electronic,trance,19630406,131,64,10,19630518
 77,72,"Ronnie, Call Me When You Get A Chance",Shelley Fabares,Shelley Fabares,pop,pop,19630427,85,72,5,19630518
 78,81,Call Me Irresponsible,Frank Sinatra,Frank Sinatra,jazz,jazz,19630323,107,78,10,19630518
@@ -4420,7 +4420,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 82,84,Heart (I Hear You Beating),Wayne Newton,Wayne Newton,jazz,swing,19630323,135,82,9,19630511
 83,NEW,Don't Make My Baby Blue,Frankie Laine,Frankie Laine,country / folk,country,19630511,83,51,7,19630511
 84,87,The Folk Singer,Tommy Roe,Tommy Roe,pop,60s,19630413,119,84,6,19630511
-85,88,I'm Movin' On,Matt Lucas,Matt Lucas,pop,electronic,19630413,118,56,12,19630511
+85,88,I'm Movin' On,Matt Lucas,Matt Lucas,electronic,electronic,19630413,118,56,12,19630511
 86,92,Call Me Irresponsible,Jack Jones,Jack Jones,jazz,jazz,19630427,121,75,5,19630511
 87,106,Teenage Heaven,Johnny Cymbal,Johnny Cymbal,rock,rockabilly,19630504,106,58,7,19630511
 88,91,"Mother, Please",Jo Ann Campbell,Jo Ann Campbell,rock,rockabilly,19630406,135,88,7,19630511
@@ -4556,7 +4556,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 85,101,Patty Baby,Freddy Cannon,Freddy Cannon,pop,oldies,19630427,101,65,8,19630504
 86,88,Ann-Marie,The Belmonts,The Belmonts,pop,doo wop,19630316,126,86,8,19630504
 87,110,The Folk Singer,Tommy Roe,Tommy Roe,pop,60s,19630413,119,84,6,19630504
-88,108,I'm Movin' On,Matt Lucas,Matt Lucas,pop,electronic,19630413,118,56,12,19630504
+88,108,I'm Movin' On,Matt Lucas,Matt Lucas,electronic,electronic,19630413,118,56,12,19630504
 89,91,"Theme From ""Lawrence Of Arabia""",Ferrante And Teicher,Ferrante And Teicher,pop,easy listening,19630202,100,84,16,19630504
 90,114,If You Need Me,Wilson Pickett,Wilson Pickett,rnb / soul,soul,19630420,127,64,8,19630504
 91,93,"Mother, Please",Jo Ann Campbell,Jo Ann Campbell,rock,rockabilly,19630406,135,88,7,19630504
@@ -4709,7 +4709,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 105,NEW,Old Enough To Love,Rick Nelson,Rick Nelson,rock,rockabilly,19630427,105,94,6,19630427
 106,NEW,How Can I Forget,Ben E. King,Ben E. King,rnb / soul,soul,19630427,106,106,3,19630427
 107,104,Funny Man,Ray Stevens,Ray Stevens,country / folk,country,19630316,122,81,8,19630427
-108,113,I'm Movin' On,Matt Lucas,Matt Lucas,pop,electronic,19630413,118,56,12,19630427
+108,113,I'm Movin' On,Matt Lucas,Matt Lucas,electronic,electronic,19630413,118,56,12,19630427
 109,NEW,The Last Leaf,The Cascades,The Cascades,pop,oldies,19630427,109,60,8,19630427
 110,116,The Folk Singer,Tommy Roe,Tommy Roe,pop,60s,19630413,119,84,6,19630427
 111,112,Arabia,The Delcos,The Delcos,rnb / soul,soul,19630420,112,111,2,19630427
@@ -4844,7 +4844,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 110,94,Don't Mention My Name,The Shephard Sisters,The Shephard Sisters,pop,unknown,19630223,122,94,12,19630420
 111,113,Do It - Rat Now,Bill Black'S Combo,Bill Black'S Combo,jazz,jazz,19630413,113,51,10,19630420
 112,NEW,Arabia,The Delcos,The Delcos,rnb / soul,soul,19630420,112,111,2,19630420
-113,118,I'm Movin' On,Matt Lucas,Matt Lucas,pop,electronic,19630413,118,56,12,19630420
+113,118,I'm Movin' On,Matt Lucas,Matt Lucas,electronic,electronic,19630413,118,56,12,19630420
 114,107,I Can Take A Hint,The Miracles,The Miracles,rnb / soul,soul,19630330,117,107,5,19630420
 115,115,Prima Donna,Glen Campbell,Glen Campbell,country / folk,country,19630323,123,103,5,19630420
 116,119,The Folk Singer,Tommy Roe,Tommy Roe,pop,60s,19630413,119,84,6,19630420
@@ -4980,7 +4980,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 115,103,Prima Donna,Glen Campbell,Glen Campbell,country / folk,country,19630323,123,103,5,19630413
 116,NEW,No Letter Today,Ray Charles,Ray Charles,jazz,jazz,19630413,116,116,1,19630413
 117,NEW,These Arms Of Mine,Otis Redding,Otis Redding,rnb / soul,soul,19630413,117,117,1,19630413
-118,NEW,I'm Movin' On,Matt Lucas,Matt Lucas,pop,electronic,19630413,118,56,12,19630413
+118,NEW,I'm Movin' On,Matt Lucas,Matt Lucas,electronic,electronic,19630413,118,56,12,19630413
 119,NEW,The Folk Singer,Tommy Roe,Tommy Roe,pop,60s,19630413,119,84,6,19630413
 120,122,"Ronnie, Call Me When You Get A Chance",Shelley Fabares,Shelley Fabares,pop,pop,19630330,124,120,3,19630413
 121,119,Crying In The Chapel,Little Richard,Little Richard,rock,rock and roll,19630406,119,119,4,19630413

@@ -118,7 +118,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 17,NEW,I,Don Cornell,Don Cornell,pop,50s,19521122,17,16,2,19521122
 18,17,Lady Of Spain,Les Paul,Les Paul,jazz,jazz,19521108,18,17,4,19521122
 19,19,Meet Mister Callaghan,Les Paul,Les Paul,jazz,jazz,19520906,12,5,13,19521122
-20,NEW,Blue Violins,Hugo Winterhalter,Hugo Winterhalter,pop,orchestra,19521122,20,20,1,19521122
+20,NEW,Blue Violins,Hugo Winterhalter,Hugo Winterhalter,pop,50s,19521122,20,20,1,19521122
 1,1,I Went To Your Wedding,Patti Page,Patti Page,jazz,jazz,19520830,17,1,21,19521115
 2,4,The Glow-Worm,Mills Brothers,Mills Brothers,jazz,jazz,19520927,17,2,21,19521115
 3,2,You Belong To Me,Jo Stafford,Jo Stafford,jazz,jazz,19520816,12,1,23,19521115
@@ -335,7 +335,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 14,18,Indian Love Call,Slim Whitman,Slim Whitman,country / folk,country,19520823,17,10,10,19520906
 15,7,Here In My Heart,Al Martino,Al Martino,jazz,swing,19520517,12,1,17,19520906
 16,11,Maybe,Perry Como / Eddie Fisher,Perry Como / Eddie Fisher,pop,unknown,19520614,20,8,13,19520906
-17,12,Vanessa,Hugo Winterhalter,Hugo Winterhalter,pop,orchestra,19520718,16,12,8,19520906
+17,12,Vanessa,Hugo Winterhalter,Hugo Winterhalter,pop,50s,19520718,16,12,8,19520906
 18,19,Walkin' My Baby Back Home,Nat King Cole,Nat King Cole,jazz,jazz,19520718,20,12,8,19520906
 19,NEW,Meet Mister Callaghan,Harry Grove Trio,Harry Grove Trio,pop,unknown,19520906,19,11,6,19520906
 20,14,Blue Tango,Leroy Anderson,Leroy Anderson,pop,classical,19520201,13,1,32,19520906
@@ -350,7 +350,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 9,5,Delicado,Percy Faith,Percy Faith,pop,easy listening,19520426,20,1,21,19520830
 10,9,Walkin' My Baby Back Home,Johnnie Ray,Johnnie Ray,pop,50s,19520531,14,6,17,19520830
 11,10,Maybe,Perry Como / Eddie Fisher,Perry Como / Eddie Fisher,pop,unknown,19520614,20,8,13,19520830
-12,13,Vanessa,Hugo Winterhalter,Hugo Winterhalter,pop,orchestra,19520718,16,12,8,19520830
+12,13,Vanessa,Hugo Winterhalter,Hugo Winterhalter,pop,50s,19520718,16,12,8,19520830
 13,NEW,Jambalaya,Jo Stafford,Jo Stafford,jazz,jazz,19520830,13,3,20,19520830
 14,16,Blue Tango,Leroy Anderson,Leroy Anderson,pop,classical,19520201,13,1,32,19520830
 15,11,Sugarbush,Doris Day & Frankie Laine,Doris Day,jazz,jazz,19520718,19,10,9,19520830
@@ -371,7 +371,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 10,9,Maybe,Perry Como / Eddie Fisher,Perry Como / Eddie Fisher,pop,unknown,19520614,20,8,13,19520823
 11,10,Sugarbush,Doris Day & Frankie Laine,Doris Day,jazz,jazz,19520718,19,10,9,19520823
 12,13,Somewhere Along The Way,Nat King Cole,Nat King Cole,jazz,jazz,19520711,16,8,16,19520823
-13,14,Vanessa,Hugo Winterhalter,Hugo Winterhalter,pop,orchestra,19520718,16,12,8,19520823
+13,14,Vanessa,Hugo Winterhalter,Hugo Winterhalter,pop,50s,19520718,16,12,8,19520823
 14,19,Walkin' My Baby Back Home,Nat King Cole,Nat King Cole,jazz,jazz,19520718,20,12,8,19520823
 15,15,I'm Yours,Eddie Fisher,Eddie Fisher,jazz,jazz,19520503,19,5,17,19520823
 16,11,Blue Tango,Leroy Anderson,Leroy Anderson,pop,classical,19520201,13,1,32,19520823
@@ -392,7 +392,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 11,11,Blue Tango,Leroy Anderson,Leroy Anderson,pop,classical,19520201,13,1,32,19520816
 12,NEW,You Belong To Me,Jo Stafford,Jo Stafford,jazz,jazz,19520816,12,1,23,19520816
 13,9,Somewhere Along The Way,Nat King Cole,Nat King Cole,jazz,jazz,19520711,16,8,16,19520816
-14,15,Vanessa,Hugo Winterhalter,Hugo Winterhalter,pop,orchestra,19520718,16,12,8,19520816
+14,15,Vanessa,Hugo Winterhalter,Hugo Winterhalter,pop,50s,19520718,16,12,8,19520816
 15,13,I'm Yours,Eddie Fisher,Eddie Fisher,jazz,jazz,19520503,19,5,17,19520816
 16,18,Auf wiederseh'n Sweetheart,Eddy Howard,Eddy Howard,jazz,jazz,19520718,18,16,7,19520816
 17,10,Kiss Of Fire,Georgia Gibbs,Georgia Gibbs,pop,50s,19520419,8,2,19,19520816
@@ -413,7 +413,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 12,18,High Noon,Frankie Laine,Frankie Laine,country / folk,country,19520726,20,5,17,19520809
 13,10,I'm Yours,Eddie Fisher,Eddie Fisher,jazz,jazz,19520503,19,5,17,19520809
 14,14,Sugarbush,Doris Day & Frankie Laine,Doris Day,jazz,jazz,19520718,19,10,9,19520809
-15,15,Vanessa,Hugo Winterhalter,Hugo Winterhalter,pop,orchestra,19520718,16,12,8,19520809
+15,15,Vanessa,Hugo Winterhalter,Hugo Winterhalter,pop,50s,19520718,16,12,8,19520809
 16,16,Lover,Peggy Lee,Peggy Lee,jazz,jazz,19520607,20,10,11,19520809
 17,12,Walkin' My Baby Back Home,Nat King Cole,Nat King Cole,jazz,jazz,19520718,20,12,8,19520809
 18,20,Auf wiederseh'n Sweetheart,Eddy Howard,Eddy Howard,jazz,jazz,19520718,18,16,7,19520809
@@ -433,7 +433,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 12,15,Walkin' My Baby Back Home,Nat King Cole,Nat King Cole,jazz,jazz,19520718,20,12,8,19520802
 13,11,Somewhere Along The Way,Nat King Cole,Nat King Cole,jazz,jazz,19520711,16,8,16,19520802
 14,17,Sugarbush,Doris Day & Frankie Laine,Doris Day,jazz,jazz,19520718,19,10,9,19520802
-15,18,Vanessa,Hugo Winterhalter,Hugo Winterhalter,pop,orchestra,19520718,16,12,8,19520802
+15,18,Vanessa,Hugo Winterhalter,Hugo Winterhalter,pop,50s,19520718,16,12,8,19520802
 16,12,Lover,Peggy Lee,Peggy Lee,jazz,jazz,19520607,20,10,11,19520802
 17,14,Kiss Of Fire,Tony Martin,Tony Martin,rock,heavy metal,19520503,17,6,14,19520802
 18,20,High Noon,Frankie Laine,Frankie Laine,country / folk,country,19520726,20,5,17,19520802
@@ -456,7 +456,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 15,20,Walkin' My Baby Back Home,Nat King Cole,Nat King Cole,jazz,jazz,19520718,20,12,8,19520726
 16,17,I'm Yours,Don Cornell,Don Cornell,pop,50s,19520503,11,6,13,19520726
 17,19,Sugarbush,Doris Day & Frankie Laine,Doris Day,jazz,jazz,19520718,19,10,9,19520726
-18,16,Vanessa,Hugo Winterhalter,Hugo Winterhalter,pop,orchestra,19520718,16,12,8,19520726
+18,16,Vanessa,Hugo Winterhalter,Hugo Winterhalter,pop,50s,19520718,16,12,8,19520726
 19,18,Auf wiederseh'n Sweetheart,Eddy Howard,Eddy Howard,jazz,jazz,19520718,18,16,7,19520726
 20,NEW,High Noon,Frankie Laine,Frankie Laine,country / folk,country,19520726,20,5,17,19520726
 1,1,Auf wiederseh'n Sweetheart,Vera Lynn,Vera Lynn,pop,oldies,19520621,12,1,18,19520718
@@ -474,7 +474,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 13,16,Somewhere Along The Way,Nat King Cole,Nat King Cole,jazz,jazz,19520711,16,8,16,19520718
 14,14,I'll Walk Alone,Jane Froman,Jane Froman,pop,female vocalists,19520510,19,14,11,19520718
 15,17,Take My Heart,Al Martino,Al Martino,jazz,swing,19520711,17,15,2,19520718
-16,NEW,Vanessa,Hugo Winterhalter,Hugo Winterhalter,pop,orchestra,19520718,16,12,8,19520718
+16,NEW,Vanessa,Hugo Winterhalter,Hugo Winterhalter,pop,50s,19520718,16,12,8,19520718
 17,13,I'm Yours,Don Cornell,Don Cornell,pop,50s,19520503,11,6,13,19520718
 18,NEW,Auf wiederseh'n Sweetheart,Eddy Howard,Eddy Howard,jazz,jazz,19520718,18,16,7,19520718
 19,NEW,Sugarbush,Doris Day & Frankie Laine,Doris Day,jazz,jazz,19520718,19,10,9,19520718
@@ -538,7 +538,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 17,18,Pittsburgh Pennsylvania,Guy Mitchell,Guy Mitchell,country / folk,country,19520329,13,6,14,19520628
 18,NEW,Carioca,Les Paul,Les Paul,jazz,jazz,19520628,18,18,3,19520628
 19,16,I'll Walk Alone,Jane Froman,Jane Froman,pop,female vocalists,19520510,19,14,11,19520628
-20,17,Blue Tango,Hugo Winterhalter,Hugo Winterhalter,pop,orchestra,19520329,14,8,14,19520628
+20,17,Blue Tango,Hugo Winterhalter,Hugo Winterhalter,pop,50s,19520329,14,8,14,19520628
 1,2,Here In My Heart,Al Martino,Al Martino,jazz,swing,19520517,12,1,17,19520621
 2,1,Blue Tango,Leroy Anderson,Leroy Anderson,pop,classical,19520201,13,1,32,19520621
 3,4,Delicado,Percy Faith,Percy Faith,pop,easy listening,19520426,20,1,21,19520621
@@ -555,7 +555,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 14,16,Lover,Peggy Lee,Peggy Lee,jazz,jazz,19520607,20,10,11,19520621
 15,9,I'll Walk Alone,Don Cornell,Don Cornell,pop,50s,19520322,14,7,17,19520621
 16,17,I'll Walk Alone,Jane Froman,Jane Froman,pop,female vocalists,19520510,19,14,11,19520621
-17,15,Blue Tango,Hugo Winterhalter,Hugo Winterhalter,pop,orchestra,19520329,14,8,14,19520621
+17,15,Blue Tango,Hugo Winterhalter,Hugo Winterhalter,pop,50s,19520329,14,8,14,19520621
 18,12,Pittsburgh Pennsylvania,Guy Mitchell,Guy Mitchell,country / folk,country,19520329,13,6,14,19520621
 19,13,Blacksmith Blues,Ella Mae Morse,Ella Mae Morse,jazz,jazz,19520223,15,3,18,19520621
 20,14,Forgive Me,Eddie Fisher,Eddie Fisher,jazz,jazz,19520322,15,7,14,19520621
@@ -573,7 +573,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 12,14,Pittsburgh Pennsylvania,Guy Mitchell,Guy Mitchell,country / folk,country,19520329,13,6,14,19520614
 13,10,Blacksmith Blues,Ella Mae Morse,Ella Mae Morse,jazz,jazz,19520223,15,3,18,19520614
 14,12,Forgive Me,Eddie Fisher,Eddie Fisher,jazz,jazz,19520322,15,7,14,19520614
-15,15,Blue Tango,Hugo Winterhalter,Hugo Winterhalter,pop,orchestra,19520329,14,8,14,19520614
+15,15,Blue Tango,Hugo Winterhalter,Hugo Winterhalter,pop,50s,19520329,14,8,14,19520614
 16,20,Lover,Peggy Lee,Peggy Lee,jazz,jazz,19520607,20,10,11,19520614
 17,18,I'll Walk Alone,Jane Froman,Jane Froman,pop,female vocalists,19520510,19,14,11,19520614
 18,19,Carioca,Les Paul,Les Paul,jazz,jazz,19520524,19,18,4,19520614
@@ -593,7 +593,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 12,12,Forgive Me,Eddie Fisher,Eddie Fisher,jazz,jazz,19520322,15,7,14,19520607
 13,11,Kiss Of Fire,Tony Martin,Tony Martin,rock,heavy metal,19520503,17,6,14,19520607
 14,13,Pittsburgh Pennsylvania,Guy Mitchell,Guy Mitchell,country / folk,country,19520329,13,6,14,19520607
-15,15,Blue Tango,Hugo Winterhalter,Hugo Winterhalter,pop,orchestra,19520329,14,8,14,19520607
+15,15,Blue Tango,Hugo Winterhalter,Hugo Winterhalter,pop,50s,19520329,14,8,14,19520607
 16,17,Be Anything (But Be Mine),Eddy Howard,Eddy Howard,jazz,jazz,19520426,13,13,7,19520607
 17,NEW,Half As Much,Rosemary Clooney,Rosemary Clooney,jazz,jazz,19520607,17,2,24,19520607
 18,16,I'll Walk Alone,Jane Froman,Jane Froman,pop,female vocalists,19520510,19,14,11,19520607
@@ -613,7 +613,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 12,11,Forgive Me,Eddie Fisher,Eddie Fisher,jazz,jazz,19520322,15,7,14,19520531
 13,12,Pittsburgh Pennsylvania,Guy Mitchell,Guy Mitchell,country / folk,country,19520329,13,6,14,19520531
 14,NEW,Walkin' My Baby Back Home,Johnnie Ray,Johnnie Ray,pop,50s,19520531,14,6,17,19520531
-15,13,Blue Tango,Hugo Winterhalter,Hugo Winterhalter,pop,orchestra,19520329,14,8,14,19520531
+15,13,Blue Tango,Hugo Winterhalter,Hugo Winterhalter,pop,50s,19520329,14,8,14,19520531
 16,16,I'll Walk Alone,Jane Froman,Jane Froman,pop,female vocalists,19520510,19,14,11,19520531
 17,14,Be Anything (But Be Mine),Eddy Howard,Eddy Howard,jazz,jazz,19520426,13,13,7,19520531
 18,NEW,Blue Tango,Guy Lombardo,Guy Lombardo,jazz,jazz,19520531,18,18,1,19520531
@@ -631,7 +631,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 10,9,I'll Walk Alone,Don Cornell,Don Cornell,pop,50s,19520322,14,7,17,19520524
 11,11,Forgive Me,Eddie Fisher,Eddie Fisher,jazz,jazz,19520322,15,7,14,19520524
 12,10,Pittsburgh Pennsylvania,Guy Mitchell,Guy Mitchell,country / folk,country,19520329,13,6,14,19520524
-13,14,Blue Tango,Hugo Winterhalter,Hugo Winterhalter,pop,orchestra,19520329,14,8,14,19520524
+13,14,Blue Tango,Hugo Winterhalter,Hugo Winterhalter,pop,50s,19520329,14,8,14,19520524
 14,15,Be Anything (But Be Mine),Eddy Howard,Eddy Howard,jazz,jazz,19520426,13,13,7,19520524
 15,18,Kiss Of Fire,Tony Martin,Tony Martin,rock,heavy metal,19520503,17,6,14,19520524
 16,16,I'll Walk Alone,Jane Froman,Jane Froman,pop,female vocalists,19520510,19,14,11,19520524
@@ -652,7 +652,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 11,9,Forgive Me,Eddie Fisher,Eddie Fisher,jazz,jazz,19520322,15,7,14,19520517
 12,NEW,Here In My Heart,Al Martino,Al Martino,jazz,swing,19520517,12,1,17,19520517
 13,12,Any Time,Eddie Fisher,Eddie Fisher,jazz,jazz,19511209,20,3,24,19520517
-14,8,Blue Tango,Hugo Winterhalter,Hugo Winterhalter,pop,orchestra,19520329,14,8,14,19520517
+14,8,Blue Tango,Hugo Winterhalter,Hugo Winterhalter,pop,50s,19520329,14,8,14,19520517
 15,14,Be Anything (But Be Mine),Eddy Howard,Eddy Howard,jazz,jazz,19520426,13,13,7,19520517
 16,19,I'll Walk Alone,Jane Froman,Jane Froman,pop,female vocalists,19520510,19,14,11,19520517
 17,NEW,Perfidia,Four Aces,Four Aces,pop,american,19520517,17,17,1,19520517
@@ -666,7 +666,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 5,5,Kiss Of Fire,Georgia Gibbs,Georgia Gibbs,pop,50s,19520419,8,2,19,19520510
 6,6,Pittsburgh Pennsylvania,Guy Mitchell,Guy Mitchell,country / folk,country,19520329,13,6,14,19520510
 7,7,I'll Walk Alone,Don Cornell,Don Cornell,pop,50s,19520322,14,7,17,19520510
-8,12,Blue Tango,Hugo Winterhalter,Hugo Winterhalter,pop,orchestra,19520329,14,8,14,19520510
+8,12,Blue Tango,Hugo Winterhalter,Hugo Winterhalter,pop,50s,19520329,14,8,14,19520510
 9,9,Forgive Me,Eddie Fisher,Eddie Fisher,jazz,jazz,19520322,15,7,14,19520510
 10,8,Cry,Johnnie Ray,Johnnie Ray,pop,50s,19511125,18,1,25,19520510
 11,11,I'm Yours,Don Cornell,Don Cornell,pop,50s,19520503,11,6,13,19520510
@@ -690,7 +690,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 9,9,Forgive Me,Eddie Fisher,Eddie Fisher,jazz,jazz,19520322,15,7,14,19520503
 10,7,Any Time,Eddie Fisher,Eddie Fisher,jazz,jazz,19511209,20,3,24,19520503
 11,NEW,I'm Yours,Don Cornell,Don Cornell,pop,50s,19520503,11,6,13,19520503
-12,12,Blue Tango,Hugo Winterhalter,Hugo Winterhalter,pop,orchestra,19520329,14,8,14,19520503
+12,12,Blue Tango,Hugo Winterhalter,Hugo Winterhalter,pop,50s,19520329,14,8,14,19520503
 13,17,What's The Use,Johnnie Ray,Johnnie Ray,pop,50s,19520419,16,13,4,19520503
 14,15,Tell Me Why,Four Aces,Four Aces,pop,american,19511209,19,2,21,19520503
 15,20,Delicado,Percy Faith,Percy Faith,pop,easy listening,19520426,20,1,21,19520503
@@ -710,7 +710,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 9,13,Forgive Me,Eddie Fisher,Eddie Fisher,jazz,jazz,19520322,15,7,14,19520426
 10,9,I'll Walk Alone,Don Cornell,Don Cornell,pop,50s,19520322,14,7,17,19520426
 11,7,Perfidia,Four Aces,Four Aces,pop,american,19520301,17,7,10,19520426
-12,12,Blue Tango,Hugo Winterhalter,Hugo Winterhalter,pop,orchestra,19520329,14,8,14,19520426
+12,12,Blue Tango,Hugo Winterhalter,Hugo Winterhalter,pop,50s,19520329,14,8,14,19520426
 13,NEW,Be Anything (But Be Mine),Eddy Howard,Eddy Howard,jazz,jazz,19520426,13,13,7,19520426
 14,NEW,Please Mr. Sun,Johnnie Ray,Johnnie Ray,pop,50s,19520426,14,14,1,19520426
 15,11,Tell Me Why,Four Aces,Four Aces,pop,american,19511209,19,2,21,19520426
@@ -730,7 +730,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 9,11,I'll Walk Alone,Don Cornell,Don Cornell,pop,50s,19520322,14,7,17,19520419
 10,9,Pittsburgh Pennsylvania,Guy Mitchell,Guy Mitchell,country / folk,country,19520329,13,6,14,19520419
 11,10,Tell Me Why,Four Aces,Four Aces,pop,american,19511209,19,2,21,19520419
-12,13,Blue Tango,Hugo Winterhalter,Hugo Winterhalter,pop,orchestra,19520329,14,8,14,19520419
+12,13,Blue Tango,Hugo Winterhalter,Hugo Winterhalter,pop,50s,19520329,14,8,14,19520419
 13,7,Forgive Me,Eddie Fisher,Eddie Fisher,jazz,jazz,19520322,15,7,14,19520419
 14,8,Please Mr. Sun,Johnnie Ray,Johnnie Ray,pop,50s,19520201,11,6,12,19520419
 15,NEW,Wimoweh,Weavers / Gordon Jenkins,Weavers / Gordon Jenkins,pop,unknown,19520419,15,15,1,19520419
@@ -751,7 +751,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 10,7,Tell Me Why,Four Aces,Four Aces,pop,american,19511209,19,2,21,19520412
 11,11,I'll Walk Alone,Don Cornell,Don Cornell,pop,50s,19520322,14,7,17,19520412
 12,9,Perfidia,Four Aces,Four Aces,pop,american,19520301,17,7,10,19520412
-13,15,Blue Tango,Hugo Winterhalter,Hugo Winterhalter,pop,orchestra,19520329,14,8,14,19520412
+13,15,Blue Tango,Hugo Winterhalter,Hugo Winterhalter,pop,50s,19520329,14,8,14,19520412
 14,16,Tell Me Why,Eddie Fisher,Eddie Fisher,jazz,jazz,19520112,11,7,16,19520412
 15,NEW,Hambone,Frankie Laine / Jo Stafford,Frankie Laine / Jo Stafford,pop,unknown,19520412,15,15,1,19520412
 16,17,(Here Am I) Broken Hearted,Johnnie Ray,Johnnie Ray,pop,50s,19520201,20,9,12,19520412
@@ -773,7 +773,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 12,19,Come What May,Patti Page,Patti Page,jazz,jazz,19520223,16,12,9,19520405
 13,9,Please Mr. Sun,Johnnie Ray,Johnnie Ray,pop,50s,19520201,11,6,12,19520405
 14,NEW,Wimoweh,Weavers / Gordon Jenkins,Weavers / Gordon Jenkins,pop,unknown,19520405,14,14,1,19520405
-15,14,Blue Tango,Hugo Winterhalter,Hugo Winterhalter,pop,orchestra,19520329,14,8,14,19520405
+15,14,Blue Tango,Hugo Winterhalter,Hugo Winterhalter,pop,50s,19520329,14,8,14,19520405
 16,12,Tell Me Why,Eddie Fisher,Eddie Fisher,jazz,jazz,19520112,11,7,16,19520405
 17,17,(Here Am I) Broken Hearted,Johnnie Ray,Johnnie Ray,pop,50s,19520201,20,9,12,19520405
 18,20,Tulips And Heather,Perry Como,Perry Como,jazz,jazz,19520308,20,17,5,19520405
@@ -792,7 +792,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 11,8,Bermuda,Bell Sisters,Bell Sisters,pop,bitter honeys,19520119,15,8,13,19520329
 12,10,Tell Me Why,Eddie Fisher,Eddie Fisher,jazz,jazz,19520112,11,7,16,19520329
 13,NEW,Pittsburgh Pennsylvania,Guy Mitchell,Guy Mitchell,country / folk,country,19520329,13,6,14,19520329
-14,NEW,Blue Tango,Hugo Winterhalter,Hugo Winterhalter,pop,orchestra,19520329,14,8,14,19520329
+14,NEW,Blue Tango,Hugo Winterhalter,Hugo Winterhalter,pop,50s,19520329,14,8,14,19520329
 15,12,The Little White Cloud That Cried,Johnnie Ray,Johnnie Ray,pop,50s,19511118,20,2,19,19520329
 16,NEW,Hambone,Frankie Laine / Jo Stafford,Frankie Laine / Jo Stafford,pop,unknown,19520329,16,16,1,19520329
 17,13,(Here Am I) Broken Hearted,Johnnie Ray,Johnnie Ray,pop,50s,19520201,20,9,12,19520329
@@ -876,7 +876,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 15,14,(Here Am I) Broken Hearted,Johnnie Ray,Johnnie Ray,pop,50s,19520201,20,9,12,19520301
 16,16,Come What May,Patti Page,Patti Page,jazz,jazz,19520223,16,12,9,19520301
 17,NEW,Perfidia,Four Aces,Four Aces,pop,american,19520301,17,7,10,19520301
-18,NEW,A Kiss To Build A Dream On,Hugo Winterhalter,Hugo Winterhalter,pop,orchestra,19520301,18,18,1,19520301
+18,NEW,A Kiss To Build A Dream On,Hugo Winterhalter,Hugo Winterhalter,pop,50s,19520301,18,18,1,19520301
 19,17,Slow Poke,Arthur Godfrey,Arthur Godfrey,pop,pop,19520126,18,12,6,19520301
 20,NEW,Wimoweh,Weavers / Gordon Jenkins,Weavers / Gordon Jenkins,pop,unknown,19520301,20,20,1,19520301
 1,1,Cry,Johnnie Ray,Johnnie Ray,pop,50s,19511125,18,1,25,19520223

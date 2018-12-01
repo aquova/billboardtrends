@@ -5110,7 +5110,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 79,53,Little Things Mean A Lot,Joni James,Joni James,jazz,jazz,19591207,107,35,12,19600222
 80,80,Mumblin' Mosie,Johnny Otis Show,Johnny Otis Show,rock,blues,19600215,80,80,2,19600222
 81,85,Just A Little Bit,Roscoe Gordon,Roscoe Gordon,rock,blues,19600215,85,64,7,19600222
-82,58,The Happy Muleteer,Ivo Robic,Ivo Robic,pop,oldies,19591228,110,58,9,19600222
+82,58,The Happy Muleteer,Ivo Robic,Ivo Robic,pop,schlager,19591228,110,58,9,19600222
 83,93,Clementine,Jan & Dean,Jan & Dean,pop,surf,19600208,100,65,6,19600222
 84,100,Paradise,Sammy Turner,Sammy Turner,pop,60s,19600215,100,46,11,19600222
 85,88,Honey Hush,Joe Turner,Joe Turner,rock,blues,19591228,91,53,9,19600222
@@ -5201,7 +5201,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 55,35,Smokie,Bill Black'S Combo,Bill Black'S Combo,jazz,jazz,19591123,110,17,13,19600215
 56,80,Money (That's What I Want),Barrett Strong,Barrett Strong,rnb / soul,soul,19600201,95,23,17,19600215
 57,60,That Old Feeling,Kitty Kallen,Kitty Kallen,pop,female vocalists,19600201,85,55,5,19600215
-58,64,The Happy Muleteer,Ivo Robic,Ivo Robic,pop,oldies,19591228,110,58,9,19600215
+58,64,The Happy Muleteer,Ivo Robic,Ivo Robic,pop,schlager,19591228,110,58,9,19600215
 59,63,On The Beach,Frank Chacksfield Orchestra,Frank Chacksfield Orchestra,pop,easy listening,19591228,115,47,12,19600215
 60,49,Darling Lorraine,Knockouts,Knockouts,rock,garage rock,19591130,113,46,15,19600215
 61,57,How About That,Dee Clark,Dee Clark,rnb / soul,soul,19591207,99,33,11,19600215
@@ -5322,7 +5322,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 61,106,Eternally,Sarah Vaughan,Sarah Vaughan,jazz,jazz,19600201,106,41,9,19600208
 62,53,Just Come Home,Hugo & Luigi,Hugo,rock,rock,19591214,100,35,9,19600208
 63,74,On The Beach,Frank Chacksfield Orchestra,Frank Chacksfield Orchestra,pop,easy listening,19591228,115,47,12,19600208
-64,77,The Happy Muleteer,Ivo Robic,Ivo Robic,pop,oldies,19591228,110,58,9,19600208
+64,77,The Happy Muleteer,Ivo Robic,Ivo Robic,pop,schlager,19591228,110,58,9,19600208
 65,64,Amapola,Jacky Noguez Orchestra,Jacky Noguez Orchestra,pop,unknown,19600118,88,63,6,19600208
 66,54,No Love Have I,Webb Pierce,Webb Pierce,country / folk,country,19591130,115,54,13,19600208
 67,65,Honey Hush,Joe Turner,Joe Turner,rock,blues,19591228,91,53,9,19600208
@@ -5450,7 +5450,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 74,84,On The Beach,Frank Chacksfield Orchestra,Frank Chacksfield Orchestra,pop,easy listening,19591228,115,47,12,19600201
 75,76,Up Town,Roy Orbison,Roy Orbison,rock,classic rock,19600118,96,72,5,19600201
 76,43,Scarlet Ribbons,The Browns,The Browns,pop,horror punk,19591102,89,13,14,19600201
-77,87,The Happy Muleteer,Ivo Robic,Ivo Robic,pop,oldies,19591228,110,58,9,19600201
+77,87,The Happy Muleteer,Ivo Robic,Ivo Robic,pop,schlager,19591228,110,58,9,19600201
 78,54,So Many Ways,Brook Benton,Brook Benton,rnb / soul,soul,19591012,114,6,17,19600201
 79,NEW,Skokiaan (South African Song),Bill Haley & The Comets,Bill Haley & The Comets,rock,rockabilly,19600201,79,76,3,19600201
 80,83,I Forgot More Than You'll Ever Know,Sonny James,Sonny James,pop,classic country,19600118,95,80,3,19600201
@@ -5575,7 +5575,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 84,101,On The Beach,Frank Chacksfield And His Orchestra,Frank Chacksfield And His Orchestra,pop,easy listening,19591228,115,47,12,19600125
 85,90,One Mint Julep,Chet Atkins,Chet Atkins,country / folk,country,19600104,97,82,6,19600125
 86,NEW,Harbour Lights,Platters,Platters,pop,oldies,19600125,86,8,16,19600125
-87,99,The Happy Muleteer,Ivo Robic,Ivo Robic,pop,oldies,19591228,110,58,9,19600125
+87,99,The Happy Muleteer,Ivo Robic,Ivo Robic,pop,schlager,19591228,110,58,9,19600125
 88,97,Time After Time,Frankie Ford,Frankie Ford,pop,rhythm and blues,19600104,114,87,5,19600125
 89,105,My Little Marine,Jamie Horton,Jamie Horton,pop,pop,19600118,105,84,4,19600125
 90,103,I Can't Say Goodbye,The Fireflies Featuring Ritchie Adams,The Fireflies,rock,rockabilly,19600104,106,90,5,19600125
@@ -5702,7 +5702,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 96,NEW,Up Town,Roy Orbison,Roy Orbison,rock,classic rock,19600118,96,72,5,19600118
 97,107,Time After Time,Frankie Ford,Frankie Ford,pop,rhythm and blues,19600104,114,87,5,19600118
 98,50,The Clouds,The Spacemen,The Spacemen,pop,japanese,19591005,108,41,16,19600118
-99,105,The Happy Muleteer,Ivo Robic,Ivo Robic,pop,oldies,19591228,110,58,9,19600118
+99,105,The Happy Muleteer,Ivo Robic,Ivo Robic,pop,schlager,19591228,110,58,9,19600118
 100,110,Since I Made You Cry,The Rivieras,The Rivieras,pop,60s,19600111,110,93,4,19600118
 101,101,On The Beach,Frank Chacksfield And His Orchestra,Frank Chacksfield And His Orchestra,pop,easy listening,19591228,115,47,12,19600118
 102,102,Earth Angel,The Penguins,The Penguins,pop,doo wop,19591228,106,101,7,19600118
@@ -5823,7 +5823,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 102,105,Earth Angel,The Penguins,The Penguins,pop,doo wop,19591228,106,101,7,19600111
 103,106,I Can't Say Goodbye,The Fireflies Featuring Ritchie Adams,The Fireflies,rock,rockabilly,19600104,106,90,5,19600111
 104,107,One More For The Road,Hank Leeds,Hank Leeds,pop,unknown,19600104,107,103,4,19600111
-105,109,The Happy Muleteer,Ivo Robic,Ivo Robic,pop,oldies,19591228,110,58,9,19600111
+105,109,The Happy Muleteer,Ivo Robic,Ivo Robic,pop,schlager,19591228,110,58,9,19600111
 106,113,Too Much Tequila,The Champs,The Champs,pop,oldies,19591228,108,30,14,19600111
 107,114,Time After Time,Frankie Ford,Frankie Ford,pop,rhythm and blues,19600104,114,87,5,19600111
 108,115,Clap Your Hands (Part 1),The Wheels,The Wheels,pop,60s,19600104,115,102,7,19600111
@@ -5942,7 +5942,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 106,NEW,I Can't Say Goodbye,The Fireflies Featuring Ritchie Adams,The Fireflies,rock,rockabilly,19600104,106,90,5,19600104
 107,NEW,One More For The Road,Hank Leeds,Hank Leeds,pop,unknown,19600104,107,103,4,19600104
 108,111,Bulldog,The Fireballs,The Fireballs,pop,surf,19591228,111,24,14,19600104
-109,110,The Happy Muleteer,Ivo Robic,Ivo Robic,pop,oldies,19591228,110,58,9,19600104
+109,110,The Happy Muleteer,Ivo Robic,Ivo Robic,pop,schlager,19591228,110,58,9,19600104
 110,114,How Will It End,Barry Darvell,Barry Darvell,pop,doo wop,19591228,114,110,3,19600104
 111,NEW,Let The Good Times Roll,Ray Charles,Ray Charles,jazz,jazz,19600104,111,78,4,19600104
 112,NEW,Waltzing Matilda,David Carroll And His Orchestra,David Carroll And His Orchestra,pop,easy listening,19600104,112,112,2,19600104

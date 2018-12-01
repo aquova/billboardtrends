@@ -1804,7 +1804,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 54,62,I Want To Be With You,Dee Dee Warwick,Dee Dee Warwick,rnb / soul,soul,19660806,107,41,15,19661001
 55,61,Rumors,The Syndicate Of Sound,The Syndicate Of Sound,rock,garage rock,19660813,126,55,8,19661001
 56,56,You're Gonna Miss Me,The Thirteenth Floor Elevators,The Thirteenth Floor Elevators,rock,psychedelic rock,19660723,123,55,12,19661001
-57,55,Suspicions,Sidekicks,Sidekicks,pop,electronic,19660730,131,55,10,19661001
+57,55,Suspicions,Sidekicks,Sidekicks,electronic,electronic,19660730,131,55,10,19661001
 58,66,My Uncle Used To Love Me But She Died,Roger Miller,Roger Miller,country / folk,country,19660917,82,58,5,19661001
 59,60,Blue Side Of Lonesome,Jim Reeves,Jim Reeves,country / folk,country,19660820,122,59,9,19661001
 60,75,In Our Time,Nancy Sinatra,Nancy Sinatra,pop,female vocalists,19660917,88,46,6,19661001
@@ -1937,7 +1937,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 52,49,World Of Fantasy,Five-Stairsteps,Five-Stairsteps,pop,unknown,19660730,130,49,9,19660924
 53,85,See See Rider,Eric Burdon And The Animals,Eric Burdon And The Animals,rock,classic rock,19660910,114,10,11,19660924
 54,68,Born Free,Roger Williams,Roger Williams,pop,instrumental,19660820,128,7,22,19660924
-55,59,Suspicions,Sidekicks,Sidekicks,pop,electronic,19660730,131,55,10,19660924
+55,59,Suspicions,Sidekicks,Sidekicks,electronic,electronic,19660730,131,55,10,19660924
 56,60,You're Gonna Miss Me,The Thirteenth Floor Elevators,The Thirteenth Floor Elevators,rock,psychedelic rock,19660723,123,55,12,19660924
 57,47,"Little Darling, I Need You",Marvin Gaye,Marvin Gaye,rnb / soul,soul,19660813,128,47,8,19660924
 58,72,I Can Make It With You,Pozo-Seco Singers,Pozo-Seco Singers,pop,vocal,19660903,117,32,12,19660924
@@ -2076,7 +2076,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 56,76,Summer Samba (So Nice),Walter Wanderley,Walter Wanderley,pop,bossa nova,19660827,89,26,9,19660917
 57,61,In The Arms Of Love,Andy Williams,Andy Williams,pop,oldies,19660827,86,49,8,19660917
 58,69,Walk Away Renee,The Left Banke,The Left Banke,pop,baroque pop,19660827,122,5,15,19660917
-59,60,Suspicions,Sidekicks,Sidekicks,pop,electronic,19660730,131,55,10,19660917
+59,60,Suspicions,Sidekicks,Sidekicks,electronic,electronic,19660730,131,55,10,19660917
 60,66,You're Gonna Miss Me,The Thirteenth Floor Elevators,The Thirteenth Floor Elevators,rock,psychedelic rock,19660723,123,55,12,19660917
 61,63,Cast Your Fate To The Wind,Shelby Flint,Shelby Flint,pop,pop,19660730,134,61,9,19660917
 62,55,Ashes To Ashes,The Mindbenders,The Mindbenders,pop,60s,19660806,134,55,9,19660917
@@ -2212,7 +2212,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 57,82,Reach Out I'll Be There,The Four Tops,The Four Tops,rnb / soul,soul,19660903,82,1,15,19660910
 58,57,Money Won't Change You,James Brown,James Brown,rnb / soul,funk,19660730,79,53,9,19660910
 59,66,Rumors,The Syndicate Of Sound,The Syndicate Of Sound,rock,garage rock,19660813,126,55,8,19660910
-60,62,Suspicions,Sidekicks,Sidekicks,pop,electronic,19660730,131,55,10,19660910
+60,62,Suspicions,Sidekicks,Sidekicks,electronic,electronic,19660730,131,55,10,19660910
 61,64,In The Arms Of Love,Andy Williams,Andy Williams,pop,oldies,19660827,86,49,8,19660910
 62,69,That's Enough,Rosco Robinson,Rosco Robinson,rnb / soul,soul,19660702,129,62,13,19660910
 63,63,Cast Your Fate To The Wind,Shelby Flint,Shelby Flint,pop,pop,19660730,134,61,9,19660910
@@ -2349,7 +2349,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 59,49,Distant Shores,Chad & Jeremy,Chad & Jeremy,pop,60s,19660709,98,30,9,19660903
 60,61,World Of Fantasy,Five-Stairsteps,Five-Stairsteps,pop,unknown,19660730,130,49,9,19660903
 61,68,Sometimes Good Guys Don't Wear White,The Standells,The Standells,rock,garage rock,19660806,130,43,9,19660903
-62,71,Suspicions,Sidekicks,Sidekicks,pop,electronic,19660730,131,55,10,19660903
+62,71,Suspicions,Sidekicks,Sidekicks,electronic,electronic,19660730,131,55,10,19660903
 63,74,Cast Your Fate To The Wind,Shelby Flint,Shelby Flint,pop,pop,19660730,134,61,9,19660903
 64,86,In The Arms Of Love,Andy Williams,Andy Williams,pop,oldies,19660827,86,49,8,19660903
 65,83,B-A-B-Y,Carla Thomas,Carla Thomas,rnb / soul,soul,19660813,132,14,17,19660903
@@ -2493,7 +2493,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 68,86,Sometimes Good Guys Don't Wear White,The Standells,The Standells,rock,garage rock,19660806,130,43,9,19660827
 69,87,What Becomes Of The Broken Hearted,Jimmy Ruffin,Jimmy Ruffin,rnb / soul,soul,19660820,87,7,17,19660827
 70,68,Too Soon To Know,Roy Orbison,Roy Orbison,rock,classic rock,19660730,119,68,6,19660827
-71,77,Suspicions,Sidekicks,Sidekicks,pop,electronic,19660730,131,55,10,19660827
+71,77,Suspicions,Sidekicks,Sidekicks,electronic,electronic,19660730,131,55,10,19660827
 72,88,"Cherry, Cherry",Neil Diamond,Neil Diamond,country / folk,singer-songwriter,19660813,131,6,13,19660827
 73,90,"Little Darling, I Need You",Marvin Gaye,Marvin Gaye,rnb / soul,soul,19660813,128,47,8,19660827
 74,79,Cast Your Fate To The Wind,Shelby Flint,Shelby Flint,pop,pop,19660730,134,61,9,19660827
@@ -2634,7 +2634,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 74,90,There Will Never Be Another You,Chris Montez,Chris Montez,pop,60s,19660813,90,33,8,19660820
 75,78,Bring Back The Time,B.J. Thomas,B.J. Thomas,pop,pop,19660716,130,75,6,19660820
 76,77,Livin' Above Your Head,Jay And The Americans,Jay And The Americans,pop,oldies,19660730,83,76,5,19660820
-77,84,Suspicions,Sidekicks,Sidekicks,pop,electronic,19660730,131,55,10,19660820
+77,84,Suspicions,Sidekicks,Sidekicks,electronic,electronic,19660730,131,55,10,19660820
 78,82,United,Intruders,Intruders,rnb / soul,soul,19660702,132,78,8,19660820
 79,94,Cast Your Fate To The Wind,Shelby Flint,Shelby Flint,pop,pop,19660730,134,61,9,19660820
 80,NEW,Beauty Is Only Skin Deep,The Temptations,The Temptations,rnb / soul,soul,19660820,80,3,12,19660820
@@ -2776,7 +2776,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 81,109,God Only Knows,The Beach Boys,The Beach Boys,rock,classic rock,19660806,109,39,9,19660813
 82,82,United,Intruders,Intruders,rnb / soul,soul,19660702,132,78,8,19660813
 83,87,Let's Call It A Day Girl,Razor'S Edge,Razor'S Edge,pop,thrashcore,19660723,126,77,8,19660813
-84,99,Suspicions,Sidekicks,Sidekicks,pop,electronic,19660730,131,55,10,19660813
+84,99,Suspicions,Sidekicks,Sidekicks,electronic,electronic,19660730,131,55,10,19660813
 85,85,Petticoat White,Bobby Vinton,Bobby Vinton,pop,oldies,19660723,106,81,6,19660813
 86,NEW,Mr. Dieingly Sad,The Critters,The Critters,pop,sunshine pop,19660813,86,17,11,19660813
 87,97,Just Yesterday,Al Martino,Al Martino,jazz,swing,19660723,112,77,6,19660813

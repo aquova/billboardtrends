@@ -4366,7 +4366,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 49,35,Thank You Girl,Beatles,Beatles,rock,classic rock,19640404,79,35,7,19640516
 50,24,You're A Wonderful One,Marvin Gaye,Marvin Gaye,rnb / soul,soul,19640314,81,15,10,19640516
 51,61,Every Little Bit Hurts,Brenda Holloway,Brenda Holloway,rnb / soul,soul,19640425,102,13,11,19640516
-52,29,Forever,Pete Drake,Pete Drake,pop,electronic,19640307,99,25,11,19640516
+52,29,Forever,Pete Drake,Pete Drake,electronic,electronic,19640307,99,25,11,19640516
 53,58,Tall Cool One,Wailers,Wailers,rock,garage rock,19640404,108,38,11,19640516
 54,87,Viva Las Vegas,Elvis Presley,Elvis Presley,rock,rock n roll,19640509,87,29,7,19640516
 55,48,Slip-In Mules,Sugar Pie Desanto,Sugar Pie Desanto,rnb / soul,soul,19640418,66,48,5,19640516
@@ -4477,7 +4477,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 26,33,(Just Like) Romeo & Juliet,Reflections,Reflections,rock,djent,19640411,86,6,12,19640509
 27,29,My Girl Sloopy,Vibrations,Vibrations,pop,punk,19640328,84,26,9,19640509
 28,31,Shangri-La,Vic Dana,Vic Dana,pop,60s,19640328,100,27,10,19640509
-29,25,Forever,Pete Drake,Pete Drake,pop,electronic,19640307,99,25,11,19640509
+29,25,Forever,Pete Drake,Pete Drake,electronic,electronic,19640307,99,25,11,19640509
 30,30,Kiss Me Sailor,Diane Renay,Diane Renay,pop,oldies,19640328,122,29,13,19640509
 31,41,Pink Panther Theme,Henry Mancini,Henry Mancini,pop,soundtrack,19640404,80,31,8,19640509
 32,53,Do You Love Me,Dave Clark Five,Dave Clark Five,pop,60s,19640502,53,11,10,19640509
@@ -4608,7 +4608,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 22,33,I'm So Proud,Impressions,Impressions,rnb / soul,soul,19640404,61,14,11,19640502
 23,26,Nadine,Chuck Berry,Chuck Berry,rock,rock and roll,19640229,116,23,11,19640502
 24,13,Needles And Pins,Searchers,Searchers,pop,60s,19640229,117,13,11,19640502
-25,25,Forever,Pete Drake,Pete Drake,pop,electronic,19640307,99,25,11,19640502
+25,25,Forever,Pete Drake,Pete Drake,electronic,electronic,19640307,99,25,11,19640502
 26,22,Ain't Nothing You Can Do,Bobby Bland,Bobby Bland,rock,blues,19640307,89,20,9,19640502
 27,27,Ebb Tide,Lenny Welch,Lenny Welch,pop,60s,19640321,80,25,9,19640502
 28,62,Love Me With All Your Heart,Ray Charles Singers,Ray Charles Singers,jazz,jazz,19640411,99,3,15,19640502
@@ -4743,7 +4743,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 22,20,Ain't Nothing You Can Do,Bobby Bland,Bobby Bland,rock,blues,19640307,89,20,9,19640425
 23,26,Hey Bobba Needle,Chubby Checker,Chubby Checker,rock,rock and roll,19640314,84,23,9,19640425
 24,19,I Want To Hold Your Hand,Beatles,Beatles,rock,classic rock,19640118,45,1,15,19640425
-25,27,Forever,Pete Drake,Pete Drake,pop,electronic,19640307,99,25,11,19640425
+25,27,Forever,Pete Drake,Pete Drake,electronic,electronic,19640307,99,25,11,19640425
 26,28,Nadine,Chuck Berry,Chuck Berry,rock,rock and roll,19640229,116,23,11,19640425
 27,31,Ebb Tide,Lenny Welch,Lenny Welch,pop,60s,19640321,80,25,9,19640425
 28,60,It's Over,Roy Orbison,Roy Orbison,rock,classic rock,19640411,90,9,11,19640425
@@ -4880,7 +4880,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 24,16,Stay,Four Seasons,Four Seasons,rock,classic rock,19640208,128,16,12,19640418
 25,25,Think,Brenda Lee,Brenda Lee,pop,oldies,19640307,88,25,9,19640418
 26,28,Hey Bobba Needle,Chubby Checker,Chubby Checker,rock,rock and roll,19640314,84,23,9,19640418
-27,36,Forever,Pete Drake,Pete Drake,pop,electronic,19640307,99,25,11,19640418
+27,36,Forever,Pete Drake,Pete Drake,electronic,electronic,19640307,99,25,11,19640418
 28,29,Nadine,Chuck Berry,Chuck Berry,rock,rock and roll,19640229,116,23,11,19640418
 29,59,Ronnie,Four Seasons,Four Seasons,rock,classic rock,19640411,59,6,10,19640418
 30,42,Shangri-La,Robert Maxwell,Robert Maxwell,pop,american,19640321,92,15,12,19640418
@@ -5020,7 +5020,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 33,33,Tell It On The Mountain,"Peter, Paul And Mary","Peter, Paul And Mary",country / folk,folk,19640307,82,33,7,19640411
 34,17,Kissin' Cousins,Elvis Presley,Elvis Presley,rock,rock n roll,19640222,63,12,9,19640411
 35,47,Ebb Tide,Lenny Welch,Lenny Welch,pop,60s,19640321,80,25,9,19640411
-36,44,Forever,Pete Drake,Pete Drake,pop,electronic,19640307,99,25,11,19640411
+36,44,Forever,Pete Drake,Pete Drake,electronic,electronic,19640307,99,25,11,19640411
 37,40,The New Girl In School,Jan & Dean,Jan & Dean,pop,surf,19640314,126,37,9,19640411
 38,31,I Saw Her Standing There,Beatles,Beatles,rock,classic rock,19640201,117,14,12,19640411
 39,42,We Love You Beatles,Carefrees,Carefrees,pop,beat,19640314,107,39,6,19640411
@@ -5161,7 +5161,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 41,50,From Me To You,Beatles,Beatles,rock,classic rock,19640222,120,41,8,19640404
 42,57,We Love You Beatles,Carefrees,Carefrees,pop,beat,19640314,107,39,6,19640404
 43,39,Understand Your Man,Johnny Cash,Johnny Cash,country / folk,country,19640208,123,35,9,19640404
-44,59,Forever,Pete Drake,Pete Drake,pop,electronic,19640307,99,25,11,19640404
+44,59,Forever,Pete Drake,Pete Drake,electronic,electronic,19640307,99,25,11,19640404
 45,28,Penetration,Pyramids,Pyramids,rock,post-rock,19640118,124,18,12,19640404
 46,78,Do You Want To Know A Secret,Beatles,Beatles,rock,classic rock,19640328,78,2,11,19640404
 47,68,Ebb Tide,Lenny Welch,Lenny Welch,pop,60s,19640321,80,25,9,19640404
@@ -5310,7 +5310,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 56,64,He's A Good Guy (Yes He Is),The Marvelettes,The Marvelettes,rnb / soul,motown,19640215,117,55,8,19640328
 57,73,We Love You Beatles,Carefrees,Carefrees,pop,beat,19640314,107,39,6,19640328
 58,52,He'll Have To Go,Solomon Burke,Solomon Burke,rnb / soul,soul,19640208,86,51,8,19640328
-59,70,Forever,Pete Drake,Pete Drake,pop,electronic,19640307,99,25,11,19640328
+59,70,Forever,Pete Drake,Pete Drake,electronic,electronic,19640307,99,25,11,19640328
 60,75,Ain't Gonna Tell Nobody,Jimmy Gilmer & The Fireballs,Jimmy Gilmer & The Fireballs,pop,60s,19640314,96,53,7,19640328
 61,53,Young & In Love,Chris Crosby,Chris Crosby,pop,unknown,19640215,80,53,7,19640328
 62,74,Castles In The Sand,Little Stevie Wonder,Little Stevie Wonder,rnb / soul,soul,19640229,93,52,9,19640328
@@ -5452,7 +5452,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 67,68,Long Gone Lonesome Blues,Hank Williams Jnr.,Hank Williams Jnr.,country / folk,country,19640125,104,67,10,19640321
 68,84,Hey Bobba Needle,Chubby Checker,Chubby Checker,rock,rock and roll,19640314,84,23,9,19640321
 69,71,Congratulations,Rick Nelson,Rick Nelson,rock,rockabilly,19640314,71,63,5,19640321
-70,80,Forever,Pete Drake,Pete Drake,pop,electronic,19640307,99,25,11,19640321
+70,80,Forever,Pete Drake,Pete Drake,electronic,electronic,19640307,99,25,11,19640321
 71,75,Out Of Sight Out Of Mind,Sunny & The Sunliners,Sunny & The Sunliners,rnb / soul,soul,19640215,126,71,6,19640321
 72,76,That's What The Nitty Gritty Is,Shirley Ellis,Shirley Ellis,rnb / soul,soul,19640222,86,72,6,19640321
 73,107,We Love You Beatles,The Carefrees,The Carefrees,pop,beat,19640314,107,39,6,19640321
@@ -5594,7 +5594,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 77,77,High On A Hill,Scott English,Scott English,pop,pop,19640215,105,77,5,19640314
 78,85,Castles In The Sand,Little Stevie Wonder,Little Stevie Wonder,rnb / soul,soul,19640229,93,52,9,19640314
 79,90,Nadine,Chuck Berry,Chuck Berry,rock,rock and roll,19640229,116,23,11,19640314
-80,99,Forever,Pete Drake,Pete Drake,pop,electronic,19640307,99,25,11,19640314
+80,99,Forever,Pete Drake,Pete Drake,electronic,electronic,19640307,99,25,11,19640314
 81,NEW,You're A Wonderful One,Marvin Gaye,Marvin Gaye,rnb / soul,soul,19640314,81,15,10,19640314
 82,NEW,Money,Kingsmen,Kingsmen,rock,garage rock,19640314,82,16,11,19640314
 83,84,I Can't Stand It,Soul Sisters,Soul Sisters,reggae,reggae,19640215,106,46,11,19640314
@@ -5747,7 +5747,7 @@ this_week_position,last_week_position,track,artist,clean_artist,clean_genre,genr
 96,99,The Boy With The Beatle Hair,Swans,Swans,pop,post-punk,19640229,99,85,4,19640307
 97,98,Mo Onions,Booker T & The Mgs,Booker T & The Mgs,rnb / soul,soul,19640222,100,97,3,19640307
 98,108,I Wonder Who's Kissing Her Now,Bobby Darin,Bobby Darin,jazz,jazz,19640222,111,93,5,19640307
-99,NEW,Forever,Pete Drake,Pete Drake,pop,electronic,19640307,99,25,11,19640307
+99,NEW,Forever,Pete Drake,Pete Drake,electronic,electronic,19640307,99,25,11,19640307
 100,106,You Were Wrong,Z.Z. Hill,Z.Z. Hill,rnb / soul,soul,19640215,130,100,6,19640307
 101,107,How Much Can A Lonely Heart Stand,Skeeter Davis,Skeeter Davis,pop,60s,19640215,102,92,4,19640307
 102,NEW,The Waiting Game,Brenda Lee,Brenda Lee,pop,oldies,19640307,102,101,6,19640307
