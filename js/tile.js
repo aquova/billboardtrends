@@ -12,7 +12,7 @@ var tileYscale = d3.scaleLinear().domain([0, tileHeight]).range([0, tileHeight])
 var div = d3.select("#tilegraph")
 
 window.onload = function() {
-    var brushSection = d3.select("#tilebrush").append("svg").attr("height", 50).attr("width", "100%")
+    var brushSection = d3.select("#tilebrush").append("svg").attr("height", 70).attr("width", "100%")
     // This needs to be made dynamic
     loadedWidth = document.getElementById("tilegraph").clientWidth
     var brushScale = d3.scaleLinear().domain([0, loadedWidth]).range([1941, 2018])
@@ -20,13 +20,27 @@ window.onload = function() {
     var brush = d3.brushX()
     .extent([[0, 0],[loadedWidth, 50]])
     .on("end", function() {
-        var selection = d3.event.selection[0]
-        var new_year = Math.floor(brushScale(selection)).toString()
+        var avgSelection = (d3.event.selection[0] + d3.event.selection[1]) / 2
+        var new_year = Math.floor(brushScale(avgSelection)).toString()
         readData(new_year)
     })
 
     var g = brushSection.append("g").attr("class", "brush tileBrush").call(brush)
     brush.move(g, [brushScale.invert(2012), brushScale.invert(2013)])
+
+    var yearLabel = brushSection.append("g")
+        .append("text")
+        .style("fill", "black")
+        .attr("font-size", 15)
+        .attr("x", 15)
+        .attr("y", 15)
+        .text("Year")
+
+    var visScale = d3.scaleLinear().domain([1941, 2018]).range([0, loadedWidth])
+
+    var xAxis = d3.axisBottom(visScale).tickFormat(d3.format("d"))
+    var brushAxis = brushSection.append("g").call(xAxis)
+    brushAxis.attr("transform", "translate(0," + 50 + ")").attr("fill", "black")
 
     readData("2012")
 }
@@ -48,10 +62,12 @@ function parseData(d) {
         var artist = d[i].artist
         var genre = d[i].clean_genre
         var subgenre = d[i].genre
+        var track = d[i].track
+        var pos = d[i].peak_position
 
         // If genre not already in list
         if (!(genres.includes(genre))) {
-            var artistMap = {name: artist, value: 1}
+            var artistMap = {name: artist, songs: [track], highest: pos, value: 1}
             var subgenreMap = {name: subgenre, children: [artistMap]}
             var genreMap = {name: genre, children: [subgenreMap]}
             genres.push(genre)
@@ -65,7 +81,7 @@ function parseData(d) {
                 // Search through genres to find the one that we need
                 for (var j = 0; j < output.length; j++) {
                     if (output[j]["name"] == genre) {
-                        var artistMap = {name: artist, value: 1}
+                        var artistMap = {name: artist, songs: [track], highest: pos, value: 1}
                         var subgenreMap = {name: subgenre, children: [artistMap]}
                         artists.push(artist)
                         subgenres.push(subgenre)
@@ -85,11 +101,15 @@ function parseData(d) {
                                     for (var c = 0; c < output[a]["children"][b]["children"].length; c++) {
                                         if (output[a]["children"][b]["children"][c]["name"] == artist) {
                                             output[a]["children"][b]["children"][c]["value"] += 1
+                                            output[a]["children"][b]["children"][c]["highest"] = Math.min(output[a]["children"][b]["children"][c]["highest"], pos)
+                                            if (!(output[a]["children"][b]["children"][c]["songs"].includes(track))) {
+                                                output[a]["children"][b]["children"][c]["songs"].push(track)
+                                            }
                                             break
                                         }
                                     }
                                 } else {
-                                    var artistMap = {name: artist, value: 1}
+                                    var artistMap = {name: artist, songs: [track], highest: pos, value: 1}
                                     artists.push(artist)
                                     output[a]["children"][b]["children"].push(artistMap)
                                     break
@@ -154,16 +174,31 @@ function mainTile(year, raw_data) {
         return tileScale(d.data.name)
     })
     .on("click", zoom)
-    .append("p")
+
+    var textLabels = cells.append("p")
     .attr("class", "label")
     .text(function(d) {
         return d.data.name ? d.data.name : "---"
     })
 
+    var extendedLabels = cells.append("p")
+    .attr("class", "label hide")
+    .text(function(d) {
+        if (d.depth == 3) {
+            var constuctedName = d.data.name + " - " + d.data.songs[0]
+            for (var i = 1; i < d.data.songs.length; i++) {
+                constuctedName += ", " + d.data.songs[i]
+            }
+            constuctedName += " - Peak position: " + d.data.highest
+
+            return constuctedName
+        }
+        return ""
+    })
+
     var parent = d3.select(".up")
     .datum(root)
     .on("click", zoom)
-
 
     // The zooming behavior was based off of here: https://codepen.io/znak/pen/qapRkQ?editors=0010
     function zoom(d) {
@@ -202,6 +237,21 @@ function mainTile(year, raw_data) {
             return d.depth > currentDepth
         })
         .classed("hide", false)
+
+        // Hide/show extended info if final leaf
+        textLabels.filter(function(d) {
+            return d.depth == 3
+        })
+        .classed("hide", function() {
+            return currentDepth == 3
+        })
+
+        extendedLabels.filter(function(d) {
+            return d.depth == 3
+        })
+        .classed("hide", function() {
+            return d.depth != 3
+        })
     }
 }
 
