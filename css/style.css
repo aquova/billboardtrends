@@ -5,8 +5,16 @@ body {
     padding: 20px;
 }
 
-h1 { font-weight: 700; }
+h1 { 
+  font-weight: 700;
+  font-size: 80px; 
+  margin: 0;
+  margin-bottom: -10px;
+}
 h2 { font-weight: 500; }
+h3 { 
+  font-weight: lighter; 
+}
 a { text-decoration: none; }
 
 .center { text-align: center; }

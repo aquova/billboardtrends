@@ -21,3 +21,4 @@ function showGraph(graphName) {
 }
 
 document.getElementById("defaultOpen").click()
+
