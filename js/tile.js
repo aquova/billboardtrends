@@ -180,6 +180,10 @@ function mainTile(year, raw_data) {
     .text(function(d) {
         return d.data.name ? d.data.name : "---"
     })
+    .style("font-size", function(d) {
+        var scale = Math.max((d.x1 - d.x0), (d.y1 - d.y0))
+        return scale + "px"
+    })
 
     var extendedLabels = cells.append("p")
     .attr("class", "label hide")
@@ -244,6 +248,12 @@ function mainTile(year, raw_data) {
         })
         .classed("hide", function() {
             return currentDepth == 3
+        })
+        .style("font-size", function(d) {
+            if (currentDepth != 3) {
+                var scale = Math.max((d.x1 - d.x0), (d.y1 - d.y0))
+                return scale + "px"
+            }
         })
 
         extendedLabels.filter(function(d) {

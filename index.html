@@ -12,15 +12,16 @@
         <h1>Billboard Trends</h1>
         <h3>
             <span id="448170" class="our-name" name="Alex Cort">Alex Cort</span>&nbsp;&nbsp;|&nbsp;&nbsp;<span id="451202" class="our-name" name="Austin Bricker">Austin Bricker</span>&nbsp;&nbsp;|&nbsp;&nbsp;<span id="443837" class="our-name" name="Ethan Jaynes">Ethan Jaynes</span>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="processbook.html">Process Book</a>
+            <p>The rise and fall of musical trends are a continuously cycling event. Individual songs, artists, and even genres build up in popularity only to slowly decay over time. These waves of popularity are documented throughout popular culture, but it is difficult to pinpoint precisely when a music aspect achieved popular status by anecdote alone. Here we visualized three aspects of musical trends: The overall percentage share of each genre over time, the previlance of particular artists or genres, and the success of songs on a weekly basis.</p>
         </h3>
 
         <!-- Tab content inspired from here: https://www.w3schools.com/howto/howto_js_tabs.asp -->
         <div class="tab">
-            <button id="defaultOpen" class="tablinks" onclick="showGraph('tile')">Genre</button>   
+            <button id="defaultOpen" class="tablinks" onclick="showGraph('tile')">Genre</button>
             <button class="tablinks" onclick="showGraph('stream')">Year</button>
             <button class="tablinks" onclick="showGraph('bump')">Artist</button>
         </div>
-        
+
         <div id="tile" class="tabcontent">
             <h2 id="tileTitle" class="center"></h2>
             <nav>
@@ -29,7 +30,7 @@
             <div class="feature" id="tilegraph"></div>
             <div id="tilebrush"></div>
         </div>
-        
+
 
         <div id="stream" class="tabcontent">
             <div id="streamgraph"></div>
