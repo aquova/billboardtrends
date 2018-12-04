@@ -190,12 +190,15 @@ function constructStream() {
     .call(brush.extent([[margin.left,margin.top],[widthy - 2*margin.left - 2*margin.right,100 + margin.top]])
         .on("brush", function() {
 
+        // Prevent d3.move from calling the on-brush function
+        if (!d3.event.sourceEvent) return;
+
         brushScale.domain([margin.left, widthy - 2*margin.left - 2*margin.right]);
         brushScale.range([1941,2018]);
 
         leftYear = brushScale(d3.event.selection[0]);
         rightYear = brushScale(d3.event.selection[1]);
-
+        console.log(this);
         // Set minimum brush size
         if (rightYear - leftYear < 2) {
             brush.move(d3.select(this),[d3.event.selection[0],d3.event.selection[0]+(brushScale.invert(1995) - brushScale.invert(1993))]);
@@ -232,9 +235,9 @@ function constructStream() {
             .select('path').style('fill','none');
 
     }));
-    brush.on("end", function(){
-        if (!d3.event.selection) {
 
+    var onDeselect = function() {
+        
             leftYear = 1941;
             rightYear = 2018;
 
@@ -259,8 +262,18 @@ function constructStream() {
             pathAx.call(xAxis);
             pathAx.attr('transform','translate(0,290)').select('path').style('fill','none');
 
+    }
+
+    brush.on("end", function() {
+        if (!d3.event.selection) {
+            onDeselect();
         }
-       
+    });
+    $(document).on('click', function(e) {
+        if (!$('.brush').is(e.target) && d3.select(brushg).node().select('.selection').attr('width') != null) {
+            brush.move(d3.select(brushg.node()), null);
+            onDeselect();
+        }
     });
     brushg.select('.overlay')
         .attr('height', 100)
