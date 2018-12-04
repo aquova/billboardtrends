@@ -146,6 +146,10 @@ img {
 
 /* bump chart */
 
+.scaleText {
+  white-space: pre;
+}
+
 path {
   fill: #DD0000;
   stroke: #000000;

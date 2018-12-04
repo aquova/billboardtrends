@@ -4,7 +4,8 @@ d3.csv("data/us_albums_cleaned.csv", function(data) {
     //us_albums_short_cleaned.csv
 
   data.forEach(function(d) {
-    d['class'] = d['artist'].toLowerCase().replace(/ /g, '-').replace(/[.,\/#!$?%\^&\*;:{}=\-_`~()]/g,'z').replace(/&./g,'and').replace(/'./g,'').replace(/:./g,'-').replace(/\[/g,'_').replace(/\]/g,'_').replace(/[0-9]/g,'x')+d['album'].toLowerCase().replace(/ /g, '-').replace(/[.,\/#!$?%\^&\*;:{}=\-_`~()]/g,'z').replace(/&./g,'and').replace(/'./g,'').replace(/:./g,'-').replace(/\[/g,'_').replace(/\]/g,'_').replace(/[0-9]/g,'x');
+    d['class'] = d['artist'].toLowerCase().replace(/ /g, '-').replace(/[.,\/#!$?%\^&\*;:{}=\-_`~()]/g,'z').replace(/&./g,'and').replace(/'./g,'').replace(/:./g,'-').replace(/\[/g,'_').replace(/\]/g,'_')+d['album'].toLowerCase().replace(/ /g, '-').replace(/[.,\/#!$?%\^&\*;:{}=\-_`~()]/g,'z').replace(/&./g,'and').replace(/'./g,'').replace(/:./g,'-').replace(/\[/g,'_').replace(/\]/g,'_');
+  //.replace(/[0-9]/g,'x')
   })
 
 yearRange = [1970,2018]
@@ -25,7 +26,7 @@ var width = $(window).width() -200 - margin.left - margin.right,
   var brushArea = d3.select("#brush-area")
     .append("svg")
     .attr("width", width+50)
-    .attr("height", 350)
+    .attr("height", 515)
     .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
@@ -45,8 +46,74 @@ var width = $(window).width() -200 - margin.left - margin.right,
     .attr("y", 120)
     .text("Year");
 
-
   var selectedWeek = brushArea.append("g")
+
+  d3.select("#timeDropdown")
+    .attr("position", "absolute")
+    .attr("left", (width/2)-450)
+    .attr("y", 350)
+    .on("change",function(d){
+      var selected = d3.select("#timeDropdown").node().value;
+      console.log(selected)
+      bump(data)
+        //d3.select("#timeDropdown").text(selected);
+  })
+
+  //var dropdownValues = ["0", "1", "2", "3", "4", "5", "6", "7"];
+    
+
+  // var select = brushArea
+  //   .insert("select", "svg")
+  //   // .attr('class','select')
+    
+  //   .on('change', onchange);
+
+  // var options = select
+  //   .selectAll('option')
+  //   .data(dropdownValues).enter()
+  //   //.attr("font-size", 20)
+  //   .append('option')
+  //     .text(function (d) { return d; });
+
+  // function onchange() {
+  //   selectValue = d3.select('select').property('value')
+  //   d3.select('body')
+  //     .append('p')
+  //     .text(selectValue + ' is the last selected option.')
+  // };
+
+  var colorScaleViz  = d3.scaleLinear()
+        .domain([0, 300])  //incorrect
+        .range(['#FFA500','#810082'])
+        .interpolate(d3.interpolateHcl);
+
+  var bars = brushArea.selectAll(".bars")
+    .data(d3.range(300), function(d) { return d; })
+  .enter().append("rect")
+    .attr("class", "bars")
+    .attr("x", function(d, i) { return (i+(width/2)-150); })
+    .attr("y", 300)
+    .attr("height", 30)
+    .attr("width", 1)
+    .style("fill", function(d, i ) { return colorScaleViz(d); })
+
+  var scaleText = brushArea.append("g")
+    .append("text")
+    .attr("class", "scaleText")
+    .style("fill", "black" )
+    .attr("font-size", 20)
+    .attr("x", (width/2)-150)
+    .attr("y", 360)
+    .text("0         Weeks in Top 200         52+");
+
+  
+
+    // var scaleViz = brushArea.append("g").append("rect")
+    //   .attr("x", 2000)
+    //   .attr("y", 250)
+    //   .attr("height", 20)
+    //   .attr("width", 200)
+    //   .style("fill", function(d, i ) { return colorScaleViz(data); })
 
   var xScale = d3.scaleLinear()
         //.domain(d3.extent(data, function(d) { return +d['year']; }))
@@ -177,6 +244,8 @@ var width = $(window).width() -200 - margin.left - margin.right,
 
   var xWidth = d3.scaleLinear()
     .range([0, width]);
+
+
   //
   // brush.append("g")
   //   .attr("class", "axis axis--grid")
@@ -232,6 +301,8 @@ var width = $(window).width() -200 - margin.left - margin.right,
     })
 
     weekRange = mySelections[1].selection
+
+    pathRange = 10
     // console.log(data2.length);
     //data = data2.slice(1600,3199)
     console.log((weekRange*200)-1599)
@@ -270,9 +341,10 @@ var width = $(window).width() -200 - margin.left - margin.right,
     var weeksMax = d3.max(data, function(d) { return d.num_weeks; })
 
     var colorScale  = d3.scaleLinear()
-        .domain([0, 52]) 
+        .domain([0, 52])  //incorrect
         .range(['#FFA500','#810082'])
-        .interpolate(d3.interpolateRgb);
+        .interpolate(d3.interpolateHcl);
+
 
     var xAxis = d3.axisTop(x);
 
@@ -306,6 +378,7 @@ var width = $(window).width() -200 - margin.left - margin.right,
 
     //console.log(dates)
 
+    //d3.select("#timeDropdown").text("first");
 
     var albums = d3.map(data, function(d) {
       return d['class'];
@@ -317,6 +390,7 @@ var width = $(window).width() -200 - margin.left - margin.right,
     albums.forEach(function(album) {
       var currData = data.filter(function(d) {
         if(d['class'] == album) {
+            console.log(d['class'])
             return d;  
         }
       });
@@ -338,11 +412,13 @@ var width = $(window).width() -200 - margin.left - margin.right,
 
       var totalLength = path.node().getTotalLength();
 
+      var dur = d3.select("#timeDropdown").node().value;
+
       path
           .attr("stroke-dasharray", totalLength + " " + totalLength)
           .attr("stroke-dashoffset", totalLength)
           .transition()
-            .duration(6000)
+            .duration(dur)
             .ease(d3.easeLinear)
             .attr("stroke-dashoffset", 0);
 
@@ -357,7 +433,7 @@ var width = $(window).width() -200 - margin.left - margin.right,
       .attr("cx", function(d) { return x(d['week']); })
       .attr("cy", function(d) { return y(d['pos']); })
       .attr('fill', function(d) { return colorScale(d['num_weeks']); })
-      .attr("class", function(d) { return d['album'].toLowerCase().replace(/ /g, '-').replace(/[.,\/#!$?%\^&\*;:{}=\-_`~()]/g,'z').replace(/&./g,'and').replace(/'./g,'').replace(/:./g,'-').replace(/\[/g,'_').replace(/\]/g,'_').replace(/[0-9]/g,'x') })
+      .attr("class", function(d) { return d['album'].toLowerCase().replace(/ /g, '-').replace(/[.,\/#!$?%\^&\*;:{}=\-_`~()]/g,'z').replace(/&./g,'and').replace(/'./g,'').replace(/:./g,'-').replace(/\[/g,'_').replace(/\]/g,'_') }) //.replace(/[0-9]/g,'x')
       .attr("r", 6)
       .attr("stroke-width", 1.5);
 
