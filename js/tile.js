@@ -127,11 +127,10 @@ function parseData(d) {
 function mainTile(year, raw_data) {
     // Removing any elements from the last dataset
     div.selectAll(".node").remove()
-    // brushSection.selectAll("g").remove()
 
     var data = parseData(raw_data)
 
-    d3.select("#tileTitle").text(year)
+    d3.select("#tileTitle").text("Genre Popularities: " + year)
 
     var treemap = d3.treemap()
         .size([tileWidth, tileHeight])
@@ -154,6 +153,10 @@ function mainTile(year, raw_data) {
         .attr("title", function(d) {
             return d.data.name
         })
+
+    // For if the user tries to load a different year while zoomed in
+    tileXscale.domain([0, tileWidth])
+    tileYscale.domain([0, tileHeight])
 
     cells.style("left", function(d) {
         return tileXscale(d.x0) + "%"

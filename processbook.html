@@ -71,8 +71,13 @@
         <img src="img/tilegraph3.png">
 
         <hr/>
-        <h3>Artist Ranking Bump graph</h3>
-        <p>Main functionality has been implemented. The date brush is the last element that needs to be implemented. As far as improvements we want before we submit the assignment, there were a few things we thought of. On loading of the visualization we could have an animation of say, the top ten songs, and each node for each week is highlighted and the paths are drawn. Also since the chart is very busy, we may give the user the option to toggle lines for unhighlighted albums on or off. There is a small bug that needs to be fixed where multiple artists have "Greatest Hits" albums and therefore the same class name. We will fix this making the class names album+artist instead of just album. We are also going to reverse the colors so that light means new and dark means old.</p>
+        <h3>Album Ranking Bump graph</h3>
+        <p>The album bump plot reached its final design somewhat more quickly than the other visualizations. The idea was to have several different colors of points, with each column corresponding to a week, and each data point to a song on the charts at that time. Lines would connect the same song from week to week, allowing the user to trace the popularity of a single album over its lifetime. However, while the functionality was there, this form of visualization proved to be more feature dense than the other two, and thus easily spilled off the page and required a good deal of scrolling.</p>
+        <img src="img/bumpgraph1.png">
+        <img src="img/bumpgraph2.png">
+        <p>A number of changes were then implimented to help mitigate this issue. Firstly, two sliders were used to achieve a more precise control over the selected data; the top most slider would control the year, while the bottom would choose a range of weeks. The visualization was then modified to better accomidate the user's screen width, so all the data could be viewed horizontally at once. An animation was also added for the connecting lines so that users would have an additional visual connections between related data points.</p>
+        <img src="img/bumpgraph3.png">
+
         <h2 id="original-sketches">Original Sketches</h2>
         <img src="img/Picture1.png">
         <img src="img/Picture2.png">
