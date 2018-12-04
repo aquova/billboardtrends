@@ -52,10 +52,27 @@
 
         <h2 id="visualization-implementation">Visualization Implementation</h2>
         <p>The main focus of our efforts between Milestones 1 and 2 was the overall implementation of our designs, mainly adding a dynamic element and better usability.</p>
-        <p>Genre Popularity: </p>
-        <p>Billboard Ranking: Main functionality has been implemented. The date brush is the last element that needs to be implemented. As far as improvements we want before we submit the assignment, there were a few things we thought of. On loading of the visualization we could have an animation of say, the top ten songs, and each node for each week is highlighted and the paths are drawn. Also since the chart is very busy, we may give the user the option to toggle lines for unhighlighted albums on or off. There is a small bug that needs to be fixed where multiple artists have "Greatest Hits" albums and therefore the same class name. We will fix this making the class names album+artist instead of just album. We are also going to reverse the colors so that light means new and dark means old.</p>
-        <p>Billboard 100 Tree Map: Functionality has been added, as well as the dynamic elements. Users can now view overall genre popularity on a yearly basis, and be able to zoom in to view broad genres, sub-genres, artists, and an individual artist. There are some minor things that need to be changed, such as scaling text sizes, but these should be minor things that will be completed relatively easily. Another thing we need to consider is the size of data that we wish to analyze. Currently, the tree map displays an entire year's worth, but this may be shortened down to monthly or weekly. We also might add the option to choose the box scaling type, such as weighting the entries based on ranking or weighting them all equally. We feel like it would be a nice addition to have multiple options for the user.</p>
 
+        <h3>Genre Popularity Streamgraph</h3>
+        <p>The genre chart went through a different prototype design before settling on the current design. The first prototype still featured a similar concept, where the popularity of the genres would be stacked on top of each other, due to the differing amount of records in the early days the height of the graph wasn't constant throughout time (The Billboard 100 used to be the Billboard 10, then the Billboard 20, even recording hits over 100 for a period). </p>
+        <img src="img/streamgraph1.png">
+        <p>This differing height version, while somewhat interesting visually, was eventually scrapped for a version that featured a constant height across time. This seemed to be the more ideal version, as it gave a much clearly view of how genres differed, which was the main goal of the project. A black separation line was also added to give a better distinction between genres, however the chart could only show the database in its entirety.</p>
+        <img src="img/streamgraph2.png">
+        <p>The most recent design added both a legend underneath the chart, to better gauge the years being displayed, but also added a brush with which the user could zoom in the smaller intervals.</p>
+        <img src="img/streamgraph3.png">
+
+        <hr/>
+        <h3>Billboard Ranking Treemap</h3>
+        <p>The initial version of the treemap was a quick and dirty to prototype to determine the validity of the idea. The initial chart was static, only listed the genre, and only featured a small subset of the total data. This was made mainly to determine the best way to create heirographical data and to position and resize cells based on the relevant data.</p>
+        <img src="img/tilegraph1.png">
+        <p>After some reworking, a prototype of the current version was made. This version added different layers which could be zoomed in and out to reveal additional information, namely genre, subgenre, and artist name. There were some rough spots, such as the text often being too large for the cell, and similarly colored cells being difficult to distinguish.</p>
+        <img src="img/tilegraph2.png">
+        <p>The most current version of the visualization added a few visual improvements as well as functional ones. While the previous version could only display a single year, the next iteration added a slider and legend so that any year could be displayed. In addtion, a title was added to better clarify the plot. Black borders were given to all the cells to made them distinct from another, and the text of the cells was appropriated scaled now as well.</p>
+        <img src="img/tilegraph3.png">
+
+        <hr/>
+        <h3>Artist Ranking Bump graph</h3>
+        <p>Main functionality has been implemented. The date brush is the last element that needs to be implemented. As far as improvements we want before we submit the assignment, there were a few things we thought of. On loading of the visualization we could have an animation of say, the top ten songs, and each node for each week is highlighted and the paths are drawn. Also since the chart is very busy, we may give the user the option to toggle lines for unhighlighted albums on or off. There is a small bug that needs to be fixed where multiple artists have "Greatest Hits" albums and therefore the same class name. We will fix this making the class names album+artist instead of just album. We are also going to reverse the colors so that light means new and dark means old.</p>
         <h2 id="original-sketches">Original Sketches</h2>
         <img src="img/Picture1.png">
         <img src="img/Picture2.png">
