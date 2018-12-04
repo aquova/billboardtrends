@@ -209,3 +209,7 @@ path.active {
   opacity: 0.9;
   visibility: hidden;
 }
+
+.process-img {
+  width: 100%;
+}
