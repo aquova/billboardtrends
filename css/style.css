@@ -68,6 +68,10 @@ img {
     pointer-events: none;
 }
 
+.tileBrush .overlay {
+    pointer-events: none;
+}
+
 .node {
     position: absolute;
     overflow: hidden;
