@@ -150,6 +150,10 @@ img {
 
 /* bump chart */
 
+.scaleText {
+  white-space: pre;
+}
+
 path {
   fill: #DD0000;
   stroke: #000000;
@@ -212,4 +216,8 @@ path.active {
   pointer-events: none;
   opacity: 0.9;
   visibility: hidden;
+}
+
+.process-img {
+  width: 100%;
 }
