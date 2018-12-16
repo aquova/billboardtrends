@@ -27,6 +27,8 @@
         would like to add an addendum to our goals, that is to be able to see 
         how albums rise in fall in popularity over a short to medium span of time.
         </p>
+        <p> Final Update: Our visualizations are now all using SONG/TRACK data and NOT album data. This means each visualization draws upon historical Billboard 100 data. Our objective shifted back to its original focus of visualizing track/genre popularity over time.      
+        </p>
 
         <h2 id="data-source">Data Source</h2>
 
@@ -86,8 +88,8 @@
         <img class="process-img" src="img/tilegraph3.png">
 
         <hr/>
-        <h3>Album Ranking Bump graph</h3>
-        <p>The album bump plot reached its final design somewhat more quickly than the other visualizations. The idea was to have several different colors of points, with each column corresponding to a week, and each data point to a song on the charts at that time. Lines would connect the same song from week to week, allowing the user to trace the popularity of a single album over its lifetime. However, while the functionality was there, this form of visualization proved to be more feature dense than the other two, and thus easily spilled off the page and required a good deal of scrolling.</p>
+        <h3>Song Ranking Bump Chart</h3>
+        <p>The bump plot reached its final design somewhat more quickly than the other visualizations. The idea was to have several different colors of points, with each column corresponding to a week, and each data point to a song on the charts at that time. Lines would connect the same song from week to week, allowing the user to trace the popularity of a single album over its lifetime. However, while the functionality was there, this form of visualization proved to be more feature dense than the other two, and thus easily spilled off the page and required a good deal of scrolling.</p>
         <img class="process-img" src="img/bumpgraph1.png">
         <img class="process-img" src="img/bumpgraph2.png">
         <p>A number of changes were then implimented to help mitigate this issue. Firstly, two sliders were used to achieve a more precise control over the selected data; the top most slider would control the year, while the bottom would choose a range of weeks. The visualization was then modified to better accomidate the user's screen width, so all the data could be viewed horizontally at once. An animation was also added for the connecting lines so that users would have an additional visual connections between related data points.</p>
@@ -98,6 +100,9 @@
         nearly impossible to figure out. Colors were reversed from using a light color to represent an album which had been in the top 200 for a long time and a dark color representing albums which had not been in the 200 for very long. The new key is light==new and dark==old. A dropdown menu was also added to allow the user to control the speed of the path animation. This is useful when the user wants to quickly move between different timeperiods, or carefully analyze the ranking changes over a multi-week period.
         </p>
         <img src="img/bumpgraph4.png">
+        <p>In the final iteration of the design we added a toggle for the lines. The chart is very noisy and can be somewhat overwhelming. If a user selects the "Toggle Path" button, all the lines will dissapear (except the ones that have been highlighted) which may allow for a more focused analysis of the data. The bump chart is now displaying Billboard 100 Song Data and not Billboard 200 Album data. We believe that song trends are more interesting than album trends because rarely do people ever end up buying entire albums anymore, instead listeners tend to save the songs the like off of albums on streaming services. Splitting the data into seperate files for each year has resulted in significantly faster load times (1 second vs 10 seconds).
+        </p>
+        <img src="img/bumpgraph5.png">
         <h2 id="original-sketches">Original Sketches</h2>
         <img class="process-img" src="img/Picture1.png">
         <img class="process-img" src="img/Picture2.png">
