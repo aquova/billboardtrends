@@ -1,20 +1,20 @@
 
 // Parse the Data
-d3.csv("data/us_albums_cleaned.csv", function(data) {
-    //us_albums_short_cleaned.csv
+// d3.csv("us_tracks_cleaned.csv", function(data) {
+//     //us_tracks_short_cleaned.csv
 
-  data.forEach(function(d) {
-    d['class'] = d['artist'].toLowerCase().replace(/ /g, '-').replace(/[.,\/#!$?%\^&\*;:{}=\-_`~()]/g,'z').replace(/&./g,'and').replace(/'./g,'').replace(/:./g,'-').replace(/\[/g,'_').replace(/\]/g,'_')+d['album'].toLowerCase().replace(/ /g, '-').replace(/[.,\/#!$?%\^&\*;:{}=\-_`~()]/g,'z').replace(/&./g,'and').replace(/'./g,'').replace(/:./g,'-').replace(/\[/g,'_').replace(/\]/g,'_');
-  //.replace(/[0-9]/g,'x')
-  })
+//   data.forEach(function(d) {
+//     d['class'] = d['artist'].toLowerCase().replace(/ /g, '-').replace(/[.,\/#!$?%\^&\*;:{}=\-_`~()]/g,'z').replace(/&./g,'and').replace(/'./g,'').replace(/:./g,'-').replace(/\[/g,'_').replace(/\]/g,'_')+d['track'].toLowerCase().replace(/ /g, '-').replace(/[.,\/#!$?%\^&\*;:{}=\-_`~()]/g,'z').replace(/&./g,'and').replace(/'./g,'').replace(/:./g,'-').replace(/\[/g,'_').replace(/\]/g,'_');
+//   //.replace(/[0-9]/g,'x')
+//   })
 
-yearRange = [1970,2018]
+yearRange = [1985,2018]
 
 
 var margin = {top: 60, right: 10, bottom: 60, left: 60};
 
 var width = $(window).width() -200 - margin.left - margin.right,
-    height = 4000 - margin.top - margin.bottom;
+    height = 2000 - margin.top - margin.bottom;
     
   var chart = d3.select('#chart-area')
       .append("svg")
@@ -28,7 +28,7 @@ var width = $(window).width() -200 - margin.left - margin.right,
     .attr("width", width+50)
     .attr("height", 515)
     .append("g")
-    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+    //.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
   var selectedWeek = brushArea.append("g")
     .append("text")
@@ -50,42 +50,43 @@ var width = $(window).width() -200 - margin.left - margin.right,
 
   d3.select("#timeDropdown")
     .attr("position", "absolute")
-    .attr("left", (width/2)-450)
+    .attr("center", 0)
     .attr("y", 350)
     .on("change",function(d){
       var selected = d3.select("#timeDropdown").node().value;
-      console.log(selected)
-      bump(data)
+      //console.log(selected)
+      //bump(data)
         //d3.select("#timeDropdown").text(selected);
   })
 
+  var tog = false
+
+  d3.select("#pathToggle")
+    .on("click", function(d){
+      
+      //.attr("style", "stroke:none")
+      //.attr("style", "fill:none")
+      if(tog == false){
+        chart.selectAll("path").attr("stroke-opacity", 0)
+        tog = true;
+      }
+      else {
+        chart.selectAll("path").attr("stroke-opacity", .1)
+        tog = false;
+      }
+      
+
+    })
+
+
   //var dropdownValues = ["0", "1", "2", "3", "4", "5", "6", "7"];
-    
-
-  // var select = brushArea
-  //   .insert("select", "svg")
-  //   // .attr('class','select')
-    
-  //   .on('change', onchange);
-
-  // var options = select
-  //   .selectAll('option')
-  //   .data(dropdownValues).enter()
-  //   //.attr("font-size", 20)
-  //   .append('option')
-  //     .text(function (d) { return d; });
-
-  // function onchange() {
-  //   selectValue = d3.select('select').property('value')
-  //   d3.select('body')
-  //     .append('p')
-  //     .text(selectValue + ' is the last selected option.')
-  // };
 
   var colorScaleViz  = d3.scaleLinear()
         .domain([0, 300])  //incorrect
         .range(['#FFA500','#810082'])
         .interpolate(d3.interpolateHcl);
+
+window.onload = function(){
 
   var bars = brushArea.selectAll(".bars")
     .data(d3.range(300), function(d) { return d; })
@@ -106,14 +107,6 @@ var width = $(window).width() -200 - margin.left - margin.right,
     .attr("y", 360)
     .text("0         Weeks in Top 200         52+");
 
-  
-
-    // var scaleViz = brushArea.append("g").append("rect")
-    //   .attr("x", 2000)
-    //   .attr("y", 250)
-    //   .attr("height", 20)
-    //   .attr("width", 200)
-    //   .style("fill", function(d, i ) { return colorScaleViz(data); })
 
   var xScale = d3.scaleLinear()
         //.domain(d3.extent(data, function(d) { return +d['year']; }))
@@ -129,94 +122,71 @@ var width = $(window).width() -200 - margin.left - margin.right,
 
   var mySelections = {};
 
-  var yearBrush = brushArea.append("g")
-    .attr("class", "yearbrush")
-    .call(d3.brushX().extent([[margin.left,0],[width,100]])
-        .on("end", ()=>{
-        selected = Math.floor(yearScale(d3.event.selection[0]));
-        // leftYear = Math.floor(d3.event.selection[0] * (3/73) + 1970);
-        // rightYear = Math.floor(d3.event.selection[1] * (3/73) + 1970);
-        //layers = stack(data.slice(leftYear-1970, rightYear-1970));
+  var yearBrush = d3.brushX()
+  .extent([[margin.left,0],[width,100]])
+  .on("end", function() {
+    selected = Math.floor(yearScale(d3.event.selection[0]));
+    mySelections[0] = {selection: selected};
+    //console.log(mySelections[0])
+    var y = mySelections[0].selection
+    readData(y, mySelections)
+  })
 
-        // xScale
-        // .domain(d3.extent(data.slice(leftYear-1970, rightYear-1970), function(d) { return +d['year']; }))
-        // .range([0, width]);
-        //var selectedMonth = weekBrush.select("weekbrush").select("text");
-        
-        //var selectedMonth = (d3.brushSelection(weekBrush.node()));
+  var g = brushArea.append("g").attr("class", "brush yearbrush").call(yearBrush)
+  yearBrush.move(g, [yearScale.invert(2010), yearScale.invert(2011)])
 
-        //mySelections[this.id] = {start: selection[0], end: selection[1]};
-        mySelections[0] = {selection: selected};
-        //   if (selectedMonth.length > 0) {
-        //       alert (id[0].value);
-        // }
-        // console.log(selected)
-        //console.log("month")
-        //console.log(selectedMonth[0])
-        // pathg.selectAll(".layer")
-        //     .data(layers)
+  // var yearBrush = brushArea.append("g")
+  //   .attr("class", "yearbrush")
+  //   .call(d3.brushX().extent([[margin.left,0],[width,100]])
+  //       .on("end", ()=>{
+  //       selected = Math.floor(yearScale(d3.event.selection[0]));
+      
+  //       mySelections[0] = {selection: selected};
+  //       console.log(mySelections[0])
+  //       var y = mySelections[0].selection
+  //       readData(y)
+  //       //bump(data)
 
-        //     .attr("d", function(d) { return area(d); })
-        //       .style("fill", function(d, i) { return colorScale(i); })
-        //       .on("mouseover", (d) => { console.log(d.key) });
-        bump(data)
-        // var text = brushArea.select("selectedWeek").selectAll("text")
-        //   .data(selected)
-        //   .enter().append("text")
-        //   .style("fill", "black" )
-        //   .attr("font-size", 15)
-        //   .attr("x", 40)
-        //   .attr("y", 250)
-        //   //.merge(text)
-        //   .text(function (d) { return d});
+  //   }));
 
-        //text.exit().remove();
-
-    }));
-    yearBrush.select('.overlay')
+    g.select('.overlay')
         .attr('height', 100)
         .attr('x', margin.left)
         .attr('y', 0)
         .attr('width', width)
         .attr('fill', '#ddd');
 
-    // brush.select('.selection')
-    //   .call(brush)
-    //   .call(brush.move, [5, 100]);
-
-
-    brushAx = yearBrush.append('g');
+    brushAx = g.append('g');
     brushAx.call(xAxis);
     brushAx.attr("class", "axis").attr('transform','translate('+(margin.left)+','+(105)+')');
 
+  var weekBrush = d3.brushX()
+  .extent([[margin.left,130],[width, 230]])
+  .on("end", function() {
+    selected = Math.floor(weekScale(d3.event.selection[1]));
+    mySelections[1] = {selection: selected};
+    var y = mySelections[0].selection
+    readData(y, mySelections)
+  })
 
-  var weekBrush = brushArea.append("g")
-    .attr("class", "weekbrush")
-    .call(d3.brushX().extent([[margin.left,130],[width, 230]])
-        .on("end", ()=>{
-        selected = Math.floor(weekScale(d3.event.selection[0]));
-        //leftYear = Math.floor(d3.event.selection[0] * (3/73) + 1970);
-        //rightYear = Math.floor(d3.event.selection[1] * (3/73) + 1970);
-        //layers = stack(data.slice(leftYear-1970, rightYear-1970));
+  var gg = brushArea.append("g").attr("class", "brush weekbrush").call(weekBrush)
+  weekBrush.move(gg, [weekScale.invert(18), weekScale.invert(10)])
 
-        //xScale
-        //.domain(d3.extent(data.slice(leftYear-1970, rightYear-1970), function(d) { return +d['year']; }))
-        //.range([0, width]);
-        //mySelections[this.id] = {start: selection[0], end: selection[1]};
-        //console.log(this.id)
-        mySelections[1] = {selection: selected};
-        bump(data)
-        // console.log(selected)
-        // console.log(mySelections)
-        // pathg.selectAll(".layer")
-        //     .data(layers)
+  // var weekBrush = brushArea.append("g")
+  //   .attr("class", "weekbrush")
+  //   .call(d3.brushX().extent([[margin.left,130],[width, 230]])
+  //       .on("end", ()=>{
+  //       selected = Math.floor(weekScale(d3.event.selection[0]));
 
-        //     .attr("d", function(d) { return area(d); })
-        //       .style("fill", function(d, i) { return colorScale(i); })
-        //       .on("mouseover", (d) => { console.log(d.key) });
+  //       mySelections[1] = {selection: selected};
+  //       var y = mySelections[0].selection
+  //       readData(y)
+  //       // bump(data)
 
-    }));
-    weekBrush.select('.overlay')
+
+
+  //   }));
+    gg.select('.overlay')
         .attr('height', 100)
         .attr('x', margin.left)
         .attr('y', 130)
@@ -228,10 +198,12 @@ var width = $(window).width() -200 - margin.left - margin.right,
     //   .call(brush.move, [5, 100]);
 
 
-    brushAx = weekBrush.append('g');
+    brushAx = gg.append('g');
     brushAx.call(xAxisWeek);
     brushAx.attr("class", "axis").attr('transform','translate('+margin.left+','+(245)+')');
 
+
+}
   //brush scales
   var yearScale = d3.scaleLinear().domain([0, width]).range([1984,2018])
   var weekScale = d3.scaleLinear().domain([0,width]).range([52,8])
@@ -246,69 +218,38 @@ var width = $(window).width() -200 - margin.left - margin.right,
     .range([0, width]);
 
 
-  //
-  // brush.append("g")
-  //   .attr("class", "axis axis--grid")
-  //   .attr("transform", "translate(0," + 100 + ")")
-  //   .call(d3.axisBottom(xBrush)
-  //       .ticks(d3.timeWeek)
-  //       .tickSize(-100)
-  //       .tickFormat(function() { return null; }))
-  // .selectAll(".tick")
-  //   .classed("tick--minor", function(d) { return d.getHours(); });
+  function readData(year, mySelections) {
+    var filepath = "data/charts/" + year + ".csv"
+    d3.csv(filepath, function(data) {
+      data.forEach(function(d) {
+        d['class'] = d['artist'].toLowerCase().replace(/ /g, '-').replace(/[0-9]/g, 'a,b,c,d,e,f,g,h,i,j').replace(/[.,\/#!$?%\^&\*;:{}=\-_`~()]/g,'z').replace(/&./g,'and').replace(/'./g,'').replace(/:./g,'-').replace(/\[/g,'_').replace(/\]/g,'_')+d['track'].toLowerCase().replace(/ /g, '-').replace(/[.,\/#!$?%\^&\*;:{}=\-_`~()]/g,'z').replace(/&./g,'and').replace(/'./g,'').replace(/:./g,'-').replace(/\[/g,'_').replace(/\]/g,'_');
+        })
+        bump(data, mySelections)
 
-  // brush.append("g")
-  //   .attr("class", "axis axis--x")
-  //   .attr("transform", "translate(0," + 100 + ")")
-  //   .call(d3.axisBottom(xBrush)
-  //       .ticks(d3.timeMonth)
-  //       .tickPadding(0))
-  //   .attr("text-anchor", null)
-  // .selectAll("text")
-  //   .attr("x", 6);
-
-  // brush.append("g")
-  //   .attr("class", "brush")
-  //   .call(brush.move, [xWidth(60), xWidth(120)]);
-  //       //.extent([xBrush(Date(2017, 1, 1)), xBrush(Date(2018, 10, 20))])
-  //       //.handleSize([6])
-  //       //.on("brush", brushed));
-
-  // function brushed() {
-  //   if (d3.event.sourceEvent.type === "brush") return;
-  //   var d0 = d3.event.selection.map(xBrush.invert),
-  //       d1 = d0.map(d3.timeWeek.round);
-
-  //   // If empty when rounded, use floor instead.
-  //   if (d1[0] >= d1[1]) {
-  //     d1[0] = d3.timeWeek.floor(d0[0]);
-  //     d1[1] = d3.timeWeek.offset(d1[0]);
-  //   }
-    //brush.select(this).call(d3.event.target.move, d1.map(xBrush));
-  // }
-
-  // d3.selectAll('.brush>.handle').remove();
+    })
+  }
 
   //chart scales
-  function bump(data) {
+  function bump(data, mySelections) {
     var data2 = []
-    var y = mySelections[0].selection
-    data.forEach(function(d) {
-      if (d['year'] == y) {
-        data2.push(d);
-        //console.log(d)
-      }
-    })
+    //var y = mySelections[0].selection
+    // data.forEach(function(d) {
+    //   if (d['year'] == y) {
+    //     data2.push(d);
+    //     //console.log(d)
+    //   }
+    // })
 
     weekRange = mySelections[1].selection
 
     pathRange = 10
     // console.log(data2.length);
     //data = data2.slice(1600,3199)
-    console.log((weekRange*200)-1599)
-    console.log(weekRange*200)
-    data = data2.slice(((weekRange*200)-1599),(weekRange*200))
+    //console.log((weekRange*200)-1599)
+    //console.log(weekRange*200)
+    data = data.slice(((weekRange*100)-800),(weekRange*100))
     //data = data2.slice(((weekRange*200)-1799),(weekRange*200)-200)
+    //console.log(data.length)
     
     //data = data2;
     chart.selectAll("node").remove()
@@ -319,7 +260,7 @@ var width = $(window).width() -200 - margin.left - margin.right,
     chart.selectAll(".y axis").remove()
 
     var x = d3.scaleBand()
-        .domain(data.map(function(d) { return d['week']; }).reverse())
+        .domain(data.map(function(d) { return d['chart_date']; }).reverse())
         .rangeRound([25, width - 15]);
 
     var dates = x.domain();
@@ -327,18 +268,18 @@ var width = $(window).width() -200 - margin.left - margin.right,
     lastWeek = dates[dates.length-1]
 
     var y = d3.scaleLinear()
-        .domain([d3.min(data, function(d) { return d['pos'] }), d3.max(data, function(d) { return d['pos']; })])
-        .range([20, height/2 - 30]);
+        .domain([d3.min(data, function(d) { return d['this_week_position'] }), d3.max(data, function(d) { return d['this_week_position']; })])
+        .range([20, height -20]);
 
     var size = d3.scaleLinear()
-        .domain(d3.extent(data, function(d) { return d['num_weeks']; }))
+        .domain(d3.extent(data, function(d) { return d['total_weeks']; }))
         .range([3, 10]);
 
     var yrange = d3.scaleLinear()
-        .domain([1,200])
-        .range([20, height - 20]);
+        .domain([d3.min(data, function(d) { return d['this_week_position'] }), 100])
+        .range([20, height]);
 
-    var weeksMax = d3.max(data, function(d) { return d.num_weeks; })
+    var weeksMax = d3.max(data, function(d) { return d.total_weeks; })
 
     var colorScale  = d3.scaleLinear()
         .domain([0, 52])  //incorrect
@@ -349,7 +290,7 @@ var width = $(window).width() -200 - margin.left - margin.right,
     var xAxis = d3.axisTop(x);
 
     var yAxis = d3.axisLeft(yrange)
-      .ticks(200);
+      .ticks(100);
 
     chart.append("g")
         .style("sans-serif", "15px times")
@@ -362,7 +303,7 @@ var width = $(window).width() -200 - margin.left - margin.right,
         .call(yAxis);
 
     chart.append("text")
-      .text('Billboard 200: Albums')
+      .text('Billboard 200: Tracks')
       .attr("text-anchor", "middle")
       .attr("class", "graph-title")
       .attr("y", -30)
@@ -380,29 +321,30 @@ var width = $(window).width() -200 - margin.left - margin.right,
 
     //d3.select("#timeDropdown").text("first");
 
-    var albums = d3.map(data, function(d) {
+    var tracks = d3.map(data, function(d) {
       return d['class'];
     }).keys();
 
 
-    //console.log(albums)
+    //console.log(tracks)
 
-    albums.forEach(function(album) {
+    tracks.forEach(function(track) {
       var currData = data.filter(function(d) {
-        if(d['class'] == album) {
-            console.log(d['class'])
+        if(d['class'] == track) {
+             //console.log(d['class'])
+
             return d;  
         }
       });
 
 
       var lineFunc = d3.line()
-          .x(function(d) { return x(d['week']); })
-          .y(function(d) { return y(d['pos']); })
+          .x(function(d) { return x(d['chart_date']); })
+          .y(function(d) { return y(d['this_week_position']); })
           .curve(d3.curveMonotoneX);
 
       var path = chart.append("path")
-          .attr("class", album)
+          .attr("class", track)
           .attr("style", "fill:none") 
           .attr("stroke-linejoin", "round")
           .attr("stroke-linecap", "round")
@@ -430,11 +372,11 @@ var width = $(window).width() -200 - margin.left - margin.right,
       .data(data)
       .enter().append("circle")
       .attr("class", "point")
-      .attr("cx", function(d) { return x(d['week']); })
-      .attr("cy", function(d) { return y(d['pos']); })
-      .attr('fill', function(d) { return colorScale(d['num_weeks']); })
-      .attr("class", function(d) { return d['album'].toLowerCase().replace(/ /g, '-').replace(/[.,\/#!$?%\^&\*;:{}=\-_`~()]/g,'z').replace(/&./g,'and').replace(/'./g,'').replace(/:./g,'-').replace(/\[/g,'_').replace(/\]/g,'_') }) //.replace(/[0-9]/g,'x')
-      .attr("r", 6)
+      .attr("cx", function(d) { return x(d['chart_date']); })
+      .attr("cy", function(d) { return y(d['this_week_position']); })
+      .attr('fill', function(d) { return colorScale(d['total_weeks']); })
+      .attr("class", function(d) { return d['artist'].toLowerCase().replace(/[0-9]/g, 'a,b,c,d,e,f,g,h,i,j').replace(/ /g, '-').replace(/[.,\/#!$?%\^&\*;:{}=\-_`~()]/g,'z').replace(/&./g,'and').replace(/'./g,'').replace(/:./g,'-').replace(/\[/g,'_').replace(/\]/g,'_')+d['track'].toLowerCase().replace(/ /g, '-').replace(/[.,\/#!$?%\^&\*;:{}=\-_`~()]/g,'z').replace(/&./g,'and').replace(/'./g,'').replace(/:./g,'-').replace(/\[/g,'_').replace(/\]/g,'_'); }) //.replace(/[0-9]/g,'x')
+      .attr("r", 6) 
       .attr("stroke-width", 1.5);
 
 
@@ -442,19 +384,23 @@ var width = $(window).width() -200 - margin.left - margin.right,
       .selectAll("text")
       .data(data)
       .enter().append("text")
-      .attr("x", function(d) { if(d['week'] == lastWeek){
-        return x(d['week'])+10}
+      .attr("x", function(d) { if(d['chart_date'] == lastWeek){
+        return x(d['chart_date'])+10}
         else{
-          return x(d['week']-500)
+          return x(d['chart_date']-500)
         }
       })
 
-      .attr("y", function(d) { return y(d['pos'])+5; })
+      .attr("y", function(d) { return y(d['this_week_position'])+5; })
       .style("fill", "black" )
       .attr("font-size", 15)
-      .text(function(d) { if(d['week'] == lastWeek || d['week'] == lastWeek){
-          return d['artist']+" - "+d['album']} 
-          //console.log(d['week'])
+      .text(function(d) { if(d['chart_date'] == lastWeek || d['chart_date'] == lastWeek){
+          //return d['artist']+" - "+d['track']} 
+          //console.log(d['chart_date'])
+          if((d['artist']+" - "+d['track']).length > 50)
+                  return (d['artist']+" - "+d['track']).substring(0,50)+'...';
+                else
+                    return d['artist']+" - "+d['track'];} 
       })
       
       
@@ -467,9 +413,9 @@ var width = $(window).width() -200 - margin.left - margin.right,
         .on("mouseover", function(d) {
           chart.selectAll('.' + d['class'])
             .classed('active', true);
-          var tooltipData = "Album: " + d['album'] +
-              "<br/>" + "Peak Position: " + d['peak'] +
-              "<br/>" + "Weeks in top 200: " + d['num_weeks'] +
+          var tooltipData = "track: " + d['track'] +
+              "<br/>" + "Peak Position: " + d['peak_position'] +
+              "<br/>" + "Weeks in top 200: " + d['total_weeks'] +
               "<br/>" + "Artist: " + d['artist'];
 
           tooltip.html(tooltipData)
@@ -508,11 +454,11 @@ var width = $(window).width() -200 - margin.left - margin.right,
                 return !d3.select(this).classed('click-active');
               })
 
-              //.attr('fill', function(d) { return colorScale(d['num_weeks']); })
+              //.attr('fill', function(d) { return colorScale(d['total_weeks']); })
               //console.log(d[0])
-              var tooltipData = "Album: " + d['album'] +
-              "<br/>" + "Peak Position: " + d['peak'] +
-              "<br/>" + "Weeks in top 200: " + d['num_weeks'] +
+              var tooltipData = "track: " + d['track'] +
+              "<br/>" + "Peak Position: " + d['peak_position'] +
+              "<br/>" + "Weeks in top 200: " + d['total_weeks'] +
               "<br/>" + "Artist: " + d['artist'];
               tooltip.html(tooltipData)
               tooltip.style("top", event.pageY - (tooltip.node().clientHeight + 5) + "px")
@@ -537,7 +483,7 @@ var width = $(window).width() -200 - margin.left - margin.right,
           .text(function (d) { return d});
   }
   
-});
+// });
 
 
 

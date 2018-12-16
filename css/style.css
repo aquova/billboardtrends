@@ -72,6 +72,22 @@ img {
     pointer-events: none;
 }
 
+.yearbrush .handle {
+    pointer-events: none;
+}
+
+.yearbrush .overlay {
+    pointer-events: none;
+}
+
+.weekbrush .handle {
+    pointer-events: none;
+}
+
+.weekbrush .overlay {
+    pointer-events: none;
+}
+
 .node {
     position: absolute;
     overflow: hidden;
