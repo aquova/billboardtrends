@@ -11,7 +11,9 @@ var tileXscale = d3.scaleLinear().domain([0, tileWidth]).range([0, tileWidth])
 var tileYscale = d3.scaleLinear().domain([0, tileHeight]).range([0, tileHeight])
 var div = d3.select("#tilegraph")
 
-window.onload = function() {
+window.addEventListener('load', tileInit)
+
+function tileInit() {
     var brushSection = d3.select("#tilebrush").append("svg").attr("height", 70).attr("width", "100%")
     // This needs to be made dynamic
     loadedWidth = document.getElementById("tilegraph").clientWidth
@@ -22,7 +24,7 @@ window.onload = function() {
     .on("end", function() {
         var avgSelection = (d3.event.selection[0] + d3.event.selection[1]) / 2
         var new_year = Math.floor(brushScale(avgSelection)).toString()
-        readData(new_year)
+        readTileData(new_year)
     })
 
     var g = brushSection.append("g").attr("class", "brush tileBrush").call(brush)
@@ -42,10 +44,10 @@ window.onload = function() {
     var brushAxis = brushSection.append("g").call(xAxis)
     brushAxis.attr("transform", "translate(0," + 50 + ")").attr("fill", "black")
 
-    readData("2012")
+    readTileData("2012")
 }
 
-function readData(year) {
+function readTileData(year) {
     var filepath = "data/charts/" + year + ".csv"
     d3.csv(filepath, function(data) {
         mainTile(year, data)

@@ -13,9 +13,11 @@ yearRange = [1985,2018]
 
 var margin = {top: 60, right: 10, bottom: 60, left: 60};
 
+window.addEventListener('load', bumpInit)
+
 var width = $(window).width() -200 - margin.left - margin.right,
     height = 2000 - margin.top - margin.bottom;
-    
+
   var chart = d3.select('#chart-area')
       .append("svg")
       .attr("width", width +100 + (margin.left) + margin.right)
@@ -63,7 +65,7 @@ var width = $(window).width() -200 - margin.left - margin.right,
 
   d3.select("#pathToggle")
     .on("click", function(d){
-      
+
       //.attr("style", "stroke:none")
       //.attr("style", "fill:none")
       if(tog == false){
@@ -74,7 +76,7 @@ var width = $(window).width() -200 - margin.left - margin.right,
         chart.selectAll("path").attr("stroke-opacity", .1)
         tog = false;
       }
-      
+
 
     })
 
@@ -86,7 +88,7 @@ var width = $(window).width() -200 - margin.left - margin.right,
         .range(['#FFA500','#810082'])
         .interpolate(d3.interpolateHcl);
 
-window.onload = function(){
+function bumpInit(){
 
   var bars = brushArea.selectAll(".bars")
     .data(d3.range(300), function(d) { return d; })
@@ -140,7 +142,7 @@ window.onload = function(){
   //   .call(d3.brushX().extent([[margin.left,0],[width,100]])
   //       .on("end", ()=>{
   //       selected = Math.floor(yearScale(d3.event.selection[0]));
-      
+
   //       mySelections[0] = {selection: selected};
   //       console.log(mySelections[0])
   //       var y = mySelections[0].selection
@@ -250,7 +252,7 @@ window.onload = function(){
     data = data.slice(((weekRange*100)-800),(weekRange*100))
     //data = data2.slice(((weekRange*200)-1799),(weekRange*200)-200)
     //console.log(data.length)
-    
+
     //data = data2;
     chart.selectAll("node").remove()
     chart.selectAll("path").remove()
@@ -333,7 +335,7 @@ window.onload = function(){
         if(d['class'] == track) {
              //console.log(d['class'])
 
-            return d;  
+            return d;
         }
       });
 
@@ -345,7 +347,7 @@ window.onload = function(){
 
       var path = chart.append("path")
           .attr("class", track)
-          .attr("style", "fill:none") 
+          .attr("style", "fill:none")
           .attr("stroke-linejoin", "round")
           .attr("stroke-linecap", "round")
           .attr("stroke-width", 4)
@@ -365,8 +367,8 @@ window.onload = function(){
             .attr("stroke-dashoffset", 0);
 
     });
-        
-    
+
+
     var node = chart.append("g")
       .selectAll("circle")
       .data(data)
@@ -376,7 +378,7 @@ window.onload = function(){
       .attr("cy", function(d) { return y(d['this_week_position']); })
       .attr('fill', function(d) { return colorScale(d['total_weeks']); })
       .attr("class", function(d) { return d['artist'].toLowerCase().replace(/[0-9]/g, 'a,b,c,d,e,f,g,h,i,j').replace(/ /g, '-').replace(/[.,\/#!$?%\^&\*;:{}=\-_`~()]/g,'z').replace(/&./g,'and').replace(/'./g,'').replace(/:./g,'-').replace(/\[/g,'_').replace(/\]/g,'_')+d['track'].toLowerCase().replace(/ /g, '-').replace(/[.,\/#!$?%\^&\*;:{}=\-_`~()]/g,'z').replace(/&./g,'and').replace(/'./g,'').replace(/:./g,'-').replace(/\[/g,'_').replace(/\]/g,'_'); }) //.replace(/[0-9]/g,'x')
-      .attr("r", 6) 
+      .attr("r", 6)
       .attr("stroke-width", 1.5);
 
 
@@ -395,15 +397,15 @@ window.onload = function(){
       .style("fill", "black" )
       .attr("font-size", 15)
       .text(function(d) { if(d['chart_date'] == lastWeek || d['chart_date'] == lastWeek){
-          //return d['artist']+" - "+d['track']} 
+          //return d['artist']+" - "+d['track']}
           //console.log(d['chart_date'])
           if((d['artist']+" - "+d['track']).length > 50)
                   return (d['artist']+" - "+d['track']).substring(0,50)+'...';
                 else
-                    return d['artist']+" - "+d['track'];} 
+                    return d['artist']+" - "+d['track'];}
       })
-      
-      
+
+
     var tooltip = d3.select("body").append("div")
         .attr("class", "tooltip");
 
@@ -424,10 +426,10 @@ window.onload = function(){
               .style("left", event.pageX - (tooltip.node().clientWidth / 2.0) + "px");
 
           d3.select(this).attr("r", 10);
-          //console.log('mouseover')          
+          //console.log('mouseover')
         })
         .on("mousemove", function(d) {
-         
+
 
         })
         .on("mouseout", function(d) {
@@ -463,7 +465,7 @@ window.onload = function(){
               tooltip.html(tooltipData)
               tooltip.style("top", event.pageY - (tooltip.node().clientHeight + 5) + "px")
               .style("left", event.pageX - (tooltip.node().clientWidth / 2.0) + "px");
-              
+
               var active  = tooltip.active ? false : true,
                 visibility = active ? "visible" : "hidden";
               tooltip.style("visibility", visibility);
@@ -482,7 +484,7 @@ window.onload = function(){
           //.merge(text)
           .text(function (d) { return d});
   }
-  
+
 // });
 
 
