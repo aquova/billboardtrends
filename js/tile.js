@@ -180,27 +180,36 @@ function mainTile(year, raw_data) {
     })
     .on("click", zoom)
 
-    var textLabels = cells.append("p")
+    var textLabels = cells.append("text")
     .attr("class", "label")
     .text(function(d) {
         return d.data.name ? d.data.name : "---"
     })
     .style("font-size", function(d) {
-        var scale = Math.max((d.x1 - d.x0), (d.y1 - d.y0))
+        var scale = Math.max((d.x1 - d.x0), (d.y1 - d.y0), 12)
         return scale + "px"
     })
 
-    var extendedLabels = cells.append("p")
+    var extendedSongs = cells.append("p")
     .attr("class", "label hide")
+    .style("margin-top", "25px")
     .text(function(d) {
         if (d.depth == 3) {
-            var constuctedName = d.data.name + " - " + d.data.songs[0]
+            var songs = d.data.songs[0]
             for (var i = 1; i < d.data.songs.length; i++) {
-                constuctedName += ", " + d.data.songs[i]
+                songs += ", " + d.data.songs[i]
             }
-            constuctedName += " - Peak position: " + d.data.highest
+            return songs
+        }
+        return ""
+    })
 
-            return constuctedName
+    var extendedHighest = cells.append("p")
+    .attr("class", "label hide")
+    .style("margin-top", "50px")
+    .text(function(d) {
+        if (d.depth == 3) {
+            return "Peak Position: " + d.data.highest
         }
         return ""
     })
@@ -247,21 +256,21 @@ function mainTile(year, raw_data) {
         })
         .classed("hide", false)
 
-        // Hide/show extended info if final leaf
-        textLabels.filter(function(d) {
-            return d.depth == 3
-        })
-        .classed("hide", function() {
-            return currentDepth == 3
-        })
-        .style("font-size", function(d) {
+        textLabels.style("font-size", function(d) {
             if (currentDepth != 3) {
-                var scale = Math.max((d.x1 - d.x0), (d.y1 - d.y0))
+                var scale = Math.max((d.x1 - d.x0), (d.y1 - d.y0), 12)
                 return scale + "px"
             }
         })
 
-        extendedLabels.filter(function(d) {
+        extendedSongs.filter(function(d) {
+            return d.depth == 3
+        })
+        .classed("hide", function() {
+            return d.depth != 3
+        })
+
+        extendedHighest.filter(function(d) {
             return d.depth == 3
         })
         .classed("hide", function() {
