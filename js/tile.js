@@ -11,7 +11,9 @@ var tileXscale = d3.scaleLinear().domain([0, tileWidth]).range([0, tileWidth])
 var tileYscale = d3.scaleLinear().domain([0, tileHeight]).range([0, tileHeight])
 var div = d3.select("#tilegraph")
 
-window.onload = function() {
+window.addEventListener('load', tileInit)
+
+function tileInit() {
     var brushSection = d3.select("#tilebrush").append("svg").attr("height", 70).attr("width", "100%")
     // This needs to be made dynamic
     loadedWidth = document.getElementById("tilegraph").clientWidth
@@ -22,7 +24,7 @@ window.onload = function() {
     .on("end", function() {
         var avgSelection = (d3.event.selection[0] + d3.event.selection[1]) / 2
         var new_year = Math.floor(brushScale(avgSelection)).toString()
-        readData(new_year)
+        readTileData(new_year)
     })
 
     var g = brushSection.append("g").attr("class", "brush tileBrush").call(brush)
@@ -42,10 +44,10 @@ window.onload = function() {
     var brushAxis = brushSection.append("g").call(xAxis)
     brushAxis.attr("transform", "translate(0," + 50 + ")").attr("fill", "black")
 
-    readData("2012")
+    readTileData("2012")
 }
 
-function readData(year) {
+function readTileData(year) {
     var filepath = "data/charts/" + year + ".csv"
     d3.csv(filepath, function(data) {
         mainTile(year, data)
@@ -178,27 +180,36 @@ function mainTile(year, raw_data) {
     })
     .on("click", zoom)
 
-    var textLabels = cells.append("p")
+    var textLabels = cells.append("text")
     .attr("class", "label")
     .text(function(d) {
         return d.data.name ? d.data.name : "---"
     })
     .style("font-size", function(d) {
-        var scale = Math.max((d.x1 - d.x0), (d.y1 - d.y0))
+        var scale = Math.max((d.x1 - d.x0), (d.y1 - d.y0), 12)
         return scale + "px"
     })
 
-    var extendedLabels = cells.append("p")
+    var extendedSongs = cells.append("p")
     .attr("class", "label hide")
+    .style("margin-top", "25px")
     .text(function(d) {
         if (d.depth == 3) {
-            var constuctedName = d.data.name + " - " + d.data.songs[0]
+            var songs = d.data.songs[0]
             for (var i = 1; i < d.data.songs.length; i++) {
-                constuctedName += ", " + d.data.songs[i]
+                songs += ", " + d.data.songs[i]
             }
-            constuctedName += " - Peak position: " + d.data.highest
+            return songs
+        }
+        return ""
+    })
 
-            return constuctedName
+    var extendedHighest = cells.append("p")
+    .attr("class", "label hide")
+    .style("margin-top", "50px")
+    .text(function(d) {
+        if (d.depth == 3) {
+            return "Peak Position: " + d.data.highest
         }
         return ""
     })
@@ -245,21 +256,21 @@ function mainTile(year, raw_data) {
         })
         .classed("hide", false)
 
-        // Hide/show extended info if final leaf
-        textLabels.filter(function(d) {
-            return d.depth == 3
-        })
-        .classed("hide", function() {
-            return currentDepth == 3
-        })
-        .style("font-size", function(d) {
+        textLabels.style("font-size", function(d) {
             if (currentDepth != 3) {
-                var scale = Math.max((d.x1 - d.x0), (d.y1 - d.y0))
+                var scale = Math.max((d.x1 - d.x0), (d.y1 - d.y0), 12)
                 return scale + "px"
             }
         })
 
-        extendedLabels.filter(function(d) {
+        extendedSongs.filter(function(d) {
+            return d.depth == 3
+        })
+        .classed("hide", function() {
+            return d.depth != 3
+        })
+
+        extendedHighest.filter(function(d) {
             return d.depth == 3
         })
         .classed("hide", function() {
