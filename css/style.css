@@ -19,6 +19,28 @@ a { text-decoration: none; }
 
 .center { text-align: center; }
 
+#brush-area {
+    margin: auto;
+}
+
+.brush {
+    display: block;
+    margin: auto;
+}
+
+#timeDropdown{
+    display: block;
+    /*margin: auto;*/
+}
+
+#pathToggle{
+    display: block;
+    border-radius: 12px;
+    font-size: 16px;
+    padding: 12px 28px;
+    /*margin: auto;*/
+}
+
 img {
     width: 75%;
     height: auto;
