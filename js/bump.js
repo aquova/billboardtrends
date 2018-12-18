@@ -232,6 +232,7 @@ function bumpInit(){
     d3.csv(filepath, function(data) {
       data.forEach(function(d) {
         //d['chart_date'] = format(d['chart_date']);
+        d['chart_date'] = d['chart_date'].substring(0, 4)+"-"+d['chart_date'].substring(4,6)+"-"+d['chart_date'].substring(6, 8)
         d['class'] = d['artist'].toLowerCase().replace(/ /g, '-').replace(/[0-9]/g, 'a,b,c,d,e,f,g,h,i,j').replace(/[.,\/#!$?%\^&\*;:{}=\-_`~()]/g,'z').replace(/&./g,'and').replace(/'./g,'').replace(/:./g,'-').replace(/\[/g,'_').replace(/\]/g,'_')+d['track'].toLowerCase().replace(/ /g, '-').replace(/[.,\/#!$?%\^&\*;:{}=\-_`~()]/g,'z').replace(/&./g,'and').replace(/'./g,'').replace(/:./g,'-').replace(/\[/g,'_').replace(/\]/g,'_');
         })
 
