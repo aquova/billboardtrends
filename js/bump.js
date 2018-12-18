@@ -408,7 +408,7 @@ function bumpInit(){
           //return d['artist']+" - "+d['track']}
           //console.log(d['chart_date'])
           if((d['artist']+" - "+d['track']).length > 27)
-                  return (d['artist']+" - "+d['track']).substring(0,27)+'...';
+                  return (d['artist']+" - "+d['track']).substring(0,20)+'...';
                 else
                     return d['artist']+" - "+d['track'];}
       })
