@@ -5,7 +5,6 @@
 const tileWidth = 100
 const tileHeight = 100
 const tileScale = d3.scaleOrdinal().range(d3.schemeCategory20c)
-var loadedWidth
 
 var tileXscale = d3.scaleLinear().domain([0, tileWidth]).range([0, tileWidth])
 var tileYscale = d3.scaleLinear().domain([0, tileHeight]).range([0, tileHeight])
@@ -16,7 +15,7 @@ window.addEventListener('load', tileInit)
 function tileInit() {
     var brushSection = d3.select("#tilebrush").append("svg").attr("height", 70).attr("width", "100%")
     // This needs to be made dynamic
-    loadedWidth = document.getElementById("tilegraph").clientWidth
+    var loadedWidth = $(window).width()
     var brushScale = d3.scaleLinear().domain([0, loadedWidth]).range([1941, 2018])
 
     var brush = d3.brushX()
@@ -42,7 +41,7 @@ function tileInit() {
 
     var xAxis = d3.axisBottom(visScale).tickFormat(d3.format("d"))
     var brushAxis = brushSection.append("g").call(xAxis)
-    brushAxis.attr("transform", "translate(0," + 50 + ")").attr("fill", "black")
+    brushAxis.attr("transform", "translate(0," + 50 + ")")
 
     readTileData("2012")
 }

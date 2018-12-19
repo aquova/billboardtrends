@@ -172,12 +172,11 @@ img {
 
 .up {
     width: 62px;
-    background-color: red;
     cursor: pointer;
 }
 
 .up:hover {
-    background-color: darkred;
+    background-color: #ccc;
 }
 
 #tilegraph {
@@ -193,7 +192,7 @@ img {
 }
 
 path {
-  fill: #DD0000;
+  /* fill: #DD0000; */
   stroke: #000000;
 }
 
