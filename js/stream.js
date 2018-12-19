@@ -1,16 +1,16 @@
 // Code for the Stream graph, showing long-term changes in genre popularity
 
-var margin = {
-    top: 10,
-    right: 30,
-    bottom: 30,
-    left: 10
+var emargin = {
+    top: 20,
+    right: 40,
+    bottom: 20,
+    left: 20
 }
 
 var colorScale = d3.scaleOrdinal().range(d3.schemeCategory20c);
 
-var widthy = $(window).width() - margin.left - margin.right;
-var heighty = 800 - margin.top - margin.bottom;
+var widthy = $(window).width() - emargin.left - emargin.right;
+var heighty = 800 - emargin.top - emargin.bottom;
 var dataset = [];
 var percDataset;
 var genreset = [];
@@ -112,17 +112,17 @@ function createPercDataset(dataset) {
 
 function constructStream() {
 
-    widthy = $(window).width() - margin.left - margin.right;
+    widthy = $(window).width() - emargin.left - emargin.right;
 
     // Create scales
     var format = d3.timeParse("%Y%m%d");
     var xScale = d3.scaleLinear()
         .domain(d3.extent(percDataset, function(d) { return +d['year']; }))
-        .range([0, widthy - 2*margin.left - 2*margin.right]);
+        .range([0, widthy - emargin.left - emargin.right]);
 
 
     var yScale = d3.scaleLinear()
-        .range([0, heighty - 200]);
+        .range([0, heighty - 250]);
 
     var xAxis = d3.axisBottom(xScale).tickFormat(d3.format("d"));
     var yAxis = d3.axisLeft(yScale);
@@ -143,7 +143,7 @@ function constructStream() {
         .attr("width", widthy)
         .attr("height", heighty);
     var pathg = svg.append("g")
-        .attr("transform", "translate(" + margin.left + "," + ((heighty - 130)/2 + 130) + ")");
+        .attr("transform", "translate(" + emargin.left + "," + ((heighty - 100)/2 + 100) + ")");
 
     var layers = stack(percDataset);
 
@@ -160,7 +160,10 @@ function constructStream() {
       .attr("d", function(d) { return area(d); })
       .style("fill", function(d, i) { return colorScale(i); })
       .style("stroke", "none")
+      .style("cursor",'pointer')
       .on("mouseover", (d) => { console.log(d.key) });
+
+// HOVER BEHAVIOR
 
     // Tooltip on graph
     if (d3.select('#ethan-tip').size() == 0) {
@@ -170,30 +173,59 @@ function constructStream() {
         var tip = d3.select('#ethan-tip');
     }
     d3.selectAll('.layer').on("mousemove", function(d) {
-        tip.text(d.key)
+        cursor.style('visibility','visible');
+        cursor.attr('x1', event.pageX-60);
+        cursor.attr('x2', event.pageX-60);
+        tip.text(Math.floor(xScale.invert(event.pageX-60))+" "+d.key)
               .style("visibility", "visible")
               .style("top", event.pageY - (1.2*tip.node().clientHeight) + "px")
               .style("left", event.pageX - tip.node().clientWidth/2 + "px");
           });
-    pathg.on('mouseout', function() { tip.style("visibility", "hidden"); } );
+
+
+    d3.selectAll('.layer').on("click", function(d) {
+        $.ajax({
+            url: `https://cors-anywhere.herokuapp.com/https://www.youtube.com/results?search_query=${Math.floor(xScale.invert(event.pageX-60))}+${d.key}`,
+            success: function(resp) {
+                window.open(`https://www.youtube.com/${resp.match(/watch\?v=.*?"/)}`)
+            }
+        });
+
+    });
+
+    // Cursor line on graph
+    var cursor = pathg.append('line')
+        .attr('x1',50)
+        .attr('x2',50)
+        .attr('y1',-1*(heighty - 250)/2)
+        .attr('y2',(heighty - 250)/2)
+        .attr('stroke','white')
+        .style('pointer-events','none')
+        .style('visibility','none');
+
+    pathg.on('mouseout', function() { 
+        tip.style("visibility", "hidden"); 
+        cursor.style('visibility','hidden');
+    } );
 
     // Append x axis below paths
     pathAx = pathg.append('g');
     pathAx.call(xAxis);
-    pathAx.attr('transform','translate(0,290)').select('path').style('fill','none');
+    pathAx.attr('transform','translate(0,270)').select('path').style('fill','none');
 
     // Create brush
     var brushScale = d3.scaleLinear();
     var brush = d3.brushX();
+    console.log(emargin);
     var brushg = svg.append("g")
     .attr("class", "brush")
-    .call(brush.extent([[margin.left,margin.top],[widthy - 2*margin.left - 2*margin.right,100 + margin.top]])
+    .call(brush.extent([[emargin.left,emargin.top],[widthy-emargin.right,100 + emargin.top]])
         .on("brush", function() {
 
         // Prevent d3.move from calling the on-brush function
         if (!d3.event.sourceEvent) return;
 
-        brushScale.domain([margin.left, widthy - 2*margin.left - 2*margin.right]);
+        brushScale.domain([emargin.left, widthy - emargin.left - emargin.right]);
         brushScale.range([1941,2018]);
 
         leftYear = brushScale(d3.event.selection[0]);
@@ -216,7 +248,7 @@ function constructStream() {
 
         xScale
         .domain(d3.extent(percDataset.slice(leftYear-1941, rightYear-1941 + 1), function(d) { return +d['year']; }))
-        .range([0, widthy - 2*margin.left - 2*margin.right]);
+        .range([0, widthy - emargin.left - emargin.right]);
 
         pathg.selectAll(".layer")
             .data(layers)
@@ -241,14 +273,14 @@ function constructStream() {
             leftYear = 1941;
             rightYear = 2018;
 
-            brushScale.domain([margin.left, widthy - 2*margin.left - 2*margin.right]);
+            brushScale.domain([emargin.left, widthy - emargin.left - emargin.right]);
             brushScale.range([1941,2018]);
 
             layers = stack(percDataset.slice(leftYear-1941, rightYear-1941));
 
             xScale
             .domain(d3.extent(percDataset.slice(leftYear-1941, rightYear-1941), function(d) { return +d['year']; }))
-            .range([0, widthy - 2*margin.left - 2*margin.right]);
+            .range([0, widthy - emargin.left - emargin.right]);
 
             pathg.selectAll(".layer")
                 .data(layers)
@@ -277,15 +309,22 @@ function constructStream() {
     });
     brushg.select('.overlay')
         .attr('height', 100)
-        .attr('x', margin.left)
-        .attr('y', margin.top)
-        .attr('width', widthy - 2*margin.left - 2*margin.right)
+        .attr('x', emargin.left)
+        .attr('y', emargin.top)
+        .attr('width', widthy - emargin.left - emargin.right)
         .attr('fill', '#ddd');
 
     brushAx = brushg.append('g');
-    brushAx.call(xAxis.ticks((2018-1941)/5));
-    brushAx.attr('transform','translate('+margin.left+','+(margin.top+110)+')')
+
+    // responsive tick intervals
+    if (parseInt(widthy/50) < brushScale.ticks().length) {
+        brushAx.call(xAxis.ticks(parseInt(widthy/50)));
+    } else {
+        brushAx.call(xAxis.ticks((2018-1941)/5));
+    }
+    brushAx.attr('transform','translate('+emargin.left+','+(emargin.top+110)+')')
             .select('path').style('fill','none');
+
 
 }
 
