@@ -173,6 +173,7 @@ function constructStream() {
         var tip = d3.select('#ethan-tip');
     }
     d3.selectAll('.layer').on("mousemove", function(d) {
+        d3.select(event.target).style('opacity','.9');
         cursor.style('visibility','visible');
         cursor.attr('x1', event.pageX-60);
         cursor.attr('x2', event.pageX-60);
@@ -180,7 +181,8 @@ function constructStream() {
               .style("visibility", "visible")
               .style("top", event.pageY - (1.2*tip.node().clientHeight) + "px")
               .style("left", event.pageX - tip.node().clientWidth/2 + "px");
-          });
+    });
+    d3.selectAll('.layer').on("mouseout", function() { d3.select(event.target).style('opacity','1'); });
 
 
     d3.selectAll('.layer').on("click", function(d) {
@@ -307,7 +309,7 @@ function constructStream() {
     });
     $(document).on('click', function(e) {
         if (!$('.brush').is(e.target) && !d3.select(e.target).classed('layer') && 
-            d3.select(brushg).node().select('.selection').attr('width') != null) {
+            d3.select(brushg).node().select('.selection') != null) {
             brush.move(d3.select(brushg.node()), null);
             onDeselect();
         }
