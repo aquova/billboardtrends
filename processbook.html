@@ -13,6 +13,7 @@
         <p>Ethan Jaynes - 443837 - ejaynes@wustl.edu</p>
         <p>Alex Cort - 448170 - alexandrecort@wustl.edu</p>
         <p>Repository: <a href="https://github.com/washuvis/billboardtrends"><span class="underline">https://github.com/washuvis/billboardtrends</span></a></p>
+        <p>Screen Capture: <a href="https://youtu.be/ZCi_aT0Md_8"><span class="underline">https://youtu.be/ZCi_aT0Md_8</span></a></p>
 
         <h2 id="overview">Overview</h2>
 
@@ -24,10 +25,10 @@
         <p> Milestone 2 Update: We initially said we wnted to visualize artists'
         rise and fall over time. In hindsight, this was not an appopriate goal
         considering the visualizations we chose and how we implemented them. We
-        would like to add an addendum to our goals, that is to be able to see 
+        would like to add an addendum to our goals, that is to be able to see
         how albums rise in fall in popularity over a short to medium span of time.
         </p>
-        <p> Final Update: Our visualizations are now all using SONG/TRACK data and NOT album data. This means each visualization draws upon historical Billboard 100 data. Our objective shifted back to its original focus of visualizing track/genre popularity over time.      
+        <p> Final Update: Our visualizations are now all using SONG/TRACK data and NOT album data. This means each visualization draws upon historical Billboard 100 data. Our objective shifted back to its original focus of visualizing track/genre popularity over time.
         </p>
 
         <h2 id="data-source">Data Source</h2>
@@ -56,13 +57,13 @@
         <p>Genre popularity: A streamgraph would be a pretty and simple way to show genre popularity. We likely won’t see large month to month changes in genre popularity, so the streamgraph would probably be on a timescale of 5+ years. Because genre popularity values will likely sum to some constant amount (like 100 for the Top 100), a stacked bar chart could also be used to show the data. Even if the values don’t sum to a fixed value, the bars could be normalized to show that the popularity metrics are out of some relatively fixed whole.</p>
         <p>Billboard Ranking: An alluvial diagram similar to <a href="http://www.brightpointinc.com/2015-nfl-predictions/"><span class="underline">this visualization</span></a> could show ranking changes of songs in the Billboard 100. It could also be used to show genre popularity where the height of a block represents the number of songs of that genre in top 100. Alluvial diagrams are particularly adept at showing data points that flow in and out of the range of data being shown, and this is exactly the case with Billboard songs, artists, and genres. </p>
         <p>Update as of Milestone 2:
-        We are no longer using the Billboard 100 for songs, we are instead using 
+        We are no longer using the Billboard 100 for songs, we are instead using
         the Billboard 200 for albums. We also realized that an alluvial diagram
         is not the best way to visualize the data. An alluvial diagram would lend
         itself more to a broad view of the data, and the tile graph and streamgraph
         are already quite broad. We instead decided to use a bumpchart which provides a more precise view of the data. The bump chart is designed for
-        exploration, not skimming. 
-            
+        exploration, not skimming.
+
         </p>
         <p>Billboard 100 Tree Map: While the streamgraph would show long-term changes in genre popularity, one way to visualize genres on a weekly scale would be to incorporate them into a Tree Map. Songs would be grouped based on primary genre. Each song’s tile may be scaled according its ranking. We may scale song tiles in groups of ten (i.e. songs ranked 1-10 have tiles with 10 pixel sides, songs ranked 11-20 have tiles with 7 pixel sides, etc.). If we can get the data, we would like to add the ability for a user to click on a tile and be taken to the song on a streaming platform.</p>
         <p>Timeline: Allow user to brush over a timeline and adjust the size of the brush to change range captured.</p>
@@ -95,7 +96,7 @@
         <p>A number of changes were then implimented to help mitigate this issue. Firstly, two sliders were used to achieve a more precise control over the selected data; the top most slider would control the year, while the bottom would choose a range of weeks. The visualization was then modified to better accomidate the user's screen width, so all the data could be viewed horizontally at once. An animation was also added for the connecting lines so that users would have an additional visual connections between related data points.</p>
 
         <img src="img/bumpgraph3.png">
-        <p>A key describing the color scale was added to the visualization after 
+        <p>A key describing the color scale was added to the visualization after
         numerous remarks from user studies that the meaning of the node color was
         nearly impossible to figure out. Colors were reversed from using a light color to represent an album which had been in the top 200 for a long time and a dark color representing albums which had not been in the 200 for very long. The new key is light==new and dark==old. A dropdown menu was also added to allow the user to control the speed of the path animation. This is useful when the user wants to quickly move between different timeperiods, or carefully analyze the ranking changes over a multi-week period.
         </p>
