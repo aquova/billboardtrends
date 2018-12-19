@@ -196,6 +196,9 @@ function constructStream() {
             url: `https://cors-anywhere.herokuapp.com/https://www.youtube.com/results?search_query=${Math.floor(xScale.invert(event.pageX-60))}+${query}`,
             success: function(resp) {
                 win.location.href = `https://www.youtube.com/${resp.match(/watch\?v=.*?"/)}`
+            },
+            error: function() {
+                win.close()
             }
         });
 
