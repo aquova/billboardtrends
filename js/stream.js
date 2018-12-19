@@ -184,8 +184,12 @@ function constructStream() {
 
 
     d3.selectAll('.layer').on("click", function(d) {
+        var query = d.key;
+        if (query.includes('/')) {
+            query = d.key.split('/')[Math.round(Math.random())];
+        }
         $.ajax({
-            url: `https://cors-anywhere.herokuapp.com/https://www.youtube.com/results?search_query=${Math.floor(xScale.invert(event.pageX-60))}+${d.key}`,
+            url: `https://cors-anywhere.herokuapp.com/https://www.youtube.com/results?search_query=${Math.floor(xScale.invert(event.pageX-60))}+${query}`,
             success: function(resp) {
                 window.open(`https://www.youtube.com/${resp.match(/watch\?v=.*?"/)}`)
             }
@@ -302,7 +306,8 @@ function constructStream() {
         }
     });
     $(document).on('click', function(e) {
-        if (!$('.brush').is(e.target) && d3.select(brushg).node().select('.selection').attr('width') != null) {
+        if (!$('.brush').is(e.target) && !d3.select(e.target).classed('layer') && 
+            d3.select(brushg).node().select('.selection').attr('width') != null) {
             brush.move(d3.select(brushg.node()), null);
             onDeselect();
         }
