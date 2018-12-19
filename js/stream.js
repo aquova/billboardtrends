@@ -190,10 +190,15 @@ function constructStream() {
         if (query.includes('/')) {
             query = d.key.split('/')[Math.round(Math.random())];
         }
+
+        var win = window.open();
         $.ajax({
             url: `https://cors-anywhere.herokuapp.com/https://www.youtube.com/results?search_query=${Math.floor(xScale.invert(event.pageX-60))}+${query}`,
             success: function(resp) {
-                window.open(`https://www.youtube.com/${resp.match(/watch\?v=.*?"/)}`)
+                win.location.href = `https://www.youtube.com/${resp.match(/watch\?v=.*?"/)}`
+            },
+            error: function() {
+                win.close()
             }
         });
 
